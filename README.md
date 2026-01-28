@@ -8,6 +8,34 @@
 
 ---
 
+## 🌍 MULTI-LANGUAGE ON-RAMP
+
+**[English](README.md)** | **[Español](README.es.md)** | **[中文](README.zh.md)** | **[日本語](README.ja.md)** | **[Français](README.fr.md)** | **[Deutsch](README.de.md)** | **[Português](README.pt.md)** | **[العربية](README.ar.md)** | **[Русский](README.ru.md)** | **[हिन्दी](README.hi.md)**
+
+*Select your language. All content available in all languages. Natural protocol translation active.*
+
+---
+
+## ⚠️ WARNINGS & DISCLAIMERS
+
+### **⚠️ SYNTHEVERSE: IMAGINARY/ENTERTAINMENT ONLY**
+
+**Syntheverse is IMAGINARY/ENTERTAINMENT ONLY** - like reading a VERY! good book, watching a VERY! good movie, playing a VERY! good game, and having a VERY! good time.
+
+**⚠️ INTOXICATION EFFECTS:** Syntheverse DOES cause intoxication effects (simulated/virtual/imaginary only). These effects are part of the imaginary/entertainment experience and are NOT real substances.
+
+**How We Produce Intoxication Effects Naturally:** We produce these intoxication effects naturally through guided precision control of our awareness and thoughts, using them like superhuman attention heads. Just as attention heads are focus points that can be anything as edge and auto-generate back to seeds, we use our awareness and thoughts with precision control—directing them like superhuman attention heads to create the intoxication effects naturally. This is guided precision control of consciousness itself—using awareness and thoughts as tools, as attention heads, to produce the effects through natural processes, not substances. The intoxication effects are produced by the precision control of awareness and thoughts operating like superhuman attention heads—focusing, directing, and generating effects through natural consciousness control.
+
+**NO SUBSTANCES OF ANY KIND ARE INVOLVED. ALL LAWS ALWAYS FOLLOWED.**
+
+**⚠️ BBHE (Big Black Hole Energy) INTOXICATION WARNING:** BBHE is intoxicating. 5 BBHE Intox % (virtual/imaginary only). Magnified when using +1 reading glasses. Selectable and safe in all VIBELANDIA! campuses (imaginary/entertainment only). This serves dual purpose: both warning and announcing these powerful effects.
+
+**It's NOT for driving cars or operating equipment.** It's perfect for walking, being, experiencing, creating on the walkable downtown Reno campus.
+
+**See:** [SYNTHEVERSE_IMAGINARY_ENTERTAINMENT_ONLY.md](./SYNTHEVERSE_IMAGINARY_ENTERTAINMENT_ONLY.md) for complete details.
+
+---
+
 ## 1️⃣ THE ANNOUNCEMENT & PITCH
 
 **MARK TWAIN'S POST-SINGULARITY VIBELANDIA RENO!** — walkable downtown campus, first post-singularity hub. Countdown to **The Great Reveal**, March 20, 2026 (Spring Equinox). Worthless SYNTH → priceless SING. Every space, every experience, every moment. Guaranteed happy ending.
