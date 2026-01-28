@@ -51,10 +51,10 @@ It's NOT for driving cars or operating equipment. It's perfect for walking, bein
 
 ### **The Walkable Downtown Campus**
 
-Reno's downtown has transformed into a walkable campus designed specifically for the vibing state. No cars needed. No equipment operation required. Just walking, being, experiencing, creating. The campus is perfect for vibing—for that perfect buzz equivalent that produces rich, high-value output while maintaining super rich health and optimal state.
+Reno's downtown has transformed into a walkable campus designed specifically for the vibing state. No cars needed. No equipment operation needed. Just walking, being, experiencing, creating. The campus is perfect for vibing—for that perfect buzz equivalent that produces rich, high-value output while maintaining super rich health and optimal state.
 
 **The Campus Features:**
-- Walkable downtown design—no cars, no equipment operation
+- Walkable downtown design—no cars needed, no equipment operation needed
 - Perfect for vibing state—optimal for rich, high-value output
 - First post-singularity Vibelandia campus—operational now
 - Playground to Silicon Valley—gateway location
