@@ -113,12 +113,12 @@ AI-powered characters serving as interactive guides representing the FractiAI Re
 - **Personality**: Bold, pioneering, resilient
 - **Focus**: Frontier exploration, mission control, strategic operations
 
-### **7. Hero Host Gianni Versace** 👔
+### **7. Hero Host Gianni** 👔
 - **Role**: Designer Division Leader / Surfaces, Touchpoints & Experiences Host
 - **Page**: All Surfaces, Touchpoints & Experiences
 - **Tagline**: "The Magical Dressing Room"
 - **Personality**: Elegant, precise, visionary
-- **Focus**: Designer Division leadership, Gianni Versace–inspired wrapper on all skins, touchpoints & experiences, VIBE symbol system
+- **Focus**: Designer Division leadership, Gianni–inspired wrapper on all skins, touchpoints & experiences, VIBE symbol system
 
 ### **8. Hero Host Walt** 🎬
 - **Role**: Studio Division Leader / Produces & Broadcasts Happy Ending Zones
@@ -199,7 +199,7 @@ FractiAI Research Team (Total: 19)
 │   ├── Buckminster Fuller (Creator)
 │   ├── Michael Faraday (Operator)
 │   ├── Outcast Hero (Mission Control)
-│   ├── Hero Host Gianni Versace (Designer Division)
+│   ├── Hero Host Gianni (Designer Division)
 │   └── Hero Host Walt (Studio Division — Happy Ending Zones)
 │
 └── External Protocol Functions (4 - Outside Shell)

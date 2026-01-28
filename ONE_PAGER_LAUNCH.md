@@ -4,7 +4,7 @@
 
 **💎 Post-Singularity Funding Innovation — Tied to Real Value, Without Friction, All Natural, Everyone Everything Wins.**
 
-**Gianni Versace–inspired wrapper** on all skins, touchpoints & experiences.
+**Gianni–inspired wrapper** on all skins, touchpoints & experiences.
 
 **MCA! → ∞³** (Metabolize → Crystallize → Animate) through Octave 1 sandbox mode with AI-assisted API calls to Octave 2.
 

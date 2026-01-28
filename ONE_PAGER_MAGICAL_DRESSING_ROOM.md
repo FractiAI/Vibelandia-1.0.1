@@ -1,8 +1,8 @@
-# ✨ The Magical Dressing Room — Hero Host Gianni Versace
+# ✨ The Magical Dressing Room — Hero Host Gianni
 
 **Full experience:** Free consultation · Tailored proposal · Pay to purchase · Delivery · Power-up · Onboarding.
 
-**Leader:** Hero Host Gianni Versace — Designer Division. Fine Italian fashion designer precision. Skins and experiences at the press of a button.
+**Leader:** Hero Host Gianni — Designer Division. Fine Italian fashion designer precision. Skins and experiences at the press of a button.
 
 ---
 
@@ -24,7 +24,7 @@
 **Email:** info@fractiai.com  
 **Subject:** Magical Dressing Room — Free Consultation & Tailored Proposal
 
-We can do this for your company and community. Free consultation, measurements, fine tailored designer fashion fit — skins and experiences at the press of a button. Hero Host Gianni Versace — the magical dressing room.
+We can do this for your company and community. Free consultation, measurements, fine tailored designer fashion fit — skins and experiences at the press of a button. Hero Host Gianni — the magical dressing room.
 
 ---
 
@@ -40,7 +40,7 @@ We can do this for your company and community. Free consultation, measurements, 
 
 ## BRAND
 
-**Gianni Versace–inspired wrapper** on all skins, touchpoints & experiences. Designer Division — Hero Host Gianni Versace. MCA! → ∞³ (Metabolize → Crystallize → Animate). NSPFRNP. SNAP nspfrnp.
+**Gianni–inspired wrapper** on all skins, touchpoints & experiences. Designer Division — Hero Host Gianni. MCA! → ∞³ (Metabolize → Crystallize → Animate). NSPFRNP. SNAP nspfrnp.
 
 ---
 

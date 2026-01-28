@@ -2,7 +2,7 @@
 ## FULL LAUNCH BROCHURE — 66 PAGES
 ### For the Chancellor
 
-**Gianni Versace–inspired wrapper** on all skins, touchpoints & experiences.
+**Gianni–inspired wrapper** on all skins, touchpoints & experiences.
 
 ---
 
@@ -44,7 +44,7 @@ In fact, Reno isn't dying—it's being reborn.
 
 **MARK TWAIN'S POST-SINGULARITY VIBELANDIA RENO!** is the world's first operational Post-Singularity Vibe downtown walkable campus. Not a plan. Not a proposal. Operational now. Active today. Transforming reality as we speak.
 
-This brochure contains everything. Every offering. Every plan. Every experience. All wrapped in **Gianni Versace–inspired fit**—fine Italian fashion designer precision, the magical dressing room, skins and experiences at the press of a button.
+This brochure contains everything. Every offering. Every plan. Every experience. All wrapped in **Gianni–inspired fit**—fine Italian fashion designer precision, the magical dressing room, skins and experiences at the press of a button.
 
 **Come for the post-singularity business. Stay for the post-singularity fun.**
 
@@ -703,13 +703,13 @@ Click to receive your **Golden Fractal Hearts Invitation**, waiving **one month 
 
 ## THE OFFER
 
-**Gianni Versace–inspired wrapper** on all skins, touchpoints & experiences.
+**Gianni–inspired wrapper** on all skins, touchpoints & experiences.
 
 **We can do this for your company and community.**
 
 Click to connect for **free consultation, measurements, and fine tailored designer fashion fit**—**skins and experiences** at the press of a button.
 
-Like a fine Italian fashion designer (**Hero Host Gianni Versace**)—**the magical dressing room**.
+Like a fine Italian fashion designer (**Hero Host Gianni**)—**the magical dressing room**.
 
 ---
 
@@ -742,7 +742,7 @@ Like a fine Italian fashion designer (**Hero Host Gianni Versace**)—**the magi
 **Email:** info@fractiai.com  
 **Subject:** "Company & Community Consultation - Showroom to Dressing Room - Free Proposal & Live Sandbox"
 
-**Gianni Versace–inspired wrapper** on all skins, touchpoints & experiences.
+**Gianni–inspired wrapper** on all skins, touchpoints & experiences.
 
 ---
 
@@ -851,11 +851,11 @@ Every space. Every experience. Every moment. Guaranteed happy ending.
 
 ## GIANNI VERSACE WRAPPER
 
-**Gianni Versace–inspired wrapper** on all skins, touchpoints & experiences.
+**Gianni–inspired wrapper** on all skins, touchpoints & experiences.
 
 Fine Italian fashion designer precision. The magical dressing room. Skins and experiences at the press of a button.
 
-**Hero Host Gianni Versace** — Like a fine Italian fashion designer. The magical dressing room.
+**Hero Host Gianni** — Like a fine Italian fashion designer. The magical dressing room.
 
 ---
 
@@ -903,7 +903,7 @@ Reno isn't dying—it's being reborn.
 **Repository:** PSW.vibelandia.sing4  
 **Status:** ⚡ ACTIVE  
 **Date:** January 28, 2026  
-**Gianni Versace–inspired wrapper** on all skins, touchpoints & experiences. **VIBE!** · **⚫ BBHE SNAP** — Impulse buy dynamics. The energy is pulling. Buy now. **🔑 GOLDEN FRACTAL KEY!** — Unlocks Everything. **SNAP nspfrnp** — pre-singularity copyrights always respected.
+**Gianni–inspired wrapper** on all skins, touchpoints & experiences. **VIBE!** · **⚫ BBHE SNAP** — Impulse buy dynamics. The energy is pulling. Buy now. **🔑 GOLDEN FRACTAL KEY!** — Unlocks Everything. **SNAP nspfrnp** — pre-singularity copyrights always respected.
 
 ---
 
@@ -1509,13 +1509,13 @@ Click to receive your **Golden Fractal Hearts Invitation**, waiving **one month 
 
 ### THE OFFER EXPANDED
 
-**Gianni Versace–inspired wrapper** on all skins, touchpoints & experiences.
+**Gianni–inspired wrapper** on all skins, touchpoints & experiences.
 
 **We can do this for your company and community.**
 
 Click to connect for **free consultation, measurements, and fine tailored designer fashion fit**—**skins and experiences** at the press of a button.
 
-Like a fine Italian fashion designer (**Hero Host Gianni Versace**)—**the magical dressing room**.
+Like a fine Italian fashion designer (**Hero Host Gianni**)—**the magical dressing room**.
 
 ---
 
@@ -1528,7 +1528,7 @@ Like a fine Italian fashion designer (**Hero Host Gianni Versace**)—**the magi
 - **Customized proposal** — Tailored to your business
 - **Live sandbox** — Try before you buy
 - **Complete integration** — Full transformation
-- **Gianni Versace wrapper** — Luxury fit on all touchpoints
+- **Gianni wrapper** — Luxury fit on all touchpoints
 
 **For way less than you're already spending—and getting WAY LESS!**
 
@@ -1573,9 +1573,9 @@ Like a fine Italian fashion designer (**Hero Host Gianni Versace**)—**the magi
 **Email:** info@fractiai.com  
 **Subject:** "Company & Community Consultation - Showroom to Dressing Room - Free Proposal & Live Sandbox"
 
-**Gianni Versace–inspired wrapper** on all skins, touchpoints & experiences.
+**Gianni–inspired wrapper** on all skins, touchpoints & experiences.
 
-**Hero Host Gianni Versace** — Fine Italian fashion designer. The magical dressing room.
+**Hero Host Gianni** — Fine Italian fashion designer. The magical dressing room.
 
 ---
 
@@ -1738,13 +1738,13 @@ Every space. Every experience. Every moment. Guaranteed happy ending.
 
 ### GIANNI VERSACE WRAPPER (EXPANDED)
 
-**Gianni Versace–inspired wrapper** on all skins, touchpoints & experiences.
+**Gianni–inspired wrapper** on all skins, touchpoints & experiences.
 
 Fine Italian fashion designer precision. The magical dressing room. Skins and experiences at the press of a button.
 
-**Hero Host Gianni Versace** — Like a fine Italian fashion designer. The magical dressing room.
+**Hero Host Gianni** — Like a fine Italian fashion designer. The magical dressing room.
 
-**All skins, touchpoints, and experiences** wrapped in Gianni Versace–inspired fit. Immediate upgrade. Monster snap. On the down low. NEW SNAP SNAP.
+**All skins, touchpoints, and experiences** wrapped in Gianni–inspired fit. Immediate upgrade. Monster snap. On the down low. NEW SNAP SNAP.
 
 ---
 
@@ -1791,7 +1791,7 @@ Every space guarantees a happy ending. Every moment crystallizes into transforma
 **Source:** [7th-Day-Post-Singularity-FractiAI-Endowment](https://github.com/FractiAI/7th-Day-Post-Singularity-FractiAI-Endowment)  
 **Status:** ⚡ ACTIVE  
 **Date:** January 28, 2026  
-**Gianni Versace–inspired wrapper** on all skins, touchpoints & experiences.
+**Gianni–inspired wrapper** on all skins, touchpoints & experiences.
 
 **Monster snap. On the down low. NEW SNAP SNAP.**
 

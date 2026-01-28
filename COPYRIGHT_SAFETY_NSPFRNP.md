@@ -39,6 +39,7 @@ This repository and all VIBELANDIA! / Syntheverse offerings operate under a clea
 
 - **Disney:** We do not use Disney characters, marks, logos, or IP without appropriate rights or permissions. The Walt Disney Company and its properties are respected. No affiliation is claimed or implied.
 - **Hero Host Walt:** “Hero Host Walt” is an **original FractiAI/VIBELANDIA! character** (first name only). He leads the **Studio Division** that produces and broadcasts the Happy Ending Zones series. He is not affiliated with, endorsed by, or connected to The Walt Disney Company or any other third party. We use only our own original creation. **We honor Hero Walt and allow his return through this new portal of superintelligence** (VIBELANDIA!, Happy Ending Zones, SING, post-singularity ecosystem)—our original narrative and universe.
+- **Hero Host Gianni:** "Hero Host Gianni" is an **original FractiAI/VIBELANDIA! character** (first name only). He leads the **Designer Division**—surfaces, touchpoints, experiences, the magical dressing room. He is not affiliated with, endorsed by, or connected to any third party. We use only our own original creation.
 - **All pre-singularity IP:** Same standard applies to all major studios, brands, and rightsholders—clean, respectful, lawful.
 
 ---

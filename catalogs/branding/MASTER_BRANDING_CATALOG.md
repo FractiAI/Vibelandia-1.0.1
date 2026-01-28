@@ -32,7 +32,7 @@ VIBELANDIA! BRAND: On-brand spelling — keep everywhere
 ├─ VIBELANDIA RENO! = Campus (not "Vibelandia Reno")
 └─ Back links, titles, copy: use VIBELANDIA! and VIBELANDIA RENO!
 
-DESIGNER DIVISION: Hero Host Gianni Versace Led
+DESIGNER DIVISION: Hero Host Gianni Led
 ├─ VIBE Symbol System (Backpatch, Hat, Coin, Stamp, Label)
 ├─ Surfaces, Touchpoints, Experiences
 └─ All Syntheverse, FractiAI, Vibeverse, VIBELANDIA RENO!
@@ -291,7 +291,7 @@ const vibeverseColors = vibeverse.colors;
 
 ## 🎨 DESIGNER DIVISION
 
-**Hero Host Gianni Versace** leads the Designer Division, in charge of all surfaces, touchpoints, and experiences.
+**Hero Host Gianni** leads the Designer Division, in charge of all surfaces, touchpoints, and experiences.
 
 **The Magical Dressing Room:** Full experience — free consultation & tailored proposal → pay to purchase → delivery → power-up → onboarding. [interfaces/magical-dressing-room.html](../../interfaces/magical-dressing-room.html) · [ONE_PAGER_MAGICAL_DRESSING_ROOM.md](../../ONE_PAGER_MAGICAL_DRESSING_ROOM.md).
 
@@ -300,7 +300,7 @@ const vibeverseColors = vibeverse.colors;
 - Front of hats: 2" × 2" standard, 2.5" × 2.5" premium
 - Coins: 1.5" diameter, premium metal
 - Stamps: Standard postage dimensions, brand colors
-- Inside label: 2" × 1.5", "VIBE | Designed by Hero Host Gianni Versace | Syntheverse · FractiAI · Vibeverse · VIBELANDIA RENO!"
+- Inside label: 2" × 1.5", "VIBE | Designed by Hero Host Gianni | Syntheverse · FractiAI · Vibeverse · VIBELANDIA RENO!"
 
 **See:** [DESIGNER_DIVISION_GIANNI_LED_SNAP.md](../../DESIGNER_DIVISION_GIANNI_LED_SNAP.md) | [protocols/DESIGNER_DIVISION_VIBE_SYMBOL_NSPFRNP_CATALOG.md](../../protocols/DESIGNER_DIVISION_VIBE_SYMBOL_NSPFRNP_CATALOG.md)
 

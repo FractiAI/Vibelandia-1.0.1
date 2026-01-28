@@ -42,7 +42,7 @@
 
 ### **🛡️ PRE-SINGULARITY COPYRIGHTS & SAFETY — SNAP nspfrnp**
 
-**We always stay safe and respectful to pre-singularity copyrights.** Third-party works, names, brands, and IP from the pre-singularity era are honored; we do not claim or use them without appropriate rights or permissions. Content and experiences are lawful and respectful. **SNAP nspfrnp** — Stay safe and respectful to Pre-Singularity rights; NSPFRNP. Always.
+**We always stay safe and respectful to pre-singularity copyrights.** Third-party works, names, brands, and IP from the pre-singularity era are honored; we do not claim or use them without appropriate rights or permissions. Content and experiences are lawful and respectful. **Hero Host Walt** and **Hero Host Gianni** are original FractiAI/VIBELANDIA! characters (first name only); see full disclaimers in COPYRIGHT_SAFETY. **SNAP nspfrnp** — Stay safe and respectful to Pre-Singularity rights; NSPFRNP. Always.
 
 **See:** [COPYRIGHT_SAFETY_NSPFRNP.md](./COPYRIGHT_SAFETY_NSPFRNP.md).
 
@@ -186,7 +186,7 @@
 
 ## 📋 QUICK LINKS (ALL OFFERINGS)
 
-1. [CHANCELLOR_FULL_LAUNCH_BROCHURE_66_PAGES.md](./CHANCELLOR_FULL_LAUNCH_BROCHURE_66_PAGES.md) — 🎩 **FULL 66-PAGE BROCHURE** (Gianni Versace–inspired — Complete launch with everything)
+1. [CHANCELLOR_FULL_LAUNCH_BROCHURE_66_PAGES.md](./CHANCELLOR_FULL_LAUNCH_BROCHURE_66_PAGES.md) — 🎩 **FULL 66-PAGE BROCHURE** (Gianni–inspired — Complete launch with everything)
 2. [interfaces/happy-ending-zones-catalog.html](./interfaces/happy-ending-zones-catalog.html) — 🎬 **HAPPY ENDING ZONES — SEASON ONE** (Free Product Launch — Daily Reality Series)
 3. [ONE_PAGER_HAPPY_ENDING_ZONES.md](./ONE_PAGER_HAPPY_ENDING_ZONES.md) — 🎬 **HAPPY ENDING ZONES** (One-pager)
 4. [ONE_PAGER_LAUNCH.md](./ONE_PAGER_LAUNCH.md) — **🚀 Full Launch** (Launch Pad Set: series, lottery, WINK!, plans & prices)
@@ -255,7 +255,7 @@
 
 ## ✨ FROM SHOWROOM TO DRESSING ROOM — FOR YOUR COMPANY & COMMUNITY
 
-**Gianni Versace–inspired wrapper** on all skins, touchpoints & experiences. **We can do this for your company and community.** Click to connect for **free consultation, measurements, and fine tailored designer fashion fit**—**skins and experiences** at the press of a button. Like a fine Italian fashion designer (**Hero Host Gianni Versace**)—**the magical dressing room**.
+**Gianni–inspired wrapper** on all skins, touchpoints & experiences. **We can do this for your company and community.** Click to connect for **free consultation, measurements, and fine tailored designer fashion fit**—**skins and experiences** at the press of a button. Like a fine Italian fashion designer (**Hero Host Gianni**)—**the magical dressing room**.
 
 **For way less than you're already spending—and getting WAY LESS!**
 
@@ -273,7 +273,7 @@
 
 **Testing:** `npm test` runs surfaces, touchpoints, and API checks; CI runs on push/PR. See [TESTING.md](./TESTING.md) and [SURFACES_AND_TOUCHPOINTS_TEST_REPORT.md](./SURFACES_AND_TOUCHPOINTS_TEST_REPORT.md).
 
-**Gianni Versace–inspired wrapper:** All skins, touchpoints & experiences. See [GIANNI_VERSACE_WRAPPER_MONSTER_SNAP.md](./GIANNI_VERSACE_WRAPPER_MONSTER_SNAP.md).
+**Gianni–inspired wrapper:** All skins, touchpoints & experiences. See [GIANNI_VERSACE_WRAPPER_MONSTER_SNAP.md](./GIANNI_VERSACE_WRAPPER_MONSTER_SNAP.md).
 
 **🔑 GOLDEN FRACTAL KEY!** — The key that unlocks Syntheverse, Vibeverse, and VIBELANDIA!. Golden Key wallet. All API calls. All experiences. All realms. See [GOLDEN_FRACTAL_KEY_BRAND_SNAP.md](./GOLDEN_FRACTAL_KEY_BRAND_SNAP.md).
 
@@ -298,6 +298,6 @@
 ---
 
 **Repository:** `PSW.vibelandia.sing4` | **Source:** [7th-Day-Post-Singularity-FractiAI-Endowment](https://github.com/FractiAI/7th-Day-Post-Singularity-FractiAI-Endowment)  
-**Status:** ⚡ ACTIVE - MCA! → ∞³ (Metabolize → Crystallize → Animate) through Octave 1 sandbox mode with AI-assisted API calls to Octave 2 - Octave 0 (Seed) + Octave 1 (Edge) operational - Launch Pad (announcement + showroom for all offerings) + one-pagers (campus plans with pricing) - HTML surfaces + Cloud Onramp + npm test - Gianni Versace–inspired wrapper on all skins, touchpoints & experiences (monster snap) - Post-Singularity Funding Innovation tied to real value, friction-free, all natural, everyone everything wins  
+**Status:** ⚡ ACTIVE - MCA! → ∞³ (Metabolize → Crystallize → Animate) through Octave 1 sandbox mode with AI-assisted API calls to Octave 2 - Octave 0 (Seed) + Octave 1 (Edge) operational - Launch Pad (announcement + showroom for all offerings) + one-pagers (campus plans with pricing) - HTML surfaces + Cloud Onramp + npm test - Gianni–inspired wrapper on all skins, touchpoints & experiences (monster snap) - Post-Singularity Funding Innovation tied to real value, friction-free, all natural, everyone everything wins  
 **Date:** January 28, 2026  
 **PSW Naming:** Post-Singularity Web (PSW) foundation layer - `PSW.vibelandia.sing4` indicates SING4 - Superhero emergence, full sensory density, masterful creation/transformation of all universe per NSPFRNP catalog

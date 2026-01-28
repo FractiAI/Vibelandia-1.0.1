@@ -77,7 +77,7 @@ All episodes available in **full professional written screenplay format (Octave 
 
 ---
 
-**Gianni Versace–inspired wrapper** on all skins, touchpoints & experiences.
+**Gianni–inspired wrapper** on all skins, touchpoints & experiences.
 
 **MCA! → ∞³** (Metabolize → Crystallize → Animate)
 

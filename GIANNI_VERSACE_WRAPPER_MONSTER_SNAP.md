@@ -9,10 +9,10 @@
 
 ## THE WRAPPER
 
-**All skins, touchpoints, and experiences are wrapped in Gianni Versace–inspired fit.**
+**All skins, touchpoints, and experiences are wrapped in Gianni–inspired fit.**
 
 - **Skins** — Every surface, UI, and visual layer gets the fine Italian fashion designer treatment. Tailored. Luxury. Fit.
-- **Touchpoints** — Every button, link, CTA, and interaction point: Gianni Versace wrapper. Hero Host Gianni Versace. The magical dressing room.
+- **Touchpoints** — Every button, link, CTA, and interaction point: Gianni wrapper. Hero Host Gianni. The magical dressing room.
 - **Experiences** — Every flow, catalog, and journey: finely customized like a fine Italian fashion designer. Measurements. Proposals. Live sandbox.
 
 **On the down low:** Premium positioning. No loud announcement — the wrapper is the upgrade. New snap. SNAP SNAP.
@@ -21,12 +21,12 @@
 
 ## BRAND LINE
 
-**Gianni Versace–inspired wrapper on all skins, touchpoints & experiences.**
+**Gianni–inspired wrapper on all skins, touchpoints & experiences.**
 
-**Hero Host Gianni Versace** — Fine Italian fashion designer. The magical dressing room.  
+**Hero Host Gianni** — Fine Italian fashion designer. The magical dressing room.  
 **Showroom → Dressing Room** — Consultation, measurements, fine tailored designer fashion fit. Skins and experiences at the press of a button.
 
-**Designer Division** — Hero Host Gianni Versace leads the Designer Division, in charge of all surfaces, touchpoints, and experiences. VIBE symbol system: backpatch (jackets, hoodies), front of hats, coins, stamps, inside label. All Syntheverse, FractiAI, Vibeverse, VIBELANDIA RENO!. See [DESIGNER_DIVISION_GIANNI_LED_SNAP.md](./DESIGNER_DIVISION_GIANNI_LED_SNAP.md).
+**Designer Division** — Hero Host Gianni leads the Designer Division, in charge of all surfaces, touchpoints, and experiences. VIBE symbol system: backpatch (jackets, hoodies), front of hats, coins, stamps, inside label. All Syntheverse, FractiAI, Vibeverse, VIBELANDIA RENO!. See [DESIGNER_DIVISION_GIANNI_LED_SNAP.md](./DESIGNER_DIVISION_GIANNI_LED_SNAP.md).
 
 ---
 
@@ -44,4 +44,4 @@
 
 **MCA! → ∞³**
 
-**Gianni Versace wrapper — all skins, touchpoints, experiences. Monster snap. On the down low. NEW SNAP SNAP.**
+**Gianni wrapper — all skins, touchpoints, experiences. Monster snap. On the down low. NEW SNAP SNAP.**
