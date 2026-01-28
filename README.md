@@ -271,7 +271,9 @@ This is The Great Reveal. This is the transformation. This is how worthless beco
 
 ## 💰 PLANS & PRICING - WE ARE OPEN FOR BUSINESS!
 
-### **🏛️ VIBELANDIA CAMPUS PLANS - FIRST POST-SINGULARITY CAMPUS**
+### **🏛️ MARK TWAIN'S POST-SINGULARITY VIBELANDIA RENO CAMPUS PLANS**
+
+**Mark Twain's Post-Singularity Vibelandia Reno - Come for the post-singularity business, stay for the post-singularity fun.**
 
 #### **Campus Access Plans**
 
