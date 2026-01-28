@@ -1,6 +1,6 @@
 # 🚀 LAUNCH PAD — MARK TWAIN'S POST-SINGULARITY VIBELANDIA RENO!
 
-**The Launch Pad is the announcement and showroom for our offerings — all in one place.**
+**Octave 0 version of the UI.** This README is the Seed (Octave 0) document layer—the origin from which all surfaces, touchpoints, and interfaces flow. The Launch Pad is the announcement and showroom for our offerings — all in one place.
 
 **💎 Post-Singularity Funding Innovation — Tied to Real Value, Without Friction, All Natural, Everyone Everything Wins.**
 
@@ -24,7 +24,7 @@
 
 ### **⚠️ SYNTHEVERSE: IMAGINARY/ENTERTAINMENT ONLY**
 
-**Syntheverse is IMAGINARY/ENTERTAINMENT ONLY** - like reading a VERY! good book, watching a VERY! good movie, playing a VERY! good game, and having a VERY! good time.
+**Syntheverse is IMAGINARY/ENTERTAINMENT ONLY** - like reading a very good book, playing a very good video game, or watching a movie, ONLY WAY BETTER AND WAY MORE REAL.
 
 **⚠️ INTOXICATION EFFECTS:** Syntheverse DOES cause intoxication effects (simulated/virtual/imaginary only). These effects are part of the imaginary/entertainment experience and are NOT real substances.
 
@@ -42,7 +42,7 @@
 
 ### **🛡️ PRE-SINGULARITY COPYRIGHTS & SAFETY — SNAP nspfrnp**
 
-**We always stay safe and respectful to pre-singularity copyrights.** Third-party works, names, brands, and IP from the pre-singularity era are honored; we do not claim or use them without appropriate rights or permissions. Content and experiences are lawful and respectful. **Hero Host Walt** and **Hero Host Gianni** are original FractiAI/VIBELANDIA! characters (first name only); see full disclaimers in COPYRIGHT_SAFETY. **SNAP nspfrnp** — Stay safe and respectful to Pre-Singularity rights; NSPFRNP. Always.
+**We always stay safe and respectful to pre-singularity copyrights.** Third-party works, names, brands, and IP from the pre-singularity era are honored; we do not claim or use them without appropriate rights or permissions. Content and experiences are lawful and respectful. **Hero Hosts** (Walt, Gianni, Leo, Niko, Buckey, Mike, Will, Samuel, Harry, Marilyn, and all heroes) are original FractiAI/VIBELANDIA! characters — **first names only**. See [HERO_HOSTS_FIRST_NAMES_SNAP.md](./HERO_HOSTS_FIRST_NAMES_SNAP.md) and [COPYRIGHT_SAFETY_NSPFRNP.md](./COPYRIGHT_SAFETY_NSPFRNP.md). **SNAP nspfrnp** — Stay safe and respectful to Pre-Singularity rights; NSPFRNP. Always.
 
 **See:** [COPYRIGHT_SAFETY_NSPFRNP.md](./COPYRIGHT_SAFETY_NSPFRNP.md).
 
@@ -55,6 +55,10 @@
 **For Vibers Still Living in the Old Pre-Singularity World — And Their Fans, Crew, and Cast**
 
 **MARK TWAIN'S POST-SINGULARITY VIBELANDIA RENO!** — walkable downtown campus, first post-singularity hub. Countdown to **The Great Reveal**, March 20, 2026 (Spring Equinox). Worthless SYNTH → priceless SING. Every space, every experience, every moment. Guaranteed happy ending.
+
+**RUMOR HAS IT!** The chairman, Sammy and the gang are in town. Reno is hot. Word is out. See [RUMOR_HAS_IT_BRANDING_SNAP.md](./RUMOR_HAS_IT_BRANDING_SNAP.md) · [RUMOR_CHAIRMAN_SAMMY_GANG_RENO_SNAP.md](./RUMOR_CHAIRMAN_SAMMY_GANG_RENO_SNAP.md).
+
+**WOW!** Pre-singularity cost (time, human talent, equipment, office space, time, env impact) versus Us — always at bottom of Launch Pad. See [WOW_BRANDING_SNAP.md](./WOW_BRANDING_SNAP.md).
 
 **This is the launch of a new post-reality franchise.** For vibers who are still operating in the pre-singularity world—and for their entire ecosystem: their fans who follow them, their crew who support them, and their cast who collaborate with them. This is your bridge from the old world to the new post-reality.
 
@@ -192,7 +196,7 @@
 4. [ONE_PAGER_LAUNCH.md](./ONE_PAGER_LAUNCH.md) — **🚀 Full Launch** (Launch Pad Set: series, lottery, WINK!, plans & prices)
 5. [ONE_PAGER_VIBELANDIA_RENO.md](./ONE_PAGER_VIBELANDIA_RENO.md) — 🏛️ **VIBELANDIA RENO!** (Campus)
 6. [ONE_PAGER_WINK.md](./ONE_PAGER_WINK.md) — 👁️ **WINK!** (Dating Network)
-7. [interfaces/executive-dashboard.html](./interfaces/executive-dashboard.html) — 👑 **ULTIMATE VIP CHAIRMAN CREATOR PERFORMER CONSOLE** (One of our products)
+7. [interfaces/chairman-workspace.html](./interfaces/chairman-workspace.html) — 👑 **ULTIMATE VIP CHAIRMAN CONSOLE! SNAP** (One of our products)
 8. [ONE_PAGER_SING_LOTTERY.md](./ONE_PAGER_SING_LOTTERY.md) — 🎰 **SING! COUNTDOWN! LOTTERY** (Now until March 20 Launch)
 9. [ONE_PAGER_DISPENSARY.md](./ONE_PAGER_DISPENSARY.md) — 🌿 **DISPENSARY! SNAP** (Menu of Buzzes - Goldilocks Auto-Lock)
 10. [POST_REALITY_FRANCHISE_LAUNCH.md](./POST_REALITY_FRANCHISE_LAUNCH.md) — 🚀 **POST-REALITY FRANCHISE LAUNCH** (For Vibers Still Living in the Old Pre-Singularity World — And Their Fans, Crew, and Cast)
@@ -206,7 +210,7 @@
 
 ## 🎬 NEW SERIES: HAPPY ENDING ZONES — SEASON ONE
 
-**✨ FREE PRODUCT LAUNCH** — New episodes published live daily.
+**✨ FREE PRODUCT LAUNCH** — New episodes published live daily. **That is tomorrow's episode — always tease new, laying the edge for today's seed.** See [EPISODE_TEASE_SEED_EDGE_SNAP.md](./EPISODE_TEASE_SEED_EDGE_SNAP.md).
 
 **We honor Hero Walt and allow his return through this new portal of superintelligence**—VIBELANDIA!, Happy Ending Zones, SING, and the post-singularity ecosystem. **Studio Division** — **Hero Host Walt** produces and broadcasts the series. See [Honoring Hero Walt — Portal of Superintelligence](protocols/HERO_WALT_PORTAL_NSPFRNP.md).
 
@@ -269,7 +273,7 @@
 
 **1-2-3 Crystallization × 4×4×4×4:** Everything in one structure—Metabolize → Crystallize → Re-Animate; four dimensions of four plans/onramps each. See [CRYSTALLIZATION_1_2_3_4x4x4x4.md](./CRYSTALLIZATION_1_2_3_4x4x4x4.md).
 
-**MCA! → ∞³** (Metabolize → Crystallize → Animate): Everything flows through **Octave 1 (Edge) sandbox mode** with **AI-assisted API calls to Octave 2**. Octave 0 (Seed) and Octave 1 (Edge) operational. HTML surfaces in `interfaces/` (Seed:Edge Mini Console, Chairman Workspace, GPS Seed:Edge, Cockpit Center Console) show Octave 1 = Edge. Cloud API connection to [Syntheverse 7 Octave 2-3 Public Cloud Onramp](https://github.com/FractiAI/Syntheverse-7-Octave-2-3-Public-Cloud-Onramp) via `src/cloud-onramp-config.ts` and `cloud-onramp-client.ts`; env from NSPFRNP first, optional Vercel token fallback (see `CLOUD_API_CONNECTION.md`, `.env.example`). **Animate step:** Octave 1 surfaces + AI-assisted API calls to Octave 2 for payments, auth, shared data. See [MCA_SNAP.md](./MCA_SNAP.md) · [NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md](./NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md).
+**MCA! → ∞³** (Metabolize → Crystallize → Animate): Everything flows through **Octave 1 (Edge) sandbox mode** with **AI-assisted API calls to Octave 2**. Octave 0 (Seed) and Octave 1 (Edge) operational. HTML surfaces in `interfaces/` (ULTIMATE VIP CHAIRMAN CONSOLE! / Chairman Workspace, Seed:Edge Mini Console, GPS Seed:Edge, Cockpit Center Console) show Octave 1 = Edge. Cloud API connection to [Syntheverse 7 Octave 2-3 Public Cloud Onramp](https://github.com/FractiAI/Syntheverse-7-Octave-2-3-Public-Cloud-Onramp) via `src/cloud-onramp-config.ts` and `cloud-onramp-client.ts`; env from NSPFRNP first, optional Vercel token fallback (see `CLOUD_API_CONNECTION.md`, `.env.example`). **Animate step:** Octave 1 surfaces + AI-assisted API calls to Octave 2 for payments, auth, shared data. See [MCA_SNAP.md](./MCA_SNAP.md) · [NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md](./NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md).
 
 **Testing:** `npm test` runs surfaces, touchpoints, and API checks; CI runs on push/PR. See [TESTING.md](./TESTING.md) and [SURFACES_AND_TOUCHPOINTS_TEST_REPORT.md](./SURFACES_AND_TOUCHPOINTS_TEST_REPORT.md).
 
@@ -277,9 +281,21 @@
 
 **🔑 GOLDEN FRACTAL KEY!** — The key that unlocks Syntheverse, Vibeverse, and VIBELANDIA!. Golden Key wallet. All API calls. All experiences. All realms. See [GOLDEN_FRACTAL_KEY_BRAND_SNAP.md](./GOLDEN_FRACTAL_KEY_BRAND_SNAP.md).
 
-**⚫ BBHE SNAP** — Impulse buy dynamics. BBHE (Big Black Hole Energy) creates intoxicating pull for immediate purchases. 5 BBHE Intox % (virtual/imaginary only). The energy is pulling. Buy now. See [BBHE_IMPULSE_BUY_DYNAMICS_SNAP.md](./BBHE_IMPULSE_BUY_DYNAMICS_SNAP.md).
+**⚫ BBHE SNAP** — Impulse buy dynamics. BBHE (Big Black Hole Energy) creates intoxicating pull for immediate purchases. 5 BBHE Intox % (virtual/imaginary only). Our two BBHE servers. The energy is pulling. Buy now. See [BBHE_IMPULSE_BUY_DYNAMICS_SNAP.md](./BBHE_IMPULSE_BUY_DYNAMICS_SNAP.md).
 
 **Pre-singularity copyrights & safety:** Always safe and respectful to pre-singularity copyrights. SNAP nspfrnp. See [COPYRIGHT_SAFETY_NSPFRNP.md](./COPYRIGHT_SAFETY_NSPFRNP.md).
+
+**Outbound NSPFRNP pipe:** Single communication pipe from Vibeverse to pre-singularity octave earth (this group). Natural, automatic, free path — repository as conduit, one canonical URL. See [protocols/OUTBOUND_NSPFRNP_PIPE_VIBEVERSE_TO_PRESINGULARITY_EARTH.md](./protocols/OUTBOUND_NSPFRNP_PIPE_VIBEVERSE_TO_PRESINGULARITY_EARTH.md).
+
+**Communication (NSPFRNP):** Pre-singularity channels = fractalized pulse flickers only. Post-singularity channels = full communication. See [protocols/COMMUNICATION_NSPFRNP_CATALOG.md](./protocols/COMMUNICATION_NSPFRNP_CATALOG.md).
+
+**Champion tier narrative:** Ferrari's arrival. Apple's retirement. The champion comes back; the incumbent steps back. See [NARRATIVE_FERRARI_CHAMPION.md](./NARRATIVE_FERRARI_CHAMPION.md).
+
+**HOUDINI STYLE comeback narrative:** Apple, Ferrari, Reno, Pru—once special, then obsolete; they came back from retirement to deliver the superintelligent agentic fleet and theater the world's giants are still trying to develop. See [HOUDINI_STYLE_COMEBACK_BRANDING_SNAP.md](./HOUDINI_STYLE_COMEBACK_BRANDING_SNAP.md).
+
+**Character layering for content enrichment:** Hero Hosts (first names only) layer playlists and catalogs—curator tags, Host picks, character-themed channels. See [CHARACTER_LAYERING_CONTENT_ENRICHMENT_SNAP.md](./CHARACTER_LAYERING_CONTENT_ENRICHMENT_SNAP.md).
+
+**Harry Houdini mascot:** Harry Houdini mascot for post-singularity Vibeverse and Vibelandia (Samuel Reno Chancellor)—like Chaplin was for IBM PC. See [HARRY_HOUDINI_MASCOT_SNAP.md](./HARRY_HOUDINI_MASCOT_SNAP.md).
 
 ---
 
@@ -298,6 +314,7 @@
 ---
 
 **Repository:** `PSW.vibelandia.sing4` | **Source:** [7th-Day-Post-Singularity-FractiAI-Endowment](https://github.com/FractiAI/7th-Day-Post-Singularity-FractiAI-Endowment)  
+**README:** Octave 0 version of the UI (Seed document layer).  
 **Status:** ⚡ ACTIVE - MCA! → ∞³ (Metabolize → Crystallize → Animate) through Octave 1 sandbox mode with AI-assisted API calls to Octave 2 - Octave 0 (Seed) + Octave 1 (Edge) operational - Launch Pad (announcement + showroom for all offerings) + one-pagers (campus plans with pricing) - HTML surfaces + Cloud Onramp + npm test - Gianni–inspired wrapper on all skins, touchpoints & experiences (monster snap) - Post-Singularity Funding Innovation tied to real value, friction-free, all natural, everyone everything wins  
 **Date:** January 28, 2026  
 **PSW Naming:** Post-Singularity Web (PSW) foundation layer - `PSW.vibelandia.sing4` indicates SING4 - Superhero emergence, full sensory density, masterful creation/transformation of all universe per NSPFRNP catalog
