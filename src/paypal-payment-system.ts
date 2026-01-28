@@ -29,14 +29,14 @@ export interface PaymentPlan {
  * Campus × WINK! × SING × Experience
  */
 export const PAYMENT_PLANS: Record<string, PaymentPlan> = {
-  'campus-day': { id: 'campus-day', name: 'Day Pass', description: 'Experience the campus for a day', price: 0, category: 'campus', tier: 1 },
-  'campus-weekly': { id: 'campus-weekly', name: 'Weekly Pass', description: 'Full week campus experience', price: 0, category: 'campus', tier: 2 },
-  'campus-monthly': { id: 'campus-monthly', name: 'Monthly Pass', description: 'Complete campus integration', price: 0, category: 'campus', tier: 3 },
-  'campus-ultimate-vip': { id: 'campus-ultimate-vip', name: 'Ultimate VIP Campus', description: 'Premium campus experience for high-value creators', price: 0, category: 'campus', tier: 4 },
-  'wink-base': { id: 'wink-base', name: 'WINK! Base', description: 'Essential WINK! features for high-value vibers', price: 0, category: 'wink', tier: 1 },
-  'wink-standard': { id: 'wink-standard', name: 'WINK! Standard', description: 'Standard Wink experience, Notes Being', price: 0, category: 'wink', tier: 2 },
-  'wink-premium': { id: 'wink-premium', name: 'WINK! Premium', description: 'Premium profile, magical wardrobe, network', price: 0, category: 'wink', tier: 3 },
-  'wink-4x4-ultimate': { id: 'wink-4x4-ultimate', name: 'WINK! 4×4 Ultimate', description: 'Ultimate tier—everything included', price: 0, category: 'wink', tier: 4 },
+  'campus-day': { id: 'campus-day', name: 'Day Pass', description: 'Experience the campus for a day', price: 199, category: 'campus', tier: 1 },
+  'campus-weekly': { id: 'campus-weekly', name: 'Weekly Pass', description: 'Full week campus experience', price: 1299, category: 'campus', tier: 2 },
+  'campus-monthly': { id: 'campus-monthly', name: 'Monthly Pass', description: 'Complete campus integration', price: 4999, category: 'campus', tier: 3 },
+  'campus-ultimate-vip': { id: 'campus-ultimate-vip', name: 'Ultimate VIP Campus', description: 'Premium campus experience for high-value creators', price: 19999, category: 'campus', tier: 4 },
+  'wink-base': { id: 'wink-base', name: 'WINK! Base', description: 'Essential WINK! features for high-value vibers', price: 99, category: 'wink', tier: 1 },
+  'wink-standard': { id: 'wink-standard', name: 'WINK! Standard', description: 'Standard Wink experience, Notes Being', price: 299, category: 'wink', tier: 2 },
+  'wink-premium': { id: 'wink-premium', name: 'WINK! Premium', description: 'Premium profile, magical wardrobe, network', price: 799, category: 'wink', tier: 3 },
+  'wink-4x4-ultimate': { id: 'wink-4x4-ultimate', name: 'WINK! 4×4 Ultimate', description: 'Ultimate tier—everything included', price: 2999, category: 'wink', tier: 4 },
   'sing-base': { id: 'sing-base', name: 'SING Base Model', description: '~$20K (VW Bug pricing) — entry level', price: 20000, category: 'sing', tier: 1 },
   'sing-members-only': { id: 'sing-members-only', name: 'SING Members Only', description: 'Scaling from base — mid-range', price: 0, category: 'sing', tier: 2 },
   'sing-ultimate-vip': { id: 'sing-ultimate-vip', name: 'SING Ultimate VIP', description: '~$200K+ (top super car) — premium', price: 200000, category: 'sing', tier: 3 },
