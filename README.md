@@ -112,7 +112,7 @@
 |---|----|----|----|
 | **Day Pass** | **Weekly** | **Monthly** | **Ultimate VIP** |
 | [One-pager](./ONE_PAGER_DAY_PASS.md) | [One-pager](./ONE_PAGER_WEEKLY_PASS.md) | [One-pager](./ONE_PAGER_MONTHLY_PASS.md) | [One-pager](./ONE_PAGER_ULTIMATE_VIP.md) |
-| Contact for pricing | Contact for pricing | Contact for pricing | Contact for pricing |
+| $4,999/day | $29,999/week | $99,999/month | $499,999/month |
 
 ### WINK! (4)
 
@@ -120,7 +120,7 @@
 |---|----|----|----|
 | **Base** | **Standard** | **Premium** | **4×4 Ultimate** |
 | Essential WINK! | Standard Wink, Notes Being | Premium profile, magical wardrobe | Everything included |
-| Contact for pricing | Contact for pricing | Contact for pricing | Contact for pricing |
+| $1,999/month | $4,999/month | $19,999/month | $49,999/month |
 
 ### SING (4)
 

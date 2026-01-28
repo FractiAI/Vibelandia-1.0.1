@@ -12,7 +12,7 @@
 
 ## Pricing
 
-**$1,299 per week** — Only real vibers pay premium. Full week access to all campus features.
+**$29,999 per week** — Premium pricing for high-value vibers worldwide. Full week access to all campus features. For top artists, performers, entrepreneurs.
 
 **⚡ [BUY NOW →](./interfaces/payment-checkout.html?plan=campus-weekly)**
 

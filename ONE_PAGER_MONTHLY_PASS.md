@@ -12,7 +12,7 @@
 
 ## Pricing
 
-**$4,999 per month** — Price filters out not-vibers. Complete campus integration with all features.
+**$99,999 per month** — Premium pricing filters for quality. Complete campus integration with all features. For high-value creators, top C's.
 
 **⚡ [BUY NOW →](./interfaces/payment-checkout.html?plan=campus-monthly)**
 

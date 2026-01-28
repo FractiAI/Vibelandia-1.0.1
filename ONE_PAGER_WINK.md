@@ -29,10 +29,10 @@ Top artists, performers, and entrepreneurs—the caliber of Beyoncé, Taylor Swi
 
 | Plan | Price | Features |
 |------|-------|----------|
-| **Base** | **$99/month** | Essential WINK! features |
-| **Standard** | **$299/month** | Standard Wink, Notes Being |
-| **Premium** | **$799/month** | Premium profile, magical wardrobe |
-| **4×4 Ultimate** | **$2,999/month** | Ultimate—everything included |
+| **Base** | **$1,999/month** | Essential WINK! features for high-value vibers |
+| **Standard** | **$4,999/month** | Standard Wink, Notes Being |
+| **Premium** | **$19,999/month** | Premium profile, magical wardrobe |
+| **4×4 Ultimate** | **$49,999/month** | Ultimate—everything included for Ultimate C's |
 
 **⚡ [BUY NOW →](./interfaces/payment-checkout.html?plan=wink-base)** (Base) | [Standard](./interfaces/payment-checkout.html?plan=wink-standard) | [Premium](./interfaces/payment-checkout.html?plan=wink-premium) | [4×4 Ultimate](./interfaces/payment-checkout.html?plan=wink-4x4-ultimate)
 

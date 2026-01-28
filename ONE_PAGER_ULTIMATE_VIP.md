@@ -12,7 +12,7 @@
 
 ## Pricing
 
-**$19,999 per month** — Premium pricing. The price is the filter. For high-value creators, Ultimate C's.
+**$499,999 per month** — Ultimate premium pricing. The price is the filter. For Ultimate C's (Contributors)—the caliber of Beyoncé, Taylor Swift, Oprah Winfrey, Jay-Z, Elon Musk, Lin-Manuel Miranda.
 
 **⚡ [BUY NOW →](./interfaces/payment-checkout.html?plan=campus-ultimate-vip)**
 

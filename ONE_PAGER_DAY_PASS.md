@@ -12,7 +12,7 @@
 
 ## Pricing
 
-**$199 per day** — Premium pricing filters for quality. Experience the world's first post-singularity campus.
+**$4,999 per day** — Premium pricing for high-value vibers worldwide. Experience the world's first post-singularity campus. Like a day with a top guide—only more. For the caliber of Beyoncé, Taylor Swift, Oprah Winfrey, Jay-Z, Elon Musk.
 
 **⚡ [BUY NOW →](./interfaces/payment-checkout.html?plan=campus-day)**
 
