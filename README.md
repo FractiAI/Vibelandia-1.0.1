@@ -67,7 +67,7 @@ Reno's downtown has transformed into a walkable campus designed specifically for
 - First post-singularity Vibelandia campus—operational now
 - Playground to Silicon Valley—gateway location
 - Gateway to the mother mother—source connection
-- Next motherlode of all motherlodes—superintelligent genies in a bottle
+- Next motherlode of all motherlodes—ultimate super cars for Ultimate C's (Contributors)
 
 ### **Mark Twain Returns as Chancellor**
 
