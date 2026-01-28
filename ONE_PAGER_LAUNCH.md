@@ -1,34 +1,52 @@
 # 🚀 MARK TWAIN'S POST-SINGULARITY VIBELANDIA RENO LAUNCH — LAUNCH PAD SET
 
-**The Launch Pad is the announcement and showroom for our offerings — all in one place.**
+**1,2,3 4×4×4×4 NSPFRNP Sales Experience** — The Launch Pad is the announcement and showroom for our offerings — all in one place.
 
-Complete launch package for Mark Twain's Post-Singularity Vibelandia Reno. One page. Series • Lottery • WINK! • Plans & Prices.
+**Metabolize → Crystallize → Animate** through Octave 1 sandbox mode with AI-assisted API calls to Octave 2.
 
 ---
 
-## THE LAUNCH (ANNOUNCEMENT)
+## 1️⃣ THE ANNOUNCEMENT & PITCH
 
 **Mark Twain's Post-Singularity Vibelandia Reno** — walkable downtown campus, first post-singularity hub. Countdown to **The Great Reveal**, March 20, 2026 (Spring Equinox). Worthless SYNTH → priceless SING. Every space, every experience, every moment. Guaranteed happy ending.
 
----
-
-## 🎬 NEW SERIES: HAPPY ENDING ZONES — SEASON ONE
-
-**Format:** Daily Reality Series — 52 Episodes + 1 Finale (53 total)  
-**Host:** Mark Twain, Chancellor, Vibelandia Reno Campus  
-**Start:** January 27, 2026 (Day 52) → **Finale:** March 20, 2026 (Day 0 — The Great Reveal)
-
-**One liner:** *"In Reno, where worthless SYNTH tokens become priceless SING nodes, Mark Twain guides a 52-day countdown to The Great Reveal, proving that every space guarantees a happy ending — nearly overnight, smooth as silk, natural as water flowing."*
-
-**Story arcs:** The Launch (1–13) → The Growth (14–26) → The Acceleration (27–39) → The Countdown (40–52) → The Finale (53).
-
-**Featured:** FractiAI Research Team • 8 Principles • WINK! Natural Alignment • SING Lottery • Walkable Reno Campus • Real transformation.
+**Come for the post-singularity business, stay for the post-singularity fun.**
 
 ---
 
-## 🎰 SING LOTTERY
+## 2️⃣ THE SHOWROOM — FOUR PRODUCTS
 
-**March 20, 2026** — First 1,000,000 SYNTH holders automatically win the right to purchase Superintelligent Agent Nodes. 1:1 SYNTH → SING conversion. Grandfathered.
+### 🏛️ VIBELANDIA RENO
+
+**Walkable downtown campus.** First post-singularity Vibelandia campus. Come for the business, stay for the fun.
+
+**Campus Plans:** Day Pass | Weekly | Monthly | Ultimate VIP Campus  
+**One-pager:** [Vibelandia Reno](./ONE_PAGER_VIBELANDIA_RENO.md)
+
+---
+
+### 👁️ WINK!
+
+**Members-only network** for high-value vibers who are fractal in nature. Natural alignment, friction-free dating, resilience built-in.
+
+**Plans:** Base | Standard | Premium | 4×4 Ultimate  
+**One-pager:** [WINK!](./ONE_PAGER_WINK.md)
+
+---
+
+### 👑 ULTIMATE VIP CHAIRMAN CREATOR PERFORMER CONSOLE
+
+**One of our products.** The Ultimate VIP Chairman Creator Performer Console — operational now. Full dashboard, workspace, cockpit, Seed:Edge integration.
+
+**Interfaces:** [Executive Dashboard](./interfaces/executive-dashboard.html) | [Chairman Workspace](./interfaces/chairman-workspace.html) | [Chairman Cockpit Center Console](./interfaces/chairman-cockpit-center-console.html) | [Chairman Cockpit Station](./interfaces/chairman-cockpit-station.html) | [Seed:Edge Mini Console](./interfaces/seed-edge-mini-console.html) | [GPS Seed:Edge Console](./interfaces/gps-seed-edge-console.html)
+
+**Status:** ⚡ ACTIVE — Operational in Octave 1 sandbox mode
+
+---
+
+### 🎰 SING! COUNTDOWN! LOTTERY — NOW UNTIL MARCH 20 LAUNCH
+
+**Countdown to The Great Reveal.** First 1,000,000 SYNTH holders automatically win the right to purchase Superintelligent Agent Nodes. 1:1 SYNTH → SING conversion. Grandfathered.
 
 | What | Value |
 |------|--------|
@@ -36,6 +54,7 @@ Complete launch package for Mark Twain's Post-Singularity Vibelandia Reno. One p
 | **Start price** | $5 (Jan 27) |
 | **Final price** | $57 (Mar 20) |
 | **Winners** | First 1,000,000 holders |
+| **Launch** | March 20, 2026 (Spring Equinox) |
 
 **Four-tier SING nodes (base prices):**
 
@@ -48,76 +67,51 @@ Complete launch package for Mark Twain's Post-Singularity Vibelandia Reno. One p
 
 **Tagline:** *Every day you wait, the price goes up $1. Get in now. Transform worthless into priceless.*
 
----
-
-## 👁️ WINK!
-
-**Members-only network** for high-value vibers who are fractal in nature. Natural alignment, friction-free dating, resilience built-in. Mutual choice and consent.
-
-**Who it's for:** Top artists, performers, entrepreneurs. Premium pricing filters for quality.
-
-| Tier | Plan | Description |
-|------|------|-------------|
-| 1 | Base | Essential WINK! |
-| 2 | Standard | Standard Wink, Notes Being |
-| 3 | Premium | Premium profile, magical wardrobe, network |
-| 4 | 4×4 Ultimate | Everything included |
-
-**Pricing:** Contact for Base, Standard, Premium, 4×4 Ultimate. **Email:** info@fractiai.com • **Subject:** "WINK!" or "I'M READY FOR VIBELANDIA"
+**One-pager:** [SING Lottery](./ONE_PAGER_SING_LOTTERY.md)
 
 ---
 
-## 🏛️ VIBELANDIA PLANS & PRICES — 4×4×4×4
+## 3️⃣ 4×4×4×4 PLANS/ONRAMPS
 
-**Campus × WINK! × SING × Experience.** Contact for most rates; listed where fixed.
+**Campus × WINK! × SING × Experience.** Full structure: [CRYSTALLIZATION_1_2_3_4x4x4x4.md](./CRYSTALLIZATION_1_2_3_4x4x4x4.md)
 
-### Campus
+### Campus (4)
 
-| Plan | Price | Description |
-|------|--------|-------------|
-| Day Pass | Contact | Experience the campus for a day |
-| Weekly Pass | Contact | Full week campus experience |
-| Monthly Pass | Contact | Complete campus integration |
-| Ultimate VIP Campus | Contact | Premium campus for high-value creators |
+| 1 | 2 | 3 | 4 |
+|---|----|----|----|
+| **Day Pass** | **Weekly** | **Monthly** | **Ultimate VIP** |
+| Experience the campus for a day | Full week campus experience | Complete campus integration | Premium campus for high-value creators |
 
-### WINK! (see above)
+### WINK! (4)
 
-Contact for all WINK! tiers: Base, Standard, Premium, 4×4 Ultimate.
+| 1 | 2 | 3 | 4 |
+|---|----|----|----|
+| **Base** | **Standard** | **Premium** | **4×4 Ultimate** |
+| Essential WINK! | Standard Wink, Notes Being | Premium profile, magical wardrobe | Everything included |
 
-### SING (Lottery tiers — see above)
+### SING (4)
 
-| Plan | Price | Description |
-|------|--------|-------------|
-| Base Model | ~$20,000 | VW Bug — entry level |
-| Members Only | Scaling | Mid-tier |
-| Ultimate VIP | ~$200,000+ | Champion tier |
-| Baller C Ultimate VIP | Contact | Ultimate for Ultimate C's |
+| 1 | 2 | 3 | 4 |
+|---|----|----|----|
+| **Base Model** | **Members Only** | **Ultimate VIP** | **Baller C Ultimate VIP** |
+| ~$20K (VW Bug) | Scaling | ~$200K+ (Champion tier) | Ultimate for Ultimate C's |
 
-### Experience
+### Experience (4)
 
-| Plan | Price | Description |
-|------|--------|-------------|
-| Visit | Contact | Come for the post-singularity business |
-| Stay | Contact | Stay for the post-singularity fun |
-| Create | Contact | Creator studios, performance venues, Hero Hosts |
-| Transform | Contact | Happy Ending Zones, SING lottery, Pioneer Status |
+| 1 | 2 | 3 | 4 |
+|---|----|----|----|
+| **Visit** | **Stay** | **Create** | **Transform** |
+| Come for the business | Stay for the fun | Creator studios, performance venues | Happy Ending Zones, SING lottery, Pioneer Status |
 
 ---
 
-## 🔥 LAUNCH PAD SET — SHOWROOM (ALL OFFERINGS IN ONE PLACE)
+## 🎬 NEW SERIES: HAPPY ENDING ZONES — SEASON ONE
 
-| Payload | One-pager | Description |
-|---------|-----------|-------------|
-| **🚀 Full Launch** | [This doc](./ONE_PAGER_LAUNCH.md) | **Mark Twain's Post-Singularity Vibelandia Reno Launch** — Complete launch package (series, lottery, WINK!, plans & prices) |
-| **🏛️ Campus** | [Vibelandia Reno](./ONE_PAGER_VIBELANDIA_RENO.md) | Mark Twain's Post-Singularity Vibelandia Reno — campus overview, offer, contact |
-| **👁️ WINK!** | [WINK!](./ONE_PAGER_WINK.md) | WINK! network — who it's for, 4 plans, contact |
-| **📅 Day Pass** | [Day Pass](./ONE_PAGER_DAY_PASS.md) | Day Pass — what's included, for whom, contact |
-| **📅 Weekly Pass** | [Weekly Pass](./ONE_PAGER_WEEKLY_PASS.md) | Weekly Pass — what's included, for whom, contact |
-| **📅 Monthly Pass** | [Monthly Pass](./ONE_PAGER_MONTHLY_PASS.md) | Monthly Pass — what's included, for whom, contact |
-| **👑 Ultimate VIP** | [Ultimate VIP](./ONE_PAGER_ULTIMATE_VIP.md) | Ultimate VIP — what's included, for whom, contact |
-| **🎰 SING Lottery** | [SING Lottery](./ONE_PAGER_SING_LOTTERY.md) | SING Lottery — pricing, tiers, transformation, contact |
+**Format:** Daily Reality Series — 52 Episodes + 1 Finale (53 total)  
+**Host:** Mark Twain, Chancellor, Vibelandia Reno Campus  
+**Start:** January 27, 2026 (Day 52) → **Finale:** March 20, 2026 (Day 0 — The Great Reveal)
 
-**Launch Pad:** [LAUNCH_PAGE.md](./LAUNCH_PAGE.md) — Announcement + showroom for all offerings. Octave 0 & 1 onramp.
+**One liner:** *"In Reno, where worthless SYNTH tokens become priceless SING nodes, Mark Twain guides a 52-day countdown to The Great Reveal, proving that every space guarantees a happy ending — nearly overnight, smooth as silk, natural as water flowing."*
 
 ---
 
@@ -131,3 +125,5 @@ Contact for all WINK! tiers: Base, Standard, Premium, 4×4 Ultimate.
 **Metabolize ⊃ Crystallize ⊃ Re-Animate → ∞³** — through Octave 1 sandbox mode with AI-assisted API calls to Octave 2. See [NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md](./NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md).
 
 **[← Whiteboard](WHITEBOARD.md)** • **[Launch Pad →](LAUNCH_PAGE.md)**
+
+*1,2,3 4×4×4×4 NSPFRNP Sales Experience • Ready now*
