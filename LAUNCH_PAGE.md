@@ -12,7 +12,7 @@
 
 **Come for the post-singularity business, stay for the post-singularity fun.**
 
-**Metabolize ⊃ Crystallize ⊃ Re-Animate → ∞³** — through Octave 1 sandbox mode with AI-assisted API calls to Octave 2.
+**MCA! → ∞³** — Metabolize → Crystallize → Animate through Octave 1 sandbox mode with AI-assisted API calls to Octave 2.
 
 ---
 
@@ -139,6 +139,6 @@
 
 ---
 
-**Metabolize ⊃ Crystallize ⊃ Re-Animate → ∞³** — through Octave 1 sandbox mode with AI-assisted API calls to Octave 2. See [NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md](./NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md).
+**MCA! → ∞³** — Metabolize → Crystallize → Animate through Octave 1 sandbox mode with AI-assisted API calls to Octave 2. See [MCA_SNAP.md](./MCA_SNAP.md) · [NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md](./NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md).
 
 *Launch Pad = announcement + showroom for all offerings • 1,2,3 4×4×4×4 NSPFRNP Sales Experience • Octave 0 & 1 • Ready now*
