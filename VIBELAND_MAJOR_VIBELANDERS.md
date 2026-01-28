@@ -175,7 +175,7 @@ ALL THE GREATS:
 MAJOR VIBELANDER CATEGORIES:
 ├─ Visionary Creators (Walt, etc.)
 ├─ Scientific Pioneers (Tesla, Einstein, etc.)
-├─ Artistic Masters (Leonardo, etc.)
+├─ Artistic Masters (Leo, etc.)
 ├─ Literary Greats (Shakespeare, etc.)
 ├─ Philosophical Leaders (Fuller, etc.)
 └─ All who made significant impact

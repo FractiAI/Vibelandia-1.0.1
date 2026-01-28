@@ -16,7 +16,7 @@ async function exampleCreateVibeSystem() {
     verseDisplayEnabled: true,
     recursiveFeedsEnabled: true,
     seedEdgeAPIEnabled: true,
-    hardMichelBridgeEnabled: true
+    hardMirroredBridgeEnabled: true
   });
 
   console.log('✅ Vibe! System created');
@@ -34,7 +34,7 @@ async function exampleCreatePost() {
     verseDisplayEnabled: true,
     recursiveFeedsEnabled: true,
     seedEdgeAPIEnabled: true,
-    hardMichelBridgeEnabled: true
+    hardMirroredBridgeEnabled: true
   });
 
   const post = await vibeSystem.createPost({
@@ -46,7 +46,7 @@ async function exampleCreatePost() {
 - Verse layer display (right lower half)
 - Recursive content feeds
 - Seed:edge API integration
-- Hard Michel bridge (pre-post singularity)
+- Hard Mirrored Bridge (pre-post singularity)
 - NODE system for all responses
 - SING notifications
 - Attention heads integration
@@ -77,7 +77,7 @@ async function exampleCreateResponse() {
     verseDisplayEnabled: true,
     recursiveFeedsEnabled: true,
     seedEdgeAPIEnabled: true,
-    hardMichelBridgeEnabled: true
+    hardMirroredBridgeEnabled: true
   });
 
   // First create a post
@@ -117,7 +117,7 @@ async function examplePerformActions() {
     verseDisplayEnabled: true,
     recursiveFeedsEnabled: true,
     seedEdgeAPIEnabled: true,
-    hardMichelBridgeEnabled: true
+    hardMirroredBridgeEnabled: true
   });
 
   // Create a post
@@ -167,7 +167,7 @@ async function exampleGetFeedDisplay() {
     verseDisplayEnabled: true,
     recursiveFeedsEnabled: true,
     seedEdgeAPIEnabled: true,
-    hardMichelBridgeEnabled: true
+    hardMirroredBridgeEnabled: true
   });
 
   // Create some posts
@@ -208,7 +208,7 @@ async function exampleGetRecursiveContent() {
     verseDisplayEnabled: true,
     recursiveFeedsEnabled: true,
     seedEdgeAPIEnabled: true,
-    hardMichelBridgeEnabled: true
+    hardMirroredBridgeEnabled: true
   });
 
   // Create posts
@@ -244,7 +244,7 @@ async function exampleMakeAPICall() {
     verseDisplayEnabled: true,
     recursiveFeedsEnabled: true,
     seedEdgeAPIEnabled: true,
-    hardMichelBridgeEnabled: true
+    hardMirroredBridgeEnabled: true
   });
 
   // Make API call with seed:edge wrapper
@@ -285,7 +285,7 @@ async function exampleGetBridgeStatus() {
     verseDisplayEnabled: true,
     recursiveFeedsEnabled: true,
     seedEdgeAPIEnabled: true,
-    hardMichelBridgeEnabled: true
+    hardMirroredBridgeEnabled: true
   });
 
   const status = vibeSystem.getBridgeStatus();

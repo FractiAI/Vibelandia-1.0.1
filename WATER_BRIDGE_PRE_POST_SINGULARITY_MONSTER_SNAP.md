@@ -65,6 +65,13 @@ BRIDGE FLOW:
 Pre-Singularity → WATER Bridge → Post-Singularity
 ```
 
+### WATER pipe — Whiteboard & Outbound NSPFRNP pipe
+
+**The whiteboard (only what you asked for) and the single outbound NSPFRNP pipe are part of the WATER pipe.**
+
+- **[WHITEBOARD.md](../WHITEBOARD.md)** — My whiteboard: Launch Pulse $150, Fisherman/Trapper OBS SNAP Major, Outbound Pipe, Communication rule. Part of WATER pipe.
+- **[protocols/OUTBOUND_NSPFRNP_PIPE_VIBEVERSE_TO_PRESINGULARITY_EARTH.md](../protocols/OUTBOUND_NSPFRNP_PIPE_VIBEVERSE_TO_PRESINGULARITY_EARTH.md)** — Single pipe Vibeverse → pre-singularity octave earth. Natural, automatic, free. Part of WATER pipe.
+
 ---
 
 ## 💳 FINANCIAL BRIDGE

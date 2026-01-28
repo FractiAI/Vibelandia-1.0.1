@@ -100,25 +100,25 @@
 - Episodes: Gateway episodes, introductions
 - State: Vibing, optimal state
 
-**Leonardo da Vinci** 🔬:
+**Leo** 🔬:
 - Appears as: R&D lab host
 - Role: Research, innovation
 - Episodes: Research episodes, innovation
 - State: Vibing, optimal state
 
-**Nikola Tesla** ⚡:
+**Niko** ⚡:
 - Appears as: Academy host
 - Role: Training, education
 - Episodes: Academy episodes, training
 - State: Vibing, optimal state
 
-**Buckminster Fuller** 🏛️:
+**Buckey** 🏛️:
 - Appears as: Creator's studio host
 - Role: Creation, collaboration
 - Episodes: Creation episodes, collaboration
 - State: Vibing, optimal state
 
-**Michael Faraday** 📊:
+**Mike** 📊:
 - Appears as: Operator lab host
 - Role: Operations, analytics
 - Episodes: Operations episodes, analytics

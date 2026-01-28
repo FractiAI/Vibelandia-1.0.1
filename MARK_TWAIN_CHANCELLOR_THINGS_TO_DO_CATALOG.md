@@ -43,7 +43,7 @@ CHANCELLOR FEATURES:
 
 ```yaml
 THINGS TO DO CATALOG:
-├─ Source: Chancellor Mark Twain
+├─ Source: Chancellor Samuel
 ├─ Type: Curated recommendations
 ├─ Format: Catalog magazine
 ├─ System: Full system deck
@@ -70,7 +70,7 @@ CATALOG CATEGORIES:
 └─ Status: Active
 
 RECOMMENDATIONS:
-├─ Source: Chancellor Mark Twain
+├─ Source: Chancellor Samuel
 ├─ Type: Curated suggestions
 ├─ Format: Daily bulletin
 ├─ Voice: Mark Twain's voice
@@ -85,7 +85,7 @@ RECOMMENDATIONS:
 
 ```yaml
 DAILY BULLETIN:
-├─ Publisher: Chancellor Mark Twain
+├─ Publisher: Chancellor Samuel
 ├─ Format: Magazine
 ├─ Content: Things to do, recommendations
 ├─ Voice: Mark Twain's voice
@@ -159,7 +159,7 @@ THINGS TO DO (Initial List):
 └─ Status: Active
 
 RECOMMENDATIONS:
-├─ Source: Chancellor Mark Twain
+├─ Source: Chancellor Samuel
 ├─ Type: Curated suggestions
 ├─ Format: Daily bulletin
 ├─ Voice: Mark Twain's voice
@@ -183,7 +183,7 @@ RECOMMENDATIONS:
 
 7. **BBHE Experiences** - Experience BBHE (Big Black Hole Energy) safely with our amplification glasses. Intoxicating, wonderful, natural, safe, and powerful - the new super energy. Dial-in BUZZ!
 
-8. **Hero Host Interactions** - Meet the Hero Hosts - Leonardo, Tesla, Fuller, Faraday, and more. These aren't just AI - they're your guides to post-singularity living and innovation.
+8. **Hero Host Interactions** - Meet the Hero Hosts — Leo, Niko, Buckey, Mike, Marilyn, and more. These aren't just AI - they're your guides to post-singularity living and innovation.
 
 ---
 

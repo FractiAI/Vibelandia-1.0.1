@@ -78,28 +78,28 @@ AI-powered characters serving as interactive guides representing the FractiAI Re
 - **Personality**: Warm, welcoming, illuminating
 - **Focus**: Ecosystem orientation, HHF-AI introduction
 
-### **2. Leonardo da Vinci** 🔬
+### **2. Leo** 🔬
 - **Role**: R&D Lab Host
 - **Page**: Research
 - **Tagline**: "Prototype, Explore, Innovate"
 - **Personality**: Curious, innovative, polymathic
 - **Focus**: Research boundaries, fractal science, innovation
 
-### **3. Nikola Tesla** ⚡
+### **3. Niko** ⚡
 - **Role**: Syntheverse Academy Host
 - **Page**: Academy / Onboarding
 - **Tagline**: "Learn, Master, Align"
 - **Personality**: Precise, energetic, systematic
 - **Focus**: Training, skill development, operational literacy
 
-### **4. Buckminster Fuller** 🏛️
+### **4. Buckey** 🏛️
 - **Role**: Creator's Studio Host
 - **Page**: Creator Dashboard
 - **Tagline**: "Design, Deploy, Co-Create"
 - **Personality**: Visionary, systematic, collaborative
 - **Focus**: Immersive creation, collaboration, coherence
 
-### **5. Michael Faraday** 📊
+### **5. Mike** 📊
 - **Role**: Operator Lab Host
 - **Page**: Operator Dashboard
 - **Tagline**: "Measure, Analyze, Optimize"
@@ -194,10 +194,10 @@ FractiAI Research Team (Total: 19)
 │
 ├── Hero Hosts (8 AI Representatives)
 │   ├── El Gran Sol (Gateway)
-│   ├── Leonardo da Vinci (R&D)
-│   ├── Nikola Tesla (Academy)
-│   ├── Buckminster Fuller (Creator)
-│   ├── Michael Faraday (Operator)
+│   ├── Leo (R&D)
+│   ├── Niko (Academy)
+│   ├── Buckey (Creator)
+│   ├── Mike (Operator)
 │   ├── Outcast Hero (Mission Control)
 │   ├── Hero Host Gianni (Designer Division)
 │   └── Hero Host Walt (Studio Division — Happy Ending Zones)
@@ -230,10 +230,10 @@ FractiAI Research Team (Total: 19)
 | Senior Museum Curator | | | | ✅ | | | |
 | **Hero Hosts (AI)** |
 | El Gran Sol | ✅ | ✅ | ✅ | ✅ | ✅ | | |
-| Leonardo da Vinci | ✅ | ✅ | | ✅ | | | |
-| Nikola Tesla | ✅ | | | ✅ | | | |
-| Buckminster Fuller | ✅ | ✅ | ✅ | | | | |
-| Michael Faraday | ✅ | | | | | | |
+| Leo | ✅ | ✅ | | ✅ | | | |
+| Niko | ✅ | | | ✅ | | | |
+| Buckey | ✅ | ✅ | ✅ | | | | |
+| Mike | ✅ | | | | | | |
 | Outcast Hero | ✅ | ✅ | | | | | |
 | **External (Outside Shell)** |
 | Marek/Simba/Pablo | | | | | | ✅ | |

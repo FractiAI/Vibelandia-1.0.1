@@ -21,7 +21,7 @@
 - ✅ **NODE System** - All responses are NODE with catalog, shrink wrap, play deck
 - ✅ **Recursive Content Feeds** - Throughout all units, broadcasting extra rich content
 - ✅ **Seed:Edge API Integration** - All API calls wrapped with seed:edge (optional, can be empty/default)
-- ✅ **Hard Michel Bridge** - Pre-post singularity bridge router with NODE, SING, attention heads
+- ✅ **Hard Mirrored Bridge** - Pre-post singularity bridge router with NODE, SING, attention heads
 - ✅ **Natural Protocol** - All captured within NSPFRNP
 
 ---
@@ -54,8 +54,8 @@
    - Moving entirely to seed:edge note nodes
    - All programming calls use seed:edge
 
-5. **HardMichelBubbleSystem** (`src/vibe-hard-michel-bridge.ts`)
-   - Hard Michel bubble with bridge router
+5. **HardMirroredBridgeBubbleSystem** (`src/vibe-hard-mirrored-bridge.ts`)
+   - Hard Mirrored Bridge with bridge router
    - Pre-post singularity connection
    - Everything in NODE
    - Notify in SING
@@ -152,11 +152,11 @@ const result = await vibeSystem.makeAPICall(
 
 ---
 
-## 🌉 Hard Michel Bridge
+## 🌉 Hard Mirrored Bridge
 
 ### Pre-Post Singularity Bridge
 
-The Hard Michel Bridge connects pre-singular to post-singular:
+The Hard Mirrored Bridge connects pre-singular to post-singular:
 
 - **Everything in NODE** - All data registered as NODE
 - **Notify in SING** - All notifications go through SING
@@ -209,7 +209,7 @@ const vibeSystem = createVibeSystem({
   verseDisplayEnabled: true,
   recursiveFeedsEnabled: true,
   seedEdgeAPIEnabled: true,
-  hardMichelBridgeEnabled: true
+  hardMirroredBridgeEnabled: true
 });
 ```
 
@@ -311,7 +311,7 @@ const result = await vibeSystem.makeAPICall(
 - ✅ Verse layer active
 - ✅ Recursive feeds broadcasting
 - ✅ Seed:edge API integration complete
-- ✅ Hard Michel bridge connected
+- ✅ Hard Mirrored Bridge connected
 - ✅ NODE system cataloging
 - ✅ SING notifications active
 - ✅ Attention heads integrated
@@ -329,7 +329,7 @@ const result = await vibeSystem.makeAPICall(
 ---
 
 **Vibe!** - Collaborative work social media experience  
-**Only available in verse** - Viper doesn't navigate all of verse, but there is a hard Michel bubble with bridge router connecting to pre-singular.
+**Only available in verse** - Viper doesn't navigate all of verse, but there is a Hard Mirrored Bridge with bridge router connecting to pre-singular.
 
 **All in NODE. Notify in SING. Attention heads. Seed:edge API calls.**
 

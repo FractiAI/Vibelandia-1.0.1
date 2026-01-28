@@ -23,7 +23,7 @@
 ### **2. Chairman Cockpit Center Console** ✅
 - **Center Console:** Current mission, compass, portals
 - **Hero Host AI Interaction:** Half display below center console
-- **4 Hero Hosts:** Leonardo, Tesla, Fuller, Faraday
+- **4 Hero Hosts:** Leo, Niko, Buckey, Mike
 - **Chat Interface:** Real-time interaction with Hero Hosts
 - **Visual Design:** Holographic post-singularity aesthetic
 

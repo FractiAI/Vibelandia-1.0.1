@@ -46,10 +46,10 @@
 #### **Hero Hosts (8 AI Representatives)**
 
 - **El Gran Sol** ☀️ - Gateway Host / Fire Syntheport
-- **Leonardo da Vinci** 🔬 - R&D Lab Host
-- **Nikola Tesla** ⚡ - Syntheverse Academy Host
-- **Buckminster Fuller** 🏛️ - Creator's Studio Host
-- **Michael Faraday** 📊 - Operator Lab Host
+- **Leo** 🔬 - R&D Lab Host
+- **Niko** ⚡ - Syntheverse Academy Host
+- **Buckey** 🏛️ - Creator's Studio Host
+- **Mike** 📊 - Operator Lab Host
 - **Outcast Hero** 🔥🦬 - Mission Control / Frontier Command
 - **Hero Host Gianni** 👔 - Designer Division Leader / Surfaces, Touchpoints & Experiences Host
 - **Hero Host Walt** 🎬 - Studio Division Leader / Produces & Broadcasts Happy Ending Zones

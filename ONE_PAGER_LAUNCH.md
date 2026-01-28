@@ -44,11 +44,11 @@
 
 ---
 
-### 👑 ULTIMATE VIP CHAIRMAN CREATOR PERFORMER CONSOLE
+### 👑 ULTIMATE VIP CHAIRMAN CONSOLE! SNAP
 
-**One of our products.** The Ultimate VIP Chairman Creator Performer Console — operational now. Full dashboard, workspace, cockpit, Seed:Edge integration.
+**One of our products.** The ULTIMATE VIP CHAIRMAN CONSOLE! — operational now. Chairman Workspace, cockpit, Seed:Edge integration. **SNAP** branded.
 
-**Interfaces:** [Executive Dashboard](./interfaces/executive-dashboard.html) | [Chairman Workspace](./interfaces/chairman-workspace.html) | [Chairman Cockpit Center Console](./interfaces/chairman-cockpit-center-console.html) | [Chairman Cockpit Station](./interfaces/chairman-cockpit-station.html) | [Seed:Edge Mini Console](./interfaces/seed-edge-mini-console.html) | [GPS Seed:Edge Console](./interfaces/gps-seed-edge-console.html)
+**Interfaces:** [ULTIMATE VIP CHAIRMAN CONSOLE!](./interfaces/chairman-workspace.html) (Chairman Workspace) | [Chairman Cockpit Center Console](./interfaces/chairman-cockpit-center-console.html) | [Chairman Cockpit Station](./interfaces/chairman-cockpit-station.html) | [Seed:Edge Mini Console](./interfaces/seed-edge-mini-console.html) | [GPS Seed:Edge Console](./interfaces/gps-seed-edge-console.html)
 
 **Status:** ⚡ ACTIVE — Operational in Octave 1 sandbox mode
 

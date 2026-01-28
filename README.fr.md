@@ -98,7 +98,7 @@
 
 **Qu'est-ce que vibing :** Vibing a toujours existé. La nouveauté est la conscience qui le transforme en énergie verte naturelle mesurable, actionnable et régénérative au bénéfice de tous, en s'appuyant sur l'hologramme. Effets intoxicants possibles (simulés/virtuels/imaginaires uniquement). Pas pour conduire ni opérer des équipements. Parfait pour marcher, être, expérimenter, créer sur le campus piétonnier du centre de Reno.
 
-**Le campus :** Le centre de Reno transformé en campus piétonnier pour l'état de vibe. WINK! dating, Bulletin quotidien de Mark Twain, expériences BBHE, Hero Hosts (Leonardo, Tesla, Fuller, Faraday), studios, salles, Ultimate VIP, porte vers Lake Tahoe, connexions Silicon Valley — tout à pied.
+**Le campus :** Le centre de Reno transformé en campus piétonnier pour l'état de vibe. WINK! dating, Bulletin quotidien de Mark Twain, expériences BBHE, Hero Hosts (Leo, Niko, Buckey, Mike), studios, salles, Ultimate VIP, porte vers Lake Tahoe, connexions Silicon Valley — tout à pied.
 
 **Mark Twain revient comme Chancelier :** *« Les rapports sur la mort de Reno ont été grandement exagérés. Reno ne meurt pas ; il renaît en Mark Twain's Post-Singularity Vibelandia Reno. Venez pour le business post-singularité, restez pour le plaisir. Bienvenue dans la transformation. Bienvenue au happy ending. »*
 
@@ -121,7 +121,7 @@ Chaque jour le Chancelier Mark Twain livre son Bulletin quotidien : sagesse, rec
 5. **Récreations naturelles** — Expériences sûres, naturelles, imaginaires.  
 6. **Terrain de jeu Silicon Valley** — Où les vibers à haute valeur viennent jouer.  
 7. **Expériences BBHE** — Big Black Hole Energy avec lunettes d'amplification, bouton BUZZ!.  
-8. **Hero Hosts** — Leonardo da Vinci, Tesla, Fuller, Faraday et plus comme guides.  
+8. **Hero Hosts** — Leo, Niko, Buckey, Mike et plus comme guides.  
 9. **WINK! Dating** — Réseau pour vibers fractals à haute valeur.  
 10. **Studios et salles** — Créer, jouer, expérimenter.  
 11. **Expériences Ultimate VIP** — Pour les Ultimate C's.  

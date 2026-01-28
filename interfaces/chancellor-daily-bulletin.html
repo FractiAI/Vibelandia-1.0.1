@@ -178,6 +178,53 @@
             opacity: 0.8;
             font-style: italic;
         }
+
+        /* RUMOR HAS IT! column — teases next day's episode. See EPISODE_TEASE_SEED_EDGE_SNAP.md */
+        .bulletin-body {
+            display: grid;
+            grid-template-columns: 1fr 280px;
+            gap: 2rem;
+            align-items: start;
+        }
+        @media (max-width: 768px) {
+            .bulletin-body { grid-template-columns: 1fr; }
+        }
+        .rumor-column {
+            background: rgba(30, 144, 255, 0.12);
+            border: 2px solid rgba(30, 144, 255, 0.4);
+            border-radius: 16px;
+            padding: 1.5rem;
+            position: sticky;
+            top: 2rem;
+        }
+        .rumor-column-title {
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: #7ec8e3;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            margin-bottom: 0.75rem;
+            text-align: center;
+        }
+        .rumor-column-subtitle {
+            font-size: 0.75rem;
+            color: #9ed4e8;
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            margin-bottom: 0.5rem;
+        }
+        .rumor-column-episode {
+            font-size: 1rem;
+            font-weight: 600;
+            color: #b8e0f0;
+            margin-bottom: 0.5rem;
+        }
+        .rumor-column-tease {
+            font-size: 0.9rem;
+            color: #d0e8f2;
+            line-height: 1.5;
+            font-style: italic;
+        }
     </style>
 </head>
 <body>
@@ -188,23 +235,35 @@
             <div class="date-stamp" id="dateStamp">January 26, 2026</div>
         </div>
 
-        <div class="section">
-            <div class="chancellor-message" id="chancellorMessage">
-                Well now, friends and neighbors, welcome to Vibelandia! I'm Mark Twain, your humble Chancellor here in beautiful Downtown Reno. Now, I've seen a thing or two in my time, but this post-singularity campus community? This is something special, I tell you. 
+        <div class="bulletin-body">
+            <div class="bulletin-main">
+                <div class="section">
+                    <div class="chancellor-message" id="chancellorMessage">
+                        Well now, friends and neighbors, welcome to Vibelandia! I'm Mark Twain, your humble Chancellor here in beautiful Downtown Reno. Now, I've seen a thing or two in my time, but this post-singularity campus community? This is something special, I tell you. 
 
-                They say seeing is believing, and here at VIBELANDIA!, we've taken that to heart. This isn't just a place - it's an experience. Come see it, experience it, and you'll understand what I mean. We're not just talking about the future - we're living it, right here in Reno.
+                        They say seeing is believing, and here at VIBELANDIA!, we've taken that to heart. This isn't just a place - it's an experience. Come see it, experience it, and you'll understand what I mean. We're not just talking about the future - we're living it, right here in Reno.
 
-                Now, I've put together a few things you might want to do while you're here. These aren't just recommendations - they're invitations to experience something remarkable. So take a look, pick something that catches your fancy, and come see what all the fuss is about.
+                        Now, I've put together a few things you might want to do while you're here. These aren't just recommendations - they're invitations to experience something remarkable. So take a look, pick something that catches your fancy, and come see what all the fuss is about.
 
-                Remember, the reports of post-singularity's death have been greatly exaggerated. It's very much alive, right here in VIBELANDIA!.
+                        Remember, the reports of post-singularity's death have been greatly exaggerated. It's very much alive, right here in VIBELANDIA!.
+                    </div>
+                </div>
+
+                <div class="section">
+                    <div class="section-title">Things to Do</div>
+                    <div class="things-to-do-grid" id="thingsToDoGrid">
+                        <!-- Things to do items will be loaded here -->
+                    </div>
+                </div>
             </div>
-        </div>
 
-        <div class="section">
-            <div class="section-title">Things to Do</div>
-            <div class="things-to-do-grid" id="thingsToDoGrid">
-                <!-- Things to do items will be loaded here -->
-            </div>
+            <!-- RUMOR HAS IT! column — teases next day's episode. See RUMOR_HAS_IT_BRANDING_SNAP.md · EPISODE_TEASE_SEED_EDGE_SNAP.md -->
+            <aside class="rumor-column">
+                <div class="rumor-column-title">RUMOR HAS IT!</div>
+                <div class="rumor-column-subtitle">Tomorrow's Episode</div>
+                <div class="rumor-column-episode" id="rumorTomorrowEpisode">Episode 03 — Day 50</div>
+                <div class="rumor-column-tease" id="rumorTomorrowTease">Coming next. Always tease new — laying the edge for today's seed.</div>
+            </aside>
         </div>
 
         <div class="chancellor-signature">
@@ -220,8 +279,13 @@
     </div>
 
     <script>
-        // Things to Do Catalog (Chancellor Mark Twain's Recommendations)
+        // Things to Do Catalog (Chancellor Samuel's Recommendations)
         const thingsToDo = [
+            {
+                title: "Today's Episode — Episode 02: The Worthless Token",
+                description: "Day 51. January 28, 2026. Alex discovers their $5 SYNTH token is worthless—but Mark Twain reveals that's exactly the point of the happy ending. Watch / read the full screenplay.",
+                tags: ["Happy Ending Zones", "Episode 02", "Today"]
+            },
             {
                 title: "Explore Downtown Reno",
                 description: "Take a stroll through beautiful Downtown Reno, the urban heart of our post-singularity campus. See the sights, feel the energy, experience the magic of this remarkable city.",
@@ -259,7 +323,7 @@
             },
             {
                 title: "Hero Host Interactions",
-                description: "Meet the Hero Hosts - Leonardo, Tesla, Fuller, Faraday, and more. These aren't just AI - they're your guides to post-singularity living and innovation.",
+                description: "Meet the Hero Hosts — Leo, Niko, Buckey, Mike, Marilyn, and more (first names only). These aren't just AI - they're your guides to post-singularity living and innovation.",
                 tags: ["Hero Host", "AI", "Interaction"]
             }
         ];

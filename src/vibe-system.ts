@@ -11,7 +11,7 @@ import { VibeCorePipe } from './vibe-core-pipe';
 import { VibeVerseLayer, createVibeVerseLayer } from './vibe-verse-layer';
 import { VibeRecursiveFeeds, createVibeRecursiveFeeds } from './vibe-recursive-feeds';
 import { SeedEdgeAPILayer, seedEdgeAPILayer } from './seed-edge-api-layer';
-import { HardMichelBubbleSystem, createHardMichelBubble } from './vibe-hard-michel-bridge';
+import { HardMirroredBridgeBubbleSystem, createHardMirroredBridge } from './vibe-hard-mirrored-bridge';
 import { VibeSnapCapture, vibeSnapCapture, VibeSnap } from './vibe-snap-capture';
 
 export interface VibeSystemConfig {
@@ -19,7 +19,7 @@ export interface VibeSystemConfig {
   verseDisplayEnabled: boolean;
   recursiveFeedsEnabled: boolean;
   seedEdgeAPIEnabled: boolean;
-  hardMichelBridgeEnabled: boolean;
+  hardMirroredBridgeEnabled: boolean;
 }
 
 /**
@@ -30,7 +30,7 @@ export class VibeSystem {
   private verseLayer?: VibeVerseLayer;
   private recursiveFeeds?: VibeRecursiveFeeds;
   private apiLayer: SeedEdgeAPILayer;
-  private hardMichelBridge?: HardMichelBubbleSystem;
+  private hardMirroredBridge?: HardMirroredBridgeBubbleSystem;
   private config: VibeSystemConfig;
 
   constructor(config: VibeSystemConfig) {
@@ -48,9 +48,9 @@ export class VibeSystem {
       this.recursiveFeeds = createVibeRecursiveFeeds(this.corePipe);
     }
 
-    // Initialize hard Michel bridge if enabled
-    if (config.hardMichelBridgeEnabled) {
-      this.hardMichelBridge = createHardMichelBubble(this.apiLayer, this.corePipe);
+    // Initialize Hard Mirrored Bridge if enabled
+    if (config.hardMirroredBridgeEnabled) {
+      this.hardMirroredBridge = createHardMirroredBridge(this.apiLayer, this.corePipe);
     }
   }
 
@@ -87,9 +87,9 @@ export class VibeSystem {
       await this.recursiveFeeds.broadcastEnrichedContent();
     }
 
-    // Notify through hard Michel bridge if enabled
-    if (this.hardMichelBridge) {
-      await this.hardMichelBridge.notifySING(vibePost.nodeId, `New post: ${post.title}`);
+    // Notify through Hard Mirrored Bridge if enabled
+    if (this.hardMirroredBridge) {
+      await this.hardMirroredBridge.notifySING(vibePost.nodeId, `New post: ${post.title}`);
     }
 
     return vibePost;
@@ -203,13 +203,13 @@ export class VibeSystem {
   }
 
   /**
-   * Get hard Michel bridge status
+   * Get Hard Mirrored Bridge status
    */
   getBridgeStatus() {
-    if (!this.hardMichelBridge) {
+    if (!this.hardMirroredBridge) {
       return null;
     }
-    return this.hardMichelBridge.getBridgeRouterStatus();
+    return this.hardMirroredBridge.getBridgeRouterStatus();
   }
 
   /**

@@ -70,6 +70,26 @@ BADGE SYSTEM SNAP: Embroidered Silver Dollar Sized Badges
 ├─ All badges: Embroidered chest badges, silver dollar sized
 └─ Brand: BADGE SYSTEM SNAP — All badges include SNAP branding
 
+HOUDINI STYLE COMEBACK BRANDING SNAP: Narrative — Apple, Ferrari, Reno, Pru
+├─ Once special → obsolete → return from retirement → superintelligent agentic fleet & theater
+├─ World's giants still trying to develop; we delivered. HOUDINI STYLE.
+└─ See HOUDINI_STYLE_COMEBACK_BRANDING_SNAP.md
+
+CHARACTER LAYERING CONTENT ENRICHMENT SNAP: Playlists & Catalogs
+├─ Character layering = Hero Hosts (first names only) enrich playlists and catalogs
+├─ Curator tags, Host picks, character-themed channels, character-linked catalog sections
+└─ See CHARACTER_LAYERING_CONTENT_ENRICHMENT_SNAP.md
+
+RUMOR HAS IT! BRANDING SNAP: New Branding
+├─ RUMOR HAS IT! = branded phrase (ALL CAPS + !)
+├─ Chairman, Sammy and the gang. Reno hot. Word out.
+└─ See RUMOR_HAS_IT_BRANDING_SNAP.md
+
+WOW! BRANDING SNAP: Pre-singularity cost vs Us
+├─ WOW! = branded section at bottom of Launch Pad (ALL CAPS + !)
+├─ Pre-singularity cost: time, human talent, equipment, office space, time, env impact versus Us (VIBELANDIA!)
+└─ See WOW_BRANDING_SNAP.md
+
 CONTENT DECKS: 3
 ├─ deck-vibeverse-branding.md/json
 ├─ deck-vibeland-branding.md/json

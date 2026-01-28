@@ -3,8 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chairman Workspace | NSPFRNP Command Center</title>
+    <title>ULTIMATE VIP CHAIRMAN CONSOLE! | Chairman Workspace | NSPFRNP</title>
     <style>
+        /* Gianni-inspired — Designer Division. Fine Italian fashion designer precision. Tailored, luxury, no spin. */
+        :root {
+            --gianni-black: #0a0a0a;
+            --gianni-charcoal: #141414;
+            --gianni-panel: #1a1a1a;
+            --gianni-border: #2a2a2a;
+            --gianni-gold: #c9a227;
+            --gianni-gold-muted: rgba(201, 162, 39, 0.25);
+            --gianni-text: #e8e8e8;
+            --gianni-muted: #888;
+        }
+
         * {
             margin: 0;
             padding: 0;
@@ -12,118 +24,101 @@
         }
 
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%);
-            color: #ffffff;
+            font-family: Georgia, 'Times New Roman', serif;
+            background: var(--gianni-black);
+            color: var(--gianni-text);
             min-height: 100vh;
             overflow-x: hidden;
             position: relative;
-        }
-
-        /* Hardened Mirror Shell Effect */
-        body::before {
-            content: '';
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: 
-                radial-gradient(circle at 20% 50%, rgba(255, 255, 255, 0.03) 0%, transparent 50%),
-                radial-gradient(circle at 80% 50%, rgba(255, 255, 255, 0.03) 0%, transparent 50%);
-            pointer-events: none;
-            z-index: 1;
+            letter-spacing: 0.02em;
         }
 
         .container {
             position: relative;
             z-index: 2;
-            padding: 2rem;
-            max-width: 1800px;
+            padding: 2.5rem;
+            max-width: 1600px;
             margin: 0 auto;
         }
 
         .header {
             text-align: center;
             margin-bottom: 3rem;
-            padding: 2rem;
-            background: rgba(255, 255, 255, 0.05);
-            border-radius: 20px;
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 2.5rem 2rem;
+            background: var(--gianni-panel);
+            border: 1px solid var(--gianni-border);
         }
 
         .header h1 {
-            font-size: 2.5rem;
+            font-size: 1.75rem;
+            font-weight: 400;
             margin-bottom: 0.5rem;
-            background: linear-gradient(135deg, #00d4ff 0%, #ff00ff 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
+            color: var(--gianni-gold);
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
         }
 
-        /* Workspace Layout - 3D Perspective */
+        .header p {
+            font-size: 0.9rem;
+            color: var(--gianni-muted);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
         .workspace-layout {
             display: grid;
             grid-template-columns: 1fr 2fr 1fr;
             grid-template-rows: auto 1fr auto;
-            gap: 2rem;
+            gap: 1.5rem;
             min-height: 80vh;
-            perspective: 1000px;
         }
 
-        /* Base Layer - Map */
         .base-layer {
             grid-column: 1 / -1;
             grid-row: 1;
-            padding: 2rem;
-            background: rgba(0, 0, 0, 0.6);
-            border-radius: 15px;
-            border: 2px solid rgba(0, 212, 255, 0.3);
-            backdrop-filter: blur(10px);
+            padding: 1.5rem 2rem;
+            background: var(--gianni-panel);
+            border: 1px solid var(--gianni-border);
         }
 
         .base-layer h2 {
-            color: #00d4ff;
+            color: var(--gianni-gold);
+            font-size: 1rem;
+            font-weight: 400;
+            letter-spacing: 0.06em;
             margin-bottom: 1rem;
+            text-transform: uppercase;
         }
 
         .map-container {
-            height: 200px;
-            background: rgba(0, 212, 255, 0.1);
-            border-radius: 10px;
+            height: 180px;
+            background: var(--gianni-charcoal);
             display: flex;
             align-items: center;
             justify-content: center;
-            border: 1px solid rgba(0, 212, 255, 0.2);
+            border: 1px solid var(--gianni-border);
         }
 
-        /* Surface Layer - Current Story */
         .surface-layer {
             grid-column: 1 / -1;
             grid-row: 2;
-            padding: 1rem;
-            background: rgba(255, 255, 255, 0.03);
-            border-radius: 10px;
-            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 1rem 1.5rem;
+            background: var(--gianni-panel);
+            border: 1px solid var(--gianni-border);
         }
 
         .current-story {
             padding: 1rem;
-            background: rgba(0, 0, 0, 0.5);
-            border-radius: 10px;
-            min-height: 100px;
+            background: var(--gianni-charcoal);
+            min-height: 80px;
+            border: 1px solid var(--gianni-border);
         }
 
-        /* Main Surface - Center */
         .main-surface {
             grid-column: 2;
             grid-row: 2;
             padding: 2rem;
-            background: rgba(255, 255, 255, 0.05);
-            border-radius: 20px;
-            backdrop-filter: blur(10px);
-            border: 2px solid rgba(0, 212, 255, 0.3);
+            background: var(--gianni-panel);
+            border: 1px solid var(--gianni-border);
             display: flex;
             flex-direction: column;
             gap: 1.5rem;
@@ -131,38 +126,37 @@
 
         .dashboard-section {
             padding: 1.5rem;
-            background: rgba(0, 0, 0, 0.5);
-            border-radius: 10px;
-            border: 1px solid rgba(0, 212, 255, 0.2);
+            background: var(--gianni-charcoal);
+            border: 1px solid var(--gianni-border);
         }
 
         .sacred-objects {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
             gap: 1rem;
             margin-top: 1rem;
         }
 
         .sacred-object {
             padding: 1rem;
-            background: rgba(255, 0, 255, 0.1);
-            border-radius: 10px;
-            border: 1px solid rgba(255, 0, 255, 0.3);
+            background: var(--gianni-charcoal);
+            border: 1px solid var(--gianni-border);
             text-align: center;
         }
 
         .sacred-object h3 {
-            color: #ff00ff;
-            font-size: 0.9rem;
+            color: var(--gianni-muted);
+            font-size: 0.85rem;
+            font-weight: 400;
+            letter-spacing: 0.04em;
             margin-bottom: 0.5rem;
         }
 
         .sacred-object .status {
             font-size: 0.8rem;
-            color: #aaaaaa;
+            color: var(--gianni-muted);
         }
 
-        /* Right Side - Content & Tools */
         .right-side {
             grid-column: 3;
             grid-row: 2;
@@ -171,23 +165,14 @@
             gap: 1rem;
         }
 
-        .playlist-catalog {
-            padding: 1.5rem;
-            background: rgba(0, 0, 0, 0.6);
-            border-radius: 15px;
-            border: 1px solid rgba(0, 212, 255, 0.3);
-            flex: 1;
-        }
-
+        .playlist-catalog,
         .artist-tools {
             padding: 1.5rem;
-            background: rgba(0, 0, 0, 0.6);
-            border-radius: 15px;
-            border: 1px solid rgba(0, 212, 255, 0.3);
+            background: var(--gianni-panel);
+            border: 1px solid var(--gianni-border);
             flex: 1;
         }
 
-        /* Left Side - Tools & Archives */
         .left-side {
             grid-column: 1;
             grid-row: 2;
@@ -196,75 +181,68 @@
             gap: 1rem;
         }
 
-        .working-tools {
-            padding: 1.5rem;
-            background: rgba(0, 0, 0, 0.6);
-            border-radius: 15px;
-            border: 1px solid rgba(0, 212, 255, 0.3);
-        }
-
+        .working-tools,
         .scratch-pad {
             padding: 1.5rem;
-            background: rgba(0, 0, 0, 0.6);
-            border-radius: 15px;
-            border: 1px solid rgba(0, 212, 255, 0.3);
-            flex: 1;
+            background: var(--gianni-panel);
+            border: 1px solid var(--gianni-border);
         }
 
-        /* Edge Device Pad */
+        .scratch-pad { flex: 1; }
+
         .edge-device-pad {
             grid-column: 2;
             grid-row: 3;
             padding: 1.5rem;
-            background: rgba(255, 255, 255, 0.05);
-            border-radius: 15px;
-            border: 2px solid rgba(0, 212, 255, 0.5);
+            background: var(--gianni-panel);
+            border: 1px solid var(--gianni-border);
             text-align: center;
         }
 
         .edge-device-pad h3 {
-            color: #00d4ff;
+            color: var(--gianni-gold);
+            font-size: 1rem;
+            font-weight: 400;
+            letter-spacing: 0.06em;
             margin-bottom: 1rem;
+            text-transform: uppercase;
         }
 
         .dock-status {
             padding: 1rem;
-            background: rgba(0, 212, 255, 0.1);
-            border-radius: 10px;
-            border: 1px solid rgba(0, 212, 255, 0.3);
+            background: var(--gianni-charcoal);
+            border: 1px solid var(--gianni-border);
         }
 
-        /* Back Cave - Art */
         .back-cave {
             grid-column: 1 / -1;
             grid-row: 3;
             padding: 2rem;
-            background: rgba(0, 0, 0, 0.6);
-            border-radius: 15px;
-            border: 2px solid rgba(255, 255, 255, 0.2);
-            margin-top: 2rem;
+            background: var(--gianni-panel);
+            border: 1px solid var(--gianni-border);
+            margin-top: 1.5rem;
         }
 
         .art-gallery {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
             gap: 1rem;
             margin-top: 1rem;
         }
 
         .art-item {
             padding: 1rem;
-            background: rgba(255, 255, 255, 0.05);
-            border-radius: 10px;
-            border: 1px solid rgba(255, 255, 255, 0.1);
+            background: var(--gianni-charcoal);
+            border: 1px solid var(--gianni-border);
             text-align: center;
-            min-height: 150px;
+            min-height: 120px;
             display: flex;
             align-items: center;
             justify-content: center;
+            font-size: 0.9rem;
+            color: var(--gianni-muted);
         }
 
-        /* Upper Areas - Quick Access */
         .upper-areas {
             position: fixed;
             top: 2rem;
@@ -277,20 +255,19 @@
 
         .quick-access {
             padding: 0.5rem 1rem;
-            background: rgba(0, 0, 0, 0.8);
-            border-radius: 10px;
-            border: 1px solid rgba(255, 255, 255, 0.2);
+            background: var(--gianni-panel);
+            border: 1px solid var(--gianni-border);
             cursor: pointer;
-            font-size: 0.9rem;
-            transition: all 0.3s;
+            font-size: 0.85rem;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: var(--gianni-text);
         }
 
         .quick-access:hover {
-            background: rgba(0, 212, 255, 0.2);
-            border-color: rgba(0, 212, 255, 0.5);
+            border-color: var(--gianni-gold-muted);
+            color: var(--gianni-gold);
         }
 
-        /* Cockpit Shells */
         .cockpit-shells {
             position: fixed;
             top: 50%;
@@ -303,96 +280,143 @@
         }
 
         .shell-button {
-            padding: 0.8rem 1.2rem;
-            background: rgba(0, 0, 0, 0.8);
-            border-radius: 10px;
-            border: 2px solid rgba(0, 212, 255, 0.3);
+            padding: 0.75rem 1rem;
+            background: var(--gianni-panel);
+            border: 1px solid var(--gianni-border);
             cursor: pointer;
-            font-size: 0.9rem;
-            transition: all 0.3s;
-            color: #ffffff;
+            font-size: 0.85rem;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: var(--gianni-text);
         }
 
         .shell-button:hover {
-            background: rgba(0, 212, 255, 0.2);
-            border-color: rgba(0, 212, 255, 0.6);
+            border-color: var(--gianni-gold-muted);
+            color: var(--gianni-gold);
         }
 
         .shell-button.active {
-            background: rgba(0, 212, 255, 0.3);
-            border-color: rgba(0, 212, 255, 0.8);
+            border-color: var(--gianni-gold);
+            color: var(--gianni-gold);
         }
 
-        /* Outer Edge Mirror */
-        .outer-edge-mirror {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            pointer-events: none;
-            z-index: 50;
-            background: 
-                radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.02) 0%, transparent 70%);
-            opacity: 0.5;
-        }
-
-        /* Responsive */
         @media (max-width: 1200px) {
             .workspace-layout {
                 grid-template-columns: 1fr;
                 grid-template-rows: auto;
             }
-
-            .main-surface,
-            .right-side,
-            .left-side,
-            .edge-device-pad,
-            .back-cave {
-                grid-column: 1;
-            }
+            .main-surface, .right-side, .left-side, .edge-device-pad, .back-cave { grid-column: 1; }
         }
 
         .section-title {
-            color: #00d4ff;
-            font-size: 1.2rem;
+            color: var(--gianni-gold);
+            font-size: 0.95rem;
+            font-weight: 400;
+            letter-spacing: 0.06em;
             margin-bottom: 1rem;
-            border-bottom: 1px solid rgba(0, 212, 255, 0.3);
             padding-bottom: 0.5rem;
+            border-bottom: 1px solid var(--gianni-border);
+            text-transform: uppercase;
         }
 
         .tool-item {
-            padding: 0.8rem;
-            background: rgba(255, 255, 255, 0.05);
-            border-radius: 8px;
+            padding: 0.75rem 1rem;
+            background: var(--gianni-charcoal);
+            border: 1px solid transparent;
             margin-bottom: 0.5rem;
             cursor: pointer;
-            transition: all 0.3s;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 0.9rem;
         }
 
         .tool-item:hover {
-            background: rgba(0, 212, 255, 0.1);
+            border-color: var(--gianni-border);
         }
 
         .tool-item.active {
-            background: rgba(0, 212, 255, 0.2);
-            border: 1px solid rgba(0, 212, 255, 0.5);
+            border-color: var(--gianni-gold);
+            color: var(--gianni-gold);
+        }
+
+        .gianni-credit {
+            text-align: center;
+            margin-top: 2.5rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid var(--gianni-border);
+            font-size: 0.8rem;
+            color: var(--gianni-muted);
+            letter-spacing: 0.04em;
+        }
+
+        .gianni-credit strong { color: var(--gianni-gold); }
+
+        .comparisons-section {
+            padding: 1.25rem;
+            background: var(--gianni-charcoal);
+            border: 1px solid var(--gianni-border);
+        }
+
+        .comparisons-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.9rem;
+        }
+
+        .comparisons-table th,
+        .comparisons-table td {
+            padding: 0.5rem 0.75rem;
+            text-align: left;
+            border-bottom: 1px solid var(--gianni-border);
+        }
+
+        .comparisons-table th {
+            color: var(--gianni-gold);
+            font-weight: 400;
+            letter-spacing: 0.04em;
+        }
+
+        .comparisons-table td:last-child,
+        .comparisons-table th:last-child { text-align: right; }
+
+        .comparisons-table tr.us-row td { color: var(--gianni-gold); }
+
+        /* Center-console metric panels: our value prominent, competitors small inside same panel */
+        .metric-panel {
+            padding: 1rem 1.25rem;
+            background: var(--gianni-charcoal);
+            border: 1px solid var(--gianni-border);
+            margin-bottom: 0.75rem;
+        }
+        .metric-panel:last-of-type { margin-bottom: 0; }
+        .metric-panel-title {
+            font-size: 0.8rem;
+            color: var(--gianni-muted);
+            letter-spacing: 0.04em;
+            margin-bottom: 0.35rem;
+            text-transform: uppercase;
+        }
+        .metric-our-value {
+            font-size: 1.35rem;
+            color: var(--gianni-gold);
+            font-weight: 400;
+        }
+        .metric-competitors {
+            font-size: 0.7rem;
+            color: var(--gianni-muted);
+            margin-top: 0.4rem;
+            line-height: 1.4;
         }
     </style>
 </head>
 <body>
     <!-- Syntheverse Disclaimer - Upfront at All NSPFRNP Landings -->
     <div style="position: fixed; top: 0; left: 0; right: 0; background: rgba(255, 165, 0, 0.95); border-bottom: 3px solid rgba(255, 165, 0, 1); padding: 14px 20px; text-align: center; z-index: 10000; font-size: 13px; color: #000; font-weight: 700; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);">
-        ⚠️ <strong>SYNTHEVERSE IS IMAGINARY/ENTERTAINMENT ONLY</strong> - Like reading a very good book, playing a video game, or watching a movie. <strong>NO SUBSTANCES OF ANY KIND ARE INVOLVED.</strong> All laws always followed for maximum coherence, amplitude, and rich experiences daily.
+        ⚠️ <strong>SYNTHEVERSE IS IMAGINARY/ENTERTAINMENT ONLY</strong> - Like reading a very good book, playing a very good video game, or watching a movie, ONLY WAY BETTER AND WAY MORE REAL. <strong>NO SUBSTANCES OF ANY KIND ARE INVOLVED.</strong> All laws always followed for maximum coherence, amplitude, and rich experiences daily.
     </div>
-
-    <!-- Outer Edge Mirror (Constant Fixed Point Reflecting) -->
-    <div class="outer-edge-mirror"></div>
 
     <div class="container" style="padding-top: 60px;">
         <div class="header">
-            <h1>👑 CHAIRMAN WORKSPACE</h1>
-            <p>Complete Physical Workspace Architecture | NSPFRNP Command Center</p>
+            <h1>👑 ULTIMATE VIP CHAIRMAN CONSOLE!</h1>
+            <p>Chairman Workspace — Complete Physical Workspace Architecture | NSPFRNP Command Center | SNAP</p>
         </div>
 
         <!-- Cockpit Shells (Selectable/Insertable) -->
@@ -459,7 +483,27 @@
             <div class="main-surface">
                 <div class="dashboard-section">
                     <h3 class="section-title">⚡ Main Dashboard</h3>
+                    <p class="audit-note" style="font-size: 0.75rem; color: var(--gianni-muted); margin-bottom: 0.5rem;">Values are real, accurate, and auditable. Source and last updated below.</p>
                     <div id="main-dashboard-content">Dashboard loading...</div>
+                    <!-- Center-console metrics: our value in panel, competitors small inside same panel -->
+                    <div id="metric-panels" style="margin-top: 1rem;">
+                        <div class="metric-panel" id="metric-panel-output">
+                            <div class="metric-panel-title">Output</div>
+                            <div class="metric-our-value" id="metric-output-our">—</div>
+                            <div class="metric-competitors" id="metric-output-competitors">—</div>
+                        </div>
+                        <div class="metric-panel" id="metric-panel-costburn">
+                            <div class="metric-panel-title">Cost burn per min</div>
+                            <div class="metric-our-value" id="metric-costburn-our">—</div>
+                            <div class="metric-competitors" id="metric-costburn-competitors">—</div>
+                        </div>
+                        <div class="metric-panel" id="metric-panel-locpm">
+                            <div class="metric-panel-title">Lines of code per minute pushed</div>
+                            <div class="metric-our-value" id="metric-locpm-our">—</div>
+                            <div class="metric-competitors" id="metric-locpm-competitors">—</div>
+                        </div>
+                    </div>
+                    <div id="dashboard-audit" class="dashboard-audit" style="margin-top: 1rem; padding: 0.75rem; background: var(--gianni-black); border: 1px solid var(--gianni-border); font-size: 0.8rem; color: var(--gianni-muted);"></div>
                 </div>
 
                 <div class="sacred-objects">
@@ -508,30 +552,51 @@
                 </div>
             </div>
         </div>
+        <p class="gianni-credit">Designed by <strong>Hero Host Gianni</strong> · Designer Division · Gianni–inspired wrapper on all skins, touchpoints &amp; experiences · VIBELANDIA!</p>
     </div>
 
     <script>
-        // Load workspace state
+        // Audit: every value has source + timestamp. Live = from API; Placeholder = local fallback (clearly labeled).
+        function auditPayload(source, live) {
+            return {
+                source: source,
+                lastUpdated: new Date().toISOString(),
+                live: !!live
+            };
+        }
+
         async function loadWorkspace() {
+            const apiUrl = '/api/workspace';
             try {
-                // In production, fetch from API
-                const response = await fetch('/api/workspace');
-                const data = await response.json().catch(() => getMockWorkspaceData());
-                
-                renderWorkspace(data);
-            } catch (error) {
-                console.error('Error loading workspace:', error);
-                renderWorkspace(getMockWorkspaceData());
-            }
+                const response = await fetch(apiUrl, { cache: 'no-store' });
+                if (response.ok) {
+                    const data = await response.json();
+                    data._audit = auditPayload(response.url || apiUrl, true);
+                    renderWorkspace(data);
+                    return;
+                }
+            } catch (e) { /* no API when static */ }
+            const data = getMockWorkspaceData();
+            data._audit = auditPayload('local-fallback (no API)', false);
+            renderWorkspace(data);
         }
 
         function getMockWorkspaceData() {
+            const now = new Date().toISOString();
             return {
-                currentStory: 'Active story in progress...',
+                currentStory: 'Active story in progress. Connect /api/workspace for live narrative.',
                 holographicMap: {
-                    nodes: ['Node 1', 'Node 2', 'Node 3'],
-                    edges: ['Edge 1', 'Edge 2'],
-                    names: ['Name 1', 'Name 2']
+                    nodes: [],
+                    edges: [],
+                    names: [],
+                    _note: 'Counts from API when connected; otherwise zero (auditable).'
+                },
+                dashboard: {
+                    // Real, derivable values only when no API — no fake numbers
+                    pageLoadTime: now,
+                    currentTime: new Date().toISOString(),
+                    valuesFrom: 'local-fallback',
+                    note: 'Connect /api/workspace for live metrics. These are placeholders.'
                 },
                 sacredObjects: {
                     smokePad: { current: 'Sativa liming', quantity: 'micro' },
@@ -539,27 +604,109 @@
                     octaveOne: { active: true, label: 'Edge (Vibeverse)' }
                 },
                 dockedDevice: null,
-                archives: []
+                archives: [],
+                comparisons: getDefaultComparisons()
             };
         }
 
-        function renderWorkspace(data) {
-            // Update current story
-            document.getElementById('current-story-content').textContent = data.currentStory || 'No active story';
+        function getDefaultComparisons() {
+            return {
+                rows: [
+                    { company: 'Google', output: null, costBurnPerMin: null },
+                    { company: 'Apple', output: null, costBurnPerMin: null },
+                    { company: 'Meta', output: null, costBurnPerMin: null },
+                    { company: 'Amazon', output: null, costBurnPerMin: null },
+                    { company: 'Us (VIBELANDIA!)', output: null, costBurnPerMin: null, isUs: true }
+                ],
+                _note: 'Connect /api/workspace for live output and cost burn per minute.'
+            };
+        }
 
-            // Update map
-            const mapEl = document.getElementById('holographic-map');
-            if (data.holographicMap) {
-                mapEl.innerHTML = `
-                    <div>Nodes: ${data.holographicMap.nodes?.length || 0}</div>
-                    <div>Edges: ${data.holographicMap.edges?.length || 0}</div>
-                    <div>Names: ${data.holographicMap.names?.length || 0}</div>
-                `;
+        function formatBigNoDecimals(val) {
+            if (val == null) return '—';
+            if (typeof val === 'number') return String(Math.round(val));
+            if (typeof val === 'string') return val.replace(/\.\d+$/, '');
+            return String(Math.round(Number(val)));
+        }
+
+        function renderMainDashboard(data) {
+            const el = document.getElementById('main-dashboard-content');
+            const audit = data._audit || auditPayload('unknown', false);
+            const isLive = audit.live;
+
+            if (isLive && (data.dashboard || data.currentStory != null || (data.holographicMap && (data.holographicMap.nodes || data.holographicMap.edges)))) {
+                // API data: show real metrics with labels (from data.dashboard or top-level). Big values: no decimals.
+                const d = data.dashboard || {};
+                const nodes = (data.holographicMap && data.holographicMap.nodes) ? data.holographicMap.nodes.length : (d.nodes != null ? Math.round(Number(d.nodes)) : null);
+                const edges = (data.holographicMap && data.holographicMap.edges) ? data.holographicMap.edges.length : (d.edges != null ? Math.round(Number(d.edges)) : null);
+                const valueToday = (d.valueProducedToday != null || d.valueProducedTodayFormatted) ? formatBigNoDecimals(d.valueProducedTodayFormatted != null ? d.valueProducedTodayFormatted : d.valueProducedToday) : null;
+                el.innerHTML = '<table style="width:100%; border-collapse:collapse; font-size:0.9rem;">' +
+                    (valueToday != null ? '<tr><td style="padding:0.25rem 0; border-bottom:1px solid #333;">Value produced today</td><td style="text-align:right;">' + valueToday + '</td></tr>' : '') +
+                    '<tr><td style="padding:0.25rem 0; border-bottom:1px solid #333;">Current story</td><td style="text-align:right;">' + (d.currentStory != null ? d.currentStory : (data.currentStory || '—')) + '</td></tr>' +
+                    (nodes != null ? '<tr><td style="padding:0.25rem 0; border-bottom:1px solid #333;">Nodes</td><td style="text-align:right;">' + nodes + '</td></tr>' : '') +
+                    (edges != null ? '<tr><td style="padding:0.25rem 0; border-bottom:1px solid #333;">Edges</td><td style="text-align:right;">' + edges + '</td></tr>' : '') +
+                    '</table>';
+            } else {
+                // Placeholder: only real, auditable values (time, source)
+                const d = data.dashboard || {};
+                el.innerHTML = '<table style="width:100%; border-collapse:collapse; font-size:0.9rem;">' +
+                    '<tr><td style="padding:0.25rem 0; border-bottom:1px solid #333;">Page load (UTC)</td><td style="text-align:right;">' + (d.pageLoadTime || new Date().toISOString()) + '</td></tr>' +
+                    '<tr><td style="padding:0.25rem 0; border-bottom:1px solid #333;">Last refresh (UTC)</td><td style="text-align:right;">' + audit.lastUpdated + '</td></tr>' +
+                    '<tr><td style="padding:0.25rem 0; border-bottom:1px solid #333;">Value produced today</td><td style="text-align:right;">—</td></tr>' +
+                    '<tr><td style="padding:0.25rem 0; border-bottom:1px solid #333;">Current story</td><td style="text-align:right;">—</td></tr>' +
+                    '<tr><td colspan="2" style="padding:0.5rem 0 0; font-size:0.8rem; color:#888;">Connect /api/workspace for live, auditable metrics.</td></tr>' +
+                    '</table>';
             }
 
-            // Update dock status
+            document.getElementById('dashboard-audit').innerHTML =
+                '<strong>Audit</strong><br>' +
+                'Data source: ' + audit.source + '<br>' +
+                'Last updated: ' + audit.lastUpdated + '<br>' +
+                'Values: ' + (audit.live ? 'Live (from API)' : 'Placeholder (demo — connect API for live)') +
+                (data.comparisons && data.comparisons._note ? '<br>' + data.comparisons._note : '');
+
+            renderMetricPanels(data);
+        }
+
+        function renderMetricPanels(data) {
+            const comp = data.comparisons || getDefaultComparisons();
+            const rows = comp.rows || getDefaultComparisons().rows;
+            const usRow = rows.find(function (r) { return r.isUs; });
+            const others = rows.filter(function (r) { return !r.isUs; });
+
+            const ourOutput = usRow && usRow.output != null ? formatBigNoDecimals(usRow.output) : '—';
+            const ourBurn = usRow && usRow.costBurnPerMin != null ? formatBigNoDecimals(usRow.costBurnPerMin) : '—';
+            const ourLocpm = usRow && usRow.linesOfCodePerMinPushed != null ? formatBigNoDecimals(usRow.linesOfCodePerMinPushed) : '—';
+            const othersOutput = others.map(function (r) { return (r.company || '—') + ' ' + (r.output != null ? formatBigNoDecimals(r.output) : '—'); }).join(' · ');
+            const othersBurn = others.map(function (r) { return (r.company || '—') + ' ' + (r.costBurnPerMin != null ? formatBigNoDecimals(r.costBurnPerMin) : '—'); }).join(' · ');
+            const othersLocpm = others.map(function (r) { return (r.company || '—') + ' ' + (r.linesOfCodePerMinPushed != null ? formatBigNoDecimals(r.linesOfCodePerMinPushed) : '—'); }).join(' · ');
+
+            document.getElementById('metric-output-our').textContent = ourOutput;
+            document.getElementById('metric-output-competitors').textContent = othersOutput || '—';
+            document.getElementById('metric-costburn-our').textContent = ourBurn;
+            document.getElementById('metric-costburn-competitors').textContent = othersBurn || '—';
+            document.getElementById('metric-locpm-our').textContent = ourLocpm;
+            document.getElementById('metric-locpm-competitors').textContent = othersLocpm || '—';
+        }
+
+        function renderWorkspace(data) {
+            const audit = data._audit || auditPayload('unknown', false);
+
+            document.getElementById('current-story-content').textContent = data.currentStory || 'No active story.';
+
+            const mapEl = document.getElementById('holographic-map');
+            if (data.holographicMap) {
+                const nodes = data.holographicMap.nodes || [];
+                const edges = data.holographicMap.edges || [];
+                const names = data.holographicMap.names || [];
+                mapEl.innerHTML = '<div>Nodes: ' + nodes.length + '</div><div>Edges: ' + edges.length + '</div><div>Names: ' + names.length + '</div>' +
+                    (audit.live ? '<div style="font-size:0.8rem; color:#888; margin-top:0.5rem;">Source: ' + audit.source + ' · ' + audit.lastUpdated + '</div>' : '<div style="font-size:0.8rem; color:#888; margin-top:0.5rem;">Placeholder counts. Connect API for live.</div>');
+            }
+
             const dockStatus = document.getElementById('device-status');
-            dockStatus.textContent = data.dockedDevice ? `Device: ${data.dockedDevice}` : 'No device docked';
+            dockStatus.textContent = data.dockedDevice ? ('Device: ' + data.dockedDevice) : 'No device docked';
+
+            renderMainDashboard(data);
         }
 
         // Shell selection
@@ -592,11 +739,16 @@
 
         function openArchives() {
             console.log('Opening archives...');
-            window.open('executive-dashboard.html', '_blank');
+            window.open('launch-pad.html', '_blank');
         }
 
-        // Load on page load
+        // Load on page load — always fresh (no cache)
         loadWorkspace();
+
+        // Update on each push: refetch when user returns to tab
+        document.addEventListener('visibilitychange', function () {
+            if (document.visibilityState === 'visible') loadWorkspace();
+        });
 
         // Refresh every 30 seconds
         setInterval(loadWorkspace, 30000);

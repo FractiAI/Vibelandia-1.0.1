@@ -69,7 +69,7 @@
 **Senior UI Designer:** UI/UX Designer  
 **Senior Children's Science Museum Curator:** Educator/Curator  
 
-**Hero Hosts:** El Gran Sol, Leonardo da Vinci, Nikola Tesla, Buckminster Fuller, Michael Faraday, Outcast Hero
+**Hero Hosts:** El Gran Sol, Leo, Niko, Buckey, Mike, Marilyn, Outcast Hero
 
 **External Team:** Marek, Simba, Pablo (QA), Lexary Nova (Legal)
 

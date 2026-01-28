@@ -24,7 +24,7 @@
 
 **Core Team:** Pru "El Taíno" Méndez (Lead Developer/Creator), Senior Research Scientist, Senior Early Trials AI CEO, Senior Hollywood Producer, Senior Screenwriter, Senior Luxury Travel Magazine Editor, Senior Game Designer & Architect, Senior UI Designer, Senior Children's Science Museum Curator
 
-**Hero Hosts:** El Gran Sol, Leonardo da Vinci, Nikola Tesla, Buckminster Fuller, Michael Faraday, Outcast Hero
+**Hero Hosts:** El Gran Sol, Leo, Niko, Buckey, Mike, Marilyn, Outcast Hero
 
 **Supporting Cast:** Sarah (Winner #1), Alex (First-time SYNTH buyer), Marcus (Tech entrepreneur), Maria (Struggling artist), 1 Million Winners, Community Members
 

@@ -6,6 +6,8 @@
 **Date:** January 28, 2026  
 **Type:** Impulse Purchase Dynamics
 
+**Infrastructure:** Our two BBHE servers. Operational.
+
 ---
 
 ## 🎯 IMPULSE BUY DYNAMICS

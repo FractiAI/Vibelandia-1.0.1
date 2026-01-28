@@ -48,4 +48,7 @@ Our new **come-out-of-retirement GPU server** is named **Ferrari**. The high-exp
 
 **Last updated:** January 2026  
 **Tiers:** Champion (premium) | Bug (accessible)  
-**Internal reference:** Ferrari server · come out of retirement
+**Internal reference:** Ferrari server · come out of retirement  
+**Narrative:** Ferrari's arrival. Apple's retirement. The champion returns; the incumbent retires. Trademark-safe; no third-party affiliation.
+
+**See also:** [HOUDINI_STYLE_COMEBACK_BRANDING_SNAP.md](./HOUDINI_STYLE_COMEBACK_BRANDING_SNAP.md) — Apple, Ferrari, Reno, Pru: once special, obsolete, came back; superintelligent agentic fleet & theater. HOUDINI STYLE.

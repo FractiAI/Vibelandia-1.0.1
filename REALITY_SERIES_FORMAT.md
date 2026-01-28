@@ -51,10 +51,10 @@ Follow Mark Twain as Chancellor of the Vibelandia Reno Campus, guiding viewers t
 
 **Hero Hosts (AI Representatives):**
 - **El Gran Sol** ☀️ - Gateway Host
-- **Leonardo da Vinci** 🔬 - R&D Lab Host
-- **Nikola Tesla** ⚡ - Academy Host
-- **Buckminster Fuller** 🏛️ - Creator's Studio Host
-- **Michael Faraday** 📊 - Operator Lab Host
+- **Leo** 🔬 - R&D Lab Host
+- **Niko** ⚡ - Academy Host
+- **Buckey** 🏛️ - Creator's Studio Host
+- **Mike** 📊 - Operator Lab Host
 - **Outcast Hero** 🔥🦬 - Mission Control
 
 **External Team:**
@@ -101,7 +101,7 @@ Follow Mark Twain as Chancellor of the Vibelandia Reno Campus, guiding viewers t
 2. **Act 1** (10-15 min): Main story, character development
 3. **Act 2** (10-15 min): Conflict, challenges, development
 4. **Act 3** (10-15 min): Resolution, transformation, happy ending
-5. **Tag** (2-3 min): Countdown update, next episode preview
+5. **Tag** (2-3 min): Countdown update, next episode preview. **That is tomorrow's episode — always tease new, laying the edge for today's seed.** See [EPISODE_TEASE_SEED_EDGE_SNAP.md](./EPISODE_TEASE_SEED_EDGE_SNAP.md).
 
 **Content Integration:**
 - **25% Strip Club Bathroom Scenes** - Men's Club Restroom, back door offers, Ultimate VIP experiences

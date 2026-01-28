@@ -19,29 +19,29 @@
 ### 2. **FractiAI Research Team** 🔬
 - **Role:** Research Team / Protocol Developers
 - **Status:** ✅ Active Research
-- **Control Center:** Leonardo da Vinci (Active)
+- **Control Center:** Leo (Active)
 - **Octave:** BEYOND_OCTAVE (7.5)
 - **Focus:** NSPFRP Protocol Development, Discovery Acceleration
 
 **Core Team Members:**
-1. **Senior Hollywood Producer** 🎬 - Narrative Architecture (William Shakespeare)
-2. **Screenwriter** ✍️ - Narrative Development (Mark Twain)
-3. **Research Scientist** 🔬 - Scientific Research (Nikola Tesla)
-4. **Designer** 🎨 - Visual Design (Leonardo da Vinci)
-5. **Architect** 🏗️ - System Architecture (Leonardo da Vinci)
+1. **Senior Hollywood Producer** 🎬 - Narrative Architecture (Will)
+2. **Screenwriter** ✍️ - Narrative Development (Samuel)
+3. **Research Scientist** 🔬 - Scientific Research (Niko)
+4. **Designer** 🎨 - Visual Design (Leo)
+5. **Architect** 🏗️ - System Architecture (Leo)
 6. **Civilization Engineer** 🌍 - Civilization-Level Design (Multiple Hero Hosts)
-7. **Game Architect and Designer** 🎮 - Game Design (William Shakespeare)
-8. **UI Designer** 💻 - Interface Design (Leonardo da Vinci)
-9. **Full Stack Engineer** ⚙️ - Full Stack Development (Nikola Tesla)
-10. **Children's Science Discovery Museum Curator** 🧪 - Educational Design (Leonardo da Vinci)
-11. **Senior IEEE Expert** 📊 - IEEE Standards & Technical Documentation (Nikola Tesla)
+7. **Game Architect and Designer** 🎮 - Game Design (Will)
+8. **UI Designer** 💻 - Interface Design (Leo)
+9. **Full Stack Engineer** ⚙️ - Full Stack Development (Niko)
+10. **Children's Science Discovery Museum Curator** 🧪 - Educational Design (Leo)
+11. **Senior IEEE Expert** 📊 - IEEE Standards & Technical Documentation (Niko)
 
 **Hero Hosts:**
-- **Leonardo da Vinci** 🎨 - Renaissance Master
-- **William Shakespeare** 📜 - Master Storyteller
-- **Nikola Tesla** ⚡ - Electrical Visionary
-- **Mark Twain** 📚 - Wise Observer
-- **Cleve Canepa** 💼 - Enterprise Guide
+- **Leo** 🎨 - Renaissance Master
+- **Will** 📜 - Master Storyteller
+- **Niko** ⚡ - Electrical Visionary
+- **Samuel** 📚 - Wise Observer
+- **Cleve** 💼 - Enterprise Guide
 
 ---
 
@@ -75,7 +75,7 @@
 
 **Boot Configuration Includes:**
 - Current team members (Auto Cursor + FractiAI Research Team)
-- Active Hero Hosts (Leonardo da Vinci, William Shakespeare, Nikola Tesla, Mark Twain, Cleve Canepa)
+- Active Hero Hosts (Leo, Will, Niko, Samuel, Cleve)
 - Current octave level (BEYOND_OCTAVE 7-7.5)
 - Active protocols and discoveries
 - System status and capabilities

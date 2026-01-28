@@ -44,11 +44,11 @@
 
 ---
 
-### 👑 ULTIMATE VIP CHAIRMAN CREATOR PERFORMER CONSOLE
+### 👑 ULTIMATE VIP CHAIRMAN CONSOLE! SNAP
 
-**One of our products.** The Ultimate VIP Chairman Creator Performer Console — operational now. Full dashboard, workspace, cockpit, Seed:Edge integration.
+**One of our products.** The ULTIMATE VIP CHAIRMAN CONSOLE! — operational now. Chairman Workspace, cockpit, Seed:Edge integration. **SNAP** branded.
 
-- **Interfaces:** [Executive Dashboard](./interfaces/executive-dashboard.html) | [Chairman Workspace](./interfaces/chairman-workspace.html) | [Chairman Cockpit Center Console](./interfaces/chairman-cockpit-center-console.html) | [Chairman Cockpit Station](./interfaces/chairman-cockpit-station.html) | [Seed:Edge Mini Console](./interfaces/seed-edge-mini-console.html) | [GPS Seed:Edge Console](./interfaces/gps-seed-edge-console.html)
+- **Interfaces:** [ULTIMATE VIP CHAIRMAN CONSOLE!](./interfaces/chairman-workspace.html) (Chairman Workspace) | [Chairman Cockpit Center Console](./interfaces/chairman-cockpit-center-console.html) | [Chairman Cockpit Station](./interfaces/chairman-cockpit-station.html) | [Seed:Edge Mini Console](./interfaces/seed-edge-mini-console.html) | [GPS Seed:Edge Console](./interfaces/gps-seed-edge-console.html)
 - **Status:** ⚡ ACTIVE — Operational in Octave 1 sandbox mode
 
 ---
@@ -129,7 +129,7 @@
 1. [ONE_PAGER_LAUNCH.md](./ONE_PAGER_LAUNCH.md) — **🚀 Full Launch** (Launch Pad Set: series, lottery, WINK!, plans & prices)
 2. [ONE_PAGER_VIBELANDIA_RENO.md](./ONE_PAGER_VIBELANDIA_RENO.md) — 🏛️ **VIBELANDIA RENO** (Campus)
 3. [ONE_PAGER_WINK.md](./ONE_PAGER_WINK.md) — 👁️ **WINK!** (Dating Network)
-4. [interfaces/executive-dashboard.html](./interfaces/executive-dashboard.html) — 👑 **ULTIMATE VIP CHAIRMAN CREATOR PERFORMER CONSOLE** (One of our products)
+4. [interfaces/chairman-workspace.html](./interfaces/chairman-workspace.html) — 👑 **ULTIMATE VIP CHAIRMAN CONSOLE! SNAP** (One of our products)
 5. [ONE_PAGER_SING_LOTTERY.md](./ONE_PAGER_SING_LOTTERY.md) — 🎰 **SING! COUNTDOWN! LOTTERY** (Now until March 20 Launch)
 6. [ONE_PAGER_DAY_PASS.md](./ONE_PAGER_DAY_PASS.md) — Day Pass
 7. [ONE_PAGER_WEEKLY_PASS.md](./ONE_PAGER_WEEKLY_PASS.md) — Weekly Pass

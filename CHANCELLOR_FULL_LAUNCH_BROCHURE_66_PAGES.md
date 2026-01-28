@@ -144,7 +144,7 @@ High-value vibers (top artists, performers, entrepreneurs) come to play.
 - Walkable downtown Reno campus access
 - Mark Twain's Daily Bulletin access
 - BBHE experiences (selectable, safe, virtual/imaginary only)
-- Hero Host interactions (Leonardo da Vinci, Nikola Tesla, Buckminster Fuller, Michael Faraday, and more)
+- Hero Host interactions (Leo, Niko, Buckey, Mike, and more — first names only)
 - Creator studios
 - Performance venues
 - Ultimate VIP experiences
@@ -936,7 +936,7 @@ Reno isn't dying—it's being reborn.
 
 - **Mark Twain's Daily Bulletin** — Chancellor's wisdom delivered daily
 - **BBHE Experiences** — Big Black Hole Energy (selectable, safe, virtual/imaginary only)
-- **Hero Host Interactions** — Leonardo da Vinci, Nikola Tesla, Buckminster Fuller, Michael Faraday, El Gran Sol, Outcast Hero
+- **Hero Host Interactions** — Leo, Niko, Buckey, Mike, Marilyn, El Gran Sol, Outcast Hero (first names only)
 - **Creator Studios** — Full production capabilities
 - **Performance Venues** — Live shows, events, experiences
 - **WINK! Dating Network** — Members-only access
@@ -1000,10 +1000,10 @@ Premium pricing filters for quality. Only real vibers join.
 - Seed:Edge Mini Console — Quick access
 
 **Hero Host AI:**
-- Leonardo da Vinci — R&D Lab Host
-- Nikola Tesla — Syntheverse Academy Host
-- Buckminster Fuller — Creator's Studio Host
-- Michael Faraday — Operator Lab Host
+- Leo — R&D Lab Host
+- Niko — Syntheverse Academy Host
+- Buckey — Creator's Studio Host
+- Mike — Operator Lab Host
 - And more Hero Hosts available
 
 ---
@@ -1055,10 +1055,11 @@ Premium pricing filters for quality. Only real vibers join.
 
 **Hero Hosts:**
 - El Gran Sol — Gateway Host
-- Leonardo da Vinci — R&D Lab Host
-- Nikola Tesla — Syntheverse Academy Host
-- Buckminster Fuller — Creator's Studio Host
-- Michael Faraday — Operator Lab Host
+- Leo — R&D Lab Host
+- Niko — Syntheverse Academy Host
+- Buckey — Creator's Studio Host
+- Mike — Operator Lab Host
+- Marilyn — Hero Host
 - Outcast Hero — Mission Control
 
 **Supporting Cast:**
@@ -1640,10 +1641,11 @@ Everything flows through **Octave 1 (Edge) sandbox mode** with **AI-assisted API
 - GPS Seed:Edge system
 
 **Hero Host AI:**
-- Leonardo da Vinci
-- Nikola Tesla
-- Buckminster Fuller
-- Michael Faraday
+- Leo
+- Niko
+- Buckey
+- Mike
+- Marilyn
 - El Gran Sol
 - Outcast Hero
 - And more Hero Hosts

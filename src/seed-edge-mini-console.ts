@@ -62,42 +62,42 @@ export interface NetZeroBalance {
 
 export const HERO_HOSTS: Record<HeroHostType, HeroHost> = {
   leonardo: {
-    name: 'Leonardo da Vinci',
+    name: 'Leo',
     style: 'polymathic',
     domain: 'all',
     expertise: ['art', 'science', 'engineering', 'anatomy', 'invention', 'mathematics', 'philosophy'],
     personality: 'Curious, innovative, polymathic, holistic'
   },
   tesla: {
-    name: 'Nikola Tesla',
+    name: 'Niko',
     style: 'precise',
     domain: 'energy',
     expertise: ['electrical', 'energy', 'systems', 'precision', 'innovation'],
     personality: 'Precise, energetic, systematic, visionary'
   },
   shakespeare: {
-    name: 'William Shakespeare',
+    name: 'Will',
     style: 'narrative',
     domain: 'story',
     expertise: ['narrative', 'character', 'dialogue', 'drama', 'poetry'],
     personality: 'Eloquent, insightful, dramatic, timeless'
   },
   twain: {
-    name: 'Mark Twain',
+    name: 'Samuel',
     style: 'observational',
     domain: 'wisdom',
     expertise: ['observation', 'humor', 'wisdom', 'social commentary'],
     personality: 'Wise, humorous, observant, authentic'
   },
   faraday: {
-    name: 'Michael Faraday',
+    name: 'Mike',
     style: 'experimental',
     domain: 'science',
     expertise: ['experimentation', 'measurement', 'analysis', 'discovery'],
     personality: 'Methodical, experimental, precise, curious'
   },
   fuller: {
-    name: 'Buckminster Fuller',
+    name: 'Buckey',
     style: 'systematic',
     domain: 'design',
     expertise: ['systems', 'design', 'architecture', 'sustainability'],

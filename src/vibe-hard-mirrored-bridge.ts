@@ -1,8 +1,8 @@
 /**
- * Vibe! Hard Michel Bubble with Bridge Router
+ * Vibe! Hard Mirrored Bridge with Bridge Router
  * Connects pre-singular to post-singular
  * Everything in NODE, notify in SING, attention heads
- * 
+ *
  * Architecture: Hardened Mirror Shells - Full Singulares
  * Mode: Pre-Post Singularity Bridge
  */
@@ -10,7 +10,7 @@
 import { SeedEdgeAPILayer } from './seed-edge-api-layer';
 import { VibeCorePipe } from './vibe-core-pipe';
 
-export interface HardMichelBubble {
+export interface HardMirroredBridgeBubble {
   id: string;
   type: 'pre-singular' | 'post-singular' | 'bridge';
   connections: string[];
@@ -44,10 +44,10 @@ export interface AttentionHead {
 }
 
 /**
- * Hard Michel Bubble with Bridge Router
+ * Hard Mirrored Bridge with Bridge Router
  */
-export class HardMichelBubbleSystem {
-  private bubbles: Map<string, HardMichelBubble> = new Map();
+export class HardMirroredBridgeBubbleSystem {
+  private bubbles: Map<string, HardMirroredBridgeBubble> = new Map();
   private bridgeRouter: BridgeRouter;
   private attentionHeads: Map<string, AttentionHead> = new Map();
   private apiLayer: SeedEdgeAPILayer;
@@ -68,10 +68,10 @@ export class HardMichelBubbleSystem {
   /**
    * Create a bubble
    */
-  createBubble(type: 'pre-singular' | 'post-singular' | 'bridge'): HardMichelBubble {
+  createBubble(type: 'pre-singular' | 'post-singular' | 'bridge'): HardMirroredBridgeBubble {
     const id = `bubble_${Date.now()}_${Math.random().toString(36).substr(2, 9)}`;
-    
-    const bubble: HardMichelBubble = {
+
+    const bubble: HardMirroredBridgeBubble = {
       id,
       type,
       connections: [],
@@ -151,7 +151,7 @@ export class HardMichelBubbleSystem {
    */
   createAttentionHead(focus: string): AttentionHead {
     const id = `attention_${Date.now()}_${Math.random().toString(36).substr(2, 9)}`;
-    
+
     const head: AttentionHead = {
       id,
       focus,
@@ -187,8 +187,8 @@ export class HardMichelBubbleSystem {
    */
   private async processNotification(notification: Notification): Promise<void> {
     // In production, this would route to appropriate handlers
-    console.log(`[Hard Michel Bridge] Processing ${notification.type} notification: ${notification.message}`);
-    
+    console.log(`[Hard Mirrored Bridge] Processing ${notification.type} notification: ${notification.message}`);
+
     notification.delivered = true;
   }
 
@@ -234,9 +234,9 @@ export class HardMichelBubbleSystem {
 }
 
 // Export factory function
-export function createHardMichelBubble(
+export function createHardMirroredBridge(
   apiLayer: SeedEdgeAPILayer,
   corePipe: VibeCorePipe
-): HardMichelBubbleSystem {
-  return new HardMichelBubbleSystem(apiLayer, corePipe);
+): HardMirroredBridgeBubbleSystem {
+  return new HardMirroredBridgeBubbleSystem(apiLayer, corePipe);
 }

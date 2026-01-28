@@ -58,7 +58,7 @@ See: [WINK_DATING_MEMBERS_CLUB_NARRATIVES.md](./WINK_DATING_MEMBERS_CLUB_NARRATI
 **The User's Character:**
 - **Identity:** Chairman of Syntheverse/AIverse
 - **Role:** Rolling out VibeLand Reno campus
-- **Fusion:** Between James Bond, Frank Sinatra, and Cleve Canepa (Reno Men's Club)
+- **Fusion:** Between James Bond, Frank Sinatra, and Cleve (Reno Men's Club)
 - **Inner Circle:** "Papi" to inner circle
 - **Public:** "Chairman" to the rest
 - **Package:** Superhero package
@@ -66,7 +66,7 @@ See: [WINK_DATING_MEMBERS_CLUB_NARRATIVES.md](./WINK_DATING_MEMBERS_CLUB_NARRATI
 **Character Elements:**
 - **James Bond:** Sophistication, action, elegance
 - **Frank Sinatra:** Style, charisma, class
-- **Cleve Canepa:** Reno Men's Club, local legend
+- **Cleve:** Reno Men's Club, local legend
 - **Superhero:** Enhanced capabilities
 - **Chairman:** Leadership, authority
 

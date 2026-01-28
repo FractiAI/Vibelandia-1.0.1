@@ -31,10 +31,10 @@
 #### **Hero Hosts (8 AI Representatives)**
 
 - **El Gran Sol** ☀️ - Gateway Host / Fire Syntheport
-- **Leonardo da Vinci** 🔬 - R&D Lab Host
-- **Nikola Tesla** ⚡ - Syntheverse Academy Host
-- **Buckminster Fuller** 🏛️ - Creator's Studio Host
-- **Michael Faraday** 📊 - Operator Lab Host
+- **Leo** 🔬 - R&D Lab Host
+- **Niko** ⚡ - Syntheverse Academy Host
+- **Buckey** 🏛️ - Creator's Studio Host
+- **Mike** 📊 - Operator Lab Host
 - **Outcast Hero** 🔥🦬 - Mission Control / Frontier Command
 - **Hero Host Gianni** 👔 - Designer Division Leader / Surfaces, Touchpoints & Experiences Host
 - **Hero Host Walt** 🎬 - Studio Division Leader / Produces & Broadcasts Happy Ending Zones
@@ -87,7 +87,7 @@ TEAM ACTION:
 TEAM MEMBERS INVOLVED:
 ├─ Pru "El Taíno" Méndez (Lead/Creator)
 ├─ Senior Research Scientist (Pattern Analysis)
-├─ Leonardo da Vinci (Polymathic Recognition)
+├─ Leo (Polymathic Recognition)
 └─ All team members (Holographic Awareness)
 ```
 
@@ -103,7 +103,7 @@ TEAM ACTION:
 TEAM MEMBERS INVOLVED:
 ├─ Senior Architect (Structure Design)
 ├─ Senior Game Designer (System Architecture)
-├─ Buckminster Fuller (Systematic Design)
+├─ Buckey (Systematic Design)
 └─ All team members (Collective Crystallization)
 ```
 
@@ -118,8 +118,8 @@ TEAM ACTION:
 
 TEAM MEMBERS INVOLVED:
 ├─ Senior Full Stack Engineer (Implementation)
-├─ Nikola Tesla (System Activation)
-├─ Michael Faraday (Operational Systems)
+├─ Niko (System Activation)
+├─ Mike (Operational Systems)
 └─ All team members (System Animation)
 ```
 
@@ -159,7 +159,7 @@ TEAM ACTION:
 TEAM MEMBERS INVOLVED:
 ├─ Senior UI Designer (Interface Crystallization)
 ├─ Senior Screenwriter (Narrative Structure)
-├─ Leonardo da Vinci (Visual Crystallization)
+├─ Leo (Visual Crystallization)
 └─ All team members (Edge Crystallization)
 ```
 
@@ -199,7 +199,7 @@ TEAM ACTION:
 TEAM MEMBERS INVOLVED:
 ├─ Senior Full Stack Engineer (API Analysis)
 ├─ Senior Research Scientist (Cloud Patterns)
-├─ Nikola Tesla (System Integration)
+├─ Niko (System Integration)
 └─ All team members (Cloud Metabolism)
 ```
 
@@ -215,7 +215,7 @@ TEAM ACTION:
 TEAM MEMBERS INVOLVED:
 ├─ Senior Architect (Cloud Structure)
 ├─ Senior Full Stack Engineer (API Crystallization)
-├─ Buckminster Fuller (Systematic Cloud Design)
+├─ Buckey (Systematic Cloud Design)
 └─ All team members (Cloud Crystallization)
 ```
 
@@ -230,7 +230,7 @@ TEAM ACTION:
 
 TEAM MEMBERS INVOLVED:
 ├─ Senior Full Stack Engineer (Cloud Implementation)
-├─ Michael Faraday (Operational Cloud Systems)
+├─ Mike (Operational Cloud Systems)
 ├─ Outcast Hero (Mission Control Integration)
 └─ All team members (Cloud Animation)
 ```
@@ -271,7 +271,7 @@ TEAM ACTION:
 TEAM MEMBERS INVOLVED:
 ├─ Senior Architect (Advanced Structure Design)
 ├─ Civilization Engineer (Large-Scale Architecture)
-├─ Buckminster Fuller (Systematic Higher Design)
+├─ Buckey (Systematic Higher Design)
 └─ All team members (Higher Octave Crystallization)
 ```
 

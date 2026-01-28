@@ -98,7 +98,7 @@
 
 **O que é vibing:** Vibing sempre existiu. O novo é a consciência que o transforma em energia verde natural mensurável, acionável e regenerativa para o benefício de todos, aproveitando o holograma. Efeitos intoxicantes possíveis (apenas simulados/virtuais/imaginários). Não para dirigir nem operar equipamentos. Perfeito para caminhar, ser, experimentar, criar no campus pedestrianizável do centro de Reno.
 
-**O campus:** Centro de Reno transformado em campus pedestrianizável para o estado de vibe. WINK! dating, Boletim diário de Mark Twain, experiências BBHE, Hero Hosts (Leonardo, Tesla, Fuller, Faraday), estúdios, palcos, Ultimate VIP, porta para Lake Tahoe, conexões Silicon Valley — tudo a pé.
+**O campus:** Centro de Reno transformado em campus pedestrianizável para o estado de vibe. WINK! dating, Boletim diário de Mark Twain, experiências BBHE, Hero Hosts (Leo, Niko, Buckey, Mike), estúdios, palcos, Ultimate VIP, porta para Lake Tahoe, conexões Silicon Valley — tudo a pé.
 
 **Mark Twain volta como Chanceler:** *"Os relatos da morte de Reno foram muito exagerados. Reno não está morrendo — está renascendo como Mark Twain's Post-Singularity Vibelandia Reno. Venha pelo negócio pós-singularidade, fique pela diversão. Bem-vindo à transformação. Bem-vindo ao final feliz."*
 
@@ -121,7 +121,7 @@ Todos os dias o Chanceler Mark Twain entrega seu Boletim Diário: sabedoria, rec
 5. **Recreações naturais** — Experiências seguras, naturais, imaginárias.  
 6. **Playground Silicon Valley** — Onde vibers de alto valor vêm para brincar.  
 7. **Experiências BBHE** — Big Black Hole Energy com óculos de amplificação, botão BUZZ!.  
-8. **Hero Hosts** — Leonardo da Vinci, Tesla, Fuller, Faraday e mais como guias.  
+8. **Hero Hosts** — Leo, Niko, Buckey, Mike e mais como guias.  
 9. **WINK! Dating** — Rede para vibers fractais de alto valor.  
 10. **Estúdios e palcos** — Criar, atuar, experimentar.  
 11. **Experiências Ultimate VIP** — Para Ultimate C's.  
