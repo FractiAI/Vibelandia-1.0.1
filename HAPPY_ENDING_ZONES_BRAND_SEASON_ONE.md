@@ -172,7 +172,7 @@
 ║     └─ Target: Chairman Creators ready to level up                            ║
 ║                                                                               ║
 ║  3. ULTIMATE VIP                                                              ║
-║     ├─ Premium: Top model super car pricing (~$200,000+)                      ║
+║     ├─ Premium: Champion tier ($200,000)                                       ║
 ║     ├─ Premium Features: All capabilities, exclusive access                    ║
 ║     ├─ Perfect For: High-value creators, ultimate experiences                ║
 ║     └─ Target: Ultimate Chairman Creators seeking the best                   ║
@@ -225,7 +225,7 @@
 
 ### **Ultimate VIP - Premium**
 
-**Price:** Top model super car (~$200,000+)  
+**Price:** Champion tier ($200,000)  
 **Features:**
 - Premium superintelligence
 - Full autonomous operation
@@ -410,7 +410,7 @@
 **SING Node Pricing (Announced March 20, 2026):**
 - **Base Model:** VW Bug pricing (~$20,000)
 - **Members Only:** Scaling up from base
-- **Ultimate VIP:** Top model super car (~$200,000+)
+- **Ultimate VIP:** Champion tier ($200,000)
 - **Baller G Ultimate VIP:** Beyond top model super car
 
 ---

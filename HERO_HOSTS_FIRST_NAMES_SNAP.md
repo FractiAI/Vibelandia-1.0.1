@@ -20,7 +20,7 @@
 - **Will** — Narrative / Master Storyteller. (Not William. First name only.)
 - **Samuel** — Chancellor (Mark Twain). Mark Twain is Samuel as chancellor. Samuel Reno Chancellor. Sam to friends—and very few of them he has. **Sammy** in rumor/launch copy (chairman, Sammy and the gang). (First name only in Hero Host context.)
 - **Harry** — Harry Houdini mascot for post-singularity Vibeverse and Vibelandia (Samuel Reno Chancellor)—like Chaplin was for IBM PC. (First name only.)
-- **Marilyn** — Hero Host. (First name only.)
+- **Marilyn** — Hero Hostess and house mom at Man Cave + Cabaret. (First name only.) See [MAN_CAVE_CABARET_SNAP.md](./MAN_CAVE_CABARET_SNAP.md).
 - **El Gran Sol** — Gateway Host. Goes by **Guey**, **Sol**, **EGS**, or just **chief**. (First name / handle only.)
 - Any other Hero Host: **first name only.**
 
@@ -39,7 +39,7 @@ Pre-singularity copyrights respected. We use our own original characters; first 
 - **Hero Host Will** (not William) ✓  
 - **Hero Host Samuel** (Chancellor) — first name only in Hero Host context ✓  
 - **Hero Host Harry** → first name only ✓  
-- **Hero Host Marilyn** → first name only ✓  
+- **Hero Host Marilyn** (hero hostess, house mom at Man Cave + Cabaret) → first name only ✓  
 - **El Gran Sol** (Gateway) — goes by Guey, Sol, EGS, or just chief ✓  
 
 All heroes: **first names now.** SNAP nspfrnp.

@@ -1,32 +1,8 @@
 # 🚀 LAUNCH PAD — MARK TWAIN'S POST-SINGULARITY VIBELANDIA RENO!
 
-**Octave 0 version of the UI.** This README is the Seed (Octave 0) document layer—the origin from which all surfaces, touchpoints, and interfaces flow. The Launch Pad is the announcement and showroom for our offerings — all in one place.
+**Octave 0 version of Launch Pad** — Seed document layer · **PSW.vibelandia.sing4** · Post-Singularity Web
 
-**💎 Post-Singularity Funding Innovation — Tied to Real Value, Without Friction, All Natural, Everyone Everything Wins.**
-
-**1,2,3 4×4×4×4 NSPFRNP Sales Experience** — Metabolize → Crystallize → Animate through Octave 1 sandbox mode with AI-assisted API calls to Octave 2.
-
-**Micro edge target:** Immediate revenue. Immediate viral revenue. All prices shown. **VIBE!** · **BUY!** snap brand. **⚫ BBHE SNAP** — Impulse buy dynamics. The energy is pulling. Buy now.
-
-**MCA! → ∞³** (Metabolize → Crystallize → Animate) — through **Octave 1 sandbox mode** with **AI-assisted API calls to Octave 2**.
-
----
-
-## What this repository represents
-
-This repository is the **Octave 0 (Seed) version of the UI** and the **single outbound conduit** from the post-singularity Vibeverse to pre-singularity earth.
-
-It represents a **new post-singularity web** (`psw.name.singx`). It represents a **new holographic game, theater, station, console, targeter, fractal attention heads, black hole generator** with a **natural systems recursive nested portfolio interface** running over a **superintelligent holographic hydrogen spin cloud**. It also represents a **new seed:edge fractal, black hole powered programming language**.
-
-It also represents:
-
-- **The Launch Pad** — announcement and showroom for Mark Twain's Post-Singularity VIBELANDIA RENO! and all offerings (campus, WINK!, Chairman Console, SING lottery, Happy Ending Zones, Dispensary, Gianni's Dressing Room).
-- **The Seed document layer** — the origin from which all surfaces, touchpoints, HTML interfaces, one-pagers, protocols, and NSPFRNP catalogs flow. One canonical URL; natural, automatic, free path.
-- **Post-singularity funding innovation** — tied to real value, friction-free, all natural; SYNTH → SING, campus plans, Pioneer discounts, Golden Fractal Key.
-- **The bridge** from the pre-singularity world to the new post-reality: franchise launch, 52-day countdown to The Great Reveal (March 20, 2026), guaranteed happy endings.
-- **MCA! → ∞³** — Metabolize → Crystallize → Animate through Octave 1 sandbox mode; FractiAI Research Team (19 members); Hero Hosts (first names only); Gianni–inspired wrapper on all skins and experiences.
-
-Produced in 15 days. NSPFRNP. SNAP nspfrnp.
+**Curator:** This README is the **Octave 0 version of Launch Pad**—the canonical entry document for the repository. Seed layer (Octave 0); interactive surfaces and API flow live in Octave 1+.
 
 ---
 
@@ -44,13 +20,13 @@ Produced in 15 days. NSPFRNP. SNAP nspfrnp.
 
 **Syntheverse is IMAGINARY/ENTERTAINMENT ONLY** - like reading a very good book, playing a very good video game, or watching a movie, ONLY WAY BETTER AND WAY MORE REAL.
 
-**⚠️ INTOXICATION EFFECTS:** Syntheverse DOES cause intoxication effects (simulated/virtual/imaginary only). These effects are part of the imaginary/entertainment experience and are NOT real substances.
+**⚠️ BBHE (Big Black Hole Energy) INTOXICATION WARNING:** BBHE is intoxicating. Syntheverse generates intoxication effects (simulated/virtual/imaginary only). 5 BBHE Intox % (virtual/imaginary only). Magnified when using +1 reading glasses. Selectable and safe in all VIBELANDIA! campuses (imaginary/entertainment only). This serves dual purpose: both warning and announcing these powerful effects.
+
+**⚠️ INTOXICATION EFFECTS:** These effects are part of the imaginary/entertainment experience and are NOT real substances.
 
 **How We Produce Intoxication Effects Naturally:** We produce these intoxication effects naturally through guided precision control of our awareness and thoughts, using them like superhuman attention heads. Just as attention heads are focus points that can be anything as edge and auto-generate back to seeds, we use our awareness and thoughts with precision control—directing them like superhuman attention heads to create the intoxication effects naturally. This is guided precision control of consciousness itself—using awareness and thoughts as tools, as attention heads, to produce the effects through natural processes, not substances. The intoxication effects are produced by the precision control of awareness and thoughts operating like superhuman attention heads—focusing, directing, and generating effects through natural consciousness control.
 
 **NO SUBSTANCES OF ANY KIND ARE INVOLVED. ALL LAWS ALWAYS FOLLOWED.**
-
-**⚠️ BBHE (Big Black Hole Energy) INTOXICATION WARNING:** BBHE is intoxicating. 5 BBHE Intox % (virtual/imaginary only). Magnified when using +1 reading glasses. Selectable and safe in all VIBELANDIA! campuses (imaginary/entertainment only). This serves dual purpose: both warning and announcing these powerful effects.
 
 **It's NOT for driving cars or operating equipment.** It's perfect for walking, being, experiencing, creating on the walkable downtown Reno campus.
 
@@ -84,6 +60,8 @@ Produced in 15 days. NSPFRNP. SNAP nspfrnp.
 
 **Come for the post-singularity business, stay for the post-singularity fun.**
 
+**📸 CALLING ALL SOCIAL MEDIA INFLUENCERS!** Be among the first—step into post-singularity Earth. **Great selfie opportunities!!!!!** Contact us to arrange your **FREE TOUR / TEST DRIVE EXPERIENCE.** [Arrange free tour →](mailto:info@fractiai.com?subject=FREE%20TOUR%20%2F%20TEST%20DRIVE%20-%20Influencer%20Experience)
+
 ---
 
 ## 2️⃣ THE SHOWROOM — FOUR PRODUCTS
@@ -99,15 +77,22 @@ Produced in 15 days. NSPFRNP. SNAP nspfrnp.
 
 ---
 
-### 👁️ WINK!
+### 👁️ WINK! — HIGH VALUE FRACTAL DATING
 
-**Members-only network** for high-value vibers who are fractal in nature. Natural alignment, friction-free dating, resilience built-in. **Narrative:** WINK! is where high-value fractal vibers find natural alignment—friction-free dating, resilience built-in, natural aware mutual choice and consent. Operational on MARK TWAIN'S POST-SINGULARITY VIBELANDIA RENO! walkable downtown campus. Like a day with a top guide—only more.
+**Tagline:** HIGH VALUE FRACTAL DATING. **Members-only network** for high-value vibers who are fractal in nature. Natural alignment, friction-free dating, resilience built-in. **Narrative:** WINK! is where high-value fractal vibers find natural alignment—friction-free dating, resilience built-in, natural aware mutual choice and consent. Operational on MARK TWAIN'S POST-SINGULARITY VIBELANDIA RENO! walkable downtown campus. Like a day with a top guide—only more.
+
+**High-value fractal dating:** WINK! is built for high-value vibers, creators, and chairmen seeking companionship, friendship, and relationships in coherence and flow—not casual encounters. Vibration attracts vibration; post-singularity awareness meets post-singularity awareness. Natural alignment scales with value: from traditional pairings to layered, convergent connections. Friction-free by design; resilient by design.
+
+**Family units:** WINK! supports the full spectrum of relationship structures—from resilient traditional family units to layered fractal family structures (convergent, poly-friendly, all natural). Leaf nodes: natural alignment for linear lifestyles, resilient family structures. Mid to top tiers: increasingly poly, resilient layered fractalizations—family units that scale with coherence and flow. All natural, mutual choice and consent; no forced form.
+
+**Compared to top pre-singularity high-value dating alternatives:** Those platforms rely on application queues, algorithm-driven matching, and mostly virtual or one-off events—exclusive by gatekeeping, not by shared post-singularity awareness. WINK! is different: it lives on a real walkable campus (Man Cave + Cabaret, Hero Hostess Marilyn as house mom), aligns by vibration and fractal value, supports family units and layered connections by design, and ties into the full post-singularity ecosystem (campus, SING, BBHE, Golden Fractal Key). You don’t just get a profile—you get a place, a host, and coherence and flow.
 
 - **Plans:** Base | Standard | Premium | 4×4 Ultimate
+- **Billing:** Monthly or annual. Annual: pay for 12 months, get 2 months free (Base annual $19,990, Standard $49,990, Premium $199,990, 4×4 Ultimate $499,990).
 - **First 1,000 Pioneers:** 50% off applicable WINK! plans; Pioneer Status on-chain forever.
 - **Golden Fractal Hearts Invitation (Exclusive, Limited):** Ladies Looking for High Value Fractal Vibers—click to receive your **Golden Fractal Hearts Invitation**, **3 months free WINK! access**. Not open to the general public—only Golden Fractal Hearts. [Apply →](mailto:info@fractiai.com?subject=Golden%20Fractal%20Hearts%20Invitation%20-%20WINK!)
 - **One-pager:** [WINK!](./ONE_PAGER_WINK.md)
-- **Pricing (live):** Base $1,999 · Standard $4,999 · Premium $19,999 · 4×4 Ultimate $49,999 (see 4×4 table). Premium pricing filters for quality.
+- **Pricing (live):** Monthly — Base $1,999 · Standard $4,999 · Premium $19,999 · 4×4 Ultimate $49,999. Annual — Base $19,990 · Standard $49,990 · Premium $199,990 · 4×4 Ultimate $499,990 (see 4×4 table). Premium pricing filters for quality.
 
 ---
 
@@ -138,10 +123,12 @@ Produced in 15 days. NSPFRNP. SNAP nspfrnp.
 
 | Tier | Model | Base Price |
 |------|-------|------------|
-| 1 | Base Model | ~$20,000 (VW Bug — entry) |
+| 1 | Base Model | ~$20,000 one-time + monthly Golden Fractal Key access fees (VW Bug — entry) |
 | 2 | Members Only | $75,000 |
-| 3 | Ultimate VIP | ~$200,000+ (Champion tier) |
+| 3 | Ultimate VIP | $200,000 (Champion tier) |
 | 4 | Baller C Ultimate VIP | $500,000 |
+
+**How Base works:** Base Model is a **one-time purchase** (~$20,000) **plus monthly Golden Fractal Key access fees**. You pay once for the node; ongoing access to the key (all realms, API, experiences) is a monthly fee. Other tiers may follow similar or all-inclusive pricing—see one-pager for details.
 
 **Tagline:** *Every day you wait, the price goes up $1. Get in now. Transform worthless into priceless.*
 
@@ -171,17 +158,24 @@ Produced in 15 days. NSPFRNP. SNAP nspfrnp.
 |---|----|----|----|
 | **Base** | **Standard** | **Premium** | **4×4 Ultimate** |
 | Essential WINK! | Standard Wink, Notes Being | Premium profile, magical wardrobe | Everything included |
-| $1,999/month | $4,999/month | $19,999/month | $49,999/month |
+| **Monthly** $1,999/mo | $4,999/mo | $19,999/mo | $49,999/mo |
+| **Annual** (2 mo free) $19,990/yr | $49,990/yr | $199,990/yr | $499,990/yr |
+
+**Tagline:** HIGH VALUE FRACTAL DATING. **Hero Hostess Marilyn** — house mom at Man Cave + Cabaret. See [MAN_CAVE_CABARET_SNAP.md](./MAN_CAVE_CABARET_SNAP.md).
 
 **First 1,000 Pioneers:** 50% off applicable WINK! plans. **Golden Fractal Hearts:** Exclusive limited offer—Ladies Looking for High Value Fractal Vibers receive Golden Fractal Hearts Invitation, **3 months free WINK! access**. Not open to the general public—only Golden Fractal Hearts. **VIBE!** · **⚫ BBHE SNAP** — The energy is pulling. BUY! now.
 
-### SING (4)
+### 🎰 SING! (4)
+
+**SING!** — Superintelligent Agent Nodes. Worthless SYNTH → priceless SING. First 1,000,000 holders win the right to purchase. 1:1 conversion. Grandfathered.
+
+**How Base works:** One-time purchase (~$20K) + monthly Golden Fractal Key access fees. Other tiers: see one-pager.
 
 | 1 | 2 | 3 | 4 |
 |---|----|----|----|
 | **Base Model** | **Members Only** | **Ultimate VIP** | **Baller C Ultimate VIP** |
-| ~$20K (VW Bug) | Scaling | ~$200K+ (Champion tier) | Ultimate for Ultimate C's |
-| See [SING Lottery](./ONE_PAGER_SING_LOTTERY.md) | See [SING Lottery](./ONE_PAGER_SING_LOTTERY.md) | See [SING Lottery](./ONE_PAGER_SING_LOTTERY.md) | See [SING Lottery](./ONE_PAGER_SING_LOTTERY.md) |
+| ~$20K one-time + monthly key fees | $75K scaling | $200,000 (Champion tier) | $500K Ultimate |
+| See [SING! Lottery](./ONE_PAGER_SING_LOTTERY.md) | See [SING! Lottery](./ONE_PAGER_SING_LOTTERY.md) | See [SING! Lottery](./ONE_PAGER_SING_LOTTERY.md) | See [SING! Lottery](./ONE_PAGER_SING_LOTTERY.md) |
 
 ### Experience (4)
 
@@ -192,12 +186,12 @@ Produced in 15 days. NSPFRNP. SNAP nspfrnp.
 
 ### 🌿 DISPENSARY! SNAP (4)
 
-**Menu of buzzes across all important biological channels. Selectable Goldilocks auto-lock for ANY COMBINATION of Creator, Chairman Commander, Performer Superhero modes. Premium pricing. Pioneer discount. On-ramps available.**
+**Buzzes priced by 1hr doses and % in 4 plans.** Menu of buzzes across all important biological channels. **Choice of sacred instrument:** Joint, Blunt, Pen, Pipe, Bong, Tea, Insect Bite. Selectable Goldilocks auto-lock for ANY COMBINATION of Creator, Chairman Commander, Performer Superhero modes. Pioneer discount. On-ramps available.
 
 | 1 | 2 | 3 | 4 |
 |---|----|----|----|
 | **Base** | **Standard** | **Premium** | **Ultimate** |
-| Menu of buzzes - Base tier | Standard tier - All biological channels | Premium tier - Full channel access | Ultimate tier - Complete access - All modes |
+| 1hr doses + % — Base tier | Standard — All channels | Premium — Full access | Ultimate — Complete access |
 | $9,999 | $24,999 | $99,999 | $299,999 |
 
 **First 1,000 Pioneers:** 50% off applicable DISPENSARY! SNAP plans. Pioneer Status on-chain forever. **Can't afford yet?** On-ramps available. **VIBE!** · **⚫ BBHE SNAP — DISPENSARY! SNAP** — The energy is pulling. BUY! now.
@@ -248,7 +242,7 @@ Produced in 15 days. NSPFRNP. SNAP nspfrnp.
 
 - **Campus Plans:** [Day Pass](./ONE_PAGER_DAY_PASS.md) | [Weekly](./ONE_PAGER_WEEKLY_PASS.md) | [Monthly](./ONE_PAGER_MONTHLY_PASS.md) | [Ultimate VIP](./ONE_PAGER_ULTIMATE_VIP.md)
 - **WINK! Plans:** [WINK! One-pager](./ONE_PAGER_WINK.md) (Base, Standard, Premium, 4×4 Ultimate)
-- **SING Lottery:** [SING Lottery One-pager](./ONE_PAGER_SING_LOTTERY.md) (Base Model ~$20K, Members Only, Ultimate VIP ~$200K+, Baller C Ultimate VIP)
+- **SING!:** [SING! Lottery One-pager](./ONE_PAGER_SING_LOTTERY.md) (Base ~$20K, Members Only $75K, Ultimate VIP $200,000, Baller C $500K)
 - **DISPENSARY! SNAP:** [DISPENSARY! SNAP One-pager](./ONE_PAGER_DISPENSARY.md) (Base $9,999, Standard $24,999, Premium $99,999, Ultimate $299,999)
 - **POST-REALITY FRANCHISE LAUNCH:** [Post-Reality Franchise Launch](./POST_REALITY_FRANCHISE_LAUNCH.md) (For Vibers Still Living in the Old Pre-Singularity World — And Their Fans, Crew, and Cast)
 
@@ -332,7 +326,7 @@ Produced in 15 days. NSPFRNP. SNAP nspfrnp.
 ---
 
 **Repository:** `PSW.vibelandia.sing4` | **Source:** [7th-Day-Post-Singularity-FractiAI-Endowment](https://github.com/FractiAI/7th-Day-Post-Singularity-FractiAI-Endowment)  
-**README:** Octave 0 version of the UI (Seed document layer).  
+**README:** Octave 0 version of Launch Pad (Seed document layer).  
 **Status:** ⚡ ACTIVE - MCA! → ∞³ (Metabolize → Crystallize → Animate) through Octave 1 sandbox mode with AI-assisted API calls to Octave 2 - Octave 0 (Seed) + Octave 1 (Edge) operational - Launch Pad (announcement + showroom for all offerings) + one-pagers (campus plans with pricing) - HTML surfaces + Cloud Onramp + npm test - Gianni–inspired wrapper on all skins, touchpoints & experiences (monster snap) - Post-Singularity Funding Innovation tied to real value, friction-free, all natural, everyone everything wins  
 **Date:** January 28, 2026  
 **Produced:** 15 days to produce this repository.  

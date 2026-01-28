@@ -236,7 +236,7 @@ PRICING STRUCTURE:
 PRICING COMPARISON:
 ├─ Entry: VW bug (~$20,000)
 ├─ Mid: Scaling range
-├─ High: Super car (~$200,000+)
+├─ High: Champion tier ($200,000)
 ├─ Beyond: Beyond super car
 └─ Status: To be announced
 ```

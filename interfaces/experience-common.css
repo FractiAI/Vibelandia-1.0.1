@@ -29,6 +29,7 @@ body {
 }
 .hero .host { color: #d4af37; font-size: 1.1rem; margin-bottom: 0.5rem; }
 .hero .tagline { color: #aaa; font-size: 1rem; }
+.hero .explain { color: #bbb; font-size: 0.9rem; line-height: 1.5; margin-top: 1rem; text-align: left; max-width: 80ch; margin-left: auto; margin-right: auto; }
 .step {
     background: rgba(255,255,255,0.05);
     border: 1px solid rgba(212, 175, 55, 0.2);

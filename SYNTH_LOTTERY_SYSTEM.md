@@ -111,7 +111,7 @@ Feb 9:  $18  | Feb 26: $35 | Mar 15: $52
 - **Four Tiers Available:**
   - Base Model (VW Bug pricing ~$20,000)
   - Members Only (Scaling up)
-  - Ultimate VIP (Top model super car ~$200,000+)
+  - Ultimate VIP (Champion tier $200,000)
   - Baller G Ultimate VIP (Beyond top model)
 
 **Purchase Options:**

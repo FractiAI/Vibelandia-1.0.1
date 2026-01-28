@@ -36,11 +36,19 @@
 
 ---
 
+## 📸 CALLING ALL SOCIAL MEDIA INFLUENCERS!
+
+**Be among the first—step into post-singularity Earth. Great selfie opportunities!!!!!** Contact us to arrange your **FREE TOUR / TEST DRIVE EXPERIENCE.**
+
+**⚡ [Arrange free tour / test drive →](mailto:info@fractiai.com?subject=FREE%20TOUR%20%2F%20TEST%20DRIVE%20-%20Influencer%20Experience)**
+
+---
+
 ## Contact
 
 **Email:** info@fractiai.com  
-**Subject:** "I'M READY FOR VIBELANDIA"  
-**Get:** Free consultation, custom proposal, campus visit
+**Subject:** "I'M READY FOR VIBELANDIA" or "FREE TOUR / TEST DRIVE — Influencer"  
+**Get:** Free consultation, custom proposal, campus visit, or free tour / test drive
 
 ---
 

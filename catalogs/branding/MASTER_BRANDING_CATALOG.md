@@ -144,7 +144,8 @@ ARCHIVE: Complete
   - ⚫ **BBHE (Big Black Hole Energy) is intoxicating** - 5 BBHE Intox % (virtual/imaginary only)
   - 🌿 **Natural Recreations and Therapeutic Escapes** - Safe natural, imaginary based, like playing a really good video game
 - **Buttons:** Visit VibeLand, Join Community, Live at VibeLand, Ultimate VIP
-- **Venues:** Man Cave, Wine Cave, Cabaret
+- **Venues:** Man Cave, Wine Cave, Cabaret. **Man Cave + Cabaret SNAP:** Marilyn = Hero Hostess and house mom at Man Cave + Cabaret. See [MAN_CAVE_CABARET_SNAP.md](../../MAN_CAVE_CABARET_SNAP.md).
+- **WINK! tagline:** HIGH VALUE FRACTAL DATING. Marilyn hero hostess, house mom at Man Cave + Cabaret.
 
 **Quick Access:**
 - **Deck:** `decks/deck-vibeland-branding.md`

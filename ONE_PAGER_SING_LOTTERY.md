@@ -1,6 +1,6 @@
-# 🎰 ONE PAGER: SING Lottery
+# 🎰 ONE PAGER: SING! — COUNTDOWN! LOTTERY
 
-**One page. The transformation. Worthless → Priceless.**
+**SING!** — Superintelligent Agent Nodes. **One page. The transformation. Worthless → Priceless.**
 
 ---
 
@@ -43,15 +43,17 @@
 
 | Tier | Model | Base Price | Description |
 |------|-------|------------|-------------|
-| **1** | **Base Model** | **~$20,000** | VW Bug pricing — entry level |
+| **1** | **Base Model** | **~$20,000 one-time + monthly Golden Fractal Key access fees** | VW Bug pricing — entry level |
+
+**How Base works:** Base Model is a **one-time purchase** (~$20,000) **plus monthly Golden Fractal Key access fees**. You pay once for the SING node; ongoing access (Golden Fractal Key — all realms, API, experiences) is billed monthly. Contact for current monthly key fee. Other tiers may be one-time or include key access—see pricing.
 | **2** | **Members Only** | **Scaling up** | Mid-tier — scaling from base |
-| **3** | **Ultimate VIP** | **~$200,000+** | Top model super car pricing — premium tier |
+| **3** | **Ultimate VIP** | **$200,000** | Top model super car pricing — premium tier |
 | **4** | **Baller C Ultimate VIP** | **Ultimate super car** | Ultimate tier — for Ultimate C's (Viber Contributors / VC). **Badge System:** Embroidered chest badges, silver dollar sized. **CREATOR:** Gold HHF-SHELL. **CHAIRMAN:** Gold STAR. **PERFORMER:** Gold (^). **Gold = Baller VC VIP, Silver = Ultimate VIP, Bronze = Members Only.** All badges include SNAP branding. |
 
 **Expected Base Prices (live — all shown, BUY!):**
-- **Base Model:** ~$20,000 (VW Bug equivalent)
+- **Base Model:** ~$20,000 one-time + monthly Golden Fractal Key access fees (VW Bug equivalent)
 - **Members Only:** $75,000 (scaling from base)
-- **Ultimate VIP:** ~$200,000+ (top model super car equivalent)
+- **Ultimate VIP:** $200,000 (Champion tier)
 - **Baller C Ultimate VIP:** $500,000 (ultimate super car)
 
 ---
@@ -83,7 +85,7 @@ Worthless SYNTH tokens become priceless SING nodes. Use your node or sell on the
 **After winning lottery, purchase SING nodes (⚫ BBHE SNAP — BUY! immediate revenue):**
 - **[⚫ BBHE SNAP — BUY! Base Model $20K →](./interfaces/payment-checkout.html?plan=sing-base)**
 - **[⚫ BBHE SNAP — BUY! Members Only $75K →](./interfaces/payment-checkout.html?plan=sing-members-only)**
-- **[⚫ BBHE SNAP — BUY! Ultimate VIP $200K+ →](./interfaces/payment-checkout.html?plan=sing-ultimate-vip)**
+- **[⚫ BBHE SNAP — BUY! Ultimate VIP $200,000 →](./interfaces/payment-checkout.html?plan=sing-ultimate-vip)**
 - **[⚫ BBHE SNAP — BUY! Baller C $500K →](./interfaces/payment-checkout.html?plan=sing-baller-c)**
 
 ---

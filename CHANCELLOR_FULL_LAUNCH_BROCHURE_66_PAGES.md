@@ -286,7 +286,7 @@ Countdown to The Great Reveal. First 1,000,000 SYNTH holders automatically win t
 |------|-------|------------|
 | 1 | Base Model | ~$20,000 (VW Bug — entry) |
 | 2 | Members Only | $75,000 |
-| 3 | Ultimate VIP | ~$200,000+ (Champion tier) |
+| 3 | Ultimate VIP | $200,000 (Champion tier) |
 | 4 | Baller C Ultimate VIP | $500,000 |
 
 ---
@@ -564,7 +564,7 @@ Mid-range, for active creators.
 
 ## SING NODE TIER 3: ULTIMATE VIP
 
-**~$200,000+** (Top model super car)
+**$200,000** (Champion tier)
 
 Premium, for high-value creators.
 
@@ -1342,7 +1342,7 @@ Premium pricing filters for quality. Only real vibers join.
 
 ### ULTIMATE VIP — FULL DETAILS
 
-**Price:** ~$200,000+ (Top model super car)
+**Price:** $200,000 (Champion tier)
 
 **Features:**
 - Premium Superintelligent Agent Node

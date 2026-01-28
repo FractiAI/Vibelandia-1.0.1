@@ -55,7 +55,7 @@
 | 1 | 2 | 3 | 4 |
 |---|----|----|----|
 | **Base Model** | **Members Only** | **Ultimate VIP** | **Baller C Ultimate VIP** |
-| ~$20K (VW Bug) — entry | Scaling from base — mid-range | ~$200K+ (top super car) — premium | Ultimate super car for Ultimate C's |
+| ~$20K (VW Bug) — entry | Scaling from base — mid-range | $200,000 (Champion tier) — premium | Ultimate super car for Ultimate C's |
 
 *SYNTH → SING March 20, 2026. First 1M holders win right to purchase. Worthless → priceless.*
 

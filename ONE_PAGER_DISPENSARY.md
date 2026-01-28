@@ -1,12 +1,12 @@
 # 📄 ONE PAGER: DISPENSARY! SNAP
 
-**One page. Menu of buzzes. Goldilocks auto-lock. Premium pricing.**
+**One page. Menu of buzzes. Priced by 1hr doses and % in 4 plans. Choice of sacred instrument. Goldilocks auto-lock. Premium pricing.**
 
 ---
 
 ## What It Is
 
-**DISPENSARY! SNAP** — Menu of buzzes across all important biological channels. Selectable Goldilocks auto-lock for ANY COMBINATION of Creator, Chairman Commander, Performer Superhero modes. Premium pricing. Pioneer discount. On-ramps for those who can't afford yet.
+**DISPENSARY! SNAP** — Buzzes priced by **1hr doses** and **%** in **4 plans**. **Choice of sacred instrument:** Joint, Blunt, Pen, Pipe, Bong, Tea, Insect Bite. Menu of buzzes across all important biological channels. Selectable Goldilocks auto-lock for ANY COMBINATION of Creator, Chairman Commander, Performer Superhero modes. Premium pricing. Pioneer discount. On-ramps for those who can't afford yet.
 
 ---
 
@@ -36,11 +36,13 @@
 - **Proprioceptive Channel** — Body awareness buzz experiences
 - **Interoceptive Channel** — Internal sensation buzz experiences
 
-**BUZZ! Levels:**
+**BUZZ! Levels (%):**
 - **Microdose** — 25% buzz (SIMULATED)
 - **Light** — 50% buzz (SIMULATED)
 - **Medium** — 75% buzz (SIMULATED)
 - **Full** — 100% buzz (SIMULATED)
+
+**1hr doses:** Each plan includes 1hr-dose options; tier determines channel access and dose limits. **Sacred instrument:** Joint, Blunt, Pen, Pipe, Bong, Tea, Insect Bite — choose one per experience.
 
 **All buzzes are virtual/imaginary only — natural recreations and therapeutic escapes. Safe natural, imaginary based, like playing a really good video game.**
 

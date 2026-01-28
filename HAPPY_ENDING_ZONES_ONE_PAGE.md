@@ -79,7 +79,7 @@
 
 **Base Model** - VW Bug pricing (~$20,000) - Entry level, every Chairman Creator starts here  
 **Members Only** - Scaling up from base - Mid-range, for active creators  
-**Ultimate VIP** - Top model super car (~$200,000+) - Premium, for high-value creators  
+**Ultimate VIP** - Champion tier ($200,000) - Premium, for high-value creators  
 **Baller G Ultimate VIP** - Beyond top model super car - Ultimate tier, for the ultimate creators  
 **Target:** The Ultimate Chairman Creator in all of us
 

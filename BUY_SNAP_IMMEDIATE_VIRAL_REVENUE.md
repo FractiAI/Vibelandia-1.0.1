@@ -34,7 +34,7 @@ All prices shown. No "contact for pricing." BUY! snap brand on every surface. On
 
 ## 📋 APPLIED TO
 
-- README (all plans, SING tiers 4×4: $20K, $75K, $200K+, $500K; micro edge target; BUY! links)
+- README (all plans, SING tiers 4×4: $20K, $75K, $200,000, $500K; micro edge target; BUY! links)
 - One-pagers (ONE_PAGER_SING_LOTTERY: all prices shown, BUY! CTAs)
 - Payment checkout (all plans have price; SING Members $75K, Baller C $500K; BUY! snap brand; Free plans → BUY! add-on CTAs)
 - Chancellor brochure (all SING prices shown, BUY! immediate revenue)

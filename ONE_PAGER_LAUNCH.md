@@ -72,7 +72,7 @@
 |------|-------|------------|
 | 1 | Base Model | ~$20,000 (VW Bug — entry) |
 | 2 | Members Only | Scaling up |
-| 3 | Ultimate VIP | ~$200,000+ (Champion tier) |
+| 3 | Ultimate VIP | $200,000 (Champion tier) |
 | 4 | Baller C Ultimate VIP | Ultimate — contact |
 
 **Tagline:** *Every day you wait, the price goes up $1. Get in now. Transform worthless into priceless.*
@@ -104,7 +104,7 @@
 | 1 | 2 | 3 | 4 |
 |---|----|----|----|
 | **Base Model** | **Members Only** | **Ultimate VIP** | **Baller C Ultimate VIP** |
-| ~$20K (VW Bug) | Scaling | ~$200K+ (Champion tier) | Ultimate for Ultimate C's |
+| ~$20K (VW Bug) | Scaling | $200,000 (Champion tier) | Ultimate for Ultimate C's |
 
 ### Experience (4)
 
