@@ -113,6 +113,137 @@ This is The Great Reveal. This is the transformation. This is how worthless beco
 
 ## 💰 PLANS & PRICING - WE ARE OPEN FOR BUSINESS!
 
+### **🏛️ VIBELANDIA CAMPUS PLANS - FIRST POST-SINGULARITY CAMPUS**
+
+#### **Campus Access Plans**
+
+**Day Pass** - Experience the campus for a day  
+**Perfect For:** Visitors, first-time explorers  
+**Includes:**
+- Walkable downtown Reno campus access
+- Mark Twain's Daily Bulletin access
+- Campus tour
+- Basic amenities access
+- Community spaces
+
+**⚡ START HERE.** Experience the world's first post-singularity campus. Walkable downtown. Everything close by and convenient.
+
+---
+
+**Weekly Pass** - Full week campus experience  
+**Perfect For:** Extended visits, deeper exploration  
+**Includes:**
+- All Day Pass features
+- Extended campus access
+- Priority access to events
+- Creator studio access
+- Performance venue access
+
+**⚡ GO DEEPER.** Full week access to all campus features. Experience post-singularity living.
+
+---
+
+**Monthly Pass** - Complete campus integration  
+**Perfect For:** Active campus members, creators  
+**Includes:**
+- All Weekly Pass features
+- Full creator studio access
+- Performance venue priority
+- Ultimate VIP experiences
+- Community integration
+- Lake Tahoe gateway access
+- Silicon Valley playground connections
+
+**⚡ GO MONTHLY.** Complete campus integration. Full access to all features. Become part of the community.
+
+---
+
+**Ultimate VIP Campus Access** - Premium campus experience  
+**Perfect For:** High-value creators, Ultimate C's  
+**Includes:**
+- All Monthly Pass features
+- Ultimate VIP exclusive access
+- Baller C exclusive experiences
+- Priority support
+- Exclusive events
+- After Party access
+- Ultimate campus integration
+
+**⚡ GO ULTIMATE VIP.** Premium campus experience for high-value creators. Ultimate access. Ultimate experiences.
+
+---
+
+### **👁️ WINK! DATING PLANS - NETWORK FOR HIGH-VALUE FRACTAL VIBERS**
+
+#### **WINK! Package Options**
+
+**1. BASE PACKAGE - Essential Features**  
+**Perfect For:** Getting started with WINK!  
+**Features:**
+- Basic profile (Notes Being)
+- One AI host (selectable)
+- Basic magical wardrobe
+- Core channels (VIBEVERSE! Core)
+- Basic network access
+- Essential Wink experience
+
+**⚡ START WITH BASE.** Essential WINK! features for high-value vibers getting started.
+
+---
+
+**2. STANDARD PACKAGE - Enhanced Features**  
+**Perfect For:** Active WINK! users  
+**Features:**
+- Enhanced profile (Notes Being)
+- Multiple AI hosts (selectable, configurable)
+- Enhanced magical wardrobe
+- More channels (VIBEVERSE! Core + VibeLand Reno)
+- Enhanced network access
+- Standard Wink experience
+
+**⚡ GO STANDARD.** Enhanced features for active WINK! users. More hosts, more wardrobe, more channels.
+
+---
+
+**3. PREMIUM PACKAGE - Advanced Features**  
+**Perfect For:** Serious WINK! users, high-value vibers  
+**Features:**
+- Premium profile (Notes Being)
+- All AI hosts (selectable, configurable, custom)
+- Premium magical wardrobe
+- All channels (VIBEVERSE! Core + VibeLand Reno)
+- Advanced features
+- Premium network access
+- Advanced Wink experience
+
+**⚡ GO PREMIUM.** Advanced features for serious WINK! users. All hosts, premium wardrobe, all channels.
+
+---
+
+**4. 4X4 ULTIMATE PACKAGE - Ultimate Features (16 Features)**  
+**Perfect For:** Ultimate C's, ultimate creators  
+**Features:**
+- Ultimate profile (Notes Being, animated)
+- All AI hosts (unlimited, custom)
+- Ultimate magical wardrobe (unlimited)
+- All channels (premium access)
+- Advanced features
+- Custom features
+- Priority support
+- Exclusive access
+- Network priority
+- Wardrobe unlimited
+- Host custom
+- Channel premium
+- Wink premium
+- Profile animated
+- Domain unlimited
+- Fusion unlimited
+
+**⚡ GO 4X4.** Ultimate WINK! experience with 16 features. Everything unlimited. For Ultimate C's.
+
+---
+
 ### **🎰 SYNTH LOTTERY - GET IN NOW!**
 
 **Current Price:** $5 per SYNTH (January 27, 2026)  
