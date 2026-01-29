@@ -18,8 +18,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        # Shallow clone to avoid git exit 128 (fetch full history can fail in CI)
         with:
-          fetch-depth: 0
+          fetch-depth: 1
 
       - name: Setup Node
         uses: actions/setup-node@v4
