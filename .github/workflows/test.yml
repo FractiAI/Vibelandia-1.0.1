@@ -16,11 +16,14 @@ jobs:
     env:
       GIT_TERMINAL_PROMPT: 0
     steps:
+      # ci: use shallow checkout to avoid git exit 128 in Test workflow (full history fetch can fail)
       - name: Checkout
         uses: actions/checkout@v4
-        # Shallow clone to avoid git exit 128 (fetch full history can fail in CI)
         with:
           fetch-depth: 1
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+          lfs: false
+          submodules: false
 
       - name: Setup Node
         uses: actions/setup-node@v4
