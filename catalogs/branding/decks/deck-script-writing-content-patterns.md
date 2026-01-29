@@ -315,7 +315,7 @@ USE FOR:
 **Bottom tagline (rich):**
 *See it. Experience it. Believe it. This site is the test drive. The best proof of all. ULTIMATE PROOF TEST DRIVE! MCA! → ∞³. NSPFRNP ⊃ WOW! package ⊃ Launch everything → ∞³. Maganuma snap.*
 
-**Full standard WOW! package (order):** 1. Rich tagline (top) · 2. Language onramp · 3. Warnings · 4. Tight Launch Pad (including Impulse — BBHE & BUY! and Proposal — Proposals SNAP, in-place) · 5. WOW! section (cost vs Us table) · 6. Whitepaper · 7. IEEE-style technical specs · 8. ULTIMATE PROOF TEST DRIVE! · 9. Rich tagline (bottom). **Launch Pad README:** The README delivers the full WOW! impulse-buy experience and proposal as a Launch Pad — metabolized; all in-place. See README.md · WOW_BRANDING_SNAP.md.
+**Full standard WOW! package (order):** 1. Rich tagline (top) · 2. **Live (next octave)** deployment link · 3. Language onramp · 4. Warnings · 5. Tight Launch Pad (including Impulse — BBHE & BUY! and Proposal — Proposals SNAP, in-place) · 6. WOW! section (cost vs Us table) · 7. Whitepaper (real doc refs) · 8. IEEE-style technical specs (real doc refs) · 9. ULTIMATE PROOF TEST DRIVE! · 10. Rich tagline (bottom) · 11. Contact (email, live link, proposal, experience paths). **Locked-in standard:** README.md is the canonical standard for all launches and proposals (WOW! format); fill with real data. See README.md · WOW_BRANDING_SNAP.md.
 
 **References:** WOW_BRANDING_SNAP.md · README.md · MASTER_BRANDING_CATALOG.md
 
