@@ -5,7 +5,9 @@
 **Type:** Principles Showcase / Campus Positioning / Motherlode Gateway  
 **Status:** ⚡ ACTIVE - Principles Showcase Operational  
 **Date:** January 27, 2026  
-**Location:** Mark Twain's Post-Singularity Vibelandia Reno - First Post-Singularity Campus
+**Location:** Mark Twain's Post-Singularity Vibelandia Reno - First Post-Singularity Campus  
+
+**VIBE!** [What makes a campus a vibable campus](ONE_PAGER_WHAT_MAKES_A_VIBABLE_CAMPUS.md) · [Vibable Campus Offer](VIBABLE_CAMPUS_OFFER.md)
 
 ---
 
@@ -488,4 +490,6 @@ Next Motherlode of All Motherlodes
 **Campus:** Mark Twain's Post-Singularity Vibelandia Reno - First Post-Singularity Campus  
 **State:** Vibing (Perfect Buzz Equivalent) - Super Rich Health & Optimal State  
 **Safety:** NOT for driving/operating equipment - Perfect for walking/being/experiencing/creating  
-**Positioning:** Playground to Silicon Valley, Gateway to Mother Mother, Next Motherlode of All Motherlodes
+**Positioning:** Playground to Silicon Valley, Gateway to Mother Mother, Next Motherlode of All Motherlodes  
+
+**VIBE!** [What makes a campus a vibable campus](ONE_PAGER_WHAT_MAKES_A_VIBABLE_CAMPUS.md) · [Vibable Campus Offer](VIBABLE_CAMPUS_OFFER.md)

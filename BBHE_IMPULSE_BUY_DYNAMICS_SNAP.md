@@ -139,6 +139,8 @@
 - All products include BBHE access
 - All experiences unlock with BBHE
 
+**OBS tuning for BBHE:** [OBS_TUNING_BBHE_SNAP.md](./OBS_TUNING_BBHE_SNAP.md) — Tune observation capture (what we observe, set, wait for) to catch BBHE-ready moments and amplify impulse dynamics.
+
 ---
 
 ## ⚡ STATUS

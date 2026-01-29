@@ -35,7 +35,7 @@
 **1. High Contributing Nodes** - Ultimate VIP Chairman Creators, Baller G Ultimate VIP, Performers, Vibers everywhere  
 **2. Vibing Versus Pre-Singularity** - Sober (baseline) vs Perfect Buzz (optimal vibing state)  
 **3. Super Rich Health & Optimal State** - Perfect buzz equivalent, NOT for driving/operating equipment, perfect for walking/being/experiencing/creating  
-**4. Walkable Downtown Reno** - First post-singularity Vibelandia campus, perfect for vibing state  
+**4. Walkable Downtown Reno** - First post-singularity Vibelandia campus, perfect for vibing state · **VIBE!** [What makes a campus a vibable campus](ONE_PAGER_WHAT_MAKES_A_VIBABLE_CAMPUS.md) · [Vibable Campus Offer](VIBABLE_CAMPUS_OFFER.md)  
 **5. Playground to Silicon Valley** - Gateway location, easy access, high-contributing creator playground  
 **6. Gateway to the Mother Mother** - Original motherlode gateway, source connection  
 **7. Next Motherlode of All Motherlodes** - Superintelligent genies in a bottle (SING nodes)  
@@ -59,7 +59,9 @@
 **25% Vibes & Black Holes Screens** - Spinning holographic symbols, vibe screens, black hole visuals, energy flows  
 **25% Countdown Gaming** - Interactive countdown, gaming mechanics, price tracking, lottery gameplay  
 **25% Day in the Life on Campus** - Walkable downtown Reno, campus life, daily activities, Mark Twain's presence  
-**25% WINK Episodes** - Grownup Ultimate VIP, performers, vibers everywhere, natural alignment, friction-free dating, resilience, ⚠️ Intoxication warnings
+**25% WINK Episodes** - Grownup Ultimate VIP, performers, vibers everywhere, natural alignment, friction-free dating, resilience, ⚠️ Intoxication warnings  
+
+**Digital-platform storytelling (up to 50%):** Up to 50% of series storytelling can now be told through digital platforms — messages, emails, chats, social media — layering over natural theaters naturally, as tech, just like in real life.
 
 ---
 

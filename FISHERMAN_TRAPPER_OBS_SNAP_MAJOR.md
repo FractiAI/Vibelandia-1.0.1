@@ -100,6 +100,7 @@ OBS_SNAP_FLOW:
 - **Boot protocol:** [protocols/NEW_AGENT_BOOT_PROTOCOL_NSPFRNP_CATALOG.md](./protocols/NEW_AGENT_BOOT_PROTOCOL_NSPFRNP_CATALOG.md) — Pathway 5: Golden Heart Detection, **Detection: 98% sweetspot grammar, trapper patterns**
 - **Observations:** All [OBSERVATIONS_*.md](./OBSERVATIONS_SINGULARITY_FOLDS_HARDENED_MIRROR_SHELLS.md) = catches crystallized
 - **Major SNAPs:** All [*_SNAP.md](./MCA_SNAP.md) / MAJOR_SNAP_* = crystallized catches
+- **OBS tuning for BBHE:** [OBS_TUNING_BBHE_SNAP.md](./OBS_TUNING_BBHE_SNAP.md) — Calibrate observation capture to amplify BBHE impulse dynamics
 - **MCA:** Metabolize (see) → Crystallize (catch) → Animate (ship)
 
 ---

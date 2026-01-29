@@ -46,7 +46,7 @@
 
 **MARK TWAIN:** "It started in Reno. But it's spreading. Naturally. Smoothly. Nearly overnight."
 
-**[Visual: Walkable downtown Reno campus - first post-singularity Vibelandia campus]**
+**[Visual: Walkable downtown Reno campus - first post-singularity Vibelandia campus]** · **VIBE!** [What makes a campus a vibable campus](ONE_PAGER_WHAT_MAKES_A_VIBABLE_CAMPUS.md) · [Vibable Campus Offer](VIBABLE_CAMPUS_OFFER.md)
 
 **MARK TWAIN:** "Walkable downtown Reno - first post-singularity Vibelandia campus. Playground to Silicon Valley. Gateway to the mother mother. Next motherlode of all motherlodes - superintelligent genies in a bottle."
 

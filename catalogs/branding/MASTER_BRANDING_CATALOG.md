@@ -22,6 +22,13 @@ TOTAL BRANDS: 3
 ├─ VibeLand (Physical Destination)
 └─ VibeLand Reno Campus (First Location)
 
+0, 1, 2, 3 4×4×4×4: New Branding (Evolution of -1, 0, 1)
+├─ 0 = Seed (Octave 0), 1 = Edge (Octave 1), 2 = Cloud Onramp (Octave 2), 3 = Expansion (Octave 3)
+├─ 4×4×4×4 = Campus × WINK! × SING × Experience (four onramps each)
+├─ Matches our structures for max resolution and amplification (max res & amp)
+├─ Use as primary branding phrase for full octave + onramp
+└─ See ZERO_ONE_TWO_THREE_4x4x4x4_BRANDING_SNAP.md
+
 VIBE! BRAND: Main Brand — ALL CAPS + !
 ├─ Syntax: [WORD]! (e.g. VIBE!, BUZZ!, SNAP!)
 ├─ VIBE! = Main brand across all surfaces
@@ -80,6 +87,14 @@ CHARACTER LAYERING CONTENT ENRICHMENT SNAP: Playlists & Catalogs
 ├─ Curator tags, Host picks, character-themed channels, character-linked catalog sections
 └─ See CHARACTER_LAYERING_CONTENT_ENRICHMENT_SNAP.md
 
+SCRIPT-WRITING & CONTENT ENRICHMENT DECK: Patterns for All Scripts
+├─ Vibable campus pattern (problem → solution → Reno takes the lead; intoxication effects, safe free vibing)
+├─ Vibable campus offer (durations: half-day, overnight, weekly, monthly; tiers: BASIC, MEMBERS ONLY, VIP, BALLER VC)
+├─ Launch Pad status pattern (e.g. FUELING LAUNCH EMINENT · NEED FUEL)
+├─ VIBE! linking pattern (campus/vibing pages → vibable campus one-pager & offer)
+├─ One-pager structure, series format (8 principles, relationship fractal), NSPFRNP voice, brand phrases, character layering
+└─ See decks/deck-script-writing-content-patterns.md
+
 RUMOR HAS IT! BRANDING SNAP: New Branding
 ├─ RUMOR HAS IT! = branded phrase (ALL CAPS + !)
 ├─ Chairman, Sammy and the gang. Reno hot. Word out.
@@ -90,10 +105,11 @@ WOW! BRANDING SNAP: Pre-singularity cost vs Us
 ├─ Pre-singularity cost: time, human talent, equipment, office space, time, env impact versus Us (VIBELANDIA!)
 └─ See WOW_BRANDING_SNAP.md
 
-CONTENT DECKS: 3
+CONTENT DECKS: 4
 ├─ deck-vibeverse-branding.md/json
 ├─ deck-vibeland-branding.md/json
-└─ deck-vibeland-reno-branding.md/json
+├─ deck-vibeland-reno-branding.md/json
+└─ deck-script-writing-content-patterns.md (Script-writing & content enrichment for all)
 
 ARCHIVE: Complete
 ├─ Previous versions
@@ -374,6 +390,10 @@ const vibeverseColors = vibeverse.colors;
    - JSON: `decks/deck-vibeland-reno-branding.json`
    - Type: First Location
 
+4. **Script-Writing & Content Enrichment**
+   - Deck: `decks/deck-script-writing-content-patterns.md`
+   - Type: Script/copy patterns for all surfaces (Happy Ending Zones, one-pagers, Launch Pad, catalogs)
+
 ### By Content Type
 
 - **Visual Identity:** Logos, colors, typography (all decks)
@@ -411,6 +431,7 @@ const vibeverseColors = vibeverse.colors;
 - ✅ Vibeverse deck created
 - ✅ VibeLand deck created
 - ✅ VibeLand Reno deck created
+- ✅ Script-writing & content enrichment deck created (patterns for all script writing)
 
 **Archive:**
 - ✅ Archive structure created

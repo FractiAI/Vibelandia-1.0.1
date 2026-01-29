@@ -6,4 +6,6 @@
 
 **Series:** Happy Ending Zones - Season One: The Transformation  
 **Format:** Daily Reality Series - 52 Episodes + Finale  
-**Status:** ⚡ ACTIVE - Season One Countdown to March 20, 2026
+**Status:** ⚡ ACTIVE - Season One Countdown to March 20, 2026  
+
+**VIBE!** [What makes a campus a vibable campus](ONE_PAGER_WHAT_MAKES_A_VIBABLE_CAMPUS.md) · [Vibable Campus Offer](VIBABLE_CAMPUS_OFFER.md)

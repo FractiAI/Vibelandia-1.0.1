@@ -50,4 +50,6 @@ high-contributing creators, Ultimate C's (Viber Contributors / VC). The caliber 
 
 **MCA! → ∞³** (Metabolize → Crystallize → Animate)
 
+**VIBE!** [What makes a campus a vibable campus](ONE_PAGER_WHAT_MAKES_A_VIBABLE_CAMPUS.md) · [Vibable Campus Offer](VIBABLE_CAMPUS_OFFER.md)
+
 **[← Launch Page](LAUNCH_PAGE.md)** · [Day Pass](ONE_PAGER_DAY_PASS.md) · [Weekly](ONE_PAGER_WEEKLY_PASS.md) · [Monthly](ONE_PAGER_MONTHLY_PASS.md)

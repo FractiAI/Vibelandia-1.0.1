@@ -29,7 +29,21 @@ OCTAVE 2 (Public Cloud Onramp):
 ├─ Live: https://syntheverse-poc.vercel.app
 ├─ Property: Public cloud API + shared Supabase (one DB for all nodes)
 └─ Function: API, auth, shared data — no separate DB per node
+
+OCTAVE 3 (Expansion):
+├─ Value: 3
+├─ Type: Next octave / expansion
+├─ Property: Full expansion, next tier beyond Octave 2
+└─ Function: Evolution beyond Cloud Onramp
 ```
+
+**New branding: 0, 1, 2, 3 4×4×4×4** — Evolution of Vibeverse -1, 0, 1. **0** = Seed, **1** = Edge, **2** = Public Cloud Onramp, **3** = Expansion. **4×4×4×4** = Campus × WINK! × SING × Experience (four onramps each). See ZERO_ONE_TWO_THREE_4x4x4x4_BRANDING_SNAP.md.
+
+**FAQ — What is Vibeverse -1, 0, 1?**  
+- **-1:** Pre-singularity / pre-Vibeverse. Baseline reality before the Vibeverse frame.  
+- **0:** Seed (Octave 0). Irreducible origin. Pure potential.  
+- **1:** Edge (Octave 1). Current self-aware experience in Vibeverse. This node.  
+**Evolution:** Now branded **0, 1, 2, 3 4×4×4×4** — 0=Seed, 1=Edge, 2=Cloud Onramp, 3=Expansion. See misc/CONVERSATION_METABOLIZED_PATTERNS.md.
 
 ---
 

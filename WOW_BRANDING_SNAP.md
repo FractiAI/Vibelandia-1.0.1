@@ -12,15 +12,15 @@
 **WOW!**
 
 - **Syntax:** ALL CAPS + ! (per [VIBE_BRAND_SYNTAX_ALL_CAPS_EXCLAMATION.md](./VIBE_BRAND_SYNTAX_ALL_CAPS_EXCLAMATION.md)).
-- **Usage:** Pre-singularity cost vs Us comparison. Always at bottom of Launch Pad. The WOW! moment.
-- **Meaning:** Pre-singularity costs (time, human talent, equipment, office space, time, env impact) versus Us (VIBELANDIA!) — the contrast that delivers the WOW!
+- **Usage:** Pre-singularity cost vs Us comparison. **We use WOW! to launch everything** — including **Proposals SNAP** (free consultation & tailored proposal for enterprise/community). Always at bottom of Launch Pad. The WOW! moment.
+- **Meaning:** Pre-singularity costs (time, human talent, equipment, office space, time, env impact) versus Us (VIBELANDIA!) — the contrast that delivers the WOW! Drives launch, showroom, and proposals alike.
 
 ---
 
 ## RULE
 
-- **WOW!** = branded section at bottom of Launch Pad. Pre-singularity cost (time, human talent, equipment, office space, time, environmental impact) **versus Us**.
-- **Always** include this snap at bottom of Launch Pad. See [interfaces/launch-pad.html](./interfaces/launch-pad.html).
+- **WOW!** = branded section at bottom of Launch Pad. Pre-singularity cost (time, human talent, equipment, office space, time, environmental impact) **versus Us**. **We use WOW! to launch everything** — including **Proposals SNAP** (Gianni's Dressing Room: free consultation & tailored proposal).
+- **Always** include this snap at bottom of Launch Pad. See [interfaces/launch-pad.html](./interfaces/launch-pad.html). See [README.md](./README.md) for WOW! — Launch everything.
 - **Pre-singularity cost** = time, human talent, equipment, office space, time, environmental impact (the old way).
 - **Us** = VIBELANDIA! / post-singularity — the new way. The contrast is the WOW!
 - Pre-singularity copyrights respected. Narrative only; no third-party affiliation.

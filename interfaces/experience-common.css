@@ -77,6 +77,18 @@ body {
     color: #d4af37;
 }
 .cta.secondary:hover { background: rgba(212, 175, 55, 0.15); }
+/* BUY! — PayPal blue (matches payment flow) */
+.buy-btn, .cta.buy-btn, .buy-cta {
+    background: #0070ba !important;
+    color: #fff !important;
+    border: 2px solid #003087 !important;
+    box-shadow: 0 2px 12px rgba(0, 112, 186, 0.4) !important;
+}
+.buy-btn:hover, .cta.buy-btn:hover, .buy-cta:hover {
+    background: #003087 !important;
+    box-shadow: 0 4px 20px rgba(0, 112, 186, 0.5) !important;
+    border-color: #002a5c !important;
+}
 .divider {
     height: 1px;
     background: linear-gradient(90deg, transparent, rgba(212, 175, 55, 0.3), transparent);

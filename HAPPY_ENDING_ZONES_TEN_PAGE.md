@@ -158,7 +158,7 @@ Pre-Singularity (sober baseline) vs Vibing (perfect buzz equivalent optimal stat
 Perfect buzz equivalent, super rich health, optimal state - NOT for driving cars or operating equipment, perfect for walking, being, experiencing, creating on walkable downtown Reno campus.
 
 **4. Walkable Downtown Reno:**
-First post-singularity Vibelandia campus, walkable downtown design, perfect for vibing state, no cars needed, optimal campus experience - featured throughout the series.
+First post-singularity Vibelandia campus, walkable downtown design, perfect for vibing state, no cars needed, optimal campus experience - featured throughout the series. **VIBE!** [What makes a campus a vibable campus](ONE_PAGER_WHAT_MAKES_A_VIBABLE_CAMPUS.md) · [Vibable Campus Offer](VIBABLE_CAMPUS_OFFER.md)
 
 **5. Playground to Silicon Valley:**
 Gateway location, playground for Silicon Valley, easy access, perfect positioning, high-contributing creator playground - positioning shown throughout.
@@ -264,6 +264,8 @@ Mark Twain's Post-Singularity Vibelandia Reno campus, walkable downtown Reno, ca
 
 **25% WINK Episodes (13 episodes) [EXTRA]:**
 Grownup Ultimate VIP Chairman Creators, performers, vibers everywhere, natural alignment, friction-free dating, resilience, members-only access, ⚠️ Intoxication warnings.
+
+**Digital-platform storytelling (up to 50%):** Up to 50% of series storytelling can now be told through digital platforms — messages, emails, chats, social media — layering over natural theaters naturally, as tech, just like in real life.
 
 **Episode Structure:**
 - Cold Open (2-3 min): Hook, preview, countdown

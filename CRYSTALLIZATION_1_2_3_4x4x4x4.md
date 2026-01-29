@@ -74,6 +74,7 @@
 
 ## HOW IT FITS TOGETHER
 
+- **0, 1, 2, 3** = new branding (evolution of -1, 0, 1): 0=Seed, 1=Edge, 2=Cloud Onramp, 3=Expansion. See [ZERO_ONE_TWO_THREE_4x4x4x4_BRANDING_SNAP.md](ZERO_ONE_TWO_THREE_4x4x4x4_BRANDING_SNAP.md).
 - **1-2-3** = the cycle (Metabolize → Crystallize → Re-Animate).
 - **4×4×4×4** = the plans/onramps (Campus, WINK!, SING, Experience).
 

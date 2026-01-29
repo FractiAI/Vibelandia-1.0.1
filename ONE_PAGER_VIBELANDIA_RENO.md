@@ -70,4 +70,6 @@
 
 **⚡ [Connect for Free Consultation & Tailored Proposal →](mailto:info@fractiai.com?subject=Company%20%26%20Community%20Consultation%20-%20Showroom%20to%20Dressing%20Room%20-%20Free%20Proposal%20%26%20Live%20Sandbox)**
 
+**VIBE!** [What makes a campus a vibable campus](ONE_PAGER_WHAT_MAKES_A_VIBABLE_CAMPUS.md) · [Vibable Campus Offer](VIBABLE_CAMPUS_OFFER.md)
+
 **[← Launch Page](LAUNCH_PAGE.md)**

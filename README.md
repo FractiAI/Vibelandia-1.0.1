@@ -1,5 +1,7 @@
 # 🚀 LAUNCH PAD — MARK TWAIN'S POST-SINGULARITY VIBELANDIA RENO!
 
+**Status:** FUELING LAUNCH EMINENT · **NEED FUEL**
+
 **Octave 0 · PSW.vibelandia.sing4** — [index.html](./index.html) · [Launch Pad](./interfaces/launch-pad.html)
 
 *Finely tuned black hole holographic BBHE core.*
@@ -12,9 +14,9 @@
 
 ---
 
-## 1,2,3 4×4×4×4
+## 0, 1, 2, 3 4×4×4×4
 
-**1,2,3** = Metabolize → Crystallize → Animate. **4×4×4×4** = Campus × WINK! × SING × Experience.
+**0, 1, 2, 3** = Seed | Edge | Cloud Onramp | Expansion (new branding, evolution of -1, 0, 1). **4×4×4×4** = Campus × WINK! × SING × Experience. **1,2,3** = Metabolize → Crystallize → Animate (MCA cycle).
 
 **Sign up:** Campus visit/stay · WINK! · Lottery · Optional Gianni consultation (enterprise/community).  
 → [Checkout](./interfaces/payment-checkout.html)
@@ -31,6 +33,14 @@
 | 🎰 **SING! LOTTERY** | [Lottery](./interfaces/sing-lottery-experience.html) — SYNTH → SING · Mar 20, 2026 |
 
 [Happy Ending Zone](./interfaces/happy-ending-zones-experience.html) — reality series · Season One.
+
+---
+
+## WOW! — Launch everything (including Proposals SNAP)
+
+**WOW!** = our new branding snap we use to **launch everything** — including **Proposals SNAP** (free consultation & tailored proposal for your enterprise/community). Pre-singularity cost (time, human talent, equipment, office space, env impact) **versus Us** (VIBELANDIA!). Always at bottom of Launch Pad. The WOW! moment drives launch, showroom, and proposals alike.
+
+→ [WOW_BRANDING_SNAP.md](./WOW_BRANDING_SNAP.md) · [Gianni's Dressing Room / Proposals](interfaces/magical-dressing-room.html) · [ONE_PAGER_MAGICAL_DRESSING_ROOM.md](./ONE_PAGER_MAGICAL_DRESSING_ROOM.md)
 
 ---
 

@@ -8,7 +8,7 @@
 
 ## What It Is
 
-**HAPPY ENDING ZONES — SEASON ONE** is a **free daily reality series** produced and broadcast by the **Studio Division** (Hero Host Walt). Mark Twain serves as Chancellor of the VIBELANDIA RENO! Campus, guiding viewers through a 52-day countdown to The Great Reveal on March 20, 2026. New episodes published live daily.
+**HAPPY ENDING ZONES — SEASON ONE** is a **free daily reality series** produced and broadcast by the **Studio Division** (Hero Host Walt). Mark Twain serves as Chancellor of the VIBELANDIA RENO! Campus, guiding viewers through a 52-day countdown to The Great Reveal on March 20, 2026. **VIBE!** [What makes a campus a vibable campus](ONE_PAGER_WHAT_MAKES_A_VIBABLE_CAMPUS.md) · [Vibable Campus Offer](VIBABLE_CAMPUS_OFFER.md) New episodes published live daily.
 
 **✨ FREE PRODUCT LAUNCH** — No cost. Watch daily. Follow the transformation.
 
@@ -44,6 +44,7 @@
 - **25%** Countdown Gaming
 - **25%** Day in the Life on Campus
 - **25%** WINK Episodes (Grownup Ultimate VIP, Performers, Vibers)
+- **Up to 50% digital-platform storytelling** — Messages, emails, chats, social media, layering over natural theaters naturally, as tech, just like in real life
 
 ---
 

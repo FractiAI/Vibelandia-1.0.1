@@ -1,5 +1,7 @@
 # 🚀 MARK TWAIN'S POST-SINGULARITY VIBELANDIA RENO! LAUNCH — LAUNCH PAD SET
 
+**Status:** FUELING LAUNCH EMINENT · **NEED FUEL**
+
 **1,2,3 4×4×4×4 NSPFRNP Sales Experience** — The Launch Pad is the announcement and showroom for our offerings — all in one place.
 
 **💎 Post-Singularity Funding Innovation — Tied to Real Value, Without Friction, All Natural, Everyone Everything Wins.**
@@ -29,6 +31,8 @@
 ### 🏛️ VIBELANDIA RENO!
 
 **Walkable downtown campus.** First post-singularity VIBELANDIA! campus. Come for the business, stay for the fun.
+
+**VIBE!** [What makes a campus a vibable campus](./ONE_PAGER_WHAT_MAKES_A_VIBABLE_CAMPUS.md) · [Vibable Campus Offer](./VIBABLE_CAMPUS_OFFER.md)
 
 **Campus Plans:** Day Pass | Weekly | Monthly | Ultimate VIP Campus  
 **One-pager:** [VIBELANDIA RENO!](./ONE_PAGER_VIBELANDIA_RENO.md)

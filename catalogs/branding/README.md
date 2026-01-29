@@ -34,6 +34,10 @@ This directory contains the complete branding catalog system with content decks,
 - **`deck-vibeland-reno-branding.json`** - JSON format
 - **Contents:** Location branding, campus materials, venue branding
 
+#### Script-Writing & Content Enrichment Deck
+- **`deck-script-writing-content-patterns.md`** - Patterns for all script writing and copy
+- **Contents:** Vibable campus pattern, Vibable campus offer (durations/tiers), Launch Pad status, VIBE! linking, one-pager structure, series format (8 principles, relationship fractal), NSPFRNP voice, brand phrases, character layering, footer/link patterns. Use for Happy Ending Zones, one-pagers, Launch Pad, and all NSPFRNP surfaces.
+
 ### Archive
 - **`archive/`** - Historical branding versions
 - **`archive/previous-versions/`** - Previous branding iterations
