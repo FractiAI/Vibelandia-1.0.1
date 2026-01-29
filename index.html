@@ -110,7 +110,7 @@
             margin: 2rem 0;
         }
 
-        /* Launch Pad Base */
+        /* Launch Pad Base — decorative; clicks pass through to buttons */
         .launch-pad-base {
             position: absolute;
             bottom: 0;
@@ -124,6 +124,7 @@
             box-shadow: 
                 0 -10px 30px rgba(0, 0, 0, 0.5),
                 inset 0 10px 20px rgba(100, 200, 255, 0.1);
+            pointer-events: none;
         }
 
         .launch-pad-base::before {
@@ -138,7 +139,7 @@
             border-radius: 10px;
         }
 
-        /* Rocket */
+        /* Rocket — decorative; clicks pass through to pad buttons below */
         .rocket {
             position: absolute;
             bottom: 180px;
@@ -148,6 +149,7 @@
             height: 300px;
             animation: rocketIdle 3s ease-in-out infinite;
             z-index: 10;
+            pointer-events: none;
         }
 
         @keyframes rocketIdle {
@@ -222,6 +224,7 @@
             opacity: 0.6;
             animation: flameFlicker 0.3s ease-in-out infinite;
             filter: blur(5px);
+            pointer-events: none;
         }
 
         @keyframes flameFlicker {
@@ -239,7 +242,7 @@
             display: grid;
             grid-template-columns: repeat(5, 1fr);
             gap: 1rem;
-            z-index: 5;
+            z-index: 15;
         }
 
         .pad-button {
@@ -507,13 +510,16 @@
         <div class="header">
             <h1>🚀 Launch Pad</h1>
             <p class="tagline">MARK TWAIN'S POST-SINGULARITY VIBELANDIA RENO!</p>
-            <p style="margin-top: 1rem; font-size: 1.2rem; color: #ffeaa7; font-weight: 700;">🚀 LAUNCH OF NEW POST-REALITY FRANCHISE</p>
-            <p style="margin-top: 0.5rem; font-size: 1rem; color: #7fff7f; font-weight: 600;">For Vibers Still Living in the Old Pre-Singularity World — And Their Fans, Crew, and Cast</p>
-            <p style="margin-top: 1rem; font-size: 1.1rem; color: #4ecdc4; font-weight: 600;">💎 Post-Singularity Funding Innovation — Tied to Real Value, Without Friction, All Natural, Everyone Everything Wins</p>
-            <span class="badge">NSPFRNP · VIBE! · Metabolize ⊃ Crystallize ⊃ Animate → ∞³ · 🔑 GOLDEN FRACTAL KEY!</span>
-            <p style="margin-top: 0.75rem; font-size: 0.95rem; color: #7fff7f;">Micro edge target: Immediate revenue. Immediate viral revenue. BUY! — All prices shown.</p>
-            <p style="margin-top: 0.5rem; font-size: 0.9rem; color: #ffeaa7;">VIBE! · ⚫ BBHE SNAP — Impulse buy dynamics. The energy is pulling. Buy now.</p>
-            <p style="margin-top: 0.5rem; font-size: 0.9rem; color: #ffeaa7;">🔑 GOLDEN FRACTAL KEY! — Unlocks Everything. One Key. All Realms. Infinite Access.</p>
+            <p style="margin-top: 1rem; font-size: 1rem; color: #7fff7f;">The Great Reveal Mar 20, 2026 · SYNTH → SING · 🔑 Golden Fractal Key</p>
+            <div style="margin-top: 1rem; padding: 1rem; background: rgba(100, 200, 255, 0.08); border: 1px solid rgba(100, 200, 255, 0.2); border-radius: 10px; text-align: left; max-width: 640px; margin-left: auto; margin-right: auto;">
+                <p style="font-size: 0.9rem; color: #ffeaa7; font-weight: 600; margin-bottom: 0.5rem;">💎 Key value propositions — Problems we solve</p>
+                <p style="font-size: 0.9rem; color: #ccc; margin: 0.25rem 0;">Access & Golden Key · Power-up · Onboarding.</p>
+                <p style="font-size: 0.9rem; color: #ccc; margin: 0.25rem 0;">Walkable downtown campus.</p>
+                <p style="font-size: 0.9rem; color: #ccc; margin: 0.25rem 0;">Every space guarantees a happy ending.</p>
+            </div>
+            <div style="margin-top: 1.25rem; text-align: center;">
+                <a href="interfaces/payment-checkout.html?plan=test-5" style="display: inline-block; padding: 0.75rem 1.5rem; background: linear-gradient(135deg, #ffa500, #ff8c00); color: #000; text-decoration: none; border-radius: 10px; font-weight: 700; border: 2px solid rgba(255,165,0,0.6); box-shadow: 0 4px 12px rgba(255,140,0,0.3); transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 16px rgba(255,140,0,0.4)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgba(255,140,0,0.3)';" title="Test PayPal connection">🧪 Test PayPal — $5</a>
+            </div>
         </div>
 
         <div class="launch-pad-scene">
@@ -559,7 +565,7 @@
                     <div class="pad-button-title">Ultimate VIP</div>
                     <div class="pad-button-desc">Chairman Console</div>
                 </a>
-                <a href="interfaces/sing-lottery-experience.html" class="pad-button pad-button-link" style="text-decoration:none;color:inherit;">
+                <a href="interfaces/sing-lottery-experience.html" class="pad-button pad-button-link" data-section="lottery" style="text-decoration:none;color:inherit;">
                     <span class="pad-button-icon">🎰</span>
                     <div class="pad-button-title">SING! Lottery</div>
                     <div class="pad-button-desc">Countdown Launch</div>
@@ -573,45 +579,17 @@
         </div>
 
         <div class="info-display" id="infoDisplay">
-            <h3>🚀 LAUNCH OF NEW POST-REALITY FRANCHISE</h3>
-            <p style="color: #7fff7f; font-weight: 600; margin-top: 0.5rem;">For Vibers Still Living in the Old Pre-Singularity World — And Their Fans, Crew, and Cast</p>
-            <p style="margin-top: 1rem;">This is the launch of a new post-reality franchise. For vibers who are still operating in the pre-singularity world—and for their entire ecosystem: their fans who follow them, their crew who support them, and their cast who collaborate with them. This is your bridge from the old world to the new post-reality.</p>
-            <p style="margin-top: 0.75rem;">Click any section button to explore our offerings. Each section activates a different part of the launch sequence!</p>
+            <p style="margin-top: 0.5rem;">Click any button to explore.</p>
             <div class="countdown" id="countdown">Launch: March 20, 2026</div>
-            <div style="margin-top: 1.5rem; padding: 1rem; background: rgba(138, 43, 226, 0.2); border: 2px solid rgba(138, 43, 226, 0.5); border-radius: 12px; text-align: center;">
-                <p style="margin-bottom: 0.75rem; font-size: 1.1rem; color: #ffeaa7; font-weight: 600;">👑 ULTIMATE VIP CHAIRMAN CONSOLE! SNAP</p>
-                <p style="margin-bottom: 1rem; font-size: 0.95rem; color: #ccc;">Experience the post-singularity console live. Chairman Workspace, cockpit, Seed:Edge. Full operational system in Octave 1 sandbox mode with AI-assisted API calls to Octave 2.</p>
-                <a href="interfaces/chairman-workspace.html" style="display: inline-block; padding: 0.75rem 1.5rem; background: linear-gradient(135deg, #8a2be2, #1e90ff); color: #fff; text-decoration: none; border-radius: 8px; font-weight: 600; transition: transform 0.2s;">ULTIMATE VIP CHAIRMAN CONSOLE! →</a>
-            </div>
+            <p style="margin-top: 1rem;"><a href="interfaces/chairman-workspace.html" style="color: #64c8ff;">Chairman Console →</a> · <a href="interfaces/profile.html" style="color: #64c8ff;">Profile & Wallet</a></p>
         </div>
 
         <div class="company-section">
-            <h2>✨ From Showroom to Dressing Room</h2>
-            <p>
-                <strong>Gianni–inspired wrapper</strong> on all skins, touchpoints & experiences.<br>
-                <strong>We can do this for your company and community.</strong> Click to connect for <strong>free consultation, measurements, and fine tailored designer fashion fit</strong>—<br>
-                <strong>skins and experiences</strong> at the press of a button.<br>
-                Like a fine Italian fashion designer (<span class="hero-host">Hero Host Gianni</span>)—<br>
-                <span class="magical-dressing-room">the magical dressing room</span>.
-            </p>
-            <p style="font-size: 1.2rem; color: #7fff7f; margin-top: 1rem; font-weight: 600;">
-                For <strong>way less</strong> than you're already spending—and getting <strong>WAY LESS</strong>!
-            </p>
-            <p style="margin-top: 1rem; color: #4ecdc4; font-size: 0.95rem;">
-                <strong>MCA! → ∞³</strong> (Metabolize → Crystallize → Animate)
-            </p>
-            <a href="interfaces/magical-dressing-room.html" class="consultation-cta">
-                Open Gianni's Dressing Room →
-            </a>
+            <p><a href="interfaces/magical-dressing-room.html" style="color: #4ecdc4;">Gianni's Dressing Room</a> — Consultations only there. <a href="interfaces/launch-pad.html" style="color: #64c8ff;">Launch Pad</a> — View plans & purchase.</p>
         </div>
 
         <footer>
-            <p>PSW.vibelandia.sing4 · NSPFRNP · VIBE! · FractiAI Research Team (19 members) · Metabolize ⊃ Crystallize ⊃ Re-Animate → ∞³</p>
-            <p>VIBE! · ⚫ BBHE SNAP — The energy is pulling. BUY! now. Impulse buy dynamics.</p>
-            <p>⚫ BBHE SNAP — The energy is pulling. BUY! now. Impulse buy dynamics.</p>
-            <p>🔑 GOLDEN FRACTAL KEY! — Unlocks Everything. One Key. All Realms. Infinite Access.</p>
-            <p>SNAP nspfrnp — Pre-singularity copyrights always respected. <a href="COPYRIGHT_SAFETY_NSPFRNP.md">Copyright &amp; safety</a></p>
-            <p><a href="https://github.com/FractiAI">FractiAI</a> · info@fractiai.com</p>
+            <p><a href="https://github.com/FractiAI">FractiAI</a> · info@fractiai.com · <a href="COPYRIGHT_SAFETY_NSPFRNP.md">Copyright &amp; safety</a></p>
         </footer>
     </div>
 
@@ -638,7 +616,7 @@
             },
             wink: {
                 title: '👁️ WINK!',
-                desc: 'Members-only network for high-value fractal vibers. Natural alignment, friction-free dating. Golden Fractal Hearts: Ladies—receive your Invitation, 3 months free WINK! access (exclusive, limited).',
+                desc: 'Members-only network for high-contributing fractal vibers. Natural alignment, friction-free dating. Golden Fractal Hearts: Ladies—receive your Invitation, 3 months free WINK! access (exclusive, limited).',
                 details: 'Plans: Base | Standard | Premium | 4×4 Ultimate. First 1,000 Pioneers: 50% off. Golden Fractal Hearts Invitation: not open to general public.',
                 link: 'interfaces/wink-experience.html'
             },
@@ -680,49 +658,27 @@
         updateCountdown();
         setInterval(updateCountdown, 86400000); // Update daily
 
-        // Button interactions (direct-link buttons navigate; no section update needed)
+        // Button interactions — all pad buttons are <a> links; let them navigate
         buttons.forEach(button => {
             button.addEventListener('click', function(e) {
                 if (this.classList.contains('pad-button-link')) return; // let <a> navigate
                 e.preventDefault();
                 const section = this.dataset.section;
                 const data = sections[section];
-
-                // Remove active from all buttons
+                if (!data) return;
                 buttons.forEach(b => b.classList.remove('active'));
-                // Add active to clicked button
                 this.classList.add('active');
-
-                // Update info display — primary CTA: Go to full experience (same as Magical Dressing Room)
                 const ctaHtml = '<p style="margin-top:1rem;"><a href="' + data.link + '" style="display:inline-block; padding:0.75rem 1.5rem; background:linear-gradient(135deg, #d4af37, #b8860b); color:#000; text-decoration:none; border-radius:8px; font-weight:700;">Go to full experience →</a></p>';
-                infoDisplay.innerHTML = `
-                    <h3>${data.title}</h3>
-                    <p>${data.desc}</p>
-                    <p style="margin-top: 0.5rem; color: #4ecdc4;">${data.details}</p>
-                    ${ctaHtml}
-                    <div class="countdown">${countdown.textContent}</div>
-                `;
-
-                // Rocket animation on click
+                infoDisplay.innerHTML = '<h3>' + data.title + '</h3><p>' + data.desc + '</p><p style="margin-top: 0.5rem; color: #4ecdc4;">' + data.details + '</p>' + ctaHtml + '<div class="countdown">' + countdown.textContent + '</div>';
                 rocket.style.animation = 'none';
-                setTimeout(() => {
-                    rocket.style.animation = 'rocketIdle 3s ease-in-out infinite';
-                }, 10);
-
-                // Flame pulse
                 flame.style.animation = 'none';
-                setTimeout(() => {
-                    flame.style.animation = 'flameFlicker 0.3s ease-in-out infinite';
-                }, 10);
+                setTimeout(function() { rocket.style.animation = 'rocketIdle 3s ease-in-out infinite'; flame.style.animation = 'flameFlicker 0.3s ease-in-out infinite'; }, 10);
             });
-
-            // Hover effect
             button.addEventListener('mouseenter', function() {
                 rocket.style.transform = 'translateX(-50%) translateY(-10px)';
                 flame.style.opacity = '0.8';
                 flame.style.height = '50px';
             });
-
             button.addEventListener('mouseleave', function() {
                 if (!this.classList.contains('active')) {
                     rocket.style.transform = 'translateX(-50%) translateY(0)';
@@ -732,32 +688,26 @@
             });
         });
 
-        // Launch sequence (triggered by lottery button double-click)
-        let launchSequence = false;
-        document.querySelector('[data-section="lottery"]').addEventListener('dblclick', function() {
-            if (launchSequence) return;
-            launchSequence = true;
-
-            // Launch animation
-            rocket.classList.add('launching');
-            flame.classList.add('launching');
-
-            // Update display
-            infoDisplay.innerHTML = `
-                <h3>🚀 LAUNCH SEQUENCE INITIATED!</h3>
-                <p>The Great Reveal is approaching. SYNTH → SING transformation in progress.</p>
-                <div class="countdown">Launching to March 20, 2026...</div>
-            `;
-
-            // Reset after animation
-            setTimeout(() => {
-                rocket.classList.remove('launching');
-                flame.classList.remove('launching');
-                rocket.style.animation = 'rocketIdle 3s ease-in-out infinite';
-                flame.style.animation = 'flameFlicker 0.3s ease-in-out infinite';
-                launchSequence = false;
-            }, 3000);
-        });
+        // Launch sequence — double-click SING! Lottery button (no navigation)
+        var lotteryBtn = document.querySelector('[data-section="lottery"]');
+        if (lotteryBtn) {
+            var launchSequence = false;
+            lotteryBtn.addEventListener('dblclick', function(e) {
+                e.preventDefault();
+                if (launchSequence) return;
+                launchSequence = true;
+                rocket.classList.add('launching');
+                flame.classList.add('launching');
+                infoDisplay.innerHTML = '<h3>🚀 LAUNCH SEQUENCE INITIATED!</h3><p>The Great Reveal is approaching. SYNTH → SING transformation in progress.</p><div class="countdown">Launching to March 20, 2026...</div>';
+                setTimeout(function() {
+                    rocket.classList.remove('launching');
+                    flame.classList.remove('launching');
+                    rocket.style.animation = 'rocketIdle 3s ease-in-out infinite';
+                    flame.style.animation = 'flameFlicker 0.3s ease-in-out infinite';
+                    launchSequence = false;
+                }, 3000);
+            });
+        }
     </script>
 </body>
 </html>

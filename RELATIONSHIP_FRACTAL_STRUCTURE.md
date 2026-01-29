@@ -227,11 +227,11 @@ Top Level:
 
 ---
 
-## 💎 HIGH VALUE NODES & RELATIONSHIPS
+## 💎 HIGH CONTRIBUTING NODES & RELATIONSHIPS
 
 ### **Relationship Structure by Value**
 
-**High Value Nodes:**
+**High Contributing Nodes:**
 - **Ultimate VIP Chairman Creators:** Highly poly, convergent
 - **Baller G Ultimate VIP:** Maximum poly, maximum convergence
 - **Performers:** Poly, layered relationships
@@ -269,7 +269,7 @@ Top Level:
 ### **Relationship Structure as Principle**
 
 **Principle Integration:**
-- **High Value Nodes:** Higher value = more poly
+- **High Contributing Nodes:** Higher value = more poly
 - **Vibing State:** Supports all relationship structures
 - **Walkable Downtown:** All structures present on campus
 - **Gateway:** Access to all relationship levels

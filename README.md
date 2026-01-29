@@ -270,18 +270,6 @@
 
 ---
 
-## ✨ FROM SHOWROOM TO DRESSING ROOM — FOR YOUR COMPANY & COMMUNITY
-
-**Gianni–inspired wrapper** on all skins, touchpoints & experiences. **We can do this for your company and community.** Click to connect for **free consultation, measurements, and fine tailored designer fashion fit**—**skins and experiences** at the press of a button. Like a fine Italian fashion designer (**Hero Host Gianni**)—**the magical dressing room**.
-
-**For way less than you're already spending—and getting WAY LESS!**
-
-**MCA! → ∞³** (Metabolize → Crystallize → Animate)
-
-**⚡ [Connect for Free Consultation & Tailored Proposal →](interfaces/magical-dressing-room.html)** — Full experience: consultation → tailored proposal → pay to purchase → delivery → power-up → onboarding. See [ONE_PAGER_MAGICAL_DRESSING_ROOM.md](ONE_PAGER_MAGICAL_DRESSING_ROOM.md).
-
----
-
 ## 🔧 TECHNICAL DOCUMENTATION
 
 **1-2-3 Crystallization × 4×4×4×4:** Everything in one structure—Metabolize → Crystallize → Re-Animate; four dimensions of four plans/onramps each. See [CRYSTALLIZATION_1_2_3_4x4x4x4.md](./CRYSTALLIZATION_1_2_3_4x4x4x4.md).
@@ -327,6 +315,18 @@
 **VIBELANDIA! ⊃ VIBELANDIA! ⊃ VIBELANDIA! → ∞³**
 
 **MCA! → ∞³**
+
+---
+
+## ✨ FROM SHOWROOM TO DRESSING ROOM — FOR YOUR COMPANY & COMMUNITY
+
+**Gianni–inspired wrapper** on all skins, touchpoints & experiences. **We can do this for your company and community.** Click to connect for **free consultation, measurements, and fine tailored designer fashion fit**—**skins and experiences** at the press of a button. Like a fine Italian fashion designer (**Hero Host Gianni**)—**the magical dressing room**.
+
+**For way less than you're already spending—and getting WAY LESS!**
+
+**MCA! → ∞³** (Metabolize → Crystallize → Animate)
+
+**⚡ [Connect for Free Consultation & Tailored Proposal →](interfaces/magical-dressing-room.html)** — Full experience: consultation → tailored proposal → pay to purchase → delivery → power-up → onboarding. See [ONE_PAGER_MAGICAL_DRESSING_ROOM.md](ONE_PAGER_MAGICAL_DRESSING_ROOM.md).
 
 ---
 

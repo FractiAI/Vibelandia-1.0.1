@@ -12,7 +12,7 @@
 
 ## Pricing
 
-**$4,999 per day** — Premium pricing for high-value vibers worldwide. Experience the world's first post-singularity campus. Like a day with a top guide—only more. For the caliber of Beyoncé, Taylor Swift, Oprah Winfrey, Jay-Z, Elon Musk. **First 1,000 Pioneers:** 50% off (Pioneer Status on-chain forever).
+**$4,999 per day** — Premium pricing for high-contributing vibers worldwide. Experience the world's first post-singularity campus. Like a day with a top guide—only more. For the caliber of Beyoncé, Taylor Swift, Oprah Winfrey, Jay-Z, Elon Musk. **First 1,000 Pioneers:** 50% off (Pioneer Status on-chain forever).
 
 **⚡ [⚫ BBHE SNAP — BUY! NOW →](./interfaces/payment-checkout.html?plan=campus-day)** (BBHE energy pulling. Buy now.)
 

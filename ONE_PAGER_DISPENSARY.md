@@ -99,7 +99,7 @@ Creators, Chairman Commanders, Performers, Superheroes. Anyone seeking optimal s
 ## On-Ramps
 
 **Can't afford yet?** We offer on-ramp options:
-- **Grant Applications** — For high-value creators on the path
+- **Grant Applications** — For high-contributing creators on the path
 - **Payment Plans** — Flexible payment options
 - **Custom Solutions** — Contact for personalized on-ramp
 

@@ -99,7 +99,7 @@ We've created a complete reality series format that transformed Reno from a trad
 - Production style guide
 
 **All Principles:**
-- High value nodes
+- High contributing nodes
 - Vibing state (perfect buzz equivalent)
 - Super rich health & optimal state
 - Walkable downtown design
@@ -112,7 +112,7 @@ We've created a complete reality series format that transformed Reno from a trad
 - Team as characters
 - NSPFRNP mode operation
 - Vibing state integration
-- High-value node positioning
+- high-contributing node positioning
 
 **Relationship Structures:**
 - Linear at leaf nodes

@@ -41,7 +41,7 @@ Alex looks up, uncertain.
 **ALEX**
 I don't know. Something just felt... right about it.
 
-**LEO** (Hero Host, R&D Lab Host, 50s, polymathic, wise) sits nearby, in perfect vibing state—perfect buzz equivalent, super rich health. As a Hero Host representing the FractiAI Research Team, Leo is a high-value node, operating in NSPFRNP mode.
+**LEO** (Hero Host, R&D Lab Host, 50s, polymathic, wise) sits nearby, in perfect vibing state—perfect buzz equivalent, super rich health. As a Hero Host representing the FractiAI Research Team, Leo is a high-contributing node, operating in NSPFRNP mode.
 
 **SENIOR RESEARCH SCIENTIST & FULL STACK ENGINEER** works at a nearby table, vibing state active, optimal state.
 

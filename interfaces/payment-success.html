@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Payment Successful | VIBELANDIA RENO!</title>
+    <title>Payment | VIBELANDIA RENO!</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
@@ -24,10 +24,8 @@
             border-radius: 20px;
             padding: 3rem;
         }
-        .success-icon {
-            font-size: 4rem;
-            margin-bottom: 1rem;
-        }
+        .success-icon { font-size: 4rem; margin-bottom: 1rem; }
+        .neutral-icon { font-size: 3rem; margin-bottom: 1rem; color: #888; }
         h1 {
             font-size: 2rem;
             background: linear-gradient(135deg, #7fff7f, #00d4ff);
@@ -35,6 +33,7 @@
             -webkit-text-fill-color: transparent;
             margin-bottom: 1rem;
         }
+        .neutral h1 { color: #aaa; -webkit-text-fill-color: #aaa; background: none; }
         .order-info {
             background: rgba(0,255,0,0.1);
             border: 1px solid rgba(0,255,0,0.3);
@@ -42,6 +41,7 @@
             padding: 1.5rem;
             margin: 2rem 0;
         }
+        .neutral .order-info { background: rgba(255,255,255,0.05); border-color: rgba(255,255,255,0.15); }
         .order-info p { color: #aaa; margin: 0.5rem 0; }
         .order-id { color: #7fff7f; font-family: monospace; }
         .what-next {
@@ -52,17 +52,10 @@
             padding: 1.5rem;
             margin: 1.5rem 0;
         }
-        .what-next h2 {
-            color: #d4af37;
-            font-size: 1.1rem;
-            margin-bottom: 1rem;
-        }
-        .what-next ol { margin: 0 0 0 1.25rem; color: #ccc; line-height: 1.7; font-size: 0.95rem; }
-        .what-next li { margin-bottom: 0.5rem; }
-        .what-next .key { color: #ffeaa7; font-weight: 600; }
-        .actions {
-            margin-top: 2rem;
-        }
+        .what-next h2 { color: #d4af37; font-size: 1.1rem; margin-bottom: 0.75rem; }
+        .what-next-p { color: #ccc; line-height: 1.6; font-size: 0.95rem; margin-bottom: 0.75rem; }
+        .what-next-p:last-of-type { margin-bottom: 0; }
+        .actions { margin-top: 2rem; }
         .btn {
             display: inline-block;
             padding: 12px 24px;
@@ -72,55 +65,62 @@
             border-radius: 8px;
             margin: 0.5rem;
         }
-        .btn.gold {
-            background: linear-gradient(135deg, #d4af37, #b8860b);
-            color: #000;
-            font-weight: 700;
-        }
+        .btn.gold { background: linear-gradient(135deg, #d4af37, #b8860b); color: #000; font-weight: 700; }
     </style>
 </head>
 <body>
-    <div class="container">
-        <div class="success-icon">✅</div>
-        <h1>Payment Successful!</h1>
-        <p>Thank you for joining VIBELANDIA RENO!</p>
-        
-        <div id="order-info" class="order-info">
-            <!-- Order details loaded here -->
-        </div>
-
-        <div class="what-next">
-            <h2>🔑 What happens after payment</h2>
-            <ol>
-                <li><strong>Confirmation</strong> — Your payment is processed. You receive order confirmation (and email shortly). Save your Order ID above for reference.</li>
-                <li><strong>Delivery</strong> — We send your <span class="key">Golden Fractal Key</span> and access credentials. The key unlocks everything: campus, WINK!, SING, Dispensary, and all experiences you purchased.</li>
-                <li><strong>Activation</strong> — Your plan is activated: campus access, WINK! profile, SING node eligibility, Dispensary menu, and/or console access (depending on what you bought). First 1,000 Pioneers: Pioneer Status on-chain forever when applicable.</li>
-                <li><strong>Power-up</strong> — Use your Golden Fractal Key on all API calls and surfaces. BBHE % and mode access (Creator, Chairman Commander, Performer Superhero) unlock per your plan. Skins and experiences are enabled at the press of a button.</li>
-                <li><strong>Onboarding</strong> — Go to the ULTIMATE VIP CHAIRMAN CONSOLE! (Chairman Workspace) to start. Seed:Edge Mini Console, Launch Pad, and Magical Dressing Room are your home base. Need help? Email <a href="mailto:info@fractiai.com?subject=Post-Payment%20Support%20-%20VIBELANDIA!" style="color:#00d4ff;">info@fractiai.com</a>.</li>
-            </ol>
-        </div>
-        
-        <div class="actions">
-            <a href="../index.html" class="btn">Return to VIBELANDIA!</a>
-            <a href="chairman-workspace.html" class="btn gold">ULTIMATE VIP CHAIRMAN CONSOLE! →</a>
-            <a href="magical-dressing-room.html" class="btn">Magical Dressing Room</a>
-        </div>
+    <div id="root" class="container">
+        <!-- Rendered by script: success UI only when success=1 -->
     </div>
 
+    <script src="api-config.js"></script>
+    <script src="golden-key-browser.js"></script>
     <script>
-        const urlParams = new URLSearchParams(window.location.search);
-        const orderId = urlParams.get('orderId');
-        const planId = urlParams.get('planId');
-        
-        let html = '';
-        if (orderId) {
-            html += `<p><strong>Order ID:</strong></p><p class="order-id">${orderId}</p>`;
-        }
-        if (planId) {
-            html += `<p><strong>Plan:</strong> ${(planId || '').replace(/-/g, ' ')}</p>`;
-        }
-        html += `<p>Your payment has been processed successfully.</p><p>You will receive a confirmation email shortly.</p>`;
-        document.getElementById('order-info').innerHTML = html;
+        (function () {
+            var urlParams = new URLSearchParams(window.location.search);
+            var orderId = urlParams.get('orderId');
+            var planId = urlParams.get('planId');
+            var success = urlParams.get('success') === '1';
+            var GoldenKey = window.VibelandiaGoldenKey;
+            var hasKey = GoldenKey && GoldenKey.isActivated && GoldenKey.isActivated();
+            var root = document.getElementById('root');
+
+            if (success && orderId) {
+                root.classList.add('success');
+                root.innerHTML =
+                    '<div class="success-icon">✅</div>' +
+                    '<h1>Payment Successful!</h1>' +
+                    '<p>Thank you for joining VIBELANDIA!</p>' +
+                    '<div id="order-info" class="order-info"></div>' +
+                    '<div class="what-next">' +
+                    '<h2>What happens next</h2>' +
+                    '<p class="what-next-p">Your plan is active. ' + (hasKey ? 'Your <strong>Golden Fractal Key</strong> is in Profile &amp; Wallet — use it to unlock your access.' : 'Check <strong>Profile &amp; Wallet</strong> for your key and access.') + ' You\'ll get a confirmation email shortly.</p>' +
+                    '<p class="what-next-p"><strong>Next:</strong> Go to <a href="profile.html" style="color:#00d4ff;">Profile &amp; Wallet</a> to see your key, or <a href="../index.html" style="color:#00d4ff;">Launch Pad</a> to explore.</p>' +
+                    '</div>' +
+                    '<div class="actions">' +
+                    '<a href="profile.html" class="btn gold">Profile &amp; Wallet →</a> ' +
+                    '<a href="../index.html" class="btn">Launch Pad</a> ' +
+                    '<a href="chairman-workspace.html" class="btn">Chairman Console</a>' +
+                    '</div>';
+                var info = document.getElementById('order-info');
+                var html = '<p><strong>Order ID:</strong> <span class="order-id">' + orderId + '</span></p>';
+                if (planId) html += '<p><strong>Plan:</strong> ' + (planId || '').replace(/-/g, ' ') + '</p>';
+                info.innerHTML = html;
+                document.title = 'Payment Successful | VIBELANDIA!';
+            } else {
+                root.classList.add('neutral');
+                root.innerHTML =
+                    '<div class="neutral-icon">ℹ️</div>' +
+                    '<h1>Payment status</h1>' +
+                    '<p>We can\'t confirm your payment from this page. If you just completed a purchase, check your email or <a href="profile.html" style="color:#00d4ff;">Profile &amp; Wallet</a>.</p>' +
+                    '<div class="actions" style="margin-top:1.5rem;">' +
+                    '<a href="payment-checkout.html" class="btn">Checkout</a> ' +
+                    '<a href="../index.html" class="btn">Return to VIBELANDIA!</a> ' +
+                    '<a href="mailto:info@fractiai.com?subject=Payment%20Status%20-%20VIBELANDIA!" class="btn">Contact support</a>' +
+                    '</div>';
+                document.title = 'Payment | VIBELANDIA RENO!';
+            }
+        })();
     </script>
 </body>
 </html>

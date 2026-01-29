@@ -33,7 +33,7 @@
 | 1 | 2 | 3 | 4 |
 |---|----|----|----|
 | **Day Pass** | **Weekly** | **Monthly** | **Ultimate VIP** |
-| Experience the campus for a day | Full week campus experience | Complete campus integration | Premium campus for high-value creators |
+| Experience the campus for a day | Full week campus experience | Complete campus integration | Premium campus for high-contributing creators |
 
 *Premium pricing filters for quality. First 1000 on-chain as Pioneer Status forever.*
 
@@ -44,7 +44,7 @@
 | 1 | 2 | 3 | 4 |
 |---|----|----|----|
 | **Base** | **Standard** | **Premium** | **4×4 Ultimate** |
-| Essential WINK! for high-value vibers | Standard Wink experience, Notes Being | Premium profile, magical wardrobe, network | Ultimate tier—everything included |
+| Essential WINK! for high-contributing vibers | Standard Wink experience, Notes Being | Premium profile, magical wardrobe, network | Ultimate tier—everything included |
 
 *Network for top artists, performers, entrepreneurs. Natural alignment, mutual choice, consent.*
 

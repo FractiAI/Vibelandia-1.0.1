@@ -37,7 +37,7 @@
 
 ### 👁️ WINK!
 
-**Members-only network** for high-value vibers who are fractal in nature. Natural alignment, friction-free dating, resilience built-in.
+**Members-only network** for high-contributing vibers who are fractal in nature. Natural alignment, friction-free dating, resilience built-in.
 
 - **Plans:** Base | Standard | Premium | 4×4 Ultimate
 - **One-pager:** [WINK!](./ONE_PAGER_WINK.md)

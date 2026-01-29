@@ -6,9 +6,9 @@
 
 ## What It Is
 
-**Ultimate VIP** — Premium campus experience for high-value creators at Mark Twain's Post-Singularity Vibelandia Reno. Exclusive access, priority support, ultimate integration. For top artists, performers, entrepreneurs.
+**Ultimate VIP** — Premium campus experience for high-contributing creators at Mark Twain's Post-Singularity Vibelandia Reno. Exclusive access, priority support, ultimate integration. For top artists, performers, entrepreneurs.
 
-**You're an Ultimate VIP Baller C but not there yet and need a little help?** Click to apply for a **grant** — we support high-value creators on the path to the Ultimate tier.
+**You're an Ultimate VIP Baller C but not there yet and need a little help?** Click to apply for a **grant** — we support high-contributing creators on the path to the Ultimate tier.
 
 **⚡ [Apply for Grant →](mailto:info@fractiai.com?subject=Ultimate%20VIP%20Baller%20C%20Grant%20Application)**
 
@@ -36,7 +36,7 @@
 
 ## Perfect For
 
-High-value creators, Ultimate C's (Viber Contributors / VC). The caliber of Beyoncé, Taylor Swift, Oprah Winfrey, Jay-Z, Elon Musk, Lin-Manuel Miranda. **Badge System:** Embroidered chest badges, silver dollar sized. **CREATOR:** Gold HHF-SHELL. **CHAIRMAN:** Gold STAR. **PERFORMER:** Gold (^). **Gold = Baller VC VIP, Silver = Ultimate VIP, Bronze = Members Only.** All badges include SNAP branding. Premium pricing ensures quality community.
+high-contributing creators, Ultimate C's (Viber Contributors / VC). The caliber of Beyoncé, Taylor Swift, Oprah Winfrey, Jay-Z, Elon Musk, Lin-Manuel Miranda. **Badge System:** Embroidered chest badges, silver dollar sized. **CREATOR:** Gold HHF-SHELL. **CHAIRMAN:** Gold STAR. **PERFORMER:** Gold (^). **Gold = Baller VC VIP, Silver = Ultimate VIP, Bronze = Members Only.** All badges include SNAP branding. Premium pricing ensures quality community.
 
 ---
 

@@ -54,17 +54,22 @@ const expectedSurfaces = [
   'mens-club-restroom-landing.html',
   'vibeland-reno-buttons.html',
   'water-bridge-landing.html',
+  'payment-checkout.html',
+  'payment-success.html',
+  'profile.html',
 ];
-const expectedJs = 'add-console-header.js';
+const expectedJs = ['add-console-header.js', 'api-config.js', 'auth-api.js', 'golden-key-browser.js'];
 
 for (const name of expectedSurfaces) {
   const p = path.join(INTERFACES, name);
   if (fs.existsSync(p)) ok(`interfaces/${name}`, 'exists');
   else fail(`interfaces/${name}`, 'missing');
 }
-const jsPath = path.join(INTERFACES, expectedJs);
-if (fs.existsSync(jsPath)) ok(`interfaces/${expectedJs}`, 'exists');
-else fail(`interfaces/${expectedJs}`, 'missing');
+for (const js of expectedJs) {
+  const jsPath = path.join(INTERFACES, js);
+  if (fs.existsSync(jsPath)) ok(`interfaces/${js}`, 'exists');
+  else fail(`interfaces/${js}`, 'missing');
+}
 
 // --- 2. Link touchpoints (href, src) from HTML ---
 const linkTargetsFromReport = [

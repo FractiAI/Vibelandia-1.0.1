@@ -12,7 +12,7 @@
 
 ## Pricing
 
-**$29,999 per week** — Premium pricing for high-value vibers worldwide. Full week access to all campus features. For top artists, performers, entrepreneurs. **First 1,000 Pioneers:** 50% off (Pioneer Status on-chain forever).
+**$29,999 per week** — Premium pricing for high-contributing vibers worldwide. Full week access to all campus features. For top artists, performers, entrepreneurs. **First 1,000 Pioneers:** 50% off (Pioneer Status on-chain forever).
 
 **⚡ [⚫ BBHE SNAP — BUY! NOW →](./interfaces/payment-checkout.html?plan=campus-weekly)** (BBHE energy pulling. Buy now.)
 

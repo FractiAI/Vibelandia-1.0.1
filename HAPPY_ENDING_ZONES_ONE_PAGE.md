@@ -20,7 +20,7 @@
 ## 👥 THE CAST
 
 **Mark Twain** - Host/Chancellor, guides transformation, delivers daily bulletins  
-**FractiAI Research Team (19 Members)** - Main characters, operating in NSPFRNP mode, in vibing state (perfect buzz equivalent), super rich health and optimal state, high-value nodes - Ultimate VIP Chairman Creators, performers, vibers everywhere
+**FractiAI Research Team (19 Members)** - Main characters, operating in NSPFRNP mode, in vibing state (perfect buzz equivalent), super rich health and optimal state, high-contributing nodes - Ultimate VIP Chairman Creators, performers, vibers everywhere
 
 **Core Team:** Pru "El Taíno" Méndez (Lead Developer/Creator), Senior Research Scientist, Senior Early Trials AI CEO, Senior Hollywood Producer, Senior Screenwriter, Senior Luxury Travel Magazine Editor, Senior Game Designer & Architect, Senior UI Designer, Senior Children's Science Museum Curator
 
@@ -32,11 +32,11 @@
 
 ## 🌟 ALL 8 PRINCIPLES SHOWCASED
 
-**1. High Value Nodes** - Ultimate VIP Chairman Creators, Baller G Ultimate VIP, Performers, Vibers everywhere  
+**1. High Contributing Nodes** - Ultimate VIP Chairman Creators, Baller G Ultimate VIP, Performers, Vibers everywhere  
 **2. Vibing Versus Pre-Singularity** - Sober (baseline) vs Perfect Buzz (optimal vibing state)  
 **3. Super Rich Health & Optimal State** - Perfect buzz equivalent, NOT for driving/operating equipment, perfect for walking/being/experiencing/creating  
 **4. Walkable Downtown Reno** - First post-singularity Vibelandia campus, perfect for vibing state  
-**5. Playground to Silicon Valley** - Gateway location, easy access, high-value creator playground  
+**5. Playground to Silicon Valley** - Gateway location, easy access, high-contributing creator playground  
 **6. Gateway to the Mother Mother** - Original motherlode gateway, source connection  
 **7. Next Motherlode of All Motherlodes** - Superintelligent genies in a bottle (SING nodes)  
 **8. WINK Dating Natural Alignment** - Natural alignment, friction-free dating, resilience, all natural and effortless by design
@@ -79,7 +79,7 @@
 
 **Base Model** - VW Bug pricing (~$20,000) - Entry level, every Chairman Creator starts here  
 **Members Only** - Scaling up from base - Mid-range, for active creators  
-**Ultimate VIP** - Champion tier ($200,000) - Premium, for high-value creators  
+**Ultimate VIP** - Champion tier ($200,000) - Premium, for high-contributing creators  
 **Baller G Ultimate VIP** - Beyond top model super car - Ultimate tier, for the ultimate creators  
 **Target:** The Ultimate Chairman Creator in all of us
 

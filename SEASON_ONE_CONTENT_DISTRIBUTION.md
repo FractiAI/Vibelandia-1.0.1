@@ -186,7 +186,7 @@
 - Vibers everywhere
 - Intoxication causing warnings
 - Members-only club
-- High-value vibers
+- high-contributing vibers
 - Post-singularity connections
 
 **WINK Elements:**
@@ -195,7 +195,7 @@
 - Performers
 - Vibers everywhere
 - Members-only access
-- High-value connections
+- high-contributing connections
 - Post-singularity dating
 
 **Warnings:**

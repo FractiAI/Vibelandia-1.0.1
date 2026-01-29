@@ -32,7 +32,7 @@
 
 **[Visual: FractiAI Research Team (19 members) operating in NSPFRNP mode, in vibing state, on walkable downtown campus]**
 
-**MARK TWAIN:** "The FractiAI team - high-value nodes, Ultimate VIP Chairman Creators, performers, vibers everywhere. Operating in NSPFRNP mode. In perfect vibing state - super rich health and optimal state. NOT for driving cars or operating equipment. Perfect for walking, being, experiencing, creating."
+**MARK TWAIN:** "The FractiAI team - high-contributing nodes, Ultimate VIP Chairman Creators, performers, vibers everywhere. Operating in NSPFRNP mode. In perfect vibing state - super rich health and optimal state. NOT for driving cars or operating equipment. Perfect for walking, being, experiencing, creating."
 
 **[Visual: Relationship fractal structure - linear at leaf nodes, increasingly poly up food chain]**
 

@@ -16,6 +16,12 @@ This repository is **configured to run over Vercel cloud**:
 
 **Credentials for access:** See NSPFRNP catalog → `protocols/CREDENTIALS_NSPFRNP_CATALOG.md` (Vercel project connect, optional `VERCEL_TOKEN`).
 
+**Pre-deploy checklist (run locally before deploy):**
+
+1. **`npm test`** — Surfaces, touchpoints, IDs, API health. Fix any failures. *(Note: Cloud Onramp `/api/health` is best-effort; if Octave 2 is unreachable, the test script currently fails. You can re-run with network, or ignore a single API failure if surfaces/touchpoints all pass.)*
+2. **`npm run build`** — Produces `.vercel/output/` (static). Must succeed.
+3. **Vercel:** `vercel login` or `VERCEL_TOKEN` in `.env.nspfrnp` / `.env.local` when using CLI.
+
 **To go live:**
 
 1. In [Vercel](https://vercel.com): **Add New Project** → Import this Git repo (`FractiAI/psw.vibelandia.sing4` or your fork).

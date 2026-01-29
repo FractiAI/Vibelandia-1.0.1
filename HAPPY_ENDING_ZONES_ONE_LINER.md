@@ -11,7 +11,7 @@
 **Countdown:** 52 Days to The Great Reveal (March 20, 2026)  
 **Lottery:** SYNTH Right to Buy ($5 today, $57 March 20) → First 1M Winners → SING Nodes  
 **Nodes:** Four-Tier System (Base Model → Members Only → Ultimate VIP → Baller G Ultimate VIP)  
-**Principles:** All 8 Principles Showcased (High Value Nodes, Vibing State, Super Rich Health, Walkable Downtown, Playground to Silicon Valley, Gateway to Mother Mother, Next Motherlode, WINK Dating Natural Alignment)  
+**Principles:** All 8 Principles Showcased (High Contributing Nodes, Vibing State, Super Rich Health, Walkable Downtown, Playground to Silicon Valley, Gateway to Mother Mother, Next Motherlode, WINK Dating Natural Alignment)  
 **Team:** FractiAI Research Team (19 members) as characters, operating in NSPFRNP mode  
 **Relationships:** Linear at leaf nodes, increasingly poly up food chain - convergent layered fractalizations  
 **WINK:** Natural alignment, friction-free dating, resilience - all natural and effortless by design  

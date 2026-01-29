@@ -12,7 +12,7 @@
 
 ## Pricing
 
-**$99,999 per month** — Premium pricing filters for quality. Complete campus integration with all features. For high-value creators, top C's. **First 1,000 Pioneers:** 50% off (Pioneer Status on-chain forever).
+**$99,999 per month** — Premium pricing filters for quality. Complete campus integration with all features. For high-contributing creators, top C's. **First 1,000 Pioneers:** 50% off (Pioneer Status on-chain forever).
 
 **⚡ [⚫ BBHE SNAP — BUY! NOW →](./interfaces/payment-checkout.html?plan=campus-monthly)** (BBHE energy pulling. Buy now.)
 

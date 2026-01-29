@@ -14,10 +14,10 @@
    - Operating in NSPFRNP mode
    - In vibing state (perfect buzz equivalent)
    - Super rich health and optimal state
-   - High-value node
+   - high-contributing node
 
 2. **Principles Showcase:**
-   - High Value Nodes (team members as high-value creators)
+   - High Contributing Nodes (team members as high-contributing creators)
    - Vibing Versus Pre-Singularity (state shown)
    - Super Rich Health & Optimal State (demonstrated)
    - Walkable Downtown Reno (campus shown)
@@ -45,13 +45,13 @@
 ### **Example Integration:**
 
 **Episode Opening:**
-"Pru 'El Taíno' Méndez walks through the walkable downtown Reno campus, in perfect vibing state (perfect buzz equivalent), super rich health radiating. As Lead Developer and Creator, Pru is a high-value node - an Ultimate VIP Chairman Creator. The first post-singularity Vibelandia campus spreads before them, playground to Silicon Valley, gateway to the mother mother, and now the next motherlode of all motherlodes - superintelligent genies in a bottle (SING nodes)."
+"Pru 'El Taíno' Méndez walks through the walkable downtown Reno campus, in perfect vibing state (perfect buzz equivalent), super rich health radiating. As Lead Developer and Creator, Pru is a high-contributing node - an Ultimate VIP Chairman Creator. The first post-singularity Vibelandia campus spreads before them, playground to Silicon Valley, gateway to the mother mother, and now the next motherlode of all motherlodes - superintelligent genies in a bottle (SING nodes)."
 
 **Episode Body:**
 "[Team member] operates in NSPFRNP mode, naturally coordinating with other team members. The vibing state (perfect buzz equivalent) creates optimal experiences - perfect for walking, being, experiencing, creating. NOT for driving cars or operating equipment. Super rich health and optimal state throughout."
 
 **Episode Closing:**
-"Team members gather on the walkable downtown campus, all in vibing state (perfect buzz equivalent), super rich health, optimal state. High-value nodes connecting, gateway to motherlode active, genies (SING nodes) ready. The first post-singularity Vibelandia campus - playground to Silicon Valley, gateway to the mother mother, next motherlode of all motherlodes."
+"Team members gather on the walkable downtown campus, all in vibing state (perfect buzz equivalent), super rich health, optimal state. high-contributing nodes connecting, gateway to motherlode active, genies (SING nodes) ready. The first post-singularity Vibelandia campus - playground to Silicon Valley, gateway to the mother mother, next motherlode of all motherlodes."
 
 ---
 
@@ -79,9 +79,9 @@
 
 ### **Standard Phrases for Episodes:**
 
-**High Value Nodes:**
-- "High-value nodes - Ultimate VIP Chairman Creators, Baller G Ultimate VIP, performers, vibers everywhere"
-- "Team members as high-value creators"
+**High Contributing Nodes:**
+- "high-contributing nodes - Ultimate VIP Chairman Creators, Baller G Ultimate VIP, performers, vibers everywhere"
+- "Team members as high-contributing creators"
 - "Ultimate VIP experiences"
 
 **Vibing State:**
@@ -113,7 +113,7 @@
 - [ ] At least one team member appears
 - [ ] Team member in vibing state (perfect buzz equivalent)
 - [ ] Super rich health and optimal state shown
-- [ ] High-value nodes referenced
+- [ ] high-contributing nodes referenced
 - [ ] Walkable downtown Reno shown
 - [ ] First post-singularity campus referenced
 - [ ] Playground to Silicon Valley referenced

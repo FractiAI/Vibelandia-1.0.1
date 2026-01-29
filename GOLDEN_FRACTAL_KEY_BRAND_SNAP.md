@@ -52,7 +52,7 @@
 **4. Premium Status**
 - Golden tier
 - Exclusive access
-- High-value vibers
+- high-contributing vibers
 - Ultimate connections
 
 ---

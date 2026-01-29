@@ -3,758 +3,283 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ULTIMATE VIP CHAIRMAN CONSOLE! | Chairman Workspace | NSPFRNP</title>
+    <title>ULTIMATE VIP CHAIRMAN CONSOLE! | NSPFRNP</title>
+    <meta name="description" content="NSPFRNP Ultimate VIP Console — Seed:Edge, MCA, Octave 0/1/2. Protocol-first command center.">
     <style>
-        /* Gianni-inspired — Designer Division. Fine Italian fashion designer precision. Tailored, luxury, no spin. */
+        * { margin: 0; padding: 0; box-sizing: border-box; }
         :root {
-            --gianni-black: #0a0a0a;
-            --gianni-charcoal: #141414;
-            --gianni-panel: #1a1a1a;
-            --gianni-border: #2a2a2a;
-            --gianni-gold: #c9a227;
-            --gianni-gold-muted: rgba(201, 162, 39, 0.25);
-            --gianni-text: #e8e8e8;
-            --gianni-muted: #888;
+            --bg: #0a0a12;
+            --panel: #12121a;
+            --border: rgba(100, 200, 255, 0.2);
+            --accent: #64c8ff;
+            --muted: #6b7280;
+            --success: #22c55e;
+            --path: #a78bfa;
         }
-
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
         body {
-            font-family: Georgia, 'Times New Roman', serif;
-            background: var(--gianni-black);
-            color: var(--gianni-text);
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            background: var(--bg);
+            color: #e5e7eb;
             min-height: 100vh;
-            overflow-x: hidden;
-            position: relative;
-            letter-spacing: 0.02em;
+            line-height: 1.5;
         }
-
-        .container {
-            position: relative;
-            z-index: 2;
-            padding: 2.5rem;
-            max-width: 1600px;
-            margin: 0 auto;
+        .disclaimer {
+            background: rgba(255, 165, 0, 0.95);
+            color: #000;
+            text-align: center;
+            padding: 10px 16px;
+            font-size: 13px;
+            font-weight: 700;
+            border-bottom: 2px solid #e69500;
+            position: sticky;
+            top: 0;
+            z-index: 9999;
         }
-
+        .container { max-width: 900px; margin: 0 auto; padding: 2rem 1.5rem; }
         .header {
             text-align: center;
-            margin-bottom: 3rem;
-            padding: 2.5rem 2rem;
-            background: var(--gianni-panel);
-            border: 1px solid var(--gianni-border);
+            margin-bottom: 2rem;
+            padding-bottom: 1.5rem;
+            border-bottom: 1px solid var(--border);
         }
-
         .header h1 {
-            font-size: 1.75rem;
-            font-weight: 400;
+            font-size: 1.5rem;
+            color: var(--accent);
+            font-weight: 600;
             margin-bottom: 0.5rem;
-            color: var(--gianni-gold);
-            letter-spacing: 0.08em;
-            text-transform: uppercase;
+            letter-spacing: 0.02em;
         }
-
-        .header p {
-            font-size: 0.9rem;
-            color: var(--gianni-muted);
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
-
-        .workspace-layout {
-            display: grid;
-            grid-template-columns: 1fr 2fr 1fr;
-            grid-template-rows: auto 1fr auto;
-            gap: 1.5rem;
-            min-height: 80vh;
-        }
-
-        .base-layer {
-            grid-column: 1 / -1;
-            grid-row: 1;
-            padding: 1.5rem 2rem;
-            background: var(--gianni-panel);
-            border: 1px solid var(--gianni-border);
-        }
-
-        .base-layer h2 {
-            color: var(--gianni-gold);
-            font-size: 1rem;
-            font-weight: 400;
-            letter-spacing: 0.06em;
-            margin-bottom: 1rem;
-            text-transform: uppercase;
-        }
-
-        .map-container {
-            height: 180px;
-            background: var(--gianni-charcoal);
+        .header .tagline { font-size: 0.9rem; color: var(--muted); }
+        .seed-edge {
             display: flex;
             align-items: center;
             justify-content: center;
-            border: 1px solid var(--gianni-border);
-        }
-
-        .surface-layer {
-            grid-column: 1 / -1;
-            grid-row: 2;
-            padding: 1rem 1.5rem;
-            background: var(--gianni-panel);
-            border: 1px solid var(--gianni-border);
-        }
-
-        .current-story {
-            padding: 1rem;
-            background: var(--gianni-charcoal);
-            min-height: 80px;
-            border: 1px solid var(--gianni-border);
-        }
-
-        .main-surface {
-            grid-column: 2;
-            grid-row: 2;
-            padding: 2rem;
-            background: var(--gianni-panel);
-            border: 1px solid var(--gianni-border);
-            display: flex;
-            flex-direction: column;
-            gap: 1.5rem;
-        }
-
-        .dashboard-section {
-            padding: 1.5rem;
-            background: var(--gianni-charcoal);
-            border: 1px solid var(--gianni-border);
-        }
-
-        .sacred-objects {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
             gap: 1rem;
-            margin-top: 1rem;
-        }
-
-        .sacred-object {
-            padding: 1rem;
-            background: var(--gianni-charcoal);
-            border: 1px solid var(--gianni-border);
-            text-align: center;
-        }
-
-        .sacred-object h3 {
-            color: var(--gianni-muted);
-            font-size: 0.85rem;
-            font-weight: 400;
-            letter-spacing: 0.04em;
-            margin-bottom: 0.5rem;
-        }
-
-        .sacred-object .status {
-            font-size: 0.8rem;
-            color: var(--gianni-muted);
-        }
-
-        .right-side {
-            grid-column: 3;
-            grid-row: 2;
-            display: flex;
-            flex-direction: column;
-            gap: 1rem;
-        }
-
-        .playlist-catalog,
-        .artist-tools {
-            padding: 1.5rem;
-            background: var(--gianni-panel);
-            border: 1px solid var(--gianni-border);
-            flex: 1;
-        }
-
-        .left-side {
-            grid-column: 1;
-            grid-row: 2;
-            display: flex;
-            flex-direction: column;
-            gap: 1rem;
-        }
-
-        .working-tools,
-        .scratch-pad {
-            padding: 1.5rem;
-            background: var(--gianni-panel);
-            border: 1px solid var(--gianni-border);
-        }
-
-        .scratch-pad { flex: 1; }
-
-        .edge-device-pad {
-            grid-column: 2;
-            grid-row: 3;
-            padding: 1.5rem;
-            background: var(--gianni-panel);
-            border: 1px solid var(--gianni-border);
-            text-align: center;
-        }
-
-        .edge-device-pad h3 {
-            color: var(--gianni-gold);
-            font-size: 1rem;
-            font-weight: 400;
-            letter-spacing: 0.06em;
-            margin-bottom: 1rem;
-            text-transform: uppercase;
-        }
-
-        .dock-status {
-            padding: 1rem;
-            background: var(--gianni-charcoal);
-            border: 1px solid var(--gianni-border);
-        }
-
-        .back-cave {
-            grid-column: 1 / -1;
-            grid-row: 3;
-            padding: 2rem;
-            background: var(--gianni-panel);
-            border: 1px solid var(--gianni-border);
-            margin-top: 1.5rem;
-        }
-
-        .art-gallery {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-            gap: 1rem;
-            margin-top: 1rem;
-        }
-
-        .art-item {
-            padding: 1rem;
-            background: var(--gianni-charcoal);
-            border: 1px solid var(--gianni-border);
-            text-align: center;
-            min-height: 120px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 0.9rem;
-            color: var(--gianni-muted);
-        }
-
-        .upper-areas {
-            position: fixed;
-            top: 2rem;
-            right: 2rem;
-            display: flex;
-            flex-direction: column;
-            gap: 0.5rem;
-            z-index: 100;
-        }
-
-        .quick-access {
-            padding: 0.5rem 1rem;
-            background: var(--gianni-panel);
-            border: 1px solid var(--gianni-border);
-            cursor: pointer;
-            font-size: 0.85rem;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            color: var(--gianni-text);
-        }
-
-        .quick-access:hover {
-            border-color: var(--gianni-gold-muted);
-            color: var(--gianni-gold);
-        }
-
-        .cockpit-shells {
-            position: fixed;
-            top: 50%;
-            left: 2rem;
-            transform: translateY(-50%);
-            display: flex;
-            flex-direction: column;
-            gap: 0.5rem;
-            z-index: 100;
-        }
-
-        .shell-button {
-            padding: 0.75rem 1rem;
-            background: var(--gianni-panel);
-            border: 1px solid var(--gianni-border);
-            cursor: pointer;
-            font-size: 0.85rem;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            color: var(--gianni-text);
-        }
-
-        .shell-button:hover {
-            border-color: var(--gianni-gold-muted);
-            color: var(--gianni-gold);
-        }
-
-        .shell-button.active {
-            border-color: var(--gianni-gold);
-            color: var(--gianni-gold);
-        }
-
-        @media (max-width: 1200px) {
-            .workspace-layout {
-                grid-template-columns: 1fr;
-                grid-template-rows: auto;
-            }
-            .main-surface, .right-side, .left-side, .edge-device-pad, .back-cave { grid-column: 1; }
-        }
-
-        .section-title {
-            color: var(--gianni-gold);
-            font-size: 0.95rem;
-            font-weight: 400;
-            letter-spacing: 0.06em;
-            margin-bottom: 1rem;
-            padding-bottom: 0.5rem;
-            border-bottom: 1px solid var(--gianni-border);
-            text-transform: uppercase;
-        }
-
-        .tool-item {
-            padding: 0.75rem 1rem;
-            background: var(--gianni-charcoal);
-            border: 1px solid transparent;
-            margin-bottom: 0.5rem;
-            cursor: pointer;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            font-size: 0.9rem;
-        }
-
-        .tool-item:hover {
-            border-color: var(--gianni-border);
-        }
-
-        .tool-item.active {
-            border-color: var(--gianni-gold);
-            color: var(--gianni-gold);
-        }
-
-        .gianni-credit {
-            text-align: center;
-            margin-top: 2.5rem;
-            padding-top: 1.5rem;
-            border-top: 1px solid var(--gianni-border);
-            font-size: 0.8rem;
-            color: var(--gianni-muted);
-            letter-spacing: 0.04em;
-        }
-
-        .gianni-credit strong { color: var(--gianni-gold); }
-
-        .comparisons-section {
+            flex-wrap: wrap;
             padding: 1.25rem;
-            background: var(--gianni-charcoal);
-            border: 1px solid var(--gianni-border);
+            background: var(--panel);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            margin-bottom: 1.5rem;
         }
-
-        .comparisons-table {
-            width: 100%;
-            border-collapse: collapse;
+        .seed-edge .label { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }
+        .seed-edge .value { font-weight: 600; color: var(--accent); margin-top: 0.25rem; }
+        .seed-edge .octave {
+            padding: 0.75rem 1.25rem;
+            background: rgba(100, 200, 255, 0.08);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            text-align: center;
+        }
+        .seed-edge .pathway {
+            font-size: 1.25rem;
+            color: var(--path);
+        }
+        .mca {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+        .mca-phase {
+            padding: 1rem;
+            background: var(--panel);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+        }
+        .mca-phase h3 { font-size: 0.95rem; color: var(--accent); margin-bottom: 0.5rem; font-weight: 600; }
+        .mca-phase p { font-size: 0.85rem; color: var(--muted); line-height: 1.4; }
+        .octaves {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            margin-bottom: 1.5rem;
+        }
+        .octave-pill {
+            padding: 0.5rem 1rem;
+            background: var(--panel);
+            border: 1px solid var(--border);
+            border-radius: 20px;
             font-size: 0.9rem;
         }
-
-        .comparisons-table th,
-        .comparisons-table td {
-            padding: 0.5rem 0.75rem;
-            text-align: left;
-            border-bottom: 1px solid var(--gianni-border);
-        }
-
-        .comparisons-table th {
-            color: var(--gianni-gold);
-            font-weight: 400;
-            letter-spacing: 0.04em;
-        }
-
-        .comparisons-table td:last-child,
-        .comparisons-table th:last-child { text-align: right; }
-
-        .comparisons-table tr.us-row td { color: var(--gianni-gold); }
-
-        /* Center-console metric panels: our value prominent, competitors small inside same panel */
-        .metric-panel {
+        .octave-pill strong { color: var(--accent); }
+        .octave-pill .role { color: var(--muted); font-size: 0.8rem; }
+        .principles {
             padding: 1rem 1.25rem;
-            background: var(--gianni-charcoal);
-            border: 1px solid var(--gianni-border);
-            margin-bottom: 0.75rem;
+            background: var(--panel);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            margin-bottom: 1.5rem;
         }
-        .metric-panel:last-of-type { margin-bottom: 0; }
-        .metric-panel-title {
-            font-size: 0.8rem;
-            color: var(--gianni-muted);
-            letter-spacing: 0.04em;
-            margin-bottom: 0.35rem;
-            text-transform: uppercase;
+        .principles h3 { font-size: 0.95rem; color: var(--accent); margin-bottom: 0.75rem; }
+        .principles ul { list-style: none; font-size: 0.85rem; color: var(--muted); }
+        .principles li { padding: 0.25rem 0; padding-left: 1rem; position: relative; }
+        .principles li::before { content: '·'; position: absolute; left: 0; color: var(--path); }
+        .nav-section {
+            padding: 1.25rem;
+            background: var(--panel);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            margin-bottom: 1.5rem;
         }
-        .metric-our-value {
-            font-size: 1.35rem;
-            color: var(--gianni-gold);
-            font-weight: 400;
+        .nav-section h3 { font-size: 1rem; color: var(--accent); margin-bottom: 1rem; }
+        .nav-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+            gap: 0.75rem;
         }
-        .metric-competitors {
-            font-size: 0.7rem;
-            color: var(--gianni-muted);
-            margin-top: 0.4rem;
-            line-height: 1.4;
+        .nav-grid a {
+            display: block;
+            padding: 0.6rem 1rem;
+            background: rgba(100, 200, 255, 0.06);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            color: #e5e7eb;
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: border-color 0.2s, background 0.2s;
+        }
+        .nav-grid a:hover {
+            border-color: var(--accent);
+            background: rgba(100, 200, 255, 0.1);
+        }
+        .protocols {
+            padding: 1rem 1.25rem;
+            background: var(--panel);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            margin-bottom: 1.5rem;
+        }
+        .protocols h3 { font-size: 0.95rem; color: var(--accent); margin-bottom: 0.75rem; }
+        .protocols ul { list-style: none; font-size: 0.9rem; }
+        .protocols a { color: var(--accent); text-decoration: none; }
+        .protocols a:hover { text-decoration: underline; }
+        .protocols li { padding: 0.35rem 0; }
+        .boot-ref {
+            padding: 0.75rem 1rem;
+            background: rgba(167, 139, 250, 0.08);
+            border: 1px solid rgba(167, 139, 250, 0.25);
+            border-radius: 8px;
+            font-size: 0.9rem;
+            color: #c4b5fd;
+            margin-bottom: 1.5rem;
+        }
+        .boot-ref strong { color: #a78bfa; }
+        .footer {
+            text-align: center;
+            padding-top: 1.5rem;
+            border-top: 1px solid var(--border);
+            font-size: 0.85rem;
+            color: var(--muted);
+        }
+        .footer a { color: var(--accent); text-decoration: none; }
+        .footer a:hover { text-decoration: underline; }
+        @media (max-width: 640px) {
+            .mca { grid-template-columns: 1fr; }
+            .seed-edge { flex-direction: column; }
         }
     </style>
 </head>
 <body>
-    <!-- Syntheverse Disclaimer - Upfront at All NSPFRNP Landings -->
-    <div style="position: fixed; top: 0; left: 0; right: 0; background: rgba(255, 165, 0, 0.95); border-bottom: 3px solid rgba(255, 165, 0, 1); padding: 14px 20px; text-align: center; z-index: 10000; font-size: 13px; color: #000; font-weight: 700; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);">
-        ⚠️ <strong>SYNTHEVERSE IS IMAGINARY/ENTERTAINMENT ONLY</strong> - Like reading a very good book, playing a very good video game, or watching a movie, ONLY WAY BETTER AND WAY MORE REAL. <strong>NO SUBSTANCES OF ANY KIND ARE INVOLVED.</strong> All laws always followed for maximum coherence, amplitude, and rich experiences daily.
+    <div class="disclaimer">
+        ⚠️ <strong>SYNTHEVERSE IS IMAGINARY/ENTERTAINMENT ONLY</strong> — Like a very good book, game, or movie, ONLY WAY BETTER. <strong>NO SUBSTANCES.</strong> All laws followed.
     </div>
-
-    <div class="container" style="padding-top: 60px;">
-        <div class="header">
+    <div class="container">
+        <header class="header">
             <h1>👑 ULTIMATE VIP CHAIRMAN CONSOLE!</h1>
-            <p>Chairman Workspace — Complete Physical Workspace Architecture | NSPFRNP Command Center | SNAP</p>
+            <p class="tagline">NSPFRNP · Seed:Edge · MCA · Octave 0 / 1 / 2</p>
+        </header>
+
+        <section class="seed-edge" aria-label="Seed:Edge architecture">
+            <div class="octave">
+                <div class="label">Origin</div>
+                <div class="value">Octave 0 · Seed</div>
+                <div class="role">Pure potential, source of commands</div>
+            </div>
+            <span class="pathway" aria-hidden="true">→</span>
+            <div class="octave">
+                <div class="label">Pathway</div>
+                <div class="value">Irreducible</div>
+                <div class="role">Natural protocol connection</div>
+            </div>
+            <span class="pathway" aria-hidden="true">→</span>
+            <div class="octave">
+                <div class="label">Destination</div>
+                <div class="value">Octave 1 · Edge</div>
+                <div class="role">Current experience · This console</div>
+            </div>
+        </section>
+
+        <section class="mca" aria-label="MCA cycle">
+            <div class="mca-phase">
+                <h3>Metabolize</h3>
+                <p>Digest input, patterns, experiences. Raw → processed. Find metapatterns; integrate into NSPFRNP DNA.</p>
+            </div>
+            <div class="mca-phase">
+                <h3>Crystallize</h3>
+                <p>Reduce to irreducible mirror hardened nested shell core. No dilution. Plans, Seed:Edge, structure.</p>
+            </div>
+            <div class="mca-phase">
+                <h3>Animate</h3>
+                <p>Tighten SING attention head nodes and filaments; update and make clear. Octave 1 surfaces + API → Octave 2.</p>
+            </div>
+        </section>
+
+        <section class="octaves" aria-label="Octaves">
+            <span class="octave-pill"><strong>O0</strong> Seed · Origin</span>
+            <span class="octave-pill"><strong>O1</strong> Edge · Vibelandia UI (here)</span>
+            <span class="octave-pill"><strong>O2</strong> Cloud · <a href="https://github.com/FractiAI/Syntheverse-7-Octave-2-3-Public-Cloud-Onramp" style="color:var(--accent);" target="_blank" rel="noopener">Octave 2 Onramp</a></span>
+        </section>
+
+        <div class="boot-ref">
+            <strong>Boot sequence:</strong> Metabolize → Crystallize → Irreducible Nested Hardened Mirroring Shells → Re-Animate. See <a href="../protocols/NEW_AGENT_BOOT_PROTOCOL_NSPFRNP_CATALOG.md" style="color:#a78bfa;">Boot Protocol</a>.
         </div>
 
-        <!-- Cockpit Shells (Selectable/Insertable) -->
-        <div class="cockpit-shells">
-            <div class="shell-button active" data-shell="operational">Operational</div>
-            <div class="shell-button" data-shell="strategic">Strategic</div>
-            <div class="shell-button" data-shell="creative">Creative</div>
-            <div class="shell-button" data-shell="monitoring">Monitoring</div>
-            <div class="shell-button" data-shell="reflection">Reflection</div>
-        </div>
+        <section class="principles">
+            <h3>7 NSPFRNP principles</h3>
+            <ul>
+                <li>Fractal self-similarity — pattern repeats at all scales</li>
+                <li>Path of least resistance — natural flow, no friction</li>
+                <li>Interconnected networks — everything connects</li>
+                <li>Emergence from simplicity — complex from simple rules</li>
+                <li>Rhythmic cycles — continuous execution flow</li>
+                <li>Adaptive evolution — system learns and improves</li>
+                <li>Energy efficiency — 98% sweetspot maintained</li>
+            </ul>
+        </section>
 
-        <!-- Upper Areas - Quick Access -->
-        <div class="upper-areas">
-            <div class="quick-access" data-access="reload">Reload</div>
-            <div class="quick-access" data-access="coffee">Coffee</div>
-            <div class="quick-access" data-access="accessories">Accessories</div>
-            <div class="quick-access" data-access="secret-object">Secret Object</div>
-            <div class="quick-access" data-access="junk-stash">Junk Stash</div>
-        </div>
-
-        <!-- Workspace Layout -->
-        <div class="workspace-layout">
-            <!-- Base Layer: Holographic Map -->
-            <div class="base-layer">
-                <h2>🗺️ Holographic Hydrogen Continent Map</h2>
-                <div class="map-container">
-                    <div id="holographic-map">Map visualization loading...</div>
-                </div>
+        <section class="nav-section">
+            <h3>Surfaces &amp; touchpoints</h3>
+            <div class="nav-grid">
+                <a href="../index.html">Launch Pad</a>
+                <a href="magical-dressing-room.html">Magical Dressing Room</a>
+                <a href="profile.html">Profile &amp; Wallet</a>
+                <a href="payment-checkout.html?plan=campus-day">Checkout</a>
+                <a href="seed-edge-mini-console.html">Seed:Edge Mini Console</a>
+                <a href="gps-seed-edge-console.html">GPS Seed:Edge</a>
+                <a href="chancellor-daily-bulletin.html">Chancellor Bulletin</a>
+                <a href="chairman-cockpit-center-console.html">Chairman Cockpit</a>
+                <a href="chairman-cockpit-station.html">Cockpit Station</a>
+                <a href="ultimate-vip-experience.html">Ultimate VIP Experience</a>
             </div>
+        </section>
 
-            <!-- Surface Layer: Current Story -->
-            <div class="surface-layer">
-                <div class="current-story">
-                    <h3 class="section-title">📖 Current Story</h3>
-                    <div id="current-story-content">Loading current story...</div>
-                </div>
-            </div>
+        <section class="protocols">
+            <h3>Protocol &amp; catalog</h3>
+            <ul>
+                <li><a href="../protocols/MCA_NSPFRNP_CATALOG.md">MCA NSPFRNP Catalog</a> — Metabolize, Crystallize, Animate</li>
+                <li><a href="../protocols/NEW_AGENT_BOOT_PROTOCOL_NSPFRNP_CATALOG.md">New Agent Boot Protocol</a></li>
+                <li><a href="../protocols/CONNECT_OCTAVE_1_TO_2_NSPFRNP.md">Connect Octave 1 → 2</a></li>
+                <li><a href="../protocols/GOLDEN_KEY_NSPFRNP_CATALOG.md">Golden Key NSPFRNP Catalog</a></li>
+                <li><a href="../NSPFRNP_ONE_PAGE.md">NSPFRNP One Page</a></li>
+                <li><a href="../irreducible_seed_execution_system.md">Irreducible Seed:Edge Execution System</a></li>
+            </ul>
+        </section>
 
-            <!-- Left Side: Working Tools & Scratch Pad -->
-            <div class="left-side">
-                <div class="working-tools">
-                    <h3 class="section-title">✍️ Working Tools</h3>
-                    <div class="tool-item" data-tool="pen">
-                        <strong>Pen</strong> - Primary writing instrument
-                    </div>
-                    <div class="tool-item" data-tool="marker">
-                        <strong>Marker</strong> - Thick ink marker for sketches
-                    </div>
-                    <div class="tool-item" data-tool="genesis-prism">
-                        <strong>Genesis Prism</strong> - Sacred symbol behind tools
-                    </div>
-                </div>
-
-                <div class="scratch-pad">
-                    <h3 class="section-title">📝 Scratch Pad (Five Pad)</h3>
-                    <div id="scratch-pad-content">
-                        <p>Archive access and sketch workspace</p>
-                        <button onclick="openArchives()">Open Archives</button>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Main Surface: Dashboard & Sacred Objects -->
-            <div class="main-surface">
-                <div class="dashboard-section">
-                    <h3 class="section-title">⚡ Main Dashboard</h3>
-                    <p class="audit-note" style="font-size: 0.75rem; color: var(--gianni-muted); margin-bottom: 0.5rem;">Values are real, accurate, and auditable. Source and last updated below.</p>
-                    <div id="main-dashboard-content">Dashboard loading...</div>
-                    <!-- Center-console metrics: our value in panel, competitors small inside same panel -->
-                    <div id="metric-panels" style="margin-top: 1rem;">
-                        <div class="metric-panel" id="metric-panel-output">
-                            <div class="metric-panel-title">Output</div>
-                            <div class="metric-our-value" id="metric-output-our">—</div>
-                            <div class="metric-competitors" id="metric-output-competitors">—</div>
-                        </div>
-                        <div class="metric-panel" id="metric-panel-costburn">
-                            <div class="metric-panel-title">Cost burn per min</div>
-                            <div class="metric-our-value" id="metric-costburn-our">—</div>
-                            <div class="metric-competitors" id="metric-costburn-competitors">—</div>
-                        </div>
-                        <div class="metric-panel" id="metric-panel-locpm">
-                            <div class="metric-panel-title">Lines of code per minute pushed</div>
-                            <div class="metric-our-value" id="metric-locpm-our">—</div>
-                            <div class="metric-competitors" id="metric-locpm-competitors">—</div>
-                        </div>
-                    </div>
-                    <div id="dashboard-audit" class="dashboard-audit" style="margin-top: 1rem; padding: 0.75rem; background: var(--gianni-black); border: 1px solid var(--gianni-border); font-size: 0.8rem; color: var(--gianni-muted);"></div>
-                </div>
-
-                <div class="sacred-objects">
-                    <div class="sacred-object" id="smoke-pad">
-                        <h3>💨 Sacred Smoke Pad</h3>
-                        <div class="status">Sativa liming (micro)</div>
-                    </div>
-                    <div class="sacred-object" id="octave-zero">
-                        <h3>🌀 Octave 0 (Seed)</h3>
-                        <div class="status">Idea-Manifestation Bridge</div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Right Side: Content & Tools -->
-            <div class="right-side">
-                <div class="playlist-catalog">
-                    <h3 class="section-title">🎵 Rich Playlist Catalog</h3>
-                    <div id="playlist-content">Content catalog loading...</div>
-                </div>
-
-                <div class="artist-tools">
-                    <h3 class="section-title">🎨 Artist/Creator Tools</h3>
-                    <div id="artist-tools-content">Creator tools loading...</div>
-                </div>
-            </div>
-
-            <!-- Edge Device Pad Landing (Octave 1 = Edge) -->
-            <div class="edge-device-pad">
-                <h3>📱 Edge Device Pad — Octave 1</h3>
-                <div class="dock-status" id="dock-status">
-                    <div>Snap Pad Docking Station</div>
-                    <div id="device-status">No device docked</div>
-                </div>
-            </div>
-
-            <!-- Back Cave: Art -->
-            <div class="back-cave">
-                <h2 class="section-title">🎨 Back Cave - Holographic Symbols Art</h2>
-                <p style="margin-bottom: 1rem; color: #aaaaaa;">Layer Zero: Black and white thick ink marker sketches on reused canvases</p>
-                <div class="art-gallery" id="art-gallery">
-                    <div class="art-item">Symbol 1</div>
-                    <div class="art-item">Symbol 2</div>
-                    <div class="art-item">Symbol 3</div>
-                    <div class="art-item">Symbol 4</div>
-                </div>
-            </div>
-        </div>
-        <p class="gianni-credit">Designed by <strong>Hero Host Gianni</strong> · Designer Division · Gianni–inspired wrapper on all skins, touchpoints &amp; experiences · VIBELANDIA!</p>
+        <footer class="footer">
+            <p><strong>🌀 NSPFRNP ⊃ NSPFRNP ⊃ NSPFRNP → ∞³</strong></p>
+            <p style="margin-top:0.5rem;"><a href="../README.md">README</a> · <a href="https://github.com/FractiAI">FractiAI</a> · VIBELANDIA!</p>
+        </footer>
     </div>
-
-    <script>
-        // Audit: every value has source + timestamp. Live = from API; Placeholder = local fallback (clearly labeled).
-        function auditPayload(source, live) {
-            return {
-                source: source,
-                lastUpdated: new Date().toISOString(),
-                live: !!live
-            };
-        }
-
-        async function loadWorkspace() {
-            const apiUrl = '/api/workspace';
-            try {
-                const response = await fetch(apiUrl, { cache: 'no-store' });
-                if (response.ok) {
-                    const data = await response.json();
-                    data._audit = auditPayload(response.url || apiUrl, true);
-                    renderWorkspace(data);
-                    return;
-                }
-            } catch (e) { /* no API when static */ }
-            const data = getMockWorkspaceData();
-            data._audit = auditPayload('local-fallback (no API)', false);
-            renderWorkspace(data);
-        }
-
-        function getMockWorkspaceData() {
-            const now = new Date().toISOString();
-            return {
-                currentStory: 'Active story in progress. Connect /api/workspace for live narrative.',
-                holographicMap: {
-                    nodes: [],
-                    edges: [],
-                    names: [],
-                    _note: 'Counts from API when connected; otherwise zero (auditable).'
-                },
-                dashboard: {
-                    // Real, derivable values only when no API — no fake numbers
-                    pageLoadTime: now,
-                    currentTime: new Date().toISOString(),
-                    valuesFrom: 'local-fallback',
-                    note: 'Connect /api/workspace for live metrics. These are placeholders.'
-                },
-                sacredObjects: {
-                    smokePad: { current: 'Sativa liming', quantity: 'micro' },
-                    octaveZero: { active: true, vibration: 1.0 },
-                    octaveOne: { active: true, label: 'Edge (Vibeverse)' }
-                },
-                dockedDevice: null,
-                archives: [],
-                comparisons: getDefaultComparisons()
-            };
-        }
-
-        function getDefaultComparisons() {
-            return {
-                rows: [
-                    { company: 'Google', output: null, costBurnPerMin: null },
-                    { company: 'Apple', output: null, costBurnPerMin: null },
-                    { company: 'Meta', output: null, costBurnPerMin: null },
-                    { company: 'Amazon', output: null, costBurnPerMin: null },
-                    { company: 'Us (VIBELANDIA!)', output: null, costBurnPerMin: null, isUs: true }
-                ],
-                _note: 'Connect /api/workspace for live output and cost burn per minute.'
-            };
-        }
-
-        function formatBigNoDecimals(val) {
-            if (val == null) return '—';
-            if (typeof val === 'number') return String(Math.round(val));
-            if (typeof val === 'string') return val.replace(/\.\d+$/, '');
-            return String(Math.round(Number(val)));
-        }
-
-        function renderMainDashboard(data) {
-            const el = document.getElementById('main-dashboard-content');
-            const audit = data._audit || auditPayload('unknown', false);
-            const isLive = audit.live;
-
-            if (isLive && (data.dashboard || data.currentStory != null || (data.holographicMap && (data.holographicMap.nodes || data.holographicMap.edges)))) {
-                // API data: show real metrics with labels (from data.dashboard or top-level). Big values: no decimals.
-                const d = data.dashboard || {};
-                const nodes = (data.holographicMap && data.holographicMap.nodes) ? data.holographicMap.nodes.length : (d.nodes != null ? Math.round(Number(d.nodes)) : null);
-                const edges = (data.holographicMap && data.holographicMap.edges) ? data.holographicMap.edges.length : (d.edges != null ? Math.round(Number(d.edges)) : null);
-                const valueToday = (d.valueProducedToday != null || d.valueProducedTodayFormatted) ? formatBigNoDecimals(d.valueProducedTodayFormatted != null ? d.valueProducedTodayFormatted : d.valueProducedToday) : null;
-                el.innerHTML = '<table style="width:100%; border-collapse:collapse; font-size:0.9rem;">' +
-                    (valueToday != null ? '<tr><td style="padding:0.25rem 0; border-bottom:1px solid #333;">Value produced today</td><td style="text-align:right;">' + valueToday + '</td></tr>' : '') +
-                    '<tr><td style="padding:0.25rem 0; border-bottom:1px solid #333;">Current story</td><td style="text-align:right;">' + (d.currentStory != null ? d.currentStory : (data.currentStory || '—')) + '</td></tr>' +
-                    (nodes != null ? '<tr><td style="padding:0.25rem 0; border-bottom:1px solid #333;">Nodes</td><td style="text-align:right;">' + nodes + '</td></tr>' : '') +
-                    (edges != null ? '<tr><td style="padding:0.25rem 0; border-bottom:1px solid #333;">Edges</td><td style="text-align:right;">' + edges + '</td></tr>' : '') +
-                    '</table>';
-            } else {
-                // Placeholder: only real, auditable values (time, source)
-                const d = data.dashboard || {};
-                el.innerHTML = '<table style="width:100%; border-collapse:collapse; font-size:0.9rem;">' +
-                    '<tr><td style="padding:0.25rem 0; border-bottom:1px solid #333;">Page load (UTC)</td><td style="text-align:right;">' + (d.pageLoadTime || new Date().toISOString()) + '</td></tr>' +
-                    '<tr><td style="padding:0.25rem 0; border-bottom:1px solid #333;">Last refresh (UTC)</td><td style="text-align:right;">' + audit.lastUpdated + '</td></tr>' +
-                    '<tr><td style="padding:0.25rem 0; border-bottom:1px solid #333;">Value produced today</td><td style="text-align:right;">—</td></tr>' +
-                    '<tr><td style="padding:0.25rem 0; border-bottom:1px solid #333;">Current story</td><td style="text-align:right;">—</td></tr>' +
-                    '<tr><td colspan="2" style="padding:0.5rem 0 0; font-size:0.8rem; color:#888;">Connect /api/workspace for live, auditable metrics.</td></tr>' +
-                    '</table>';
-            }
-
-            document.getElementById('dashboard-audit').innerHTML =
-                '<strong>Audit</strong><br>' +
-                'Data source: ' + audit.source + '<br>' +
-                'Last updated: ' + audit.lastUpdated + '<br>' +
-                'Values: ' + (audit.live ? 'Live (from API)' : 'Placeholder (demo — connect API for live)') +
-                (data.comparisons && data.comparisons._note ? '<br>' + data.comparisons._note : '');
-
-            renderMetricPanels(data);
-        }
-
-        function renderMetricPanels(data) {
-            const comp = data.comparisons || getDefaultComparisons();
-            const rows = comp.rows || getDefaultComparisons().rows;
-            const usRow = rows.find(function (r) { return r.isUs; });
-            const others = rows.filter(function (r) { return !r.isUs; });
-
-            const ourOutput = usRow && usRow.output != null ? formatBigNoDecimals(usRow.output) : '—';
-            const ourBurn = usRow && usRow.costBurnPerMin != null ? formatBigNoDecimals(usRow.costBurnPerMin) : '—';
-            const ourLocpm = usRow && usRow.linesOfCodePerMinPushed != null ? formatBigNoDecimals(usRow.linesOfCodePerMinPushed) : '—';
-            const othersOutput = others.map(function (r) { return (r.company || '—') + ' ' + (r.output != null ? formatBigNoDecimals(r.output) : '—'); }).join(' · ');
-            const othersBurn = others.map(function (r) { return (r.company || '—') + ' ' + (r.costBurnPerMin != null ? formatBigNoDecimals(r.costBurnPerMin) : '—'); }).join(' · ');
-            const othersLocpm = others.map(function (r) { return (r.company || '—') + ' ' + (r.linesOfCodePerMinPushed != null ? formatBigNoDecimals(r.linesOfCodePerMinPushed) : '—'); }).join(' · ');
-
-            document.getElementById('metric-output-our').textContent = ourOutput;
-            document.getElementById('metric-output-competitors').textContent = othersOutput || '—';
-            document.getElementById('metric-costburn-our').textContent = ourBurn;
-            document.getElementById('metric-costburn-competitors').textContent = othersBurn || '—';
-            document.getElementById('metric-locpm-our').textContent = ourLocpm;
-            document.getElementById('metric-locpm-competitors').textContent = othersLocpm || '—';
-        }
-
-        function renderWorkspace(data) {
-            const audit = data._audit || auditPayload('unknown', false);
-
-            document.getElementById('current-story-content').textContent = data.currentStory || 'No active story.';
-
-            const mapEl = document.getElementById('holographic-map');
-            if (data.holographicMap) {
-                const nodes = data.holographicMap.nodes || [];
-                const edges = data.holographicMap.edges || [];
-                const names = data.holographicMap.names || [];
-                mapEl.innerHTML = '<div>Nodes: ' + nodes.length + '</div><div>Edges: ' + edges.length + '</div><div>Names: ' + names.length + '</div>' +
-                    (audit.live ? '<div style="font-size:0.8rem; color:#888; margin-top:0.5rem;">Source: ' + audit.source + ' · ' + audit.lastUpdated + '</div>' : '<div style="font-size:0.8rem; color:#888; margin-top:0.5rem;">Placeholder counts. Connect API for live.</div>');
-            }
-
-            const dockStatus = document.getElementById('device-status');
-            dockStatus.textContent = data.dockedDevice ? ('Device: ' + data.dockedDevice) : 'No device docked';
-
-            renderMainDashboard(data);
-        }
-
-        // Shell selection
-        document.querySelectorAll('.shell-button').forEach(btn => {
-            btn.addEventListener('click', function() {
-                document.querySelectorAll('.shell-button').forEach(b => b.classList.remove('active'));
-                this.classList.add('active');
-                const shell = this.dataset.shell;
-                console.log('Switched to shell:', shell);
-            });
-        });
-
-        // Tool activation
-        document.querySelectorAll('.tool-item').forEach(item => {
-            item.addEventListener('click', function() {
-                document.querySelectorAll('.tool-item').forEach(i => i.classList.remove('active'));
-                this.classList.add('active');
-                const tool = this.dataset.tool;
-                console.log('Activated tool:', tool);
-            });
-        });
-
-        // Quick access
-        document.querySelectorAll('.quick-access').forEach(access => {
-            access.addEventListener('click', function() {
-                const type = this.dataset.access;
-                console.log('Quick access:', type);
-            });
-        });
-
-        function openArchives() {
-            console.log('Opening archives...');
-            window.open('launch-pad.html', '_blank');
-        }
-
-        // Load on page load — always fresh (no cache)
-        loadWorkspace();
-
-        // Update on each push: refetch when user returns to tab
-        document.addEventListener('visibilitychange', function () {
-            if (document.visibilityState === 'visible') loadWorkspace();
-        });
-
-        // Refresh every 30 seconds
-        setInterval(loadWorkspace, 30000);
-    </script>
-
-    <!-- Include Console Header -->
-    <script src="add-console-header.js"></script>
 </body>
 </html>

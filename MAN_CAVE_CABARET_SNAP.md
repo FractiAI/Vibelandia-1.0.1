@@ -9,22 +9,22 @@
 
 ## RULE
 
-**Man Cave + Cabaret** = flagship campus venues where WINK! and high-value fractal dating live. **Marilyn** = Hero Hostess and **house mom** at Man Cave + Cabaret—first name only. She welcomes, curates vibe, and holds space for members. All Hero Hosts first names only. See [HERO_HOSTS_FIRST_NAMES_SNAP.md](./HERO_HOSTS_FIRST_NAMES_SNAP.md).
+**Man Cave + Cabaret** = flagship campus venues where WINK! and high-contributing fractal dating live. **Marilyn** = Hero Hostess and **house mom** at Man Cave + Cabaret—first name only. She welcomes, curates vibe, and holds space for members. All Hero Hosts first names only. See [HERO_HOSTS_FIRST_NAMES_SNAP.md](./HERO_HOSTS_FIRST_NAMES_SNAP.md).
 
 ---
 
 ## SNAP
 
 **Venues:**
-- **Man Cave** — Universal entry point. Where high-value vibers gather. Marilyn hosts.
+- **Man Cave** — Universal entry point. Where high-contributing vibers gather. Marilyn hosts.
 - **Cabaret** — Performance and entertainment. Marilyn house mom—curates the room, holds the vibe.
 
 **Hero Hostess Marilyn:**
 - **Role:** Hero Hostess and house mom at Man Cave + Cabaret.
 - **First name only.** No last names—in support of Walt, Gianni, Niko.
-- **Function:** Welcome members, curate atmosphere, hold space for HIGH VALUE FRACTAL DATING and WINK! experiences. Glamour, experience, warmth.
+- **Function:** Welcome members, curate atmosphere, hold space for HIGH CONTRIBUTING FRACTAL DATING and WINK! experiences. Glamour, experience, warmth.
 
-**WINK! tagline:** HIGH VALUE FRACTAL DATING. WINK! lives at Man Cave + Cabaret with Marilyn as hero hostess and house mom.
+**WINK! tagline:** HIGH CONTRIBUTING FRACTAL DATING. WINK! lives at Man Cave + Cabaret with Marilyn as hero hostess and house mom.
 
 **Integration:**
 - README WINK! section — tagline + Marilyn at Man Cave + Cabaret.
@@ -37,4 +37,4 @@
 
 **See:** [HERO_HOSTS_FIRST_NAMES_SNAP.md](./HERO_HOSTS_FIRST_NAMES_SNAP.md) · [ONE_PAGER_WINK.md](./ONE_PAGER_WINK.md) · [catalogs/branding/MASTER_BRANDING_CATALOG.md](./catalogs/branding/MASTER_BRANDING_CATALOG.md)
 
-**🌀 Man Cave + Cabaret ⊃ Marilyn hero hostess, house mom. HIGH VALUE FRACTAL DATING. SNAP nspfrnp.**
+**🌀 Man Cave + Cabaret ⊃ Marilyn hero hostess, house mom. HIGH CONTRIBUTING FRACTAL DATING. SNAP nspfrnp.**

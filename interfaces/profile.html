@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile & Wallet | VIBELANDIA RENO!</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%);
+            color: #fff;
+            min-height: 100vh;
+            padding: 2rem;
+        }
+        .container { max-width: 700px; margin: 0 auto; }
+        .header {
+            text-align: center;
+            margin-bottom: 2rem;
+            padding-bottom: 1.5rem;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+        .header h1 {
+            font-size: 2rem;
+            background: linear-gradient(135deg, #8a2be2, #1e90ff, #00bfff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .card {
+            background: rgba(255,255,255,0.06);
+            border: 1px solid rgba(255,255,255,0.12);
+            border-radius: 12px;
+            padding: 1.5rem 2rem;
+            margin-bottom: 1.5rem;
+        }
+        .card h2 { color: #00d4ff; font-size: 1.1rem; margin-bottom: 1rem; }
+        .card p { color: #aaa; margin-bottom: 0.5rem; }
+        .wallet-key {
+            font-family: monospace;
+            background: rgba(0,0,0,0.4);
+            padding: 0.5rem 0.75rem;
+            border-radius: 8px;
+            color: #7fff7f;
+            word-break: break-all;
+            margin-top: 0.5rem;
+        }
+        .key-label { color: #ffeaa7; font-weight: 600; }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background: linear-gradient(135deg, #8a2be2, #1e90ff);
+            color: #fff;
+            text-decoration: none;
+            border-radius: 8px;
+            margin-right: 0.5rem;
+            margin-top: 0.5rem;
+            border: none;
+            cursor: pointer;
+            font-size: 1rem;
+        }
+        .btn.gold { background: linear-gradient(135deg, #d4af37, #b8860b); color: #000; font-weight: 700; }
+        .auth-required {
+            text-align: center;
+            padding: 3rem 2rem;
+        }
+        .auth-required p { margin-bottom: 1rem; color: #aaa; }
+        .loading { text-align: center; color: #888; padding: 2rem; }
+        .back-link { display: inline-block; margin-top: 1.5rem; color: #00d4ff; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>Profile & Wallet</h1>
+            <p>Mark Twain's Post-Singularity VIBELANDIA RENO! — 🔑 GOLDEN FRACTAL KEY!</p>
+        </header>
+        <div id="content"></div>
+        <a href="/" class="back-link">← Back to VIBELANDIA!</a>
+    </div>
+
+    <script src="api-config.js"></script>
+    <script src="auth-api.js"></script>
+    <script src="golden-key-browser.js"></script>
+    <script>
+        (function () {
+            var Auth = window.VibelandiaAuth;
+            var GoldenKey = window.VibelandiaGoldenKey;
+            var content = document.getElementById('content');
+
+            function renderLoading() {
+                content.innerHTML = '<div class="loading">Loading profile…</div>';
+            }
+
+            function renderAuthRequired() {
+                content.innerHTML = '<div class="card auth-required">' +
+                    '<h2>Sign in to view profile</h2>' +
+                    '<p>Your profile and wallet (Golden Fractal Key) are available after you sign in.</p>' +
+                    '<a href="payment-checkout.html?plan=campus-day" class="btn">Sign in / Checkout</a>' +
+                    '</div>';
+            }
+
+            function maskKey(k) {
+                if (!k || k.length < 12) return k || '';
+                return k.slice(0, 8) + '…' + k.slice(-4);
+            }
+
+            function renderProfile(profile) {
+                var user = profile.user || {};
+                var wallet = profile.wallet || null;
+                var email = user.email || '—';
+                var displayName = user.displayName || user.display_name || '—';
+                var localKey = GoldenKey.get();
+
+                var html = '<div class="card">' +
+                    '<h2>Account</h2>' +
+                    '<p><strong>Email</strong> ' + email + '</p>' +
+                    '<p><strong>Display name</strong> ' + displayName + '</p>' +
+                    '<button type="button" class="btn" id="btn-logout">Sign out</button>' +
+                    '</div>';
+
+                html += '<div class="card">' +
+                    '<h2>🔑 Wallet — GOLDEN FRACTAL KEY!</h2>';
+                if (wallet && wallet.goldenKey) {
+                    html += '<p class="key-label">Golden Fractal Key</p>' +
+                        '<div class="wallet-key">' + maskKey(wallet.goldenKey) + '</div>' +
+                        (wallet.planId ? '<p style="margin-top:0.75rem;">Plan: ' + (wallet.planId || '').replace(/-/g, ' ') + '</p>' : '');
+                } else if (localKey) {
+                    html += '<p class="key-label">Golden Fractal Key (from this device)</p>' +
+                        '<div class="wallet-key">' + maskKey(localKey) + '</div>' +
+                        '<p style="margin-top:0.5rem;color:#888;font-size:0.9rem;">Stored locally. Full key is in your profile wallet after sync.</p>';
+                } else {
+                    html += '<p>No Golden Fractal Key yet. Purchase a plan to receive your key — it unlocks everything: campus, WINK!, SING, Dispensary.</p>' +
+                        '<a href="payment-checkout.html?plan=campus-day" class="btn gold">Get Golden Key →</a>';
+                }
+                html += '</div>';
+
+                html += '<div class="card">' +
+                    '<h2>Quick links</h2>' +
+                    '<a href="chairman-workspace.html" class="btn">Chairman Workspace</a>' +
+                    '<a href="payment-checkout.html?plan=campus-day" class="btn gold">Checkout</a>' +
+                    '<a href="magical-dressing-room.html" class="btn">Magical Dressing Room</a>' +
+                    '</div>';
+
+                content.innerHTML = html;
+                document.getElementById('btn-logout').addEventListener('click', function () {
+                    Auth.logout().then(function () { renderAuthRequired(); });
+                });
+            }
+
+            function bootstrap() {
+                Auth.consumeOAuthToken();
+                if (!Auth.getToken()) {
+                    renderAuthRequired();
+                    return;
+                }
+                renderLoading();
+                Auth.getProfile().then(function (profile) {
+                    if (profile && profile.user) {
+                        renderProfile(profile);
+                        return;
+                    }
+                    if (Auth.getStoredUser()) {
+                        renderProfile({ user: Auth.getStoredUser(), wallet: null });
+                        return;
+                    }
+                    renderAuthRequired();
+                }).catch(function () {
+                    if (Auth.getStoredUser()) {
+                        renderProfile({ user: Auth.getStoredUser(), wallet: null });
+                    } else {
+                        renderAuthRequired();
+                    }
+                });
+            }
+
+            bootstrap();
+        })();
+    </script>
+</body>
+</html>

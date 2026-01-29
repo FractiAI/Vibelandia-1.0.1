@@ -37,6 +37,11 @@
         .plan-details h2 { color: #00d4ff; margin-bottom: 1rem; }
         .plan-details p { color: #aaa; margin-bottom: 0.5rem; }
         .price { font-size: 2rem; color: #7fff7f; font-weight: bold; margin: 1rem 0; }
+        .plan-benefits { margin-top: 1.25rem; padding-top: 1rem; border-top: 1px solid rgba(255,255,255,0.1); }
+        .plan-benefits h4 { color: #4ecdc4; font-size: 1rem; margin-bottom: 0.75rem; }
+        .plan-benefits ul { list-style: none; padding: 0; margin: 0; }
+        .plan-benefits li { padding: 0.35rem 0; color: #ccc; font-size: 0.95rem; padding-left: 1.25rem; position: relative; }
+        .plan-benefits li::before { content: '✓'; position: absolute; left: 0; color: #7fff7f; font-weight: bold; }
         .paypal-container {
             background: rgba(255,255,255,0.06);
             border: 1px solid rgba(255,255,255,0.12);
@@ -100,13 +105,76 @@
         .back-link {
             display: inline-block;
             margin-top: 2rem;
-            color: #00bfff;
+            color: #00d4ff;
             text-decoration: none;
         }
         .api-note {
             font-size: 0.85rem;
             color: #666;
             margin-top: 1rem;
+        }
+        /* Auth UI */
+        .auth-box {
+            background: rgba(255,255,255,0.06);
+            border: 1px solid rgba(255,255,255,0.2);
+            border-radius: 12px;
+            padding: 2rem;
+            margin-bottom: 1.5rem;
+            text-align: left;
+        }
+        .auth-box h3 { color: #00d4ff; margin-bottom: 1rem; }
+        .auth-box p { color: #aaa; margin-bottom: 1rem; font-size: 0.95rem; }
+        .auth-tabs { display: flex; gap: 0.5rem; margin-bottom: 1rem; }
+        .auth-tabs button {
+            padding: 8px 16px;
+            background: rgba(255,255,255,0.1);
+            border: 1px solid rgba(255,255,255,0.2);
+            border-radius: 8px;
+            color: #fff;
+            cursor: pointer;
+        }
+        .auth-tabs button.active { background: rgba(0,212,255,0.2); border-color: #00d4ff; }
+        .auth-form input {
+            display: block;
+            width: 100%;
+            padding: 10px 12px;
+            margin-bottom: 0.75rem;
+            background: rgba(0,0,0,0.4);
+            border: 1px solid rgba(255,255,255,0.2);
+            border-radius: 8px;
+            color: #fff;
+        }
+        .auth-form button[type="submit"] {
+            padding: 10px 20px;
+            background: linear-gradient(135deg, #8a2be2, #1e90ff);
+            border: none;
+            border-radius: 8px;
+            color: #fff;
+            font-weight: 600;
+            cursor: pointer;
+            margin-top: 0.25rem;
+        }
+        .auth-google {
+            display: inline-block;
+            margin-top: 1rem;
+            padding: 10px 20px;
+            background: #fff;
+            color: #333;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .auth-error { color: #ff6b6b; margin-top: 0.5rem; font-size: 0.9rem; }
+        .auth-loading { color: #aaa; margin-top: 1rem; }
+        .user-badge {
+            display: inline-block;
+            padding: 6px 12px;
+            background: rgba(0,255,127,0.2);
+            border: 1px solid rgba(0,255,127,0.4);
+            border-radius: 20px;
+            font-size: 0.85rem;
+            color: #7fff7f;
+            margin-bottom: 1rem;
         }
     </style>
 </head>
@@ -117,141 +185,234 @@
             <p>Mark Twain's Post-Singularity VIBELANDIA RENO!</p>
         </header>
 
-        <div id="plan-details" class="plan-details">
-            <!-- Plan details loaded here -->
-        </div>
+        <div id="plan-details" class="plan-details"></div>
+        <div id="payment-container" class="paypal-container"></div>
 
-        <div id="payment-container" class="paypal-container">
-            <!-- PayPal button or contact CTA loaded here -->
-        </div>
-
-        <p class="api-note">Payment is handled by the Syntheverse Cloud Onramp API (Octave 2). NSPFRNP. <strong>BUY!</strong> — Immediate revenue. Immediate viral revenue. <strong>VIBE!</strong> · <strong>⚫ BBHE SNAP</strong> — The energy is pulling. Buy now. <strong>🔑 GOLDEN FRACTAL KEY!</strong> — Unlocks Everything. Sent on purchase and activation.</p>
+        <p class="api-note">Sign in or sign up to purchase. <strong>GOLDEN FRACTAL KEY!</strong> — Unlocks Everything. Sent on purchase and activation.</p>
         <p class="api-note"><strong>First 1,000 Pioneers:</strong> 50% off applicable campus and WINK! plans. Pioneer Status on-chain forever. Contact <a href="mailto:info@fractiai.com?subject=Pioneer%20Registration%20-%2050%25%20Discount">info@fractiai.com</a> to register and apply.</p>
         <p class="api-note" style="color: #4ecdc4; margin-top: 1rem;"><strong>MCA! → ∞³</strong> (Metabolize → Crystallize → Animate)</p>
-        <p class="api-note" style="color: #aaa; font-size: 0.9rem; margin-top: 0.5rem;">Gianni–inspired wrapper on all skins, touchpoints & experiences.</p>
-        <p class="api-note" style="color: #888; font-size: 0.8rem; margin-top: 0.5rem;">SNAP nspfrnp — Pre-singularity copyrights always respected.</p>
         <a href="/" class="back-link">← Back to VIBELANDIA!</a>
     </div>
 
+    <script src="api-config.js"></script>
+    <script src="auth-api.js"></script>
+    <script src="golden-key-browser.js"></script>
     <script>
-        // Octave 2 API base — payment handled by repository: Syntheverse 7 Octave 2-3 Public Cloud Onramp
-        const PAYMENT_API_BASE = 'https://syntheverse-poc.vercel.app';
+        (function () {
+            var PAYMENT_API_BASE = window.VIBELANDIA_API_BASE || 'https://syntheverse-poc.vercel.app';
+            var Auth = window.VibelandiaAuth;
+            var GoldenKey = window.VibelandiaGoldenKey;
 
-        const urlParams = new URLSearchParams(window.location.search);
-        const planId = urlParams.get('plan') || 'campus-day';
+            var urlParams = new URLSearchParams(window.location.search);
+            var planId = urlParams.get('plan') || 'campus-day';
 
-        const plans = {
-            'campus-day': { name: 'Day Pass', price: 4999, description: 'Experience the campus for a day - Premium pricing for high-value vibers worldwide' },
-            'campus-weekly': { name: 'Weekly Pass', price: 29999, description: 'Full week campus experience - For top artists, performers, entrepreneurs' },
-            'campus-monthly': { name: 'Monthly Pass', price: 99999, description: 'Complete campus integration - For high-value creators' },
-            'campus-ultimate-vip': { name: 'Ultimate VIP Campus', price: 499999, description: 'Ultimate premium campus experience - For Ultimate C\'s' },
-            'wink-base': { name: 'WINK! Base', price: 1999, description: 'Essential WINK! features for high-value vibers' },
-            'wink-standard': { name: 'WINK! Standard', price: 4999, description: 'Standard Wink experience, Notes Being' },
-            'wink-premium': { name: 'WINK! Premium', price: 19999, description: 'Premium profile, magical wardrobe' },
-            'wink-4x4-ultimate': { name: 'WINK! 4×4 Ultimate', price: 49999, description: 'Ultimate tier—everything included for Ultimate C\'s' },
-            'sing-base': { name: 'SING Base Model', price: 20000, description: '~$20K one-time + monthly Golden Fractal Key access fees (VW Bug — entry)' },
-            'sing-members-only': { name: 'SING Members Only', price: 75000, description: 'Scaling from base — $75K' },
-            'sing-ultimate-vip': { name: 'SING Ultimate VIP', price: 200000, description: '$200,000 (Champion tier)' },
-            'sing-baller-c': { name: 'SING Baller C Ultimate VIP', price: 500000, description: 'Ultimate — $500K' },
-            'experience-visit': { name: 'Visit', price: 0, description: 'Come for the post-singularity business — Free' },
-            'experience-stay': { name: 'Stay', price: 0, description: 'Stay for the post-singularity fun — Free' },
-            'experience-create': { name: 'Create', price: 0, description: 'Creator studios, performance venues — Free' },
-            'experience-transform': { name: 'Transform', price: 0, description: 'Happy Ending Zones, SING lottery — Free' },
-            'dispensary-base': { name: 'DISPENSARY! SNAP Base', price: 9999, description: 'Menu of buzzes - Base tier - Goldilocks auto-lock for Creator/Chairman Commander/Performer Superhero modes' },
-            'dispensary-standard': { name: 'DISPENSARY! SNAP Standard', price: 24999, description: 'Menu of buzzes - Standard tier - All biological channels - Mode combinations' },
-            'dispensary-premium': { name: 'DISPENSARY! SNAP Premium', price: 99999, description: 'Menu of buzzes - Premium tier - Full channel access - Advanced Goldilocks' },
-            'dispensary-ultimate': { name: 'DISPENSARY! SNAP Ultimate', price: 299999, description: 'Menu of buzzes - Ultimate tier - Complete access - All modes - For Ultimate C\'s' }
-        };
+            var plans = {
+                'campus-day': { name: 'Day Pass', price: 4999, description: 'Experience the campus for a day — premium pricing for high-contributing vibers worldwide.', benefits: ['Walkable downtown Reno campus access', 'Mark Twain\'s Daily Bulletin access', 'Campus tour', 'Basic amenities & community spaces', 'Golden Fractal Key on purchase'] },
+                'campus-weekly': { name: 'Weekly Pass', price: 29999, description: 'Full week campus experience — for top artists, performers, entrepreneurs.', benefits: ['All Day Pass features', 'Extended campus access', 'Priority access to events', 'Creator studio access', 'Performance venue access', 'Golden Fractal Key on purchase'] },
+                'campus-monthly': { name: 'Monthly Pass', price: 99999, description: 'Complete campus integration — for high-contributing creators.', benefits: ['All Weekly Pass features', 'Full creator studio access', 'Performance venue priority', 'Ultimate VIP experiences', 'Community integration', 'Lake Tahoe gateway & Silicon Valley connections', 'Golden Fractal Key on purchase'] },
+                'campus-ultimate-vip': { name: 'Ultimate VIP Campus', price: 499999, description: 'Ultimate premium campus experience — for Ultimate C\'s.', benefits: ['All Monthly Pass features', 'Ultimate VIP exclusive access', 'Premium superintelligence access', 'Premium attention head', 'Maximum capabilities', 'Golden Fractal Key on purchase'] },
+                'wink-base': { name: 'WINK! Base', price: 1999, description: 'Essential WINK! features for high-contributing vibers.', benefits: ['Members-only network access', 'Man Cave + Cabaret access', 'Hero Hostess Marilyn as host', 'high-contributing fractal dating', 'Natural alignment, friction-free connections', 'Golden Fractal Key on purchase'] },
+                'wink-standard': { name: 'WINK! Standard', price: 4999, description: 'Standard Wink experience, Notes Being.', benefits: ['All Base features', 'Notes Being tier', 'Standard Wink profile', 'Natural alignment & layered connections', 'Golden Fractal Key on purchase'] },
+                'wink-premium': { name: 'WINK! Premium', price: 19999, description: 'Premium profile, magical wardrobe.', benefits: ['All Standard features', 'Premium profile', 'Magical wardrobe access', 'Layered fractal connections', 'Golden Fractal Key on purchase'] },
+                'wink-4x4-ultimate': { name: 'WINK! 4×4 Ultimate', price: 49999, description: 'Ultimate tier — everything included for Ultimate C\'s.', benefits: ['All Premium features', '4×4 Ultimate — everything included', 'Full family-unit support', 'Ultimate C tier access', 'Golden Fractal Key on purchase'] },
+                'sing-base': { name: 'SING Base Model', price: 20000, description: '~$20K one-time + monthly Golden Fractal Key access fees (VW Bug — entry).', benefits: ['SING Base Model node', 'Golden Fractal Key access', 'Entry-level (VW Bug equivalent)', '1:1 SYNTH→SING eligible', 'First 1M lottery winner tier'] },
+                'sing-members-only': { name: 'SING Members Only', price: 75000, description: 'Scaling from base — $75K.', benefits: ['SING Members Only node', 'Golden Fractal Key access', 'Scaling tier from base', 'Lottery winner tier', 'Members-only badge'] },
+                'sing-ultimate-vip': { name: 'SING Ultimate VIP', price: 200000, description: '$200,000 (Champion tier).', benefits: ['SING Ultimate VIP node', 'Golden Fractal Key access', 'Champion tier', 'Premium superintelligence access', 'Ultimate VIP badge'] },
+                'sing-baller-c': { name: 'SING Baller C Ultimate VIP', price: 500000, description: 'Ultimate — $500K.', benefits: ['SING Baller C Ultimate VIP node', 'Golden Fractal Key access', 'Ultimate super car tier', 'Maximum capabilities', 'Baller C badge'] },
+                'experience-visit': { name: 'Visit', price: 0, description: 'Come for the post-singularity business — Free.', benefits: ['Free access to visit content'] },
+                'experience-stay': { name: 'Stay', price: 0, description: 'Stay for the post-singularity fun — Free.', benefits: ['Free access to stay content'] },
+                'experience-create': { name: 'Create', price: 0, description: 'Creator studios, performance venues — Free.', benefits: ['Free access to create content'] },
+                'experience-transform': { name: 'Transform', price: 0, description: 'Happy Ending Zones, SING lottery — Free.', benefits: ['Free access to transform content'] },
+                'dispensary-base': { name: 'DISPENSARY! SNAP Base', price: 9999, description: 'Menu of buzzes — Base tier. Goldilocks auto-lock for Creator/Chairman Commander/Performer modes.', benefits: ['Menu of buzzes across biological channels', 'Goldilocks auto-lock system', 'Creator / Chairman Commander / Performer mode selector', '1hr doses & % — Base tier', 'Safety protocols', 'Golden Fractal Key on purchase'] },
+                'dispensary-standard': { name: 'DISPENSARY! SNAP Standard', price: 24999, description: 'Standard tier — all biological channels.', benefits: ['All Base features', 'All biological channels', 'Standard-tier buzz access', 'Golden Fractal Key on purchase'] },
+                'dispensary-premium': { name: 'DISPENSARY! SNAP Premium', price: 99999, description: 'Premium tier — full channel access.', benefits: ['All Standard features', 'Full channel access', 'Premium buzz menu', 'Golden Fractal Key on purchase'] },
+                'dispensary-ultimate': { name: 'DISPENSARY! SNAP Ultimate', price: 299999, description: 'Ultimate tier — complete access, all modes.', benefits: ['All Premium features', 'Complete access — all modes', 'Ultimate buzz menu', 'Golden Fractal Key on purchase'] },
+                'test-5': { name: 'Test PayPal ($5)', price: 5, description: 'Test PayPal connection — $5.', benefits: ['Test payment flow', 'Verify PayPal integration'] }
+            };
 
-        const plan = plans[planId] || plans['campus-day'];
+            var plan = plans[planId] || plans['campus-day'];
 
-        document.getElementById('plan-details').innerHTML = `
-            <h2>${plan.name}</h2>
-            <p>${plan.description}</p>
-            ${plan.price > 0 ? `<div class="price">$${plan.price.toLocaleString()}</div>` : ''}
-            ${plan.price > 0 ? `<div style="margin-top:1rem; padding:1rem; background:rgba(0,0,0,0.3); border:2px solid rgba(255,255,255,0.2); border-radius:12px; text-align:center;"><p style="color:#ffeaa7; font-weight:600; font-size:1.1rem; margin-bottom:0.5rem;">VIBE! · ⚫ BBHE SNAP — DISPENSARY! SNAP — The energy is pulling. BUY! now.</p><p style="color:#ccc; font-size:0.95rem;">${planId.startsWith('dispensary') ? 'Menu of buzzes across all biological channels. Goldilocks auto-lock for mode combinations. ' : ''}BBHE 5% Intox % unlocks on purchase. Immediate intoxicating effects. Magnified with +1 reading glasses.</p></div>` : ''}
-        `;
-
-        if (plan.price === 0) {
-            document.getElementById('payment-container').innerHTML = `
-                <div class="contact-required">
-                    <div class="price" style="color:#7fff7f;">Free</div>
-                    <h3>⚫ BBHE SNAP — BUY! Add-On</h3>
-                    <p><strong>${plan.name}</strong> — ${plan.description}. Immediate revenue. <strong>⚫ BBHE SNAP</strong> — The energy is pulling. BUY! a campus pass or SYNTH for full access.</p>
-                    <a href="payment-checkout.html?plan=campus-day" class="buy-snap-cta">⚫ BBHE SNAP — BUY! Day Pass $4,999 →</a>
-                    <a href="payment-checkout.html?plan=sing-base" class="buy-snap-cta" style="margin-left:0.5rem;">⚫ BBHE SNAP — BUY! SYNTH →</a>
-                </div>
-            `;
-        } else {
-            // Payment handled by API call to Octave 2 (Syntheverse repository)
-            async function initPayPal() {
-                let clientId = '';
-                try {
-                    const configRes = await fetch(PAYMENT_API_BASE + '/api/payment/paypal/config');
-                    if (configRes.ok) {
-                        const config = await configRes.json();
-                        clientId = config.clientId || '';
-                    }
-                } catch (e) {
-                    console.warn('PayPal config from API unavailable, showing sandbox instructions', e);
+            function renderPlanDetails() {
+                var el = document.getElementById('plan-details');
+                var benefitsHtml = '';
+                if (plan.benefits && plan.benefits.length) {
+                    benefitsHtml = '<div class="plan-benefits"><h4>What you get</h4><ul>' +
+                        plan.benefits.map(function (b) { return '<li>' + b + '</li>'; }).join('') +
+                        '</ul></div>';
                 }
-                if (!clientId) {
-                    document.getElementById('payment-container').innerHTML = `
-                        <div class="sandbox-badge">LIVE — SANDBOX MODE</div>
-                        <div style="margin-top:1rem; padding:1rem; background:rgba(0,0,0,0.4); border:2px solid rgba(255,255,255,0.3); border-radius:12px; text-align:center;">
-                            <p style="color:#ffeaa7; font-weight:700; font-size:1.2rem; margin-bottom:0.75rem;">⚫ BBHE SNAP — BUY! NOW</p>
-                            <p style="color:#fff; margin-bottom:0.5rem;">BBHE intoxicating effects activate on purchase. Immediate access.</p>
-                            <p style="color:#7fff7f; font-size:0.95rem; margin-bottom:1rem;">5 BBHE Intox % available now. Magnified with purchase.</p>
-                        </div>
-                        <p style="margin-top:1rem;">PayPal is configured via the Syntheverse Cloud Onramp API. Create order and capture:</p>
-                        <p style="margin-top:0.5rem; font-family:monospace; font-size:0.9rem;">POST ${PAYMENT_API_BASE}/api/payment/paypal/create-order</p>
-                        <p style="font-family:monospace; font-size:0.9rem;">POST ${PAYMENT_API_BASE}/api/payment/paypal/capture-order</p>
-                        <p style="margin-top:1rem;">To complete payment for <strong>${plan.name}</strong> ($${plan.price.toLocaleString()}): configure PayPal in the Cloud Onramp, or email <a href="mailto:info@fractiai.com?subject=VIBELANDIA!%2020${encodeURIComponent(plan.name)}%20Payment">info@fractiai.com</a> to arrange.</p>
-                    `;
+                el.innerHTML = '<h2>' + plan.name + '</h2><p>' + plan.description + '</p>' +
+                    (plan.price > 0 ? '<div class="price">$' + plan.price.toLocaleString() + '</div>' : (plan.price === 0 ? '<div class="price" style="color:#7fff7f;">Free</div>' : '')) +
+                    benefitsHtml +
+                    (plan.price > 0 ? '<div style="margin-top:1rem;padding:1rem;background:rgba(0,0,0,0.3);border:2px solid rgba(255,255,255,0.2);border-radius:12px;text-align:center;"><p style="color:#ffeaa7;font-weight:600;font-size:1.1rem;margin-bottom:0.5rem;">VIBE! · ⚫ BBHE SNAP — BUY! now.</p></div>' : '');
+            }
+
+            function authHeaders() {
+                var h = { 'Content-Type': 'application/json' };
+                var t = Auth.getToken();
+                if (t) h['Authorization'] = 'Bearer ' + t;
+                return h;
+            }
+
+            function renderAuthUI() {
+                var returnUrl = window.location.origin + window.location.pathname + '?plan=' + encodeURIComponent(planId);
+                var googleUrl = Auth.getGoogleAuthUrl(returnUrl);
+                var html = '<div class="auth-box">' +
+                    '<h3>Sign in to purchase</h3>' +
+                    '<p>Create an account or sign in to continue. Your <strong>Golden Fractal Key</strong> will be stored in your profile and wallet after purchase.</p>' +
+                    '<div class="auth-tabs">' +
+                    '<button type="button" class="auth-tab active" data-tab="login">Sign in</button>' +
+                    '<button type="button" class="auth-tab" data-tab="signup">Sign up</button>' +
+                    '</div>' +
+                    '<div id="auth-forms">' +
+                    '<form id="auth-login" class="auth-form" style="display:block;"><input type="email" name="email" placeholder="Email" required><input type="password" name="password" placeholder="Password" required><div id="auth-error" class="auth-error"></div><button type="submit">Sign in</button></form>' +
+                    '<form id="auth-signup" class="auth-form" style="display:none;"><input type="email" name="email" placeholder="Email" required><input type="password" name="password" placeholder="Password" required><div id="auth-error-signup" class="auth-error"></div><button type="submit">Sign up</button></form>' +
+                    '</div>' +
+                    '<p style="margin-top:1rem;color:#888;">— or —</p>' +
+                    '<a href="' + googleUrl + '" class="auth-google">Continue with Google</a>' +
+                    '</div>';
+                document.getElementById('payment-container').innerHTML = html;
+
+                document.querySelectorAll('.auth-tab').forEach(function (b) {
+                    b.addEventListener('click', function () {
+                        document.querySelectorAll('.auth-tab').forEach(function (x) { x.classList.remove('active'); });
+                        b.classList.add('active');
+                        document.getElementById('auth-login').style.display = b.dataset.tab === 'login' ? 'block' : 'none';
+                        document.getElementById('auth-signup').style.display = b.dataset.tab === 'signup' ? 'block' : 'none';
+                    });
+                });
+                document.getElementById('auth-login').addEventListener('submit', function (e) {
+                    e.preventDefault();
+                    var err = document.getElementById('auth-error');
+                    err.textContent = '';
+                    var email = this.email.value.trim();
+                    var password = this.password.value;
+                    Auth.login(email, password).then(function (data) {
+                        if (data && data.user) { runCheckoutFlow(); return; }
+                        err.textContent = 'Sign in failed. Check email and password, or try Google.';
+                    });
+                });
+                document.getElementById('auth-signup').addEventListener('submit', function (e) {
+                    e.preventDefault();
+                    var err = document.getElementById('auth-error-signup');
+                    err.textContent = '';
+                    var email = this.email.value.trim();
+                    var password = this.password.value;
+                    Auth.signup(email, password).then(function (data) {
+                        if (data && data.user) { runCheckoutFlow(); return; }
+                        err.textContent = 'Sign up failed. Try another email or use Google.';
+                    });
+                });
+            }
+
+            function renderFreePlanCTA() {
+                var html = '<div class="contact-required">' +
+                    '<div class="price" style="color:#7fff7f;">Free</div>' +
+                    '<h3>⚫ BBHE SNAP — BUY! Add-On</h3>' +
+                    '<p><strong>' + plan.name + '</strong> — ' + plan.description + '. <strong>⚫ BBHE SNAP</strong> — BUY! a campus pass or SYNTH for full access.</p>' +
+                    '<a href="payment-checkout.html?plan=campus-day" class="buy-snap-cta">Day Pass $4,999 →</a> ' +
+                    '<a href="payment-checkout.html?plan=sing-base" class="buy-snap-cta">SYNTH →</a>' +
+                    '</div>';
+                document.getElementById('payment-container').innerHTML = html;
+            }
+
+            function renderPayPalOrSandbox() {
+                var user = Auth.getStoredUser();
+                var container = document.getElementById('payment-container');
+                var html = '';
+                if (user && user.email) {
+                    html += '<div class="user-badge">Signed in as ' + user.email + '</div>';
+                }
+                html += '<div id="paypal-or-fallback"></div>';
+                container.innerHTML = html;
+                initPayPal();
+            }
+
+            function initPayPal() {
+                var target = document.getElementById('paypal-or-fallback');
+                if (!target) return;
+
+                fetch(PAYMENT_API_BASE + '/api/payment/paypal/config', { headers: authHeaders() })
+                    .then(function (r) { return r.ok ? r.json() : {}; })
+                    .catch(function () { return {}; })
+                    .then(function (config) {
+                        var clientId = config.clientId || '';
+                        if (!clientId) {
+                            target.innerHTML = '<p style="margin-top:1rem;">PayPal isn’t available right now. To complete your purchase for <strong>' + plan.name + '</strong> ($' + plan.price.toLocaleString() + '), <a href="mailto:info@fractiai.com?subject=VIBELANDIA!%20Payment">email us</a>.</p>';
+                            return;
+                        }
+                        var s = document.createElement('script');
+                        s.src = 'https://www.paypal.com/sdk/js?client-id=' + clientId + '&currency=USD';
+                        s.onload = function () {
+                            var isSandbox = window.location.hostname.includes('localhost') || window.location.hostname.includes('vercel.app');
+                            var h = (isSandbox ? '<div class="sandbox-badge">SANDBOX</div>' : '') +
+                                '<p style="margin-bottom:1rem;">⚫ BBHE SNAP — BUY! NOW. Golden Fractal Key on purchase.</p>' +
+                                '<div id="paypal-button-container"></div>';
+                            target.innerHTML = h;
+
+                            paypal.Buttons({
+                                createOrder: function () {
+                                    return fetch(PAYMENT_API_BASE + '/api/payment/paypal/create-order', {
+                                        method: 'POST',
+                                        headers: authHeaders(),
+                                        body: JSON.stringify({ planId: planId, amount: plan.price, currency: 'USD', description: plan.name })
+                                    }).then(function (res) { return res.json(); }).then(function (data) {
+                                        return data.orderId || data.id || '';
+                                    });
+                                },
+                                onApprove: function (data) {
+                                    return fetch(PAYMENT_API_BASE + '/api/payment/paypal/capture-order', {
+                                        method: 'POST',
+                                        headers: authHeaders(),
+                                        body: JSON.stringify({ orderId: data.orderID, payerId: data.payerID })
+                                    }).then(function (res) { return res.json(); }).then(function (result) {
+                                        if (result && result.success !== false) {
+                                            return Auth.completeOrder(data.orderID, planId).then(function (complete) {
+                                                if (complete && complete.goldenKey) {
+                                                    GoldenKey.issueOnPurchase(complete.goldenKey, data.orderID);
+                                                }
+                                                window.location.href = 'payment-success.html?orderId=' + encodeURIComponent(data.orderID) + '&planId=' + encodeURIComponent(planId) + '&success=1';
+                                            }).catch(function () {
+                                                window.location.href = 'payment-error.html?error=' + encodeURIComponent('Order completion failed. Your payment was captured. Please contact support with Order ID: ' + data.orderID) + '&orderId=' + encodeURIComponent(data.orderID);
+                                            });
+                                        }
+                                        window.location.href = 'payment-error.html?error=' + encodeURIComponent((result && result.error) || 'Capture failed');
+                                    });
+                                },
+                                onError: function (err) {
+                                    window.location.href = 'payment-error.html?error=' + encodeURIComponent(err.message || 'Payment error');
+                                }
+                            }).render('#paypal-button-container');
+                        };
+                        document.head.appendChild(s);
+                    });
+            }
+
+            function runCheckoutFlow() {
+                if (plan.price === 0) {
+                    renderFreePlanCTA();
                     return;
                 }
-                const script = document.createElement('script');
-                script.src = 'https://www.paypal.com/sdk/js?client-id=' + clientId + '&currency=USD';
-                script.onload = function() {
-                    const isSandbox = window.location.hostname.includes('localhost') || window.location.hostname.includes('vercel.app');
-                    let html = '';
-                    if (isSandbox) html += '<div class="sandbox-badge">SANDBOX MODE</div>';
-                    html += '<div style="margin-bottom:1.5rem; padding:1rem; background:rgba(0,0,0,0.4); border:2px solid rgba(255,255,255,0.3); border-radius:12px; text-align:center;"><p style="color:#ffeaa7; font-weight:700; font-size:1.2rem; margin-bottom:0.5rem;">⚫ BBHE SNAP — BUY! NOW</p><p style="color:#fff; font-size:0.95rem; margin-bottom:0.25rem;">BBHE intoxicating effects activate on purchase. Immediate access.</p><p style="color:#7fff7f; font-size:0.9rem;">5 BBHE Intox % available now. Magnified with purchase.</p></div>';
-                    html += '<div id="paypal-button-container"></div>';
-                    document.getElementById('payment-container').innerHTML = html;
-
-                    paypal.Buttons({
-                        createOrder: function(data, actions) {
-                            return fetch(PAYMENT_API_BASE + '/api/payment/paypal/create-order', {
-                                method: 'POST',
-                                headers: { 'Content-Type': 'application/json' },
-                                body: JSON.stringify({ planId, amount: plan.price, currency: 'USD', description: plan.name })
-                            }).then(function(res) { return res.json(); }).then(function(data) {
-                                return data.orderId || data.id;
-                            });
-                        },
-                        onApprove: function(data) {
-                            return fetch(PAYMENT_API_BASE + '/api/payment/paypal/capture-order', {
-                                method: 'POST',
-                                headers: { 'Content-Type': 'application/json' },
-                                body: JSON.stringify({ orderId: data.orderID, payerId: data.payerID })
-                            }).then(function(res) { return res.json(); }).then(function(result) {
-                                if (result.success !== false) {
-                                    window.location.href = 'payment-success.html?orderId=' + encodeURIComponent(data.orderID) + '&planId=' + encodeURIComponent(planId);
-                                } else {
-                                    window.location.href = 'payment-error.html?error=' + encodeURIComponent(result.error || 'Capture failed');
-                                }
-                            });
-                        },
-                        onError: function(err) {
-                            window.location.href = 'payment-error.html?error=' + encodeURIComponent(err.message || 'Payment error');
-                        }
-                    }).render('#paypal-button-container');
-                };
-                document.head.appendChild(script);
+                renderPayPalOrSandbox();
             }
-            initPayPal();
-        }
+
+            function bootstrap() {
+                Auth.consumeOAuthToken();
+                renderPlanDetails();
+                document.getElementById('payment-container').innerHTML = '<p class="auth-loading">Checking sign-in…</p>';
+
+                Auth.getSession().then(function (session) {
+                    if (session && session.user) {
+                        runCheckoutFlow();
+                        return;
+                    }
+                    renderAuthUI();
+                }).catch(function () {
+                    renderAuthUI();
+                });
+            }
+
+            bootstrap();
+        })();
     </script>
 </body>
 </html>

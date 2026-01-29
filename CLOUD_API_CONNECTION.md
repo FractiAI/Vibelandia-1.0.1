@@ -5,6 +5,7 @@
 - **Repository:** [FractiAI/Syntheverse-7-Octave-2-3-Public-Cloud-Onramp](https://github.com/FractiAI/Syntheverse-7-Octave-2-3-Public-Cloud-Onramp)
 - **Live URL:** `https://syntheverse-poc.vercel.app`
 - **Protocol:** NSPFRNP
+- **Payment:** **PayPal only** via Octave 2. Other payment pipes (Stripe, Venmo, Cash App, MetaMask) are removed at the Cloud Onramp. See [PAYMENT_PAYPAL_ONLY_OCTAVE2.md](./PAYMENT_PAYPAL_ONLY_OCTAVE2.md).
 
 ---
 

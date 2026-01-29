@@ -174,7 +174,7 @@
 ║  3. ULTIMATE VIP                                                              ║
 ║     ├─ Premium: Champion tier ($200,000)                                       ║
 ║     ├─ Premium Features: All capabilities, exclusive access                    ║
-║     ├─ Perfect For: High-value creators, ultimate experiences                ║
+║     ├─ Perfect For: high-contributing creators, ultimate experiences                ║
 ║     └─ Target: Ultimate Chairman Creators seeking the best                   ║
 ║                                                                               ║
 ║  4. BALLER G ULTIMATE VIP                                                     ║
@@ -238,7 +238,7 @@
 - Priority support
 
 **Perfect For:**
-- High-value creators
+- high-contributing creators
 - Ultimate experiences
 - Maximum capabilities
 - Ultimate Chairman Creators

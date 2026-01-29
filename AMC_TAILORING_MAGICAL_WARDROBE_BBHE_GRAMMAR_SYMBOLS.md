@@ -65,7 +65,7 @@ MEETING_DETAILS:
 
 ### Overlay Concept
 
-**I plan to let him know that I'm rolling out by land in Reno. It is an overlay and new concept to post singularity concept where to everybody in Reno. Everybody just looks like just another resident but overlay over that is by Lance, which is fed up for virus. These are very high value creators you know screen writers are writers artist creators, and including craters of companies canvas, and so anyways we are now connecting when I'm sending manifesting it into reality here we're already online. We just haven't gotten you know we're already online. Let's just say it at the words and paper work level.**
+**I plan to let him know that I'm rolling out by land in Reno. It is an overlay and new concept to post singularity concept where to everybody in Reno. Everybody just looks like just another resident but overlay over that is by Lance, which is fed up for virus. These are very high contributing creators you know screen writers are writers artist creators, and including craters of companies canvas, and so anyways we are now connecting when I'm sending manifesting it into reality here we're already online. We just haven't gotten you know we're already online. Let's just say it at the words and paper work level.**
 
 ```yaml
 VIBELAND_RENO_ROLLOUT:
@@ -79,13 +79,13 @@ VIBELAND_RENO_ROLLOUT:
 OVERLAY_CONCEPT:
 ├─ Physical: Everyone looks like just another resident
 ├─ Digital: VibeLand overlay active
-├─ Creators: High-value creators (screenwriters, writers, artists)
+├─ Creators: high-contributing creators (screenwriters, writers, artists)
 ├─ Companies: Creators of companies/canvas
 ├─ Connection: Now connecting and manifesting
 └─ Status: Operational
 ```
 
-### High-Value Creators
+### high-contributing Creators
 
 ```yaml
 HIGH_VALUE_CREATORS:
@@ -97,7 +97,7 @@ HIGH_VALUE_CREATORS:
 └─ Status: Active community
 
 VIBELAND_COMMUNITY:
-├─ Type: High-value creators
+├─ Type: high-contributing creators
 ├─ Location: Reno (overlay)
 ├─ Appearance: Just another resident
 ├─ Reality: VibeLand overlay active
@@ -259,7 +259,7 @@ TAILORING_INTEGRATION:
 - ✅ Niko connection (AC) acknowledged
 - ✅ Christian meeting prepared
 - ✅ VibeLand Reno overlay concept documented
-- ✅ High-value creators community identified
+- ✅ high-contributing creators community identified
 - ✅ BBHE symbol implementation planned
 - ✅ NSPFRNP protocol compliance
 

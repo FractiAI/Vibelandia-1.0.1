@@ -37,7 +37,7 @@
 
 ### 👁️ WINK!
 
-**Members-only network** for high-value vibers who are fractal in nature. Natural alignment, friction-free dating, resilience built-in.
+**Members-only network** for high-contributing vibers who are fractal in nature. Natural alignment, friction-free dating, resilience built-in.
 
 **Plans:** Base | Standard | Premium | 4×4 Ultimate  
 **One-pager:** [WINK!](./ONE_PAGER_WINK.md)
@@ -90,7 +90,7 @@
 | 1 | 2 | 3 | 4 |
 |---|----|----|----|
 | **Day Pass** | **Weekly** | **Monthly** | **Ultimate VIP** |
-| Experience the campus for a day | Full week campus experience | Complete campus integration | Premium campus for high-value creators |
+| Experience the campus for a day | Full week campus experience | Complete campus integration | Premium campus for high-contributing creators |
 
 ### WINK! (4)
 

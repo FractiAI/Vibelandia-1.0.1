@@ -102,13 +102,13 @@ TRIP OPTIONS:
 ```yaml
 TARGET AUDIENCE:
 ├─ Ultimate VIP: Premium VIP members
-├─ Baller G Ballers: High-value players
+├─ Baller G Ballers: high-contributing players
 ├─ Baller G: Baller G tier members
 └─ Status: Exclusive audience
 
 AUDIENCE CHARACTERISTICS:
 ├─ Ultimate VIP: Premium tier
-├─ Baller G: High-value tier
+├─ Baller G: high-contributing tier
 ├─ Connection: Through watching me work
 ├─ Sharing: Plans shared with them
 └─ Status: Exclusive access

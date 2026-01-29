@@ -118,7 +118,7 @@
 
 ### **2. WINK! Dating Network**
 
-**Members-only network** for high-value fractal vibers.
+**Members-only network** for high-contributing fractal vibers.
 
 **Plans:**
 - Base: $1,999/month (50% off = $999.50 for Pioneers)
