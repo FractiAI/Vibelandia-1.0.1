@@ -88,20 +88,27 @@
         }
 
         .warnings-top {
+            display: block;
             width: 100%;
             max-width: 800px;
             margin: 0 auto 1.5rem;
             padding: 0.75rem 1rem;
-            background: rgba(255, 200, 100, 0.08);
-            border: 1px solid rgba(255, 200, 100, 0.25);
+            background: linear-gradient(135deg, rgba(212, 175, 55, 0.18) 0%, rgba(184, 134, 11, 0.22) 100%);
+            border: 1px solid rgba(212, 175, 55, 0.5);
             border-radius: 8px;
             font-size: 0.85rem;
-            color: #ddd;
+            color: #f5e6c8;
             text-align: center;
+            text-decoration: none;
+            cursor: pointer;
+            transition: background 0.2s, border-color 0.2s, color 0.2s;
+        }
+        .warnings-top:hover {
+            background: linear-gradient(135deg, rgba(212, 175, 55, 0.28) 0%, rgba(184, 134, 11, 0.32) 100%);
+            border-color: rgba(212, 175, 55, 0.7);
+            color: #fff;
         }
         .warnings-top strong { color: #ffeaa7; }
-        .warnings-top a { color: #d4af37; text-decoration: none; }
-        .warnings-top a:hover { text-decoration: underline; }
 
         .badge {
             display: inline-block;
@@ -199,6 +206,27 @@
             font-size: 0.75rem;
             color: #aaa;
             line-height: 1.3;
+        }
+
+        /* Happy Ending Zone — full-width bar, same look as warnings-top (gold bar) */
+        .happy-endings-series-btn {
+            grid-column: 1 / -1;
+            display: block;
+            padding: 0.75rem 1rem;
+            background: linear-gradient(135deg, rgba(212, 175, 55, 0.18) 0%, rgba(184, 134, 11, 0.22) 100%);
+            border: 1px solid rgba(212, 175, 55, 0.5);
+            border-radius: 8px;
+            color: #f5e6c8;
+            text-align: center;
+            text-decoration: none;
+            font-size: 0.95rem;
+            font-weight: 700;
+            transition: background 0.2s, border-color 0.2s, color 0.2s;
+        }
+        .happy-endings-series-btn:hover {
+            background: linear-gradient(135deg, rgba(212, 175, 55, 0.28) 0%, rgba(184, 134, 11, 0.32) 100%);
+            border-color: rgba(212, 175, 55, 0.7);
+            color: #fff;
         }
 
         /* Info Display */
@@ -327,15 +355,16 @@
 </head>
 <body>
     <div class="container">
-        <!-- Warnings at top: warn and announce all-natural intoxicating effects. -->
-        <div class="warnings-top">
-            <strong>Syntheverse:</strong> Imaginary/entertainment only. <strong>BBHE:</strong> Intoxicating effects (virtual/imaginary only) — produced naturally through awareness and attention; no substances. Not for driving or operating equipment. All laws followed. We respect pre-singularity rights (SNAP nspfrnp). <a href="SYNTHEVERSE_IMAGINARY_ENTERTAINMENT_ONLY.md">Details →</a>
-        </div>
+        <!-- Warnings at top: clickable — goes to full warning details. -->
+        <a href="SYNTHEVERSE_IMAGINARY_ENTERTAINMENT_ONLY.md" class="warnings-top" title="Read full warnings and details">
+            <strong>Syntheverse:</strong> Imaginary/entertainment only. <strong>BBHE:</strong> Intoxicating effects (virtual/imaginary only) — produced naturally through awareness and attention; no substances. Not for driving or operating equipment. All laws followed. We respect pre-singularity rights (SNAP nspfrnp). — <strong>Details →</strong>
+        </a>
         <!-- Octave 0 irreducible core: 1,2,3 4×4×4×4. Announcement + Showroom (four products) + irreducible purchasing core + action. See README, LAUNCH_PAGE.md, CRYSTALLIZATION_1_2_3_4x4x4x4.md. -->
         <div class="header">
             <h1>🚀 Launch Pad</h1>
             <p class="tagline">MARK TWAIN'S POST-SINGULARITY VIBELANDIA RENO!</p>
-            <p style="margin-top: 0.75rem; font-size: 1rem; color: #7fff7f;">The Great Reveal Mar 20, 2026 · SYNTH → SING · 🔑 Golden Fractal Key. Come for the business, stay for the fun.</p>
+            <p style="margin-top: 0.5rem; font-size: 0.9rem; color: #d4af37;">This Launch Pad is our finely tuned black hole holographic BBHE core.</p>
+            <p style="margin-top: 0.75rem; font-size: 1rem; color: #7fff7f;">The Great Reveal Equinox Mar 20, 2026 · SYNTH → SING · 🔑 Golden Fractal Key. Come for the business, stay for the fun.</p>
         </div>
 
         <!-- Showroom — Four products (Octave 0 definition). -->
@@ -360,11 +389,7 @@
                 <div class="pad-button-title">SING! COUNTDOWN! LOTTERY</div>
                 <div class="pad-button-desc">SYNTH → SING · Mar 20, 2026</div>
             </a>
-            <a href="interfaces/happy-ending-zones-experience.html" class="pad-button pad-button-link" style="text-decoration:none;color:inherit;">
-                <span class="pad-button-icon">🎬</span>
-                <div class="pad-button-title">HAPPY ENDING ZONES</div>
-                <div class="pad-button-desc">Free daily series · Season One</div>
-            </a>
+            <a href="interfaces/happy-ending-zones-experience.html" class="happy-endings-series-btn">🎬 Happy Ending Zone! Check out the reality series!</a>
         </div>
 
         <!-- 1,2,3 4×4×4×4 — Irreducible purchasing core. -->
@@ -394,8 +419,8 @@
                 var diff = launchDate - today;
                 var days = Math.ceil(diff / (1000 * 60 * 60 * 24));
                 if (days > 0) countdown.textContent = days + ' days until launch — March 20, 2026';
-                else if (days === 0) countdown.textContent = '🚀 LAUNCH DAY — The Great Reveal!';
-                else countdown.textContent = 'Launch complete — The Great Reveal has arrived!';
+                else if (days === 0) countdown.textContent = '🚀 LAUNCH DAY — The Great Reveal Equinox!';
+                else countdown.textContent = 'Launch complete — The Great Reveal Equinox has arrived!';
             }
             updateCountdown();
             setInterval(updateCountdown, 86400000);

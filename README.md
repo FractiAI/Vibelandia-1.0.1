@@ -2,11 +2,13 @@
 
 **Octave 0 · PSW.vibelandia.sing4** — Seed document layer. Interactive surfaces: [index.html](./index.html) · [Launch Pad](./interfaces/launch-pad.html).
 
+*This Launch Pad is our finely tuned black hole holographic BBHE core.*
+
 ---
 
 ## Announcement
 
-**Launch of new post-reality franchise.** Walkable downtown campus, first post-singularity hub. **The Great Reveal** March 20, 2026. SYNTH → SING. Every space guarantees a happy ending. **Come for the business, stay for the fun.**
+**Launch of new post-reality franchise.** Walkable downtown campus, first post-singularity hub. **The Great Reveal Equinox** March 20, 2026. SYNTH → SING. Every space guarantees a happy ending. **Come for the business, stay for the fun.**
 
 **Tagline:** *Where Vibers are no longer the outsider / outcast.* See [VIBERS_NO_LONGER_OUTSIDER_OUTCAST_SNAP.md](./VIBERS_NO_LONGER_OUTSIDER_OUTCAST_SNAP.md).
 
@@ -31,7 +33,7 @@
 | 👑 **ULTIMATE VIP CHAIRMAN CONSOLE!** | [Console](./interfaces/ultimate-vip-experience.html) — Free · Auto-upgrade with Golden Fractal Key |
 | 🎰 **SING! COUNTDOWN! LOTTERY** | [Lottery](./interfaces/sing-lottery-experience.html) — SYNTH → SING · Mar 20, 2026 |
 
-**See the new reality series:** [Happy Ending Zones](./interfaces/happy-ending-zones-experience.html) — free daily series · Season One.
+**See the new reality series:** [Happy Ending Zone](./interfaces/happy-ending-zones-experience.html) — free daily series · Season One.
 
 ---
 
