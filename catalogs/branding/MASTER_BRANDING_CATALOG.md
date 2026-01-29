@@ -32,6 +32,7 @@ TOTAL BRANDS: 3
 USER SURFACES: README and All Skins — Not Developer Surfaces
 ├─ README and all skins = user surfaces. We target high-value vibers, fans, cast, crew.
 ├─ No developer-only copy front and center (deploy/env/repo in README_TRADITIONAL or builder docs).
+├─ No code on user surfaces: no filenames (.html, .md), repo paths, or code snippets in displayed or link text. Use human labels (e.g. Whitepaper — miraculous output, Home, Builder guide). Link to operational live site; Sandbox experience CTA → ULTIMATE VIP! console.
 └─ See WOW_BRANDING_SNAP.md · COMMUNICATION_NSPFRNP_CATALOG.md · deck-script-writing-content-patterns.md
 
 VIBE! BRAND: Main Brand — ALL CAPS + !
@@ -108,13 +109,26 @@ RUMOR HAS IT! BRANDING SNAP: New Branding
 
 WOW! BRANDING SNAP: Pre-singularity cost vs Us
 ├─ WOW! = branded section at bottom of Launch Pad (ALL CAPS + !)
-├─ Pre-singularity cost: time, human talent, equipment, office space, time, env impact versus Us (VIBELANDIA!)
+├─ Show values, not categories: two columns only — Pre-singularity | Us (VIBELANDIA!). Rows = value pairs (e.g. Months, years | Natural flow · Now). No Cost/category column.
+├─ Showroom: Campus, WINK!, Console, Lottery, Happy Ending Zone each show daily bulletin from Chancellor (Mark Twain) and menu of things to do AND BUY (values you get).
 └─ See WOW_BRANDING_SNAP.md
 
 ULTIMATE PROOF TEST DRIVE! BRAND: Seeing and experiencing is believing
 ├─ ULTIMATE PROOF TEST DRIVE! = new brand (ALL CAPS + !)
 ├─ This site is the test drive. The best proof of all. See it. Experience it. Believe it.
 └─ Use in README (WOW! format §7), Launch Pad, whitepaper, Chairman metrics, Great Reveal episode
+
+PAYPAL NATURAL PROTOCOL BEST PIPE SNAP: Why only PayPal
+├─ Our natural protocol identified PayPal as the best pipe. Trust the protocol!
+├─ Only PayPal (for now) = protocol choice, not limitation. Use on checkout, Launch Pad, payment copy.
+├─ T-shirt slogan: *Trust the protocol!* (see T-SHIRT SLOGAN category)
+└─ See PAYPAL_NATURAL_PROTOCOL_BEST_PIPE_SNAP.md
+
+T-SHIRT SLOGAN: New major branding category (T-shirt-grade taglines)
+├─ Content category for short, punchy, wearable taglines — one line that works on a T-shirt, merch, social, one-line CTA.
+├─ Capture and curate in deck §19 (deck-script-writing-content-patterns.md); use for merch, Launch Pad, checkout, RUMOR HAS IT!
+├─ Examples: *Trust the protocol!* · *See it. Experience it. Believe it.* · *The energy is pulling. BUY! now.* · *Come for the business, stay for the fun.* · *MCA! → ∞³.* · *Maganuma snap.*
+└─ See CONTENT_SYSTEMS_SNAP.md (T-shirt slogan) · deck §19
 
 CONTENT DECKS: 4
 ├─ deck-vibeverse-branding.md/json

@@ -31,7 +31,22 @@
 
 ---
 
-### 2. Other content categories (existing)
+### 2. T-shirt slogan (T-shirt-grade taglines)
+
+**Definition:** Short, punchy, wearable taglines — **T-shirt grade**. One line or phrase that can go on a T-shirt, merch, social, or any high-impact surface. Capture and curate separately from rich (long-form) taglines.
+
+**Flow:**
+- **Source:** Any phrase that passes the "would it work on a T-shirt?" test — memorable, bold, NSPFRNP-aligned.
+- **Examples:** *Trust the protocol!* · *See it. Experience it. Believe it.* · *The energy is pulling. BUY! now.* · *Come for the business, stay for the fun.* · *MCA! → ∞³.*
+- **Use:** Merch (T-shirts, caps), social bios, one-line CTAs, Launch Pad accents, RUMOR HAS IT! copy. Feed into deck §19 (T-shirt slogan) and MASTER_BRANDING_CATALOG.
+
+**Surfaces:** README, Launch Pad, checkout, deck-script-writing-content-patterns.md §19, MASTER_BRANDING_CATALOG, future merch/catalog.
+
+**Rule:** T-shirt slogan = content category for T-shirt-grade taglines. Capture them explicitly so we can use them everywhere they fit. New category; same content systems.
+
+---
+
+### 3. Other content categories (existing)
 
 - **Series / Episodes** — Happy Ending Zones, season one, daily countdown. See REALITY_SERIES_FORMAT.md, SEASON_ONE_*.
 - **One-pagers** — Campus, WINK!, SING!, Launch, Ultimate VIP, Day/Weekly/Monthly Pass, etc.
@@ -55,10 +70,13 @@
 - **Customer Stories** → content category for onramps/grants recipients ✓  
 - **Agreement** → they agree to be customer stories; we sign them up ✓  
 - **CTA** → "Are you an Ultimate VIP Baller C but not yet there? Click for our onramps and grants." ✓  
-- **Content systems** → categories include Customer Stories, Series, One-pagers, Launch Pulse, Catalogs, Whitepaper, Proposals SNAP ✓  
+- **Content systems** → categories include Customer Stories, **T-shirt slogan**, Series, One-pagers, Launch Pulse, Catalogs, Whitepaper, Proposals SNAP ✓
+- **T-shirt slogan** → T-shirt-grade taglines; capture and use for merch, social, one-line CTAs ✓  
 
 ---
 
 **See:** [README.md](./README.md) · [ONE_PAGER_ULTIMATE_VIP.md](./ONE_PAGER_ULTIMATE_VIP.md) · [interfaces/launch-pad.html](./interfaces/launch-pad.html) · [CHARACTER_LAYERING_CONTENT_ENRICHMENT_SNAP.md](./CHARACTER_LAYERING_CONTENT_ENRICHMENT_SNAP.md) · [catalogs/branding/MASTER_BRANDING_CATALOG.md](./catalogs/branding/MASTER_BRANDING_CATALOG.md)
 
-**🌀 NSPFRNP ⊃ Content Systems SNAP ⊃ Content categories ⊃ Customer Stories. SNAP nspfrnp.**
+**See also:** [PAYPAL_NATURAL_PROTOCOL_BEST_PIPE_SNAP.md](./PAYPAL_NATURAL_PROTOCOL_BEST_PIPE_SNAP.md) — *Trust the protocol!* (T-shirt slogan).
+
+**🌀 NSPFRNP ⊃ Content Systems SNAP ⊃ Content categories ⊃ Customer Stories · T-shirt slogan. SNAP nspfrnp.**

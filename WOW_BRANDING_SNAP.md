@@ -16,12 +16,14 @@
 - **Meaning:** Pre-singularity costs (time, human talent, equipment, office space, time, env impact) versus Us (VIBELANDIA!) — the contrast that delivers the WOW! Drives launch, showroom, and proposals alike.
 - **In-place experience:** WOW! format is designed to be experienced on the page — breadth and genuineness in the content itself. Do not replace WOW! sections with links; deliver the moment in-place.
 - **User surface, not developer surface:** README and all skins target our high-value vibers, fans, cast, and crew. No dev-only copy front and center; deploy/env/repo live in README_TRADITIONAL or builder docs.
+- **No code on user surfaces:** Do not show code, filenames (e.g. .html, .md), or repo paths in displayed text or link text. Use human labels (e.g. "Whitepaper — miraculous output", "Home", "Builder guide"). Link to the operational live site so users land on the console and experiences, not repo paths. **Sandbox experience** CTA links to the operational **ULTIMATE VIP!** console.
 
 ---
 
 ## RULE
 
-- **WOW!** = branded section at bottom of Launch Pad. Pre-singularity cost (time, human talent, equipment, office space, time, environmental impact) **versus Us**. **We use WOW! to launch everything** — including **Proposals SNAP** (Gianni's Dressing Room: free consultation & tailored proposal).
+- **WOW!** = branded section at bottom of Launch Pad. **Show values, not categories** — two columns only: Pre-singularity | Us (VIBELANDIA!). Rows = value pairs (e.g. Months, years | Natural flow · Now). No Cost/category column. **We use WOW! to launch everything** — including **Proposals SNAP** (Gianni's Dressing Room: free consultation & tailored proposal).
+- **Showroom:** Campus, WINK!, Console, Lottery, Happy Ending Zone each show **daily bulletin from the Chancellor** (Mark Twain) and **menu of things to do AND BUY** (values you get), not just categories.
 - **In-place experience:** Do not make WOW! format into links. Deliver breadth and genuineness on the page; readers experience the moment here.
 - **Always** include this snap at bottom of Launch Pad. See [interfaces/launch-pad.html](./interfaces/launch-pad.html). See [README.md](./README.md) for WOW! — Launch everything.
 - **Pre-singularity cost** = time, human talent, equipment, office space, time, environmental impact (the old way).
@@ -32,15 +34,15 @@
 
 ## SNAP
 
-- **WOW!** → pre-singularity cost vs Us ✓  
+- **WOW!** → pre-singularity vs Us, **values not categories** (two columns only) ✓  
 - **Always at bottom of Launch Pad** ✓  
-- **Cost dimensions:** Time · Human talent · Equipment · Office space · Time · Env impact ✓  
+- **Showroom:** bulletin from Chancellor + menu of things to do AND BUY on Campus, WINK!, Console, Lottery, Happy Ending Zone ✓  
 
 ---
 
 ## SURFACE
 
-**Launch Pad (bottom):** Table or snap: Pre-singularity (time, human talent, equipment, office space, time, env impact) | Us (VIBELANDIA!). The WOW! new branding snap.
+**Launch Pad (bottom):** WOW! table shows **values, not categories** — two columns only: Pre-singularity | Us (VIBELANDIA!). Rows = value pairs (e.g. Months, years | Natural flow · Now). No "Cost" or category column. The contrast delivers the WOW! moment.
 
 **README in WOW! format** (order): 1. **Rich tagline (top)** from deck · 2. **Live (next octave)** deployment link · 3. Language onramp · 4. Warnings · 5. Tight Launch Pad (status, announcement, 0,1,2,3 4×4×4×4, showroom four products, **Impulse — BBHE & BUY!** in-place, **Proposal — Proposals SNAP** in-place) · 6. WOW! section (cost vs Us table) · 7. Whitepaper (real doc refs) · 8. IEEE-style technical specs (real doc refs) · 9. ULTIMATE PROOF TEST DRIVE! · 10. **Rich tagline (bottom)** from deck · 11. Contact (email, live link, proposal subject, experience paths). **Locked-in standard:** README.md (this version) is the **canonical standard for all launches and proposals**. Use this structure, content order, and real data for every launch and every proposal. **In-place only:** do not replace WOW! format sections with external links. See [README.md](./README.md).
 

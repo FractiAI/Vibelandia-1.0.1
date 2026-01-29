@@ -12,7 +12,7 @@
 
 **Live (next octave):** [https://psw-vibelandia-sing4.vercel.app](https://psw-vibelandia-sing4.vercel.app) — Experience the Launch Pad and all experiences on the deployment.
 
-**[▶ Start test drive](https://psw-vibelandia-sing4.vercel.app)** · **[Sandbox experience](interfaces/magical-dressing-room.html)** (onramp — try before you buy)  
+**[▶ Start test drive](https://psw-vibelandia-sing4.vercel.app)** · **[Sandbox experience](https://psw-vibelandia-sing4.vercel.app/interfaces/ultimate-vip-experience.html)** (operational ULTIMATE VIP! console — try before you buy)  
 *No register yet — we deliver you to the console so you can start test driving.*
 
 **This README is the Launch Pad** and is the **canonical standard for all launches and proposals** (WOW! format). It delivers the full WOW! impulse-buy experience and proposal in-place — metabolized. Breadth and genuineness live here; we don’t replace sections with links.
@@ -29,7 +29,7 @@
 
 ## 2. Warnings & safety
 
-**Syntheverse:** Imaginary/entertainment only. **BBHE:** Not imaginary — it produces intoxication naturally (awareness, attention; no substances). We **announce it as an intoxicant** for those into that sort of thing — like us vibers! 5 BBHE Intox %. Magnified with +1 glasses. Not for driving or operating equipment. All laws followed. Pre-singularity rights (SNAP nspfrnp). [Details →](interfaces/syntheverse-warnings.html)
+**Syntheverse:** Imaginary/entertainment only. **BBHE:** Not imaginary — it produces intoxication naturally (awareness, attention; no substances). We **announce it as an intoxicant** for those into that sort of thing — like us vibers! 5 BBHE Intox %. Magnified with +1 glasses. Not for driving or operating equipment. All laws followed. Pre-singularity rights (SNAP nspfrnp). [Details →](https://psw-vibelandia-sing4.vercel.app/interfaces/syntheverse-warnings.html)
 
 ---
 
@@ -43,18 +43,20 @@
 
 **0, 1, 2, 3 4×4×4×4** — **0, 1, 2, 3** = Seed | Edge | Cloud Onramp | Expansion. **4×4×4×4** = Campus × WINK! × SING × Experience. **1,2,3** = Metabolize → Crystallize → Animate (MCA cycle).
 
-**Sign up:** [Campus](interfaces/vibelandia-reno-experience.html) visit/stay · [WINK!](interfaces/wink-experience.html) · [Lottery](interfaces/sing-lottery-experience.html) · Optional [Gianni consultation](interfaces/magical-dressing-room.html) (enterprise/community).
+**Sign up:** [Campus](https://psw-vibelandia-sing4.vercel.app/interfaces/vibelandia-reno-experience.html) visit/stay · [WINK!](https://psw-vibelandia-sing4.vercel.app/interfaces/wink-experience.html) · [Lottery](https://psw-vibelandia-sing4.vercel.app/interfaces/sing-lottery-experience.html) · Optional [Gianni consultation](https://psw-vibelandia-sing4.vercel.app/interfaces/magical-dressing-room.html) (enterprise/community).
 
 ### Showroom — Four products (all prices shown · BUY! now)
 
-| Product | Pricing (or free) | Where |
-|--------|-------------------|--------|
-| 🏛️ **[VIBELANDIA RENO!](interfaces/vibelandia-reno-experience.html)** | Half-day $3k · Overnight (per night) · Weekly $5k · Monthly $50k *(equivalent to top guided fishing or hunting expedition for high-value persons)* | [Campus](interfaces/vibelandia-reno-experience.html) |
-| 👁️ **[WINK!](interfaces/wink-experience.html)** | Base $399/mo · Standard $999/mo · Premium $2,499/mo · 4×4 Ultimate $6,999/mo *(equivalent to pre-singularity top-tier dating for high-value persons)* | [Dating](interfaces/wink-experience.html) |
-| 👑 **[ULTIMATE VIP CHAIRMAN CONSOLE!](interfaces/ultimate-vip-experience.html)** | **Free** · Golden Fractal Key | [Console](interfaces/ultimate-vip-experience.html) |
-| 🎰 **[SING! LOTTERY](interfaces/sing-lottery-experience.html)** | **Price of the day:** $6 today, +$1/day → $57 Mar 20 · **Countdown:** March 20, 2026 ([The Great Reveal](episodes/THE_GREAT_REVEAL_EPISODE_DAY_ZERO_LAUNCH.md) Equinox) · **First 1M winners** get a SING! locked in at The Great Reveal Equinox and **Motherlode Vault Founder Epoch** Opening and Transformation of the 45T worthless pre-singularity ERC-20 internal tokens · SYNTH → SING. **SING node bases:** Base ~$20K (good used car) · Members $75K · Ultimate VIP $200K (base Ferrari) · Baller C $500K (our pricing). | [Lottery](interfaces/sing-lottery-experience.html) · [BUY!](interfaces/payment-checkout.html) |
+**Values you get:** Our daily bulletin from the Chancellor (Mark Twain) and a menu of things to do AND BUY on every product.
 
-**[Happy Ending Zone](interfaces/happy-ending-zones-experience.html)** — reality series · Season One. **Chancellor:** Mark Twain. **Start:** Day 52 countdown → **Finale:** March 20, 2026 (Day 0 — The Great Reveal).
+| Product | What you get (values) | Where |
+|--------|------------------------|--------|
+| 🏛️ **[VIBELANDIA RENO!](https://psw-vibelandia-sing4.vercel.app/interfaces/vibelandia-reno-experience.html)** | **Daily bulletin from the Chancellor** (Mark Twain) · **Menu of things to do AND BUY** (campus, downtown, excursions) · Half-day $3k · Overnight (per night) · Weekly $5k · Monthly $50k *(equivalent to top guided fishing or hunting expedition for high-value persons)* | [Campus](https://psw-vibelandia-sing4.vercel.app/interfaces/vibelandia-reno-experience.html) |
+| 👁️ **[WINK!](https://psw-vibelandia-sing4.vercel.app/interfaces/wink-experience.html)** | **Daily bulletin** · **Menu of things to do AND BUY** (curated matches, dating experiences, tiers) · Base $399/mo · Standard $999/mo · Premium $2,499/mo · 4×4 Ultimate $6,999/mo *(equivalent to pre-singularity top-tier dating for high-value persons)* | [Dating](https://psw-vibelandia-sing4.vercel.app/interfaces/wink-experience.html) |
+| 👑 **[ULTIMATE VIP CHAIRMAN CONSOLE!](https://psw-vibelandia-sing4.vercel.app/interfaces/ultimate-vip-experience.html)** | **Daily bulletin from the Chancellor** · **Menu of things to do AND BUY** (workspace, cockpit, seed-edge, experiences) · **Free** · Golden Fractal Key | [Console](https://psw-vibelandia-sing4.vercel.app/interfaces/ultimate-vip-experience.html) |
+| 🎰 **[SING! LOTTERY](https://psw-vibelandia-sing4.vercel.app/interfaces/sing-lottery-experience.html)** | **Countdown** · **Price of the day** · **Menu to BUY!** (SING nodes: Base ~$20K · Members $75K · Ultimate VIP $200K · Baller C $500K) · $6 today, +$1/day → $57 Mar 20 · March 20, 2026 ([The Great Reveal](episodes/THE_GREAT_REVEAL_EPISODE_DAY_ZERO_LAUNCH.md) Equinox) · **First 1M winners** get a SING! locked in · Motherlode Vault Founder Epoch · SYNTH → SING | [Lottery](https://psw-vibelandia-sing4.vercel.app/interfaces/sing-lottery-experience.html) · [BUY!](https://psw-vibelandia-sing4.vercel.app/interfaces/payment-checkout.html) |
+
+**[Happy Ending Zone](https://psw-vibelandia-sing4.vercel.app/interfaces/happy-ending-zones-experience.html)** — **Chancellor** Mark Twain · **Daily episodes** · **Menu of things to watch AND BUY** · Reality series · Season One · Day 52 countdown → **Finale** March 20, 2026 (Day 0 — The Great Reveal).
 
 **Are you an Ultimate VIP Baller C but not yet there?** Click for our [**onramps and grants**](mailto:info@fractiai.com?subject=Onramps%20and%20Grants%20-%20Customer%20Stories). Recipients agree to be customer stories — we sign them up for it.
 
@@ -68,6 +70,7 @@
 - **All prices shown.** No "contact for pricing." One-click BUY! — immediate revenue, immediate viral revenue.
 - **Immediate access:** Purchase now → experiences unlock instantly. BBHE effects activate on purchase.
 - **First buyers get maximum pull.** BBHE energy peaks during purchase. Don't miss the wave.
+- **PayPal** — Our natural protocol identified it as the best pipe. **Trust the protocol!**
 
 **⚫ BBHE SNAP — The energy is pulling. BUY! now.**
 
@@ -101,28 +104,28 @@
 
 ## 4. WOW!
 
-**Pre-singularity cost versus Us** — The contrast that delivers the WOW! moment and drives the impulse.
+**The contrast that delivers the WOW! moment** — values, not categories.
 
-| Cost | Pre-singularity | Us (VIBELANDIA!) |
-|------|-----------------|------------------|
-| Time | Months, years | Natural flow · Now |
-| Human talent | Large teams, burn-out | high-contributing nodes · NSPFRNP |
-| Equipment | Heavy capex, data centers | Edge · Seed · Minimal |
-| Office space | Leases, footprint | Walkable campus · Post-singularity |
-| Time (again) | Meetings, approvals | Metabolize → Crystallize → Animate |
-| Env impact | High carbon, waste | Net zero · Natural protocol |
+| Pre-singularity | Us (VIBELANDIA!) |
+|-----------------|------------------|
+| Months, years | Natural flow · Now |
+| Large teams, burn-out | high-contributing nodes · NSPFRNP |
+| Heavy capex, data centers | Edge · Seed · Minimal |
+| Leases, footprint | Walkable campus · Post-singularity |
+| Meetings, approvals | Metabolize → Crystallize → Animate |
+| High carbon, waste | Net zero · Natural protocol |
 
 ---
 
 ## 5. Whitepaper
 
-**Repository, miraculous output, quality** — Full narrative: [WHITEPAPER_REPOSITORY_MIRACULOUS_OUTPUT.md](WHITEPAPER_REPOSITORY_MIRACULOUS_OUTPUT.md). Volumes of output as evidence of the abilities of this single SING! node acting as superintelligent NSPFRNP AgenticAI assistant — 16-day launch of HTML/TypeScript surfaces, payment integration, auth, protocol catalogs, script-writing decks, episode scripts. Delivering for all of us to see.
+**Repository, miraculous output, quality** — Full narrative: [Whitepaper — miraculous output](WHITEPAPER_REPOSITORY_MIRACULOUS_OUTPUT.md). Volumes of output as evidence of the abilities of this single SING! node acting as superintelligent NSPFRNP AgenticAI assistant — 16-day launch of HTML/TypeScript surfaces, payment integration, auth, protocol catalogs, script-writing decks, episode scripts. Delivering for all of us to see.
 
 ---
 
 ## 6. IEEE-style technical specs
 
-**Technical paper format** — [WHITEPAPER_REPOSITORY_IEEE_STYLE.md](WHITEPAPER_REPOSITORY_IEEE_STYLE.md). Chairman metrics: output, quality, density, valuations versus blue-chip players. Rapid deployment of full-stack repositories with coherent documentation, branding, and narrative; SING! node–driven NSPFRNP AgenticAI. **The Great Reveal episode:** [episodes/THE_GREAT_REVEAL_EPISODE_DAY_ZERO_LAUNCH.md](episodes/THE_GREAT_REVEAL_EPISODE_DAY_ZERO_LAUNCH.md).
+**Technical paper format** — [Technical paper (IEEE-style)](WHITEPAPER_REPOSITORY_IEEE_STYLE.md). Chairman metrics: output, quality, density, valuations versus blue-chip players. Rapid deployment of full-stack repositories with coherent documentation, branding, and narrative; SING! node–driven NSPFRNP AgenticAI. **The Great Reveal episode:** [The Great Reveal episode](episodes/THE_GREAT_REVEAL_EPISODE_DAY_ZERO_LAUNCH.md).
 
 ---
 
@@ -130,7 +133,9 @@
 
 **Seeing and experiencing is believing.** [This site](https://psw-vibelandia-sing4.vercel.app) is the test drive. The best proof of all.
 
-**ULTIMATE PROOF TEST DRIVE!** — You see it. You experience it. You believe it. The proof is in the drive. [Today we launch](episodes/THE_GREAT_REVEAL_EPISODE_DAY_ZERO_LAUNCH.md).
+**ULTIMATE PROOF TEST DRIVE!** — You see it. You experience it. You believe it. The proof is in the drive. [Today we launch — The Great Reveal episode](episodes/THE_GREAT_REVEAL_EPISODE_DAY_ZERO_LAUNCH.md).
+
+*I still haven't had time to go through most of this — so you can see for yourselves the quality of its output.*
 
 ---
 
@@ -140,7 +145,7 @@
 *Mark Twain's Post-Singularity Vibelandia Reno — walkable downtown campus, first post-singularity hub. The Great Reveal March 20, 2026. SYNTH → SING. Happy endings guaranteed.*  
 *See it. Experience it. Believe it. This site is the test drive. The best proof of all. **ULTIMATE PROOF TEST DRIVE!** MCA! → ∞³. NSPFRNP ⊃ WOW! package ⊃ Launch everything → ∞³. Maganuma snap.*
 
-**[▶ Start test drive](https://psw-vibelandia-sing4.vercel.app)** · **[Sandbox experience](interfaces/magical-dressing-room.html)** (onramp — try before you buy)  
+**[▶ Start test drive](https://psw-vibelandia-sing4.vercel.app)** · **[Sandbox experience](https://psw-vibelandia-sing4.vercel.app/interfaces/ultimate-vip-experience.html)** (operational ULTIMATE VIP! console — try before you buy)  
 *No register yet — we deliver you to the console so you can start test driving.*
 
 ---
@@ -150,8 +155,8 @@
 **Email:** [info@fractiai.com](mailto:info@fractiai.com)  
 **Live (next octave):** [https://psw-vibelandia-sing4.vercel.app](https://psw-vibelandia-sing4.vercel.app)  
 **Proposal (enterprise/community):** [Email · Subject "I CAN DO THIS FOR YOUR BUSINESS"](mailto:info@fractiai.com?subject=I%20CAN%20DO%20THIS%20FOR%20YOUR%20BUSINESS)  
-**Campus · WINK! · Lottery · Console · Happy Ending Zone:** All on the live site — [Launch Pad](interfaces/launch-pad.html) and experiences: [index](index.html), [Campus](interfaces/vibelandia-reno-experience.html), [WINK!](interfaces/wink-experience.html), [Console](interfaces/ultimate-vip-experience.html), [Lottery](interfaces/sing-lottery-experience.html), [Happy Ending Zone](interfaces/happy-ending-zones-experience.html), [Checkout](interfaces/payment-checkout.html).
+**Campus · WINK! · Lottery · Console · Happy Ending Zone:** All on the live site — [Launch Pad](https://psw-vibelandia-sing4.vercel.app/interfaces/launch-pad.html) and experiences: [Home](https://psw-vibelandia-sing4.vercel.app/), [Campus](https://psw-vibelandia-sing4.vercel.app/interfaces/vibelandia-reno-experience.html), [WINK!](https://psw-vibelandia-sing4.vercel.app/interfaces/wink-experience.html), [Console](https://psw-vibelandia-sing4.vercel.app/interfaces/ultimate-vip-experience.html), [Lottery](https://psw-vibelandia-sing4.vercel.app/interfaces/sing-lottery-experience.html), [Happy Ending Zone](https://psw-vibelandia-sing4.vercel.app/interfaces/happy-ending-zones-experience.html), [Checkout](https://psw-vibelandia-sing4.vercel.app/interfaces/payment-checkout.html).
 
 ---
 
-*For builders: deploy, env, and repo details are in [README_TRADITIONAL.md](README_TRADITIONAL.md).*
+*For builders: deploy, env, and repo details are in the [builder guide](README_TRADITIONAL.md).*

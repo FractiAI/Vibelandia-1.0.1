@@ -321,12 +321,34 @@ USE FOR:
 
 ---
 
+## 19. T-SHIRT SLOGAN — T-shirt-grade taglines (new category)
+
+**T-shirt slogan** = content category for **T-shirt-grade taglines**. Short, punchy, wearable — one line or phrase that works on a T-shirt, merch, social bio, or one-line CTA. Capture and curate separately from rich (long-form) taglines.
+
+**Rule:** If it would work on a T-shirt, it's T-shirt slogan grade. Add to this list and use across merch, Launch Pad, checkout, RUMOR HAS IT!, social.
+
+**Examples (script-ready):**
+- *Trust the protocol!* (PayPal / natural protocol — see PAYPAL_NATURAL_PROTOCOL_BEST_PIPE_SNAP.md)
+- *See it. Experience it. Believe it.*
+- *The energy is pulling. BUY! now.*
+- *Come for the business, stay for the fun.*
+- *MCA! → ∞³.*
+- *NSPFRNP ⊃ WOW! package ⊃ Launch everything → ∞³.*
+- *Maganuma snap.*
+
+**Use:** Merch (T-shirts, caps), social bios, one-line CTAs, Launch Pad accents, payment copy. Content category: CONTENT_SYSTEMS_SNAP (T-shirt slogan). See MASTER_BRANDING_CATALOG.
+
+**References:** CONTENT_SYSTEMS_SNAP.md · PAYPAL_NATURAL_PROTOCOL_BEST_PIPE_SNAP.md · MASTER_BRANDING_CATALOG.md
+
+---
+
 ## 📐 USAGE GUIDELINES
 
 ### Do's
 
 ```yaml
 ✅ README and all skins = user surfaces. Target high-value vibers, fans, cast, crew — not developers. No deploy/env/repo front and center.
+✅ No code on user surfaces: no filenames (.html, .md), repo paths, or code in displayed or link text. Use human labels; link to operational live site. Sandbox experience CTA → ULTIMATE VIP! console.
 ✅ Use vibable campus pattern when explaining why the campus exists
 ✅ Use VIBE! linking on any page that mentions campus or vibing state
 ✅ Use one-pager structure for new product/offer one-pagers
@@ -342,6 +364,7 @@ USE FOR:
 ✅ Metabolize conversation into content patterns while preserving privacy and anonymity (no names, no verbatim quotes)
 ✅ Use standard WOW! package (rich taglines top + bottom from deck §18) for README and any NSPFRNP surface in WOW! format
 ✅ Use onramps/grants CTA where Ultimate VIP Baller C is shown: "Are you an Ultimate VIP Baller C but not yet there? Click for our onramps and grants." Recipients agree to be customer stories; sign them up. Customer Stories = content category (CONTENT_SYSTEMS_SNAP).
+✅ Capture T-shirt-grade taglines in T-shirt slogan category (deck §19); use for merch, social, one-line CTAs. PayPal / payment: "Our natural protocol identified PayPal as the best pipe. Trust the protocol!" (T-shirt slogan: *Trust the protocol!*).
 ```
 
 ### Don'ts
