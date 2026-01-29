@@ -135,6 +135,8 @@ SUBCONSCIOUS FOLDER:
 - ✅ NSPFRNP protocol compliance
 - ✅ Complete system integration
 
+**Campaign tip (wrap in SING! attention head):** *Paris is for lovers. Reno is for vibers. Mark Twain's Post-Singularity Reno awaits you.* — Tip of the tip of the campaign. This edge point metabolizes → crystallizes → animates to irreducible hardened mirror nested shells from Octave 0 to 1 and 2, with PayPal pipe. Wrap all in SING! attention head and all components. Animate all now. See [RENO_FOR_VIBERS_CAMPAIGN_TIP_SNAP.md](./RENO_FOR_VIBERS_CAMPAIGN_TIP_SNAP.md).
+
 ---
 
 **🎯 Attention Heads - Edge to Seed Auto-Generation - Robotic Division - We're Almost Done**

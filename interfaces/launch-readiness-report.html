@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Launch Readiness Report — Chairman only | NSPFRNP</title>
+    <meta name="description" content="Pre-launch readiness from all major and minor nodes. One-line status and color indicator. Chairman-only launch button.">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            background: #0a0a12;
+            color: #e5e7eb;
+            min-height: 100vh;
+            padding: 2rem 1.5rem;
+        }
+        .container { max-width: 800px; margin: 0 auto; }
+        .disclaimer {
+            background: rgba(255, 165, 0, 0.95);
+            color: #000;
+            text-align: center;
+            padding: 10px 16px;
+            font-size: 13px;
+            font-weight: 700;
+            border-bottom: 2px solid #e69500;
+            margin: -2rem -1.5rem 2rem -1.5rem;
+            padding: 10px 16px;
+        }
+        h1 {
+            font-size: 1.5rem;
+            color: #64c8ff;
+            margin-bottom: 0.5rem;
+        }
+        .subtitle { font-size: 0.9rem; color: #6b7280; margin-bottom: 2rem; }
+        .section-title {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: #6b7280;
+            margin: 1.5rem 0 0.75rem;
+            padding-bottom: 0.25rem;
+            border-bottom: 1px solid rgba(100, 200, 255, 0.2);
+        }
+        .node-row {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            padding: 0.5rem 0.75rem;
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(255,255,255,0.06);
+            border-radius: 8px;
+            margin-bottom: 0.4rem;
+            font-size: 0.9rem;
+        }
+        .node-row .light {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            flex-shrink: 0;
+        }
+        .node-row .light.ready { background: #22c55e; box-shadow: 0 0 8px #22c55e; }
+        .node-row .light.caution { background: #eab308; box-shadow: 0 0 8px #eab308; }
+        .node-row .light.not-ready { background: #ef4444; box-shadow: 0 0 8px #ef4444; }
+        .node-row .light.pending { background: #6b7280; }
+        .node-row .name { font-weight: 600; color: #e5e7eb; min-width: 140px; }
+        .node-row .status { color: #9ca3af; flex: 1; }
+        .launch-section {
+            margin-top: 2.5rem;
+            padding: 1.5rem;
+            background: rgba(34, 197, 94, 0.08);
+            border: 2px solid rgba(34, 197, 94, 0.35);
+            border-radius: 12px;
+        }
+        .launch-section h2 {
+            font-size: 1.1rem;
+            color: #22c55e;
+            margin-bottom: 0.75rem;
+        }
+        .launch-section .explanation {
+            font-size: 0.9rem;
+            color: #9ca3af;
+            margin-bottom: 1rem;
+            line-height: 1.5;
+        }
+        .launch-gate {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            align-items: center;
+            margin-bottom: 1rem;
+        }
+        .launch-gate label { display: flex; align-items: center; gap: 0.5rem; font-size: 0.9rem; cursor: pointer; }
+        .launch-gate input[type="checkbox"] { width: 18px; height: 18px; }
+        .launch-gate input[type="password"] {
+            padding: 0.5rem 0.75rem;
+            background: rgba(0,0,0,0.3);
+            border: 1px solid rgba(100, 200, 255, 0.3);
+            border-radius: 8px;
+            color: #e5e7eb;
+            font-size: 0.9rem;
+            width: 160px;
+        }
+        .launch-btn {
+            display: inline-block;
+            padding: 1rem 2rem;
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: #fff;
+            background: #22c55e;
+            border: none;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: background 0.2s, transform 0.1s;
+        }
+        .launch-btn:hover:not(:disabled) {
+            background: #16a34a;
+            transform: scale(1.02);
+        }
+        .launch-btn:disabled {
+            background: #374151;
+            color: #9ca3af;
+            cursor: not-allowed;
+        }
+        .back { margin-bottom: 1rem; }
+        .back a { color: #64c8ff; text-decoration: none; }
+        .back a:hover { text-decoration: underline; }
+        .launch-result {
+            margin-top: 1rem;
+            padding: 1rem;
+            border-radius: 8px;
+            font-weight: 600;
+            display: none;
+        }
+        .launch-result.success { background: rgba(34, 197, 94, 0.2); color: #22c55e; display: block; }
+    </style>
+</head>
+<body>
+    <div class="disclaimer">⚠️ SYNTHEVERSE IMAGINARY/ENTERTAINMENT ONLY — No substances. All laws followed.</div>
+    <div class="container">
+        <p class="back"><a href="chairman-workspace.html">← Chairman Workspace</a></p>
+        <h1>Launch Readiness Report</h1>
+        <p class="subtitle">Review status from all major and minor nodes before launch. One line per node · color = ready / caution / not ready.</p>
+
+        <div class="section-title">Major nodes</div>
+        <div id="major-nodes"></div>
+
+        <div class="section-title">Minor nodes (surfaces)</div>
+        <div id="minor-nodes"></div>
+
+        <section class="launch-section" aria-label="Chairman-only launch">
+            <h2>Launch — Chairman only</h2>
+            <p class="explanation">Only you can press to launch. No one else. Confirm your identity below to enable the button. When you press LAUNCH, the sequence initiates for The Great Reveal (March 20, 2026).</p>
+            <div class="launch-gate">
+                <label>
+                    <input type="checkbox" id="chairman-confirm" aria-label="I am the Chairman">
+                    I am the Chairman
+                </label>
+                <label>
+                    Launch code (only you know it):
+                    <input type="password" id="launch-code" placeholder="Enter launch code" autocomplete="off" aria-label="Launch code">
+                </label>
+            </div>
+            <button type="button" class="launch-btn" id="launch-btn" disabled>LAUNCH</button>
+            <div id="launch-result" class="launch-result" role="status"></div>
+        </section>
+    </div>
+
+    <script>
+        (function () {
+            var LAUNCH_CODE = 'LAUNCH';
+            var prefix = '';
+            if (window.location.pathname.indexOf('/interfaces/') !== -1 || window.location.pathname.replace(/\\/g, '/').indexOf('/interfaces') !== -1) {
+                prefix = '';
+            }
+
+            var majorNodes = [
+                { id: 'seed', name: 'Seed (Octave 0)', url: '../index.html', status: '' },
+                { id: 'edge', name: 'Edge (Octave 1)', url: 'launch-pad.html', status: '' },
+                { id: 'cloud', name: 'Cloud Onramp (Octave 2)', url: null, status: 'Ready (static)' },
+                { id: 'launch-pad', name: 'Launch Pad', url: 'launch-pad.html', status: '' },
+                { id: 'payment', name: 'Payment pipe (PayPal)', url: 'payment-checkout.html', status: '' },
+                { id: 'auth', name: 'Auth', url: null, status: 'Ready (static)' },
+                { id: 'catalog', name: 'Catalog', url: null, status: 'Ready (static)' },
+                { id: 'episodes', name: 'Episodes', url: null, status: 'Ready (static)' },
+                { id: 'deploy', name: 'Deploy', url: null, status: 'Ready (static)' }
+            ];
+
+            var minorNodes = [
+                { name: 'index', url: '../index.html' },
+                { name: 'launch-pad', url: 'launch-pad.html' },
+                { name: 'chairman-workspace', url: 'chairman-workspace.html' },
+                { name: 'payment-checkout', url: 'payment-checkout.html' },
+                { name: 'vibelandia-reno-experience', url: 'vibelandia-reno-experience.html' },
+                { name: 'wink-experience', url: 'wink-experience.html' },
+                { name: 'ultimate-vip-experience', url: 'ultimate-vip-experience.html' },
+                { name: 'sing-lottery-experience', url: 'sing-lottery-experience.html' },
+                { name: 'happy-ending-zones-experience', url: 'happy-ending-zones-experience.html' },
+                { name: 'syntheverse-warnings', url: 'syntheverse-warnings.html' },
+                { name: 'vibers-what-are-vibers', url: 'vibers-what-are-vibers.html' },
+                { name: 'chancellor-daily-bulletin', url: 'chancellor-daily-bulletin.html' },
+                { name: 'magical-dressing-room', url: 'magical-dressing-room.html' }
+            ];
+
+            function lightClass(ok) {
+                if (ok === true) return 'ready';
+                if (ok === false) return 'not-ready';
+                return 'caution';
+            }
+
+            function renderRow(name, status, light) {
+                var row = document.createElement('div');
+                row.className = 'node-row';
+                row.innerHTML = '<span class="light ' + light + '" aria-hidden="true"></span><span class="name">' + escapeHtml(name) + '</span><span class="status">' + escapeHtml(status) + '</span>';
+                return row;
+            }
+
+            function escapeHtml(s) {
+                var div = document.createElement('div');
+                div.textContent = s;
+                return div.innerHTML;
+            }
+
+            function checkUrl(url) {
+                if (!url) return Promise.resolve(true);
+                return fetch(url, { method: 'HEAD', mode: 'same-origin' }).then(function (r) { return r.ok; }).catch(function () { return false; });
+            }
+
+            function runChecks() {
+                var majorEl = document.getElementById('major-nodes');
+                var minorEl = document.getElementById('minor-nodes');
+                majorEl.innerHTML = '';
+                minorEl.innerHTML = '';
+
+                majorNodes.forEach(function (n) {
+                    var light = 'pending';
+                    var status = 'Checking…';
+                    var row = renderRow(n.name, status, light);
+                    majorEl.appendChild(row);
+                    if (n.url) {
+                        checkUrl(n.url).then(function (ok) {
+                            row.querySelector('.light').className = 'light ' + lightClass(ok);
+                            row.querySelector('.status').textContent = ok ? 'Ready' : 'Not ready';
+                        });
+                    } else {
+                        row.querySelector('.light').className = 'light ready';
+                        row.querySelector('.status').textContent = n.status;
+                    }
+                });
+
+                minorNodes.forEach(function (n) {
+                    var row = renderRow(n.name, 'Checking…', 'pending');
+                    minorEl.appendChild(row);
+                    checkUrl(n.url).then(function (ok) {
+                        row.querySelector('.light').className = 'light ' + lightClass(ok);
+                        row.querySelector('.status').textContent = ok ? 'Ready' : 'Not ready';
+                    });
+                });
+            }
+
+            var chairmanCheck = document.getElementById('chairman-confirm');
+            var codeInput = document.getElementById('launch-code');
+            var launchBtn = document.getElementById('launch-btn');
+            var launchResult = document.getElementById('launch-result');
+
+            function updateLaunchButton() {
+                var checked = chairmanCheck && chairmanCheck.checked;
+                var codeOk = codeInput && codeInput.value.trim().toUpperCase() === LAUNCH_CODE;
+                launchBtn.disabled = !checked || !codeOk;
+            }
+
+            if (chairmanCheck) chairmanCheck.addEventListener('change', updateLaunchButton);
+            if (codeInput) codeInput.addEventListener('input', updateLaunchButton);
+
+            launchBtn.addEventListener('click', function () {
+                if (launchBtn.disabled) return;
+                if (!confirm('You are about to initiate launch. Only the Chairman may do this. Proceed?')) return;
+                launchResult.textContent = 'Launch sequence initiated. March 20, 2026 — The Great Reveal.';
+                launchResult.className = 'launch-result success';
+                launchBtn.disabled = true;
+            });
+
+            runChecks();
+        })();
+    </script>
+</body>
+</html>

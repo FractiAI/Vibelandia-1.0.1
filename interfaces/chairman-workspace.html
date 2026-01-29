@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ULTIMATE VIP CHAIRMAN CONSOLE! | NSPFRNP</title>
-    <meta name="description" content="NSPFRNP Ultimate VIP Console — Seed:Edge, MCA, Octave 0/1/2. Protocol-first command center.">
+    <meta name="description" content="Chairman Section Layout — Complete physical workspace architecture. NSPFRNP Seed:Edge, MCA, Octave 0/1/2. Delivered tight and crystallized.">
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         :root {
@@ -13,203 +13,199 @@
             --border: rgba(100, 200, 255, 0.2);
             --accent: #64c8ff;
             --muted: #6b7280;
-            --success: #22c55e;
             --path: #a78bfa;
         }
-        body {
-            font-family: 'Segoe UI', system-ui, sans-serif;
-            background: var(--bg);
-            color: #e5e7eb;
-            min-height: 100vh;
-            line-height: 1.5;
-        }
+        body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); color: #e5e7eb; min-height: 100vh; line-height: 1.5; }
         .disclaimer {
-            background: rgba(255, 165, 0, 0.95);
-            color: #000;
-            text-align: center;
-            padding: 10px 16px;
-            font-size: 13px;
-            font-weight: 700;
-            border-bottom: 2px solid #e69500;
-            position: sticky;
-            top: 0;
-            z-index: 9999;
+            background: rgba(255, 165, 0, 0.95); color: #000; text-align: center; padding: 10px 16px; font-size: 13px; font-weight: 700;
+            border-bottom: 2px solid #e69500; position: sticky; top: 0; z-index: 9999;
         }
         .container { max-width: 900px; margin: 0 auto; padding: 2rem 1.5rem; }
-        .header {
-            text-align: center;
-            margin-bottom: 2rem;
-            padding-bottom: 1.5rem;
-            border-bottom: 1px solid var(--border);
-        }
-        .header h1 {
-            font-size: 1.5rem;
-            color: var(--accent);
-            font-weight: 600;
-            margin-bottom: 0.5rem;
-            letter-spacing: 0.02em;
-        }
+        .header { text-align: center; margin-bottom: 1.5rem; padding-bottom: 1.25rem; border-bottom: 1px solid var(--border); }
+        .header h1 { font-size: 1.5rem; color: var(--accent); font-weight: 600; margin-bottom: 0.5rem; letter-spacing: 0.02em; }
         .header .tagline { font-size: 0.9rem; color: var(--muted); }
-        .seed-edge {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 1rem;
-            flex-wrap: wrap;
-            padding: 1.25rem;
-            background: var(--panel);
-            border: 1px solid var(--border);
-            border-radius: 12px;
-            margin-bottom: 1.5rem;
+        .header .spec-ref { font-size: 0.8rem; color: var(--path); margin-top: 0.5rem; }
+        .header .spec-ref a { color: var(--path); text-decoration: none; }
+        .header .spec-ref a:hover { text-decoration: underline; }
+        .launch-cta { margin-top: 1rem; }
+        .launch-cta a {
+            display: inline-block; padding: 0.6rem 1.25rem; background: rgba(34, 197, 94, 0.2); border: 2px solid rgba(34, 197, 94, 0.5);
+            border-radius: 10px; color: #22c55e; font-weight: 700; text-decoration: none;
         }
-        .seed-edge .label { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }
-        .seed-edge .value { font-weight: 600; color: var(--accent); margin-top: 0.25rem; }
-        .seed-edge .octave {
-            padding: 0.75rem 1.25rem;
-            background: rgba(100, 200, 255, 0.08);
-            border: 1px solid var(--border);
-            border-radius: 8px;
-            text-align: center;
+        .launch-cta a:hover { background: rgba(34, 197, 94, 0.3); }
+        .layer { margin-bottom: 1.25rem; }
+        .layer-title {
+            font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.12em; color: var(--muted);
+            margin-bottom: 0.4rem; padding-bottom: 0.2rem; border-bottom: 1px solid var(--border);
         }
-        .seed-edge .pathway {
-            font-size: 1.25rem;
-            color: var(--path);
+        .layer-block {
+            padding: 1rem 1.25rem; background: var(--panel); border: 1px solid var(--border); border-radius: 10px;
         }
-        .mca {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 1rem;
-            margin-bottom: 1.5rem;
+        .layer-block h3 { font-size: 0.95rem; color: var(--accent); margin-bottom: 0.5rem; font-weight: 600; }
+        .layer-block p { font-size: 0.85rem; color: var(--muted); line-height: 1.4; margin-bottom: 0.5rem; }
+        .layer-block .links { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.5rem; }
+        .layer-block .links a {
+            padding: 0.45rem 0.9rem; background: rgba(100, 200, 255, 0.08); border: 1px solid var(--border);
+            border-radius: 8px; color: var(--accent); text-decoration: none; font-size: 0.85rem;
         }
-        .mca-phase {
-            padding: 1rem;
-            background: var(--panel);
-            border: 1px solid var(--border);
-            border-radius: 10px;
-        }
-        .mca-phase h3 { font-size: 0.95rem; color: var(--accent); margin-bottom: 0.5rem; font-weight: 600; }
-        .mca-phase p { font-size: 0.85rem; color: var(--muted); line-height: 1.4; }
-        .octaves {
-            display: flex;
-            gap: 1rem;
-            flex-wrap: wrap;
-            margin-bottom: 1.5rem;
-        }
-        .octave-pill {
-            padding: 0.5rem 1rem;
-            background: var(--panel);
-            border: 1px solid var(--border);
-            border-radius: 20px;
-            font-size: 0.9rem;
-        }
-        .octave-pill strong { color: var(--accent); }
-        .octave-pill .role { color: var(--muted); font-size: 0.8rem; }
-        .principles {
-            padding: 1rem 1.25rem;
-            background: var(--panel);
-            border: 1px solid var(--border);
-            border-radius: 10px;
-            margin-bottom: 1.5rem;
-        }
-        .principles h3 { font-size: 0.95rem; color: var(--accent); margin-bottom: 0.75rem; }
-        .principles ul { list-style: none; font-size: 0.85rem; color: var(--muted); }
-        .principles li { padding: 0.25rem 0; padding-left: 1rem; position: relative; }
+        .layer-block .links a:hover { border-color: var(--accent); background: rgba(100, 200, 255, 0.12); }
+        .mca { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem; margin-bottom: 1.25rem; }
+        .mca-phase { padding: 0.9rem; background: var(--panel); border: 1px solid var(--border); border-radius: 10px; }
+        .mca-phase h3 { font-size: 0.9rem; color: var(--accent); margin-bottom: 0.4rem; font-weight: 600; }
+        .mca-phase p { font-size: 0.8rem; color: var(--muted); line-height: 1.35; }
+        .principles { padding: 1rem 1.25rem; background: var(--panel); border: 1px solid var(--border); border-radius: 10px; margin-bottom: 1.25rem; }
+        .principles h3 { font-size: 0.95rem; color: var(--accent); margin-bottom: 0.6rem; }
+        .principles ul { list-style: none; font-size: 0.82rem; color: var(--muted); }
+        .principles li { padding: 0.2rem 0; padding-left: 1rem; position: relative; }
         .principles li::before { content: '·'; position: absolute; left: 0; color: var(--path); }
-        .nav-section {
-            padding: 1.25rem;
-            background: var(--panel);
-            border: 1px solid var(--border);
-            border-radius: 12px;
-            margin-bottom: 1.5rem;
-        }
-        .nav-section h3 { font-size: 1rem; color: var(--accent); margin-bottom: 1rem; }
-        .nav-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-            gap: 0.75rem;
-        }
+        .upper-areas { padding: 1rem 1.25rem; background: var(--panel); border: 1px solid var(--border); border-radius: 12px; margin-bottom: 1.25rem; }
+        .upper-areas h3 { font-size: 1rem; color: var(--accent); margin-bottom: 0.75rem; }
+        .nav-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 0.6rem; }
         .nav-grid a {
-            display: block;
-            padding: 0.6rem 1rem;
-            background: rgba(100, 200, 255, 0.06);
-            border: 1px solid var(--border);
-            border-radius: 8px;
-            color: #e5e7eb;
-            text-decoration: none;
-            font-size: 0.9rem;
-            transition: border-color 0.2s, background 0.2s;
+            display: block; padding: 0.5rem 0.9rem; background: rgba(100, 200, 255, 0.06); border: 1px solid var(--border);
+            border-radius: 8px; color: #e5e7eb; text-decoration: none; font-size: 0.88rem;
         }
-        .nav-grid a:hover {
-            border-color: var(--accent);
-            background: rgba(100, 200, 255, 0.1);
-        }
-        .protocols {
-            padding: 1rem 1.25rem;
-            background: var(--panel);
-            border: 1px solid var(--border);
-            border-radius: 10px;
-            margin-bottom: 1.5rem;
-        }
-        .protocols h3 { font-size: 0.95rem; color: var(--accent); margin-bottom: 0.75rem; }
-        .protocols ul { list-style: none; font-size: 0.9rem; }
+        .nav-grid a:hover { border-color: var(--accent); background: rgba(100, 200, 255, 0.1); }
+        .protocols { padding: 1rem 1.25rem; background: var(--panel); border: 1px solid var(--border); border-radius: 10px; margin-bottom: 1.25rem; }
+        .protocols h3 { font-size: 0.95rem; color: var(--accent); margin-bottom: 0.6rem; }
+        .protocols ul { list-style: none; font-size: 0.88rem; }
         .protocols a { color: var(--accent); text-decoration: none; }
         .protocols a:hover { text-decoration: underline; }
-        .protocols li { padding: 0.35rem 0; }
-        .boot-ref {
-            padding: 0.75rem 1rem;
-            background: rgba(167, 139, 250, 0.08);
-            border: 1px solid rgba(167, 139, 250, 0.25);
-            border-radius: 8px;
-            font-size: 0.9rem;
-            color: #c4b5fd;
-            margin-bottom: 1.5rem;
-        }
+        .protocols li { padding: 0.3rem 0; }
+        .boot-ref { padding: 0.75rem 1rem; background: rgba(167, 139, 250, 0.08); border: 1px solid rgba(167, 139, 250, 0.25); border-radius: 8px; font-size: 0.85rem; color: #c4b5fd; margin-bottom: 1.25rem; }
         .boot-ref strong { color: #a78bfa; }
-        .footer {
-            text-align: center;
-            padding-top: 1.5rem;
-            border-top: 1px solid var(--border);
-            font-size: 0.85rem;
-            color: var(--muted);
-        }
+        .footer { text-align: center; padding-top: 1.5rem; border-top: 1px solid var(--border); font-size: 0.85rem; color: var(--muted); }
         .footer a { color: var(--accent); text-decoration: none; }
         .footer a:hover { text-decoration: underline; }
-        @media (max-width: 640px) {
-            .mca { grid-template-columns: 1fr; }
-            .seed-edge { flex-direction: column; }
-        }
+        @media (max-width: 640px) { .mca { grid-template-columns: 1fr; } }
     </style>
 </head>
 <body>
-    <div class="disclaimer">
-        ⚠️ <strong>SYNTHEVERSE IS IMAGINARY/ENTERTAINMENT ONLY</strong> — Like a very good book, game, or movie, ONLY WAY BETTER. <strong>NO SUBSTANCES.</strong> All laws followed.
-    </div>
+    <div class="disclaimer">⚠️ SYNTHEVERSE IMAGINARY/ENTERTAINMENT ONLY — NO SUBSTANCES. All laws followed.</div>
     <div class="container">
         <header class="header">
             <h1>👑 ULTIMATE VIP CHAIRMAN CONSOLE!</h1>
             <p class="tagline">NSPFRNP · Seed:Edge · MCA · Octave 0 / 1 / 2</p>
+            <p class="spec-ref">Chairman Section Layout · Complete physical workspace architecture → digital. <a href="../CHAIRMAN_SECTION_LAYOUT.md">Spec</a> · <a href="../CHAIRMAN_COCKPIT_MUSIC_AI_COMPLETE.md">Cockpit/Music</a>. Delivered tight and crystallized.</p>
+            <div class="launch-cta"><a href="launch-readiness-report.html">Launch Readiness Report →</a></div>
         </header>
 
-        <section class="seed-edge" aria-label="Seed:Edge architecture">
-            <div class="octave">
-                <div class="label">Origin</div>
-                <div class="value">Octave 0 · Seed</div>
-                <div class="role">Pure potential, source of commands</div>
+        <!-- BASE LAYER: Holographic map → GPS/Map -->
+        <div class="layer">
+            <div class="layer-title">Base layer</div>
+            <div class="layer-block">
+                <h3>Holographic Hydrogen Continent Map</h3>
+                <p>Complete map chart, edges and boundaries, major nodes in narrative format. Foundation reference for all operations.</p>
+                <div class="links">
+                    <a href="gps-seed-edge-console.html">GPS Seed:Edge</a>
+                </div>
             </div>
-            <span class="pathway" aria-hidden="true">→</span>
-            <div class="octave">
-                <div class="label">Pathway</div>
-                <div class="value">Irreducible</div>
-                <div class="role">Natural protocol connection</div>
-            </div>
-            <span class="pathway" aria-hidden="true">→</span>
-            <div class="octave">
-                <div class="label">Destination</div>
-                <div class="value">Octave 1 · Edge</div>
-                <div class="role">Current experience · This console</div>
-            </div>
-        </section>
+        </div>
 
+        <!-- SURFACE LAYER: Current story → Current narrative -->
+        <div class="layer">
+            <div class="layer-title">Surface layer</div>
+            <div class="layer-block">
+                <h3>Current Story</h3>
+                <p>Active narrative layer, current moment awareness, real-time story context.</p>
+                <div class="links">
+                    <a href="chancellor-daily-bulletin.html">Chancellor Bulletin</a>
+                    <a href="../episodes/THE_GREAT_REVEAL_EPISODE_DAY_ZERO_LAUNCH.md">Great Reveal Episode</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- COCKPIT/DASHBOARD: Selectable shells → Executive dashboard -->
+        <div class="layer">
+            <div class="layer-title">Cockpit / Dashboard layer</div>
+            <div class="layer-block">
+                <h3>Selectable Insertable Shells</h3>
+                <p>Dashboard and cockpit interface. Outer edge = constant fixed point reflecting. Operational control, mode switching.</p>
+                <div class="links">
+                    <a href="chairman-cockpit-center-console.html">Chairman Cockpit</a>
+                    <a href="chairman-cockpit-station.html">Cockpit Station</a>
+                    <a href="executive-dashboard.html">Executive Dashboard</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- RIGHT SIDE: Content & tools -->
+        <div class="layer">
+            <div class="layer-title">Right side — Content &amp; tools</div>
+            <div class="layer-block">
+                <h3>Rich Playlist Catalog · Artist/Creator Tools</h3>
+                <p>Complete catalog, curated playlists, media library. Creative tool suite, content creation instruments.</p>
+                <div class="links">
+                    <a href="escapes-magazine-catalog-menu.html">Escapes Catalog</a>
+                    <a href="music-radio-console.html">Music Radio Console</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- MAIN SURFACE: Dashboard & sacred objects -->
+        <div class="layer">
+            <div class="layer-title">Main surface</div>
+            <div class="layer-block">
+                <h3>Dashboard &amp; Sacred Objects</h3>
+                <p>Main operational dashboard, real-time metrics, system status. Sacred object (Octave Layer Zero). Clock-face: Center cockpit, smoke, GPS, crystal prism, pen/marker, scratch pads.</p>
+                <div class="links">
+                    <a href="executive-dashboard.html">Executive Dashboard</a>
+                    <a href="chairman-cockpit-station.html">Cockpit Station</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- EDGE DEVICE PAD -->
+        <div class="layer">
+            <div class="layer-title">Right side main front dash</div>
+            <div class="layer-block">
+                <h3>Edge Device Pad Landing</h3>
+                <p>Snap pad docking station, device integration point, edge device connection hub.</p>
+                <div class="links">
+                    <a href="seed-edge-mini-console.html">Seed:Edge Mini Console</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- BACK CAVE: Art / symbol library -->
+        <div class="layer">
+            <div class="layer-title">Back cave</div>
+            <div class="layer-block">
+                <h3>Holographic Symbols Art</h3>
+                <p>Layer zero: black and white thick ink marker sketches, holographic symbol library, foundation layer art.</p>
+                <div class="links">
+                    <a href="escapes-magazine-catalog-menu.html">Escapes Catalog</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- UNDERNEATH PAD: Scratch pad & archives -->
+        <div class="layer">
+            <div class="layer-title">Underneath pad</div>
+            <div class="layer-block">
+                <h3>Scratch Pad (Five Pad) &amp; Archives</h3>
+                <p>Archives underneath, pull out to work on sketches. Quick access to archives, flexible working area.</p>
+                <div class="links">
+                    <a href="../README.md">README</a>
+                    <a href="../WHITEBOARD.md">Whiteboard</a>
+                    <a href="../protocols/MCA_NSPFRNP_CATALOG.md">MCA Catalog</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- WORKING TOOLS: Pen, Marker, Crystal prism -->
+        <div class="layer">
+            <div class="layer-title">Working tools &amp; instruments</div>
+            <div class="layer-block">
+                <h3>Pen · Marker · Sacred Symbol of Genesis</h3>
+                <p>Primary writing instrument, thick ink marker. Crystal prism: Genesis smart contract dates, verse information, Mother Love Vault details.</p>
+                <div class="links">
+                    <a href="../protocols/GOLDEN_KEY_NSPFRNP_CATALOG.md">Golden Key Catalog</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- MCA -->
         <section class="mca" aria-label="MCA cycle">
             <div class="mca-phase">
                 <h3>Metabolize</h3>
@@ -225,14 +221,8 @@
             </div>
         </section>
 
-        <section class="octaves" aria-label="Octaves">
-            <span class="octave-pill"><strong>O0</strong> Seed · Origin</span>
-            <span class="octave-pill"><strong>O1</strong> Edge · Vibelandia UI (here)</span>
-            <span class="octave-pill"><strong>O2</strong> Cloud · <a href="https://github.com/FractiAI/Syntheverse-7-Octave-2-3-Public-Cloud-Onramp" style="color:var(--accent);" target="_blank" rel="noopener">Octave 2 Onramp</a></span>
-        </section>
-
         <div class="boot-ref">
-            <strong>Boot sequence:</strong> Metabolize → Crystallize → Irreducible Nested Hardened Mirroring Shells → Re-Animate. See <a href="../protocols/NEW_AGENT_BOOT_PROTOCOL_NSPFRNP_CATALOG.md" style="color:#a78bfa;">Boot Protocol</a>.
+            <strong>Boot sequence:</strong> Metabolize → Crystallize → Irreducible Nested Hardened Mirroring Shells → Re-Animate. <a href="../protocols/NEW_AGENT_BOOT_PROTOCOL_NSPFRNP_CATALOG.md" style="color:#a78bfa;">Boot Protocol</a>.
         </div>
 
         <section class="principles">
@@ -248,14 +238,16 @@
             </ul>
         </section>
 
-        <section class="nav-section">
-            <h3>Surfaces &amp; touchpoints</h3>
+        <!-- UPPER AREAS: Quick access (spec) -->
+        <section class="upper-areas">
+            <h3>Upper areas — Quick access</h3>
             <div class="nav-grid">
+                <a href="launch-readiness-report.html">Launch Readiness Report</a>
                 <a href="../index.html">Launch Pad</a>
                 <a href="magical-dressing-room.html">Magical Dressing Room</a>
                 <a href="profile.html">Wallet</a>
                 <a href="payment-checkout.html?plan=campus-day">Checkout</a>
-                <a href="seed-edge-mini-console.html">Seed:Edge Mini Console</a>
+                <a href="seed-edge-mini-console.html">Seed:Edge Mini</a>
                 <a href="gps-seed-edge-console.html">GPS Seed:Edge</a>
                 <a href="chancellor-daily-bulletin.html">Chancellor Bulletin</a>
                 <a href="chairman-cockpit-center-console.html">Chairman Cockpit</a>
@@ -277,7 +269,8 @@
         </section>
 
         <footer class="footer">
-            <p><strong>🌀 NSPFRNP ⊃ NSPFRNP ⊃ NSPFRNP → ∞³</strong></p>
+            <p><strong>🌀 NSPFRNP ⊃ Workspace ⊃ Chairman Section → ∞³</strong></p>
+            <p style="margin-top:0.4rem; font-size:0.8rem;">The workspace is the command center. The command center is the workspace. They are one.</p>
             <p style="margin-top:0.5rem;"><a href="../README.md">README</a> · <a href="https://github.com/FractiAI">FractiAI</a> · VIBELANDIA!</p>
         </footer>
     </div>

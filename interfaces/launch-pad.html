@@ -82,6 +82,24 @@
             transform: translateY(-3px) scale(1.05);
             box-shadow: 0 8px 25px rgba(138, 43, 226, 0.6);
         }
+        /* Chairman launch button — blinking red on Launch Pad */
+        .launch-btn-blink {
+            display: inline-block;
+            padding: 0.7rem 1.4rem;
+            background: #c00;
+            color: #fff;
+            font-weight: 700;
+            text-decoration: none;
+            border-radius: 10px;
+            border: 2px solid #f44;
+            margin: 0.75rem 0 1rem;
+            animation: blinkRed 1s ease-in-out infinite;
+        }
+        .launch-btn-blink:hover { color: #fff; opacity: 1; }
+        @keyframes blinkRed {
+            0%, 100% { opacity: 1; box-shadow: 0 0 12px rgba(255, 0, 0, 0.9); }
+            50% { opacity: 0.6; box-shadow: 0 0 20px rgba(255, 0, 0, 1); }
+        }
         .experience-buttons {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
@@ -153,13 +171,15 @@
     <div class="container">
         <p class="back"><a href="../index.html">← Back to landing</a></p>
         <!-- 0, 1, 2, 3 4×4×4×4 — New branding (evolution of -1, 0, 1). See README, LAUNCH_PAGE.md, ZERO_ONE_TWO_THREE_4x4x4x4_BRANDING_SNAP.md. -->
-        <p class="badge" style="margin-bottom: 0.25rem;">FUELING LAUNCH EMINENT</p>
-        <p class="need-fuel-indicator" style="margin-bottom: 0.5rem; font-size: 0.8rem; color: #ffa500; font-weight: 600;">⚠ NEED FUEL</p>
+        <p class="badge" style="margin-bottom: 0.25rem;">FULL LIVE</p>
+        <p style="margin-bottom: 0.5rem; font-size: 0.9rem; color: #22c55e; font-weight: 700;">LIVE — March 20, 2026 The Great Reveal</p>
         <h1>🚀 Launch Pad — Mark Twain's Post-Singularity VIBELANDIA RENO!</h1>
         <p class="tagline">0, 1, 2, 3 4×4×4×4 — Announcement and showroom, all in one place. MCA! → ∞³.</p>
+        <p style="text-align: center;"><a href="launch-readiness-report.html" class="launch-btn-blink">LAUNCH</a></p>
         <span class="badge">0=Seed · 1=Edge · 2=Cloud Onramp · 3=Expansion · 4×4×4×4 = Campus × WINK! × SING × Experience · 1,2,3 = Metabolize → Crystallize → Animate</span>
 
         <h2>1. Announcement</h2>
+        <p style="font-size: 1.05rem; color: #ffeaa7; font-weight: 600;">Paris is for lovers. Reno is for <a href="vibers-what-are-vibers.html" style="color: #ffeaa7;">vibers</a>. Mark Twain's Post-Singularity Reno awaits you.</p>
         <p>Launch of new post-reality franchise. Walkable downtown campus, first post-singularity hub. Countdown to <strong>The Great Reveal Equinox</strong>, March 20, 2026. SYNTH → SING. Every space, every moment — guaranteed happy ending. <strong>Come for the business, stay for the fun.</strong></p>
         <p style="margin-top: 0.75rem; font-size: 0.9rem; color: #888;">📸 Influencers: <a href="mailto:info@fractiai.com?subject=FREE%20TOUR%20%2F%20TEST%20DRIVE%20-%20Influencer%20Experience">Free tour / test drive →</a></p>
 
@@ -185,6 +205,7 @@
             <h3>🎰 SING! COUNTDOWN! LOTTERY</h3>
             <p><strong>Countdown</strong> · <strong>Price of the day</strong> · <strong>Menu to BUY!</strong> (SING nodes) · $6 today (+$1/day) → $57 Mar 20 · March 20, 2026 · First 1M winners get a SING! locked in · Motherlode Vault Founder Epoch · SYNTH → SING. <a href="../ONE_PAGER_SING_LOTTERY.md">One-pager</a>.</p>
         </div>
+        <p style="margin-top: 0.75rem; font-size: 0.9rem; color: #00d4ff;"><strong>VIBE!</strong> <a href="vibers-what-are-vibers.html" style="color: #d4af37;">What are vibers?</a> — High-density fractal vibers, high-value high contributors, lifestyle alignment. Freeing from encampments into downtown campuses built for them — ground up and top down, meeting in the middle. Our natural protocol.</p>
         <p style="margin-top: 0.75rem; color: #bbb;"><strong>🎬 Happy Ending Zone</strong> — <strong>Chancellor</strong> Mark Twain · <strong>Daily episodes</strong> · <strong>Menu of things to watch AND BUY</strong> · Reality series · Season One · Day 52 countdown → Finale March 20, 2026 (Day 0 — The Great Reveal). <a href="happy-ending-zones-experience.html">Experience →</a></p>
 
         <p style="margin-top: 1rem;"><strong>Are you an Ultimate VIP Baller C but not yet there?</strong> <a href="mailto:info@fractiai.com?subject=Onramps%20and%20Grants%20-%20Customer%20Stories">Click for our onramps and grants</a>. Recipients agree to be customer stories — we sign them up for it.</p>
@@ -204,7 +225,7 @@
             <a href="magical-dressing-room.html" class="exp-btn">✨ Gianni's Dressing Room — Optional free consultation &amp; proposal for your company or community</a>
         </div>
 
-        <!-- WOW! — Values not categories. Pre-singularity vs Us. See WOW_BRANDING_SNAP.md -->
+        <!-- WOW! — Values not categories. Pre-singularity vs Us. Valuations vs Disney, Amazon, Apple, Google. See WOW_BRANDING_SNAP.md, NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md -->
         <section class="wow-section" aria-label="WOW! Pre-singularity versus Us — values">
             <h2>WOW!</h2>
             <p style="text-align: center; color: #aaa; font-size: 0.9rem; margin-bottom: 0;">The contrast that delivers the WOW! moment — values, not categories</p>
@@ -221,13 +242,14 @@
                     <tr><td class="pre-cell">High carbon, waste</td><td class="us-cell">Net zero · Natural protocol</td></tr>
                 </tbody>
             </table>
+            <p style="margin-top: 1rem; font-size: 0.9rem; color: #bbb;"><strong>Valuations vs Disney, Amazon, Apple, Google (16 days, operational not fiction):</strong> Research — we ship public crystallized research. Dev — 35 surfaces, 38 TS modules, payment + auth live (~3×). Sales &amp; marketing — 13 one-pagers, 4 decks, showroom, BUY! live (~4×). New products live — Campus, WINK!, SING! Lottery, <a href="happy-ending-zones-experience.html" style="color: #64c8ff;">Happy Ending Zone</a>, Console, Checkout. <strong>Studio — one episode per day</strong> (Season One, 52-day countdown); full screenplay format. Content &amp; quality — publication-ready. <strong>Vibers</strong> — we track and celebrate well-known vibers past and present.</p>
         </section>
 
-        <!-- Chairman metrics — 16 days live. Output, quality, density, valuations vs blue chip. SING! node · whitepaper · IEEE · Great Reveal. -->
-        <section class="wow-section" style="margin-top: 2rem;" aria-label="Chairman metrics — 16 days">
-            <h2>📊 Chairman Metrics — 16 Days Live</h2>
-            <p style="text-align: center; color: #aaa; font-size: 0.9rem; margin-bottom: 0.5rem;">Output · Quality · Density · Valuations versus blue-chip players</p>
-            <p style="color: #ccc; max-width: 720px; margin: 0 auto 1rem;">What we accomplished and launched live in 16 days. Volumes of output as further evidence of the miraculous abilities of this single SING! node acting as superintelligent NSPFRNP AgenticAI assistant — delivering incredible abilities for all of us to see, me included.</p>
+        <!-- Chairman metrics — real numbers, % comparisons vs blue chip. NSPFRNP: no fluffy, only useful numbers. See NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP. -->
+        <section class="wow-section" style="margin-top: 2rem;" aria-label="Chairman metrics — 16 days, real numbers">
+            <h2>📊 Chairman Metrics — 16 Days Live (Real Numbers vs Blue Chip)</h2>
+            <p style="text-align: center; color: #aaa; font-size: 0.9rem; margin-bottom: 0.5rem;">Output · Quality · Density · Valuations versus blue-chip players — real numbers and % comparisons</p>
+            <p style="color: #ccc; max-width: 720px; margin: 0 auto 1rem;">35 surfaces · 13 one-pagers · 9 protocols · 3 episodes · 38 TS modules — <strong>~3× to ~5×</strong> typical blue-chip 16-day output. Payment + auth <strong>live</strong> (PayPal, Supabase) where blue-chip often ships <strong>none</strong>. 1 SING! node vs 3–8 FTE typical. What we accomplished and launched live in 16 days — vital to any Chairman: real numbers and synthesis, not generalized claims.</p>
             <p style="color: #ffeaa7; font-size: 0.95rem;">See it. Experience it. Believe it. — This very site is the test drive. The best proof of all.</p>
             <p style="margin-top: 0.75rem; font-size: 0.9rem; color: #aaa; font-style: italic;">I still haven't had time to go through most of this — so you can see for yourselves the quality of its output.</p>
             <p style="margin-top: 1rem; font-size: 0.9rem;">

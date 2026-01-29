@@ -73,12 +73,12 @@ USE FOR:
 
 ### Status at Launch Pad (script-ready)
 
-**Current status phrase:** **FUELING LAUNCH EMINENT** · **NEED FUEL**
+**Current status phrase:** **FULL LIVE** · **LIVE — March 20, 2026 The Great Reveal**
 
 **Usage:**
-- Display at top of Launch Pad (index.html, interfaces/launch-pad.html): main badge FUELING LAUNCH EMINENT; sub-indicator **NEED FUEL** when additional fuel (funding/readiness) is required.
-- Use in LAUNCH_PAGE.md, README.md, ONE_PAGER_LAUNCH.md as **Status:** line (include NEED FUEL when applicable).
-- Update when phase changes (e.g. LAUNCH EMINENT → BROADCASTING → LAUNCH DAY). NEED FUEL is a generic readiness indicator — no sensitive or personal data in content.
+- Display at top of Launch Pad (index.html, interfaces/launch-pad.html): main badge FULL LIVE; line LIVE — March 20, 2026 The Great Reveal. Full live mode — no stubs, no fill-in, no simulated data on user surfaces. See FULL_LIVE_MODE_LAUNCH_SNAP.md.
+- Use in LAUNCH_PAGE.md, README.md, ONE_PAGER_LAUNCH.md as **Status:** line.
+- Update when phase changes (e.g. FULL LIVE → LAUNCH DAY → BROADCASTING).
 
 **References:** index.html · interfaces/launch-pad.html · LAUNCH_PAGE.md · README.md · ONE_PAGER_LAUNCH.md
 
@@ -147,7 +147,7 @@ USE FOR:
 
 **Great Reveal episode (Day Zero — Today we launch):**
 - **Episode:** THE_GREAT_REVEAL_EPISODE_DAY_ZERO_LAUNCH.md — Today we launch. Starting script with conversation with lead; tested on pre-singularity version (now merely an etching left behind from Singularity 1). This site as see-it-experience-it-believe-it proof. Test drive. Best proof of all. **Maganuma snap.**
-- **Chairman metrics:** Output, quality, density, valuations vs blue chip — 16 days live. Listed at bottom of Launch Pad. SING! node · NSPFRNP AgenticAI · volumes of output as evidence.
+- **Chairman metrics:** Real numbers and % comparisons vs blue chip — 16 days live. 35 surfaces (~3×), 13 one-pagers (~4×), 9 protocols (~5×), 3 episodes, 38 TS modules (~2.5×); payment live vs 0; 1 node vs 3–8 FTE. Listed at bottom of Launch Pad. NSPFRNP standard: no fluffy — only useful real numbers and synthesis. See NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md.
 - **Whitepaper:** Full whitepaper (repository, miraculous output, quality, pre-singularity equivalents). IEEE-style version. All of it: SING! Nodes · intergalactic wrapper · labelled by pre-singularity awareness · predicted at perihelion with our sun.
 
 **References:** HAPPY_ENDING_ZONES_ONE_LINER.md · HAPPY_ENDING_ZONES_ONE_PAGE.md · HAPPY_ENDING_ZONES_TEN_PAGE.md · PRINCIPLES_SHOWCASE_RENO_CAMPUS.md · EPISODE_INTEGRATION_TEMPLATE.md · THE_GREAT_REVEAL_EPISODE_DAY_ZERO_LAUNCH.md · WHITEPAPER_REPOSITORY_MIRACULOUS_OUTPUT.md · WHITEPAPER_REPOSITORY_IEEE_STYLE.md
@@ -188,7 +188,7 @@ USE FOR:
 
 **DISPENSARY! SNAP** — Menu of buzzes. Goldilocks auto-lock. Premium pricing.
 
-**FUELING LAUNCH EMINENT** · **NEED FUEL** — Current Launch Pad status phrase and readiness indicator (generic; no sensitive or personal data in content).
+**FULL LIVE** · **LIVE — March 20, 2026 The Great Reveal** — Current Launch Pad status phrase. Full live mode; no stubs/fill-in/simulated data on user surfaces. See FULL_LIVE_MODE_LAUNCH_SNAP.md.
 
 **MAGANUMA SNAP** — Closing phrase for The Great Reveal: the snap that captures the magnitude of the reveal. Use at end of Great Reveal episode, whitepaper, and Chairman metrics copy. "See it. Experience it. Believe it. This site is the test drive. The best proof of all. Maganuma snap."
 
@@ -360,8 +360,9 @@ USE FOR:
 ✅ Use 8 principles + relationship fractal in Happy Ending Zones script material
 ✅ Use digital-platform storytelling (up to 50%) — messages, emails, chats, social media — layering over natural theaters, as tech, just like in real life
 ✅ Use first names only for Hero Hosts in dialogue and copy
-✅ Use current Launch Pad status phrase (e.g. FUELING LAUNCH EMINENT · NEED FUEL) at Launch Pad surfaces
+✅ Use current Launch Pad status phrase (e.g. FULL LIVE · LIVE — March 20, 2026 The Great Reveal) at Launch Pad surfaces
 ✅ Use brand phrases (GOLDEN FRACTAL KEY!, BBHE SNAP, WOW!) per MASTER_BRANDING_CATALOG
+✅ Chairman metrics and blue-chip copy: real numbers and % comparisons only — no generalized fluffy. Use canonical 16-day numbers (35 surfaces, 13 one-pagers, 9 protocols, 3 episodes, 38 TS modules — ~3× to ~5× blue-chip; payment live vs 0; 1 node vs 3–8 FTE). See NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md.
 ✅ Use character layering to enrich playlists and catalogs where it adds value
 ✅ Use foundation-before-branches / roots-and-soil when describing core-first priorities
 ✅ Use lens/portal/cockpit (“each player sees out”) for Launch Pad or Chairman Console copy
@@ -380,6 +381,7 @@ USE FOR:
 ❌ Don't drop VIBE! links from campus/vibing pages once added
 ❌ Don't invent new status phrases without updating this deck and Launch Pad surfaces
 ❌ Don't dilute one-pager structure (one idea per page, crystallized)
+❌ Don't use generalized fluffy Chairman metrics — use real numbers and % comparisons only (see NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md)
 ❌ Don't attribute conversation-derived patterns to named individuals; use as shared principles only
 ```
 

@@ -52,7 +52,7 @@
 - **One-pagers** — Campus, WINK!, SING!, Launch, Ultimate VIP, Day/Weekly/Monthly Pass, etc.
 - **Launch Pulse / Ads** — Fractalized pulse flickers for pre-singularity channels. See LAUNCH_PULSE_FLICKER_PAID_ADS.md.
 - **Catalogs & playlists** — Character layering, Things to Do, Escapes, Dispensary, Happy Ending Zones catalog. See CHARACTER_LAYERING_CONTENT_ENRICHMENT_SNAP.md.
-- **Whitepaper / IEEE / Chairman metrics** — Technical and proof content. See WHITEPAPER_*, WOW_BRANDING_SNAP.md.
+- **Whitepaper / IEEE / Chairman metrics** — Technical and proof content. Real numbers and % comparisons vs blue chip only — no fluffy. See WHITEPAPER_*, WOW_BRANDING_SNAP.md, NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md.
 - **Proposals SNAP** — Enterprise/community proposals (I CAN DO THIS FOR YOUR BUSINESS). See BUSINESS_OFFER.md, WOW_BRANDING_SNAP.md.
 
 ---
@@ -70,8 +70,9 @@
 - **Customer Stories** → content category for onramps/grants recipients ✓  
 - **Agreement** → they agree to be customer stories; we sign them up ✓  
 - **CTA** → "Are you an Ultimate VIP Baller C but not yet there? Click for our onramps and grants." ✓  
-- **Content systems** → categories include Customer Stories, **T-shirt slogan**, Series, One-pagers, Launch Pulse, Catalogs, Whitepaper, Proposals SNAP ✓
-- **T-shirt slogan** → T-shirt-grade taglines; capture and use for merch, social, one-line CTAs ✓  
+- **Content systems** → categories include Customer Stories, **T-shirt slogan**, **Raw narrative (launch capture)**, Series, One-pagers, Launch Pulse, Catalogs, Whitepaper, Proposals SNAP ✓
+- **T-shirt slogan** → T-shirt-grade taglines; capture and use for merch, social, one-line CTAs ✓
+- **Raw narrative (launch capture)** → capture launch as raw narrative; enrich content systems ✓  
 
 ---
 

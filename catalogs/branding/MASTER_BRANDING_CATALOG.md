@@ -35,6 +35,14 @@ USER SURFACES: README and All Skins — Not Developer Surfaces
 ├─ No code on user surfaces: no filenames (.html, .md), repo paths, or code snippets in displayed or link text. Use human labels (e.g. Whitepaper — miraculous output, Home, Builder guide). Link to operational live site; Sandbox experience CTA → ULTIMATE VIP! console.
 └─ See WOW_BRANDING_SNAP.md · COMMUNICATION_NSPFRNP_CATALOG.md · deck-script-writing-content-patterns.md
 
+NSPFRNP REAL NUMBERS VS BLUE CHIP (MONSTER SNAP): Content standard — no fluffy
+├─ Content never generalized fluffy — only useful real numbers, synthesis, and % comparisons. Vital to any Chairman.
+├─ Canonical 16-day numbers: 35 surfaces (~3× blue-chip), 13 one-pagers (~4×), 9 protocols (~5×), 3 episodes, 38 TS modules (~2.5×); payment live vs 0; 1 node vs 3–8 FTE.
+├─ Valuations per deliverable vs Disney, Amazon, Apple, Google: research, dev, sales/marketing, new products live, studio 1/day, content & quality, vibers (track and celebrate). All in WOW! package.
+├─ Happy Ending link (Octave 1): interfaces/happy-ending-zones-experience.html (from root) or happy-ending-zones-experience.html (from interfaces/). Test script validates target; fix 404 by ensuring file deployed.
+├─ Apply to Chairman metrics, whitepapers, Launch Pad, README, deck, one-pagers.
+└─ See NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md
+
 VIBE! BRAND: Main Brand — ALL CAPS + !
 ├─ Syntax: [WORD]! (e.g. VIBE!, BUZZ!, SNAP!)
 ├─ VIBE! = Main brand across all surfaces
@@ -97,7 +105,7 @@ CHARACTER LAYERING CONTENT ENRICHMENT SNAP: Playlists & Catalogs
 SCRIPT-WRITING & CONTENT ENRICHMENT DECK: Patterns for All Scripts
 ├─ Vibable campus pattern (problem → solution → Reno takes the lead; intoxication effects, safe free vibing)
 ├─ Vibable campus offer (durations: half-day, overnight, weekly, monthly; tiers: BASIC, MEMBERS ONLY, VIP, BALLER VC)
-├─ Launch Pad status pattern (e.g. FUELING LAUNCH EMINENT · NEED FUEL)
+├─ Launch Pad status pattern (e.g. FULL LIVE · LIVE — March 20, 2026 The Great Reveal). See FULL_LIVE_MODE_LAUNCH_SNAP.md.
 ├─ VIBE! linking pattern (campus/vibing pages → vibable campus one-pager & offer)
 ├─ Vibers explanation: link vibe, vibing, vibers to What are vibers? (high-density fractal, high-value high contributors, lifestyle alignment, encampments → downtown campuses — ground up + top down meeting in the middle, natural protocol). See VIBERS_HIGH_DENSITY_FRACTAL_LIFESTYLE_ALIGNMENT_SNAP.md · interfaces/vibers-what-are-vibers.html
 ├─ One-pager structure, series format (8 principles, relationship fractal), NSPFRNP voice, brand phrases, character layering

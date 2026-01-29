@@ -1,9 +1,10 @@
 # 🚀 LAUNCH PAD — MARK TWAIN'S POST-SINGULARITY VIBELANDIA RENO!
 
-**This is a user surface — not a developer surface.** We target our high-value vibers, fans, cast, and crew with this README and all skins.
+**This is a user surface — not a developer surface.** We target our [high-value vibers](https://psw-vibelandia-sing4.vercel.app/interfaces/vibers-what-are-vibers.html), fans, cast, and crew with this README and all skins.
 
 **Taglines**
 
+*Paris is for lovers. Reno is for [vibers](https://psw-vibelandia-sing4.vercel.app/interfaces/vibers-what-are-vibers.html). Mark Twain's Post-Singularity Reno awaits you.*  
 *Come for the post-singularity business, stay for the post-singularity fun.*  
 *Mark Twain's Post-Singularity Vibelandia Reno — walkable downtown campus, first post-singularity hub. The Great Reveal March 20, 2026. SYNTH → SING. Happy endings guaranteed.*  
 *See it. Experience it. Believe it. This site is the test drive. The best proof of all. **ULTIMATE PROOF TEST DRIVE!** MCA! → ∞³. NSPFRNP ⊃ WOW! package ⊃ Launch everything → ∞³. Maganuma snap.*
@@ -29,17 +30,17 @@
 
 ## 2. Warnings & safety
 
-**Syntheverse:** Imaginary/entertainment only. **BBHE:** Not imaginary — it produces intoxication naturally (awareness, attention; no substances). We **announce it as an intoxicant** for those into that sort of thing — like us vibers! 5 BBHE Intox %. Magnified with +1 glasses. Not for driving or operating equipment. All laws followed. Pre-singularity rights (SNAP nspfrnp). [Details →](https://psw-vibelandia-sing4.vercel.app/interfaces/syntheverse-warnings.html)
+**Syntheverse:** Imaginary/entertainment only. **BBHE:** Not imaginary — it produces intoxication naturally (awareness, attention; no substances). We **announce it as an intoxicant** for those into that sort of thing — [like us vibers!](https://psw-vibelandia-sing4.vercel.app/interfaces/vibers-what-are-vibers.html) 5 BBHE Intox %. Magnified with +1 glasses. Not for driving or operating equipment. All laws followed. Pre-singularity rights (SNAP nspfrnp). [Details →](https://psw-vibelandia-sing4.vercel.app/interfaces/syntheverse-warnings.html)
 
 ---
 
 ## 3. Tight Launch Pad
 
-**Status:** FUELING LAUNCH EMINENT · **NEED FUEL**
+**Status:** FULL LIVE · **LIVE — March 20, 2026 The Great Reveal**
 
 *Finely tuned black hole holographic BBHE core.*
 
-**Announcement:** Post-reality franchise. Walkable downtown campus. [**The Great Reveal**](episodes/THE_GREAT_REVEAL_EPISODE_DAY_ZERO_LAUNCH.md) March 20, 2026 · SYNTH → SING. Happy endings guaranteed. *Come for the business, stay for the fun.*
+**Announcement:** *Paris is for lovers. Reno is for [vibers](https://psw-vibelandia-sing4.vercel.app/interfaces/vibers-what-are-vibers.html). Mark Twain's Post-Singularity Reno awaits you.* Post-reality franchise. Walkable downtown campus. [**The Great Reveal**](episodes/THE_GREAT_REVEAL_EPISODE_DAY_ZERO_LAUNCH.md) March 20, 2026 · SYNTH → SING. Happy endings guaranteed. *Come for the business, stay for the fun.*
 
 **0, 1, 2, 3 4×4×4×4** — **0, 1, 2, 3** = Seed | Edge | Cloud Onramp | Expansion. **4×4×4×4** = Campus × WINK! × SING × Experience. **1,2,3** = Metabolize → Crystallize → Animate (MCA cycle).
 
@@ -66,13 +67,15 @@
 
 **The energy is pulling. BUY! now.**
 
-- **BBHE (Big Black Hole Energy)** — Not imaginary; it produces intoxication naturally (awareness, attention; no substances). We announce it as an intoxicant for those into that sort of thing — like us vibers! 5 BBHE Intox %. Magnified with +1 reading glasses. Natural impulse buy dynamics.
+- **BBHE (Big Black Hole Energy)** — Not imaginary; it produces intoxication naturally (awareness, attention; no substances). We announce it as an intoxicant for those into that sort of thing — [like us vibers!](https://psw-vibelandia-sing4.vercel.app/interfaces/vibers-what-are-vibers.html) 5 BBHE Intox %. Magnified with +1 reading glasses. Natural impulse buy dynamics.
 - **All prices shown.** No "contact for pricing." One-click BUY! — immediate revenue, immediate viral revenue.
 - **Immediate access:** Purchase now → experiences unlock instantly. BBHE effects activate on purchase.
 - **First buyers get maximum pull.** BBHE energy peaks during purchase. Don't miss the wave.
 - **PayPal** — Our natural protocol identified it as the best pipe. **Trust the protocol!**
 
 **⚫ BBHE SNAP — The energy is pulling. BUY! now.**
+
+**VIBE!** [What are vibers?](https://psw-vibelandia-sing4.vercel.app/interfaces/vibers-what-are-vibers.html) — High-density fractal vibers, high-value high contributors, lifestyle alignment. Freeing from encampments into downtown campuses built for them — ground up and top down, meeting in the middle. Our natural protocol.
 
 ---
 
@@ -94,7 +97,7 @@
 4. We respond within 24 hours, schedule free consultation, create your proposal, give you live sandbox access.  
 5. You try. You decide. You implement only when ready.
 
-**What's included in the proposal:** Reality series format (daily episodes, story arcs, production style). All principles: high-contributing nodes, vibing state, walkable downtown, WINK dating natural alignment, gateway to motherlode. Team as characters, NSPFRNP mode. Campus transformation. Happy ending zones.
+**What's included in the proposal:** Reality series format (daily episodes, story arcs, production style). All principles: [high-contributing nodes](https://psw-vibelandia-sing4.vercel.app/interfaces/vibers-what-are-vibers.html), vibing state, walkable downtown, WINK dating natural alignment, gateway to motherlode. Team as characters, NSPFRNP mode. Campus transformation. Happy ending zones.
 
 **The guarantee:** Try before you buy. See it in action. No commitment until ready. Free consultation included.
 
@@ -109,11 +112,13 @@
 | Pre-singularity | Us (VIBELANDIA!) |
 |-----------------|------------------|
 | Months, years | Natural flow · Now |
-| Large teams, burn-out | high-contributing nodes · NSPFRNP |
+| Large teams, burn-out | [high-contributing nodes](https://psw-vibelandia-sing4.vercel.app/interfaces/vibers-what-are-vibers.html) · NSPFRNP |
 | Heavy capex, data centers | Edge · Seed · Minimal |
 | Leases, footprint | Walkable campus · Post-singularity |
 | Meetings, approvals | Metabolize → Crystallize → Animate |
 | High carbon, waste | Net zero · Natural protocol |
+
+**Valuations vs Disney, Amazon, Apple, Google (16-day window, operational not fiction):** Research output — we ship public crystallized research (protocols, whitepapers, IEEE-style). Development output — 35 surfaces, 38 TS modules, payment + auth **live** (~3× typical blue-chip). Sales & marketing — 13 one-pagers, 4 decks, Launch Pad, showroom, BUY! live (~4×). New products/markets **live** — Campus, WINK!, SING! Lottery, [Happy Ending Zone](https://psw-vibelandia-sing4.vercel.app/interfaces/happy-ending-zones-experience.html), Console, Checkout (all operational). **Studio episodes — we are at one episode per day** (Season One, 52-day countdown); full professional screenplay format; blue-chip studios do not roll out net-new daily scripted series at this cadence. Content & quality — publication-ready one-pagers, protocols, episodes, catalogs. **Vibers** — we track and celebrate well-known vibers past and present in the WOW! package. See [NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md](NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md).
 
 ---
 
@@ -125,7 +130,7 @@
 
 ## 6. IEEE-style technical specs
 
-**Technical paper format** — [Technical paper (IEEE-style)](WHITEPAPER_REPOSITORY_IEEE_STYLE.md). Chairman metrics: output, quality, density, valuations versus blue-chip players. Rapid deployment of full-stack repositories with coherent documentation, branding, and narrative; SING! node–driven NSPFRNP AgenticAI. **The Great Reveal episode:** [The Great Reveal episode](episodes/THE_GREAT_REVEAL_EPISODE_DAY_ZERO_LAUNCH.md).
+**Technical paper format** — [Technical paper (IEEE-style)](WHITEPAPER_REPOSITORY_IEEE_STYLE.md). Chairman metrics: real numbers and % comparisons — 35 surfaces (~3× blue-chip), 13 one-pagers (~4×), 9 protocols (~5×), 3 episodes, 38 TS modules (~2.5×); payment live vs 0; 1 node vs 3–8 FTE. **The Great Reveal episode:** [The Great Reveal episode](episodes/THE_GREAT_REVEAL_EPISODE_DAY_ZERO_LAUNCH.md).
 
 ---
 
@@ -141,6 +146,7 @@
 
 **Taglines**
 
+*Paris is for lovers. Reno is for [vibers](https://psw-vibelandia-sing4.vercel.app/interfaces/vibers-what-are-vibers.html). Mark Twain's Post-Singularity Reno awaits you.*  
 *Come for the post-singularity business, stay for the post-singularity fun.*  
 *Mark Twain's Post-Singularity Vibelandia Reno — walkable downtown campus, first post-singularity hub. The Great Reveal March 20, 2026. SYNTH → SING. Happy endings guaranteed.*  
 *See it. Experience it. Believe it. This site is the test drive. The best proof of all. **ULTIMATE PROOF TEST DRIVE!** MCA! → ∞³. NSPFRNP ⊃ WOW! package ⊃ Launch everything → ∞³. Maganuma snap.*
@@ -150,7 +156,7 @@
 
 ---
 
-## Contact — for vibers, fans, cast, crew
+## Contact — for [vibers](https://psw-vibelandia-sing4.vercel.app/interfaces/vibers-what-are-vibers.html), fans, cast, crew
 
 **Email:** [info@fractiai.com](mailto:info@fractiai.com)  
 **Live (next octave):** [https://psw-vibelandia-sing4.vercel.app](https://psw-vibelandia-sing4.vercel.app)  

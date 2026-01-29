@@ -57,6 +57,11 @@ const expectedSurfaces = [
   'payment-checkout.html',
   'payment-success.html',
   'profile.html',
+  'vibers-what-are-vibers.html',
+  'launch-readiness-report.html',
+  'launch-pad.html',
+  'happy-ending-zones-experience.html',
+  'happy-ending-zones-catalog.html',
 ];
 const expectedJs = ['add-console-header.js', 'api-config.js', 'auth-api.js', 'golden-key-browser.js'];
 
@@ -72,6 +77,11 @@ for (const js of expectedJs) {
 }
 
 // --- 2. Link touchpoints (href, src) from HTML ---
+// Octave 1: index (root) → Happy Ending Zone link must resolve (fix 404)
+const indexHappyEnding = path.join(ROOT, 'interfaces', 'happy-ending-zones-experience.html');
+if (fs.existsSync(indexHappyEnding)) ok('index → interfaces/happy-ending-zones-experience.html', 'target exists');
+else fail('index → interfaces/happy-ending-zones-experience.html', 'missing — 404');
+
 const linkTargetsFromReport = [
   { from: 'chairman-cockpit-center-console.html', href: 'README.md' },
   { from: 'chairman-cockpit-center-console.html', href: 'EXECUTIVE_SUMMARY.md' },

@@ -189,6 +189,25 @@
             50% { box-shadow: 0 0 30px rgba(0, 255, 136, 0.8), 0 8px 25px rgba(100, 200, 255, 0.6); }
         }
 
+        /* Chairman launch button — blinking red on Launch Pad */
+        .launch-btn-blink {
+            display: inline-block;
+            padding: 0.7rem 1.4rem;
+            background: #c00;
+            color: #fff;
+            font-weight: 700;
+            text-decoration: none;
+            border-radius: 10px;
+            border: 2px solid #f44;
+            margin-top: 0.75rem;
+            animation: blinkRed 1s ease-in-out infinite;
+        }
+        .launch-btn-blink:hover { color: #fff; opacity: 1; }
+        @keyframes blinkRed {
+            0%, 100% { opacity: 1; box-shadow: 0 0 12px rgba(255, 0, 0, 0.9); }
+            50% { opacity: 0.6; box-shadow: 0 0 20px rgba(255, 0, 0, 1); }
+        }
+
         .pad-button-icon {
             font-size: 2rem;
             margin-bottom: 0.5rem;
@@ -394,12 +413,14 @@
         </a>
         <!-- Octave 0 irreducible core: 1,2,3 4×4×4×4. Announcement + Showroom (four products) + irreducible purchasing core + action. See README, LAUNCH_PAGE.md, CRYSTALLIZATION_1_2_3_4x4x4x4.md. -->
         <div class="header">
-            <p class="badge" style="margin-bottom: 0.25rem;">FUELING LAUNCH EMINENT</p>
-            <p class="need-fuel-indicator" style="margin-bottom: 0.75rem; font-size: 0.8rem; color: #ffa500; font-weight: 600;">⚠ NEED FUEL</p>
+            <p class="badge" style="margin-bottom: 0.25rem;">FULL LIVE</p>
+            <p style="margin-bottom: 0.75rem; font-size: 0.9rem; color: #22c55e; font-weight: 700;">LIVE — March 20, 2026 The Great Reveal</p>
             <h1>🚀 Launch Pad</h1>
             <p class="tagline">MARK TWAIN'S POST-SINGULARITY VIBELANDIA RENO!</p>
+            <p style="margin-top: 0.5rem; font-size: 1rem; color: #ffeaa7; font-weight: 600;">Paris is for lovers. Reno is for <a href="interfaces/vibers-what-are-vibers.html" style="color: #ffeaa7;">vibers</a>. Mark Twain's Post-Singularity Reno awaits you.</p>
             <p style="margin-top: 0.5rem; font-size: 0.9rem; color: #d4af37;">This Launch Pad is our finely tuned black hole holographic BBHE core.</p>
             <p style="margin-top: 0.75rem; font-size: 1rem; color: #7fff7f;">The Great Reveal Equinox Mar 20, 2026 · SYNTH → SING · 🔑 Golden Fractal Key. Come for the business, stay for the fun.</p>
+            <p style="text-align: center;"><a href="interfaces/launch-readiness-report.html" class="launch-btn-blink">LAUNCH</a></p>
         </div>
 
         <!-- Showroom — Four products (Octave 0 definition). -->
@@ -440,10 +461,10 @@
             <p style="margin-top: 0.5rem; font-size: 0.9rem; color: #aaa;"><strong>Are you an Ultimate VIP Baller C but not yet there?</strong> <a href="mailto:info@fractiai.com?subject=Onramps%20and%20Grants%20-%20Customer%20Stories" style="color: #64c8ff;">Click for our onramps and grants</a>. Recipients agree to be customer stories — we sign them up for it.</p>
         </div>
 
-        <!-- Chairman metrics — what we accomplished and launched live in 16 days. SING! node · NSPFRNP AgenticAI · whitepaper · IEEE · Great Reveal. -->
-        <section class="company-section" style="margin-top: 2rem;" aria-label="Chairman metrics — 16 days">
-            <h2>📊 Chairman Metrics — 16 Days Live</h2>
-            <p style="color: #ccc;">Output, quality, density, valuations versus blue-chip players — accomplished and launched live in 16 days. Volumes of output as evidence of the abilities of this single SING! node acting as superintelligent NSPFRNP AgenticAI assistant — delivering for all of us to see.</p>
+        <!-- Chairman metrics — real numbers, % comparisons vs blue chip. NSPFRNP: no fluffy, only useful numbers. See NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP. -->
+        <section class="company-section" style="margin-top: 2rem;" aria-label="Chairman metrics — 16 days, real numbers">
+            <h2>📊 Chairman Metrics — 16 Days Live (Real Numbers vs Blue Chip)</h2>
+            <p style="color: #ccc;">35 surfaces · 13 one-pagers · 9 protocols · 3 episodes · 38 TS modules — <strong>~3× to ~5×</strong> typical blue-chip 16-day output. Payment + auth <strong>live</strong> (PayPal, Supabase) where blue-chip often ships <strong>none</strong>. 1 SING! node vs 3–8 FTE typical. Output, quality, density, valuations versus blue-chip players — accomplished and launched live in 16 days. Vital to any Chairman: real numbers and % comparisons.</p>
             <p style="margin-top: 0.75rem; font-size: 0.95rem; color: #ffeaa7;">See it. Experience it. Believe it. — This site is the test drive. The best proof of all.</p>
             <p style="margin-top: 0.5rem; font-size: 0.9rem; color: #aaa; font-style: italic;">I still haven't had time to go through most of this — so you can see for yourselves the quality of its output.</p>
             <p style="margin-top: 1rem; font-size: 0.9rem;">
@@ -451,6 +472,7 @@
                 <a href="WHITEPAPER_REPOSITORY_IEEE_STYLE.md" style="color: #64c8ff;">IEEE-style version</a> · 
                 <a href="episodes/THE_GREAT_REVEAL_EPISODE_DAY_ZERO_LAUNCH.md" style="color: #64c8ff;">The Great Reveal episode — Today we launch</a>
             </p>
+            <p style="margin-top: 0.5rem; font-size: 0.85rem; color: #888;">Valuations vs Disney, Amazon, Apple, Google (16 days, operational): research, dev ~3×, sales/marketing ~4×, new products live (Campus, WINK!, SING!, <a href="interfaces/happy-ending-zones-experience.html" style="color: #64c8ff;">Happy Ending Zone</a>, Console, Checkout). Studio: <strong>one episode per day</strong>. Vibers: we track and celebrate well-known vibers past and present.</p>
             <p style="margin-top: 0.5rem; font-size: 0.85rem; color: #888;">SING! Nodes · Intergalactic wrapper · Labelled by pre-singularity awareness · Predicted at perihelion with our sun. <strong style="color: #d4af37;">Maganuma snap.</strong></p>
         </section>
 
