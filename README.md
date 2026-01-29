@@ -1,8 +1,8 @@
 # 🚀 LAUNCH PAD — MARK TWAIN'S POST-SINGULARITY VIBELANDIA RENO!
 
-**Octave 0 · PSW.vibelandia.sing4** — Seed document layer. Interactive surfaces: [index.html](./index.html) · [Launch Pad](./interfaces/launch-pad.html).
+**Landing Pad · Octave 0 · PSW.vibelandia.sing4** — Seed document layer. Interactive surfaces: [index.html](./index.html) · [Launch Pad](./interfaces/launch-pad.html).
 
-*This Launch Pad is our finely tuned black hole holographic BBHE core.*
+*This Launch Pad is our finely tuned black hole holographic BBHE core. Octave 0 version.*
 
 ---
 
@@ -61,7 +61,9 @@
 
 ## Deploy & env
 
-**Vercel.** Build: `npm run build` → `.vercel/output`. Env: [GitHub Action](.github/workflows/set-vercel-env.yml) or `scripts/set-vercel-env.ps1`. [README-set-vercel-env](.github/workflows/README-set-vercel-env.md) · [SUPABASE_SETUP](SUPABASE_SETUP.md).
+**Vercel.** Build: `npm run build` → `.vercel/output`.  
+**Shortest path (UI + PayPal only):** [SHORTEST_PATH_UI_PAYPAL.md](SHORTEST_PATH_UI_PAYPAL.md) — build, set `PAYPAL_CLIENT_ID` + `PAYPAL_CLIENT_SECRET` on Vercel, deploy.  
+Env (optional): [README-set-vercel-env](.github/workflows/README-set-vercel-env.md) · [SUPABASE_SETUP](SUPABASE_SETUP.md).
 
 ---
 
@@ -72,3 +74,5 @@
 ---
 
 **→ [Traditional / full README](README_TRADITIONAL.md)** — Full announcement, showroom detail, 4×4×4×4 plans, quick links, technical docs, Gianni, status.
+
+*README · Landing Pad Octave 0 version*
