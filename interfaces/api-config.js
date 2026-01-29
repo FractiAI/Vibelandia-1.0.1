@@ -1,12 +1,15 @@
 /**
  * Octave 2 API base URL — shared by profile, payments (orders/complete).
- * Syntheverse 7 Octave 2-3 Public Cloud Onramp.
+ * When served from Vibelandia deploy (psw-vibelandia-sing4), use same-origin so
+ * PayPal pipe hits local /api/payment/paypal/*. Otherwise Octave 2 Cloud Onramp.
  * Override via window.VIBELANDIA_API_BASE before loading auth-api.js if needed.
  */
 (function () {
-  if (typeof window !== 'undefined' && !window.VIBELANDIA_API_BASE) {
-    window.VIBELANDIA_API_BASE = 'https://syntheverse-poc.vercel.app';
-  }
+  if (typeof window === 'undefined') return;
+  if (window.VIBELANDIA_API_BASE !== undefined) return;
+  var host = window.location.hostname || '';
+  var isVibelandiaDeploy = host === 'psw-vibelandia-sing4.vercel.app' || (host.endsWith('.vercel.app') && host.indexOf('psw-vibelandia-sing4') !== -1) || host === 'localhost' || host === '127.0.0.1';
+  window.VIBELANDIA_API_BASE = isVibelandiaDeploy ? window.location.origin : 'https://syntheverse-poc.vercel.app';
 })();
 
 /**
@@ -22,6 +25,19 @@
   }
   if (!window.VIBELANDIA_SUPABASE_ANON_KEY) {
     window.VIBELANDIA_SUPABASE_ANON_KEY = '';
+  }
+})();
+
+/**
+ * Google OAuth client ID — for Google Identity Services (GIS) One Tap / Sign-in button on profile.
+ * Same client ID as configured in Supabase Dashboard → Auth → Providers → Google.
+ * Get from Google Cloud Console → APIs & Services → Credentials → OAuth 2.0 Client ID (Web).
+ * Optional: set VIBELANDIA_GOOGLE_CLIENT_ID or NEXT_PUBLIC_GOOGLE_CLIENT_ID at build or in window.
+ */
+(function () {
+  if (typeof window === 'undefined') return;
+  if (!window.VIBELANDIA_GOOGLE_CLIENT_ID && !window.NEXT_PUBLIC_GOOGLE_CLIENT_ID) {
+    window.VIBELANDIA_GOOGLE_CLIENT_ID = '';
   }
 })();
 

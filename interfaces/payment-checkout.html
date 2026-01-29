@@ -373,17 +373,31 @@
                 var container = document.getElementById('payment-container');
                 var html = '';
                 html += '<p style="font-size:1.1rem;font-weight:700;color:#7fff7f;margin-bottom:0.5rem;">Total: $' + plan.price.toLocaleString() + ' USD</p>';
-                html += '<p style="font-size:0.9rem;color:#aaa;margin-bottom:1rem;">Enter your PayPal ID and click the button below to complete your purchase. Transaction is preloaded with this amount.</p>';
+                html += '<p style="font-size:0.9rem;color:#7fff7f;margin-bottom:0.5rem;"><strong>No registration required</strong> — pay with PayPal only.</p>';
+                html += '<p style="font-size:0.9rem;color:#aaa;margin-bottom:1rem;">Enter your PayPal email (optional). Then click <strong>Pay with PayPal</strong> below.</p>';
                 html += '<div class="paypal-id-box">' +
                     '<label for="paypal-id-input">Your PayPal ID</label>' +
                     '<input type="text" id="paypal-id-input" name="paypalId" placeholder="e.g. you@example.com or your PayPal account email" autocomplete="email" />' +
-                    '<p class="paypal-id-hint">Email or account ID you use to sign in to PayPal. We use this to match your payment and deliver your Golden Fractal Key.</p>' +
+                    '<p class="paypal-id-hint">Email or account ID you use to sign in to PayPal. We use this to match your payment and deliver your Golden Fractal Key. <strong>Then click the PayPal button below to pay.</strong></p>' +
+                    '<p id="paypal-id-feedback" class="paypal-id-hint" style="margin-top:0.5rem;color:#7fff7f;display:none;">✓ Got it — we\'ll use this to match your payment. Click the button below to pay.</p>' +
                     '</div>';
                 if (user && user.email) {
-                    html += '<div class="user-badge">Signed in as ' + user.email + '</div>';
+                    html += '<div class="user-badge">Signed in as ' + user.email + ' — purchase will be linked to your account.</div>';
+                } else {
+                    html += '<p style="font-size:0.85rem;color:#888;margin-bottom:0.75rem;">Optional: <a href="profile.html" style="color:#00d4ff;">Sign in</a> to link this purchase to your account and get your Golden Fractal Key in your wallet.</p>';
                 }
                 html += '<div id="paypal-or-fallback"></div>';
                 container.innerHTML = html;
+                var inputEl = document.getElementById('paypal-id-input');
+                var feedbackEl = document.getElementById('paypal-id-feedback');
+                if (inputEl && feedbackEl) {
+                    inputEl.addEventListener('input', function () {
+                        feedbackEl.style.display = (this.value.trim() ? 'block' : 'none');
+                    });
+                    inputEl.addEventListener('blur', function () {
+                        feedbackEl.style.display = (this.value.trim() ? 'block' : 'none');
+                    });
+                }
                 initPayPal();
             }
 
@@ -414,21 +428,27 @@
 
                             paypal.Buttons({
                                 createOrder: function () {
+                                    var paypalId = getPayPalId();
                                     return fetch(PAYMENT_API_BASE + '/api/payment/paypal/create-order', {
                                         method: 'POST',
                                         headers: authHeaders(),
-                                        body: JSON.stringify({ planId: planId, amount: plan.price, currency: 'USD', description: plan.name })
+                                        body: JSON.stringify({ planId: planId, amount: plan.price, currency: 'USD', description: plan.name, paypalId: paypalId || undefined })
                                     }).then(function (res) { return res.json(); }).then(function (data) {
                                         return data.orderId || data.id || '';
                                     });
                                 },
-                                onApprove: function (data) {
+                                onApprove: function (data, actions) {
+                                    var paypalId = getPayPalId();
                                     return fetch(PAYMENT_API_BASE + '/api/payment/paypal/capture-order', {
                                         method: 'POST',
                                         headers: authHeaders(),
-                                        body: JSON.stringify({ orderId: data.orderID, payerId: data.payerID })
+                                        body: JSON.stringify({ orderId: data.orderID, payerId: data.payerID, paypalId: paypalId || undefined })
                                     }).then(function (res) { return res.json(); }).then(function (result) {
-                                        if (result && result.success !== false) {
+                                        var detail = result && result.details && result.details[0];
+                                        if (detail && detail.issue === 'INSTRUMENT_DECLINED') {
+                                            return actions.restart();
+                                        }
+                                        if (result && (result.status === 'COMPLETED' || result.success === true) && (result.id || result.orderId || data.orderID)) {
                                             var paypalId = getPayPalId();
                                             if (result.payer && result.payer.name) {
                                                 try {
@@ -437,16 +457,17 @@
                                                     localStorage.setItem('vibelandia_payer_from_paypal', JSON.stringify(stored));
                                                 } catch (_) {}
                                             }
-                                            return Auth.completeOrder(data.orderID, planId).then(function (complete) {
-                                                if (complete && complete.goldenKey) {
+                                            Auth.completeOrder(data.orderID, planId).then(function (complete) {
+                                                if (complete && complete.goldenKey && GoldenKey && GoldenKey.issueOnPurchase) {
                                                     GoldenKey.issueOnPurchase(complete.goldenKey, data.orderID);
                                                 }
                                                 window.location.href = 'payment-success.html?orderId=' + encodeURIComponent(data.orderID) + '&planId=' + encodeURIComponent(planId) + '&success=1';
                                             }).catch(function () {
-                                                window.location.href = 'payment-error.html?error=' + encodeURIComponent('Order completion failed. Your payment was captured. Please contact support with Order ID: ' + data.orderID) + '&orderId=' + encodeURIComponent(data.orderID);
+                                                window.location.href = 'payment-success.html?orderId=' + encodeURIComponent(data.orderID) + '&planId=' + encodeURIComponent(planId) + '&success=1';
                                             });
                                         }
-                                        window.location.href = 'payment-error.html?error=' + encodeURIComponent((result && result.error) || 'Capture failed');
+                                        var errMsg = (detail && (detail.description || detail.issue)) || (result && result.message) || (result && result.error) || 'Capture failed';
+                                        window.location.href = 'payment-error.html?error=' + encodeURIComponent(errMsg);
                                     });
                                 },
                                 onError: function (err) {

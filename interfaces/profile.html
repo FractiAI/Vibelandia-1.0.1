@@ -93,11 +93,65 @@
             }
 
             function renderAuthRequired() {
-                content.innerHTML = '<div class="card auth-required">' +
+                var html = '<div class="card auth-required">' +
                     '<h2>Sign in to view profile</h2>' +
                     '<p>Your NSPFRNP wallet (Golden Fractal Key) is available after you sign in.</p>' +
-                    '<a href="payment-checkout.html?plan=campus-day" class="btn">Sign in / Checkout</a>' +
+                    '<p style="margin-bottom:1rem;"><button type="button" class="btn" id="btn-google-redirect">Sign in with Google</button></p>' +
+                    '<a href="payment-checkout.html?plan=campus-day" class="btn">Checkout (no sign-in required)</a>' +
                     '</div>';
+                content.innerHTML = html;
+                document.getElementById('btn-google-redirect').addEventListener('click', function () {
+                    Auth.getGoogleAuthUrl(window.location.href).then(function (url) { if (url) window.location.href = url; });
+                });
+                var googleClientId = Auth.getGoogleClientId && Auth.getGoogleClientId();
+                if (googleClientId) {
+                    var gsiDiv = document.createElement('div');
+                    gsiDiv.id = 'gsi-one-tap-container';
+                    gsiDiv.style.marginTop = '1rem';
+                    content.querySelector('.auth-required').appendChild(gsiDiv);
+                    loadGSIAndRender(googleClientId, gsiDiv);
+                }
+            }
+
+            function loadGSIAndRender(clientId, container) {
+                if (window.google && window.google.accounts && window.google.accounts.id) {
+                    renderGSIButton(clientId, container);
+                    return;
+                }
+                var script = document.createElement('script');
+                script.src = 'https://accounts.google.com/gsi/client';
+                script.async = true;
+                script.onload = function () { renderGSIButton(clientId, container); };
+                document.head.appendChild(script);
+            }
+
+            function renderGSIButton(clientId, container) {
+                if (!window.google || !window.google.accounts || !window.google.accounts.id) return;
+                window.google.accounts.id.initialize({
+                    client_id: clientId,
+                    callback: function (response) {
+                        Auth.signInWithGoogleIdToken(response.credential).then(function (data) {
+                            if (data && data.user) {
+                                renderLoading();
+                                Auth.getProfile().then(function (profile) {
+                                    if (profile && profile.user) renderProfile(profile);
+                                    else renderProfile({ user: data.user, wallet: null });
+                                }).catch(function () { renderProfile({ user: data.user, wallet: null }); });
+                            }
+                        });
+                    },
+                    use_fedcm_for_prompt: true
+                });
+                var btnWrap = document.createElement('div');
+                btnWrap.className = 'g_id_signin';
+                btnWrap.setAttribute('data-type', 'standard');
+                btnWrap.setAttribute('data-shape', 'rect');
+                btnWrap.setAttribute('data-theme', 'filled_black');
+                btnWrap.setAttribute('data-text', 'signin_with');
+                btnWrap.setAttribute('data-size', 'large');
+                btnWrap.setAttribute('data-width', '280');
+                container.appendChild(btnWrap);
+                window.google.accounts.id.renderButton(btnWrap, { type: 'standard', size: 'large', theme: 'filled_black', width: 280 });
             }
 
             function maskKey(k) {

@@ -84,7 +84,39 @@ const minimalIco = Buffer.from([
 mkdirp(path.dirname(faviconIco));
 fs.writeFileSync(faviconIco, minimalIco);
 
-// Build Output API v3 config — static only
+// PayPal API serverless functions — emit into Build Output API v3
+const apiPayPalDir = path.join(root, 'api', 'payment', 'paypal');
+const functionsDir = path.join(outDir, 'functions');
+const paypalRoutes = ['config', 'create-order', 'capture-order'];
+const vcConfig = {
+  runtime: 'nodejs20.x',
+  handler: 'index.js',
+  launcherType: 'Nodejs',
+  shouldAddHelpers: true,
+};
+
+if (fs.existsSync(apiPayPalDir)) {
+  mkdirp(functionsDir);
+  for (const name of paypalRoutes) {
+    const srcFile = path.join(apiPayPalDir, `${name}.js`);
+    if (!fs.existsSync(srcFile)) continue;
+    const funcDir = path.join(functionsDir, 'api', 'payment', 'paypal', `${name}.func`);
+    mkdirp(funcDir);
+    fs.copyFileSync(srcFile, path.join(funcDir, 'index.js'));
+    fs.writeFileSync(
+      path.join(funcDir, '.vc-config.json'),
+      JSON.stringify(vcConfig, null, 2),
+      'utf8'
+    );
+    fs.writeFileSync(
+      path.join(funcDir, 'package.json'),
+      JSON.stringify({ type: 'module' }, null, 2),
+      'utf8'
+    );
+  }
+}
+
+// Build Output API v3 config — static + serverless
 const config = {
   version: 3,
   routes: [
@@ -93,9 +125,6 @@ const config = {
   ]
 };
 
-// For static-only we want / to serve index.html; filesystem handle does that when file exists.
-// So we only need filesystem then fallback. Actually for static, just filesystem is enough:
-// Vercel will serve /index.html as / and /interfaces/foo.html as /interfaces/foo.html.
 config.routes = [{ handle: 'filesystem' }];
 
 fs.writeFileSync(
@@ -108,3 +137,6 @@ console.log('Vercel static output written to .vercel/output/');
 console.log('  static/index.html');
 console.log('  static/favicon.ico');
 console.log('  static/interfaces/*');
+if (fs.existsSync(apiPayPalDir)) {
+  console.log('  functions/api/payment/paypal/*.func (PayPal pipe)');
+}

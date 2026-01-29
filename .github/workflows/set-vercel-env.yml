@@ -21,6 +21,13 @@ jobs:
           VIBELANDIA_SUPABASE_URL: ${{ secrets.VIBELANDIA_SUPABASE_URL }}
           VIBELANDIA_PAYPAL_CLIENT_ID: ${{ secrets.VIBELANDIA_PAYPAL_CLIENT_ID }}
           NEXT_PUBLIC_PAYPAL_CLIENT_ID: ${{ secrets.NEXT_PUBLIC_PAYPAL_CLIENT_ID }}
+          PAYPAL_CLIENT_ID: ${{ secrets.PAYPAL_CLIENT_ID }}
+          PAYPAL_CLIENT_SECRET: ${{ secrets.PAYPAL_CLIENT_SECRET }}
+          PAYPAL_MODE: ${{ secrets.PAYPAL_MODE }}
+          PAYPAL_CLIENT_ID_SANDBOX: ${{ secrets.PAYPAL_CLIENT_ID_SANDBOX }}
+          PAYPAL_CLIENT_SECRET_SANDBOX: ${{ secrets.PAYPAL_CLIENT_SECRET_SANDBOX }}
+          PAYPAL_CLIENT_ID_LIVE: ${{ secrets.PAYPAL_CLIENT_ID_LIVE }}
+          PAYPAL_CLIENT_SECRET_LIVE: ${{ secrets.PAYPAL_CLIENT_SECRET_LIVE }}
         run: |
           set -e
           PROJECT="${VERCEL_PROJECT_ID:-psw-vibelandia-sing4}"
@@ -49,4 +56,11 @@ jobs:
           push_var "VIBELANDIA_SUPABASE_URL" "$VIBELANDIA_SUPABASE_URL" "plain"
           push_var "VIBELANDIA_PAYPAL_CLIENT_ID" "$VIBELANDIA_PAYPAL_CLIENT_ID" "plain"
           push_var "NEXT_PUBLIC_PAYPAL_CLIENT_ID" "$NEXT_PUBLIC_PAYPAL_CLIENT_ID" "plain"
+          push_var "PAYPAL_CLIENT_ID" "$PAYPAL_CLIENT_ID" "plain"
+          push_var "PAYPAL_CLIENT_SECRET" "$PAYPAL_CLIENT_SECRET" "secret"
+          push_var "PAYPAL_MODE" "$PAYPAL_MODE" "plain"
+          push_var "PAYPAL_CLIENT_ID_SANDBOX" "$PAYPAL_CLIENT_ID_SANDBOX" "plain"
+          push_var "PAYPAL_CLIENT_SECRET_SANDBOX" "$PAYPAL_CLIENT_SECRET_SANDBOX" "secret"
+          push_var "PAYPAL_CLIENT_ID_LIVE" "$PAYPAL_CLIENT_ID_LIVE" "plain"
+          push_var "PAYPAL_CLIENT_SECRET_LIVE" "$PAYPAL_CLIENT_SECRET_LIVE" "secret"
           echo "Done. Redeploy the project for changes to take effect."

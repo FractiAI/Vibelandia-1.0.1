@@ -16,6 +16,12 @@ This workflow pushes environment variables to your Vercel project so you don’t
 | `NEXT_PUBLIC_SUPABASE_URL` | Optional | Supabase project URL |
 | `VIBELANDIA_PAYPAL_CLIENT_ID` | Optional | PayPal client ID (for checkout button) |
 | `NEXT_PUBLIC_PAYPAL_CLIENT_ID` | Optional | Same (if you use this name) |
+| **PayPal pipe** (for `/api/payment/paypal/*`) | | |
+| `PAYPAL_CLIENT_ID` | Optional | PayPal app Client ID (or use *_SANDBOX / *_LIVE) |
+| `PAYPAL_CLIENT_SECRET` | Optional | PayPal app Client Secret (stored as secret) |
+| `PAYPAL_MODE` | Optional | `sandbox` or `production` |
+| `PAYPAL_CLIENT_ID_SANDBOX` / `PAYPAL_CLIENT_SECRET_SANDBOX` | Optional | Sandbox credentials |
+| `PAYPAL_CLIENT_ID_LIVE` / `PAYPAL_CLIENT_SECRET_LIVE` | Optional | Live credentials |
 | `VERCEL_PROJECT_ID` | Optional | Default: `psw-vibelandia-sing4` |
 | `VERCEL_TEAM_ID` | Optional | Only if project is under a team |
 

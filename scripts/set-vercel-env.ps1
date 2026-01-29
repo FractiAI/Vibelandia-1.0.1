@@ -27,6 +27,8 @@ if (-not $token) { Write-Error "VERCEL_TOKEN not in .env.nspfrnp"; exit 1 }
 if (-not $env["VIBELANDIA_SUPABASE_ANON_KEY"]) { $env["VIBELANDIA_SUPABASE_ANON_KEY"] = $env["NEXT_PUBLIC_SUPABASE_ANON_KEY"] }
 if (-not $env["VIBELANDIA_SUPABASE_URL"]) { $env["VIBELANDIA_SUPABASE_URL"] = $env["NEXT_PUBLIC_SUPABASE_URL"] }
 if (-not $env["VIBELANDIA_PAYPAL_CLIENT_ID"]) { $env["VIBELANDIA_PAYPAL_CLIENT_ID"] = $env["PAYPAL_CLIENT_ID_SANDBOX"] }
+if (-not $env["VIBELANDIA_PAYPAL_CLIENT_ID"]) { $env["VIBELANDIA_PAYPAL_CLIENT_ID"] = $env["PAYPAL_CLIENT_ID"] }
+if (-not $env["NEXT_PUBLIC_PAYPAL_CLIENT_ID"]) { $env["NEXT_PUBLIC_PAYPAL_CLIENT_ID"] = $env["VIBELANDIA_PAYPAL_CLIENT_ID"] }
 
 $project = $env["VERCEL_PROJECT_ID"]; if (-not $project) { $project = "psw-vibelandia-sing4" }
 $teamId = $env["VERCEL_TEAM_ID"]
@@ -39,6 +41,13 @@ $vars = @(
     @{ Key = "VIBELANDIA_SUPABASE_URL"; Val = $env["VIBELANDIA_SUPABASE_URL"]; Type = "plain" },
     @{ Key = "VIBELANDIA_PAYPAL_CLIENT_ID"; Val = $env["VIBELANDIA_PAYPAL_CLIENT_ID"]; Type = "plain" },
     @{ Key = "NEXT_PUBLIC_PAYPAL_CLIENT_ID"; Val = $env["NEXT_PUBLIC_PAYPAL_CLIENT_ID"]; Type = "plain" },
+    @{ Key = "PAYPAL_CLIENT_ID"; Val = $env["PAYPAL_CLIENT_ID"]; Type = "plain" },
+    @{ Key = "PAYPAL_CLIENT_SECRET"; Val = $env["PAYPAL_CLIENT_SECRET"]; Type = "secret" },
+    @{ Key = "PAYPAL_MODE"; Val = $env["PAYPAL_MODE"]; Type = "plain" },
+    @{ Key = "PAYPAL_CLIENT_ID_SANDBOX"; Val = $env["PAYPAL_CLIENT_ID_SANDBOX"]; Type = "plain" },
+    @{ Key = "PAYPAL_CLIENT_SECRET_SANDBOX"; Val = $env["PAYPAL_CLIENT_SECRET_SANDBOX"]; Type = "secret" },
+    @{ Key = "PAYPAL_CLIENT_ID_LIVE"; Val = $env["PAYPAL_CLIENT_ID_LIVE"]; Type = "plain" },
+    @{ Key = "PAYPAL_CLIENT_SECRET_LIVE"; Val = $env["PAYPAL_CLIENT_SECRET_LIVE"]; Type = "secret" },
     @{ Key = "NEXT_PUBLIC_WEBSITE_URL"; Val = $env["NEXT_PUBLIC_WEBSITE_URL"]; Type = "plain" }
 )
 

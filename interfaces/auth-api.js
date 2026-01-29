@@ -1,7 +1,9 @@
 /**
  * Auth API — Supabase handles auth (and Google OAuth).
+ * Patterns follow Supabase "Login with Google" and Google Identity Services (GIS).
  * Token (Supabase access_token) stored in localStorage; sent as Authorization: Bearer to Octave 2 for profile/orders.
  * Fallback: if Supabase not configured, uses Octave 2 auth endpoints.
+ * Ref: https://supabase.com/docs/guides/auth/social-login/auth-google
  */
 (function () {
   var BASE = typeof window !== 'undefined' && window.VIBELANDIA_API_BASE
@@ -165,20 +167,54 @@
   /**
    * Returns Promise<string> — URL to redirect to for Google sign-in (or Octave 2 URL).
    * Uses a single callback URL (profile.html) so Supabase Redirect URLs need only one entry per deployment.
-   * Caller should do: Auth.getGoogleAuthUrl().then(function(url) { if (url) location.href = url; });
+   * Optional queryParams (e.g. access_type: 'offline', prompt: 'consent') per Supabase docs for Google tokens.
+   * Caller: Auth.getGoogleAuthUrl().then(function(url) { if (url) location.href = url; });
    */
-  function getGoogleAuthUrl(returnUrl) {
+  function getGoogleAuthUrl(returnUrl, queryParams) {
     var origin = typeof window !== 'undefined' && window.location ? window.location.origin : '';
     var callbackUrl = origin ? (origin + '/interfaces/profile.html') : (returnUrl || '');
     var url = callbackUrl || returnUrl || '';
     if (useSupabase()) {
       var supabase = getSupabase();
       if (!supabase) return Promise.resolve('');
-      return supabase.auth.signInWithOAuth({ provider: 'google', options: { redirectTo: url } })
+      var options = { redirectTo: url };
+      if (queryParams && typeof queryParams === 'object') options.queryParams = queryParams;
+      return supabase.auth.signInWithOAuth({ provider: 'google', options: options })
         .then(function (r) { return (r.data && r.data.url) || ''; })
         .catch(function () { return ''; });
     }
     return Promise.resolve(BASE + '/api/auth/google?redirect_uri=' + encodeURIComponent(url));
+  }
+
+  /**
+   * Sign in with Google using ID token from Google Identity Services (One Tap / button).
+   * Use when GSI is loaded and you have response.credential. No redirect.
+   * Ref: Supabase "Google pre-built" — signInWithIdToken({ provider: 'google', token: response.credential }).
+   */
+  function signInWithGoogleIdToken(credential, nonce) {
+    if (!useSupabase() || !credential) return Promise.resolve(null);
+    var supabase = getSupabase();
+    if (!supabase || !supabase.auth.signInWithIdToken) return Promise.resolve(null);
+    var opts = { provider: 'google', token: credential };
+    if (nonce) opts.nonce = nonce;
+    return supabase.auth.signInWithIdToken(opts)
+      .then(function (r) {
+        if (r.data && r.data.session) {
+          var session = r.data.session;
+          var user = session.user;
+          var u = { id: user.id, email: user.email || '', displayName: user.user_metadata?.full_name || user.user_metadata?.name || null, avatarUrl: user.user_metadata?.avatar_url || null };
+          setToken(session.access_token, u);
+          return { token: session.access_token, user: u };
+        }
+        return null;
+      })
+      .catch(function () { return null; });
+  }
+
+  /** Optional Google OAuth client ID for GSI (One Tap / button). Same client ID as in Supabase Google provider. */
+  function getGoogleClientId() {
+    if (typeof window === 'undefined') return '';
+    return (window.VIBELANDIA_GOOGLE_CLIENT_ID || window.NEXT_PUBLIC_GOOGLE_CLIENT_ID || '').trim();
   }
 
   /**
@@ -243,6 +279,8 @@
     signup: signup,
     logout: logout,
     getGoogleAuthUrl: getGoogleAuthUrl,
+    signInWithGoogleIdToken: signInWithGoogleIdToken,
+    getGoogleClientId: getGoogleClientId,
     consumeOAuthToken: consumeOAuthToken,
     getStoredUser: getStoredUser,
     getProfile: getProfile,
