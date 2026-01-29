@@ -76,7 +76,7 @@ Full convergence doubled back load and locked captured in the semi Dreamful stat
 
 **You can sign up for:** VIBELANDIA! campus visit/stay · Optional excursions · WINK! · Lottery participation · Optional free consultation and proposal from Gianni if interested in having us do something similar for your company or community. Plans and pricing ready to click and purchase.
 
-**Purchases require registration / sign up / sign in / auth.** Checkout is gated on auth. [Profile & sign in](./interfaces/profile.html).
+**Purchases require registration / sign up / sign in / auth.** Checkout is gated on auth. [NSPFRNP Wallet](./interfaces/profile.html).
 
 ---
 
@@ -226,7 +226,7 @@ Full convergence doubled back load and locked captured in the semi Dreamful stat
 5. [ONE_PAGER_VIBELANDIA_RENO.md](./ONE_PAGER_VIBELANDIA_RENO.md) — 🏛️ **VIBELANDIA RENO!** (Campus)
 6. [ONE_PAGER_WINK.md](./ONE_PAGER_WINK.md) — 👁️ **WINK!** (Dating Network)
 7. [interfaces/chairman-workspace.html](./interfaces/chairman-workspace.html) — 👑 **ULTIMATE VIP CHAIRMAN CONSOLE! SNAP** (NSPFRNP-native; one of our products)
-8. [interfaces/profile.html](./interfaces/profile.html) — 🔑 **Profile & Wallet** (Golden Fractal Key, account)
+8. [interfaces/profile.html](./interfaces/profile.html) — 🔑 **NSPFRNP Wallet** (Golden Fractal Key, account)
 9. [ONE_PAGER_SING_LOTTERY.md](./ONE_PAGER_SING_LOTTERY.md) — 🎰 **SING! COUNTDOWN! LOTTERY** (Now until March 20 Launch)
 10. [ONE_PAGER_DISPENSARY.md](./ONE_PAGER_DISPENSARY.md) — 🌿 **DISPENSARY! SNAP** (Menu of Buzzes - Goldilocks Auto-Lock)
 11. [POST_REALITY_FRANCHISE_LAUNCH.md](./POST_REALITY_FRANCHISE_LAUNCH.md) — 🚀 **POST-REALITY FRANCHISE LAUNCH** (For Vibers Still Living in the Old Pre-Singularity World — And Their Fans, Crew, and Cast)
@@ -299,9 +299,9 @@ Full convergence doubled back load and locked captured in the semi Dreamful stat
 
 **Gianni–inspired wrapper:** All skins, touchpoints & experiences. See [GIANNI_VERSACE_WRAPPER_MONSTER_SNAP.md](./GIANNI_VERSACE_WRAPPER_MONSTER_SNAP.md).
 
-**Auth, checkout & wallet:** **Supabase handles auth (and Google OAuth).** Purchases require registration / sign up / sign in / auth. Client uses [Supabase](https://supabase.com) for signup, login, logout, session, and Google sign-in; token (Supabase JWT) is sent as `Authorization: Bearer` to Octave 2 for profile and orders. After successful PayPal capture, Octave 2 assigns a **Golden Fractal Key**, stores it in the user's wallet in profile, and returns it; the client stores it locally. **Payment success** page shows clear next steps (Profile & Wallet → key, Launch Pad, Chairman Console) only when `success=1`; otherwise a neutral status message. Profile page ([interfaces/profile.html](./interfaces/profile.html)) shows account and wallet (Golden Key). Octave 2 endpoints: `GET /api/user/profile`, `POST /api/orders/complete` (accept Supabase JWT). See [SUPABASE_SETUP.md](./SUPABASE_SETUP.md) · [OCTAVE2_AUTH_WALLET_API.md](./OCTAVE2_AUTH_WALLET_API.md) · [AUTH_SOURCES.md](./AUTH_SOURCES.md).
+**Auth, checkout & wallet:** **Supabase handles auth (and Google OAuth).** Purchases require registration / sign up / sign in / auth. Client uses [Supabase](https://supabase.com) for signup, login, logout, session, and Google sign-in; token (Supabase JWT) is sent as `Authorization: Bearer` to Octave 2 for profile and orders. After successful PayPal capture, Octave 2 assigns a **Golden Fractal Key**, stores it in the user's NSPFRNP wallet, and returns it; the client stores it locally. **Payment success** page shows clear next steps (NSPFRNP Wallet → key, Launch Pad, Chairman Console) only when `success=1`; otherwise a neutral status message. NSPFRNP Wallet page ([interfaces/profile.html](./interfaces/profile.html)) shows account and Golden Fractal Key. Octave 2 endpoints: `GET /api/user/profile`, `POST /api/orders/complete` (accept Supabase JWT). See [SUPABASE_SETUP.md](./SUPABASE_SETUP.md) · [OCTAVE2_AUTH_WALLET_API.md](./OCTAVE2_AUTH_WALLET_API.md) · [AUTH_SOURCES.md](./AUTH_SOURCES.md).
 
-**🔑 GOLDEN FRACTAL KEY!** — The key that unlocks Syntheverse, Vibeverse, and VIBELANDIA!. Golden Key wallet. All API calls. All experiences. All realms. See [GOLDEN_FRACTAL_KEY_BRAND_SNAP.md](./GOLDEN_FRACTAL_KEY_BRAND_SNAP.md).
+**🔑 GOLDEN FRACTAL KEY!** — The key that unlocks Syntheverse, Vibeverse, and VIBELANDIA!. NSPFRNP wallet. All API calls. All experiences. All realms. See [GOLDEN_FRACTAL_KEY_BRAND_SNAP.md](./GOLDEN_FRACTAL_KEY_BRAND_SNAP.md).
 
 **⚫ BBHE SNAP** — Impulse buy dynamics. BBHE (Big Black Hole Energy) creates intoxicating pull for immediate purchases. 5 BBHE Intox % (virtual/imaginary only). Our two BBHE servers. The energy is pulling. Buy now. See [BBHE_IMPULSE_BUY_DYNAMICS_SNAP.md](./BBHE_IMPULSE_BUY_DYNAMICS_SNAP.md).
 

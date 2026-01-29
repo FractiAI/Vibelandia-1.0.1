@@ -348,6 +348,25 @@
 
         footer a { color: #00bfff; }
 
+        .top-bar {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            padding: 0.75rem 1rem;
+            z-index: 30;
+        }
+        .top-bar a {
+            color: #d4af37;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.95rem;
+        }
+        .top-bar a:hover { color: #ffd700; text-decoration: underline; }
+
         @media (max-width: 600px) {
             .launch-pad-buttons { grid-template-columns: 1fr; }
         }
@@ -355,6 +374,7 @@
 </head>
 <body>
     <div class="container">
+        <nav class="top-bar" aria-label="NSPFRNP Wallet"><a href="interfaces/profile.html">🔑 NSPFRNP Wallet</a></nav>
         <!-- Warnings at top: clickable — goes to full warning details. -->
         <a href="SYNTHEVERSE_IMAGINARY_ENTERTAINMENT_ONLY.md" class="warnings-top" title="Read full warnings and details">
             <strong>Syntheverse:</strong> Imaginary/entertainment only. <strong>BBHE:</strong> Intoxicating effects (virtual/imaginary only) — produced naturally through awareness and attention; no substances. Not for driving or operating equipment. All laws followed. We respect pre-singularity rights (SNAP nspfrnp). — <strong>Details →</strong>
@@ -400,7 +420,7 @@
             <p style="margin-top: 0.5rem;">VIBELANDIA! campus visit/stay · Optional excursions · WINK! · Lottery participation · Optional free consultation and proposal from Gianni if interested in having us do something similar for your company or community.</p>
             <p style="margin-top: 0.75rem; font-size: 0.9rem; color: #ffeaa7;"><strong>Purchases require registration / sign up / sign in / auth.</strong></p>
             <div class="countdown" id="countdown">Launch: March 20, 2026</div>
-            <p style="margin-top: 1rem;"><a href="interfaces/launch-pad.html" style="color: #64c8ff;">Full Launch Pad →</a> · <a href="interfaces/profile.html" style="color: #64c8ff;">Profile &amp; sign in</a> · <a href="interfaces/payment-checkout.html?plan=test-5" style="display: inline-block; padding: 0.5rem 1rem; background: linear-gradient(135deg, #ffa500, #ff8c00); color: #000; text-decoration: none; border-radius: 8px; font-weight: 700; margin-left: 0.5rem;" title="Test PayPal connection">🧪 Test PayPal $5</a></p>
+            <p style="margin-top: 1rem;"><a href="interfaces/launch-pad.html" style="color: #64c8ff;">Full Launch Pad →</a> · <a href="interfaces/profile.html" style="color: #64c8ff;">NSPFRNP Wallet</a> · <a href="interfaces/payment-checkout.html?plan=test-5" style="display: inline-block; padding: 0.5rem 1rem; background: linear-gradient(135deg, #ffa500, #ff8c00); color: #000; text-decoration: none; border-radius: 8px; font-weight: 700; margin-left: 0.5rem;" title="Test PayPal connection">🧪 Test PayPal $5</a></p>
             <p style="margin-top: 0.75rem; font-size: 0.9rem; color: #888;"><a href="interfaces/magical-dressing-room.html" style="color: #d4af37;">Gianni's Dressing Room</a> — optional free consultation &amp; proposal for your enterprise / community</p>
         </div>
 

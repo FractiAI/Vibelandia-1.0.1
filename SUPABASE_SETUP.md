@@ -77,6 +77,7 @@ NEXT_PUBLIC_WEBSITE_URL=https://psw-vibelandia-sing4.vercel.app
 The Syntheverse Cloud Onramp database includes:
 
 - **users** - User accounts (shared across all nodes)
+- **wallets** - NSPFRNP wallets (Golden Fractal Key per user/order); add if missing; see [SCHEMA_COMPATIBILITY_NSPFRNP.md](./SCHEMA_COMPATIBILITY_NSPFRNP.md)
 - **poc_submissions** - Proof-of-Contribution submissions
 - **customers** - Stripe customer data
 - **chat_rooms**, **chat_messages**, **chat_participants** - WorkChat system
@@ -84,7 +85,7 @@ The Syntheverse Cloud Onramp database includes:
 - **enterprise_sandboxes**, **enterprise_contributions** - Enterprise features
 - And more...
 
-**All tables available** to Vibelandia nodes via shared Supabase connection.
+**All tables available** to Vibelandia nodes via shared Supabase connection. **Existing users:** no schema change required; see [SCHEMA_COMPATIBILITY_NSPFRNP.md](./SCHEMA_COMPATIBILITY_NSPFRNP.md).
 
 ---
 
@@ -104,6 +105,8 @@ If the redirect URL is not in the list, Supabase blocks the redirect and sign-in
 
 **401 on GET /:** If Vercel logs show 401 on the root URL, that is usually **Vercel Deployment Protection** (password for preview deployments). To allow public previews, go to Vercel → Project → Settings → Deployment Protection and adjust or disable for previews.
 
+**Sign up with Google 404:** If “Continue with Google” redirects to a URL that returns 404, the app is falling back to Octave 2 `/api/auth/google` because the Supabase anon key was not injected. **Fix:** In Vercel → Project → Settings → Environment Variables, add `VIBELANDIA_SUPABASE_ANON_KEY` (or `NEXT_PUBLIC_SUPABASE_ANON_KEY`) with your Supabase anon public key, for Production and Preview. The build script injects it into `api-config.js` so the client uses Supabase OAuth instead of the fallback. Then add the deployment’s callback URL to Supabase Auth → Redirect URLs (e.g. `https://your-preview.vercel.app/interfaces/profile.html`) and redeploy.
+
 ---
 
 ## Vercel Deployment
@@ -113,7 +116,7 @@ When deploying to Vercel:
 1. **Add Environment Variables:**
    - Vercel Dashboard → Project → Settings → Environment Variables
    - Add all variables from `.env.nspfrnp` (except `VERCEL_TOKEN` - not needed in Vercel)
-   - **Required for Google OAuth:** `VIBELANDIA_SUPABASE_URL` and `VIBELANDIA_SUPABASE_ANON_KEY` (or set in api-config.js / build so the client has the anon key). If the anon key is empty in the deployed app, Supabase auth is disabled and “Continue with Google” will not work.
+   - **Required for Google OAuth:** `VIBELANDIA_SUPABASE_ANON_KEY` (or `NEXT_PUBLIC_SUPABASE_ANON_KEY`). The build script injects it into `interfaces/api-config.js` at deploy time so the client uses Supabase instead of the fallback (which 404s). Also set `VIBELANDIA_SUPABASE_URL` if different from default. If the anon key is missing, “Continue with Google” redirects to a non-existent API and returns 404.
 
 2. **For Each Environment:**
    - Production

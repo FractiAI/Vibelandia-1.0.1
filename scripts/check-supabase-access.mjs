@@ -84,7 +84,7 @@ async function main() {
 
   // 2. Try to read a few known tables (from SUPABASE_SETUP.md)
   console.log('\n--- Sample contents (select limit 2) ---');
-  const tablesToTry = ['users', 'poc_submissions', 'customers', 'chat_rooms', 'social_posts'];
+  const tablesToTry = ['users', 'wallets', 'poc_submissions', 'customers', 'chat_rooms', 'social_posts'];
   for (const table of tablesToTry) {
     try {
       const res = await fetch(base + '/rest/v1/' + table + '?limit=2', {

@@ -183,7 +183,7 @@
         <header class="header">
             <h1>VIBELANDIA! Payment</h1>
             <p>Mark Twain's Post-Singularity VIBELANDIA RENO!</p>
-            <p style="margin-top: 0.5rem; font-size: 0.95rem; color: #ffeaa7;"><strong>Purchases require registration / sign up / sign in / auth.</strong> <a href="profile.html" style="color: #00d4ff;">Profile &amp; sign in →</a></p>
+            <p style="margin-top: 0.5rem; font-size: 0.95rem; color: #ffeaa7;"><strong>Purchases require registration / sign up / sign in / auth.</strong> <a href="profile.html" style="color: #00d4ff;">NSPFRNP Wallet →</a></p>
         </header>
 
         <div id="plan-details" class="plan-details"></div>
@@ -266,7 +266,7 @@
                 var returnUrl = window.location.origin + '/interfaces/profile.html';
                 var html = '<div class="auth-box">' +
                     '<h3>Sign in to purchase</h3>' +
-                    '<p>Create an account or sign in to continue. Your <strong>Golden Fractal Key</strong> will be stored in your profile and wallet after purchase.</p>' +
+                    '<p>Create an account or sign in to continue. Your <strong>Golden Fractal Key</strong> will be stored in your NSPFRNP wallet after purchase.</p>' +
                     '<div class="auth-tabs">' +
                     '<button type="button" class="auth-tab active" data-tab="login">Sign in</button>' +
                     '<button type="button" class="auth-tab" data-tab="signup">Sign up</button>' +
@@ -333,8 +333,11 @@
                 var html = '';
                 if (user && user.email) {
                     html += '<div class="user-badge">Signed in as ' + user.email + '</div>';
+                } else {
+                    html += '<p style="font-size:0.85rem;color:#888;margin-bottom:1rem;">No sign-in required. Pay with PayPal — we’ll capture your name and issue your Golden Fractal Key after payment.</p>';
                 }
                 html += '<div id="paypal-or-fallback"></div>';
+                html += '<p style="margin-top:1rem;font-size:0.85rem;"><a href="profile.html" style="color:#00d4ff;">NSPFRNP Wallet (optional)</a></p>';
                 container.innerHTML = html;
                 initPayPal();
             }
@@ -378,6 +381,9 @@
                                         body: JSON.stringify({ orderId: data.orderID, payerId: data.payerID })
                                     }).then(function (res) { return res.json(); }).then(function (result) {
                                         if (result && result.success !== false) {
+                                            if (result.payer && result.payer.name) {
+                                                try { localStorage.setItem('vibelandia_payer_from_paypal', JSON.stringify({ name: result.payer.name, orderId: data.orderID })); } catch (_) {}
+                                            }
                                             return Auth.completeOrder(data.orderID, planId).then(function (complete) {
                                                 if (complete && complete.goldenKey) {
                                                     GoldenKey.issueOnPurchase(complete.goldenKey, data.orderID);
@@ -408,18 +414,13 @@
             }
 
             function bootstrap() {
-                document.getElementById('payment-container').innerHTML = '<p class="auth-loading">Checking sign-in…</p>';
+                document.getElementById('payment-container').innerHTML = '<p class="auth-loading">Loading…</p>';
                 Auth.consumeOAuthToken().then(function () {
                     renderPlanDetails();
-                    return Auth.getSession();
-                }).then(function (session) {
-                    if (session && session.user) {
-                        runCheckoutFlow();
-                        return;
-                    }
-                    renderAuthUI();
+                    runCheckoutFlow();
                 }).catch(function () {
-                    renderAuthUI();
+                    renderPlanDetails();
+                    runCheckoutFlow();
                 });
             }
 

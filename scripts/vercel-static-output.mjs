@@ -49,8 +49,21 @@ if (fs.existsSync(indexHtml)) {
 
 // Copy interfaces/
 const interfacesSrc = path.join(root, 'interfaces');
+const interfacesDest = path.join(staticDir, 'interfaces');
 if (fs.existsSync(interfacesSrc)) {
-  copyDir(interfacesSrc, path.join(staticDir, 'interfaces'));
+  copyDir(interfacesSrc, interfacesDest);
+}
+
+// Inject Supabase anon key at build time so Google sign-in works on Vercel (no 404 to /api/auth/google)
+const apiConfigPath = path.join(interfacesDest, 'api-config.js');
+if (fs.existsSync(apiConfigPath)) {
+  const anonKey = process.env.VIBELANDIA_SUPABASE_ANON_KEY || process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || '';
+  let apiConfig = fs.readFileSync(apiConfigPath, 'utf8');
+  apiConfig = apiConfig.replace(
+    /window\.VIBELANDIA_SUPABASE_ANON_KEY = '';/,
+    `window.VIBELANDIA_SUPABASE_ANON_KEY = ${JSON.stringify(anonKey)};`
+  );
+  fs.writeFileSync(apiConfigPath, apiConfig, 'utf8');
 }
 
 // Minimal favicon.ico (1x1 purple) so /favicon.ico doesn't 404

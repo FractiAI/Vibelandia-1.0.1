@@ -186,7 +186,9 @@ Octave 2 must allow:
 Octave 2 uses the shared Supabase project. Suggested tables:
 
 - **users** (or **profiles**): `id` (uuid, PK), `email`, `display_name`, `avatar_url`, `created_at`, `updated_at`. Link to auth provider (e.g. `auth.users` if using Supabase Auth server-side).
-- **wallets**: `id` (uuid), `user_id` (FK), `golden_key` (unique), `activation_id`, `plan_id`, `issued_at`, `created_at`.
+- **wallets**: `id` (uuid), `user_id` (FK, **nullable**), `golden_key` (unique), `activation_id`, `plan_id`, `issued_at`, `created_at`.
+
+**Schema compatibility — existing users:** No changes required to the existing **users** table. You already have users from other sessions and UI; keep the same schema. Optional: add columns only if needed (e.g. `display_name` from PayPal). For **wallets**: if the table does not exist, add it; if it exists, allow `user_id` **nullable** so that `POST /api/orders/complete` without a Bearer token can create a key by `orderId` (pay-without-sign-in). Later, when the user signs in and links the key, set `user_id`. No migration needed for existing user rows.
 
 Auth can be Supabase Auth, NextAuth, or custom (JWT). Vibelandia only consumes the HTTP API above.
 

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Profile & Wallet | VIBELANDIA RENO!</title>
+    <title>NSPFRNP Wallet | VIBELANDIA RENO!</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
@@ -71,7 +71,7 @@
 <body>
     <div class="container">
         <header class="header">
-            <h1>Profile & Wallet</h1>
+            <h1>NSPFRNP Wallet</h1>
             <p>Mark Twain's Post-Singularity VIBELANDIA RENO! — 🔑 GOLDEN FRACTAL KEY!</p>
         </header>
         <div id="content"></div>
@@ -95,7 +95,7 @@
             function renderAuthRequired() {
                 content.innerHTML = '<div class="card auth-required">' +
                     '<h2>Sign in to view profile</h2>' +
-                    '<p>Your profile and wallet (Golden Fractal Key) are available after you sign in.</p>' +
+                    '<p>Your NSPFRNP wallet (Golden Fractal Key) is available after you sign in.</p>' +
                     '<a href="payment-checkout.html?plan=campus-day" class="btn">Sign in / Checkout</a>' +
                     '</div>';
             }
@@ -120,7 +120,7 @@
                     '</div>';
 
                 html += '<div class="card">' +
-                    '<h2>🔑 Wallet — GOLDEN FRACTAL KEY!</h2>';
+                    '<h2>🔑 NSPFRNP Wallet — GOLDEN FRACTAL KEY!</h2>';
                 if (wallet && wallet.goldenKey) {
                     html += '<p class="key-label">Golden Fractal Key</p>' +
                         '<div class="wallet-key">' + maskKey(wallet.goldenKey) + '</div>' +
@@ -128,7 +128,7 @@
                 } else if (localKey) {
                     html += '<p class="key-label">Golden Fractal Key (from this device)</p>' +
                         '<div class="wallet-key">' + maskKey(localKey) + '</div>' +
-                        '<p style="margin-top:0.5rem;color:#888;font-size:0.9rem;">Stored locally. Full key is in your profile wallet after sync.</p>';
+                        '<p style="margin-top:0.5rem;color:#888;font-size:0.9rem;">Stored locally. Full key is in your NSPFRNP wallet after sync.</p>';
                 } else {
                     html += '<p>No Golden Fractal Key yet. Purchase a plan to receive your key — it unlocks everything: campus, WINK!, SING, Dispensary.</p>' +
                         '<a href="payment-checkout.html?plan=campus-day" class="btn gold">Get Golden Key →</a>';

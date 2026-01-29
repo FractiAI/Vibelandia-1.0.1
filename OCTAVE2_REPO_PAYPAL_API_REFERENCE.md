@@ -40,7 +40,9 @@ This repo (PSW.vibelandia.sing4) uses the **PayPal SDK flow** via Octave 2. All 
 |----------|---------|---------|
 | GET /api/payment/paypal/config | `getPayPalConfigFromApi()` | Client ID, mode (sandbox/production), currency |
 | POST /api/payment/paypal/create-order | `createPayPalOrder(planId)` | Body: `{ planId, amount, currency, description }` → orderId, approvalUrl |
-| POST /api/payment/paypal/capture-order | `capturePayPalOrder(orderId, payerId)` | Body: `{ orderId, payerId }` → success, transactionId |
+| POST /api/payment/paypal/capture-order | `capturePayPalOrder(orderId, payerId)` | Body: `{ orderId, payerId }` → success, transactionId, optional `payer: { email, name }`, optional `token`, `user` |
+
+**Capture-order can return payer info** from PayPal (email, name). Octave 2 can include `payer` in the response so the frontend stores it and can identify the user from the payment alone. Optionally Octave 2 can create/update user from payer and return `token` + `user` so no separate sign-in is needed. See [PAYMENT_PAYPAL_USER_CAPTURE.md](./PAYMENT_PAYPAL_USER_CAPTURE.md).
 
 **Code:** `src/paypal-payment-system.ts` — all PayPal operations are API calls to Octave 2; no PayPal SDK secret in Vibelandia.
 
