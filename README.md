@@ -62,7 +62,7 @@
 ## Deploy & env
 
 **Vercel.** Build: `npm run build` → `.vercel/output`.  
-**Shortest path (UI + PayPal only):** [SHORTEST_PATH_UI_PAYPAL.md](SHORTEST_PATH_UI_PAYPAL.md) — build, set `PAYPAL_CLIENT_ID` + `PAYPAL_CLIENT_SECRET` on Vercel, deploy.  
+**Shortest path (UI + PayPal only):** [SHORTEST_PATH_UI_PAYPAL.md](SHORTEST_PATH_UI_PAYPAL.md) — build, set `PAYPAL_CLIENT_ID` + `PAYPAL_CLIENT_SECRET` on Vercel, redeploy (client ID is injected at build so the PayPal button loads).  
 Env (optional): [README-set-vercel-env](.github/workflows/README-set-vercel-env.md) · [SUPABASE_SETUP](SUPABASE_SETUP.md).
 
 ---

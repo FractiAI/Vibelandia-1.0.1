@@ -357,6 +357,9 @@
                     .catch(function () { return {}; })
                     .then(function (config) {
                         var clientId = (config && config.clientId) || (typeof window !== 'undefined' && window.VIBELANDIA_PAYPAL_CLIENT_ID) || '';
+                        if (!clientId || clientId === 'REPLACE_WITH_YOUR_PAYPAL_CLIENT_ID') {
+                            clientId = '';
+                        }
                         if (!clientId) {
                             target.innerHTML = '<p style="margin-top:1rem;">Pay with PayPal to complete your purchase.</p>' +
                                 '<p style="margin-top:1rem;"><a href="https://www.paypal.com" target="_blank" rel="noopener" style="display:inline-block;padding:12px 24px;background:#0070ba;color:#fff;text-decoration:none;border-radius:8px;font-weight:600;">Go to PayPal</a></p>' +

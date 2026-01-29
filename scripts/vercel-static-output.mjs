@@ -58,7 +58,7 @@ if (fs.existsSync(interfacesSrc)) {
 const apiConfigPath = path.join(interfacesDest, 'api-config.js');
 if (fs.existsSync(apiConfigPath)) {
   const anonKey = process.env.VIBELANDIA_SUPABASE_ANON_KEY || process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || '';
-  const paypalClientId = process.env.VIBELANDIA_PAYPAL_CLIENT_ID || process.env.NEXT_PUBLIC_PAYPAL_CLIENT_ID || '';
+  const paypalClientId = process.env.VIBELANDIA_PAYPAL_CLIENT_ID || process.env.NEXT_PUBLIC_PAYPAL_CLIENT_ID || process.env.PAYPAL_CLIENT_ID || process.env.PAYPAL_CLIENT_ID_SANDBOX || '';
   let apiConfig = fs.readFileSync(apiConfigPath, 'utf8');
   apiConfig = apiConfig.replace(
     /window\.VIBELANDIA_SUPABASE_ANON_KEY = '';/,

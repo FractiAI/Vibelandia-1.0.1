@@ -20,11 +20,11 @@ In **Vercel** → Project → **Settings** → **Environment Variables**, add:
 
 | Key | Value | Notes |
 |-----|--------|--------|
-| `PAYPAL_CLIENT_ID` | Your PayPal Client ID | Sandbox: [developer.paypal.com](https://developer.paypal.com) → Apps & Credentials → Sandbox app |
-| `PAYPAL_CLIENT_SECRET` | Your PayPal Secret | Same app. Mark **Sensitive**. |
+| `PAYPAL_CLIENT_ID` | Your PayPal Client ID | Sandbox: [developer.paypal.com](https://developer.paypal.com) → Apps & Credentials → Sandbox app. **Used at build** so the button gets a client ID even if `/api/payment/paypal/config` fails. |
+| `PAYPAL_CLIENT_SECRET` | Your PayPal Secret | Same app. Mark **Sensitive**. Required for create-order/capture-order. |
 
 Optional: `PAYPAL_MODE=sandbox` (default) or `production`.  
-Optional: `VIBELANDIA_PAYPAL_CLIENT_ID` = same Client ID (for build-time injection so the button loads without calling `/api/payment/paypal/config`).
+Optional: `VIBELANDIA_PAYPAL_CLIENT_ID` = same Client ID (alternative for build-time injection).
 
 ---
 
