@@ -568,6 +568,7 @@
                     <div class="pad-button-desc">Free Series</div>
                 </a>
             </div>
+            <p style="text-align: center; color: #d4af37; font-weight: 600; font-size: 0.95rem; margin-top: 0.75rem;">Hero Gianni says new skins coming soon! March 20 maybe.</p>
         </div>
 
         <div class="info-display" id="infoDisplay">
@@ -614,7 +615,7 @@
             dispensary: {
                 title: '🌿 DISPENSARY! SNAP',
                 desc: 'Menu of buzzes across all important biological channels. Selectable Goldilocks auto-lock for ANY COMBINATION of Creator, Chairman Commander, Performer Superhero modes. Premium pricing. Pioneer discount. On-ramps available.',
-                details: 'Plans: Base $9,999 | Standard $24,999 | Premium $99,999 | Ultimate $299,999. First 1,000 Pioneers: 50% off. Can\'t afford yet? On-ramps available.',
+                details: '4 tiers: 1 dose → monthly · annual discount. Tier 1 $19/$199/$1,799 · Tier 4 (top) $79/$1,999/$19,999. First 1,000 Pioneers: 50% off. On-ramps available.',
                 link: '../ONE_PAGER_DISPENSARY.md'
             }
         };
@@ -656,7 +657,7 @@
                     : section === 'wink'
                     ? '<p style="margin-top:0.75rem;"><a href="mailto:info@fractiai.com?subject=Golden%20Fractal%20Hearts%20Invitation%20-%20WINK" style="color:#ffeaa7;text-decoration:underline;">Golden Fractal Hearts Invitation (3 months free WINK!) →</a></p>'
                     : section === 'dispensary'
-                    ? '<p style="margin-top:0.75rem;"><a href="payment-checkout.html?plan=dispensary-base" class="buy-btn" style="display:inline-block;padding:8px 16px;background:#0070ba;color:#fff;text-decoration:none;border-radius:8px;font-weight:600;border:2px solid #003087;">BUY!</a></p><p style="margin-top:0.5rem;"><a href="dispensary.html" style="color:#4ecdc4;text-decoration:underline;">View DISPENSARY! SNAP Interface →</a></p><p style="margin-top:0.5rem;"><a href="mailto:info@fractiai.com?subject=DISPENSARY!%20SNAP%20On-Ramp%20Application" style="color:#4ecdc4;text-decoration:underline;">Can\'t afford yet? Apply for On-Ramp →</a></p>'
+                    ? '<p style="margin-top:0.75rem;"><a href="payment-checkout.html?plan=dispensary-t1-monthly" class="buy-btn" style="display:inline-block;padding:8px 16px;background:#0070ba;color:#fff;text-decoration:none;border-radius:8px;font-weight:600;border:2px solid #003087;">BUY!</a></p><p style="margin-top:0.5rem;"><a href="dispensary.html" style="color:#4ecdc4;text-decoration:underline;">View DISPENSARY! SNAP Interface →</a></p><p style="margin-top:0.5rem;"><a href="mailto:info@fractiai.com?subject=DISPENSARY!%20SNAP%20On-Ramp%20Application" style="color:#4ecdc4;text-decoration:underline;">Can\'t afford yet? Apply for On-Ramp →</a></p>'
                     : '';
                 infoDisplay.innerHTML = `
                     <h3>${data.title}</h3>

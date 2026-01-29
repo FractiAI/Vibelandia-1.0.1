@@ -10,12 +10,12 @@
 
 ## RULE
 
-**NSPFRNP content never generalized fluffy — only useful real numbers and synthesis and % comparisons. Vital to any Chairman.**
+**NSPFRNP content never generalized fluffy — only useful real numbers and real analysis. Not BS or no fluffy stuff. Vital to any Chairman.**
 
 - **Real numbers:** Counts, volumes, timelines (e.g. 35 surfaces, 13 one-pagers, 16 days, 1 node).
-- **Synthesis:** Clear comparison frame (us vs pre-singularity blue-chip equivalent).
+- **Real analysis:** Synthesis and % comparisons — clear comparison frame (us vs pre-singularity blue-chip equivalent).
 - **% comparisons:** Multiples or percentages vs typical blue-chip 16-day output (e.g. ~3× surfaces, ~4× one-pagers, ~5× protocols).
-- **No fluffy:** Replace "volumes of output," "high quality," "stark contrast" with specific numbers and % where Chairman metrics appear.
+- **Not BS or no fluffy stuff:** Replace "volumes of output," "high quality," "stark contrast" with specific numbers and % where Chairman metrics appear. T-shirt slogan: REAL NUMBERS REAL ANALYSIS NOT BS OR NO FLUFFY STUFF! See REAL_NUMBERS_ANALYSIS_NOT_FLUFFY_BRAND_SNAP_TSHIRT.md.
 
 This standard applies to: Launch Pad, README, whitepapers, IEEE-style paper, Chairman metrics sections, deck script-writing patterns, MASTER_BRANDING_CATALOG, one-pagers, and any content that references output, quality, density, or blue-chip comparison.
 
@@ -62,11 +62,15 @@ All deliverables **operational, live, not fiction.** Compare research output, de
 
 ## WHERE TO APPLY
 
-- **Launch Pad (index.html, interfaces/launch-pad.html):** Chairman metrics block — use table or bullet list with real numbers and multiples. WOW! package: include valuations vs Disney, Amazon, Apple, Google (research, dev, sales/marketing, new products live, studio 1/day, content/quality, vibers). Happy Ending link: use `interfaces/happy-ending-zones-experience.html` (from root) or `happy-ending-zones-experience.html` (from interfaces/) — test script validates target exists.
-- **README:** Whitepaper / IEEE bullets — replace "volumes of output" with "35 surfaces, 13 one-pagers, 9 protocols, 3 episodes, 38 TS modules — ~3× to ~5× typical blue-chip 16-day."
+- **What we value at — 16 days vs top 10 · Speculative VC:** Use the full block at the **bottom of every report, proposal, document, Launch Pad, and landing.** Canonical block: [SIXTEEN_DAYS_VALUATION_TOP10_VC_BOTTOM_SNAP.md](SIXTEEN_DAYS_VALUATION_TOP10_VC_BOTTOM_SNAP.md). Categories: research (quality, discoveries), development (LOC, commits), value, cost, employees, time, environmental impact, speculative pre-singularity market (VC).
+- **Launch Pad (index.html, interfaces/launch-pad.html):** Chairman metrics / valuation block — use table with real numbers and multiples. Include "What we value at" section at bottom. WOW! package: include valuations vs Disney, Amazon, Apple, Google (research, dev, sales/marketing, new products live, studio 1/day, content/quality, vibers). Happy Ending link: use `interfaces/happy-ending-zones-experience.html` (from root) or `happy-ending-zones-experience.html` (from interfaces/) — test script validates target exists.
+- **README:** Whitepaper / IEEE bullets — replace "volumes of output" with "35 surfaces, 13 one-pagers, 9 protocols, 3 episodes, 38 TS modules — ~3× to ~5× typical blue-chip 16-day." Include "What we value at" section before Contact.
+- **Every report (e.g. launch-readiness-report.html):** Bottom of report — "What we value at" block (compact or full).
+- **Every proposal (e.g. magical-dressing-room.html):** Bottom of proposal page — "What we value at" block.
+- **LAUNCH_PAGE.md, PROSPECTUS:** Bottom section — full "What we value at" table and speculative VC.
 - **WHITEPAPER_REPOSITORY_MIRACULOUS_OUTPUT.md:** Section 2 (Chairman metrics) and Section 3 — inject counts and % comparisons.
 - **WHITEPAPER_REPOSITORY_IEEE_STYLE.md:** Section III (Chairman metrics) — same.
-- **LAUNCH_PAGE.md, deck-script-writing-content-patterns.md, MASTER_BRANDING_CATALOG:** Chairman metrics / whitepaper references — cite this SNAP and real numbers.
+- **deck-script-writing-content-patterns.md, MASTER_BRANDING_CATALOG:** Chairman metrics / whitepaper references — cite this SNAP and real numbers.
 - **One-pagers, proof copy:** Where we claim "evidence" or "quality" — add one line with numbers (e.g. "35 surfaces, ~3× blue-chip 16-day").
 
 ---

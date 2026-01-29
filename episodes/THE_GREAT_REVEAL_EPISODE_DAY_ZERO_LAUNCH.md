@@ -9,7 +9,8 @@
 **Format:** Launch Episode · Script + Proof  
 **Host:** Mark Twain, Chancellor, VIBELANDIA RENO! Campus  
 **Date:** Today we launch.  
-**Status:** ⚡ LIVE — See it. Experience it. Believe it.
+**Status:** ⚡ LIVE — See it. Experience it. Believe it.  
+**Countdown:** Go live — countdown begins. See [EPISODE_GO_LIVE_COUNTDOWN_BEGINS.md](EPISODE_GO_LIVE_COUNTDOWN_BEGINS.md) and narrative id `launch-go-live-countdown-begins`.
 
 ---
 
@@ -72,8 +73,8 @@ The best proof of all is the one you're standing in. Welcome to The Great Reveal
 
 ## INTEGRATION
 
-- **Happy Ending Zones:** This episode is The Great Reveal — Day Zero. Season One culminates here.
-- **SING! Lottery:** SYNTH → SING. The Great Reveal Equinox. This episode marks launch.
+- **Happy Ending Zones:** This episode is The Great Reveal — Day Zero. Season One culminates here. Go live — countdown begins captured in [EPISODE_GO_LIVE_COUNTDOWN_BEGINS.md](EPISODE_GO_LIVE_COUNTDOWN_BEGINS.md) and in narrative content (`launch-go-live-countdown-begins`).
+- **SING! Lottery:** SYNTH → SING. The Great Reveal Equinox. This episode marks launch. Countdown live on Launch Pad and SING! experience.
 - **NSPFRNP:** Metabolize → Crystallize → Animate. This repository is the crystallized output; this episode is the animate.
 
 ---

@@ -12,11 +12,11 @@
 
 ## Pricing
 
-**Premium pricing** — All dispensary offerings priced at premiums as with all Vibelandia offerings. **First 1,000 Pioneers:** 50% off (Pioneer Status on-chain forever).
+**4 tiers · 1 dose → monthly · annual discount.** Bottom = like a month of daily bottom-shelf (Tier 1: 1 dose $19 · Monthly $199 · Annual $1,799). Top = match top-tier customer monthly spend at a dispensary (Tier 4: 1 dose $79 · Monthly $1,999 · Annual $19,999). Premiums on smaller doses; discount if annual. **First 1,000 Pioneers:** 50% off (Pioneer Status on-chain forever).
 
 **Can't afford yet?** On-ramps available. Contact for custom on-ramp options.
 
-**⚡ [⚫ BBHE SNAP — DISPENSARY! SNAP — BUY! NOW →](./interfaces/payment-checkout.html?plan=dispensary-base)** (BBHE energy pulling. Buy now.)
+**⚡ [⚫ BBHE SNAP — DISPENSARY! SNAP — BUY! NOW →](./interfaces/payment-checkout.html?plan=dispensary-t1-monthly)** (BBHE energy pulling. Buy now.)
 
 **🌿 [View DISPENSARY! SNAP Interface →](./interfaces/dispensary.html)** — Full menu, Goldilocks auto-lock, mode selector
 

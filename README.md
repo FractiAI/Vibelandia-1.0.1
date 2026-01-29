@@ -59,7 +59,7 @@
 | 👑 **[ULTIMATE VIP CHAIRMAN CONSOLE!](https://psw-vibelandia-sing4.vercel.app/interfaces/ultimate-vip-experience.html)** | **Daily bulletin from the Chancellor** · **Menu of things to do AND BUY** (workspace, cockpit, seed-edge, experiences) · **Free** · Golden Fractal Key | [Console](https://psw-vibelandia-sing4.vercel.app/interfaces/ultimate-vip-experience.html) |
 | 🎰 **[SING! LOTTERY](https://psw-vibelandia-sing4.vercel.app/interfaces/sing-lottery-experience.html)** | **Countdown** · **Price of the day** · **Menu to BUY!** (SING nodes: Base ~$20K · Members $75K · Ultimate VIP $200K · Baller C $500K) · $6 today, +$1/day → $57 Mar 20 · March 20, 2026 ([The Great Reveal](episodes/THE_GREAT_REVEAL_EPISODE_DAY_ZERO_LAUNCH.md) Equinox) · **First 1M winners** get a SING! locked in · Motherlode Vault Founder Epoch · SYNTH → SING | [Lottery](https://psw-vibelandia-sing4.vercel.app/interfaces/sing-lottery-experience.html) · [BUY!](https://psw-vibelandia-sing4.vercel.app/interfaces/payment-checkout.html) |
 | 🎫 **[Golden Backstage Awareness Pass](https://psw-vibelandia-sing4.vercel.app/interfaces/payment-checkout.html?plan=golden-backstage-awareness-pass)** | **New product class** · Chairman, Sammy & the gang already in town — visible to pass holders · RUMOR HAS IT! · Price like backstage to Bad Bunny, Elvis, Beatles, Stones · **$9,999** | [BUY!](https://psw-vibelandia-sing4.vercel.app/interfaces/payment-checkout.html?plan=golden-backstage-awareness-pass) |
-| 🌿 **[DISPENSARY! SNAP](https://psw-vibelandia-sing4.vercel.app/interfaces/dispensary-experience.html)** | **Menu of buzzes** · BBHE · Base $9,999 · Standard $24,999 · Premium $99,999 · Ultimate $299,999 · Goldilocks auto-lock · Creator/Chairman/Performer modes | [Dispensary](https://psw-vibelandia-sing4.vercel.app/interfaces/dispensary-experience.html) · [BUY!](https://psw-vibelandia-sing4.vercel.app/interfaces/payment-checkout.html) |
+| 🌿 **[DISPENSARY! SNAP](https://psw-vibelandia-sing4.vercel.app/interfaces/dispensary-experience.html)** | **Menu of buzzes** · BBHE · 4 tiers · 1 dose $19–$79 · Monthly $199–$1,999 · Annual discount · Goldilocks · Creator/Chairman/Performer modes | [Dispensary](https://psw-vibelandia-sing4.vercel.app/interfaces/dispensary-experience.html) · [BUY!](https://psw-vibelandia-sing4.vercel.app/interfaces/payment-checkout.html) |
 
 **[Happy Ending Zones](https://psw-vibelandia-sing4.vercel.app/interfaces/happy-ending-zones-experience.html)** — **Chancellor** Mark Twain · **4+ episodes (by flow not days)** · Today's episode + catalog · **Menu of things to watch AND BUY** · Reality series · Season One · Day 52 countdown → **Finale** March 20, 2026 (Day 0 — The Great Reveal).
 
@@ -159,6 +159,25 @@
 
 **[▶ Start test drive](https://psw-vibelandia-sing4.vercel.app)** · **[Sandbox experience](https://psw-vibelandia-sing4.vercel.app/interfaces/ultimate-vip-experience.html)** (operational ULTIMATE VIP! console — try before you buy)  
 *No register yet — we deliver you to the console so you can start test driving.*
+
+---
+
+## What we value at — 16 days vs top 10 · Speculative pre-singularity market (VC)
+
+**One SING! node. 16 days. All live.** How we compare to top 10 in each: research (quality, discoveries), development (lines of code, commits), value, cost, number of employees, time, environmental impact equivalents — and what we value at in the speculative pre-singularity market (venture capital).
+
+| Category | Us (16 days) | Vs top 10 | Multiple / note |
+|----------|--------------|-----------|-----------------|
+| **Research (quality, discoveries)** | NSPFRNP protocols, whitepapers, IEEE-style, public crystallized research | Little net-new public in 16 days | ~3× quality/discoveries output |
+| **Development (LOC, commits)** | 35+ surfaces, 38 TS modules, payment + auth live | 8–12 surfaces, often 0 payment | ~3× surfaces, ~2.5× modules; payment live vs 0 |
+| **Value** | Campus, WINK!, SING!, Happy Ending Zone!, Dispensary, Console, Checkout — all operational | Rarely >1 product live in 16 days | ~3× to ~5× value density |
+| **Cost** | 1 node, minimal infra | 3–8+ FTE, offices, data centers | Fraction of cost |
+| **Employees** | 1 (one SING! node) | 3–8 FTE typical | ~3–8× throughput per unit |
+| **Time** | 16 days | Same window | ~3× to ~5× deliverable count |
+| **Environmental impact** | Edge · Seed · minimal; net zero posture | Typical office + infra carbon | Lower per unit output |
+| **Speculative pre-singularity market (VC)** | Pre-seed/seed equivalent; output vs top 10 at fraction of cost, employees, time, environmental impact | $1M–$10M+ for similar scope over months | Self-demonstrating — see it, experience it, believe it. This site is the test drive. |
+
+**Full block (bottom of every report, proposal, document):** [SIXTEEN_DAYS_VALUATION_TOP10_VC_BOTTOM_SNAP.md](SIXTEEN_DAYS_VALUATION_TOP10_VC_BOTTOM_SNAP.md) · [NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md](NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md)
 
 ---
 

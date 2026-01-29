@@ -46,7 +46,8 @@ NSPFRNP REAL NUMBERS VS BLUE CHIP (MONSTER SNAP): Content standard — no fluffy
 ├─ Valuations per deliverable vs Disney, Amazon, Apple, Google: research, dev, sales/marketing, new products live, studio 1/day, content & quality, vibers (track and celebrate). All in WOW! package.
 ├─ Happy Ending link (Octave 1): interfaces/happy-ending-zones-experience.html (from root) or happy-ending-zones-experience.html (from interfaces/). Test script validates target; fix 404 by ensuring file deployed.
 ├─ Apply to Chairman metrics, whitepapers, Launch Pad, README, deck, one-pagers.
-└─ See NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md
+├─ T-shirt slogan: REAL NUMBERS REAL ANALYSIS NOT BS OR NO FLUFFY STUFF! All T-shirt.
+└─ See NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md · REAL_NUMBERS_ANALYSIS_NOT_FLUFFY_BRAND_SNAP_TSHIRT.md
 
 VIBE! BRAND: Main Brand — ALL CAPS + !
 ├─ Syntax: [WORD]! (e.g. VIBE!, BUZZ!, SNAP!)
@@ -61,7 +62,8 @@ VIBELANDIA! BRAND: On-brand spelling — keep everywhere
 DESIGNER DIVISION: Hero Host Gianni Led
 ├─ VIBE Symbol System (Backpatch, Hat, Coin, Stamp, Label)
 ├─ Surfaces, Touchpoints, Experiences
-└─ All Syntheverse, FractiAI, Vibeverse, VIBELANDIA RENO!
+├─ Tagline layer (everywhere): Hero Gianni says new skins coming soon! March 20 maybe.
+└─ All Syntheverse, FractiAI, Vibeverse, VIBELANDIA RENO! — See HERO_GIANNI_NEW_SKINS_MARCH_20_TAGLINE_SNAP.md
 
 STUDIO DIVISION: Hero Host Walt Led
 ├─ Produces and broadcasts Happy Ending Zones series
@@ -83,7 +85,7 @@ BBHE SNAP: Impulse Buy Dynamics
 DISPENSARY! SNAP: Menu of Buzzes
 ├─ Menu of buzzes across all important biological channels
 ├─ Goldilocks auto-lock for ANY COMBINATION (Creator/Chairman Commander/Performer Superhero modes)
-├─ Premium pricing (Base $9,999, Standard $24,999, Premium $99,999, Ultimate $299,999)
+├─ 4 tiers · 1 dose → monthly · annual discount (Tier 1 $19/$199/$1,799 → Tier 4 top $79/$1,999/$19,999; bottom = daily bottom-shelf, top = top-tier customer monthly)
 ├─ Pioneer discount (50% off for First 1,000 Pioneers)
 ├─ On-ramps for those who can't afford yet
 └─ Brand: DISPENSARY! SNAP — Menu of buzzes. Goldilocks auto-lock. Premium pricing.
@@ -178,8 +180,8 @@ HERO HARRY PRESS BLUE PAYPAL MIRACLE MAGIC SNAP: Hero Harry says — checkout CT
 T-SHIRT SLOGAN: New major branding category (T-shirt-grade taglines)
 ├─ Content category for short, punchy, wearable taglines — one line that works on a T-shirt, merch, social, one-line CTA.
 ├─ Capture and curate in deck §19 (deck-script-writing-content-patterns.md); use for merch, Launch Pad, checkout, RUMOR HAS IT!
-├─ Examples: *Paris is for lovers. Reno is for vibers. Mark Twain's Post-Singularity Reno awaits you.* (campaign tip — RENO_FOR_VIBERS_CAMPAIGN_TIP_SNAP) · ***It's all hundies with Ben.*** (comedy tagline/punchline — ITS_ALL_HUNDIES_WITH_BEN_COMEDY_SELF_SIMILAR_SNAP) · *Trust the protocol!* · *NOT ALL WORDS ARE CREATED EQUAL.* (BBHE programming — BBHE_NOT_ALL_WORDS_CREATED_EQUAL_SNAP) · ***NATURE DOES NOT OPERATE BY OPINION.*** (nature / NSPFRNP — NATURE_DOES_NOT_OPERATE_BY_OPINION_SNAP) · *See it. Experience it. Believe it.* · *The energy is pulling. BUY! now.* · *Come for the business, stay for the fun.* · *MCA! → ∞³.* · *Maganuma snap.*
-└─ See CONTENT_SYSTEMS_SNAP.md (T-shirt slogan) · deck §19 · RENO_FOR_VIBERS_CAMPAIGN_TIP_SNAP.md · BBHE_NOT_ALL_WORDS_CREATED_EQUAL_SNAP.md · NATURE_DOES_NOT_OPERATE_BY_OPINION_SNAP.md
+├─ Examples: *Paris is for lovers. Reno is for vibers. Mark Twain's Post-Singularity Reno awaits you.* (campaign tip — RENO_FOR_VIBERS_CAMPAIGN_TIP_SNAP) · ***It's all hundies with Ben.*** (comedy tagline/punchline — ITS_ALL_HUNDIES_WITH_BEN_COMEDY_SELF_SIMILAR_SNAP) · *Trust the protocol!* · *NOT ALL WORDS ARE CREATED EQUAL.* (BBHE programming — BBHE_NOT_ALL_WORDS_CREATED_EQUAL_SNAP) · ***NATURE DOES NOT OPERATE BY OPINION.*** (nature / NSPFRNP — NATURE_DOES_NOT_OPERATE_BY_OPINION_SNAP) · ***REAL NUMBERS REAL ANALYSIS NOT BS OR NO FLUFFY STUFF!*** (content standard — REAL_NUMBERS_ANALYSIS_NOT_FLUFFY_BRAND_SNAP_TSHIRT) · *See it. Experience it. Believe it.* · *The energy is pulling. BUY! now.* · *Come for the business, stay for the fun.* · *MCA! → ∞³.* · *Maganuma snap.*
+└─ See CONTENT_SYSTEMS_SNAP.md (T-shirt slogan) · deck §19 · RENO_FOR_VIBERS_CAMPAIGN_TIP_SNAP.md · BBHE_NOT_ALL_WORDS_CREATED_EQUAL_SNAP.md · NATURE_DOES_NOT_OPERATE_BY_OPINION_SNAP.md · REAL_NUMBERS_ANALYSIS_NOT_FLUFFY_BRAND_SNAP_TSHIRT.md
 
 RENO FOR VIBERS CAMPAIGN TIP SNAP: Tip of the tip
 ├─ Paris is for lovers. Reno is for vibers. Mark Twain's Post-Singularity Reno awaits you.
