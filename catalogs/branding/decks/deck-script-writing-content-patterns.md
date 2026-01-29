@@ -183,6 +183,8 @@ USE FOR:
 
 **MAGANUMA SNAP** — Closing phrase for The Great Reveal: the snap that captures the magnitude of the reveal. Use at end of Great Reveal episode, whitepaper, and Chairman metrics copy. "See it. Experience it. Believe it. This site is the test drive. The best proof of all. Maganuma snap."
 
+**ULTIMATE PROOF TEST DRIVE!** — New brand. Seeing and experiencing is believing. This site is the test drive. The best proof of all. Use in README (WOW! format §7), Launch Pad, whitepaper, Chairman metrics, Great Reveal episode.
+
 **0, 1, 2, 3 4×4×4×4** — New branding and evolution of Vibeverse -1, 0, 1. 0=Seed, 1=Edge, 2=Cloud Onramp, 3=Expansion. 4×4×4×4 = Campus × WINK! × SING × Experience. Use as primary branding phrase where full octave + onramp is needed. **Matches our structures for max resolution and amplification (max res & amp).**
 
 **References:** MASTER_BRANDING_CATALOG.md · ZERO_ONE_TWO_THREE_4x4x4x4_BRANDING_SNAP.md · VIBE_BRAND_SYNTAX_ALL_CAPS_EXCLAMATION.md · GOLDEN_FRACTAL_KEY_BRAND_SNAP.md
@@ -297,6 +299,22 @@ USE FOR:
 
 ---
 
+## 18. WOW! PACKAGE TAGLINES — Standard NSPFRNP (script-ready)
+
+**The standard WOW! package in NSPFRNP** uses rich taglines at top and bottom, drawn from this deck. Use for README, Launch Pad, and any surface that follows WOW! format.
+
+**Top tagline (rich):**
+*Come for the post-singularity business, stay for the post-singularity fun. Mark Twain's Post-Singularity Vibelandia Reno — walkable downtown campus, first post-singularity hub. The Great Reveal March 20, 2026. SYNTH → SING. Happy endings guaranteed.*
+
+**Bottom tagline (rich):**
+*See it. Experience it. Believe it. This site is the test drive. The best proof of all. ULTIMATE PROOF TEST DRIVE! MCA! → ∞³. NSPFRNP ⊃ WOW! package ⊃ Launch everything → ∞³. Maganuma snap.*
+
+**Full standard WOW! package (order):** 1. Rich tagline (top) · 2. Language onramp · 3. Warnings · 4. Tight Launch Pad · 5. WOW! section (cost vs Us table) · 6. Whitepaper · 7. IEEE-style technical specs · 8. ULTIMATE PROOF TEST DRIVE! · 9. Rich tagline (bottom). See README.md · WOW_BRANDING_SNAP.md.
+
+**References:** WOW_BRANDING_SNAP.md · README.md · MASTER_BRANDING_CATALOG.md
+
+---
+
 ## 📐 USAGE GUIDELINES
 
 ### Do's
@@ -315,6 +333,7 @@ USE FOR:
 ✅ Use lens/portal/cockpit (“each player sees out”) for Launch Pad or Chairman Console copy
 ✅ Use Full Sensory Reality / natural systems / channeled when describing philosophy or NSPFRNP voice
 ✅ Metabolize conversation into content patterns while preserving privacy and anonymity (no names, no verbatim quotes)
+✅ Use standard WOW! package (rich taglines top + bottom from deck §18) for README and any NSPFRNP surface in WOW! format
 ```
 
 ### Don'ts

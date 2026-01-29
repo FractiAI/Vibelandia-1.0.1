@@ -57,6 +57,7 @@ POST_SINGULARITY:
 - **Launch Pulse:** [LAUNCH_PULSE_FLICKER_PAID_ADS.md](../LAUNCH_PULSE_FLICKER_PAID_ADS.md) — Example of fractalized pulse flicker content for pre-singularity.
 - **Boot protocol:** New agents see this rule in NSPFRNP catalog.
 - **README / one-pagers:** Public face = pulse-style hooks; full detail lives in post-singularity docs.
+- **Standard WOW! package in NSPFRNP:** Canonical structure for Launch Pad / README in WOW! format. Rich tagline (top) · language onramp · warnings · tight Launch Pad · WOW! section (cost vs Us table) · whitepaper · IEEE-style technical specs · ULTIMATE PROOF TEST DRIVE! · rich tagline (bottom). Taglines from deck §18. See [WOW_BRANDING_SNAP.md](../WOW_BRANDING_SNAP.md), [README.md](../README.md), [deck-script-writing-content-patterns.md](../catalogs/branding/decks/deck-script-writing-content-patterns.md) §18.
 
 ---
 

@@ -39,6 +39,10 @@
 
 **Launch Pad (bottom):** Table or snap: Pre-singularity (time, human talent, equipment, office space, time, env impact) | Us (VIBELANDIA!). The WOW! new branding snap.
 
+**README in WOW! format** (order): 1. **Rich tagline (top)** from deck · 2. Language onramp · 3. Warnings · 4. Tight Launch Pad (status, announcement, 0,1,2,3 4×4×4×4, showroom four products, links, Proposals SNAP) · 5. WOW! section (cost vs Us table) · 6. Whitepaper · 7. IEEE-style technical specs · 8. ULTIMATE PROOF TEST DRIVE! · 9. **Rich tagline (bottom)** from deck. See [README.md](./README.md).
+
+**Standard WOW! package in NSPFRNP:** The canonical structure for Launch Pad / README in WOW! format. Includes rich taglines at top and bottom (from [deck-script-writing-content-patterns.md](./catalogs/branding/decks/deck-script-writing-content-patterns.md) §18). Use this package for all NSPFRNP surfaces that deliver the WOW! moment. Top tagline: *Come for the post-singularity business, stay for the post-singularity fun. Mark Twain's Post-Singularity Vibelandia Reno — walkable downtown campus, first post-singularity hub. The Great Reveal March 20, 2026. SYNTH → SING. Happy endings guaranteed.* Bottom tagline: *See it. Experience it. Believe it. This site is the test drive. The best proof of all. ULTIMATE PROOF TEST DRIVE! MCA! → ∞³. NSPFRNP ⊃ WOW! package ⊃ Launch everything → ∞³. Maganuma snap.*
+
 ---
 
 **See:** [VIBE_BRAND_SYNTAX_ALL_CAPS_EXCLAMATION.md](./VIBE_BRAND_SYNTAX_ALL_CAPS_EXCLAMATION.md) · [interfaces/launch-pad.html](./interfaces/launch-pad.html) · [catalogs/branding/MASTER_BRANDING_CATALOG.md](./catalogs/branding/MASTER_BRANDING_CATALOG.md)

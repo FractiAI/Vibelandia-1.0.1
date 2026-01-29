@@ -105,6 +105,11 @@ WOW! BRANDING SNAP: Pre-singularity cost vs Us
 ├─ Pre-singularity cost: time, human talent, equipment, office space, time, env impact versus Us (VIBELANDIA!)
 └─ See WOW_BRANDING_SNAP.md
 
+ULTIMATE PROOF TEST DRIVE! BRAND: Seeing and experiencing is believing
+├─ ULTIMATE PROOF TEST DRIVE! = new brand (ALL CAPS + !)
+├─ This site is the test drive. The best proof of all. See it. Experience it. Believe it.
+└─ Use in README (WOW! format §7), Launch Pad, whitepaper, Chairman metrics, Great Reveal episode
+
 CONTENT DECKS: 4
 ├─ deck-vibeverse-branding.md/json
 ├─ deck-vibeland-branding.md/json
