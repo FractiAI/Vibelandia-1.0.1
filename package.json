@@ -10,7 +10,8 @@
     "build": "node scripts/vercel-static-output.mjs",
     "deploy": "node scripts/deploy-vercel.mjs",
     "deploy:vercel": "vercel --yes",
-    "check-supabase": "node scripts/check-supabase-access.mjs"
+    "check-supabase": "node scripts/check-supabase-access.mjs",
+    "set-vercel-env": "node scripts/set-vercel-env-from-credentials.mjs"
   },
   "engines": {
     "node": ">=18.0.0"

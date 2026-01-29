@@ -337,10 +337,10 @@
                 var user = Auth.getStoredUser();
                 var container = document.getElementById('payment-container');
                 var html = '';
+                html += '<p style="font-size:1.1rem;font-weight:700;color:#7fff7f;margin-bottom:0.5rem;">Total: $' + plan.price.toLocaleString() + ' USD</p>';
+                html += '<p style="font-size:0.9rem;color:#aaa;margin-bottom:1rem;">Click the button below to complete your purchase with PayPal. Transaction is preloaded with this amount.</p>';
                 if (user && user.email) {
                     html += '<div class="user-badge">Signed in as ' + user.email + '</div>';
-                } else {
-                    html += '<p style="font-size:0.85rem;color:#888;margin-bottom:1rem;">No sign-in required. Pay with PayPal — we’ll capture your name and issue your Golden Fractal Key after payment.</p>';
                 }
                 html += '<div id="paypal-or-fallback"></div>';
                 container.innerHTML = html;
@@ -355,9 +355,12 @@
                     .then(function (r) { return r.ok ? r.json() : {}; })
                     .catch(function () { return {}; })
                     .then(function (config) {
-                        var clientId = config.clientId || '';
+                        var clientId = (config && config.clientId) || (typeof window !== 'undefined' && window.VIBELANDIA_PAYPAL_CLIENT_ID) || '';
                         if (!clientId) {
-                            target.innerHTML = '<p style="margin-top:1rem;">PayPal isn’t available right now (API did not return a client ID). To complete your purchase for <strong>' + plan.name + '</strong> ($' + plan.price.toLocaleString() + '), ensure the payment API (Octave 2) exposes <code>/api/payment/paypal/config</code> and <code>/api/payment/paypal/create-order</code>, or <a href="mailto:info@fractiai.com?subject=VIBELANDIA!%20Payment">email us</a>.</p>';
+                            var configUrl = PAYMENT_API_BASE + '/api/payment/paypal/config';
+                            target.innerHTML = '<p style="margin-top:1rem;">PayPal button could not load: no client ID. The payment API at <code style="word-break:break-all;">' + configUrl + '</code> did not return a <code>clientId</code>.</p>' +
+                                '<p style="margin-top:0.75rem;font-size:0.9rem;">To fix: (1) Configure Octave 2 to expose <code>GET /api/payment/paypal/config</code> returning <code>{"clientId": "your-paypal-client-id"}</code>, or (2) Set <code>VIBELANDIA_PAYPAL_CLIENT_ID</code> in your deployment environment (e.g. Vercel) with your PayPal sandbox/live client ID and redeploy.</p>' +
+                                '<p style="margin-top:0.5rem;">Purchase: <strong>' + plan.name + '</strong> — $' + plan.price.toLocaleString() + '. <a href="mailto:info@fractiai.com?subject=VIBELANDIA!%20Payment">Email us</a>.</p>';
                             return;
                         }
                         var s = document.createElement('script');
@@ -365,6 +368,7 @@
                         s.onload = function () {
                             var isSandbox = window.location.hostname.includes('localhost') || window.location.hostname.includes('vercel.app');
                             var h = (isSandbox ? '<div class="sandbox-badge">SANDBOX</div>' : '') +
+                                '<p style="margin-bottom:0.75rem;color:#ffeaa7;font-weight:600;">Pay $' + plan.price.toLocaleString() + ' with PayPal</p>' +
                                 '<div id="paypal-button-container"></div>';
                             target.innerHTML = h;
 

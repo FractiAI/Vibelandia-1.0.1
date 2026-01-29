@@ -113,10 +113,14 @@ If the redirect URL is not in the list, Supabase blocks the redirect and sign-in
 
 When deploying to Vercel:
 
-1. **Add Environment Variables:**
+1. **Add Environment Variables** (manual or from credentials):
+   - **From credentials file:** Run `npm run set-vercel-env` to push env vars from `.env.nspfrnp` (or `.env.local`) to your Vercel project. Requires `VERCEL_TOKEN` in that file; optional `VERCEL_PROJECT_ID` or `VERCEL_TEAM_ID`. See [scripts/set-vercel-env-from-credentials.mjs](./scripts/set-vercel-env-from-credentials.mjs).
+   - **Or add manually in Vercel Dashboard:**
    - Vercel Dashboard → Project → Settings → Environment Variables
    - Add all variables from `.env.nspfrnp` (except `VERCEL_TOKEN` - not needed in Vercel)
    - **Required for Google OAuth:** `VIBELANDIA_SUPABASE_ANON_KEY` (or `NEXT_PUBLIC_SUPABASE_ANON_KEY`). The build script injects it into `interfaces/api-config.js` at deploy time so the client uses Supabase instead of the fallback (which 404s). Also set `VIBELANDIA_SUPABASE_URL` if different from default. If the anon key is missing, “Continue with Google” redirects to a non-existent API and returns 404.
+
+   - **Optional — PayPal button:** If the payment API (Octave 2) does not expose `GET /api/payment/paypal/config` returning a `clientId`, set `VIBELANDIA_PAYPAL_CLIENT_ID` (or `NEXT_PUBLIC_PAYPAL_CLIENT_ID`) with your PayPal sandbox or live client ID. The build injects it so the checkout page can load the PayPal button. create-order and capture still go through Octave 2.
 
 2. **For Each Environment:**
    - Production

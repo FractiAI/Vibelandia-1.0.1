@@ -59,6 +59,12 @@
 
 ---
 
+## Deploy & env
+
+**Vercel:** Build command `npm run build`, output `.vercel/output`. Push env from credentials: `npm run set-vercel-env` (Node) or `powershell -ExecutionPolicy Bypass -File scripts/set-vercel-env.ps1` (PowerShell). Or use [GitHub Action](.github/workflows/set-vercel-env.yml) — add secrets, then Actions → Set Vercel env → Run workflow. See [SUPABASE_SETUP.md](./SUPABASE_SETUP.md) · [.github/workflows/README-set-vercel-env.md](.github/workflows/README-set-vercel-env.md).
+
+---
+
 ## Contact
 
 **Email:** info@fractiai.com · **GitHub:** https://github.com/FractiAI · **Repo:** [FractiAI/psw.vibelandia.sing4](https://github.com/FractiAI/psw.vibelandia.sing4) · **Tests:** `npm test`

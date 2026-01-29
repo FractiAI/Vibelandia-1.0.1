@@ -54,14 +54,19 @@ if (fs.existsSync(interfacesSrc)) {
   copyDir(interfacesSrc, interfacesDest);
 }
 
-// Inject Supabase anon key at build time so Google sign-in works on Vercel (no 404 to /api/auth/google)
+// Inject Supabase anon key and optional PayPal client ID at build time
 const apiConfigPath = path.join(interfacesDest, 'api-config.js');
 if (fs.existsSync(apiConfigPath)) {
   const anonKey = process.env.VIBELANDIA_SUPABASE_ANON_KEY || process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || '';
+  const paypalClientId = process.env.VIBELANDIA_PAYPAL_CLIENT_ID || process.env.NEXT_PUBLIC_PAYPAL_CLIENT_ID || '';
   let apiConfig = fs.readFileSync(apiConfigPath, 'utf8');
   apiConfig = apiConfig.replace(
     /window\.VIBELANDIA_SUPABASE_ANON_KEY = '';/,
     `window.VIBELANDIA_SUPABASE_ANON_KEY = ${JSON.stringify(anonKey)};`
+  );
+  apiConfig = apiConfig.replace(
+    /window\.VIBELANDIA_PAYPAL_CLIENT_ID = '';/,
+    `window.VIBELANDIA_PAYPAL_CLIENT_ID = ${JSON.stringify(paypalClientId)};`
   );
   fs.writeFileSync(apiConfigPath, apiConfig, 'utf8');
 }

@@ -24,3 +24,14 @@
     window.VIBELANDIA_SUPABASE_ANON_KEY = '';
   }
 })();
+
+/**
+ * PayPal client ID (optional). If Octave 2 GET /api/payment/paypal/config does not return a clientId,
+ * set VIBELANDIA_PAYPAL_CLIENT_ID in env at build so the PayPal button can load. create-order/capture still use Octave 2.
+ */
+(function () {
+  if (typeof window === 'undefined') return;
+  if (!window.VIBELANDIA_PAYPAL_CLIENT_ID) {
+    window.VIBELANDIA_PAYPAL_CLIENT_ID = '';
+  }
+})();

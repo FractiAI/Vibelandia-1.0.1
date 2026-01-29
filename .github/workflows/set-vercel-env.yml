@@ -1,0 +1,52 @@
+# Push environment variables to Vercel (manual run).
+# Add the secrets below in GitHub: Settings → Secrets and variables → Actions → New repository secret.
+# Then: Actions → "Set Vercel env" → Run workflow.
+name: Set Vercel env
+
+on:
+  workflow_dispatch:
+
+jobs:
+  push-env:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Push env to Vercel
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+          VERCEL_TEAM_ID: ${{ secrets.VERCEL_TEAM_ID }}
+          VIBELANDIA_SUPABASE_ANON_KEY: ${{ secrets.VIBELANDIA_SUPABASE_ANON_KEY }}
+          NEXT_PUBLIC_SUPABASE_ANON_KEY: ${{ secrets.NEXT_PUBLIC_SUPABASE_ANON_KEY }}
+          NEXT_PUBLIC_SUPABASE_URL: ${{ secrets.NEXT_PUBLIC_SUPABASE_URL }}
+          VIBELANDIA_SUPABASE_URL: ${{ secrets.VIBELANDIA_SUPABASE_URL }}
+          VIBELANDIA_PAYPAL_CLIENT_ID: ${{ secrets.VIBELANDIA_PAYPAL_CLIENT_ID }}
+          NEXT_PUBLIC_PAYPAL_CLIENT_ID: ${{ secrets.NEXT_PUBLIC_PAYPAL_CLIENT_ID }}
+        run: |
+          set -e
+          PROJECT="${VERCEL_PROJECT_ID:-psw-vibelandia-sing4}"
+          TEAM="${VERCEL_TEAM_ID}"
+          BASE="https://api.vercel.com/v10/projects/$(echo "$PROJECT" | jq -sRr @uri)/env"
+          if [ -z "$VERCEL_TOKEN" ]; then
+            echo "::error::VERCEL_TOKEN secret is not set. Add it in Settings → Secrets and variables → Actions."
+            exit 1
+          fi
+          push_var() {
+            local key="$1" value="$2" type="${3:-plain}"
+            [ -z "$value" ] && return 0
+            local url="${BASE}?upsert=true"
+            [ -n "$TEAM" ] && url="${url}&teamId=$(echo "$TEAM" | jq -sRr @uri)"
+            echo "Pushing $key..."
+            body=$(jq -n --arg k "$key" --arg v "$value" --arg t "$type" '{key:$k, value:$v, type:$t, target:["production","preview"]}')
+            code=$(curl -s -o /dev/null -w "%{http_code}" -X POST "$url" \
+              -H "Authorization: Bearer $VERCEL_TOKEN" \
+              -H "Content-Type: application/json" \
+              -d "$body")
+            [ "$code" = "201" ] && echo "  OK" || echo "  HTTP $code"
+          }
+          push_var "VIBELANDIA_SUPABASE_ANON_KEY" "$VIBELANDIA_SUPABASE_ANON_KEY" "secret"
+          push_var "NEXT_PUBLIC_SUPABASE_ANON_KEY" "$NEXT_PUBLIC_SUPABASE_ANON_KEY" "secret"
+          push_var "NEXT_PUBLIC_SUPABASE_URL" "$NEXT_PUBLIC_SUPABASE_URL" "plain"
+          push_var "VIBELANDIA_SUPABASE_URL" "$VIBELANDIA_SUPABASE_URL" "plain"
+          push_var "VIBELANDIA_PAYPAL_CLIENT_ID" "$VIBELANDIA_PAYPAL_CLIENT_ID" "plain"
+          push_var "NEXT_PUBLIC_PAYPAL_CLIENT_ID" "$NEXT_PUBLIC_PAYPAL_CLIENT_ID" "plain"
+          echo "Done. Redeploy the project for changes to take effect."
