@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Drive — Mark Twain's Post-Singularity VIBELANDIA RENO!</title>
+    <link rel="stylesheet" href="experience-common.css">
+    <style>
+        .showroom-hero {
+            text-align: center;
+            padding: 3rem 2rem;
+            background: linear-gradient(145deg, rgba(0, 212, 255, 0.06) 0%, rgba(212, 175, 55, 0.08) 40%, rgba(26, 26, 46, 0.95) 100%);
+            border: 2px solid rgba(0, 212, 255, 0.35);
+            border-radius: 24px;
+            margin-bottom: 2.5rem;
+        }
+        .showroom-hero h1 {
+            font-size: clamp(1.75rem, 4vw, 2.5rem);
+            background: linear-gradient(135deg, #00d4ff, #d4af37, #8a2be2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 0.5rem;
+        }
+        .showroom-hero .supercar-tag { color: #00d4ff; font-size: 1.1rem; font-weight: 600; margin-bottom: 0.5rem; }
+        .showroom-hero .tagline { color: #aaa; font-size: 1rem; }
+        .flow-badge {
+            display: inline-block;
+            padding: 8px 16px;
+            background: rgba(0, 212, 255, 0.12);
+            border: 1px solid rgba(0, 212, 255, 0.4);
+            border-radius: 24px;
+            font-size: 0.9rem;
+            color: #00d4ff;
+            margin-top: 1rem;
+        }
+        .step-block {
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(212, 175, 55, 0.25);
+            border-radius: 16px;
+            padding: 1.75rem;
+            margin-bottom: 1.25rem;
+        }
+        .step-block h2 {
+            font-size: 1.2rem;
+            color: #d4af37;
+            margin-bottom: 0.75rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        .step-block .step-num {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 32px;
+            height: 32px;
+            background: linear-gradient(135deg, #00d4ff, #8a2be2);
+            border-radius: 50%;
+            font-weight: 700;
+            font-size: 1rem;
+        }
+        .step-block p { color: #ccc; font-size: 0.95rem; line-height: 1.6; margin-bottom: 1rem; }
+        .step-block p:last-of-type { margin-bottom: 0; }
+        .start-test-drive {
+            display: inline-block;
+            padding: 1rem 2.5rem;
+            background: linear-gradient(135deg, #00d4ff, #1e90ff);
+            color: #000;
+            font-weight: 800;
+            text-decoration: none;
+            border-radius: 12px;
+            margin-top: 1rem;
+            font-size: 1.1rem;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .start-test-drive:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(0, 212, 255, 0.5);
+            color: #000;
+        }
+        .buy-section {
+            margin-top: 2.5rem;
+            padding: 2rem;
+            background: rgba(212, 175, 55, 0.06);
+            border: 2px solid rgba(212, 175, 55, 0.35);
+            border-radius: 20px;
+        }
+        .buy-section h2 {
+            text-align: center;
+            font-size: 1.5rem;
+            color: #d4af37;
+            margin-bottom: 0.5rem;
+        }
+        .buy-section .sub { text-align: center; color: #aaa; font-size: 0.95rem; margin-bottom: 1.5rem; }
+        .grid-4x4 {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+        .grid-4x4 .dimension {
+            background: rgba(0,0,0,0.3);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 12px;
+            padding: 1.25rem;
+        }
+        .grid-4x4 .dimension h3 { font-size: 1rem; color: #00d4ff; margin-bottom: 0.75rem; }
+        .grid-4x4 .dimension ul { list-style: none; padding: 0; margin: 0; font-size: 0.9rem; color: #bbb; }
+        .grid-4x4 .dimension li { margin-bottom: 0.4rem; }
+        .grid-4x4 .dimension a { color: #d4af37; text-decoration: none; }
+        .grid-4x4 .dimension a:hover { text-decoration: underline; }
+        .buy-btn { display: inline-block; padding: 6px 12px; margin-top: 0.5rem; font-size: 0.85rem; background: rgba(0, 100, 255, 0.4); color: #fff; border-radius: 8px; }
+        .buy-btn:hover { background: rgba(0, 100, 255, 0.7); color: #fff; }
+        footer { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid rgba(255,255,255,0.1); text-align: center; color: #666; font-size: 0.9rem; }
+        footer a { color: #00bfff; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="back"><a href="launch-pad.html">← Launch Pad</a></div>
+
+        <section class="showroom-hero" aria-label="Test Drive Showroom — Welcome">
+            <h1>Test Drive</h1>
+            <p class="supercar-tag">Like you're about to test drive a supercar.</p>
+            <p class="tagline">Experience one, two, three — then 4×4×4×4 options to buy if you liked it.</p>
+            <span class="flow-badge">0, 1, 2, 3 4×4×4×4 — Octave 0 through 3 · Layer zero · NSPFRNP</span>
+        </section>
+
+        <!-- Step 1 — Start test drive -->
+        <section class="step-block" aria-label="Step 1 — Start test drive">
+            <h2><span class="step-num">1</span> Start test drive</h2>
+            <p>You're in the showroom. This is layer zero — the repo, the site, the proof. Pull in the repository. Open to a test drive. One.</p>
+            <p><a href="launch-pad.html" class="start-test-drive">Open test drive →</a></p>
+        </section>
+
+        <!-- Step 2 — Experience (the drive) -->
+        <section class="step-block" aria-label="Step 2 — Experience">
+            <h2><span class="step-num">2</span> Experience</h2>
+            <p>Two. Take the wheel. The site is the test drive — see it, experience it, believe it. Campus, WINK!, SING!, Happy Ending Zones, Magical Dressing Room. No pitch deck required; the deliverable is the proof.</p>
+            <p>
+                <a href="vibelandia-reno-experience.html" class="cta">Campus →</a>
+                <a href="wink-experience.html" class="cta secondary">WINK! →</a>
+                <a href="sing-lottery-experience.html" class="cta secondary">SING! →</a>
+                <a href="happy-ending-zones-experience.html" class="cta secondary">Happy Ending Zones →</a>
+                <a href="magical-dressing-room.html" class="cta secondary">Dressing Room →</a>
+            </p>
+        </section>
+
+        <!-- Step 3 — How was it? -->
+        <section class="step-block" aria-label="Step 3 — How was it?">
+            <h2><span class="step-num">3</span> How was it?</h2>
+            <p>Three. You've driven. If you liked it — 4×4×4×4 of options to buy. Campus × WINK! × SING × Experience. Four dimensions, four onramps each. Pick your tier and BUY.</p>
+            <p><a href="#buy" class="start-test-drive">See 4×4×4×4 options to buy →</a></p>
+        </section>
+
+        <!-- 4×4×4×4 — Options to buy if you liked it -->
+        <section id="buy" class="buy-section" aria-label="4×4×4×4 — Options to buy">
+            <h2>4×4×4×4 — Options to buy if you liked it</h2>
+            <p class="sub">Campus × WINK! × SING × Experience · Four dimensions, four onramps each</p>
+
+            <div class="grid-4x4">
+                <div class="dimension">
+                    <h3>Campus</h3>
+                    <ul>
+                        <li><a href="payment-checkout.html?plan=campus-half-day">Half-day $3k</a></li>
+                        <li><a href="payment-checkout.html?plan=campus-overnight">Overnight $1.5k</a></li>
+                        <li><a href="payment-checkout.html?plan=campus-weekly">Weekly $5k</a></li>
+                        <li><a href="payment-checkout.html?plan=campus-monthly">Monthly $50k</a></li>
+                    </ul>
+                    <a href="vibelandia-reno-experience.html" class="buy-btn">Experience →</a>
+                </div>
+                <div class="dimension">
+                    <h3>WINK!</h3>
+                    <ul>
+                        <li><a href="payment-checkout.html?plan=wink-base">Base $399</a></li>
+                        <li><a href="payment-checkout.html?plan=wink-standard">Standard $999</a></li>
+                        <li><a href="payment-checkout.html?plan=wink-premium">Premium $2,499</a></li>
+                        <li><a href="payment-checkout.html?plan=wink-4x4-ultimate">4×4 Ultimate $6,999/mo</a></li>
+                    </ul>
+                    <a href="wink-experience.html" class="buy-btn">Experience →</a>
+                </div>
+                <div class="dimension">
+                    <h3>SING</h3>
+                    <ul>
+                        <li><a href="payment-checkout.html?plan=sing-base">Base ~$20K</a></li>
+                        <li><a href="payment-checkout.html?plan=sing-members">Members $75K</a></li>
+                        <li><a href="payment-checkout.html?plan=sing-ultimate-vip">Ultimate VIP $200K</a></li>
+                        <li><a href="payment-checkout.html?plan=sing-baller-v">Baller V $500K</a></li>
+                    </ul>
+                    <a href="sing-lottery-experience.html" class="buy-btn">Experience →</a>
+                </div>
+                <div class="dimension">
+                    <h3>Experience</h3>
+                    <ul>
+                        <li>Visit · Stay · Create · Transform</li>
+                        <li><a href="happy-ending-zones-experience.html">Happy Ending Zones</a></li>
+                        <li><a href="payment-checkout.html?plan=golden-backstage-awareness-pass">Golden Backstage Pass</a></li>
+                        <li><a href="ultimate-vip-experience.html">Ultimate VIP</a></li>
+                    </ul>
+                    <a href="launch-pad.html" class="buy-btn">Launch Pad →</a>
+                </div>
+            </div>
+
+            <p style="margin-top: 1.5rem; text-align: center; font-size: 0.95rem; color: #d4af37;"><strong>PayPal only and proudly.</strong> Pioneer Status for first 1,000 — lifetime discounts. MCA! → ∞³.</p>
+        </section>
+
+        <footer>
+            <p>PSW.vibelandia.sing4 · Test Drive Showroom · <a href="launch-pad.html">Launch Pad</a> · <a href="index.html">Landing</a></p>
+        </footer>
+    </div>
+</body>
+</html>
