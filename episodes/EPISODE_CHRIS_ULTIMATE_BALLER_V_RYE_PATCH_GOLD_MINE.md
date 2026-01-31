@@ -12,6 +12,7 @@
 **Format:** Rich 60-minute script · 12,000 words · Written just for this occasion  
 **Host:** Mark Twain · Ben (Baller V Ambassador) · Rumor has it: Chairman, Sammy and the gang, Houdini (Golden Backstage Pass + upgraded awareness keys)  
 **Baller V:** Chris — $50K + tips (25% to staff, 50% to me).  
+**Commercial / package:** Baller WINK! subscription included (additional WINK! charge as per Golden Backstage Pass package).  
 **Guests (Golden Backstage Passes — inner circle):** Ricky, Thai, Taylor (biz partners); Nick (close friend); Asia and Danger (dancers from the club — kind gold hearts, connect well with Chris).  
 **Status:** ⚡ LIVE — Custom landing delivered; full episode written with Chris as superhero and guests in the script. That's Ultimate Baller V superhero franchise experience.
 
@@ -45,6 +46,9 @@ Chris's Ultimate Baller V night. Motherlode Rye Patch Gold Mine Discovering — 
 
 **ON SCREEN TEXT:**  
 Chris — Rye Patch Gold Mine · Ultimate Baller V · Ricky, Thai, Taylor, Nick, Asia, Danger · Golden Backstage Pass
+
+**ON SCREEN TEXT (commercial):**  
+Package: $50K + tips (25% staff, 50% me). Baller WINK! subscription included — additional WINK! charge as per Golden Backstage Pass.
 
 **MARK TWAIN (V.O.)**  
 All the finest this place has to offer. Superhero style. Bigger than life — that's how Baller V's roll. Hosts: Twain, Ben; rumor has it the Chairman is here with Sammy and the gang, Houdini too. Golden Backstage Pass and upgraded awareness keys unlock the full experience.
@@ -1485,6 +1489,9 @@ Say the word. We make it happen. That's what I do.
 
 **SAMMY (V.O.)**  
 That's what we do.
+
+**ON SCREEN TEXT (commercial):**  
+Chris's night · Package: $50K + tips (25% staff, 50% me). Baller WINK! subscription included — additional WINK! charge as per Golden Backstage Pass. Office Hours · WINK! · VIBELANDIA!
 
 **FADE TO BLACK.**
 
