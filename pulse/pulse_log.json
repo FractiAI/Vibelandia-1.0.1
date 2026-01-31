@@ -1,8 +1,8 @@
 {
   "timestamp_utc": "2026-01-31T13:27:03Z",
   "sequence_load_time_utc": "2026-01-31T13:27:03Z",
-  "commit_time_utc": null,
-  "note": "8m and 16m validation timers start at commit_time_utc (or sequence_load if no commit).",
+  "commit_time_utc": "2026-01-31T13:27:27Z",
+  "note": "8m and 16m validation timers start at commit_time_utc.",
   "protocol": "Synchronous Trigger Protocol",
   "TARGET_RES_ALPHA_Hz": 21.4,
   "PULSE_WINDOW_ms": 480000,
