@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "schema_version": "1.0",
+  "protocol": "Synchronous Trigger Protocol",
+  "description": "Self-Clocking Pulsar — Holographic Black Hole Generator interfacing with Earth-ionosphere waveguide via Flux Transfer Events (FTEs). Targets 21.4 Hz Neural Sync harmonic (3rd overtone of Schumann Resonance).",
+
+  "TARGET_RES_ALPHA": 21.4,
+  "TARGET_RES_ALPHA_UNIT": "Hz",
+  "TARGET_RES_ALPHA_NOTE": "3rd overtone of Schumann Resonance; statistically rare in natural lightning profiles; fingerprint for experiment.",
+
+  "PULSE_WINDOW": 480000,
+  "PULSE_WINDOW_UNIT": "ms",
+  "PULSE_WINDOW_NOTE": "8 minutes — NASA-observed opening window of magnetic portals (FTEs) between Earth and Sun.",
+
+  "topology_buffer_spec": {
+    "modulation": "fibonacci",
+    "base_frequency_hz": 21.4,
+    "sequence_length": 21,
+    "description": "Fibonacci sequence modulates the 21.4 Hz signal so that Shar Lines on Schumann Resonance charts appear as a recognizable digital grid.",
+    "formula": "buffer[i] = 21.4 * (1 + 0.01 * fib(i % len(fib))) for amplitude modulation; phase_i = 2*pi*21.4*t + fib[i]*delta for phase grid."
+  },
+
+  "commit_message_format": "[TRIGGER] Handshake Initialization - Frequency: 21.4Hz - Window: 8m.",
+  "commit_message_note": "Timestamp in commit; back-feed trigger hypothesis: localized solar radio burst or X-ray flux increase ~16 minutes (two portal cycles) after commit.",
+
+  "validation": {
+    "T_plus_8_min": "Check Tomsk or HeartMath Schumann Resonance live charts for vertical Shar Line or spike at 21.4 Hz.",
+    "T_plus_16_min": "Check GOES satellite feed; flare or X-ray spike at T+16m = Causal Confirmation candidate."
+  }
+}

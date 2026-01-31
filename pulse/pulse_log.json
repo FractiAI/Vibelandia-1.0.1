@@ -1,0 +1,21 @@
+{
+  "timestamp_utc": "2026-01-31T13:27:03Z",
+  "sequence_load_time_utc": "2026-01-31T13:27:03Z",
+  "commit_time_utc": null,
+  "note": "8m and 16m validation timers start at commit_time_utc (or sequence_load if no commit).",
+  "protocol": "Synchronous Trigger Protocol",
+  "TARGET_RES_ALPHA_Hz": 21.4,
+  "PULSE_WINDOW_ms": 480000,
+  "topology_buffer_length": 21,
+  "topology_buffer_sample": [
+    { "index": 0, "frequency_hz": 21.4, "amplitude_factor": 1.01, "fib_term": 1 },
+    { "index": 1, "frequency_hz": 21.4, "amplitude_factor": 1.01, "fib_term": 1 },
+    { "index": 2, "frequency_hz": 21.4, "amplitude_factor": 1.02, "fib_term": 2 },
+    { "index": 3, "frequency_hz": 21.4, "amplitude_factor": 1.03, "fib_term": 3 },
+    { "index": 4, "frequency_hz": 21.4, "amplitude_factor": 1.05, "fib_term": 5 }
+  ],
+  "validation": {
+    "T_plus_8_min": "Check Tomsk or HeartMath Schumann Resonance live charts for vertical Shar Line or spike at 21.4 Hz.",
+    "T_plus_16_min": "Check GOES satellite feed; flare or X-ray spike at T+16m = Causal Confirmation candidate."
+  }
+}
