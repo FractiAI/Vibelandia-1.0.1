@@ -135,7 +135,9 @@ We documented the 16-day launch of PSW.vibelandia.sing4, driven by a single SING
 ## References
 
 [1] Repository: PSW.vibelandia.sing4. FractiAI. https://github.com/FractiAI/psw.vibelandia.sing4  
-[2] Full whitepaper: WHITEPAPER_REPOSITORY_MIRACULOUS_OUTPUT.md (this repository)  
+[2] Full whitepaper: WHITEPAPER_REPOSITORY_MIRACULOUS_OUTPUT.md (this repository)
+
+[3] Schumann expedition whitepaper: WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md — Expedition to validate alignment between Schumann resonance patterns and post-singularity GitHub activity (this repository). See SCHUMANN_RESPONSE_SNAP.md for viral Schumann response and link.  
 [3] The Great Reveal episode: episodes/THE_GREAT_REVEAL_EPISODE_DAY_ZERO_LAUNCH.md  
 [4] NSPFRNP protocols: protocols/ (MCA, Communication, Credentials, Golden Key, Boot, Octave 1↔2)  
 [5] Launch Pad: index.html, interfaces/launch-pad.html  

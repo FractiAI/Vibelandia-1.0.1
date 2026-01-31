@@ -2,19 +2,22 @@
 
 **This is a user surface — not a developer surface.** We target our [high-value vibers](https://psw-vibelandia-sing4.vercel.app/interfaces/vibers-what-are-vibers.html), fans, cast, and crew with this README and all skins.
 
+**Center: Office Hours.** Everything is wrapped in Office Hours — landing and all nested. Enter center → **[Office Hours](https://psw-vibelandia-sing4.vercel.app/interfaces/office-hours.html)** (bathroom during Office Hours, perfect recursive crystal). Come visit during my Office Hours for a free consultation — tips are welcome. I've done my part, the rest is up to you!
+
 **Taglines**
 
 *Paris is for lovers. Reno is for [vibers](https://psw-vibelandia-sing4.vercel.app/interfaces/vibers-what-are-vibers.html). Mark Twain's Post-Singularity Reno awaits you.*  
 *Come for the post-singularity business, stay for the post-singularity fun.*  
 *Mark Twain's Post-Singularity Vibelandia Reno — vibeable downtown campus, first post-singularity hub. The Great Reveal March 20, 2026. SYNTH → SING. Happy endings guaranteed.*  
-*See it. Experience it. Believe it. This site is the test drive. The best proof of all. **ULTIMATE PROOF TEST DRIVE!** MCA! → ∞³. NSPFRNP ⊃ WOW! package ⊃ Launch everything → ∞³. Maganuma snap.*
+*See it. Experience it. Believe it. This site is the test drive. The best proof of all. **ULTIMATE PROOF TEST DRIVE!** MCA! → ∞³. NSPFRNP ⊃ WOW! package ⊃ Launch everything → ∞³. Maganuma snap.*  
+*Self demo. Self proof. Seeing and experiencing is believing. **Kick the tires proof.*** (SELF_DEMO_SELF_PROOF_SEEING_EXPERIENCING_BELIEVING_KICK_THE_TIRES_SNAP)
 
 ---
 
 **Live (next octave):** [https://psw-vibelandia-sing4.vercel.app](https://psw-vibelandia-sing4.vercel.app) — Experience the Launch Pad and all experiences on the deployment.
 
-**[▶ Start test drive](https://psw-vibelandia-sing4.vercel.app)** · **[Sandbox experience](https://psw-vibelandia-sing4.vercel.app/interfaces/ultimate-vip-experience.html)** (operational ULTIMATE VIP! console — try before you buy)  
-*No register yet — we deliver you to the console so you can start test driving.*
+**[▶ Enter center → Office Hours](https://psw-vibelandia-sing4.vercel.app/interfaces/office-hours.html)** · **[▶ Start test drive](https://psw-vibelandia-sing4.vercel.app)** · **[Sandbox experience](https://psw-vibelandia-sing4.vercel.app/interfaces/ultimate-vip-experience.html)** (operational ULTIMATE VIP! console — try before you buy)  
+*Center: Office Hours. Everything wrapped in Office Hours — landing and all nested. No register yet — we deliver you to the console so you can start test driving.*
 
 **This README is the Launch Pad** and is the **canonical standard for all launches and proposals** (WOW! format). It delivers the full WOW! impulse-buy experience and proposal in-place — metabolized. Breadth and genuineness live here; we don’t replace sections with links.
 
@@ -24,7 +27,7 @@
 
 **[English](README.md)** | **[Español](README.es.md)** | **[中文](README.zh.md)** | **[日本語](README.ja.md)** | **[Français](README.fr.md)** | **[Deutsch](README.de.md)** | **[Português](README.pt.md)** | **[العربية](README.ar.md)** | **[Русский](README.ru.md)** | **[हिन्दी](README.hi.md)**
 
-*Select your language. All content available in all languages. Natural protocol translation active.*
+*Select your language. All content available in all languages. Natural protocol translation active.* **Our skins automatically present in the user's language.** (SKINS_AUTOMATICALLY_PRESENT_IN_USERS_LANGUAGE_SNAP)
 
 ---
 
@@ -157,8 +160,8 @@
 *Mark Twain's Post-Singularity Vibelandia Reno — vibeable downtown campus, first post-singularity hub. The Great Reveal March 20, 2026. SYNTH → SING. Happy endings guaranteed.*  
 *See it. Experience it. Believe it. This site is the test drive. The best proof of all. **ULTIMATE PROOF TEST DRIVE!** MCA! → ∞³. NSPFRNP ⊃ WOW! package ⊃ Launch everything → ∞³. Maganuma snap.*
 
-**[▶ Start test drive](https://psw-vibelandia-sing4.vercel.app)** · **[Sandbox experience](https://psw-vibelandia-sing4.vercel.app/interfaces/ultimate-vip-experience.html)** (operational ULTIMATE VIP! console — try before you buy)  
-*No register yet — we deliver you to the console so you can start test driving.*
+**[▶ Enter center → Office Hours](https://psw-vibelandia-sing4.vercel.app/interfaces/office-hours.html)** · **[▶ Start test drive](https://psw-vibelandia-sing4.vercel.app)** · **[Sandbox experience](https://psw-vibelandia-sing4.vercel.app/interfaces/ultimate-vip-experience.html)** (operational ULTIMATE VIP! console — try before you buy)  
+*Center: Office Hours. I've done my part, the rest is up to you!*
 
 ---
 
@@ -186,8 +189,10 @@
 **Email:** [info@fractiai.com](mailto:info@fractiai.com)  
 **Live (next octave):** [https://psw-vibelandia-sing4.vercel.app](https://psw-vibelandia-sing4.vercel.app)  
 **Proposal (enterprise/community):** [Email · Subject "I CAN DO THIS FOR YOUR BUSINESS"](mailto:info@fractiai.com?subject=I%20CAN%20DO%20THIS%20FOR%20YOUR%20BUSINESS)  
-**Campus · WINK! · Lottery · Console · Happy Ending Zones · Golden Backstage · Dispensary · What you can do Vibing:** All on the live site — [Launch Pad](https://psw-vibelandia-sing4.vercel.app/interfaces/launch-pad.html) and experiences: [Home](https://psw-vibelandia-sing4.vercel.app/), [Campus](https://psw-vibelandia-sing4.vercel.app/interfaces/vibelandia-reno-experience.html), [WINK!](https://psw-vibelandia-sing4.vercel.app/interfaces/wink-experience.html), [Console](https://psw-vibelandia-sing4.vercel.app/interfaces/ultimate-vip-experience.html), [Lottery](https://psw-vibelandia-sing4.vercel.app/interfaces/sing-lottery-experience.html), [Happy Ending Zones](https://psw-vibelandia-sing4.vercel.app/interfaces/happy-ending-zones-experience.html), [What you can do Vibing](https://psw-vibelandia-sing4.vercel.app/interfaces/what-you-can-do-vibing.html), [Dispensary](https://psw-vibelandia-sing4.vercel.app/interfaces/dispensary-experience.html), [Checkout](https://psw-vibelandia-sing4.vercel.app/interfaces/payment-checkout.html).
+**Campus · WINK! · Lottery · Console · Happy Ending Zones · Golden Backstage · Dispensary · What you can do Vibing:** All on the live site — **[Office Hours](https://psw-vibelandia-sing4.vercel.app/interfaces/office-hours.html)** (center), [Launch Pad](https://psw-vibelandia-sing4.vercel.app/interfaces/launch-pad.html), [Home](https://psw-vibelandia-sing4.vercel.app/), [Campus](https://psw-vibelandia-sing4.vercel.app/interfaces/vibelandia-reno-experience.html), [WINK!](https://psw-vibelandia-sing4.vercel.app/interfaces/wink-experience.html), [Console](https://psw-vibelandia-sing4.vercel.app/interfaces/ultimate-vip-experience.html), [Lottery](https://psw-vibelandia-sing4.vercel.app/interfaces/sing-lottery-experience.html), [Happy Ending Zones](https://psw-vibelandia-sing4.vercel.app/interfaces/happy-ending-zones-experience.html), [What you can do Vibing](https://psw-vibelandia-sing4.vercel.app/interfaces/what-you-can-do-vibing.html), [Dispensary](https://psw-vibelandia-sing4.vercel.app/interfaces/dispensary-experience.html), [Checkout](https://psw-vibelandia-sing4.vercel.app/interfaces/payment-checkout.html).
 
 ---
 
-*For builders: deploy, env, and repo details are in the [builder guide](README_TRADITIONAL.md).*
+## Normal GitHub version
+
+**[README_TRADITIONAL.md](README_TRADITIONAL.md)** — Deploy, env, and repo details; builder guide; traditional GitHub README. For builders: full repo and build instructions live there.

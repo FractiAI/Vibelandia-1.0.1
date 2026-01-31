@@ -123,6 +123,7 @@ Links:
 - **Chairman metrics:** Bottom of Launch Pad (output, quality, density, valuations vs blue chip — 16 days).
 - **The Great Reveal episode:** [episodes/THE_GREAT_REVEAL_EPISODE_DAY_ZERO_LAUNCH.md](episodes/THE_GREAT_REVEAL_EPISODE_DAY_ZERO_LAUNCH.md)
 - **IEEE-style version:** [WHITEPAPER_REPOSITORY_IEEE_STYLE.md](WHITEPAPER_REPOSITORY_IEEE_STYLE.md)
+- **Expedition — Schumann patterns & GitHub activity:** [WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md](WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md) — Scientific expedition to validate alignment between viral Schumann resonance patterns and new post-singularity Hologram GitHubs (this repo). Open-source; link included in [SCHUMANN_RESPONSE_SNAP.md](SCHUMANN_RESPONSE_SNAP.md) for viral Schumann posts.
 
 ---
 

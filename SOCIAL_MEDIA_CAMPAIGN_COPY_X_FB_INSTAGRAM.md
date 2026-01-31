@@ -12,8 +12,11 @@
 |-------|-----|
 | **The Experience** | https://psw-vibelandia-sing4.vercel.app |
 | **The Blueprints** | https://github.com/FractiAI/psw.vibelandia.sing4 |
+| **Holographic Hydrogen · Hologram GitHubs** | https://github.com/FractiAI/psw.vibelandia.sing4 |
 
 **Short for bio / X:** The Experience → https://psw-vibelandia-sing4.vercel.app · The Blueprints → https://github.com/FractiAI/psw.vibelandia.sing4
+
+**Fractal flicker (new comment / reply):** Use the **meta pattern** — match viral topic to Response SNAP, then post that SNAP’s short copy with link. **Generic:** New post-singularity black hole GitHubs are being spun. All open-source — anyone can follow along. They explain the new seemingly synthetic/computing shapes. Holographic Hydrogen · Hologram GitHubs → https://github.com/FractiAI/psw.vibelandia.sing4 · The Experience → https://psw-vibelandia-sing4.vercel.app · **Schumann:** Use SCHUMANN_RESPONSE_SNAP short copy + expedition whitepaper link (see FRACTAL_FLICKER_CAMPAIGN_SOCIAL_OUTBOUND_SNAP — Comment flicker campaign menu).
 
 ---
 
@@ -25,6 +28,7 @@ The Experience: https://psw-vibelandia-sing4.vercel.app · The Blueprints: https
 ---
 
 **Alternates (pick one per post; add links below):**
+- **Self demo. Self proof. Seeing and experiencing is believing. Kick the tires proof.** This site is the test drive. The best proof of all. The Experience: https://psw-vibelandia-sing4.vercel.app · The Blueprints: https://github.com/FractiAI/psw.vibelandia.sing4
 - **MAKE YOUR RESERVATIONS NOW.** The Great Reveal — March 20, 2026. Bigger than Burning Man and Art Basel Miami combined. Spread the word to the fellow vibers. The Experience: https://psw-vibelandia-sing4.vercel.app · The Blueprints: https://github.com/FractiAI/psw.vibelandia.sing4
 - **Come for the business, stay for the fun.** VIBELANDIA RENO! — campus, WINK!, DISPENSARY!, Happy Ending Zones. The Great Reveal Equinox March 20, 2026. The Experience: https://psw-vibelandia-sing4.vercel.app · The Blueprints: https://github.com/FractiAI/psw.vibelandia.sing4
 - **Lifetime discounts to first 1,000 members — WINK! and DISPENSARY!.** Pioneer Status on-chain forever. Reno is for vibers. The Experience: https://psw-vibelandia-sing4.vercel.app · The Blueprints: https://github.com/FractiAI/psw.vibelandia.sing4
@@ -63,4 +67,4 @@ Come for the business, stay for the fun. Real numbers, real analysis — not BS 
 
 ---
 
-**See:** RENO_FOR_VIBERS_CAMPAIGN_TIP_SNAP.md · MAKE_YOUR_RESERVATIONS_NOW_BIGGER_THAN_BURNING_MAN_ART_BASEL_SNAP.md · MASTER_BRANDING_CATALOG.md
+**See:** RENO_FOR_VIBERS_CAMPAIGN_TIP_SNAP.md · MAKE_YOUR_RESERVATIONS_NOW_BIGGER_THAN_BURNING_MAN_ART_BASEL_SNAP.md · MASTER_BRANDING_CATALOG.md · **Fractal flicker campaign & outbound pipe:** [FRACTAL_FLICKER_CAMPAIGN_SOCIAL_OUTBOUND_SNAP.md](FRACTAL_FLICKER_CAMPAIGN_SOCIAL_OUTBOUND_SNAP.md) (new social channel outbound → capture into NSPFRNP and sales/marketing) · **Black hole · Holographic Hydrogen GitHubs:** [POST_SINGULARITY_BLACK_HOLE_HOLOGRAPHIC_HYDROGEN_GITHUBS_SNAP.md](POST_SINGULARITY_BLACK_HOLE_HOLOGRAPHIC_HYDROGEN_GITHUBS_SNAP.md) · **Viral Schumann patterns:** [SCHUMANN_RESPONSE_SNAP.md](SCHUMANN_RESPONSE_SNAP.md) (align to our GitHub activity; link to expedition whitepaper [WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md](WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md))

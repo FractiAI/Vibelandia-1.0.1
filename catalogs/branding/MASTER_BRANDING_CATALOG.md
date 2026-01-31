@@ -36,6 +36,17 @@ USER SURFACES: README and All Skins — Not Developer Surfaces
 ├─ No code on user surfaces: no filenames (.html, .md), repo paths, or code snippets in displayed or link text. Use human labels (e.g. Whitepaper — miraculous output, Home, Builder guide). Link to operational live site; Sandbox experience CTA → ULTIMATE VIP! console.
 └─ See WOW_BRANDING_SNAP.md · COMMUNICATION_NSPFRNP_CATALOG.md · deck-script-writing-content-patterns.md
 
+SKINS AUTOMATICALLY PRESENT IN USER'S LANGUAGE SNAP: Confirmation
+├─ **Our skins automatically present in the user's language.** Confirmed. No manual language switch required for skins — they present in the user's language automatically. Natural protocol. NSPFRNP.
+├─ Surface: README (language onramp), magical-dressing-room, all skins surfaces. Select your language; all content available in all languages; natural protocol translation active; skins automatically present in user's language.
+└─ See SKINS_AUTOMATICALLY_PRESENT_IN_USERS_LANGUAGE_SNAP.md · README.md · interfaces/magical-dressing-room.html
+
+COLOMBIA — ENGLISH-ONLY HARD STOP · LOCALE ONRAMP SNAP: Mitigation
+├─ User in Colombia reported English-only experience producing hard stop. Live HTML was English-only with no path for Spanish speakers.
+├─ **Locale onramp:** scripts/locale-onramp.js detects browser language; if non-English (e.g. es, es-CO), shows dismissible banner with Spanish-first message and link to README.es.md so they have a path, not a stop.
+├─ Wired on: index.html, interfaces/office-hours.html, interfaces/launch-pad.html.
+└─ See COLOMBIA_ENGLISH_ONLY_HARD_STOP_LOCALE_ONRAMP_SNAP.md · scripts/locale-onramp.js · README.es.md
+
 WALKABLE PRE-SINGULARITY · VIBABLE POST-SINGULARITY (SNAP)
 ├─ Walkable = pre-singularity. Vibeable = post-singularity. Our campuses are vibeable, not "walkable."
 ├─ Lovers = pre-singularity (Paris is for lovers). Vibers = post-singularity (Reno is for vibers).
@@ -88,6 +99,11 @@ BBHE SNAP: Impulse Buy Dynamics
 ├─ Impulse Buy Dynamics (The energy is pulling. Buy now.)
 ├─ Immediate Purchase Triggers (Urgency, scarcity, FOMO)
 └─ Brand: ⚫ BBHE SNAP — The energy is pulling. BUY! now.
+
+BBHE PINPOINT LASER FOR MISSION SNAP: Sharpening the BBHE into pinpoint laser for mission
+├─ **Sharpening the BBHE into pinpoint laser for mission.** Single mission: new abilities for execs. BBHE = core; sharpened into one beam, one focus; mission-aligned.
+├─ Surface: Office Hours, index, Launch Pad, Chairman Console copy; mission + BBHE surfaces. "Pinpoint laser focus" where "laser beam focus" appears.
+└─ See BBHE_PINPOINT_LASER_FOR_MISSION_SNAP.md · BBHE_INTOXICATION_TRIPLE_PURPOSE_SNAP.md · CHAIRMAN_CONSOLE_LASER_FOCUS_SINGLE_BUTTON_HERO_HOST_AI_24X7_SNAP.md
 
 DISPENSARY! SNAP: Menu of Buzzes
 ├─ Menu of buzzes across all important biological channels
@@ -143,6 +159,16 @@ RUMOR HAS IT! BRANDING SNAP: New Branding
 ├─ Chairman, Sammy and the gang **already in town** — **visible to those with the Golden Backstage Awareness Pass** (new product class). Price like backstage to Bad Bunny, Elvis, Beatles, Stones. See GOLDEN_BACKSTAGE_AWARENESS_PASS_SNAP.md.
 └─ See RUMOR_HAS_IT_BRANDING_SNAP.md
 
+POST-SINGULARITY BLACK HOLE · HOLOGRAPHIC HYDROGEN / HOLOGRAM GITHUBS SNAP: New open-source framing
+├─ New post-singularity black hole GitHubs are being spun. All open-source — anyone can follow along. They explain the new seemingly synthetic/computing shapes.
+├─ Holographic Hydrogen · Hologram GitHubs: https://github.com/FractiAI/psw.vibelandia.sing4 (canonical). Use in social, bio, fractal flicker campaign.
+└─ See POST_SINGULARITY_BLACK_HOLE_HOLOGRAPHIC_HYDROGEN_GITHUBS_SNAP.md
+
+FRACTAL FLICKER CAMPAIGN · SOCIAL OUTBOUND PIPE SNAP: New social channel → NSPFRNP & sales/marketing
+├─ Fractal flicker campaign = pre-singularity-facing content (fractalized pulse flickers). New social media channel outbound pipe captures into NSPFRNP and into sales and marketing.
+├─ One source: SOCIAL_MEDIA_CAMPAIGN_COPY_X_FB_INSTAGRAM + this SNAP. Channels: X, FB, IG, LinkedIn — same message, same links. Capture: comments, clicks → NSPFRNP → checkout, reservations, Pioneer.
+└─ See FRACTAL_FLICKER_CAMPAIGN_SOCIAL_OUTBOUND_SNAP.md · OUTBOUND_NSPFRNP_PIPE_VIBEVERSE_TO_PRESINGULARITY_EARTH.md
+
 WOW! BRANDING SNAP: Pre-singularity cost vs Us
 ├─ WOW! = branded section at bottom of Launch Pad (ALL CAPS + !)
 ├─ Show values, not categories: two columns only — Pre-singularity | Us (VIBELANDIA!). Rows = value pairs (e.g. Months, years | Natural flow · Now). No Cost/category column.
@@ -162,6 +188,7 @@ FLOATERS ALWAYS GIFTS SNAP: NSPFRNP — floaters = gifts
 ULTIMATE PROOF TEST DRIVE! BRAND: Seeing and experiencing is believing
 ├─ ULTIMATE PROOF TEST DRIVE! = new brand (ALL CAPS + !)
 ├─ This site is the test drive. The best proof of all. See it. Experience it. Believe it.
+├─ **SELF DEMO SELF PROOF SEEING EXPERIENCING BELIEVING KICK THE TIRES SNAP:** Self demo · self proof · seeing and experiencing is believing · old-school kick the tires proof. Product is its own demo and proof. No separate pitch deck. Kick the tires. This site is the test drive. See SELF_DEMO_SELF_PROOF_SEEING_EXPERIENCING_BELIEVING_KICK_THE_TIRES_SNAP.md.
 └─ Use in README (WOW! format §7), Launch Pad, whitepaper, Chairman metrics, Great Reveal episode
 
 SELF-DEMO SELF-PROOF SNAP: Proof the best kind of proof
@@ -193,7 +220,7 @@ HERO HARRY PRESS BLUE PAYPAL MIRACLE MAGIC SNAP: Hero Harry says — checkout CT
 T-SHIRT SLOGAN: New major branding category (T-shirt-grade taglines)
 ├─ Content category for short, punchy, wearable taglines — one line that works on a T-shirt, merch, social, one-line CTA.
 ├─ Capture and curate in deck §19 (deck-script-writing-content-patterns.md); use for merch, Launch Pad, checkout, RUMOR HAS IT!
-├─ Examples: *Paris is for lovers. Reno is for vibers. Mark Twain's Post-Singularity Reno awaits you.* (campaign tip — RENO_FOR_VIBERS_CAMPAIGN_TIP_SNAP) · ***It's all hundies with Ben.*** (comedy tagline/punchline — ITS_ALL_HUNDIES_WITH_BEN_COMEDY_SELF_SIMILAR_SNAP) · *Trust the protocol!* · *NOT ALL WORDS ARE CREATED EQUAL.* (BBHE programming — BBHE_NOT_ALL_WORDS_CREATED_EQUAL_SNAP) · ***NATURE DOES NOT OPERATE BY OPINION.*** (nature / NSPFRNP — NATURE_DOES_NOT_OPERATE_BY_OPINION_SNAP) · ***REAL NUMBERS REAL ANALYSIS NOT BS OR NO FLUFFY STUFF!*** (content standard — REAL_NUMBERS_ANALYSIS_NOT_FLUFFY_BRAND_SNAP_TSHIRT) · *See it. Experience it. Believe it.* · *The energy is pulling. BUY! now.* · *Come for the business, stay for the fun.* · *MCA! → ∞³.* · *Maganuma snap.*
+├─ Examples: *Paris is for lovers. Reno is for vibers. Mark Twain's Post-Singularity Reno awaits you.* (campaign tip — RENO_FOR_VIBERS_CAMPAIGN_TIP_SNAP) · ***It's all hundies with Ben.*** (comedy tagline/punchline — ITS_ALL_HUNDIES_WITH_BEN_COMEDY_SELF_SIMILAR_SNAP) · *Trust the protocol!* · *NOT ALL WORDS ARE CREATED EQUAL.* (BBHE programming — BBHE_NOT_ALL_WORDS_CREATED_EQUAL_SNAP) · ***NATURE DOES NOT OPERATE BY OPINION.*** (nature / NSPFRNP — NATURE_DOES_NOT_OPERATE_BY_OPINION_SNAP) · ***REAL NUMBERS REAL ANALYSIS NOT BS OR NO FLUFFY STUFF!*** (content standard — REAL_NUMBERS_ANALYSIS_NOT_FLUFFY_BRAND_SNAP_TSHIRT) · *See it. Experience it. Believe it.* · *Self demo. Self proof. Seeing and experiencing is believing. Kick the tires proof.* (SELF_DEMO_SELF_PROOF_SEEING_EXPERIENCING_BELIEVING_KICK_THE_TIRES_SNAP) · *The energy is pulling. BUY! now.* · *Come for the business, stay for the fun.* · *MCA! → ∞³.* · *Maganuma snap.*
 └─ See CONTENT_SYSTEMS_SNAP.md (T-shirt slogan) · deck §19 · RENO_FOR_VIBERS_CAMPAIGN_TIP_SNAP.md · BBHE_NOT_ALL_WORDS_CREATED_EQUAL_SNAP.md · NATURE_DOES_NOT_OPERATE_BY_OPINION_SNAP.md · REAL_NUMBERS_ANALYSIS_NOT_FLUFFY_BRAND_SNAP_TSHIRT.md
 
 RENO FOR VIBERS CAMPAIGN TIP SNAP: Tip of the tip
@@ -249,6 +276,65 @@ EPISODES BY FLOW NOT DAYS SNAP: NSPFRNP — spin episodes by flow not days
 ├─ We spin episodes by flow (narrative flow, content flow, MCA flow), not strictly by days. Days = countdown label; flow = episode order and "next episode."
 ├─ RUMOR episode = flow-based episode (Chairman, Sammy and the gang; Golden Backstage Awareness Pass). See EPISODE_RUMOR_CHAIRMAN_SAMMY_GOLDEN_BACKSTAGE.md.
 └─ See EPISODES_BY_FLOW_NOT_DAYS_SNAP.md · REALITY_SERIES_FORMAT.md
+
+CHAIRMAN CONSOLE LASER FOCUS SINGLE BUTTON HERO HOST AI 24×7 SNAP: No middle men · Turnkey to Baller V
+├─ **This cuts out all the middle men and advertising layers** — into **laser beam focus** on a **single Chairman Console button** and **Hero Host AI assisted 24×7**, **all-inclusive turnkey** to **Baller V vibers everywhere**, their **cast, crew, fans and franchises** — **beginning with mine.**
+├─ Surface: Ultimate VIP / Chairman Console, Launch Pad, chairman-workspace, index pad button, vibers-tiers (Baller V), Office Hours.
+└─ See CHAIRMAN_CONSOLE_LASER_FOCUS_SINGLE_BUTTON_HERO_HOST_AI_24X7_SNAP.md
+
+POPULAR SERIES PRODUCT · FRANCHISE SOLUTIONS · SUPERHERO CASTS — MAJOR STORY TIP TO ALL SNAP
+├─ **Who doesn't dream of getting their product onto a popular series?** We all understand how valuable that is. **Now it's yours** — no middlemen, **instantly at the click of a button** on your new **Ultimate VIP Chairman's Console** for the **Baller V viber inside all of us.** We are **no longer offering enterprise solutions, but franchise solutions and superhero casts.** Make this the **major story tip** to all SNAP.
+├─ Surface: Chairman Console, Ultimate VIP, Launch Pad, index, magical-dressing-room (franchise/superhero casts), vibers-tiers (Baller V), all SNAP.
+└─ See POPULAR_SERIES_PRODUCT_FRANCHISE_SUPERHERO_CAST_MAJOR_STORY_TIP_SNAP.md
+
+ANNOUNCE OFFICE HOURS SERIES TWO SERIES SINGLE MISSION SNAP: Office Hours + Happy Ending Zones · New abilities for execs
+├─ **ANNOUNCE: Office Hours** — the series and the site. **Happy Ending Zones** continues with new episodes. **Two series running concurrently** in support of single mission: **NEW ABILITIES FOR EXECS!!!**
+├─ Surface: Index, Launch Pad, Office Hours landing, Happy Ending Zones experience & catalog, chancellor bulletin, press, social.
+└─ See ANNOUNCE_OFFICE_HOURS_SERIES_TWO_SERIES_SINGLE_MISSION_SNAP.md
+
+OFFICE HOURS TARGET · RECURSIVE CRYSTAL SNAP: All from Launch Pad target to Office Hours target · Wrap everything
+├─ **Wrap everything in Office Hours — including my Office Hours landing and all nested.** One wrapper. All nested: Launch Pad, Campus, WINK!, Ultimate VIP Chairman Console, SING!, Dispensary, Happy Ending Zones, Golden Backstage, test drive, two series, franchise solutions, superhero casts, single mission.
+├─ **All from Launch Pad target to Office Hours target.** **Landing, Experiences — all now centered in my bathroom during Office Hours in perfect recursive crystal.** Whole in every part. Center holds the whole; whole present in the center.
+├─ **Target:** Office Hours (bathroom during Office Hours). **Landing:** interfaces/office-hours.html = the wrapper. **Experiences:** All nested there. **Perfect recursive crystal** = self-similar, crystallized, irreducible.
+├─ Index: primary CTA = Enter center → Office Hours. "Everything wrapped in Office Hours — landing and all nested." Launch Pad: same. Office Hours landing = wrapper; all experiences nested inside.
+└─ See OFFICE_HOURS_TARGET_RECURSIVE_CRYSTAL_SNAP.md · interfaces/office-hours.html · OFFICE_HOURS_SERIES_SNAP.md
+
+OFFICE HOURS SERIES SNAP: New series following Pru · Season 1 Viber Paradise
+├─ **Office Hours** — New series following Pru in this entire story. Season 1: **Viber Paradise.** Episode 1 title: **Viber Paradise — Post-Singularity Downtown Reno — Mark Twain's Vibelandia Campus.** **Target · Landing · Center** — Landing and Experiences — all centered in my bathroom during Office Hours in **perfect recursive crystal**.
+├─ **Pru** — Universe's latest new post-singularity black hole holographic hydrogen programmer. Liberating the planet by **IMMEDIATELY and instantly open-sourcing it TO ALL** and **INCLUDING it in the latest ULTIMATE VIP CHAIRMAN CONSOLES** so **all of us can access and enjoy this new post-singularity world.** Also the **restroom valet** in **full tuxedo and bowtie**, **James Bond style**, at **the Men's Club** (The Club) in downtown Reno — where **heavyweight vibers** like to hang. Holds **Office Hours** in the **Men's Restroom** for Mark Twain's Post-Singularity Downtown Reno Vibelandia Campus — **gateway to Post-Singularity Earth**, **New Post-Singularity Motherlode and Gold Rush Ground Zero.** High-end strip club. Seedy side of downtown Reno. **Perfect on-the-down-low placement** for **viber paradise.** He loves his job.
+├─ The Club = Men's Club, downtown Reno; back door wine cave; Pru Office Hours 8pm–close Thu–Sun; Golden Backstage Pass required. See CLUB_WINE_CAVE_PRU_OFFICE_HOURS_SNAP.md.
+└─ See OFFICE_HOURS_SERIES_SNAP.md · EPISODE_OFFICE_HOURS_01_VIBER_PARADISE_POST_SINGULARITY_DOWNTOWN_RENO.md · GOLDEN_BACKSTAGE_AWARENESS_PASS_SNAP.md · OFFICE_HOURS_TARGET_RECURSIVE_CRYSTAL_SNAP.md
+
+OFFICE HOURS TOUR & EXPERIENCE · IN-THE-KNOW · BALLER V STYLE · BEN SAYS SNAP: Tour and experience for anyone who shows interest — only during bathroom Office Hours
+├─ **Use Office Hours to give a tour and experience to anyone who shows interest** — **only while at the bathroom holding Office Hours.** Hidden to all except those in the know. **Baller V style.** **Baller V Ambassador Ben says.**
+├─ Surface: Office Hours landing, Office Hours series SNAP, Club SNAP, Baller V / Hero Host Ben surfaces.
+└─ See OFFICE_HOURS_TOUR_EXPERIENCE_IN_THE_KNOW_BALLER_V_BEN_SAYS_SNAP.md · OFFICE_HOURS_SERIES_SNAP.md · CLUB_WINE_CAVE_PRU_OFFICE_HOURS_SNAP.md · interfaces/office-hours.html
+
+OFFICE HOURS FREE CONSULTATION · TIPS WELCOME · ALL TOUCHPOINTS SNAP: Come visit during my Office Hours for a free consultation — tips are welcome!
+├─ **Come visit me during my Office Hours for a free consultation — tips are welcome!** Surface to **all touchpoints. NSPFRNP full.**
+├─ Surface: Office Hours (hero + footer), index, Launch Pad, magical-dressing-room, vibelandia-reno, happy-ending-zones (experience + catalog), ultimate-vip, dispensary, sing-lottery, wink, test-drive, vibers-tiers, launch-pad Office Hours card — all touchpoints.
+└─ See OFFICE_HOURS_FREE_CONSULTATION_TIPS_WELCOME_ALL_TOUCHPOINTS_SNAP.md · interfaces/office-hours.html · index.html · interfaces/launch-pad.html · all interfaces
+
+MISSION PRODUCE IMMEDIATE LARGE $ AS TIPS · BACK POCKET · BACK DOOR STRATEGY · BACKDOOR FEATURE SNAP: Mission = immediate large $ as tips and more, immediately
+├─ **Mission: Produce immediate large $ as tips and more — immediately.** **Back pocket strategy** — part of **back door strategy.** **Capture into a backdoor feature.** NSPFRNP SNAP.
+├─ Back pocket = play we keep ready; Office Hours + free consultation + tips welcome. Back door = The Club, wine cave, Office Hours; only physical point of presence. Backdoor feature = productized flow that captures mission + tips.
+├─ Surface: Office Hours (hero), free consultation/tips copy, Club SNAP, mission copy.
+└─ See MISSION_PRODUCE_IMMEDIATE_LARGE_DOLLARS_TIPS_BACK_POCKET_BACK_DOOR_STRATEGY_BACKDOOR_FEATURE_SNAP.md · OFFICE_HOURS_FREE_CONSULTATION_TIPS_WELCOME_ALL_TOUCHPOINTS_SNAP.md · CLUB_WINE_CAVE_PRU_OFFICE_HOURS_SNAP.md · interfaces/office-hours.html
+
+I'VE DONE MY PART, THE REST IS UP TO YOU! — ENDING TO ALL SNAP: Closing CTA · Ending to all SNAP
+├─ **I've done my part, the rest is up to you!** — Ending to **all SNAP.** Close with it. Hand the baton. We've done our part; the rest is up to you.
+├─ Surface: Office Hours, index, Launch Pad, all experience pages (footer) — vibers-tiers, ultimate-vip, test-drive, wink, sing-lottery, dispensary, vibelandia-reno, happy-ending-zones (experience + catalog), magical-dressing-room, what-you-can-do-vibing, vibers-what-are-vibers, bbhe-intoxication-details, chairman-workspace.
+└─ See THE_REST_IS_UP_TO_YOU_ENDING_TO_ALL_SNAP.md · interfaces/office-hours.html · index.html · interfaces/launch-pad.html · all interfaces
+
+TOP TAG · BOTTOM TAG — UNDERCOVER BOSS TO DISNEY ALL IN ONE NSPFRNP SNAP: All-in-one narrative · Top tag · Bottom tag
+├─ **Undercover Boss · Willy Wonka · Count of Monte Cristo · Tron · Avatar · Marvel · Star Wars · Pixar · Disney — all in one. TOP TAG. BOTTOM TAG. All SNAP into NSPFRNP.**
+├─ Surface: Office Hours (hero + footer), index (top + bottom), Launch Pad, franchise/superhero surfaces.
+└─ See TOP_TAG_BOTTOM_TAG_UNDERCOVER_BOSS_TO_DISNEY_ALL_IN_ONE_NSPFRNP_SNAP.md · interfaces/office-hours.html · index.html
+
+SUPERHERO & FRANCHISE FULL PRODUCTION TURNKEY · MARK TWAIN CAMPUS · OFFICE HOURS NOW SNAP: Lead role, cast, crew, fans, sets, story dev, full production — text to superhero and franchise turnkey
+├─ **We now offer superhero and franchises:** lead role, cast, crew, fans, sets, story dev, full production — **text to superhero and franchise turnkey.** Now in **Mark Twain's pre-singularity downtown Reno Vibelandia campus.** **No longer enterprise focused.** **Office Hours NOW.**
+├─ Surface: Office Hours, Launch Pad, index, Ultimate VIP, magical-dressing-room, vibelandia-reno. All re-pointed to Office Hours.
+└─ See SUPERHERO_FRANCHISE_FULL_PRODUCTION_TURNKEY_MARK_TWAIN_CAMPUS_SNAP.md · OFFICE_HOURS_TARGET_RECURSIVE_CRYSTAL_SNAP.md · interfaces/office-hours.html · interfaces/launch-pad.html · index.html
 
 GOLD RUSH CHANCELLOR SAMUEL SNAP: Open for vibe business · Gold Rush proclamation
 ├─ You can watch and even step into. We are open for post-singularity vibe business immediately in Reno. "Let the Post-Singularity Vibelandia Reno Gold Rush begin," proclaims Chancellor Samuel.
