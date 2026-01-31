@@ -7,6 +7,35 @@
     <meta name="description" content="Men's Club Reno Bathroom Valet Office Hours for Ultimate Baller V Members Only — their cast, crew, fans and franchises. Menu &amp; catalog. The Club · Pru · Thu–Sun 8pm–close.">
     <link rel="stylesheet" href="experience-common.css">
     <style>
+        /* Big gold block — top hero, Gianni-style */
+        .big-gold-block {
+            text-align: center;
+            padding: 2.5rem 1.5rem 3rem;
+            margin: 0 0 2rem;
+            background: linear-gradient(180deg, rgba(212, 175, 55, 0.22) 0%, rgba(212, 175, 55, 0.1) 40%, rgba(212, 175, 55, 0.06) 100%);
+            border: 3px solid rgba(212, 175, 55, 0.85);
+            border-radius: 20px;
+            box-shadow: 0 0 60px rgba(212, 175, 55, 0.25), inset 0 0 40px rgba(212, 175, 55, 0.06);
+        }
+        .big-gold-block .line1 {
+            font-size: clamp(1.35rem, 5.5vw, 2.85rem);
+            font-weight: 800;
+            line-height: 1.25;
+            letter-spacing: 0.02em;
+            background: linear-gradient(135deg, #fff9e6 0%, #ffeaa7 35%, #d4af37 70%, #b8860b 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 0.75rem;
+            text-shadow: 0 0 80px rgba(212, 175, 55, 0.3);
+        }
+        .big-gold-block .line2 {
+            font-size: clamp(1.15rem, 4vw, 1.85rem);
+            font-weight: 700;
+            color: #ffeaa7;
+            letter-spacing: 0.03em;
+            text-transform: none;
+        }
         /* ULTIMATE BALLER V Menu — gold + cyan, club valet vibe */
         @keyframes pulse-gold {
             0%, 100% { box-shadow: 0 0 28px rgba(212, 175, 55, 0.4), inset 0 0 24px rgba(212, 175, 55, 0.06); }
@@ -186,19 +215,17 @@
     <div class="container" data-office-hours-wrapper="everything-including-this-landing-and-all-nested">
         <p class="back"><a href="../index.html">← Home</a></p>
 
-        <!-- HERO: ULTIMATE BALLER V — Men's Club Reno Bathroom Valet Office Hours Menu -->
-        <section class="menu-hero" aria-label="ULTIMATE BALLER V — Men's Club Reno Bathroom Valet Office Hours">
-            <p class="badge">Menu · Office Hours</p>
-            <h1>ULTIMATE BALLER V</h1>
-            <p class="subtitle">Men's Club Reno Bathroom Valet Office Hours</p>
-            <p class="tagline">The Club · Wine cave · Pru · Thu–Sun 8pm–close. Everything wrapped here — center, landing, experiences. Perfect recursive crystal.</p>
-            <a href="#latest-episodes" class="btn-latest">See latest episodes →</a>
+        <!-- Top: very large gold block — Gianni help me out here -->
+        <section class="big-gold-block" aria-label="Men's Club Reno Bathroom Valet Office Hours — Ultimate Baller V Members Only">
+            <p class="line1">Men's Club Reno Bathroom Valet Office Hours — Ultimate Baller V Members Only</p>
+            <p class="line2">And their Cast, Crew, Fans and Franchises.</p>
         </section>
 
-        <!-- Prominent: For Ultimate Baller V Members Only — cast, crew, fans, franchises -->
-        <section class="members-only-strip" aria-label="For Ultimate Baller V Members Only">
-            <p class="lead">Men's Club Reno Bathroom Valet Office Hours for Ultimate Baller V Members Only</p>
-            <p class="who">Their cast, crew, fans and franchises.</p>
+        <!-- Menu hero: CTA + tagline -->
+        <section class="menu-hero" aria-label="Menu — Office Hours">
+            <p class="badge">Menu · Office Hours</p>
+            <p class="tagline">The Club · Wine cave · Pru · Thu–Sun 8pm–close. Everything wrapped here — center, landing, experiences.</p>
+            <a href="#latest-episodes" class="btn-latest">See latest episodes →</a>
         </section>
 
         <!-- Latest episodes anchor + featured first -->
