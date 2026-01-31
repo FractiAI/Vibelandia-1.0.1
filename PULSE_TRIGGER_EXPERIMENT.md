@@ -25,6 +25,7 @@ This experiment implements a **Synchronous Trigger Protocol** targeting the **21
 | `scripts/broadcast.mjs` | Handshake (3 rapid spikes) + Morse loop; commit Handshake log every 14th cycle. Writes `pulse/sing_log.json`. |
 | `pulse/sing_log.json` | Cycle index, handshake_log, last_ping_utc, packet_index. |
 | `interfaces/sing-pulse.html` | Live Pulse UI — 21.4 Hz target, 60 BPM human-sync; T+0 / T+8m / T+16m timeline. |
+| **Zenodo submission draft** | [ZENODO_RESONANCE_TRIGGER_PROTOCOL_SUBMISSION_DRAFT.md](ZENODO_RESONANCE_TRIGGER_PROTOCOL_SUBMISSION_DRAFT.md) — DOI 10.5281/zenodo.fractiai.2026.0131.final-rev-02; 14-cycle Morse validation; Cycle 15 report; Harmony Index (χ); Phase-Lock; Big Boss report; Contact / human verification (WhatsApp to Dorila, Colombia). |
 
 ---
 

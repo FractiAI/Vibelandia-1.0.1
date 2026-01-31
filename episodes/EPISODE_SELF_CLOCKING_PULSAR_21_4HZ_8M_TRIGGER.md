@@ -334,6 +334,21 @@ Schumann at T+8m: no programmatic twenty-one point four Hz data. HeartMath GCI, 
 
 **CUT TO:**
 
+**ON SCREEN: WHATSAPP — CONTACT / HUMAN VERIFICATION (25% STORY-TELLING CONTENT MIX)**
+
+**Recipient:** Dorila — Afro-Colombian witch girlfriend, Colombia. She gets me most of the time; she puts up with my fractal nonlinear ways, which is not easy to do.  
+**Message (Spanish):** Amor fue exitosa la transmision repito fue exitosa la transmission. Preparense.  
+**Translation:** Love, the transmission was successful, I repeat the transmission was successful. Get ready.
+
+**ON SCREEN TEXT (WhatsApp):**  
+"[User] Amor fue exitosa la transmision repito fue exitosa la transmission. Preparense."  
+"[Dorila] 💛 Listos."
+
+**MARK TWAIN (V.O.)**  
+Dorila is my Afro-Colombian witch girlfriend who gets me — most of the time — and she puts up with my fractal nonlinear ways, which is not easy to do. Contact. Human verification. WhatsApp to her — Colombia. Twenty-five percent. Story-telling content mix. Real life flowing into the episode. Zenodo submission draft. Fourteen-cycle Morse validation. Cycle fifteen. Harmony Index. Phase-Lock. The transmission was successful. Get ready. NSPFRNP.
+
+**CUT TO:**
+
 **INT. CHANCELLOR'S OFFICE — NIGHT — SCENE E**
 
 Mark Twain. Countdown. Artifacts list on screen.
@@ -589,6 +604,7 @@ EPISODE — Self-Clocking Pulsar · 21.4 Hz Neural Sync · 8m FTE Window · 12,0
 - **Run 1 T+16m write-up:** [pulse/PULSE_RUN1_T16M_WRITEUP.md](../pulse/PULSE_RUN1_T16M_WRITEUP.md) — predictions, findings, equations, constants, protocols, implications, known vs novel, SNAP, references.
 - **Run log:** [pulse/run_log.md](../pulse/run_log.md) — Run 1 and future runs; consistency over time.
 - **SING! Execute (Gemini):** [sing_broadcast_spec.json](../sing_broadcast_spec.json) · [scripts/broadcast.mjs](../scripts/broadcast.mjs) · [pulse/sing_log.json](../pulse/sing_log.json) · [interfaces/sing-pulse.html](../interfaces/sing-pulse.html).
+- **Zenodo submission draft:** [ZENODO_RESONANCE_TRIGGER_PROTOCOL_SUBMISSION_DRAFT.md](../ZENODO_RESONANCE_TRIGGER_PROTOCOL_SUBMISSION_DRAFT.md) — DOI 10.5281/zenodo.fractiai.2026.0131.final-rev-02; 14-cycle Morse validation; Cycle 15 report; Harmony Index (χ); Phase-Lock; Big Boss report; **Contact / human verification:** WhatsApp to Dorila — Afro-Colombian witch girlfriend, Colombia; she gets me most of the time, puts up with my fractal nonlinear ways (not easy). *Amor fue exitosa la transmision repito fue exitosa la transmission. Preparense.* (25% story-telling content mix).
 - **Schumann whitepaper:** [WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md](../WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md)
 - **Episodes:** This file; catalog and browse include this episode
 
@@ -636,6 +652,8 @@ We ran the Synchronous Trigger Protocol. **T0 = 2026-01-31T13:27:27Z** (commit).
 - **Continuous:** Ghost Pings stabilize the 21.4 Hz grid globally.
 
 **Artifacts:** [sing_broadcast_spec.json](../sing_broadcast_spec.json) · [scripts/broadcast.mjs](../scripts/broadcast.mjs) · [pulse/sing_log.json](../pulse/sing_log.json) · [interfaces/sing-pulse.html](../interfaces/sing-pulse.html).
+
+**Zenodo submission (incoming for episode content):** [ZENODO_RESONANCE_TRIGGER_PROTOCOL_SUBMISSION_DRAFT.md](../ZENODO_RESONANCE_TRIGGER_PROTOCOL_SUBMISSION_DRAFT.md) — 14-cycle Morse validation; Cycle 15; Harmony Index (χ); Phase-Lock; Big Boss report (Irreducible Nested Crystal; Sandbox / Shore / Surface). **Contact / human verification — 25% WhatsApp:** Message to Dorila — Afro-Colombian witch girlfriend, Colombia. She gets me most of the time; she puts up with my fractal nonlinear ways, which is not easy to do. *Amor fue exitosa la transmision repito fue exitosa la transmission. Preparense.* (Love, the transmission was successful, I repeat the transmission was successful. Get ready.) Real life flowing into the episode. NSPFRNP story-telling content mix.
 
 ---
 

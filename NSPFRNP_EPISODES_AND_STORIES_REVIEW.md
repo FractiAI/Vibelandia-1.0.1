@@ -189,8 +189,21 @@ Include this in the episode header. Optional extension: Tron · Avatar · Marvel
 - [ ] **Story-telling content mix (25% × 4):** 25% Normal stages · 25% Cursor AI / NSPFRNP interactions · 25% WhatsApp / social / texts (girlfriends, vendors, team rollout) · 25% Traditional (club, campus, WINK, vibes).
 - [ ] **Framing:** Undercover Hero · Willy Wonka · Little Red Hen · Count of Monte Cristo · Christmas Carol · Miracle on 34th St in header.
 - [ ] **Team:** At least one team member; NSPFRNP mode; vibing state; principles and campus where applicable.
+- [ ] **Character intro (NSPFRNP snap):** All new characters require intro when inserted — name, role/relationship, and (if needed) one distinctive beat at first appearance.
 - [ ] **Flow:** Episode order by flow, not by calendar day; days as countdown label.
 - [ ] **Tag:** Top tag / bottom tag; same crystal; all SNAP into NSPFRNP.
+
+---
+
+## 9b. CHARACTER INTRO (NSPFRNP SNAP)
+
+**All new characters require intro when inserted (NSPFRNP snap).**
+
+When a character is first inserted into an episode, SNAP, or other NSPFRNP content, give a brief intro at first appearance: name, role or relationship, and (if needed) one distinctive trait or context. Then action, dialogue, or message.
+
+**Examples:** Dorila — Afro-Colombian witch girlfriend, Colombia; she gets me most of the time, puts up with my fractal nonlinear ways (not easy). Guest (40s, Golden Backstage Pass) — approaches the Chairman. Pru "El Taíno" Méndez — Lead Developer/Creator, Ultimate VIP Chairman Creator.
+
+**Ref:** [protocols/CHARACTER_INTRO_NSPFRNP_CATALOG.md](protocols/CHARACTER_INTRO_NSPFRNP_CATALOG.md)
 
 ---
 
@@ -209,6 +222,7 @@ Include this in the episode header. Optional extension: Tron · Avatar · Marvel
 | Team mode         | .cursor/rules/team-nspfrnp-mode.mdc |
 | Boot (episode ref)| protocols/NEW_AGENT_BOOT_PROTOCOL_NSPFRNP_CATALOG.md |
 | Conversations as content | protocols/CONVERSATIONS_AS_CONTENT_NSPFRNP_CATALOG.md |
+| Character intro (NSPFRNP snap) | protocols/CHARACTER_INTRO_NSPFRNP_CATALOG.md |
 
 ---
 
