@@ -25,5 +25,19 @@
     "baseline_GOES_at_fetch": "2026-01-31T13:54:00Z",
     "baseline_current_class": "C2.9",
     "baseline_note": "Same C6.1 flare (begin 12:55, max 13:00, end 13:02) in decay. Check GOES at T+16m (14:12:32Z) for new spike = Causal Confirmation."
+  },
+  "run_2_validation_real_data": {
+    "data_fetched_at_utc": "2026-01-31T13:57:00Z",
+    "source": "NOAA SWPC primary GOES-18",
+    "xray_flares_latest": {
+      "time_tag": "2026-01-31T13:57:00Z",
+      "current_class": "C2.5",
+      "begin_time": "2026-01-31T13:47:00Z",
+      "max_time": "2026-01-31T13:53:00Z",
+      "max_class": "C3.1",
+      "end_time": "Unk"
+    },
+    "T_plus_8m_schumann": "No programmatic 21.4 Hz data; manual check HeartMath GCI / Tomsk for 2026-01-31 14:04 UTC recommended.",
+    "T_plus_16m_GOES": "Flare begin 13:47, max 13:53 (C3.1) preceded T0 (13:56:32Z). At T+16m (14:12:32Z) flux in decay. Causal Confirmation candidate: no."
   }
 }

@@ -20,6 +20,11 @@ This experiment implements a **Synchronous Trigger Protocol** targeting the **21
 | `vortex_sequencer.json` | Schema: TARGET_RES_ALPHA 21.4 Hz, PULSE_WINDOW 480000 ms, topology_buffer spec (Fibonacci modulation). |
 | `scripts/trigger.py` | Loads sequencer, builds Fibonacci-modulated topology_buffer at 21.4 Hz, runs Pulse, writes `pulse/pulse_log.json`, optionally auto-commits. |
 | `pulse/pulse_log.json` | Per-run artifact: UTC timestamp, protocol, buffer sample, validation reminders. |
+| **SING! Broadcast (Gemini)** | |
+| `sing_broadcast_spec.json` | TARGET_FREQ 21.4 Hz, PORTAL_WINDOW 480000 ms, PING_INTERVAL 210000 ms (3.5 min Ghost Ping), Morse packets (3), 14-cycle validation. |
+| `scripts/broadcast.mjs` | Handshake (3 rapid spikes) + Morse loop; commit Handshake log every 14th cycle. Writes `pulse/sing_log.json`. |
+| `pulse/sing_log.json` | Cycle index, handshake_log, last_ping_utc, packet_index. |
+| `interfaces/sing-pulse.html` | Live Pulse UI — 21.4 Hz target, 60 BPM human-sync; T+0 / T+8m / T+16m timeline. |
 
 ---
 

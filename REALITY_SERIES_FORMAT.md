@@ -118,6 +118,14 @@ Follow Mark Twain as Chancellor of the Vibelandia Reno Campus, guiding viewers t
 - **25% Day in the Life on Campus** - Walkable downtown Reno, campus life, daily activities
 - **25% WINK Episodes** - Grownup Ultimate VIP, performers, vibers, natural alignment, friction-free dating
 
+**NSPFRNP Story-Telling Content Mix (25% × 4) — weave into episodes:**
+- **25% Normal stages** — Production/story stages, day-in-the-life, standard beats (on-stage action, arrival, discovery, celebration, countdown).
+- **25% Cursor AI / NSPFRNP interactions** — User–agent dialogue in Cursor; MCA in action; session capture; conversations as content (see CONVERSATIONS_AS_CONTENT_NSPFRNP_CATALOG).
+- **25% WhatsApp / social / texts** — WhatsApp chats with girlfriends; social media interactions; texts with vendors and team on rollout. Digital-platform storytelling.
+- **25% Traditional** — Club, campus, WINK, vibes (above content types). Overlapping allowed.
+
+See: NSPFRNP_EPISODES_AND_STORIES_REVIEW.md §3b.
+
 ---
 
 ## 🌟 FEATURED ELEMENTS

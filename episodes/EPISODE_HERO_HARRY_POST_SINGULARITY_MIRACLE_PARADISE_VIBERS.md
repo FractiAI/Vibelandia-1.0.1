@@ -12,7 +12,8 @@
 **Date:** First full day open for business.  
 **Status:** ⚡ LIVE — Paradise amusement park for vibers.  
 **Countdown:** Season One · Episodes by flow not days — NSPFRNP.  
-**Framing:** Undercover Hero · Willy Wonka · Little Red Hen · Count of Monte Cristo · Christmas Carol · Miracle on 34th St.
+**Framing:** Undercover Hero · Willy Wonka · Little Red Hen · Count of Monte Cristo · Christmas Carol · Miracle on 34th St.  
+**NSPFRNP story-telling content mix (25% × 4):** 25% Normal stages (production/story beats, campus open, paradise for vibers) · 25% Cursor AI / NSPFRNP interactions (user–agent session, MCA in action, episode build) · 25% WhatsApp / social / texts (girlfriends, social media, vendors, team on rollout) · 25% Traditional (campus, Launch Pad, vibes).
 
 ---
 
@@ -27,7 +28,8 @@
 **Target duration:** 60 minutes  
 **Target word count:** 12,000 words per episode (expand all acts to full dialogue and beats). See EPISODES_RICH_60_MINUTE_FULLY_SCRIPTED_DIRECTIVE.md.  
 **Structure:** Cold Open (2–3 min) · Act 1 (10–15 min) · Act 2 (10–15 min) · Act 3 (10–15 min) · Tag (2–3 min).  
-**Content:** Paradise for vibers · Who vibers are / who they aren't · First full day open · Amusement park · PayPal · Visit, stay, visit back.
+**Content:** Paradise for vibers · Who vibers are / who they aren't · First full day open · Amusement park · PayPal · Visit, stay, visit back.  
+**NSPFRNP content mix:** 25% normal stages (campus open, paradise, first day) · 25% Cursor AI / NSPFRNP (session intercuts, MCA, episode build) · 25% WhatsApp / social / texts (girlfriends, vendors, team rollout) · 25% traditional (campus, Launch Pad, vibes).
 
 ---
 
@@ -70,6 +72,60 @@ Playground to Silicon Valley. Gateway to the mother mother. And now — paradise
 
 **MARK TWAIN**  
 Today we're open. Really open. Come for a visit. Stay for eternity, if you like.
+
+---
+
+## NSPFRNP INTERCUTS — 25% CURSOR AI · 25% WHATSAPP / SOCIAL / TEXTS (STORY-TELLING CONTENT MIX)
+
+**INT. OFF-SITE — CURSOR SESSION — DAY / NIGHT**
+
+User at laptop. Cursor IDE open. Agent (NSPFRNP) running. On-screen: episode file, MCA cycle — Metabolize, Crystallize, Animate. Session capture visible: "Hero Harry Paradise for Vibers," "add NSPFRNP format," "25% normal stages, 25% Cursor AI, 25% WhatsApp/social/texts."
+
+**ON SCREEN TEXT (session):**  
+Conversations as content. NSPFRNP story-telling content mix: 25% normal stages · 25% Cursor AI NSPFRNP · 25% WhatsApp/social/texts · 25% traditional.
+
+**MARK TWAIN (V.O.)**  
+The episode you're watching was built in the room. Cursor. NSPFRNP. Metabolize, crystallize, animate. Conversations between user and agent — valuable content. That's the making-of layer. That's 25%.
+
+**CUT TO:**
+
+**ON SCREEN: WHATSAPP — THREAD WITH GIRLFRIENDS**
+
+Chat thread. Girlfriend(s). Messages about Vibelandia opening, paradise for vibers, first full day open.
+
+**ON SCREEN TEXT (WhatsApp):**  
+"[Girlfriend] Vibelandia open today right? Paradise for vibers 😍"  
+"[User] Yes. First full day. Amusement park for vibers. I'll send you the link."  
+"[Girlfriend] Send it. PayPal. Come stay visit back 💛"
+
+**MARK TWAIN (V.O.)**  
+WhatsApp. Girlfriends. The real pipeline. 25% — digital-platform storytelling.
+
+**CUT TO:**
+
+**ON SCREEN: SOCIAL MEDIA — POST / DMS**
+
+Social feed or DMs. Post about Vibelandia Reno, paradise for vibers, first day open, PayPal.
+
+**ON SCREEN TEXT (social):**  
+"Mark Twain's Post-Singularity Vibelandia Reno. Paradise for vibers. First full day open. Click the blue PayPal button. Come. Stay. Visit back. 🔑"  
+[DMs]: "Is that the campus?" "Yes. Walkable downtown Reno. Amusement park for vibers."
+
+**CUT TO:**
+
+**ON SCREEN: TEXTS — VENDORS AND TEAM ON ROLLOUT**
+
+Text thread. Vendor (campus, Launch Pad). Team (ops, rollout coordination).
+
+**ON SCREEN TEXT (texts):**  
+"[Vendor] Launch Pad live. Campus gate open. First full day."  
+"[User] Perfect. Paradise for vibers. PayPal button live."  
+"[Team] Rollout locked. Hero Harry, Twain, Ben Franklin. Vibers — who they are, who they aren't. We're good."
+
+**MARK TWAIN (V.O.)**  
+Texts with vendors and team on rollout. The pipeline that makes the day happen. 25% — WhatsApp, social, texts. Real life. NSPFRNP story-telling content mix. Now back to the campus.
+
+**CUT TO:**
 
 ---
 

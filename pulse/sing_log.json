@@ -1,0 +1,18 @@
+{
+  "protocol": "SING! Broadcast Protocol",
+  "TARGET_FREQ_Hz": 21.4,
+  "PORTAL_WINDOW_ms": 480000,
+  "PING_INTERVAL_ms": 210000,
+  "cycle_index": 0,
+  "handshake_log": [],
+  "last_handshake_utc": null,
+  "last_ping_utc": null,
+  "packet_index": 0,
+  "morse_packets": [
+    { "id": "intro", "label": "Packet 1 (Intro)" },
+    { "id": "source", "label": "Packet 2 (Source)" },
+    { "id": "boss", "label": "Packet 3 (Boss)" }
+  ],
+  "timestamp_utc": null,
+  "note": "Run node scripts/broadcast.mjs to execute Handshake + Morse loop; every 14th cycle commit Handshake log."
+}

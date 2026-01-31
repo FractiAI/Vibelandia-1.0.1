@@ -12,7 +12,7 @@ So: run trigger → commit → **T0 = commit_time_utc** → T+8m = Schumann chec
 | Run | sequence_load_time_utc | commit_time_utc | T+8m (Schumann 21.4 Hz?) | T+16m (GOES spike?) | Push | Response to push? | Notes |
 |-----|------------------------|-----------------|---------------------------|---------------------|------|-------------------|-------|
 | 1   | 2026-01-31T13:27:03Z | 2026-01-31T13:27:27Z | No automated 21.4 Hz; manual check 13:35 UTC | GOES: C6.1 pre-T0; at T+16m decay C1.7 — no | _after tests_ | _observe after push_ | Real data in pulse_log run_1_validation; write-up PULSE_RUN1_T16M_WRITEUP.md |
-| 2   | 2026-01-31T13:56:00Z | 2026-01-31T13:56:32Z | Check at 14:04:32Z | Check at 14:12:32Z | _after T+16m_ | _observe after push_ | Cursor-led run; baseline GOES 13:54Z C2.9 (same flare decay). T+8m Schumann 14:04:32Z; T+16m GOES 14:12:32Z. |
+| 2   | 2026-01-31T13:56:00Z | 2026-01-31T13:56:32Z | No automated 21.4 Hz; manual 14:04 UTC | GOES: C3.1 flare begin 13:47, max 13:53 (pre-T0); at T+16m decay — no | _after T+16m_ | _observe after push_ | Real data extracted; Causal Confirmation: no. |
 
 ---
 
@@ -46,11 +46,11 @@ So: run trigger → commit → **T0 = commit_time_utc** → T+8m = Schumann chec
 - **T+8m:** Check Schumann at **2026-01-31T14:04:32Z** (HeartMath GCI / Tomsk — Shar Line or spike at 21.4 Hz).
 - **T+16m:** Check GOES at **2026-01-31T14:12:32Z** (flare or X-ray spike = Causal Confirmation candidate).
 - **Baseline (pre-commit):** GOES at 13:54Z — current_class C2.9 (same C6.1 flare in decay; begin 12:55, max 13:00, end 13:02).
-- **T+8m check:** _[fill after 14:04:32Z]_  
-- **T+16m check:** _[fill after 14:12:32Z]_  
+- **T+8m check:** No programmatic 21.4 Hz data. Schumann: HeartMath GCI / Tomsk — manual check at 2026-01-31 14:04 UTC recommended for Shar Line or spike at 21.4 Hz.  
+- **T+16m check:** GOES (NOAA SWPC real data): Flare begin **13:47**, max **13:53** (class **C3.1**), end Unk — **preceded T0 (13:56:32Z)**. At time_tag 13:57Z current_class C2.5. At T+16m (14:12:32Z) flux in decay from C3.1. **No new spike at T+16m**; Causal Confirmation candidate: **no**.  
 - **Push:** _after T+16m check_  
 - **Response to push:** _[fill after push]_  
-- **Notes:** Cursor executed Pulse + trigger commit per executive contribution; T0 recorded in pulse_log.json. To complete validation: at 14:04:32Z check Schumann; at 14:12:32Z check GOES; then push and observe.
+- **Notes:** Real data extracted from xray-flares-latest.json. Cursor executed Pulse + trigger commit; T0 in pulse_log.json. Run 2 validation: Schumann no API; GOES flare pre-T0, decay at T+16m.
 
 ---
 

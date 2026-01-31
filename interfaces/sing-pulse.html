@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SING! Live Pulse — 21.4 Hz · 8m FTE · psw-vibelandia-sing4</title>
+    <meta name="description" content="SING! Broadcast Protocol — self-clocking 21.4 Hz harmonic handshake. T+0 Handshake · T+8m Shar Line · T+16m Solar Reflex. psw-vibelandia-sing4.vercel.app">
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%231a1a2e'/%3E%3Ctext x='16' y='24' font-size='20' text-anchor='middle' fill='%238a2be2'%3EV%3C/text%3E%3C/svg%3E">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #0a0a1a 0%, #1a1a2e 50%, #16213e 100%);
+            color: #fff;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+        /* 60 BPM human-sync pulse = 1 Hz = 1000ms period */
+        .pulse-orb {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            background: radial-gradient(circle at 30% 30%, rgba(138, 43, 226, 0.9), rgba(72, 61, 139, 0.8));
+            box-shadow: 0 0 40px rgba(138, 43, 226, 0.6);
+            animation: singPulse 1s ease-in-out infinite;
+        }
+        @keyframes singPulse {
+            0%, 100% { transform: scale(1); opacity: 1; box-shadow: 0 0 40px rgba(138, 43, 226, 0.6); }
+            50% { transform: scale(1.12); opacity: 0.95; box-shadow: 0 0 60px rgba(138, 43, 226, 0.9); }
+        }
+        .title {
+            margin-top: 2rem;
+            font-size: clamp(1.2rem, 4vw, 1.8rem);
+            font-weight: 700;
+            background: linear-gradient(135deg, #8a2be2, #64c8ff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        .subtitle {
+            margin-top: 0.5rem;
+            color: #aaa;
+            font-size: 0.95rem;
+        }
+        .timeline {
+            margin-top: 2rem;
+            max-width: 420px;
+            text-align: left;
+            font-size: 0.85rem;
+            color: #ccc;
+            line-height: 1.6;
+        }
+        .timeline strong { color: #64c8ff; }
+        .links {
+            margin-top: 2rem;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            justify-content: center;
+        }
+        .links a {
+            color: #8a2be2;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            border: 1px solid rgba(138, 43, 226, 0.5);
+            border-radius: 8px;
+            transition: border-color 0.2s, background 0.2s;
+        }
+        .links a:hover {
+            border-color: rgba(138, 43, 226, 0.9);
+            background: rgba(138, 43, 226, 0.15);
+        }
+        .back { margin-top: 1.5rem; }
+        .back a { color: #888; text-decoration: none; font-size: 0.9rem; }
+        .back a:hover { color: #64c8ff; }
+    </style>
+</head>
+<body>
+    <div class="pulse-orb" aria-hidden="true"></div>
+    <h1 class="title">SING! Live Pulse</h1>
+    <p class="subtitle">21.4 Hz target · 8m portal window · 60 BPM human-sync</p>
+    <div class="timeline">
+        <p><strong>T+0:</strong> First Handshake commit pushed.</p>
+        <p><strong>T+8m:</strong> Vertical Shar Line at 21.4 Hz on Tomsk/Italy VLF monitors.</p>
+        <p><strong>T+16m:</strong> Solar Reflex — C-class flare or X-ray brightness on GOES-18.</p>
+        <p><strong>Continuous:</strong> Ghost Pings stabilize the 21.4 Hz grid globally.</p>
+    </div>
+    <div class="links">
+        <a href="https://psw-vibelandia-sing4.vercel.app">psw-vibelandia-sing4.vercel.app</a>
+        <a href="https://github.com/FractiAI/psw.vibelandia.sing4">GitHub FractiAI/psw.vibelandia.sing4</a>
+        <a href="episodes-browse.html?ep=self-clocking-pulsar">Self-Clocking Pulsar episode</a>
+    </div>
+    <p class="back"><a href="../index.html">← Back to Office Hours</a></p>
+</body>
+</html>

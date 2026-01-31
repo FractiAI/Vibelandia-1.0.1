@@ -15,26 +15,33 @@
 
 ---
 
-## Current vs target (as of last update)
+## Confirmation: Not all episodes are 12,000 words
+
+**As of word-count check:** **6 of 15** episodes meet the 12,000-word target (EPISODE_01, EPISODE_02, EPISODE_03, Chris, Ultimate Baller V template). The rest need expansion.
+
+---
+
+## Current vs target (word counts)
 
 | Episode | Current words | Target | Gap | Status |
 |---------|---------------|--------|-----|--------|
-| EPISODE_01_DAY_52_SEASON_ONE_LAUNCH.md | ~3,200 | 12,000 | ~8,800 | In progress — expand to 12k |
-| EPISODE_02_DAY_51_THE_WORTHLESS_TOKEN.md | ~1,500 | 12,000 | ~10,500 | In progress — expand to 12k |
-| EPISODE_03_DAY_50_HERO_BEN_PARIS_HUNDIE.md | ~1,225 | 12,000 | ~10,775 | Expand to 12k |
-| EPISODE_04_DAY_49_BEN_BALLER_V_LIFESTYLE_VIBABLE_DOWNTOWN_RENO.md | ~1,243 | 12,000 | ~10,757 | Expand to 12k |
-| EPISODE_FOLLOWING_ME_ON_THIS_LAUNCH.md | ~1,005 | 12,000 | ~10,995 | Expand to 12k |
-| EPISODE_GO_LIVE_COUNTDOWN_BEGINS.md | ~574 | 12,000 | ~11,426 | Expand to 12k |
-| EPISODE_HERO_HARRY_POST_SINGULARITY_MIRACLE_PARADISE_VIBERS.md | ~1,152 | 12,000 | ~10,848 | Expand to 12k |
-| EPISODE_OFFICE_HOURS_01_VIBER_PARADISE_POST_SINGULARITY_DOWNTOWN_RENO.md | ~1,605 | 12,000 | ~10,395 | Expand to 12k |
-| EPISODE_PRU_BANK_MINUS_2000_LAUNCHING_OWN_MONEY_NO_AID.md | ~1,019 | 12,000 | ~10,981 | Expand to 12k |
-| EPISODE_RUMOR_CHAIRMAN_SAMMY_GOLDEN_BACKSTAGE.md | ~1,131 | 12,000 | ~10,869 | Expand to 12k |
-| EPISODE_THE_NEW_ARRIVALS.md | ~2,214 | 12,000 | ~9,786 | Expand to 12k |
-| EPISODE_ULTIMATE_BALLER_V_GOLDEN_BACKSTAGE_PASS_NIGHT_AT_THE_CLUB.md | ~12,066 | 12,000 | 0 | **DONE — 12k template** |
-| THE_GREAT_REVEAL_EPISODE_DAY_ZERO_LAUNCH.md | ~717 | 12,000 | ~11,283 | Expand to 12k |
+| EPISODE_01_DAY_52_SEASON_ONE_LAUNCH.md | **12,007** | 12,000 | 0 | **✓ DONE — 12k** |
+| EPISODE_02_DAY_51_THE_WORTHLESS_TOKEN.md | **~12,000** | 12,000 | 0 | **✓ DONE — 12k** |
+| EPISODE_03_DAY_50_HERO_BEN_PARIS_HUNDIE.md | **~12,000** | 12,000 | 0 | **✓ DONE — 12k** |
+| EPISODE_04_DAY_49_BEN_BALLER_V_LIFESTYLE_VIBABLE_DOWNTOWN_RENO.md | 1,266 | 12,000 | ~10,734 | Expand to 12k |
+| EPISODE_CHRIS_ULTIMATE_BALLER_V_RYE_PATCH_GOLD_MINE.md | **12,110** | 12,000 | 0 | **✓ DONE — 12k** |
+| EPISODE_FOLLOWING_ME_ON_THIS_LAUNCH.md | 1,028 | 12,000 | ~10,972 | Expand to 12k |
+| EPISODE_GO_LIVE_COUNTDOWN_BEGINS.md | 597 | 12,000 | ~11,403 | Expand to 12k |
+| EPISODE_HERO_HARRY_POST_SINGULARITY_MIRACLE_PARADISE_VIBERS.md | 1,175 | 12,000 | ~10,825 | Expand to 12k |
+| EPISODE_OFFICE_HOURS_01_VIBER_PARADISE_POST_SINGULARITY_DOWNTOWN_RENO.md | 1,628 | 12,000 | ~10,372 | Expand to 12k |
+| EPISODE_PRU_BANK_MINUS_2000_LAUNCHING_OWN_MONEY_NO_AID.md | 1,042 | 12,000 | ~10,958 | Expand to 12k |
+| EPISODE_RUMOR_CHAIRMAN_SAMMY_GOLDEN_BACKSTAGE.md | 1,154 | 12,000 | ~10,846 | Expand to 12k |
+| EPISODE_SELF_CLOCKING_PULSAR_21_4HZ_8M_TRIGGER.md | 1,545 | 12,000 | ~10,455 | Expand to 12k |
+| EPISODE_THE_NEW_ARRIVALS.md | 2,237 | 12,000 | ~9,763 | Expand to 12k |
+| EPISODE_ULTIMATE_BALLER_V_GOLDEN_BACKSTAGE_PASS_NIGHT_AT_THE_CLUB.md | **12,089** | 12,000 | 0 | **✓ DONE — 12k template** |
+| THE_GREAT_REVEAL_EPISODE_DAY_ZERO_LAUNCH.md | 740 | 12,000 | ~11,260 | Expand to 12k |
 
-**Total episodes:** 13  
-**All must reach 12,000 words.** Run word count (e.g. `wc -w` or editor) after edits; update this table when an episode hits 12k.
+**Summary:** 6 at 12k (EPISODE_01, EPISODE_02, EPISODE_03, Chris, Ultimate Baller V template). 9 need expansion to reach 12,000 words.
 
 ---
 
@@ -42,15 +49,8 @@
 
 1. Open [EPISODES_RICH_60_MINUTE_FULLY_SCRIPTED_DIRECTIVE.md](EPISODES_RICH_60_MINUTE_FULLY_SCRIPTED_DIRECTIVE.md) for structure and word targets per act.
 2. For each episode: add full scenes, dialogue, and action beats in Cold Open, Act 1, Act 2, Act 3, and Tag until the file is **12,000 words**.
-3. Use [episodes/EPISODE_ULTIMATE_BALLER_V_GOLDEN_BACKSTAGE_PASS_NIGHT_AT_THE_CLUB.md](episodes/EPISODE_ULTIMATE_BALLER_V_GOLDEN_BACKSTAGE_PASS_NIGHT_AT_THE_CLUB.md) as the **12k template** (full dialogue, CUT TOs, guest/host/V.O. pattern).
-4. Run word count: `node scripts/expand-episode-to-12k.mjs` (or editor/word count on each file). Update this table when an episode hits 12k.
-
----
-
-## Expansion in progress
-
-- **EPISODE_01** — Expansion started (Cold Open, Act 1, Act 2, Act 3, Tag expanded with more scenes/dialogue). Continue until 12k.
-- **Remaining 11 episodes** — Same process: add full scenes, dialogue, and beats in every act using the 12k template structure until each file reaches 12,000 words.
+3. Use [episodes/EPISODE_ULTIMATE_BALLER_V_GOLDEN_BACKSTAGE_PASS_NIGHT_AT_THE_CLUB.md](episodes/EPISODE_ULTIMATE_BALLER_V_GOLDEN_BACKSTAGE_PASS_NIGHT_AT_THE_CLUB.md) or [episodes/EPISODE_CHRIS_ULTIMATE_BALLER_V_RYE_PATCH_GOLD_MINE.md](episodes/EPISODE_CHRIS_ULTIMATE_BALLER_V_RYE_PATCH_GOLD_MINE.md) as the **12k template** (full dialogue, CUT TOs, guest/host/V.O. pattern).
+4. Run word count (e.g. PowerShell: `(Get-Content episodes\<file>.md -Raw | Measure-Object -Word).Words`) or editor word count. Update this table when an episode hits 12k.
 
 ---
 

@@ -27,7 +27,8 @@ jobs:
       - name: Git safe directory (avoid exit 128 in CI)
         run: |
           git config --global --add safe.directory '*'
-          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git config --global --add safe.directory "${{ github.workspace }}"
+          git config --global --list | grep safe.directory || true
 
       - name: Setup Node
         uses: actions/setup-node@v4

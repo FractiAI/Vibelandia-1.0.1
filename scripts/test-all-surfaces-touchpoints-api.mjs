@@ -96,7 +96,7 @@ const linkTargetsFromReport = [
   { from: 'seed-edge-mini-console.html', src: 'add-console-header.js' },
 ];
 
-for (const { from: fromFile, href, src }) => {
+for (const { from: fromFile, href, src } of linkTargetsFromReport) {
   const target = href || src;
   const fromPath = path.join(INTERFACES, fromFile);
   let resolved = target;

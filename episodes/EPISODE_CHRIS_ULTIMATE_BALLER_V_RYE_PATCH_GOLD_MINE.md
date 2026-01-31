@@ -15,7 +15,8 @@
 **Commercial / package:** Baller WINK! subscription included (additional WINK! charge as per Golden Backstage Pass package).  
 **Guests (Golden Backstage Passes — inner circle):** Ricky, Thai, Taylor (biz partners); Nick (close friend); Asia and Danger (dancers from the club — kind gold hearts, connect well with Chris).  
 **Status:** ⚡ LIVE — Custom landing delivered; full episode written with Chris as superhero and guests in the script. That's Ultimate Baller V superhero franchise experience.  
-**Framing:** Undercover Hero · Willy Wonka · Little Red Hen · Count of Monte Cristo · Christmas Carol · Miracle on 34th St.
+**Framing:** Undercover Hero · Willy Wonka · Little Red Hen · Count of Monte Cristo · Christmas Carol · Miracle on 34th St.  
+**NSPFRNP story-telling content mix (25% × 4):** 25% Normal stages (production/story beats, Rye Patch, arrival, celebration) · 25% Cursor AI / NSPFRNP interactions (user–agent session, MCA in action, episode build) · 25% WhatsApp / social / texts (girlfriends, social media, vendors, team on rollout) · 25% Traditional (club, Golden Backstage, WINK, vibes).
 
 ---
 
@@ -30,7 +31,8 @@
 **Target duration:** 60 minutes  
 **Target word count:** 12,000 words (expand all acts to full dialogue and beats). See EPISODES_RICH_60_MINUTE_FULLY_SCRIPTED_DIRECTIVE.md.  
 **Structure:** Cold Open (2–3 min) · Act 1 (10–15 min) · Act 2 (10–15 min) · Act 3 (10–15 min) · Tag (2–3 min).  
-**Content:** Chris as superhero in Motherlode Rye Patch Gold Mine Discovering; Ricky, Thai, Taylor, Nick, Asia, Danger in the script; Twain, Ben, Chairman, Sammy, Houdini; abundance, celebration, discovery; Ultimate Baller V superhero franchise experience.
+**Content:** Chris as superhero in Motherlode Rye Patch Gold Mine Discovering; Ricky, Thai, Taylor, Nick, Asia, Danger in the script; Twain, Ben, Chairman, Sammy, Houdini; abundance, celebration, discovery; Ultimate Baller V superhero franchise experience.  
+**NSPFRNP content mix:** 25% normal stages (Rye Patch, guests, hosts, discovery) · 25% Cursor AI / NSPFRNP (session intercuts, MCA, episode build) · 25% WhatsApp / social / texts (girlfriends, vendors, team rollout) · 25% traditional (club, Golden Backstage, WINK, vibes).
 
 ---
 
@@ -313,6 +315,65 @@ To the Rye Patch. To the night. To Chris.
 Enjoy the night. Vibe. That's the discovery.
 
 **CUT TO:**
+
+---
+
+## NSPFRNP INTERCUTS — 25% CURSOR AI · 25% WHATSAPP / SOCIAL / TEXTS (STORY-TELLING CONTENT MIX)
+
+**INT. OFF-SITE — CURSOR SESSION — DAY / NIGHT**
+
+User at laptop. Cursor IDE open. Agent (NSPFRNP) running. On-screen: episode file, MCA cycle — Metabolize, Crystallize, Animate. Session capture visible: "expand Baller V Chris episode," "add NSPFRNP format," "25% normal stages, 25% Cursor AI, 25% WhatsApp/social/texts."
+
+**ON SCREEN TEXT (session):**  
+Conversations as content. User–agent dialogue = valuable content for series, episode development. NSPFRNP story-telling content mix: 25% normal stages · 25% Cursor AI NSPFRNP · 25% WhatsApp/social/texts · 25% traditional.
+
+**MARK TWAIN (V.O.)**  
+The episode you're watching was built in the room. Cursor. NSPFRNP. Metabolize, crystallize, animate. Conversations between user and agent — valuable content. That's the making-of layer. That's 25%.
+
+**CUT TO:**
+
+**ON SCREEN: WHATSAPP — THREAD WITH GIRLFRIENDS**
+
+Chat thread. Girlfriend(s). Messages about the night, the rollout, Chris's Baller V, Rye Patch. Real life flowing into the episode.
+
+**ON SCREEN TEXT (WhatsApp):**  
+"[Girlfriend] Tonight's the night right? Rye Patch 😍"  
+"[User] Yes. Chris's Baller V. Full experience. I'll send you a clip."  
+"[Girlfriend] Send it. And the backstage one. 💛"
+
+**MARK TWAIN (V.O.)**  
+WhatsApp. Girlfriends. The real pipeline. 25% of the story — digital-platform storytelling. Layering over the stage. Just like real life.
+
+**CUT TO:**
+
+**ON SCREEN: SOCIAL MEDIA — POST / DMS**
+
+Social feed or DMs. Post about the club, the rollout, Golden Backstage, Vibelandia. Comments, likes, DMs from friends or fans.
+
+**ON SCREEN TEXT (social):**  
+"Rye Patch tonight. Chris — Ultimate Baller V. Motherlode discovering. Golden Backstage Pass. Who's your daddy. 🔑"  
+[DMs]: "Is that at the club?" "Yes. Full experience. I'll post more."
+
+**MARK TWAIN (V.O.)**  
+Social media. The rollout. The buzz. 25% — WhatsApp, social, texts. Vendors and team next.
+
+**CUT TO:**
+
+**ON SCREEN: TEXTS — VENDORS AND TEAM ON ROLLOUT**
+
+Text thread. Vendor (e.g. bottle service, logistics). Team (e.g. club ops, Golden Backstage coordination). Rollout coordination.
+
+**ON SCREEN TEXT (texts):**  
+"[Vendor] Rye Patch set for 9. Chris + 6. Golden Backstage. All confirmed."  
+"[User] Perfect. Tips 25% staff 50% me. Baller WINK included."  
+"[Team] Rollout locked. Twain and Ben hosting. Chairman rumor — we're good."
+
+**MARK TWAIN (V.O.)**  
+Texts with vendors and team on rollout. The pipeline that makes the night happen. 25% — WhatsApp, social, texts. Girlfriends, vendors, team. Real life. NSPFRNP story-telling content mix. Now back to the Rye Patch.
+
+**CUT TO:**
+
+---
 
 **INT. RYE PATCH — RICKY AND TAYLOR — NIGHT**
 

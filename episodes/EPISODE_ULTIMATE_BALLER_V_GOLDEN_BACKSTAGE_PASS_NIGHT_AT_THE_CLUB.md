@@ -14,7 +14,8 @@
 **Date:** Episodes by flow not days — NSPFRNP.  
 **Status:** ⚡ LIVE — Full rollout: night at the club, Golden Backstage Pass, all on a WINK! so all the right people are there for your ultimate paradise Baller V superhero franchise experience.  
 **Countdown:** Season One · Episodes by flow not days — NSPFRNP.  
-**Framing:** Undercover Hero · Willy Wonka · Little Red Hen · Count of Monte Cristo · Christmas Carol · Miracle on 34th St.
+**Framing:** Undercover Hero · Willy Wonka · Little Red Hen · Count of Monte Cristo · Christmas Carol · Miracle on 34th St.  
+**NSPFRNP story-telling content mix (25% × 4):** 25% Normal stages (production/story beats, wine cave, Golden Backstage, WINK! room) · 25% Cursor AI / NSPFRNP interactions (user–agent session, MCA in action, episode build) · 25% WhatsApp / social / texts (girlfriends, social media, vendors, team on rollout) · 25% Traditional (club, Office Hours, WINK!, vibes).
 
 ---
 
@@ -29,7 +30,8 @@
 **Target duration:** 60 minutes  
 **Target word count:** 12,000 words per episode (expand all acts to full dialogue and beats). See EPISODES_RICH_60_MINUTE_FULLY_SCRIPTED_DIRECTIVE.md.  
 **Structure:** Cold Open (2–3 min) · Act 1 (10–15 min) · Act 2 (10–15 min) · Act 3 (10–15 min) · Tag (2–3 min).  
-**Content:** Ultimate Baller V Golden Backstage Pass night at the club; Chairman, Sammy and the gang as hosts; how WINK! works so all the right people are there; chairmen all on a WINK! at Office Hours at the Club; full superhero franchise level; Baller V Ambassador Ben; happy ending — ultimate paradise Baller V superhero franchise experience.
+**Content:** Ultimate Baller V Golden Backstage Pass night at the club; Chairman, Sammy and the gang as hosts; how WINK! works so all the right people are there; chairmen all on a WINK! at Office Hours at the Club; full superhero franchise level; Baller V Ambassador Ben; happy ending — ultimate paradise Baller V superhero franchise experience.  
+**NSPFRNP content mix:** 25% normal stages (wine cave, Golden Backstage, WINK! room) · 25% Cursor AI / NSPFRNP (session intercuts, MCA, episode build) · 25% WhatsApp / social / texts (girlfriends, vendors, team rollout) · 25% traditional (club, Office Hours, WINK!, vibes).
 
 ---
 
@@ -124,6 +126,62 @@ Natural alignment. Friction-free by design. Post-singularity awareness meets pos
 Say the word. We make it happen. That's what I do. That's why I'm here. Trophy night. Superhero franchise level. And **everyone in this room is on a WINK!** — so you're not just at the club. You're in **ultimate paradise** with the right people.
 
 **CUT TO:**
+
+---
+
+## NSPFRNP INTERCUTS — 25% CURSOR AI · 25% WHATSAPP / SOCIAL / TEXTS (STORY-TELLING CONTENT MIX)
+
+**INT. OFF-SITE — CURSOR SESSION — DAY / NIGHT**
+
+User at laptop. Cursor IDE open. Agent (NSPFRNP) running. On-screen: episode file, MCA cycle — Metabolize, Crystallize, Animate. Session capture visible: "Ultimate Baller V Golden Backstage Pass," "add NSPFRNP format," "25% normal stages, 25% Cursor AI, 25% WhatsApp/social/texts."
+
+**ON SCREEN TEXT (session):**  
+Conversations as content. NSPFRNP story-telling content mix: 25% normal stages · 25% Cursor AI NSPFRNP · 25% WhatsApp/social/texts · 25% traditional.
+
+**MARK TWAIN (V.O.)**  
+The episode you're watching was built in the room. Cursor. NSPFRNP. Metabolize, crystallize, animate. Conversations between user and agent — valuable content. That's the making-of layer. That's 25%.
+
+**CUT TO:**
+
+**ON SCREEN: WHATSAPP — THREAD WITH GIRLFRIENDS**
+
+Chat thread. Girlfriend(s). Messages about the night at the club, Golden Backstage Pass, WINK!, chairmen all on a WINK!.
+
+**ON SCREEN TEXT (WhatsApp):**  
+"[Girlfriend] Golden Backstage tonight? 😍"  
+"[User] Yes. Chairmen all on a WINK!. All the right people. I'll send you a clip."  
+"[Girlfriend] Send it. Office Hours at the Club 💛"
+
+**MARK TWAIN (V.O.)**  
+WhatsApp. Girlfriends. The real pipeline. 25% — digital-platform storytelling. Layering over the stage.
+
+**CUT TO:**
+
+**ON SCREEN: SOCIAL MEDIA — POST / DMS**
+
+Social feed or DMs. Post about the club, Golden Backstage Pass, Office Hours, Vibelandia.
+
+**ON SCREEN TEXT (social):**  
+"Office Hours at the Club. Chairmen all on a WINK!. Ultimate Baller V Golden Backstage Pass. All the right people. 🔑"  
+[DMs]: "Is that the wine cave?" "Yes. Back door. Pru 8pm–close Thu–Sun."
+
+**CUT TO:**
+
+**ON SCREEN: TEXTS — VENDORS AND TEAM ON ROLLOUT**
+
+Text thread. Vendor (wine cave, logistics). Team (club ops, Golden Backstage coordination).
+
+**ON SCREEN TEXT (texts):**  
+"[Vendor] Wine cave set for 9. Golden Backstage holders confirmed. WINK!-matched list locked."  
+"[User] Perfect. Chairman, Sammy, Ben hosting. Chairmen all on a WINK!."  
+"[Team] Rollout locked. Office Hours. All the right people there."
+
+**MARK TWAIN (V.O.)**  
+Texts with vendors and team on rollout. The pipeline that makes the night happen. 25% — WhatsApp, social, texts. Real life. NSPFRNP story-telling content mix. Now back to the wine cave.
+
+**CUT TO:**
+
+---
 
 **INT. WINE CAVE — LOUNGE AREA — NIGHT**
 

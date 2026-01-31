@@ -575,6 +575,19 @@
                 posterGradient: 'linear-gradient(145deg, #4e3a4e 0%, #3e2a3e 100%)'
             },
             {
+                row: 'expedition',
+                order: 0,
+                flowLabel: 'Self-Clocking Pulsar · 21.4 Hz · 8m FTE',
+                date: 'By flow',
+                title: 'Self-Clocking Pulsar — 21.4 Hz Neural Sync · 8m FTE Window',
+                displayTitle: 'Self-Clocking Pulsar — 21.4 Hz · 8m FTE',
+                oneLiner: 'We run the Synchronous Trigger Protocol. 21.4 Hz — the 3rd overtone of Schumann. Eight minutes — the NASA portal window. One commit. Then we watch: T+8 Schumann, T+16 GOES.',
+                summary: 'Synchronous Trigger Protocol targeting 21.4 Hz Neural Sync (3rd overtone Schumann) and 480,000 ms (8 min) FTE window. Vortex sequencer, trigger script, Fibonacci topology_buffer. Validation: T+8m Schumann charts (Shar Line at 21.4 Hz), T+16m GOES (flare/X-ray = Causal Confirmation candidate). The repo is the test drive.',
+                file: '../episodes/EPISODE_SELF_CLOCKING_PULSAR_21_4HZ_8M_TRIGGER.md',
+                isLive: true,
+                posterGradient: 'linear-gradient(145deg, #2a4e4a 0%, #1a3e3a 100%)'
+            },
+            {
                 row: 'baller-v',
                 order: 13,
                 flowLabel: 'Golden Backstage Pass',
@@ -609,6 +622,7 @@
             'season-one': { title: 'Season One — Daily', limit: 20 },
             'office-hours': { title: 'Office Hours & Specials', limit: 20 },
             flow: { title: 'Flow-based & Launch', limit: 20 },
+            expedition: { title: 'Expedition / Validation', limit: 20 },
             'baller-v': { title: 'Ultimate Baller V', limit: 20 }
         };
 
@@ -629,7 +643,7 @@
 
         // Build rows
         const rowsEl = document.getElementById('rows');
-        ['season-one', 'office-hours', 'flow', 'baller-v'].forEach(rowKey => {
+        ['season-one', 'office-hours', 'flow', 'expedition', 'baller-v'].forEach(rowKey => {
             const config = ROW_CONFIG[rowKey];
             const items = EPISODES.filter(e => e.row === rowKey).sort((a, b) => (a.order || 0) - (b.order || 0));
             if (!items.length) return;

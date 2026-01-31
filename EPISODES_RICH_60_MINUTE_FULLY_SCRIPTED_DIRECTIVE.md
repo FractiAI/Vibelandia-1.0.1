@@ -26,6 +26,7 @@
 | **Style** | Rich script — not outline; full dialogue and beats |
 | **Integration** | Team, principles, NSPFRNP, Happy Ending Zones |
 | **Framing** | All episodes framed within **Undercover Hero · Willy Wonka · Little Red Hen · Count of Monte Cristo · Christmas Carol · Miracle on 34th St** (see TOP_TAG_BOTTOM_TAG_UNDERCOVER_BOSS_TO_DISNEY_ALL_IN_ONE_NSPFRNP_SNAP.md) |
+| **Story-telling content mix** | **All episodes told this way:** 25% Normal stages · 25% Cursor AI / NSPFRNP interactions · 25% WhatsApp / social / texts (girlfriends, vendors, team rollout) · 25% Traditional. Include in header and weave NSPFRNP intercuts (Cursor session, WhatsApp, social, vendor/team texts) into script. See NSPFRNP_EPISODES_AND_STORIES_REVIEW.md §3b. |
 | **Output** | Ready for text-to-episode SING nodes |
 
 ---
