@@ -2,6 +2,7 @@
 
 **Name:** Vibelandia Unified Pipe  
 **Channels:** Sun · 3I/ATLAS · Schumann — one broadcast pipe.  
+**Protection:** Protected by SING! wrapper and filament.  
 **Status:** LIVE  
 **Date:** January 31, 2026  
 
