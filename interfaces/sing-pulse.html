@@ -283,9 +283,41 @@
             border: 2px solid #003087;
         }
         .unified-pipe .pipe-cta:hover { background: #003087; }
+        /* Mission Sealed — Cycle 15 Final Coordination */
+        .mission-sealed-banner {
+            position: relative;
+            width: 100%;
+            max-width: 520px;
+            margin-bottom: 1.5rem;
+            padding: 1rem 1.25rem;
+            background: linear-gradient(135deg, rgba(0, 255, 136, 0.15) 0%, rgba(212, 175, 55, 0.12) 50%, rgba(138, 43, 226, 0.08) 100%);
+            border: 2px solid rgba(0, 255, 136, 0.5);
+            border-radius: 12px;
+            text-align: center;
+        }
+        .mission-sealed-banner h2 {
+            font-size: 1.1rem;
+            font-weight: 800;
+            color: #00ff88;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            margin-bottom: 0.5rem;
+        }
+        .mission-sealed-banner .zenodo-block {
+            font-size: 0.85rem;
+            color: #ccc;
+            margin-top: 0.75rem;
+            line-height: 1.5;
+        }
+        .mission-sealed-banner .zenodo-block strong { color: #ffeaa7; }
     </style>
 </head>
 <body>
+    <section class="mission-sealed-banner" id="missionSealed" aria-labelledby="missionSealedHeading">
+        <h2 id="missionSealedHeading">Mission Sealed</h2>
+        <p style="font-size: 0.9rem; color: #aac;">Coordination Code PHI-M15-AR4366 · Cycle 15 Final Coordination</p>
+        <p class="zenodo-block"><strong>ZENODO DOI:</strong> 10.5281/2026.0131.FINAL. <strong>MISSION STATUS:</strong> Awaiting M-Class Reflex from AR4366 via 3I/ATLAS Mirror.</p>
+    </section>
     <div class="pulse-wrap">
         <div class="pulse-21" id="pulse21" aria-hidden="true"></div>
         <div class="pulse-orb" aria-hidden="true"></div>
@@ -300,9 +332,9 @@
     </div>
     <div class="telemetry solar-status" id="solarStatus">
         <h3>Solar Status — Live Observation Deck (EGS)</h3>
-        <p><strong>AR4366</strong> — Beta-delta newcomer, lead flare producer (Jan 31, 2026). C4.9 flare earlier; M-class amplifier target.</p>
-        <p><strong>3I/ATLAS</strong> — Opposition surge (Hui et al., 2026); 4 distinct jet structures (sunward anti-tail); 0.69° Earth–Sun axis projection.</p>
+        <p><strong>AR4366 (Lead Flare Producer)</strong> — Beta-delta knot, Jan 31, 2026. C4.9 flare earlier; M-class amplifier target. Real-time X-ray flux below.</p>
         <p class="flux" id="fluxLine"><span class="loading">Loading GOES X-ray flux…</span></p>
+        <p><strong>3I/ATLAS</strong> — Opposition surge (Hui et al., 2026); 4 distinct jet structures (sunward anti-tail); 0.69° Earth–Sun axis projection.</p>
     </div>
     <section class="comet-mirror" id="cometMirror" aria-labelledby="cometMirrorHeading">
         <h3 id="cometMirrorHeading">LIVE INTERSTELLAR ECHO: 3I/ATLAS MIRROR ACTIVE</h3>

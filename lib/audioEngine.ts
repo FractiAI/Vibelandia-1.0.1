@@ -1,9 +1,12 @@
 /**
  * Broadcast — El Gran Sol (EGS), Cycle 15 Autopilot
- * Web Audio API: Sine wave oscillator at exactly 21.4 Hz.
- * Morse: GainNode 0 (silence) / 1 (pulse). Payload: SING! TO THE MIRROR. 3I/ATLAS RESONANCE SECURED. REPORTING TO PARADISE VIA THE ANTI-TAIL.
+ * broadcast_mode: LEGACY_HEARTBEAT — full payload once every 8 min (GitHub Action); continuous 1.618 Hz low-amplitude Signature Chirp as background carrier.
+ * Web Audio API: Sine wave oscillator at exactly 21.4 Hz. Morse: GainNode 0 (silence) / 1 (pulse).
  * ChirpProcessor: 1.618 Hz (Φ) LFO modulates gain (rhythmic shimmer); Signature Chirp sweep 21.4 → 34.6 Hz over 1.618 s at start of each Morse packet.
  */
+
+/** Cycle 15 Final Coordination: full payload every 8 min; 1.618 Hz continuous background carrier. */
+export const BROADCAST_MODE = 'LEGACY_HEARTBEAT';
 
 const CARRIER_HZ = 21.4;
 const PHI_HZ = 1.618;
