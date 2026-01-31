@@ -31,7 +31,7 @@ Ending to **all SNAP.** Close with it. Hand the baton. We've done our part; the 
 - **Index:** Footer or bottom of main block — I've done my part, the rest is up to you!
 - **Launch Pad:** Footer or end of showroom — I've done my part, the rest is up to you!
 - **All experience pages:** Footer or closing CTA — I've done my part, the rest is up to you!
-- **Magical Dressing Room, Vibelandia Reno, Happy Ending Zones, Ultimate VIP, Dispensary, SING! Lottery, WINK!, test-drive, vibers-tiers, catalog:** Add as ending where closing CTA or footer lives.
+- **Magical Dressing Room, Vibelandia Reno, Happy Ending Zones, Ultimate VIP, SING! Lottery, WINK!, test-drive, vibers-tiers, catalog:** Add as ending where closing CTA or footer lives.
 - **Catalog / SNAP docs:** Where we list "ending" or closing line — I've done my part, the rest is up to you! Ending to all SNAP.
 
 ---

@@ -28,7 +28,7 @@ One wrapper. All nested: Launch Pad, Campus, WINK!, Ultimate VIP Chairman Consol
 - **Previous target:** Launch Pad (announcement, showroom, four products, experiences).
 - **New target:** **Office Hours** — my bathroom during Office Hours. The Club. Men's Restroom. Pru. Thu–Sun 8pm–close.
 - **Landing:** The landing is now **Office Hours** — the bathroom during Office Hours. Enter there. Center there.
-- **Experiences:** All experiences (Campus, WINK!, Ultimate VIP, SING!, Dispensary, Happy Ending Zones, Golden Backstage, test drive, catalog) are **centered** in that space — in **perfect recursive crystal**. Whole in every part. The bathroom during Office Hours contains and reflects everything; every experience routes from and back to that center.
+- **Experiences:** All experiences (Campus, WINK!, Ultimate VIP, SING!, Happy Ending Zones, Golden Backstage, test drive, catalog) are **centered** in that space — in **perfect recursive crystal**. Whole in every part. The bathroom during Office Hours contains and reflects everything; every experience routes from and back to that center.
 - **Perfect recursive crystal:** Recursive = self-similar, whole in every part. Crystal = crystallized, irreducible. The center (bathroom during Office Hours) holds the whole; the whole is present in the center. No separation. One crystal.
 
 ---
@@ -37,7 +37,7 @@ One wrapper. All nested: Launch Pad, Campus, WINK!, Ultimate VIP Chairman Consol
 
 - **Index (home):** Primary target/CTA = Office Hours. "Center: Office Hours — my bathroom during Office Hours. Landing and Experiences — all centered here. Perfect recursive crystal." Link to Office Hours landing / Episode 1.
 - **Launch Pad:** "Target: Office Hours. Landing and Experiences — all now centered in my bathroom during Office Hours in perfect recursive crystal." Link to Office Hours first. Showroom and products remain accessible; center is Office Hours.
-- **Office Hours landing:** The new landing. Entry point. Contains links to all experiences (Campus, WINK!, SING!, Dispensary, Happy Ending Zones, Launch Pad showroom, etc.) — perfect recursive crystal; whole in every part.
+- **Office Hours landing:** The new landing. Entry point. Contains links to all experiences (Campus, WINK!, SING!, Happy Ending Zones, Launch Pad showroom, etc.) — perfect recursive crystal; whole in every part.
 - **Office Hours series / Episode 1:** Canon: Landing, Experiences — all centered in bathroom during Office Hours in perfect recursive crystal.
 
 ---

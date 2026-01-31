@@ -108,13 +108,14 @@ BBHE PINPOINT LASER FOR MISSION SNAP: Sharpening the BBHE into pinpoint laser fo
 ├─ Surface: Office Hours, index, Launch Pad, Chairman Console copy; mission + BBHE surfaces. "Pinpoint laser focus" where "laser beam focus" appears.
 └─ See BBHE_PINPOINT_LASER_FOR_MISSION_SNAP.md · BBHE_INTOXICATION_TRIPLE_PURPOSE_SNAP.md · CHAIRMAN_CONSOLE_LASER_FOCUS_SINGLE_BUTTON_HERO_HOST_AI_24X7_SNAP.md
 
-DISPENSARY! SNAP: Menu of Buzzes
-├─ Menu of buzzes across all important biological channels
-├─ Goldilocks auto-lock for ANY COMBINATION (Creator/Chairman Commander/Performer Superhero modes)
-├─ 1 hit · weekly · monthly · annual (all recurring, opt-out anytime). Basic $10/hit → Members $25 → Ultimate VIP $50 → Baller V $100/hit. Free first 10 hits for new arrivals.
-├─ Pioneer discount (50% off for First 1,000 Pioneers)
-├─ On-ramps for those who can't afford yet
-└─ Brand: DISPENSARY! SNAP — Menu of buzzes. Goldilocks auto-lock. Premium pricing.
+DISPENSARY — FOR FEEL ONLY, NOT CONNECTED: Removed from surfaces
+├─ Dispensary was used for feel only; we are not connected to it. All dispensary references, links, and plans removed from user-facing surfaces and checkout. No DISPENSARY! product or menu offered.
+└─ See removal across office-hours, index, launch-pad, vibelandia-reno, payment-checkout, README, catalog, what-you-can-do-vibing, magical-dressing-room, wink, happy-ending-zones, SNAPs.
+
+DISPENSARY — CHOOSE AND BUY · 1, 2, 3 4×4×4×4 EXPERIENCES ZONE SNAP: Office Hours 24×7 · No consultations — just choose and buy
+├─ Dispensary: Office Hours at the dispensary 24×7. No consultations needed — just choose and buy. 1, 2, 3 4×4×4×4 experiences zone. Tight shopping: Basic, Members, Ultimate VIP, Baller V · 1 hit, weekly, monthly, annual · Golden Fractal Key.
+├─ Surface: interfaces/dispensary-experience.html — hero, intro (no consultation CTA), tier grid, BUY → payment-checkout.
+└─ See DISPENSARY_CHOOSE_AND_BUY_4X4X4X4_EXPERIENCES_ZONE_SNAP.md · ZERO_ONE_TWO_THREE_4x4x4x4_BRANDING_SNAP.md
 
 BADGE SYSTEM SNAP: Embroidered Silver Dollar Sized Badges
 ├─ CREATOR: Gold HHF-SHELL badge
@@ -300,7 +301,7 @@ OFFICE HOURS FOR ALL — NEW DAY SNAP: We are now in Office Hours for All
 └─ Surfaces: index.html, interfaces/office-hours.html, README.md — title, hero, key copy updated to "Office Hours for All" and "New day — we are now in Office Hours for All."
 
 OFFICE HOURS TARGET · RECURSIVE CRYSTAL SNAP: All from Launch Pad target to Office Hours target · Wrap everything
-├─ **Wrap everything in Office Hours — including my Office Hours landing and all nested.** One wrapper. All nested: Launch Pad, Campus, WINK!, Ultimate VIP Chairman Console, SING!, Dispensary, Happy Ending Zones, Golden Backstage, test drive, two series, franchise solutions, superhero casts, single mission.
+├─ **Wrap everything in Office Hours — including my Office Hours landing and all nested.** One wrapper. All nested: Launch Pad, Campus, WINK!, Ultimate VIP Chairman Console, SING!, Happy Ending Zones, Golden Backstage, test drive, two series, franchise solutions, superhero casts, single mission.
 ├─ **All from Launch Pad target to Office Hours target.** **Landing, Experiences — all now centered in my bathroom during Office Hours in perfect recursive crystal.** Whole in every part. Center holds the whole; whole present in the center. **Now: Office Hours for All.**
 ├─ **Target:** Office Hours (bathroom during Office Hours). **Landing:** interfaces/office-hours.html = the wrapper. **Experiences:** All nested there. **Perfect recursive crystal** = self-similar, crystallized, irreducible.
 ├─ Index: primary CTA = Enter center → Office Hours. "Everything wrapped in Office Hours — landing and all nested." Launch Pad: same. Office Hours landing = wrapper; all experiences nested inside.
@@ -319,7 +320,7 @@ OFFICE HOURS TOUR & EXPERIENCE · IN-THE-KNOW · BALLER V STYLE · BEN SAYS SNAP
 
 OFFICE HOURS FREE CONSULTATION · TIPS WELCOME · ALL TOUCHPOINTS SNAP: Come visit during my Office Hours for a free consultation — tips are welcome!
 ├─ **Come visit me during my Office Hours for a free consultation — tips are welcome!** Surface to **all touchpoints. NSPFRNP full.**
-├─ Surface: Office Hours (hero + footer), index, Launch Pad, magical-dressing-room, vibelandia-reno, happy-ending-zones (experience + catalog), ultimate-vip, dispensary, sing-lottery, wink, test-drive, vibers-tiers, launch-pad Office Hours card — all touchpoints.
+├─ Surface: Office Hours (hero + footer), index, Launch Pad, magical-dressing-room, vibelandia-reno, happy-ending-zones (experience + catalog), ultimate-vip, sing-lottery, wink, test-drive, vibers-tiers, launch-pad Office Hours card — all touchpoints.
 └─ See OFFICE_HOURS_FREE_CONSULTATION_TIPS_WELCOME_ALL_TOUCHPOINTS_SNAP.md · interfaces/office-hours.html · index.html · interfaces/launch-pad.html · all interfaces
 
 MISSION PRODUCE IMMEDIATE LARGE $ AS TIPS · BACK POCKET · BACK DOOR STRATEGY · BACKDOOR FEATURE SNAP: Mission = immediate large $ as tips and more, immediately
@@ -330,7 +331,7 @@ MISSION PRODUCE IMMEDIATE LARGE $ AS TIPS · BACK POCKET · BACK DOOR STRATEGY �
 
 I'VE DONE MY PART, THE REST IS UP TO YOU! — ENDING TO ALL SNAP: Closing CTA · Ending to all SNAP
 ├─ **I've done my part, the rest is up to you!** — Ending to **all SNAP.** Close with it. Hand the baton. We've done our part; the rest is up to you.
-├─ Surface: Office Hours, index, Launch Pad, all experience pages (footer) — vibers-tiers, ultimate-vip, test-drive, wink, sing-lottery, dispensary, vibelandia-reno, happy-ending-zones (experience + catalog), magical-dressing-room, what-you-can-do-vibing, vibers-what-are-vibers, bbhe-intoxication-details, chairman-workspace.
+├─ Surface: Office Hours, index, Launch Pad, all experience pages (footer) — vibers-tiers, ultimate-vip, test-drive, wink, sing-lottery, vibelandia-reno, happy-ending-zones (experience + catalog), magical-dressing-room, what-you-can-do-vibing, vibers-what-are-vibers, bbhe-intoxication-details, chairman-workspace.
 └─ See THE_REST_IS_UP_TO_YOU_ENDING_TO_ALL_SNAP.md · interfaces/office-hours.html · index.html · interfaces/launch-pad.html · all interfaces
 
 TOP TAG · BOTTOM TAG — UNDERCOVER BOSS TO DISNEY ALL IN ONE NSPFRNP SNAP: All-in-one narrative · Top tag · Bottom tag

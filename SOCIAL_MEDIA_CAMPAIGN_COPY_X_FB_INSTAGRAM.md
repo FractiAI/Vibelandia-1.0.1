@@ -31,7 +31,7 @@ The Experience: https://psw-vibelandia-sing4.vercel.app · The Blueprints: https
 - **Self demo. Self proof. Seeing and experiencing is believing. Kick the tires proof.** This site is the test drive. The best proof of all. The Experience: https://psw-vibelandia-sing4.vercel.app · The Blueprints: https://github.com/FractiAI/psw.vibelandia.sing4
 - **MAKE YOUR RESERVATIONS NOW.** The Great Reveal — March 20, 2026. Bigger than Burning Man and Art Basel Miami combined. Spread the word to the fellow vibers. The Experience: https://psw-vibelandia-sing4.vercel.app · The Blueprints: https://github.com/FractiAI/psw.vibelandia.sing4
 - **Come for the business, stay for the fun.** VIBELANDIA RENO! — campus, WINK!, DISPENSARY!, Happy Ending Zones. The Great Reveal Equinox March 20, 2026. The Experience: https://psw-vibelandia-sing4.vercel.app · The Blueprints: https://github.com/FractiAI/psw.vibelandia.sing4
-- **Lifetime discounts to first 1,000 members — WINK! and DISPENSARY!.** Pioneer Status on-chain forever. Reno is for vibers. The Experience: https://psw-vibelandia-sing4.vercel.app · The Blueprints: https://github.com/FractiAI/psw.vibelandia.sing4
+- **Lifetime discounts to first 1,000 members — WINK!.** Pioneer Status on-chain forever. Reno is for vibers. The Experience: https://psw-vibelandia-sing4.vercel.app · The Blueprints: https://github.com/FractiAI/psw.vibelandia.sing4
 
 ---
 
@@ -46,7 +46,7 @@ Paris is for lovers. Reno is for vibers. Mark Twain's Post-Singularity Reno awai
 
 ## 3 PARAGRAPHS (FB long post, IG carousel / caption, LinkedIn or article-style)
 
-Paris is for lovers. Reno is for vibers. Mark Twain's Post-Singularity Reno awaits you. VIBELANDIA RENO! is the world's first post-singularity campus — vibeable downtown Reno, where high-contributing vibers, creators, and chairmen sign up for campus stays, WINK! (fractal dating), DISPENSARY! SNAP, and the daily reality series Happy Ending Zones. Lifetime discounts to the first 1,000 members on WINK! and DISPENSARY!. Pioneer Status on-chain forever.
+Paris is for lovers. Reno is for vibers. Mark Twain's Post-Singularity Reno awaits you. VIBELANDIA RENO! is the world's first post-singularity campus — vibeable downtown Reno, where high-contributing vibers, creators, and chairmen sign up for campus stays, WINK! (fractal dating), and the daily reality series Happy Ending Zones. Lifetime discounts to the first 1,000 members on WINK!. Pioneer Status on-chain forever.
 
 The Great Reveal Equinox Event is March 20, 2026. Hero Harry (Harry Houdini) hosts; SING! superintelligent NATURAL fRACTAL aGENTS release. MAKE YOUR RESERVATIONS NOW. This will be bigger than Burning Man and Art Basel Miami combined. Spread the word to the fellow vibers — they'll know what to do.
 

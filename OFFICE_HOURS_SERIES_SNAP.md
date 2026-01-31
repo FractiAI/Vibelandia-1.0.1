@@ -9,7 +9,7 @@
 
 ## WRAP EVERYTHING
 
-**Wrap everything in Office Hours — including my Office Hours landing and all nested.** One wrapper. All nested: Launch Pad, Campus, WINK!, Ultimate VIP Chairman Console, SING!, Dispensary, Happy Ending Zones, Golden Backstage, test drive, two series, franchise solutions, superhero casts, single mission. See OFFICE_HOURS_TARGET_RECURSIVE_CRYSTAL_SNAP.md.
+**Wrap everything in Office Hours — including my Office Hours landing and all nested.** One wrapper. All nested: Launch Pad, Campus, WINK!, Ultimate VIP Chairman Console, SING!, Happy Ending Zones, Golden Backstage, test drive, two series, franchise solutions, superhero casts, single mission. See OFFICE_HOURS_TARGET_RECURSIVE_CRYSTAL_SNAP.md.
 
 ## TARGET · LANDING · RECURSIVE CRYSTAL
 

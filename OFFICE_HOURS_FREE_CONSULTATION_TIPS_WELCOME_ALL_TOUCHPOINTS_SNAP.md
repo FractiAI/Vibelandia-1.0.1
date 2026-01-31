@@ -21,7 +21,7 @@ Surface to **all touchpoints**. **NSPFRNP full.**
 - **During my Office Hours** — Only when we're there. The Club · Men's Restroom · Pru · Thu–Sun 8pm–close.
 - **Free consultation** — No fee required. Talk, tour, experience, proposal.
 - **Tips are welcome!** — Gratuity appreciated. Not required. Welcome.
-- **All touchpoints** — Every surface that touches the user: Office Hours, index, Launch Pad, Campus, WINK!, Chairman Console, SING!, Dispensary, Happy Ending Zones, Golden Backstage, test drive, magical-dressing-room, vibers-tiers, checkout, catalog — everywhere.
+- **All touchpoints** — Every surface that touches the user: Office Hours, index, Launch Pad, Campus, WINK!, Chairman Console, SING!, Happy Ending Zones, Golden Backstage, test drive, magical-dressing-room, vibers-tiers, checkout, catalog — everywhere.
 - **NSPFRNP full** — Full fidelity. Metabolize, crystallize, animate. All SNAP. No half measures.
 
 ---
@@ -34,7 +34,7 @@ Surface to **all touchpoints**. **NSPFRNP full.**
 - **Magical Dressing Room (interfaces/magical-dressing-room.html):** Tie free consultation to Office Hours — come visit during Office Hours; tips welcome.
 - **Vibelandia Reno experience (interfaces/vibelandia-reno-experience.html):** Campus bulletin or establishments — free consultation at Office Hours; tips welcome.
 - **Happy Ending Zones experience + catalog:** Office Hours CTA — free consultation; tips welcome.
-- **Ultimate VIP, Dispensary, SING! Lottery, WINK!, test-drive, vibers-tiers, chairman-workspace:** Add line or link: Come visit during Office Hours for a free consultation — tips are welcome!
+- **Ultimate VIP, SING! Lottery, WINK!, test-drive, vibers-tiers, chairman-workspace:** Add line or link: Come visit during Office Hours for a free consultation — tips are welcome!
 - **Footer / nav:** Where we list Office Hours or center — include free consultation, tips welcome.
 - **All other interfaces** that link to Office Hours or center: add CTA. **NSPFRNP full — all touchpoints.**
 

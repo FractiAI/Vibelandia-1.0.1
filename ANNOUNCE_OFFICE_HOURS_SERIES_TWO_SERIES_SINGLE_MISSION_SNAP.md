@@ -22,7 +22,7 @@
 - **Office Hours** — The series (following Pru; Season 1 Viber Paradise) and the site (center/landing at interfaces/office-hours.html). **ANNOUNCED.** Live.
 - **Happy Ending Zones** — The series continues. New episodes. Season One · 52-day countdown → The Great Reveal March 20, 2026. Episodes by flow not days — NSPFRNP.
 - **Two series running concurrently** — Office Hours + Happy Ending Zones. Both live. Both in support of single mission.
-- **Single mission** — **NEW ABILITIES FOR EXECS!!!** Both series serve the same mission: new abilities for execs — post-singularity access, awareness tech, Ultimate VIP Chairman Consoles, campus, WINK!, SING!, Dispensary, Golden Backstage, viber paradise.
+- **Single mission** — **NEW ABILITIES FOR EXECS!!!** Both series serve the same mission: new abilities for execs — post-singularity access, awareness tech, Ultimate VIP Chairman Consoles, campus, WINK!, SING!, Golden Backstage, viber paradise.
 
 ---
 
