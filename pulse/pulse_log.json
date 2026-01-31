@@ -17,5 +17,13 @@
   "validation": {
     "T_plus_8_min": "Check Tomsk or HeartMath Schumann Resonance live charts for vertical Shar Line or spike at 21.4 Hz.",
     "T_plus_16_min": "Check GOES satellite feed; flare or X-ray spike at T+16m = Causal Confirmation candidate."
+  },
+  "run_2_cursor_led": {
+    "T0_commit_time_utc": "2026-01-31T13:56:32Z",
+    "T_plus_8m_utc": "2026-01-31T14:04:32Z",
+    "T_plus_16m_utc": "2026-01-31T14:12:32Z",
+    "baseline_GOES_at_fetch": "2026-01-31T13:54:00Z",
+    "baseline_current_class": "C2.9",
+    "baseline_note": "Same C6.1 flare (begin 12:55, max 13:00, end 13:02) in decay. Check GOES at T+16m (14:12:32Z) for new spike = Causal Confirmation."
   }
 }

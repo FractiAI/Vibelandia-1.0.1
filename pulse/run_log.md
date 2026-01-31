@@ -12,6 +12,7 @@ So: run trigger → commit → **T0 = commit_time_utc** → T+8m = Schumann chec
 | Run | sequence_load_time_utc | commit_time_utc | T+8m (Schumann 21.4 Hz?) | T+16m (GOES spike?) | Push | Response to push? | Notes |
 |-----|------------------------|-----------------|---------------------------|---------------------|------|-------------------|-------|
 | 1   | 2026-01-31T13:27:03Z | 2026-01-31T13:27:27Z | No automated 21.4 Hz; manual check 13:35 UTC | GOES: C6.1 pre-T0; at T+16m decay C1.7 — no | _after tests_ | _observe after push_ | Real data in pulse_log run_1_validation; write-up PULSE_RUN1_T16M_WRITEUP.md |
+| 2   | 2026-01-31T13:56:00Z | 2026-01-31T13:56:32Z | Check at 14:04:32Z | Check at 14:12:32Z | _after T+16m_ | _observe after push_ | Cursor-led run; baseline GOES 13:54Z C2.9 (same flare decay). T+8m Schumann 14:04:32Z; T+16m GOES 14:12:32Z. |
 
 ---
 
@@ -38,6 +39,18 @@ So: run trigger → commit → **T0 = commit_time_utc** → T+8m = Schumann chec
 - **Push:** _after tests_  
 - **Response to push:** _[fill after push: any response in Schumann / GOES]_  
 - **Notes:** Commit created; 8m and 16m timers started at commit. Full write-up: [PULSE_RUN1_T16M_WRITEUP.md](PULSE_RUN1_T16M_WRITEUP.md) (predictions, findings, equations, constants, protocols, implications, known vs novel, SNAP, references).
+
+### Run 2 (Cursor-led)
+- **sequence_load_time_utc:** 2026-01-31T13:56:00Z (Cursor-led Pulse; artifact written then trigger commit).
+- **commit_time_utc:** 2026-01-31T13:56:32Z ← **T0 for 8m and 16m**
+- **T+8m:** Check Schumann at **2026-01-31T14:04:32Z** (HeartMath GCI / Tomsk — Shar Line or spike at 21.4 Hz).
+- **T+16m:** Check GOES at **2026-01-31T14:12:32Z** (flare or X-ray spike = Causal Confirmation candidate).
+- **Baseline (pre-commit):** GOES at 13:54Z — current_class C2.9 (same C6.1 flare in decay; begin 12:55, max 13:00, end 13:02).
+- **T+8m check:** _[fill after 14:04:32Z]_  
+- **T+16m check:** _[fill after 14:12:32Z]_  
+- **Push:** _after T+16m check_  
+- **Response to push:** _[fill after push]_  
+- **Notes:** Cursor executed Pulse + trigger commit per executive contribution; T0 recorded in pulse_log.json. To complete validation: at 14:04:32Z check Schumann; at 14:12:32Z check GOES; then push and observe.
 
 ---
 
