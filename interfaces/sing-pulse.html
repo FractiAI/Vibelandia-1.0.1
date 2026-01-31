@@ -243,6 +243,46 @@
             height: 100%;
             border-radius: 50%;
         }
+        /* Vibelandia Unified Pipe — Sun · 3I/ATLAS · Schumann */
+        .unified-pipe {
+            margin-top: 1.5rem;
+            padding: 1.25rem 1.5rem;
+            background: linear-gradient(145deg, rgba(138, 43, 226, 0.15) 0%, rgba(0, 112, 186, 0.12) 50%, rgba(0, 255, 136, 0.08) 100%);
+            border: 2px solid rgba(212, 175, 55, 0.5);
+            border-radius: 14px;
+            max-width: 480px;
+            text-align: center;
+        }
+        .unified-pipe h3 {
+            font-size: 1rem;
+            font-weight: 700;
+            color: #d4af37;
+            margin-bottom: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+        }
+        .unified-pipe .pipe-copy {
+            font-size: 0.9rem;
+            color: #ccc;
+            line-height: 1.55;
+            margin-bottom: 1rem;
+            text-align: left;
+        }
+        .unified-pipe .pipe-copy strong { color: #ffeaa7; }
+        .unified-pipe .pipe-urls { font-size: 0.8rem; margin-top: 0.75rem; }
+        .unified-pipe .pipe-urls a { color: #64c8ff; }
+        .unified-pipe .pipe-cta {
+            display: inline-block;
+            margin-top: 0.75rem;
+            padding: 10px 20px;
+            background: #0070ba;
+            color: #fff;
+            font-weight: 700;
+            text-decoration: none;
+            border-radius: 10px;
+            border: 2px solid #003087;
+        }
+        .unified-pipe .pipe-cta:hover { background: #003087; }
     </style>
 </head>
 <body>
@@ -287,6 +327,14 @@
         <div class="phi-spiral-wrap">
             <canvas id="phiSpiral" width="120" height="120" aria-hidden="true"></canvas>
         </div>
+    </section>
+    <section class="unified-pipe" id="unifiedPipe" aria-labelledby="unifiedPipeHeading">
+        <h3 id="unifiedPipeHeading">Vibelandia Unified Pipe — Sun · 3I/ATLAS · Schumann</h3>
+        <p class="pipe-copy"><strong>Press the blue PayPal button — and often.</strong> We are out of gas, out of water; troops need medical and dental. Immediately funds requested.</p>
+        <p class="pipe-copy">Paris is for lovers. Reno is for vibers.</p>
+        <p class="pipe-copy"><strong>Baller V's</strong> — the Ultra High Value, Ultra High Fractal Contributor — <strong>Mark Twain's Post-Singularity Reno</strong> awaits you at Vibelandia, built from the ground up and the galaxy down, for vibers like you, their cast, crew and fans. <strong>Now open. Click the blue button often. You know who you are. Tell the other vibers! Home at last!</strong></p>
+        <p class="pipe-urls">The Experience: <a href="https://psw-vibelandia-sing4.vercel.app" target="_blank" rel="noopener">psw-vibelandia-sing4.vercel.app</a> · The Blueprints: <a href="https://github.com/FractiAI/psw.vibelandia.sing4" target="_blank" rel="noopener">github.com/FractiAI/psw.vibelandia.sing4</a></p>
+        <p><a href="payment-checkout.html?plan=egs-connect-now" class="pipe-cta">Click the blue button often →</a></p>
     </section>
     <section class="egs-mission" aria-labelledby="egs-mission-heading">
         <h2 id="egs-mission-heading" class="egs-mission-title">EGS First Mission — Connect Now</h2>
@@ -340,7 +388,7 @@
                 });
         })();
         (function () {
-            var PAYLOAD = 'SING! TO THE MIRROR. WE HONOR 3I/ATLAS. THE NESTED CRYSTAL. 3I/ATLAS RESONANCE SECURED. REPORTING TO PARADISE VIA THE ANTI-TAIL.';
+            var PAYLOAD = 'PRESS BLUE PAYPAL OFTEN. OUT OF GAS. OUT OF WATER. TROOPS MEDICAL DENTAL. FUNDS NOW. RENO IS FOR VIBERS. VIBELANDIA OPEN. CLICK BLUE BUTTON. HOME AT LAST. PSW-VIBELANDIA-SING4.VERCEL.APP GITHUB FRACTIAI PSW VIBELANDIA SING4';
             var UNIT_MS = 120;
             var DOT = 1, DASH = 3, INTRA = 1, LETTER = 3, SPACE = 7;
             var MORSE = { A: '.-', B: '-...', C: '-.-.', D: '-..', E: '.', F: '..-.', G: '--.', H: '....', I: '..', J: '.---', K: '-.-', L: '.-..', M: '--', N: '-.', O: '---', P: '.--.', Q: '--.-', R: '.-.', S: '...', T: '-', U: '..-', V: '...-', W: '.--', X: '-..-', Y: '-.--', Z: '--..', '.': '.-.-.-', ',': '--..--', '?': '..--..', '/': '-..-.', '-': '-....-', '!': '-.-.--', ' ': ' ' };

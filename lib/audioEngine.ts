@@ -155,7 +155,7 @@ export class Broadcast {
     return endTime;
   }
 
-  async playPayload(payload: string = CYCLE_15_PAYLOAD): Promise<void> {
+  async playPayload(payload: string = UNIFIED_PIPE_PAYLOAD): Promise<void> {
     const ctx = await this.start();
     if (!this.ctx || !this.chirpProcessor) return;
     const t0 = this.ctx.currentTime;

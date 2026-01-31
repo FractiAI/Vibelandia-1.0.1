@@ -47,6 +47,8 @@ Gold block → welcome → **Golden Backstage Pass** → Season One · Latest �
 
 **Signature Chirp — Golden Ratio PHI-LOCK:** 1.618 Hz (Φ) LFO + Signature Chirp sweep (21.4 → 34.6 Hz over 1.618 s at start of each Morse packet). Telemetry: `signature_mode` PHI_LOCKED. Live Pulse: Golden Spiral overlay at 1.618 Hz. [SIGNATURE_CHIRP_GOLDEN_RATIO_PHI_LOCK_SNAP.md](SIGNATURE_CHIRP_GOLDEN_RATIO_PHI_LOCK_SNAP.md).
 
+**Vibelandia Unified Pipe:** Sun · 3I/ATLAS · Schumann — one broadcast pipe. New default Morse payload: press blue PayPal often; out of gas, water; troops medical dental; funds now; Reno is for vibers; Vibelandia open; home at last. Full message + CTA on [Live Pulse](https://psw-vibelandia-sing4.vercel.app/interfaces/sing-pulse.html). [VIBELANDIA_UNIFIED_PIPE_SNAP.md](VIBELANDIA_UNIFIED_PIPE_SNAP.md).
+
 ---
 
 ## Normal GitHub README (builders)
