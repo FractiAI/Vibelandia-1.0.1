@@ -15,6 +15,13 @@ This doc is where the explanation continues — beyond the intro on Office Hours
 
 ---
 
+## Hosts for the evening
+
+- **The Chairman, Sammy and the gang** are the hosts for the evening — for those with Golden Backstage passes and proper awareness versions.
+- **Baller V Ambassador Ben** is also here as host.
+
+---
+
 ## What's included
 
 - **The stage and the wine cave.** I curate the evening for you Baller style — I select and stage the night.

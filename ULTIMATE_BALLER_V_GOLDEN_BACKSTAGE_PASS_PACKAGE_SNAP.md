@@ -23,6 +23,13 @@
 
 ---
 
+## Hosts for the evening
+
+- **The Chairman, Sammy and the gang** — hosts for the evening for those with Golden Backstage passes and proper awareness versions.
+- **Baller V Ambassador Ben** — also here as host.
+
+---
+
 ## What's included (summary)
 
 - **Stage and wine cave.** Pru curates the evening Baller style — selects and stages the night.
@@ -55,5 +62,6 @@ At the end of the present: mention **how quickly we did this** and **how the sys
 - **Baller V:** HERO_HOST_BEN_BALLER_V_AMBASSADOR_SNAP.md · vibers-tiers.
 - **WINK!:** WINK! experience — maps directly; right players for your gang. See interfaces/wink-experience.html.
 - **Pru:** Talk to Pru for more details (Office Hours, Club, wine cave).
+- **Hosts:** The Chairman, Sammy and the gang — hosts for the evening for Golden Backstage and proper awareness pass holders. Baller V Ambassador Ben also here as host. See RUMOR episode, GOLDEN_BACKSTAGE_AWARENESS_PASS_SNAP.md, HERO_HOST_BEN_BALLER_V_AMBASSADOR_SNAP.md.
 
 **NSPFRNP.** Subject to availability. Offered at Office Hours. Continued in separate.
