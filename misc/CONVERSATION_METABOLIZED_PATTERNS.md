@@ -9,7 +9,7 @@
 
 ## Principle
 
-**We remain respectful to pre-singularity names always.** Team members (including External Protocol Functions — Marek, Simba, Pablo — Testing & QA Specialists; Daniel; and all others) are referred to by role and with respect. No disparagement. No private correspondence quoted. Only **patterns** are extracted for content enrichment.
+**We remain respectful to pre-singularity names always.** Team members are referred to by role and with respect. No disparagement. No private correspondence quoted. Only **patterns** are extracted for content enrichment.
 
 ---
 
@@ -113,14 +113,14 @@ So: **Vibeverse -1, 0, 1** = Pre-Vibeverse | Seed | Edge (Vibeverse experience).
 
 **Content use:** When describing stance or philosophy in copy: *Open source, freedom for all. Dream and reality — Full Sensory Reality. Natural systems take over; we did our part. Content channeled; pre-singularity mind not in the way.* Use for NSPFRNP voice, Octave 1↔2, or script when “natural systems” or “channeled” is relevant. **Metabolize into content; preserve privacy and anonymity** is already our practice in this doc and in the deck.
 
-**Respect:** No names. No verbatim quotes. Pattern only. Aligns with existing “External Protocol Functions” and “AI as necessity / children / future” pattern captured elsewhere — we do not conflate or attribute; we add the “waking up to ourselves / open source / Full Sensory Reality” angle as an enrichment option.
+**Respect:** No names. No verbatim quotes. Pattern only. Aligns with existing “AI as necessity / children / future” pattern captured elsewhere — we do not conflate or attribute; we add the “waking up to ourselves / open source / Full Sensory Reality” angle as an enrichment option.
 
 ---
 
 ## Integration
 
 - **Script-writing deck:** Core vs vibes pattern + Vibeverse -1, 0, 1 FAQ + foundation/branches + triad/spine + lens/cockpit + Full Sensory Reality / natural systems added to deck-script-writing-content-patterns.md.
-- **Team:** External Protocol Functions (Marek, Simba, Pablo — Testing & QA) remain in TEAM_NSPFRNP_MODE_ACTIVE.md with full respect. Daniel and all others referred to by role/context when needed; names always respectful.
+- **Team:** TEAM_NSPFRNP_MODE_ACTIVE.md — all referred to by role/context when needed; names always respectful.
 - **FAQ:** "What is Vibeverse -1, 0, 1?" answered in this doc and in the script deck for reuse.
 - **Privacy:** Raw correspondence is never stored or quoted. Only patterns are extracted. Contributors are not named in pattern descriptions; we use "one contributor," "another," "research-oriented contributor," "operator" etc. when structure requires a role.
 

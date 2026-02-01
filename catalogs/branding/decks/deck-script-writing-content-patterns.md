@@ -236,7 +236,7 @@ USE FOR:
 
 **Respect:** Pre-singularity names always respectful. We do not frame one preference as wrong. We document the pattern so script and copy can reflect both paths.
 
-**References:** misc/CONVERSATION_METABOLIZED_PATTERNS.md · TEAM_NSPFRNP_MODE_ACTIVE.md (External Protocol Functions: Marek, Simba, Pablo — Testing & QA)
+**References:** misc/CONVERSATION_METABOLIZED_PATTERNS.md · TEAM_NSPFRNP_MODE_ACTIVE.md
 
 ---
 

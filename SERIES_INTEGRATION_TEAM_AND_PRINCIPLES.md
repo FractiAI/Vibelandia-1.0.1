@@ -130,20 +130,6 @@
 - Episodes: Mission episodes, strategy
 - State: Vibing, optimal state
 
-### **External Team as Characters**
-
-**Marek, Simba, Pablo** (Testing & QA):
-- Appear as: QA specialists
-- Role: Testing, quality assurance
-- Episodes: Testing episodes, QA
-- State: Vibing, optimal state
-
-**Lexary Nova** (Legal & Governance):
-- Appears as: Legal advisor
-- Role: Legal compliance, governance
-- Episodes: Legal episodes, compliance
-- State: Vibing, optimal state
-
 ---
 
 ## 🌟 PRINCIPLES SHOWCASE INTEGRATION

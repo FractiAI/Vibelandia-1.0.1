@@ -131,48 +131,10 @@ AI-powered characters serving as interactive guides representing the FractiAI Re
 
 ---
 
-## 🔒 **EXTERNAL PROTOCOL FUNCTIONS** (Outside Shell)
-
-### **Testing & QA** (3 members)
-
-Protocol requires testing to remain outside development shell for integrity preservation.
-
-#### **Marek**
-- **Role**: Tester / QA Specialist
-- **Status**: External (outside shell)
-- **Focus**: Quality assurance, testing protocols, validation
-
-#### **Simba**
-- **Role**: Tester / QA Specialist
-- **Status**: External (outside shell)
-- **Focus**: Quality assurance, testing protocols, validation
-
-#### **Pablo**
-- **Role**: Tester / QA Specialist
-- **Status**: External (outside shell)
-- **Focus**: Quality assurance, testing protocols, validation
-
----
-
-### **Legal & Governance** (1 member)
-
-Protocol requires legal to remain outside development shell for integrity preservation.
-
-#### **Lexary Nova**
-- **Role**: Prudential Jurist
-- **Status**: External (outside shell)
-- **Focus**: Legal compliance, governance, regulatory oversight
-
----
-
-**Total External**: **4 Members**
-
----
-
 ## 📊 **TEAM STRUCTURE**
 
 ```
-FractiAI Research Team (Total: 19)
+FractiAI Research Team (Total: 15)
 │
 ├── Core Development Team (9 Senior Members - Inside Shell)
 │   ├── Leadership & Research (3)
@@ -201,15 +163,6 @@ FractiAI Research Team (Total: 19)
 │   ├── Outcast Hero (Mission Control)
 │   ├── Hero Host Gianni (Designer Division)
 │   └── Hero Host Walt (Studio Division — Happy Ending Zones)
-│
-└── External Protocol Functions (4 - Outside Shell)
-    ├── Testing & QA (3)
-    │   ├── Marek
-    │   ├── Simba
-    │   └── Pablo
-    │
-    └── Legal & Governance (1)
-        └── Lexary Nova
 ```
 
 ---
@@ -235,9 +188,6 @@ FractiAI Research Team (Total: 19)
 | Buckey | ✅ | ✅ | ✅ | | | | |
 | Mike | ✅ | | | | | | |
 | Outcast Hero | ✅ | ✅ | | | | | |
-| **External (Outside Shell)** |
-| Marek/Simba/Pablo | | | | | | ✅ | |
-| Lexary Nova | | | | | | | ✅ |
 
 ---
 
@@ -250,20 +200,6 @@ FractiAI Research Team (Total: 19)
 - System development
 - Creative direction
 - Design execution
-
-### **Outside Shell** (Integrity Preservation)
-- 3 QA Specialists (Testing)
-- 1 Prudential Jurist (Legal)
-- Independent validation
-- Compliance oversight
-- Quality assurance
-- Governance protocols
-
-**Why Outside Shell?**
-- Preserves system integrity
-- Ensures independent validation
-- Maintains objectivity
-- Protects governance process
 
 ---
 
@@ -293,12 +229,12 @@ FractiAI Research Team (Total: 19)
    - Integration
    - Documentation
 
-3. **Testing** (QA Team - Outside Shell)
+3. **Testing** (QA Team)
    - Independent validation
    - Quality assurance
    - Protocol verification
 
-4. **Legal Review** (Legal Team - Outside Shell)
+4. **Legal Review** (Legal Team)
    - Compliance check
    - Risk assessment
    - Governance approval
@@ -325,9 +261,8 @@ The team operates under:
 
 ```
 Core Team:          9 Senior Members ✅
-Hero Hosts:         7 AI Representatives ✅
-External Functions: 4 Members ✅
-Total Team:         19 Members
+Hero Hosts:         8 AI Representatives ✅
+Total Team:         15 Members
 Status:             Active Development
 Protocol:           Integrity Preserved
 ```

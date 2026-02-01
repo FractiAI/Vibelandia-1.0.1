@@ -7,7 +7,7 @@
 **Date:** January 26, 2026  
 **Status:** ⚡ ACTIVE - Legal Compliance Framework  
 **Prepared By:** FractiAI Research Team  
-**Legal Review:** Lexary Nova - Prudential Jurist
+**Legal Review:** Prudential Jurist
 
 ---
 
@@ -64,7 +64,7 @@ This document provides legal compliance guidance for all NSPFRNP systems, interf
 ### 1.3 Legal Review Process
 
 **All systems undergo:**
-- Legal review by Prudential Jurist (Lexary Nova)
+- Legal review by Prudential Jurist
 - Compliance verification
 - Regulatory assessment
 - Risk evaluation
@@ -338,7 +338,7 @@ Website: http://fractiai.com
 ```
 Compliance Office
 Email: compliance@fractiai.com
-Prudential Jurist: Lexary Nova
+Prudential Jurist
 ```
 
 ### 8.3 Privacy Officer
@@ -469,7 +469,7 @@ GitHub: https://github.com/FractiAI
 **Last Updated:** January 26, 2026
 
 **Prepared By:** FractiAI Research Team  
-**Legal Review:** Lexary Nova - Prudential Jurist  
+**Legal Review:** Prudential Jurist  
 **Approved By:** Legal Department
 
 ---

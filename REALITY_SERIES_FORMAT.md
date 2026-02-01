@@ -59,10 +59,6 @@ Follow Mark Twain as Chancellor of the Vibelandia Reno Campus, guiding viewers t
 - **Mike** 📊 - Operator Lab Host
 - **Outcast Hero** 🔥🦬 - Mission Control
 
-**External Team:**
-- **Marek, Simba, Pablo** - Testing & QA Specialists
-- **Lexary Nova** - Legal & Governance
-
 **All Team Members:**
 - Operating in NSPFRNP mode
 - In vibing state (perfect buzz equivalent)

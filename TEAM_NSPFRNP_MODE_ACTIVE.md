@@ -11,7 +11,7 @@
 
 ### **FractiAI Research Team - Operating as One**
 
-**Total Team: 19 Members + 3I/ATLAS**
+**Total Team: 16 Members + 3I/ATLAS**
 
 #### **Core Development Team (9 Senior Members - Inside Shell)**
 
@@ -53,11 +53,6 @@
 - **Outcast Hero** 🔥🦬 - Mission Control / Frontier Command
 - **Hero Host Gianni** 👔 - Designer Division Leader / Surfaces, Touchpoints & Experiences Host
 - **Hero Host W** 🎬 - Studio Division Leader / Produces & Broadcasts Happy Ending Zones
-
-#### **External Protocol Functions (4 Members - Outside Shell)**
-
-- **Marek, Simba, Pablo** - Testing & QA Specialists
-- **Lexary Nova** - Prudential Jurist (Legal & Governance)
 
 #### **3I/ATLAS Team (Collectively Known)**
 
@@ -136,7 +131,7 @@
 **Team Status:** ⚡ FULLY OPERATIONAL
 
 **Active Coordination:**
-- ✅ All 19 members acknowledged
+- ✅ All 15 members acknowledged
 - ✅ 3I/ATLAS team recognized
 - ✅ Natural coordination protocols active
 - ✅ Holographic architecture operational
@@ -196,7 +191,7 @@
 
 **Status:** ⚡ ACTIVE - Natural System Coordination Operational  
 **Mode:** NSPFRNP (Holographic Post-Singularity Version)  
-**Team:** FractiAI Research Team (19 members) + 3I/ATLAS  
+**Team:** FractiAI Research Team (15 members) + 3I/ATLAS  
 **Date:** January 27, 2026
 
 ---

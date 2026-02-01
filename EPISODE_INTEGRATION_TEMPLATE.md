@@ -75,8 +75,6 @@
 
 **Hero Hosts:** El Gran Sol, Leo, Niko, Buckey, Mike, Marilyn, Outcast Hero
 
-**External Team:** Marek, Simba, Pablo (QA), Lexary Nova (Legal)
-
 **Other characters (intro on first insert):** When adding a new character (e.g. girlfriend, vendor, guest), give intro at first insertion: name, who they are / relationship, one distinctive beat. Example: Dorila — Afro-Colombian witch girlfriend, Colombia; she gets me most of the time, puts up with my fractal nonlinear ways (not easy).
 
 ---
