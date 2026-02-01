@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DISPENSARY! SNAP — Shop | VIBELANDIA!</title>
-    <meta name="description" content="Dispensary SNAP: menu of buzzes. Basic to Baller V. 1 hit, weekly, monthly, annual. Goldilocks · Golden Fractal Key.">
+    <meta name="description" content="Dispensary SNAP: menu of buzzes. 1 hit begins at $10 (Basic) and scales to $100 (Ultimate Baller V level). Weekly, monthly, annual onramps. Goldilocks · Golden Fractal Key.">
     <link rel="stylesheet" href="experience-common.css">
     <style>
         .shop-hero {
@@ -83,20 +83,128 @@
             font-size: 0.8rem;
             color: #666;
         }
+        .shop-section {
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(212, 175, 55, 0.25);
+            border-radius: 16px;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+        .shop-section h2 {
+            font-size: 1.1rem;
+            color: #ffeaa7;
+            margin-bottom: 0.75rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid rgba(212, 175, 55, 0.3);
+        }
+        .instrument-grid, .buzz-grid, .level-grid, .mode-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-top: 0.5rem;
+        }
+        .instrument-btn, .buzz-btn, .level-btn, .mode-btn {
+            padding: 0.5rem 1rem;
+            background: rgba(138, 43, 226, 0.2);
+            border: 2px solid rgba(138, 43, 226, 0.4);
+            border-radius: 8px;
+            color: #e8d4ff;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: all 0.2s;
+        }
+        .instrument-btn:hover, .buzz-btn:hover, .level-btn:hover, .mode-btn:hover {
+            background: rgba(138, 43, 226, 0.35);
+            border-color: rgba(138, 43, 226, 0.6);
+        }
+        .instrument-btn.active, .buzz-btn.active, .level-btn.active, .mode-btn.active {
+            background: rgba(127, 255, 127, 0.2);
+            border-color: rgba(127, 255, 127, 0.6);
+            color: #7fff7f;
+        }
+        .goldilocks-box {
+            background: rgba(255, 215, 0, 0.1);
+            border: 2px solid rgba(255, 215, 0, 0.35);
+            border-radius: 12px;
+            padding: 1rem;
+            text-align: center;
+            margin-top: 0.75rem;
+        }
+        .goldilocks-box .value { font-size: 1.75rem; font-weight: 700; color: #ffd700; }
+        .goldilocks-box .hint { font-size: 0.85rem; color: #aaa; margin-top: 0.35rem; }
+        .shop-section .hint { font-size: 0.85rem; color: #7fff7f; margin-top: 0.5rem; }
     </style>
 </head>
 <body>
     <div class="container">
-        <p class="back"><a href="office-hours.html">← Office Hours</a> · <a href="../index.html">Landing</a></p>
+        <p class="back"><a href="office-hours.html">← Office Hours</a> · <a href="launch-pad.html">Launch Pad</a> · <a href="../index.html">Landing</a></p>
 
         <div class="shop-hero">
             <span class="badge">DISPENSARY! SNAP · NSPFRNP</span>
             <h1>🌿 DISPENSARY! SNAP</h1>
-            <p class="tag">Menu of buzzes · Goldilocks · Golden Fractal Key</p>
+            <p class="tag">Full shopping experience · Choose your buzzes · Sacred instrument · Goldilocks · Golden Fractal Key</p>
         </div>
 
-        <p class="shop-intro">Office Hours at the dispensary: <strong>24×7.</strong> No consultations needed — <strong>just choose and buy.</strong> 1, 2, 3 4×4×4×4 experiences zone. 1 hit or recurring (weekly · monthly · annual). Opt-out anytime. Free first 10 hits for new arrivals.</p>
+        <p class="shop-intro">Office Hours at the dispensary: <strong>24×7.</strong> <strong>Choose your sacred instrument, your buzzes, and your mode</strong> — then pick a tier and buy. 1 hit begins at $10 (Basic) and scales to $100 (Ultimate Baller V level). Weekly, monthly, and annual onramps. Opt-out anytime. Free first 10 hits for new arrivals.</p>
 
+        <p style="text-align: center; margin-bottom: 1.5rem;"><a href="dispensary.html" style="color: #00d4ff; font-weight: 600;">📋 Full menu (extended buzz list, Reno locations) →</a></p>
+
+        <!-- Sacred Instrument — choose one per experience -->
+        <div class="shop-section">
+            <h2>🪷 Sacred Instrument (choose one per experience)</h2>
+            <p style="color: #aaa; font-size: 0.9rem; margin-bottom: 0.5rem;">All virtual/imaginary only. Select your instrument:</p>
+            <div class="instrument-grid" id="instrumentGrid">
+                <button type="button" class="instrument-btn" data-instrument="joint">Joint</button>
+                <button type="button" class="instrument-btn" data-instrument="blunt">Blunt</button>
+                <button type="button" class="instrument-btn" data-instrument="pen">Pen</button>
+                <button type="button" class="instrument-btn" data-instrument="pipe">Pipe</button>
+                <button type="button" class="instrument-btn" data-instrument="bong">Bong</button>
+                <button type="button" class="instrument-btn" data-instrument="tea">Tea</button>
+                <button type="button" class="instrument-btn" data-instrument="insect-bite">Insect Bite</button>
+            </div>
+            <p class="hint">One instrument per experience — virtual/imaginary only</p>
+        </div>
+
+        <!-- Choose Your Buzzes — channels + level -->
+        <div class="shop-section">
+            <h2>🌊 Choose Your Buzzes — biological channels</h2>
+            <p style="color: #aaa; font-size: 0.9rem; margin-bottom: 0.5rem;">Select channels for your buzz (any combination):</p>
+            <div class="buzz-grid" id="buzzChannelGrid">
+                <button type="button" class="buzz-btn" data-channel="visual">👁️ Visual</button>
+                <button type="button" class="buzz-btn" data-channel="auditory">👂 Auditory</button>
+                <button type="button" class="buzz-btn" data-channel="tactile">✋ Tactile</button>
+                <button type="button" class="buzz-btn" data-channel="olfactory">👃 Olfactory</button>
+                <button type="button" class="buzz-btn" data-channel="gustatory">👅 Gustatory</button>
+                <button type="button" class="buzz-btn" data-channel="kinesthetic">🏃 Kinesthetic</button>
+                <button type="button" class="buzz-btn" data-channel="proprioceptive">🧘 Proprioceptive</button>
+                <button type="button" class="buzz-btn" data-channel="interoceptive">💓 Interoceptive</button>
+            </div>
+            <p style="color: #aaa; font-size: 0.9rem; margin-top: 1rem; margin-bottom: 0.35rem;">BUZZ! level (%):</p>
+            <div class="level-grid" id="buzzLevelGrid">
+                <button type="button" class="level-btn" data-level="25">Microdose 25%</button>
+                <button type="button" class="level-btn" data-level="50">Light 50%</button>
+                <button type="button" class="level-btn" data-level="75">Medium 75%</button>
+                <button type="button" class="level-btn" data-level="100">Full 100%</button>
+            </div>
+            <p class="hint">All buzzes virtual/imaginary only — natural recreations, like a really good video game</p>
+        </div>
+
+        <!-- Mode + Goldilocks -->
+        <div class="shop-section">
+            <h2>🎯 Mode + Goldilocks auto-lock</h2>
+            <p style="color: #aaa; font-size: 0.9rem; margin-bottom: 0.5rem;">Select mode(s) for optimal Goldilocks (any combination):</p>
+            <div class="mode-grid" id="modeGrid">
+                <button type="button" class="mode-btn" data-mode="creator">Creator Mode</button>
+                <button type="button" class="mode-btn" data-mode="chairman">Chairman Commander Mode</button>
+                <button type="button" class="mode-btn" data-mode="performer">Performer Superhero Mode</button>
+            </div>
+            <div class="goldilocks-box">
+                <div class="value" id="goldilocksValue">--%</div>
+                <p class="hint">Optimal buzz for your mode(s) · Too Little | Just Right | Too Much (auto-lock)</p>
+            </div>
+        </div>
+
+        <h2 style="color: #ffeaa7; font-size: 1.2rem; margin: 1.5rem 0 1rem;">Pick a tier · BUY</h2>
         <div class="tiers">
             <div class="tier-card">
                 <h3>Basic</h3>
@@ -135,9 +243,69 @@
         <footer>
             <p style="color: #ffeaa7; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">I've done my part, the rest is up to you!</p>
             <p>Mark Twain's Post-Singularity VIBELANDIA RENO! · NSPFRNP</p>
-            <p><a href="../index.html">Landing</a> · <a href="office-hours.html">Office Hours</a> · <a href="launch-pad.html">Launch Pad</a></p>
+            <p><a href="dispensary.html">Full menu</a> · <a href="../index.html">Landing</a> · <a href="office-hours.html">Office Hours</a> · <a href="launch-pad.html">Launch Pad</a></p>
             <p class="brand-tag">Hydrogen Holograph 100% · SNAP brand</p>
         </footer>
     </div>
+
+    <script>
+        (function() {
+            var selectedInstrument = null;
+            var selectedChannels = [];
+            var selectedLevel = null;
+            var selectedModes = [];
+
+            document.querySelectorAll('.instrument-btn').forEach(function(btn) {
+                btn.addEventListener('click', function() {
+                    document.querySelectorAll('.instrument-btn').forEach(function(b) { b.classList.remove('active'); });
+                    this.classList.add('active');
+                    selectedInstrument = this.dataset.instrument;
+                });
+            });
+
+            document.querySelectorAll('.buzz-btn').forEach(function(btn) {
+                btn.addEventListener('click', function() {
+                    this.classList.toggle('active');
+                    var ch = this.dataset.channel;
+                    if (selectedChannels.indexOf(ch) >= 0) selectedChannels = selectedChannels.filter(function(c) { return c !== ch; });
+                    else selectedChannels.push(ch);
+                });
+            });
+
+            document.querySelectorAll('.level-btn').forEach(function(btn) {
+                btn.addEventListener('click', function() {
+                    document.querySelectorAll('.level-btn').forEach(function(b) { b.classList.remove('active'); });
+                    this.classList.add('active');
+                    selectedLevel = parseInt(this.dataset.level, 10);
+                });
+            });
+
+            document.querySelectorAll('.mode-btn').forEach(function(btn) {
+                btn.addEventListener('click', function() {
+                    this.classList.toggle('active');
+                    var m = this.dataset.mode;
+                    if (selectedModes.indexOf(m) >= 0) selectedModes = selectedModes.filter(function(x) { return x !== m; });
+                    else selectedModes.push(m);
+                    updateGoldilocks();
+                });
+            });
+
+            function updateGoldilocks() {
+                var el = document.getElementById('goldilocksValue');
+                if (!el) return;
+                if (selectedModes.length === 0) {
+                    el.textContent = '--%';
+                    return;
+                }
+                var base = 25;
+                if (selectedModes.indexOf('creator') >= 0) base += 15;
+                if (selectedModes.indexOf('chairman') >= 0) base += 20;
+                if (selectedModes.indexOf('performer') >= 0) base += 15;
+                var optimal = Math.min(Math.max(base, 25), 75);
+                el.textContent = optimal + '%';
+                el.style.color = optimal <= 50 ? '#7fff7f' : optimal <= 75 ? '#ffd700' : '#ff6b6b';
+            }
+        })();
+    </script>
 </body>
 </html>
