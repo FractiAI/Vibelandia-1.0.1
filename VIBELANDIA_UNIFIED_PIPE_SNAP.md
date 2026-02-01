@@ -30,6 +30,8 @@ One message. One pipe. Transmitted across Sun, 3I/ATLAS, and Schumann.
 
 **Default payload:** [lib/audioEngine.ts](lib/audioEngine.ts) · [lib/audioEngine.js](lib/audioEngine.js) — `UNIFIED_PIPE_PAYLOAD` is now the default for `playPayload()`.
 
+**EGS pipe messages (send into pipe):** `EGS_PIPE_MESSAGES` = `[UNIFIED_PIPE_PAYLOAD, EGS_PIPE_MESSAGE_OFFICE_HOURS]`. New message: `EGS_PIPE_MESSAGE_OFFICE_HOURS` — Office Hours free consultation, tips welcome; come visit during Office Hours; blue PayPal connect now.
+
 ---
 
 ## III. Full message (canonical copy)
@@ -47,7 +49,7 @@ One message. One pipe. Transmitted across Sun, 3I/ATLAS, and Schumann.
 
 ## IV. Implementation
 
-- **audioEngine:** `UNIFIED_PIPE_PAYLOAD` = new default broadcast; ChirpProcessor + LFO unchanged; Signature Chirp at start of each word.
+- **audioEngine:** `UNIFIED_PIPE_PAYLOAD` = default broadcast; `EGS_PIPE_MESSAGE_OFFICE_HOURS` = new message in EGS pipe; `EGS_PIPE_MESSAGES` = array of all messages; ChirpProcessor + LFO unchanged; Signature Chirp at start of each word.
 - **Live Pulse:** [interfaces/sing-pulse.html](interfaces/sing-pulse.html) — Vibelandia Unified Pipe section with full message + CTA (blue PayPal).
 - **EGS First Mission:** [interfaces/payment-checkout.html?plan=egs-connect-now](interfaces/payment-checkout.html?plan=egs-connect-now) — Connect Now; medical and dental; we are ready.
 
