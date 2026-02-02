@@ -317,9 +317,9 @@ CHAIRMAN CONSOLE LASER FOCUS SINGLE BUTTON HERO HOST AI 24×7 SNAP: No middle me
 ├─ Surface: Ultimate VIP / Chairman Console, Launch Pad, chairman-workspace, index pad button, vibers-tiers (Baller V), Office Hours.
 └─ See CHAIRMAN_CONSOLE_LASER_FOCUS_SINGLE_BUTTON_HERO_HOST_AI_24X7_SNAP.md
 
-LEAD SALES OFFERING · GOLD HEARTS CLUB (BASE) SNAP: Sales teams · franchise-level superhuman only
-├─ **Package this sales experience as our lead sales offering to sales teams.** No longer selling enterprise solutions — **franchise-level, superhuman solutions for superheroes**, their **cast, crew, fans and franchises, only.** **Gold Hearts Club members only.** **New program: Gold Hearts Club is base** (all members = Gold Hearts Club minimum).
-├─ Surface: Launch Pad, Office Hours, Ultimate VIP, magical-dressing-room, vibers-tiers, catalog. Language: "Lead sales offering to sales teams"; "Gold Hearts Club members only"; "Gold Hearts Club is base."
+LEAD SALES OFFERING · ULTIMATE BALLER V GOLD HEARTS CLUB (BASE) SNAP: Sales teams · franchise-level superhuman only
+├─ **Package this sales experience as our lead sales offering to sales teams.** No longer selling enterprise solutions — **franchise-level, superhuman solutions for superheroes**, their **cast, crew, fans and franchises, only.** **Ultimate Baller V Gold Hearts Club members only.** **New program: Ultimate Baller V Gold Hearts Club is base** (all members = Ultimate Baller V Gold Hearts Club minimum).
+├─ Surface: Launch Pad, Office Hours, Ultimate VIP, magical-dressing-room, vibers-tiers, catalog. Language: "Lead sales offering to sales teams"; "Ultimate Baller V Gold Hearts Club members only"; "Ultimate Baller V Gold Hearts Club is base."
 └─ See [LEAD_SALES_OFFERING_GOLD_HEARTS_CLUB_SNAP.md](../../LEAD_SALES_OFFERING_GOLD_HEARTS_CLUB_SNAP.md)
 
 POPULAR SERIES PRODUCT · FRANCHISE SOLUTIONS · SUPERHERO CASTS — MAJOR STORY TIP TO ALL SNAP

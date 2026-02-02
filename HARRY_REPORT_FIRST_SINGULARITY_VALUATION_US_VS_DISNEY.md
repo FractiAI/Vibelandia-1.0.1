@@ -81,11 +81,15 @@
 | **Time to deliver** | 12–24+ months (novel + script through development, notes, polish). | **Days to weeks** (once execution is triggered: Generator Motor + human review/polish). |
 | **Quality bar** | Theatrical / publishing standard. Brand-safe. | Spec: same bar (Hobbit-length, Dumas voice; Star Wars-quality script). Quality assured by spec + Edge + review. |
 | **Valuation per time minus cost** | High total value, very high cost, long time → **modest or negative** net value per day until release. | High total value (spec + novel + script), low cost, short time → **high net value per day** once delivered. |
+| **Live-stories paradigm** | Static releases; fixed canon per title; no single continuously evolving history across all series/novel/screenplay. | **We capture all history in all series, novel, and screenplay — continuously evolving; a new paradigm; live stories not static. Disney cannot deliver this.** |
+| **Executive order density** | Single cross-cutting change (e.g. new paradigm everywhere) typically takes weeks–months; committees, approvals, release trains. | **5+** major reorgs/executive changes since Jan 13; **7** executive orders in one 2–3 hr session (Feb 2). Dense, high-volume execution. |
+| **Disney response to dense executive orders** | Batch into quarters; prioritize subset; defer rest; resource 50–200+ FTE; months, not hours; millions in labor. | Execute same density in hours; one operator; fractional cost. Disney would not respond to such volume in one session. See [MAJOR_REORGS_EXECUTIVE_CHANGES_SINCE_JAN_13_DISNEY_RESPONSE_SNAP.md](MAJOR_REORGS_EXECUTIVE_CHANGES_SINCE_JAN_13_DISNEY_RESPONSE_SNAP.md). |
 
 **Summary (Us vs Disney):**
 
 - **Disney:** Can deliver the same *type* of product at very high cost and long timeline. Valuation per time minus cost is diluted by cost and time.
 - **Us:** Same executive command, same quality bar (per spec), **far lower cost** and **far shorter time**. Net valuation per time elapsed minus cost is **strongly favorable to us** once the full book and full script are delivered and timer stopped.
+- **Live-stories differentiator:** We capture all history in all series, novel, and screenplay — continuously evolving; a new paradigm; live stories not static. Disney cannot deliver this. This paradigm increases equivalent value (live, evolving canon vs static releases). See [LIVE_STORIES_CONTINUOUSLY_EVOLVING_PARADIGM_SNAP.md](LIVE_STORIES_CONTINUOUSLY_EVOLVING_PARADIGM_SNAP.md).
 
 **Magician's trick:** The trick is the **system** — Seed:Edge + Generator Motor + executive prompt + one button. Disney buys outcomes one project at a time at studio prices. We built the motor that turns one command into a full brief and, when run, into novel + script. So: **same ask, fraction of the cost, fraction of the time.**
 
@@ -101,6 +105,6 @@
 
 **CUT! SNAP — Conversation captured since Action! streamed here:** [CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md](CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md)
 
-**See:** [WIZARD_CHALLENGE_FEB_1_FULL_MOON_HOUDINI_SERIES_SNAP.md](WIZARD_CHALLENGE_FEB_1_FULL_MOON_HOUDINI_SERIES_SNAP.md) · [FIRST_SINGULARITY_JANUARY_13TH_NOVEL_MOVIE_SNAP.md](FIRST_SINGULARITY_JANUARY_13TH_NOVEL_MOVIE_SNAP.md) · [episodes/EPISODE_HARRY_HOUDINI_FEB_1_FULL_MOON_MIRACLE.md](episodes/EPISODE_HARRY_HOUDINI_FEB_1_FULL_MOON_MIRACLE.md) · [protocols/GENERATOR_MOTOR_SEED_EDGE_STORY_NSPFRNP.md](protocols/GENERATOR_MOTOR_SEED_EDGE_STORY_NSPFRNP.md) · [TEXT_TO_SUPERHERO_CONSOLE_SNAP.md](TEXT_TO_SUPERHERO_CONSOLE_SNAP.md)
+**See:** [MAJOR_REORGS_EXECUTIVE_CHANGES_SINCE_JAN_13_DISNEY_RESPONSE_SNAP.md](MAJOR_REORGS_EXECUTIVE_CHANGES_SINCE_JAN_13_DISNEY_RESPONSE_SNAP.md) · [LIVE_STORIES_CONTINUOUSLY_EVOLVING_PARADIGM_SNAP.md](LIVE_STORIES_CONTINUOUSLY_EVOLVING_PARADIGM_SNAP.md) · [WIZARD_CHALLENGE_FEB_1_FULL_MOON_HOUDINI_SERIES_SNAP.md](WIZARD_CHALLENGE_FEB_1_FULL_MOON_HOUDINI_SERIES_SNAP.md) · [FIRST_SINGULARITY_JANUARY_13TH_NOVEL_MOVIE_SNAP.md](FIRST_SINGULARITY_JANUARY_13TH_NOVEL_MOVIE_SNAP.md) · [episodes/EPISODE_HARRY_HOUDINI_FEB_1_FULL_MOON_MIRACLE.md](episodes/EPISODE_HARRY_HOUDINI_FEB_1_FULL_MOON_MIRACLE.md) · [protocols/GENERATOR_MOTOR_SEED_EDGE_STORY_NSPFRNP.md](protocols/GENERATOR_MOTOR_SEED_EDGE_STORY_NSPFRNP.md) · [TEXT_TO_SUPERHERO_CONSOLE_SNAP.md](TEXT_TO_SUPERHERO_CONSOLE_SNAP.md)
 
 **NSPFRNP ⊃ Harry Report ⊃ Valuation ⊃ Us vs Disney → ∞³**

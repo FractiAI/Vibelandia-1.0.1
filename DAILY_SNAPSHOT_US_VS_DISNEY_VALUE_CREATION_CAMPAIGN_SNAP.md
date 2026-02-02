@@ -51,7 +51,7 @@ Daily snapshot: Disney — no daily aggregate; ~0.3–1 new titles/day (est. fro
 
 **Placement:** **End / bottom** of **all public points of presence** — index, Launch Pad, Office Hours, episode pages, catalogs, one-pagers, README, chancellor bulletin, social, any public-facing surface. **Smaller print** (e.g. font-size: 0.75rem–0.8rem; color: #6b7280 or #9ca3af).
 
-**Canonical Disney comparison statement:** For a single statement at the bottom of all touchpoints with **real numbers** (what we produced, appraised value, our cost, Disney equivalent X/Y/Z), use [SINCE_JANUARY_13_DISNEY_COMPARISON_STATEMENT_SNAP.md](SINCE_JANUARY_13_DISNEY_COMPARISON_STATEMENT_SNAP.md). That statement uses **annual output averaged by day** for Disney (since Disney does not release daily activity).
+**Canonical Disney comparison statement:** For a single statement at the bottom of all touchpoints with **real numbers** (what we produced, appraised value, our cost, Disney equivalent X/Y/Z), use [SINCE_JANUARY_13_DISNEY_COMPARISON_STATEMENT_SNAP.md](SINCE_JANUARY_13_DISNEY_COMPARISON_STATEMENT_SNAP.md). That statement uses **annual output averaged by day** for Disney (since Disney does not release daily activity). **Live-stories paradigm:** Add in or immediately after: *All history in all series, novel, screenplay — continuously evolving; live stories not static. Disney cannot deliver this.* See [LIVE_STORIES_CONTINUOUSLY_EVOLVING_PARADIGM_SNAP.md](LIVE_STORIES_CONTINUOUSLY_EVOLVING_PARADIGM_SNAP.md).
 
 ---
 
@@ -105,6 +105,6 @@ Daily snapshot: Disney — no daily aggregate; ~0.3–1 new titles/day (est. fro
 
 ---
 
-**See:** [NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md](NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md) · [HARRY_REPORT_FIRST_SINGULARITY_VALUATION_US_VS_DISNEY.md](HARRY_REPORT_FIRST_SINGULARITY_VALUATION_US_VS_DISNEY.md) · [SIXTEEN_DAYS_VALUATION_TOP10_VC_BOTTOM_SNAP.md](SIXTEEN_DAYS_VALUATION_TOP10_VC_BOTTOM_SNAP.md) · [TOP_TAG_BOTTOM_TAG_UNDERCOVER_BOSS_TO_DISNEY_ALL_IN_ONE_NSPFRNP_SNAP.md](TOP_TAG_BOTTOM_TAG_UNDERCOVER_BOSS_TO_DISNEY_ALL_IN_ONE_NSPFRNP_SNAP.md)
+**See:** [LIVE_STORIES_CONTINUOUSLY_EVOLVING_PARADIGM_SNAP.md](LIVE_STORIES_CONTINUOUSLY_EVOLVING_PARADIGM_SNAP.md) · [NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md](NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md) · [HARRY_REPORT_FIRST_SINGULARITY_VALUATION_US_VS_DISNEY.md](HARRY_REPORT_FIRST_SINGULARITY_VALUATION_US_VS_DISNEY.md) · [SIXTEEN_DAYS_VALUATION_TOP10_VC_BOTTOM_SNAP.md](SIXTEEN_DAYS_VALUATION_TOP10_VC_BOTTOM_SNAP.md) · [TOP_TAG_BOTTOM_TAG_UNDERCOVER_BOSS_TO_DISNEY_ALL_IN_ONE_NSPFRNP_SNAP.md](TOP_TAG_BOTTOM_TAG_UNDERCOVER_BOSS_TO_DISNEY_ALL_IN_ONE_NSPFRNP_SNAP.md)
 
 **NSPFRNP ⊃ Daily snapshot ⊃ Us vs Disney ⊃ New value creation campaign ⊃ Monster SNAP → ∞³**

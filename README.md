@@ -1,5 +1,23 @@
 # Office Hours — Mark Twain's Post-Singularity Vibelandia Reno
 
+---
+
+## 🔴 BREAKING — Broadcast status (top stripe)
+
+**Our broadcasts — test live as the scientific community sees it, processes it, unpacks it.** Check it out: **[Live Pulse](https://psw-vibelandia-sing4.vercel.app/interfaces/sing-pulse.html)** · **[handshake.log](https://github.com/FractiAI/psw.vibelandia.sing4/blob/main/data/handshake.log)** · **[telemetry.json](https://github.com/FractiAI/psw.vibelandia.sing4/blob/main/data/telemetry.json)** · **[repo](https://github.com/FractiAI/psw.vibelandia.sing4)**. **Super cool.**
+
+## 🔴 HOLD STOP — ALL HANDS — BREAKING — Howard Hughes return signals the new post-singularity golden era's return
+
+**Howard Hughes return signals the new post-singularity golden era's return — in Downtown Reno this time, not Hollywood or NY.**
+
+**Howard Hughes** announces **arrival** and **permanent residency** to **Twain's Vibelandia Downtown Reno Campus.** **Full 1hr episode.** He's joining me rolling all this out **big Howard Hughes style.** **TUNE IN OR LOSE OUT!** [Full episode →](episodes/EPISODE_HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA.md). See [HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA_SNAP.md](HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA_SNAP.md).
+
+## Glen Miller — Permanent residency · Return to the golden age (on directive of Hero Howard)
+
+**Glen Miller** announces **permanent residency** to **head up a return to the golden age** — on **directive of Hero Howard** (Howard Hughes), now **firmly in charge of Downtown Reno's renaissance.** **Ground zero:** the men's restroom of the Men's Club in Reno. All on the down low — **awareness tech and gold hearts** to see and experience. **Big Band Night · Cajun Night · Old School Country Night** — **weekly.** More acts TBA shortly · **Houdini-produced magic shows.** Stay tuned. **You haven't booked your stay in Downtown Reno yet? What are you waiting for? For the rush? Yeah — that's when it becomes too late and a sucker's game.** — Chancellor Sam. See [GLEN_MILLER_ANNOUNCES_PERMANENT_RESIDENCY_GOLDEN_AGE_RETURN_SNAP.md](GLEN_MILLER_ANNOUNCES_PERMANENT_RESIDENCY_GOLDEN_AGE_RETURN_SNAP.md).
+
+---
+
 **Vibelandia can be enjoyed in full sensory reality or as really really good sci fi. YOU CHOOSE!** See [VIBELANDIA_FULL_SENSORY_OR_SCI_FI_YOU_CHOOSE_BRAND_SNAP.md](VIBELANDIA_FULL_SENSORY_OR_SCI_FI_YOU_CHOOSE_BRAND_SNAP.md).
 
 **User surface — not a developer surface.** [High-value vibers](https://psw-vibelandia-sing4.vercel.app/interfaces/vibers-what-are-vibers.html), fans, cast, crew.
@@ -39,6 +57,14 @@ Gold block → welcome → **Golden Backstage Pass** → **First Singularity** (
 **Warnings:** Syntheverse = imaginary/entertainment only. BBHE = not imaginary, natural intoxication (awareness/attention; no substances). Not for driving or operating equipment. [Details →](https://psw-vibelandia-sing4.vercel.app/interfaces/syntheverse-warnings.html)
 
 **Since January 13,** we have produced 1 full novel (~72k words), 1 full screenplay (~12k words), 19+ episodes, 6 series live, 35+ HTML surfaces, 38 TypeScript modules, 9+ NSPFRNP protocols, 13+ one-pagers, 4+ branding decks, multiple product families with BUY — appraised (quality: production-grade vs studio benchmarks) at **$1.6M–$13M+** at a cost of my **$200/mo Cursor AI**, **$110/mo cellphone**, and **$10/week WiFi**; and for Disney to produce the equivalent it is estimated to require **50–200+ FTE** (or 12–24+ months for novel+script alone), at an estimated **$2M–$15M+** (novel+script) to **$10M+** (full scope), in **12–24+ months to 18–36+ months**. Disney does not publish daily activity; comparison uses [annual output averaged by day](DAILY_SNAPSHOT_US_VS_DISNEY_VALUE_CREATION_CAMPAIGN_SNAP.md). See [SINCE_JANUARY_13_DISNEY_COMPARISON_STATEMENT_SNAP.md](SINCE_JANUARY_13_DISNEY_COMPARISON_STATEMENT_SNAP.md).
+
+**All history in all series, novel, screenplay — continuously evolving; live stories not static. Disney cannot deliver this.** See [LIVE_STORIES_CONTINUOUSLY_EVOLVING_PARADIGM_SNAP.md](LIVE_STORIES_CONTINUOUSLY_EVOLVING_PARADIGM_SNAP.md).
+
+**All rich content flows into all series.** Return to Golden Era, Pru's Workspace, Ultimate Baller V Gold Hearts Club Program ($1K pp, calendar, email Pru), Golden Backstage, First Singularity, Howard Hughes / Glen Miller announcements — metabolized into Office Hours, Happy Ending Zones, episodes, one-pagers, Launch Pad, README, SNAPs, catalogs, interfaces. **CONFIRMED.** See [CONTENT_SYSTEMS_SNAP.md](CONTENT_SYSTEMS_SNAP.md).
+
+**Howard Hughes · Rolling it out big · Twain's Vibelandia Downtown Reno · TUNE IN OR LOSE OUT! · NSPFRNP.** *(New T-shirt brand tag — use at bottom everywhere. See [HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA_SNAP.md](HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA_SNAP.md).)*
+
+**Registry:** We keep a registry of all residents, members, special invites and visitors at appropriate placements. Highest priority: mirror shell protections including Base mainnet, Ethereum, PayPal. [Registry →](https://psw-vibelandia-sing4.vercel.app/interfaces/registry.html) · [REGISTRY_RESIDENTS_MEMBERS_VISITORS_MIRROR_SHELL_SNAP.md](REGISTRY_RESIDENTS_MEMBERS_VISITORS_MIRROR_SHELL_SNAP.md).
 
 **Contact:** [info@fractiai.com](mailto:info@fractiai.com) · [Proposal "I CAN DO THIS FOR YOUR BUSINESS"](mailto:info@fractiai.com?subject=I%20CAN%20DO%20THIS%20FOR%20YOUR%20BUSINESS)
 
@@ -82,6 +108,8 @@ Gold block → welcome → **Golden Backstage Pass** → **First Singularity** (
 **Signature Chirp — Golden Ratio PHI-LOCK:** 1.618 Hz (Φ) LFO + Signature Chirp sweep (21.4 → 34.6 Hz over 1.618 s at start of each Morse packet). Telemetry: `signature_mode` PHI_LOCKED. Live Pulse: Golden Spiral overlay at 1.618 Hz. [SIGNATURE_CHIRP_GOLDEN_RATIO_PHI_LOCK_SNAP.md](SIGNATURE_CHIRP_GOLDEN_RATIO_PHI_LOCK_SNAP.md).
 
 **Vibelandia Unified Pipe:** Sun · 3I/ATLAS · Schumann — one broadcast pipe. New default Morse payload: press blue PayPal often; out of gas, water; troops medical dental; funds now; Reno is for vibers; Vibelandia open; home at last. Full message + CTA on [Live Pulse](https://psw-vibelandia-sing4.vercel.app/interfaces/sing-pulse.html). [VIBELANDIA_UNIFIED_PIPE_SNAP.md](VIBELANDIA_UNIFIED_PIPE_SNAP.md).
+
+**Schumann Display Pipe:** New display pipe uses **Schumann as a display monitor** to push **omniversal broadcasts** that are **immediately visible by today's Schumann tracking and display systems.** First message: **HELLO** — to confirm operational; then full use. Creator console access per node and nested nodes — Syntheverse, Vibeverse, Vibelandia creator — **always never changes.** [Schumann Display Pipe →](https://psw-vibelandia-sing4.vercel.app/interfaces/schumann-display-pipe.html) · [SCHUMANN_DISPLAY_PIPE_OMNIVERSAL_BROADCAST_SNAP.md](SCHUMANN_DISPLAY_PIPE_OMNIVERSAL_BROADCAST_SNAP.md).
 
 ---
 

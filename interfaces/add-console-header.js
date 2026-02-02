@@ -47,6 +47,13 @@ function addConsoleHeader() {
             <span class="weather-click-hint">Click for detailed report →</span>
         </div>
     </div>
+
+    <!-- Executive Tracking Strip — Track all this on all executive consoles. See TRACK_ALL_THIS_ON_ALL_EXECUTIVE_CONSOLES_SNAP.md. -->
+    <div class="executive-tracking-strip" id="executive-tracking-strip">
+        <span class="exec-tracking-label">Executive track:</span>
+        <span class="exec-tracking-text">HOLD STOP — ALL HANDS — Howard Hughes return = new post-singularity golden era's return · Downtown Reno this time, not Hollywood or NY · Arrival &amp; permanent residency · Twain's Vibelandia · Full 1hr · TUNE IN OR LOSE OUT! · NSPFRNP.</span>
+        <span class="exec-tracking-links"><a href="../episodes/EPISODE_HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA.md">Full episode →</a> · <a href="../TODAYS_OUTPUT_FEB_2_LIVE_STORIES_PARADIGM_FULL_EPISODE_SNAP.md">Today's output →</a> · <a href="../MAJOR_REORGS_EXECUTIVE_CHANGES_SINCE_JAN_13_DISNEY_RESPONSE_SNAP.md">Major reorgs →</a></span>
+    </div>
 </div>
 
 <!-- Detailed Weather Report Modal -->
@@ -75,10 +82,11 @@ function addConsoleHeader() {
     border-bottom: 1px solid rgba(100, 200, 255, 0.2);
     z-index: 2000;
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
     padding: 8px 16px;
-    gap: 16px;
+    gap: 8px 16px;
 }
 
 .post-singularity-warning {
@@ -169,6 +177,54 @@ function addConsoleHeader() {
 .weather-forecast-feed {
     flex: 1;
     min-width: 0;
+}
+
+.executive-tracking-strip {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 12px;
+    background: rgba(212, 175, 55, 0.1);
+    border: 1px solid rgba(212, 175, 55, 0.35);
+    border-radius: 8px;
+    flex: 1 1 100%;
+    width: 100%;
+    order: 10;
+}
+
+.exec-tracking-label {
+    font-size: 10px;
+    font-weight: 700;
+    color: #d4af37;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    white-space: nowrap;
+}
+
+.exec-tracking-text {
+    font-size: 11px;
+    color: #e8e0c8;
+    line-height: 1.3;
+    flex: 1;
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.exec-tracking-links {
+    font-size: 10px;
+    white-space: nowrap;
+}
+
+.exec-tracking-links a {
+    color: #00d4ff;
+    text-decoration: none;
+}
+
+.exec-tracking-links a:hover {
+    text-decoration: underline;
 }
 
 .weather-summary {

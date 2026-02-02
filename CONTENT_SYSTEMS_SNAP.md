@@ -62,6 +62,7 @@
 - **Content Systems SNAP** = content organized by category; **Customer Stories** = new category for onramps/grants recipients who agree to be customer stories; we sign them up for it.
 - **Onramps and grants CTA** appears on README, Launch Pad, ONE_PAGER_ULTIMATE_VIP — with clear line: recipients agree to be customer stories.
 - **Customer stories type** is used across content system (surfaces, series, social, catalogs) once signed up and consent is on file.
+- **CONFIRMED: All rich content flows into all series and content surfaces.** Return to Golden Era, Pru's Workspace, Ultimate Baller V Gold Hearts Club Program ($1K pp, calendar — Zydeco Gris Gris, Glenn Miller Big Band, Hank Williams variety, Houdini Magic — email Pru, subject to availability, Ultimate Baller V Gold Hearts only), Golden Backstage Pass, First Singularity, Howard Hughes / Glen Miller announcements, and all SNAP copy are metabolized into **all** content: Office Hours series, Happy Ending Zones series, episodes, one-pagers, Launch Pad, README, SNAPs, MASTER_BRANDING_CATALOG, interfaces, and catalogs. One source, all surfaces.
 
 ---
 
@@ -73,7 +74,8 @@
 - **Content systems** → categories include Customer Stories, **T-shirt slogan**, **Raw narrative (launch capture)**, **Make your reservations now** (Great Reveal CTA — bigger than Burning Man and Art Basel Miami combined; spread the word to the fellow vibers; metabolize into ALL content), Series, One-pagers, Launch Pulse, Catalogs, Whitepaper, Proposals SNAP ✓
 - **T-shirt slogan** → T-shirt-grade taglines; capture and use for merch, social, one-line CTAs ✓
 - **Raw narrative (launch capture)** → capture launch as raw narrative; enrich content systems ✓  
-- **Make your reservations now** → MAKE YOUR RESERVATIONS NOW. Bigger than Burning Man and Art Basel Miami combined. Spread the word to the fellow vibers — they'll know what to do. Metabolize into ALL content (episode, Launch Pad, index, prospectus, bulletin, press, deck, catalog). See MAKE_YOUR_RESERVATIONS_NOW_BIGGER_THAN_BURNING_MAN_ART_BASEL_SNAP.md ✓  
+- **Make your reservations now** → MAKE YOUR RESERVATIONS NOW. Bigger than Burning Man and Art Basel Miami combined. Spread the word to the fellow vibers — they'll know what to do. Metabolize into ALL content (episode, Launch Pad, index, prospectus, bulletin, press, deck, catalog). See MAKE_YOUR_RESERVATIONS_NOW_BIGGER_THAN_BURNING_MAN_ART_BASEL_SNAP.md ✓
+- **All rich content → all series** → Return to Golden Era, Pru's Workspace, Ultimate Baller V Gold Hearts Club Program, Golden Backstage, First Singularity, Howard Hughes / Glen Miller, SNAP copy — metabolized into Office Hours, Happy Ending Zones, episodes, one-pagers, Launch Pad, README, SNAPs, catalogs, interfaces. **CONFIRMED.** ✓  
 
 ---
 

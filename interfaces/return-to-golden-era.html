@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Return to Golden Era — Cinema Stage · Twain's Vibelandia Downtown Reno | VIBELANDIA!</title>
+    <meta name="description" content="Return to Golden Era — Golden Era themed cinema stage. Novel, Screenplay, Flyer, Weekly calendar. Dress up. Secret party treasure. Twain's Vibelandia.">
+    <link rel="stylesheet" href="experience-common.css">
+    <style>
+        /* Golden Era Cinema stage — same skin as First Singularity */
+        body {
+            background: linear-gradient(180deg, #0c0c0c 0%, #1a1510 25%, #0f0d0a 50%, #0c0c0c 100%);
+            color: #f5e6c8;
+        }
+        .cinema-marquee {
+            text-align: center;
+            padding: 2.5rem 1.5rem 3rem;
+            margin: 0 0 2rem;
+            background: linear-gradient(180deg, rgba(212, 175, 55, 0.18) 0%, rgba(184, 134, 11, 0.08) 40%, rgba(0,0,0,0.4) 100%);
+            border: 4px double rgba(212, 175, 55, 0.9);
+            border-radius: 4px;
+            box-shadow: 0 0 80px rgba(212, 175, 55, 0.15), inset 0 0 60px rgba(0,0,0,0.3);
+        }
+        .cinema-marquee .badge {
+            display: inline-block;
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.25em;
+            color: rgba(212, 175, 55, 0.95);
+            margin-bottom: 0.75rem;
+            font-weight: 700;
+        }
+        .cinema-marquee h1 {
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: clamp(1.75rem, 5vw, 2.75rem);
+            font-weight: 700;
+            letter-spacing: 0.08em;
+            background: linear-gradient(135deg, #f5e6c8 0%, #d4af37 35%, #b8860b 70%, #8b6914 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 0.5rem;
+        }
+        .cinema-marquee .tagline { font-size: clamp(1rem, 2.5vw, 1.25rem); color: #c9b896; font-style: italic; }
+        .cinema-marquee .place { margin-top: 1rem; font-size: 0.9rem; color: rgba(212, 175, 55, 0.8); }
+        .stage-buttons {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+            gap: 1rem;
+            margin: 2rem 0;
+        }
+        .stage-btn {
+            display: block;
+            padding: 1.25rem 1.5rem;
+            background: linear-gradient(145deg, rgba(30, 25, 18, 0.95) 0%, rgba(20, 18, 14, 0.98) 100%);
+            border: 2px solid rgba(212, 175, 55, 0.5);
+            border-radius: 10px;
+            color: #d4af37;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1rem;
+            text-align: center;
+            transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+        }
+        .stage-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 28px rgba(212, 175, 55, 0.25);
+            border-color: rgba(212, 175, 55, 0.8);
+            background: linear-gradient(145deg, rgba(40, 35, 28, 0.98) 0%, rgba(28, 24, 18, 0.99) 100%);
+        }
+        .stage-btn.featured { border-color: rgba(212, 175, 55, 0.75); background: linear-gradient(145deg, rgba(212, 175, 55, 0.12) 0%, rgba(184, 134, 11, 0.06) 100%); }
+        .stage-btn .icon { display: block; font-size: 1.5rem; margin-bottom: 0.5rem; }
+        .stage-btn .label { display: block; font-size: 0.85rem; color: #c9b896; margin-top: 0.35rem; font-weight: 400; }
+        .gamify-box {
+            margin: 2rem 0;
+            padding: 1.5rem 2rem;
+            background: rgba(212, 175, 55, 0.06);
+            border: 2px solid rgba(212, 175, 55, 0.4);
+            border-radius: 12px;
+            text-align: center;
+        }
+        .gamify-box h2 {
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 1.25rem;
+            color: #d4af37;
+            margin-bottom: 0.75rem;
+        }
+        .gamify-box .dress-up { font-size: 1.05rem; color: #ffeaa7; font-weight: 600; margin-bottom: 0.5rem; }
+        .gamify-box .treasure { font-size: 0.95rem; color: #c9b896; font-style: italic; }
+        .back a { color: #d4af37; }
+        .daily-feature {
+            margin-bottom: 1rem;
+            padding: 0.6rem 1rem;
+            background: rgba(212, 175, 55, 0.15);
+            border: 1px solid rgba(212, 175, 55, 0.5);
+            border-radius: 8px;
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: #d4af37;
+            font-weight: 700;
+            text-align: center;
+        }
+        footer { margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid rgba(212,175,55,0.2); text-align: center; color: #666; font-size: 0.9rem; }
+        footer a { color: #d4af37; }
+        .brand-tag { margin-top: 0.5rem; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.12em; color: rgba(212,175,55,0.7); font-weight: 600; }
+    </style>
+</head>
+<body>
+    <script src="../scripts/locale-onramp.js"></script>
+    <div class="container">
+        <p class="back"><a href="office-hours.html">← Office Hours</a> · <a href="launch-pad.html">Launch Pad</a> · <a href="../index.html">Home</a></p>
+
+        <div class="daily-feature" aria-label="Today's daily feature">Today's daily feature — Return to Golden Era</div>
+
+        <section class="cinema-marquee" aria-label="Return to Golden Era — Cinema Stage">
+            <span class="badge">NSPFRNP · Twain's Vibelandia · Downtown Reno</span>
+            <h1>Return to Golden Era</h1>
+            <p class="tagline">Golden Era themed cinema stage — novel, screenplay, flyer, weekly calendar.</p>
+            <p class="place">All systems go. Ultimate Baller V's expected in town for Super Bowl. Howard Hughes · Glen Miller · Hero Howard. Ground zero: Men's Club Reno.</p>
+        </section>
+
+        <h2 style="font-family: Georgia, serif; font-size: 1.25rem; color: #d4af37; margin-bottom: 1rem;">Stage buttons</h2>
+        <div class="stage-buttons">
+            <a href="first-singularity-novel.html" class="stage-btn featured">
+                <span class="icon">📖</span>
+                The Novel
+                <span class="label">First Singularity January 13th — read the novel</span>
+            </a>
+            <a href="first-singularity-screenplay.html" class="stage-btn featured">
+                <span class="icon">🎬</span>
+                The Screenplay
+                <span class="label">First Singularity January 13th — read the screenplay</span>
+            </a>
+            <a href="return-to-golden-era-flyer.html" class="stage-btn featured">
+                <span class="icon">📄</span>
+                Roll-out flyer
+                <span class="label">One-page flyer — Return to Golden Era announcement &amp; weekly calendar</span>
+            </a>
+            <a href="office-hours.html" class="stage-btn">
+                <span class="icon">📋</span>
+                Office Hours &amp; weekly calendar
+                <span class="label">The Club · Wine cave · Pru · Thu–Sun 8pm–close · Big Band · Cajun · Old School Country — weekly</span>
+            </a>
+        </div>
+
+        <div class="gamify-box" aria-label="Dress up and secret party treasure">
+            <h2>Gamify it</h2>
+            <p class="dress-up">Dress up for it.</p>
+            <p class="treasure">Get the <strong>free secret party treasure</strong> — you have to know who to ask to get it.</p>
+        </div>
+
+        <p style="margin-top: 1.5rem; font-size: 0.95rem; color: #b8a888;"><strong>More:</strong> <a href="first-singularity-january-13th-experience.html">First Singularity January 13th — full cinema experience</a> · <a href="../GLEN_MILLER_ANNOUNCES_PERMANENT_RESIDENCY_GOLDEN_AGE_RETURN_SNAP.md">Glen Miller · Golden age return SNAP</a> · <a href="../HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA_SNAP.md">Howard Hughes SNAP</a> · <a href="vibelandia-reno-experience.html">Book your stay</a></p>
+
+        <footer>
+            <p><a href="office-hours.html">Office Hours</a> · <a href="launch-pad.html">Launch Pad</a></p>
+            <p class="brand-tag">Howard Hughes · Rolling it out big · Twain's Vibelandia Downtown Reno · TUNE IN OR LOSE OUT! · NSPFRNP</p>
+        </footer>
+    </div>
+</body>
+</html>
