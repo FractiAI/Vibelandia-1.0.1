@@ -25,6 +25,8 @@ All new series and episodes are stored in the following format:
 
 ## 2. Action! — Live recording SNAP command
 
+**Action! SNAP:** [ACTION_SNAP.md](../ACTION_SNAP.md) — single confirmation that we are live recording across all series.
+
 - **Action!** = New SNAP command indicating we are **live recording** everything here, now, in stream.
 - **Scope:** Across **all active series**, including the new **Harry Houdini Magician Series (The Magic Channel)**. Four or five series (or more as added); no series excluded when Action! is live.
 - **Confirmation:** We are **live recording for all series**, including the new Magic series. All systems go.

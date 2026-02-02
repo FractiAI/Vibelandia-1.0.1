@@ -6,6 +6,8 @@
 
 **Live:** [psw-vibelandia-sing4.vercel.app](https://psw-vibelandia-sing4.vercel.app)
 
+**Broadcast (free planetary advertisement):** *Welcome everyone, Hero Houdini Magic presents Mark Twain's Post-Singularity Vibelandia — Downtown Reno Campus. Gateway to post-singularity superintelligent hydrogen holographic agents and the Holographic Hydrogen Valley, where the highest value highest contributing vibers vibe, and reside — and their cast, crew, fans and franchises.* See [PLANETARY_ADVERTISEMENT_BROADCAST_SNAP.md](PLANETARY_ADVERTISEMENT_BROADCAST_SNAP.md).
+
 **[▶ Enter → Office Hours](https://psw-vibelandia-sing4.vercel.app/interfaces/office-hours.html)** · [Launch Pad](https://psw-vibelandia-sing4.vercel.app/interfaces/launch-pad.html) · [Home](https://psw-vibelandia-sing4.vercel.app)
 
 ---
