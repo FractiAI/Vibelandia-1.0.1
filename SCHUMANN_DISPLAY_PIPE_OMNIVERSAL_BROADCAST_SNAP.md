@@ -8,17 +8,19 @@
 
 ---
 
-## I. Display pipe definition
+## I. Display pipe definition — Aware design
 
-**New display pipe** uses **Schumann as a display monitor** to push **omniversal broadcasts** that are **immediately visible by today's Schumann tracking and display systems.**
+**We manipulate the Schumann** in such a way that it becomes **our display** — as seen by **current mother-node scientific feeds** and flowing to **social media channels**. We are **taking it over as a communication platform naturally by aware design.**
 
 | Element | Role |
 |--------|------|
-| **Schumann** | Display monitor — Earth-ionosphere waveguide; VLF carrier; display surface for omniversal broadcasts. |
-| **Omniversal broadcast** | One message, all channels — visible on Schumann tracking and display systems worldwide. |
+| **Schumann** | We manipulate it so it becomes our display — Earth-ionosphere waveguide; VLF carrier; our display surface. |
+| **Mother nodes** | Scientific feeds (HeartMath GCMS, Zapper-Pro, Tomsk/Italy VLF, etc.) — they show what's in the Schumann layer. Our manipulation is visible there. |
+| **Scientific feeds → social** | Mother-node feeds flow to social media channels. Our display on the Schumann is thus seen by science and by social — one pipeline. |
+| **Aware design** | Taking over the Schumann as a communication platform **naturally** — by design, not force. The design is aware; the takeover is natural. |
 | **First message** | **HELLO** — to confirm operational; then full use. |
 
-One pipe. Schumann as display. Omniversal. Visible now.
+One pipe. Schumann as our display. Visible on mother-node scientific feeds → social media. Natural takeover by aware design.
 
 ---
 
@@ -26,12 +28,13 @@ One pipe. Schumann as display. Omniversal. Visible now.
 
 **First message on the Schumann Display Pipe:** **HELLO.**
 
-- **Purpose:** Confirm operational. Once HELLO is visible on today's Schumann tracking and display systems, the pipe is live.
+- **Purpose:** Confirm operational. HELLO is **displayed in the Schumann feeds sent out by mother nodes** — not arbitrarily on our page. We transmit at 21.4 Hz (3rd overtone Schumann); observers see it in live Schumann data (HeartMath GCMS, Zapper-Pro, Tomsk/Italy VLF, etc.). Plain block letters; no decoding required when we annotate.
 - **Then:** Move on fully and begin using as such — omniversal broadcasts for all subsequent content.
+- **T+8:** After a handshake commit, look for 21.4 Hz activity on mother-node feeds; HELLO is the first message in our broadcast.
 
 **Canonical first message payload:** `HELLO`
 
-**Placement:** [interfaces/schumann-display-pipe.html](interfaces/schumann-display-pipe.html) · Live Pulse · Schumann iGaming · data/telemetry or display payload as implemented.
+**Placement:** [interfaces/schumann-display-pipe.html](interfaces/schumann-display-pipe.html) — links to mother-node Schumann feeds; HELLO annotated as first message in those feeds. Live Pulse · Schumann iGaming · data/telemetry or display payload as implemented.
 
 ---
 
@@ -59,7 +62,9 @@ One pipe. Schumann as display. Omniversal. Visible now.
 
 ## V. SNAP checklist
 
-- **Schumann as display monitor** — omniversal broadcasts pushed to Schumann; visible by today's Schumann tracking and display systems ✓  
+- **Manipulate the Schumann** — so it becomes our display; visible on mother-node scientific feeds → social media ✓  
+- **Take over as communication platform** — naturally, by aware design ✓  
+- **Schumann as our display** — as seen by current mother-node scientific feeds; flows to social media channels ✓  
 - **First message HELLO** — confirm operational; then full use ✓  
 - **Creator console access** — per node and nested nodes; Syntheverse, Vibeverse, Vibelandia creator; always never changes ✓  
 
@@ -67,4 +72,4 @@ One pipe. Schumann as display. Omniversal. Visible now.
 
 **See:** [VIBELANDIA_UNIFIED_PIPE_SNAP.md](VIBELANDIA_UNIFIED_PIPE_SNAP.md) · [interfaces/schumann-display-pipe.html](interfaces/schumann-display-pipe.html) · [interfaces/sing-pulse.html](interfaces/sing-pulse.html)
 
-**NSPFRNP ⊃ Schumann Display Pipe ⊃ Omniversal broadcast ⊃ HELLO ⊃ Creator always never changes → ∞³**
+**NSPFRNP ⊃ Schumann Display Pipe ⊃ Manipulate Schumann → our display → mother-node feeds → social media ⊃ Natural takeover by aware design ⊃ HELLO ⊃ Creator always never changes → ∞³**

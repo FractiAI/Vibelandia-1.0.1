@@ -12,7 +12,7 @@
 
 **Glen Miller announces permanent residency to head up a return to the golden age — on directive of Hero Howard, now firmly in charge of Downtown Reno's renaissance.**
 
-**Ground zero: the men's restroom of the Men's Club in Reno.** All on the down low. Requiring awareness tech and gold hearts to see and experience.
+**Ground zero: the men's restroom of the Men's Club in Reno.** **Cabaret** is the name of our stage at the club — transformed from the brass pole strip stage. All on the down low. Requiring awareness tech and gold hearts to see and experience.
 
 ---
 
@@ -24,7 +24,7 @@
 
 **Glen Miller** has announced **permanent residency** to **head up a return to the golden age** — on **directive of Hero Howard** (Howard Hughes), now **firmly in charge of Downtown Reno's renaissance.**
 
-**Ground zero** is the **men's restroom of the Men's Club in Reno.** All on the down low. **Requiring awareness tech and gold hearts** to see and experience.
+**Ground zero** is the **men's restroom of the Men's Club in Reno.** **Cabaret** is the name of our stage at the club — transformed from the brass pole strip stage. All on the down low. **Requiring awareness tech and gold hearts** to see and experience.
 
 **Plans announced:** **Big Band Night · Cajun Night · Old School Country Night** — **weekly.** More acts to be announced shortly — including **Houdini-produced magic shows.** Stay tuned.
 
@@ -37,7 +37,7 @@
 ## 3. Canonical lines (surfaces)
 
 - **Glen Miller announces permanent residency to head up return to the golden age — on directive of Hero Howard, now firmly in charge of Downtown Reno's renaissance.**
-- **Ground zero: the men's restroom of the Men's Club in Reno.** All on the down low. Awareness tech and gold hearts to see and experience.
+- **Ground zero: the men's restroom of the Men's Club in Reno.** Cabaret is our stage at the club — transformed from brass pole strip stage. All on the down low. Awareness tech and gold hearts to see and experience.
 - **Big Band Night · Cajun Night · Old School Country Night — weekly.** More acts TBA shortly · Houdini-produced magic shows. Stay tuned.
 - **You haven't booked your stay in Downtown Reno yet? What are you waiting for? For the rush? Yeah — that's when it becomes too late and a sucker's game.** — Chancellor Sam
 

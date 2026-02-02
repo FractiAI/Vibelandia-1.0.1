@@ -157,7 +157,7 @@ Following **Specialist Agents Protocol: Surgical Assistant/Recorder** model:
 - **Will** 📜 - Master Storyteller (Poet, Playwright)
 - **Niko** ⚡ - Electrical Visionary (Inventor, Futurist)
 - **Mark Twain** 📚 - Wise Observer (Writer, Humorist)
-- **Cleve** 💼 - Enterprise Guide (Business Visionary)
+- **Cleve** 💼 - Enterprise Guide (Business Visionary) — Willy Wonka to me as Charlie.
 
 **Research Focus:**
 - NSPFRP Protocol Development

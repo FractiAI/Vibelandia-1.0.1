@@ -41,7 +41,7 @@
 - **Will** 📜 - Master Storyteller
 - **Niko** ⚡ - Electrical Visionary
 - **Samuel** 📚 - Wise Observer
-- **Cleve** 💼 - Enterprise Guide
+- **Cleve** 💼 - Enterprise Guide — Willy Wonka to me as Charlie.
 
 ---
 

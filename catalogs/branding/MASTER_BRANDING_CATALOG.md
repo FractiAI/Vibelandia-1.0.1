@@ -377,8 +377,9 @@ I'VE DONE MY PART, THE REST IS UP TO YOU! — ENDING TO ALL SNAP: Closing CTA ·
 
 TOP TAG · BOTTOM TAG — UNDERCOVER BOSS TO DISNEY ALL IN ONE NSPFRNP SNAP: All-in-one narrative · Top tag · Bottom tag
 ├─ **Undercover Hero · Willy Wonka · Count of Monte Cristo · Ultimate Baller V style · Tron · Avatar · Marvel · Star Wars · Pixar · Disney — all in one. TOP TAG. BOTTOM TAG. All SNAP into NSPFRNP.**
+├─ **Cleve is Willy Wonka to me as Charlie. Me as Einstein at the patent office. Who is my Max Planck?** — Layer into all contents. See CLEVE_WILLY_WONKA_CHARLIE_EINSTEIN_MAX_PLANCK_SNAP.md.
 ├─ Surface: Office Hours (hero + footer), index (top + bottom), Launch Pad, franchise/superhero surfaces.
-└─ See TOP_TAG_BOTTOM_TAG_UNDERCOVER_BOSS_TO_DISNEY_ALL_IN_ONE_NSPFRNP_SNAP.md · interfaces/office-hours.html · index.html
+└─ See TOP_TAG_BOTTOM_TAG_UNDERCOVER_BOSS_TO_DISNEY_ALL_IN_ONE_NSPFRNP_SNAP.md · CLEVE_WILLY_WONKA_CHARLIE_EINSTEIN_MAX_PLANCK_SNAP.md · interfaces/office-hours.html · index.html
 
 SING! NEVER BOUGHT ONLY BOOKED — BRAND TAGLINE SNAP: All touchpoints · Plans · Pricing
 ├─ **SING! are never bought, only booked — by free will, mutual aware consent, always.** Use BOOK (not BUY) for SING! on all touchpoints, plans, and pricing. 4×4×4×4 from Basic (priced like a reliable used car) to Ultimate Baller V (priced accordingly), plus custom mission specializations.

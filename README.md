@@ -34,7 +34,7 @@
 
 ## Full Office Hours landing
 
-- **The Club · Wine cave · Pru** — Thu–Sun 8pm–close. Men's restroom, Office Hours. Come visit — free consultation, tips welcome.
+- **The Club · Cabaret stage** (transformed from brass pole strip stage) · Wine cave · Pru — Thu–Sun 8pm–close. Men's restroom, Office Hours. Come visit — free consultation, tips welcome.
 - **Book Pru** — Speaking · Training · Present. Conferences, sales meetings — fun things only. No academic bullshit. Just like that! Snap. Snap. Invite Pru to present · Invite crew to train (sales/marketing/executive) · Book Pru. Email → we handle offline. [Book Pru →](https://psw-vibelandia-sing4.vercel.app/interfaces/book-pru-speaking-training.html)
 - **Golden Backstage Pass** — Rumor has it Chairman, Sammy and the gang; Golden Backstage Awareness Pass; back door wine cave. Book live at Office Hours or email Pru.
 - **WINK!** — High-contributing fractal dating; 4×4 Ultimate; Members Only. Enter WINK! from Office Hours.
@@ -47,7 +47,7 @@
 - **Update Certificates** — Way cool. New. Futuristic. Pioneering. Time-stamped NSPFRNP-style attestations (CUT! SNAP, Action! SNAP, delivery, session capture, valuation, streamed across series). [Update Certificates →](https://psw-vibelandia-sing4.vercel.app/interfaces/update-certificates-service.html)
 - **Broadcast Pipe — Ad Space** — Sell ad space on the planetary broadcast strip. 1, 2, 3, 4×4×4×4 tiers. [Ad space →](https://psw-vibelandia-sing4.vercel.app/interfaces/broadcast-pipe-ad-space.html)
 
-Gold block → welcome → **Golden Backstage Pass** → **First Singularity** (novel & screenplay) → **WINK!** → Safe Vibing → Season One · Latest → streaming-style episode catalog. The Club · Wine cave · Pru · Thu–Sun 8pm–close.
+Gold block → welcome → **Golden Backstage Pass** → **First Singularity** (novel & screenplay) → **WINK!** → Safe Vibing → Season One · Latest → streaming-style episode catalog. The Club · **Cabaret** stage · Wine cave · Pru · Thu–Sun 8pm–close.
 
 *Paris is for lovers. Reno is for [vibers](https://psw-vibelandia-sing4.vercel.app/interfaces/vibers-what-are-vibers.html).*
 
@@ -62,6 +62,10 @@ Gold block → welcome → **Golden Backstage Pass** → **First Singularity** (
 **All history in all series, novel, screenplay — continuously evolving; live stories not static. Disney cannot deliver this.** See [LIVE_STORIES_CONTINUOUSLY_EVOLVING_PARADIGM_SNAP.md](LIVE_STORIES_CONTINUOUSLY_EVOLVING_PARADIGM_SNAP.md).
 
 **All rich content flows into all series.** Return to Golden Era, Pru's Workspace, Ultimate Baller V Gold Hearts Club Program ($1K pp, calendar, email Pru), **Book Pru (speaking, training, present; Just like that!; 18+ sandbox, 33+ members, invitation only)**, Golden Backstage, First Singularity, Howard Hughes / Glen Miller announcements — metabolized into Office Hours, Happy Ending Zones, episodes, one-pagers, Launch Pad, README, SNAPs, catalogs, interfaces. **CONFIRMED.** See [CONTENT_SYSTEMS_SNAP.md](CONTENT_SYSTEMS_SNAP.md).
+
+**Cleve is Willy Wonka to me as Charlie. Me as Einstein at the patent office. Who is my Max Planck?** — Layer into all contents. See [CLEVE_WILLY_WONKA_CHARLIE_EINSTEIN_MAX_PLANCK_SNAP.md](CLEVE_WILLY_WONKA_CHARLIE_EINSTEIN_MAX_PLANCK_SNAP.md).
+
+**Chancellor Sam — Announcement to Vibelandia:** Sunspot growing, Carrington event developing; Schumann shaping up; 3I/ATLAS artificial/synthetic maneuvers; all captured with GitHub timestamps, published live. We are directly connected. New Big Black Hole Energy (BBHE) generators — inside GitHubs, precise holographic tuning. Everything is just fine. Natural systems take care of everything. Relax and enjoy. Decide you're on the correct ship. I'm chipping away. Mark Twain style. **Front end of [Live Pulse](https://psw-vibelandia-sing4.vercel.app/interfaces/sing-pulse.html).** See [CHANCELLOR_SAM_ANNOUNCEMENT_SUNSPOT_CARRINGTON_SCHUMANN_3I_ATLAS_BBHE_SNAP.md](CHANCELLOR_SAM_ANNOUNCEMENT_SUNSPOT_CARRINGTON_SCHUMANN_3I_ATLAS_BBHE_SNAP.md).
 
 **Howard Hughes · Rolling it out big · Twain's Vibelandia Downtown Reno · TUNE IN OR LOSE OUT! · NSPFRNP.** *(New T-shirt brand tag — use at bottom everywhere. See [HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA_SNAP.md](HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA_SNAP.md).)*
 
@@ -110,7 +114,7 @@ Gold block → welcome → **Golden Backstage Pass** → **First Singularity** (
 
 **Vibelandia Unified Pipe:** Sun · 3I/ATLAS · Schumann — one broadcast pipe. New default Morse payload: press blue PayPal often; out of gas, water; troops medical dental; funds now; Reno is for vibers; Vibelandia open; home at last. Full message + CTA on [Live Pulse](https://psw-vibelandia-sing4.vercel.app/interfaces/sing-pulse.html). [VIBELANDIA_UNIFIED_PIPE_SNAP.md](VIBELANDIA_UNIFIED_PIPE_SNAP.md).
 
-**Schumann Display Pipe:** New display pipe uses **Schumann as a display monitor** to push **omniversal broadcasts** that are **immediately visible by today's Schumann tracking and display systems.** First message: **HELLO** — to confirm operational; then full use. Creator console access per node and nested nodes — Syntheverse, Vibeverse, Vibelandia creator — **always never changes.** [Schumann Display Pipe →](https://psw-vibelandia-sing4.vercel.app/interfaces/schumann-display-pipe.html) · [SCHUMANN_DISPLAY_PIPE_OMNIVERSAL_BROADCAST_SNAP.md](SCHUMANN_DISPLAY_PIPE_OMNIVERSAL_BROADCAST_SNAP.md).
+**Schumann Display Pipe:** We **manipulate the Schumann** so it becomes **our display** — as seen by **current mother-node scientific feeds** and flowing to **social media channels**. Taking it over as a **communication platform naturally by aware design**. First message: **HELLO** — to confirm operational; then full use. Creator console access per node and nested nodes — Syntheverse, Vibeverse, Vibelandia creator — **always never changes.** [Schumann Display Pipe →](https://psw-vibelandia-sing4.vercel.app/interfaces/schumann-display-pipe.html) · [SCHUMANN_DISPLAY_PIPE_OMNIVERSAL_BROADCAST_SNAP.md](SCHUMANN_DISPLAY_PIPE_OMNIVERSAL_BROADCAST_SNAP.md).
 
 ---
 

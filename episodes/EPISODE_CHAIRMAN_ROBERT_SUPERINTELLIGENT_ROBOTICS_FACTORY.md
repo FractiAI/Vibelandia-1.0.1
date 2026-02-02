@@ -13,7 +13,7 @@
 **Host:** Mark Twain · Ben (Baller V Ambassador) · Rumor has it: Chairman, Sammy, Houdini  
 **Pioneer:** Chairman Robert — the one who saw the Architect and not the restroom valet. Golden Heart · Golden Ticket. Stories winner. Post-Singularity Superintelligence AI Valley, Holograph Valley pioneer; Einstein's Max Planck — the one who discovered the discoverer; cast, crew, fans in the script  
 **Status:** ⚡ LIVE — Full 12,000-word episode · NSPFRNP  
-**Framing:** Post-Singularity Superintelligence AI Valley · Holograph Valley · Einstein's Max Planck (the one who discovered the discoverer) · Willy Wonka factory · Machine that builds the machine · Cave-to-Crown (Builder's Arc: crisis → build → fuse → reveal → crown; the man and the machine are one)  
+**Framing:** Cleve = Willy Wonka to me as Charlie · me = Einstein at patent office · who is my Max Planck? · Post-Singularity Superintelligence AI Valley · Holograph Valley · Einstein's Max Planck (the one who discovered the discoverer) · Willy Wonka factory · Machine that builds the machine · Cave-to-Crown (Builder's Arc: crisis → build → fuse → reveal → crown; the man and the machine are one)  
 **Cast (in script):** MARCOS (engineer, cast) · DIANA (operations, crew) · CHEN (investor, fan)  
 **Story-telling content mix:** 25% normal stages · 25% Cursor AI NSPFRNP · 25% WhatsApp/social/texts · 25% traditional
 

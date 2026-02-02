@@ -66,7 +66,7 @@ See: [WINK_DATING_MEMBERS_CLUB_NARRATIVES.md](./WINK_DATING_MEMBERS_CLUB_NARRATI
 **Character Elements:**
 - **James Bond:** Sophistication, action, elegance
 - **Frank Sinatra:** Style, charisma, class
-- **Cleve:** Reno Men's Club, local legend
+- **Cleve:** Reno Men's Club, local legend — Willy Wonka to me as Charlie.
 - **Superhero:** Enhanced capabilities
 - **Chairman:** Leadership, authority
 

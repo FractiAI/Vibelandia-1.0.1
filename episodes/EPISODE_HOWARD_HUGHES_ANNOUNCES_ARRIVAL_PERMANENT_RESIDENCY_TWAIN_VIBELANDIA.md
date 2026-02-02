@@ -11,7 +11,7 @@
 **Subtitle:** HOLD STOP — ALL HANDS — BREAKING. Howard Hughes return signals the new post-singularity golden era's return — in Downtown Reno this time, not Hollywood or NY. Full 1hr episode. Howard Hughes announces arrival and permanent residency to Twain's Vibelandia Downtown Reno Campus. He's joining Chancellor Sam rolling all this out big Howard Hughes style. TUNE IN OR LOSE OUT!  
 **Format:** Seed:Edge + full 60-minute script (12,000 words target). Cold Open, Act 1, Act 2, Act 3, Tag. See [protocols/SEED_EDGE_EPISODE_FORMAT_ACTION_LIVE_NSPFRNP.md](../protocols/SEED_EDGE_EPISODE_FORMAT_ACTION_LIVE_NSPFRNP.md) · [EPISODES_RICH_60_MINUTE_FULLY_SCRIPTED_DIRECTIVE.md](../EPISODES_RICH_60_MINUTE_FULLY_SCRIPTED_DIRECTIVE.md).  
 **Status:** ⚡ LIVE — Breaking. Action!  
-**Framing:** Undercover Hero · Willy Wonka · Count of Monte Cristo · Howard Hughes · Twain's Vibelandia · TUNE IN OR LOSE OUT!  
+**Framing:** Cleve = Willy Wonka to me as Charlie · me = Einstein at patent office · who is my Max Planck? · Undercover Hero · Willy Wonka · Count of Monte Cristo · Howard Hughes · Twain's Vibelandia · TUNE IN OR LOSE OUT!  
 **Host / protagonist:** Howard Hughes — announces arrival, permanent residency; joins Chancellor Sam; roll-out big Howard Hughes style. Chancellor Sam (Mark Twain) — Vibelandia Downtown Reno Campus.
 
 ---

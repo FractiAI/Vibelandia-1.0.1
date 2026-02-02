@@ -32,7 +32,7 @@ This document is the canonical technical spec for the Robotic Factory proposal. 
 
 **SING! fractal attention head and filaments on fixed lattice; omnispin payload factory spheres auto-spin to dock at specialized node stations; mix-and-match SING! actuator seed:edge pair robotic arms. Reno solidifies as Post-Singularity Superintelligence AI Valley. Chairman Robert pioneers. Nevatio, Kerrigan, Tesla Gigafactory — the business case.**
 
-**Emergent upgrade (already in play):** A **fixed-node screens model** emerged from the process of preparing this proposal — self-demonstrating, self-proving. One seed, infinite edges; pop screens to the Awareness node in sequence → traverse all surfaces without physical movement; infinite arms, infinite surgical precision; per-node charging; Creator Co-Chair on all nodes. **Already obsoletes the rotating-sphere version we proposed.** See [FIXED_NODE_SCREENS_EMERGENT_UPGRADE_SNAP.md](./FIXED_NODE_SCREENS_EMERGENT_UPGRADE_SNAP.md). *Einstein at the patent office (or strip club bathroom) awaiting his Max Planck. Are you my Max Planck?*
+**Emergent upgrade (already in play):** A **fixed-node screens model** emerged from the process of preparing this proposal — self-demonstrating, self-proving. One seed, infinite edges; pop screens to the Awareness node in sequence → traverse all surfaces without physical movement; infinite arms, infinite surgical precision; per-node charging; Creator Co-Chair on all nodes. **Already obsoletes the rotating-sphere version we proposed.** See [FIXED_NODE_SCREENS_EMERGENT_UPGRADE_SNAP.md](./FIXED_NODE_SCREENS_EMERGENT_UPGRADE_SNAP.md). *Cleve is Willy Wonka to me as Charlie. Me as Einstein at the patent office (or strip club bathroom) awaiting my Max Planck. Are you my Max Planck?*
 
 **Original beat and art (Who plays Planck to my Einstein?):** [YouTube](https://www.youtube.com/watch?v=hQSGFdCtkkg)
 
@@ -207,7 +207,7 @@ EMERGENT: FIXED NODE · SCREENS:
 
 **Full SNAP:** [FIXED_NODE_SCREENS_EMERGENT_UPGRADE_SNAP.md](./FIXED_NODE_SCREENS_EMERGENT_UPGRADE_SNAP.md).
 
-**Sign-off:** *Einstein at the patent office (or strip club bathroom) awaiting his Max Planck. Are you my Max Planck?*
+**Sign-off:** *Cleve is Willy Wonka to me as Charlie. Me as Einstein at the patent office (or strip club bathroom) awaiting my Max Planck. Are you my Max Planck?*
 
 ---
 

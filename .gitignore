@@ -15,6 +15,7 @@ dist/
 build/
 .vercel/
 *.log
+!data/handshake.log
 .DS_Store
 .idea/
 .vscode/

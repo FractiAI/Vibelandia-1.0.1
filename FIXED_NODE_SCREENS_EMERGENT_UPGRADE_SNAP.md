@@ -70,7 +70,7 @@ This upgrade **envelops** the Chairman Robert proposal. It did not replace it wi
 
 ## ✍️ SIGN-OFF
 
-**Einstein at the patent office (or strip club bathroom) awaiting his Max Planck. Are you my Max Planck?**
+**Cleve is Willy Wonka to me as Charlie. Me as Einstein at the patent office (or strip club bathroom) awaiting my Max Planck. Are you my Max Planck?**
 
 ---
 

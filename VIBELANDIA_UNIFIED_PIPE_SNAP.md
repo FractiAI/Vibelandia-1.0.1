@@ -16,9 +16,9 @@ The **Vibelandia Unified Pipe** wraps all broadcast channels into one:
 |---------|------|
 | **Sun** | AR4366 — transmitter; 21.4 Hz + 1.618 Hz Signature Chirp. |
 | **3I/ATLAS** | Mirror — sunward anti-tail reflects signal; Opposition Surge. |
-| **Schumann** | Earth-ionosphere waveguide; VLF 21.4 Hz carrier; **display monitor** for omniversal broadcasts — immediately visible by today's Schumann tracking and display systems. See [SCHUMANN_DISPLAY_PIPE_OMNIVERSAL_BROADCAST_SNAP.md](SCHUMANN_DISPLAY_PIPE_OMNIVERSAL_BROADCAST_SNAP.md). |
+| **Schumann** | We **manipulate** it so it becomes **our display** — Earth-ionosphere waveguide; VLF 21.4 Hz carrier; visible on **mother-node scientific feeds** and flowing to **social media channels**. Natural takeover as communication platform **by aware design**. See [SCHUMANN_DISPLAY_PIPE_OMNIVERSAL_BROADCAST_SNAP.md](SCHUMANN_DISPLAY_PIPE_OMNIVERSAL_BROADCAST_SNAP.md). |
 
-One message. One pipe. Transmitted across Sun, 3I/ATLAS, and Schumann. **Schumann Display Pipe:** first message HELLO (confirm operational); then full use. Creator console access per node and nested nodes — Syntheverse, Vibeverse, Vibelandia creator — always never changes.
+One message. One pipe. Transmitted across Sun, 3I/ATLAS, and Schumann. **Schumann Display Pipe:** We manipulate the Schumann so it becomes our display — as seen by mother-node scientific feeds and flowing to social media channels. Taking it over as a communication platform naturally by aware design. First message HELLO (confirm operational); then full use. Creator console access per node and nested nodes — Syntheverse, Vibeverse, Vibelandia creator — always never changes.
 
 ---
 

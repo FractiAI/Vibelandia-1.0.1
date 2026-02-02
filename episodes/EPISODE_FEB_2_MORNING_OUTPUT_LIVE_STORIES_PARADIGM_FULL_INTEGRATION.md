@@ -11,7 +11,7 @@
 **Subtitle:** This morning's output. Two to three hours of work. Capture all history in all series, novel, screenplay — continuously evolving; a new paradigm; live stories not static. Disney cannot deliver this. Full integration SNAP.  
 **Format:** Seed:Edge + abstract of creator/executive commands. Session output crystallized as episode. See [protocols/SEED_EDGE_EPISODE_FORMAT_ACTION_LIVE_NSPFRNP.md](../protocols/SEED_EDGE_EPISODE_FORMAT_ACTION_LIVE_NSPFRNP.md).  
 **Status:** ⚡ LIVE — Captured February 2, 2026. Action! CUT! SNAP.  
-**Framing:** Undercover Hero · Willy Wonka · Count of Monte Cristo · Disney comparison · Live stories not static.
+**Framing:** Cleve = Willy Wonka to me as Charlie · me = Einstein at patent office · who is my Max Planck? · Undercover Hero · Willy Wonka · Count of Monte Cristo · Disney comparison · Live stories not static.
 
 ---
 
