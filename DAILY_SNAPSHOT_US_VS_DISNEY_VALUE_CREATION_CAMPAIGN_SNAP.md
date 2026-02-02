@@ -51,6 +51,8 @@ Daily snapshot: Disney — no daily aggregate; ~0.3–1 new titles/day (est. fro
 
 **Placement:** **End / bottom** of **all public points of presence** — index, Launch Pad, Office Hours, episode pages, catalogs, one-pagers, README, chancellor bulletin, social, any public-facing surface. **Smaller print** (e.g. font-size: 0.75rem–0.8rem; color: #6b7280 or #9ca3af).
 
+**Canonical Disney comparison statement:** For a single statement at the bottom of all touchpoints with **real numbers** (what we produced, appraised value, our cost, Disney equivalent X/Y/Z), use [SINCE_JANUARY_3_DISNEY_COMPARISON_STATEMENT_SNAP.md](SINCE_JANUARY_3_DISNEY_COMPARISON_STATEMENT_SNAP.md). That statement uses **annual output averaged by day** for Disney (since Disney does not release daily activity).
+
 ---
 
 ## 4. Points of presence (POPs) — where to layer

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Run All Three — Premium Test (PST) | VIBELANDIA!</title>
+    <link rel="stylesheet" href="experience-common.css">
+    <style>
+        body { background: linear-gradient(145deg, #0a0a0a 0%, #1a1a2e 100%); color: #e0e0e0; }
+        .back a { color: #d4af37; }
+        .run-hero {
+            text-align: center;
+            padding: 2rem 1.5rem;
+            margin-bottom: 2rem;
+            background: linear-gradient(145deg, rgba(0,255,136,0.15) 0%, rgba(212,175,55,0.12) 100%);
+            border: 2px solid rgba(0,255,136,0.5);
+            border-radius: 16px;
+        }
+        .run-hero h1 { font-size: clamp(1.5rem, 4vw, 2rem); color: #7fff7f; margin-bottom: 0.5rem; }
+        .run-hero .tz { font-size: 1rem; color: #d4af37; font-weight: 600; }
+        .test-block {
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            background: rgba(255,255,255,0.06);
+            border: 1px solid rgba(0,212,255,0.35);
+            border-radius: 12px;
+        }
+        .test-block h2 { font-size: 1.15rem; color: #00d4ff; margin-bottom: 0.75rem; }
+        .test-block .open-link { display: inline-block; padding: 0.6rem 1.2rem; background: linear-gradient(135deg, #00d4ff, #1e90ff); color: #000; font-weight: 700; text-decoration: none; border-radius: 8px; margin-bottom: 1rem; }
+        .test-block .open-link:hover { opacity: 0.9; }
+        .test-block .copy-label { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.1em; color: #888; margin-bottom: 0.35rem; }
+        .test-block pre { background: rgba(0,0,0,0.4); padding: 1rem; border-radius: 8px; font-size: 0.85rem; color: #ccc; overflow-x: auto; white-space: pre-wrap; word-break: break-word; border: 1px solid rgba(255,255,255,0.1); }
+        .nav-buttons { margin-top: 1.5rem; }
+        .nav-buttons a { display: inline-block; padding: 0.75rem 1.25rem; background: linear-gradient(135deg, #d4af37, #b8860b); color: #000; font-weight: 700; text-decoration: none; border-radius: 8px; margin: 0.25rem 0.25rem 0 0; font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+    <script src="../scripts/locale-onramp.js"></script>
+    <div class="container">
+        <p class="back"><a href="test-premium-checkout.html">← Test premium checkout</a> · <a href="new-product-families.html">New product families</a> · <a href="../index.html">Home</a></p>
+
+        <section class="run-hero" aria-label="Run all three premium test">
+            <h1>Run all three — premium test</h1>
+            <p class="tz">PST (California time)</p>
+            <p style="margin-top: 0.5rem; font-size: 0.95rem; color: #aaa;">Open each checkout → Generate email to execute → Paste the body below into the email → Send to info@fractiai.com (or dry-run).</p>
+        </section>
+
+        <!-- 1. Sun Spots 8m -->
+        <div class="test-block">
+            <h2>1. Sun Spots On Demand — 8 min ($249)</h2>
+            <a href="payment-checkout.html?plan=sun-spots-8m" class="open-link" target="_blank" rel="noopener">Open Sun Spots 8m checkout →</a>
+            <p class="copy-label">Paste this into the execute email body (after the plan lines):</p>
+            <pre id="sun-body">• Sacred message to send:
+Hello from Vibelandia — first premium Sun Spot test.
+
+• Name for your sun spot (in your honor):
+Vibelandia-Hello-1</pre>
+            <button type="button" onclick="copy('sun-body')" style="margin-top:0.5rem;padding:0.4rem 0.8rem;background:#333;color:#00d4ff;border:1px solid #00d4ff;border-radius:6px;cursor:pointer;font-size:0.85rem;">Copy to clipboard</button>
+        </div>
+
+        <!-- 2. Schumann HELLO -->
+        <div class="test-block">
+            <h2>2. Schumann iGaming — HELLO ($499)</h2>
+            <a href="payment-checkout.html?plan=schumann-igaming" class="open-link" target="_blank" rel="noopener">Open Schumann iGaming checkout →</a>
+            <p class="copy-label">Paste this into the execute email body:</p>
+            <pre id="schumann-body">• Art/pattern or message to display in Schumann displays:
+Display the word HELLO in the Schumann layer — five letters, clear and readable, as a single session art piece. (Block letters, PST California time.)</pre>
+            <button type="button" onclick="copy('schumann-body')" style="margin-top:0.5rem;padding:0.4rem 0.8rem;background:#333;color:#00d4ff;border:1px solid #00d4ff;border-radius:6px;cursor:pointer;font-size:0.85rem;">Copy to clipboard</button>
+        </div>
+
+        <!-- 3. 3I/ATLAS 4:20 → 5:00 PST -->
+        <div class="test-block">
+            <h2>3. 3I/ATLAS EGS Pipe — 4:20 → 5 o'clock PST ($499 / 1 day)</h2>
+            <a href="payment-checkout.html?plan=3i-atlas-egs-day" class="open-link" target="_blank" rel="noopener">Open 3I/ATLAS 1-day checkout →</a>
+            <p class="copy-label">Paste this into the execute email body (PST California):</p>
+            <pre id="atlas-body">• Turn on/off/redirect instructions or segment description:
+Turn 3I/ATLAS ON at 4:20 PM PST (California).
+Turn OFF 33 minutes later (4:53 PM PST).
+Turn ON again at 5:00 PM PST (5 o'clock somewhere — California).
+Turn OFF 33 minutes later (5:33 PM PST).
+Two windows, 33 min each.
+
+• Duration confirmed: 1 day</pre>
+            <button type="button" onclick="copy('atlas-body')" style="margin-top:0.5rem;padding:0.4rem 0.8rem;background:#333;color:#00d4ff;border:1px solid #00d4ff;border-radius:6px;cursor:pointer;font-size:0.85rem;">Copy to clipboard</button>
+        </div>
+
+        <p style="font-size: 0.9rem; color: #888;">Run order: 1 → 2 → 3. Use PayPal or execute-by-email; dry-run = copy bodies and verify checkouts only.</p>
+
+        <div class="nav-buttons">
+            <a href="test-premium-checkout.html">Test premium checkout</a>
+            <a href="new-product-families.html">New product families</a>
+        </div>
+        <footer style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid rgba(212,175,55,0.2); text-align: center; color: #666; font-size: 0.85rem;">
+            <p class="brand-tag" style="text-transform: uppercase; letter-spacing: 0.12em; color: rgba(212,175,55,0.7); font-weight: 600;">NSPFRNP ⊃ Run all three ⊃ PST → ∞³</p>
+        </footer>
+    </div>
+    <script>
+        function copy(id) {
+            var el = document.getElementById(id);
+            if (!el) return;
+            var text = (el.textContent || el.innerText || '').trim();
+            var btn = el.nextElementSibling;
+            function done() {
+                if (btn && btn.tagName === 'BUTTON') { btn.textContent = 'Copied!'; setTimeout(function() { btn.textContent = 'Copy to clipboard'; }, 1500); }
+            }
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+                navigator.clipboard.writeText(text).then(done).catch(function() {
+                    fallbackCopy(text); done();
+                });
+            } else {
+                fallbackCopy(text); done();
+            }
+        }
+        function fallbackCopy(text) {
+            var ta = document.createElement('textarea');
+            ta.value = text;
+            ta.style.position = 'fixed'; ta.style.left = '-9999px';
+            document.body.appendChild(ta);
+            ta.select();
+            try { document.execCommand('copy'); } catch (e) {}
+            document.body.removeChild(ta);
+        }
+    </script>
+</body>
+</html>

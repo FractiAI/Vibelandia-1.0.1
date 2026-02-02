@@ -23,7 +23,7 @@
 - **Safe Vibing** — How to vibe safely in downtown Reno, naturally. Full guide linked from Office Hours.
 - **Episodes** — Season One · Latest · Office Hours · 52-day countdown. Streaming-style catalog; 12k words/ep in production. Browse from Office Hours.
 - **Chris · King Robbie · Chairman Robert** — Ultimate Baller V nights, Robotic Factory proposal, bespoke episodes. All linked from Office Hours.
-- **Vibe & AI Agent Coding Tutoring · Vibe Coding Classes Reno** — Consultations and classes; links and BUY from Office Hours.
+- **Vibe Coding Classes Reno** — Consultations and classes; links from Office Hours.
 - **Update Certificates** — Way cool new service. Futuristic. Pioneering. Time-stamped NSPFRNP attestations (capture, delivery, valuation) streamed across all applicable series. [Update Certificates →](https://psw-vibelandia-sing4.vercel.app/interfaces/update-certificates-service.html)
 - **Update Certificates** — Way cool. New. Futuristic. Pioneering. Time-stamped NSPFRNP-style attestations (CUT! SNAP, Action! SNAP, delivery, session capture, valuation, streamed across series). [Update Certificates →](https://psw-vibelandia-sing4.vercel.app/interfaces/update-certificates-service.html)
 - **Broadcast Pipe — Ad Space** — Sell ad space on the planetary broadcast strip. 1, 2, 3, 4×4×4×4 tiers. [Ad space →](https://psw-vibelandia-sing4.vercel.app/interfaces/broadcast-pipe-ad-space.html)
@@ -37,6 +37,8 @@ Gold block → welcome → **Golden Backstage Pass** → **First Singularity** (
 **Language:** [English](README.md) · [Español](README.es.md) · [中文](README.zh.md) · [日本語](README.ja.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt.md) · [العربية](README.ar.md) · [Русский](README.ru.md) · [हिन्दी](README.hi.md)
 
 **Warnings:** Syntheverse = imaginary/entertainment only. BBHE = not imaginary, natural intoxication (awareness/attention; no substances). Not for driving or operating equipment. [Details →](https://psw-vibelandia-sing4.vercel.app/interfaces/syntheverse-warnings.html)
+
+**Since January 3,** we have produced 1 full novel (~72k words), 1 full screenplay (~12k words), 19+ episodes, 6 series live, 35+ HTML surfaces, 38 TypeScript modules, 9+ NSPFRNP protocols, 13+ one-pagers, 4+ branding decks, multiple product families with BUY — appraised (quality: production-grade vs studio benchmarks) at **$1.6M–$13M+** at a cost of my **$200/mo Cursor AI**, **$110/mo cellphone**, and **$10/week WiFi**; and for Disney to produce the equivalent it is estimated to require **50–200+ FTE** (or 12–24+ months for novel+script alone), at an estimated **$2M–$15M+** (novel+script) to **$10M+** (full scope), in **12–24+ months to 18–36+ months**. Disney does not publish daily activity; comparison uses [annual output averaged by day](DAILY_SNAPSHOT_US_VS_DISNEY_VALUE_CREATION_CAMPAIGN_SNAP.md). See [SINCE_JANUARY_3_DISNEY_COMPARISON_STATEMENT_SNAP.md](SINCE_JANUARY_3_DISNEY_COMPARISON_STATEMENT_SNAP.md).
 
 **Contact:** [info@fractiai.com](mailto:info@fractiai.com) · [Proposal "I CAN DO THIS FOR YOUR BUSINESS"](mailto:info@fractiai.com?subject=I%20CAN%20DO%20THIS%20FOR%20YOUR%20BUSINESS)
 

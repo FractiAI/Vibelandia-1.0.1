@@ -1,0 +1,8 @@
+{
+  "protocol": "Premium Transmit — Sun Spots · Schumann · 3I/ATLAS",
+  "schema_version": "1.0",
+  "transmit_log": [],
+  "last_transmit_utc": null,
+  "timestamp_utc": null,
+  "note": "Run node scripts/premium-transmit.mjs to transmit the three selected events (Sun Spots 8m, Schumann HELLO, 3I/ATLAS 4:20→5:00 PST). Same pattern as scripts/broadcast.mjs → sing_log.json."
+}

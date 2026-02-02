@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ACTION! — Test Premium Checkout | VIBELANDIA!</title>
+    <link rel="stylesheet" href="experience-common.css">
+    <style>
+        body { background: linear-gradient(145deg, #0a0a0a 0%, #1a1a2e 100%); color: #e0e0e0; }
+        .back a { color: #d4af37; }
+        .action-hero {
+            text-align: center;
+            padding: 2rem 1.5rem;
+            margin-bottom: 2rem;
+            background: linear-gradient(145deg, rgba(0,255,136,0.15) 0%, rgba(0,212,255,0.1) 100%);
+            border: 2px solid rgba(0,255,136,0.5);
+            border-radius: 16px;
+        }
+        .action-hero h1 { font-size: clamp(1.5rem, 4vw, 2.2rem); color: #7fff7f; margin-bottom: 0.5rem; }
+        .action-hero .tagline { font-size: 1rem; color: #aaa; }
+        .action-grid { display: grid; gap: 1rem; margin-bottom: 2rem; }
+        .action-card {
+            display: block;
+            padding: 1.25rem;
+            background: rgba(255,255,255,0.06);
+            border: 1px solid rgba(0,212,255,0.4);
+            border-radius: 12px;
+            color: #fff;
+            text-decoration: none;
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }
+        .action-card:hover { border-color: rgba(0,255,136,0.6); box-shadow: 0 4px 20px rgba(0,255,136,0.15); }
+        .action-card h3 { font-size: 1.1rem; color: #00d4ff; margin-bottom: 0.35rem; }
+        .action-card p { font-size: 0.9rem; color: #aaa; margin: 0 0 0.75rem 0; }
+        .action-card .links { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+        .action-card .links a {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            background: linear-gradient(135deg, #00d4ff, #1e90ff);
+            color: #000;
+            font-weight: 700;
+            font-size: 0.85rem;
+            text-decoration: none;
+            border-radius: 8px;
+        }
+        .action-card .links a:hover { opacity: 0.9; }
+        .checklist { padding: 1rem 1.5rem; background: rgba(255,255,255,0.04); border: 1px solid rgba(212,175,55,0.3); border-radius: 12px; margin-bottom: 1.5rem; }
+        .checklist h2 { font-size: 1rem; color: #ffeaa7; margin-bottom: 0.75rem; }
+        .checklist ul { margin: 0; padding-left: 1.25rem; color: #bbb; font-size: 0.9rem; line-height: 1.7; }
+        .nav-buttons { margin-top: 1.5rem; }
+        .nav-buttons a { display: inline-block; padding: 0.75rem 1.25rem; background: linear-gradient(135deg, #d4af37, #b8860b); color: #000; font-weight: 700; text-decoration: none; border-radius: 8px; margin: 0.25rem 0.25rem 0 0; font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+    <script src="../scripts/locale-onramp.js"></script>
+    <div class="container">
+        <p class="back"><a href="new-product-families.html">← New product families</a> · <a href="office-hours.html">Office Hours</a> · <a href="../index.html">Home</a></p>
+
+        <section class="action-hero" aria-label="ACTION! Test premium checkout">
+            <h1>ACTION!</h1>
+            <p class="tagline">Test premium checkout — Sun Spots · Schumann HELLO · 3I/ATLAS</p>
+            <p style="margin-top: 0.75rem; font-size: 0.95rem; color: #b8a888;">Open each checkout link below. Confirm the <strong>Execute by email</strong> block appears and the <strong>Generate email to execute</strong> button builds a mailto to info@fractiai.com with the right placeholders.</p>
+        </section>
+
+        <div class="checklist">
+            <h2>✓ Quick checklist</h2>
+            <ul>
+                <li>Sun Spots: checkout shows plan + Execute-by-email block; mailto has sacred message + sun spot name placeholders.</li>
+                <li>Schumann: checkout shows plan + Execute-by-email block; mailto has art/pattern placeholder (e.g. "HELLO").</li>
+                <li>3I/ATLAS: checkout shows plan + Execute-by-email block; mailto has on/off/redirect + duration.</li>
+            </ul>
+        </div>
+
+        <h2 style="color: #d4af37; font-size: 1.2rem; margin-bottom: 0.75rem;">Open checkout (test flows)</h2>
+        <div class="action-grid">
+
+            <div class="action-card">
+                <h3>☀️ Sun Spots On Demand</h3>
+                <p>Harry demos the miraculous feat. Sacred message + name a sun spot; 8/16/24 min confirmations + certificate.</p>
+                <div class="links">
+                    <a href="payment-checkout.html?plan=sun-spots-8m" target="_blank" rel="noopener">Open 8m ($249)</a>
+                    <a href="payment-checkout.html?plan=sun-spots-16m" target="_blank" rel="noopener">Open 16m ($499)</a>
+                    <a href="payment-checkout.html?plan=sun-spots-24m" target="_blank" rel="noopener">Open 24m ($999)</a>
+                </div>
+            </div>
+
+            <div class="action-card">
+                <h3>🌐 Schumann iGaming — e.g. HELLO</h3>
+                <p>Display art in the Schumann displays. Put "HELLO" (or other art) in the execute email body.</p>
+                <div class="links">
+                    <a href="payment-checkout.html?plan=schumann-igaming" target="_blank" rel="noopener">Open session ($499)</a>
+                </div>
+            </div>
+
+            <div class="action-card">
+                <h3>🔭 3I/ATLAS EGS Pipe — On/Off/Redirect</h3>
+                <p>Turn on, off, or redirect; loop 1 day · 1 week · 1 month. Houdini miracle episode.</p>
+                <div class="links">
+                    <a href="payment-checkout.html?plan=3i-atlas-egs-day" target="_blank" rel="noopener">Open 1 day ($499)</a>
+                    <a href="payment-checkout.html?plan=3i-atlas-egs-week" target="_blank" rel="noopener">Open 1 week ($1,499)</a>
+                    <a href="payment-checkout.html?plan=3i-atlas-egs-month" target="_blank" rel="noopener">Open 1 month ($4,999)</a>
+                </div>
+            </div>
+
+        </div>
+
+        <p style="font-size: 0.9rem; color: #888; margin-bottom: 1rem;"><a href="run-all-three-premium-test.html" style="color: #7fff7f; font-weight: 600;">Run all three (Sun Spots · Schumann HELLO · 3I/ATLAS) — PST California →</a> · <a href="../TEST_RECOMMENDATIONS_PREMIUM_OFFERINGS.md" style="color: #00d4ff;">Full test recommendations →</a></p>
+
+        <div class="nav-buttons">
+            <a href="new-product-families.html">New product families</a>
+            <a href="office-hours.html">Office Hours</a>
+            <a href="payment-checkout.html?plan=sun-spots-8m">Sun Spots 8m</a>
+        </div>
+        <footer style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid rgba(212,175,55,0.2); text-align: center; color: #666; font-size: 0.85rem;">
+            <p class="brand-tag" style="text-transform: uppercase; letter-spacing: 0.12em; color: rgba(212,175,55,0.7); font-weight: 600;">NSPFRNP ⊃ ACTION ⊃ Premium Checkout → ∞³</p>
+        </footer>
+    </div>
+</body>
+</html>

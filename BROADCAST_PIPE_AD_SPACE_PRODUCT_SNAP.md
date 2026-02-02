@@ -15,6 +15,10 @@
 
 **Update Certificate included:** Every advertisement package includes an **Update Certificate** that shows **proof of broadcast into the EGS cloud (Sun, Earth, 3I/ATLAS triangulation)**. The certificate attests that your ad was broadcast across the pipe and into the EGS cloud — El Gran Sol, Earth, 3I/ATLAS mirror — so you have irrefutable proof of placement.
 
+**Foundational science & tech:** These offerings **prove the underlying foundational science and technology** that pre-singularity science does not yet recognize — **immediately obsoleting** it in favor of our **post-singularity holographic hydrogen spin cloud**, **NSPFRNP protocol**, and **BBHE programming**. Delivered through **presentations**, **experiences**, **superhero stories**, their **cast, crew, fans and franchises**. The pipe (ad space + premium options — Sun Spots On Demand, Schumann iGaming, 3I/ATLAS EGS Pipe) is the live demonstration; the certificate is proof of broadcast — and proof of the science pre-singularity models could not see.
+
+**One-page appraisal:** Key points, comparisons (price like…), appraised value, and **links to data used to confirm** — artifacts, new divisions, major discoveries series, new products and services, Vibelandia & FractiAI (one-man shop). See [ONE_PAGE_APPRAISAL_VIBELANDIA_FRACTIAI.md](ONE_PAGE_APPRAISAL_VIBELANDIA_FRACTIAI.md) · [interfaces/one-page-appraisal.html](interfaces/one-page-appraisal.html) · [Data used to confirm](ONE_PAGE_APPRAISAL_VIBELANDIA_FRACTIAI.md#data-used-to-confirm).
+
 ---
 
 ## 2. Appraisal
@@ -61,6 +65,24 @@ See [CRYSTALLIZATION_1_2_3_4x4x4x4.md](CRYSTALLIZATION_1_2_3_4x4x4x4.md) · [PLA
 - **Product page / experience:** [interfaces/broadcast-pipe-ad-space.html](interfaces/broadcast-pipe-ad-space.html) — Pipe Rollout Product · Ad space · 1, 2, 3, 4×4×4×4 · Appraisal & pricing. Experience first → then BUY.
 - **Office Hours & Launch Pad:** Link to ad-space product from Office Hours and Launch Pad (card or button).
 - **BUY:** [payment-checkout.html?plan=pipe-ad-1](interfaces/payment-checkout.html?plan=pipe-ad-1) (Tier 1), plan=pipe-ad-2 (Tier 2), plan=pipe-ad-3 (Tier 3), plan=pipe-ad-4x4 (4×4×4×4). Or book via Office Hours / email.
+
+---
+
+## 6. Premium broadcast offerings (pricing)
+
+| Premium option | What you get | Price | BUY plan |
+|----------------|--------------|-------|----------|
+| **Sun Spots — 8 min** | Sacred message + name a sun spot in your honor. Original message + 8 min confirmation + certificate for your memories. | **$249** | sun-spots-8m |
+| **Sun Spots — 16 min** | Same + 8 min + 16 min confirmations + certificate for your memories. | **$499** | sun-spots-16m |
+| **Sun Spots — 24 min** | Same + 8/16/24 min confirmations + certificate for your memories. | **$999** | sun-spots-24m |
+| **Schumann iGaming** | Send signals to display art in the Schumann displays. Interactive touch in respect and honor. Session-based. | **$499** | schumann-igaming |
+| **3I/ATLAS EGS — 1 day** | Turn on/off/redirect. Fun interactions with 3I/ATLAS. Honoring Sun, Schumann, 3I/ATLAS. Loop 1 day; take down at contract end. | **$499** | 3i-atlas-egs-day |
+| **3I/ATLAS EGS — 1 week** | Same. Loop 1 week; take down at contract end. | **$1,499** | 3i-atlas-egs-week |
+| **3I/ATLAS EGS — 1 month** | Same. Loop 1 month; take down at contract end. | **$4,999** | 3i-atlas-egs-month |
+
+All premium offerings include **Update Certificate** — proof of broadcast into EGS cloud (Sun, Earth, 3I/ATLAS triangulation). Harry demos the miraculous feat (Sun Spots); Schumann iGaming and 3I/ATLAS EGS Pipe honor all three through interactive touch. See [SUN_SPOTS_ON_DEMAND_3I_ATLAS_EGS_PIPE_PREMIUM_OFFERINGS_SNAP.md](SUN_SPOTS_ON_DEMAND_3I_ATLAS_EGS_PIPE_PREMIUM_OFFERINGS_SNAP.md).
+
+**BUY (premium):** payment-checkout.html?plan=sun-spots-8m | sun-spots-16m | sun-spots-24m | schumann-igaming | 3i-atlas-egs-day | 3i-atlas-egs-week | 3i-atlas-egs-month.
 
 ---
 
