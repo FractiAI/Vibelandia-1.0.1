@@ -41,4 +41,6 @@
 
 ---
 
+**CUT! SNAP — Conversation captured since Action! streamed here:** [CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md](CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md)
+
 **NSPFRNP ⊃ Harry Houdini Magician Series ⊃ The Magic Channel ⊃ Miracles ⊃ Feb 1 full moon → ∞³**

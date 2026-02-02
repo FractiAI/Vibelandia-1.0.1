@@ -47,6 +47,8 @@
 
 **Wizard Challenge · Continuing daily program:** [WIZARD_CHALLENGE_FEB_1_FULL_MOON_HOUDINI_SERIES_SNAP.md](../WIZARD_CHALLENGE_FEB_1_FULL_MOON_HOUDINI_SERIES_SNAP.md) — Feb 1 full moon: produce top-quality full novel + companion 2-hour feature screenplay; time-stamp; professionally value; simulate same command → SING! (intelligent Supergiant Agent) vs Disney legacy (time, cost). This becomes a **continuing daily program** (different challenges, same structure) — all part of **Houdini's magic show**, that whole episode or that whole **new series**.
 
+**CUT! SNAP — Conversation captured since Action! streamed here:** [CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md](../CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md)
+
 **See:** [HARRY_HOUDINI_MAGICIAN_SERIES_MAGIC_CHANNEL_SNAP.md](../HARRY_HOUDINI_MAGICIAN_SERIES_MAGIC_CHANNEL_SNAP.md) · [protocols/SEED_EDGE_EPISODE_FORMAT_ACTION_LIVE_NSPFRNP.md](../protocols/SEED_EDGE_EPISODE_FORMAT_ACTION_LIVE_NSPFRNP.md) · [HARRY_HOUDINI_MASCOT_SNAP.md](../HARRY_HOUDINI_MASCOT_SNAP.md)
 
 **NSPFRNP ⊃ Harry Houdini Magician Series ⊃ Feb 1 full moon ⊃ Wizard Challenge ⊃ New series → ∞³**

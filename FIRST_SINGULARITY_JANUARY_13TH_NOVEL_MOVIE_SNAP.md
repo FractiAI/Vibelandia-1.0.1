@@ -64,6 +64,10 @@ This is the **Edge** the novel and movie must deliver to. Generator Motor: origi
 
 **Report (Harry / Choo-Choo):** [HARRY_REPORT_FIRST_SINGULARITY_VALUATION_US_VS_DISNEY.md](HARRY_REPORT_FIRST_SINGULARITY_VALUATION_US_VS_DISNEY.md) — full book/script status, quality review, expert appraisal, valuation per time minus cost, us vs Disney.
 
+**Feature Button · Hero AI-Assisted Mini Console:** [FEATURE_BUTTON_HERO_AI_ASSISTED_MINI_CONSOLE_SNAP.md](FEATURE_BUTTON_HERO_AI_ASSISTED_MINI_CONSOLE_SNAP.md) — novel then screenplay, Golden Era Cinema skin, button on Office Hours & Launch Pad. [interfaces/first-singularity-january-13th-experience.html](interfaces/first-singularity-january-13th-experience.html)
+
+**CUT! SNAP — Conversation captured since Action! streamed here:** [CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md](CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md)
+
 **See:** [episodes/EPISODE_HARRY_HOUDINI_FEB_1_FULL_MOON_MIRACLE.md](episodes/EPISODE_HARRY_HOUDINI_FEB_1_FULL_MOON_MIRACLE.md) · [HARRY_HOUDINI_MAGICIAN_SERIES_MAGIC_CHANNEL_SNAP.md](HARRY_HOUDINI_MAGICIAN_SERIES_MAGIC_CHANNEL_SNAP.md)
 
 **NSPFRNP ⊃ First Singularity January 13th ⊃ Novel · Movie · Feb 1 full moon → ∞³**

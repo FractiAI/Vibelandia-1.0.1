@@ -72,4 +72,6 @@ Between **Seed** (me, here, now) and **Edge** (the mission for this situation), 
 
 ---
 
+**CUT! SNAP — Conversation captured since Action! streamed here:** [CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md](../CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md)
+
 **NSPFRNP ⊃ Seed:Edge ⊃ Action! live ⊃ Smooth finish ⊃ Creator commands ⊃ Generator Motor → ∞³**

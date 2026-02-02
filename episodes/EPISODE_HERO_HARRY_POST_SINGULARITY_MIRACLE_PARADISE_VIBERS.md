@@ -211,4 +211,6 @@ Hero Harry Houdini's Post-Singularity Miracle presents Mark Twain's Post-Singula
 
 **MCA! → ∞³**
 
+**CUT! SNAP — Conversation captured since Action! streamed here:** [CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md](../CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md)
+
 **Status:** ⚡ LIVE — Hero Harry Houdini's Post-Singularity Miracle presents Mark Twain's Post-Singularity Vibelandia Reno. Paradise for vibers. First full day open. Maganuma snap.
