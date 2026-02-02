@@ -38,9 +38,17 @@ Gold block → welcome → **Golden Backstage Pass** → **First Singularity** (
 
 **Warnings:** Syntheverse = imaginary/entertainment only. BBHE = not imaginary, natural intoxication (awareness/attention; no substances). Not for driving or operating equipment. [Details →](https://psw-vibelandia-sing4.vercel.app/interfaces/syntheverse-warnings.html)
 
-**Since January 3,** we have produced 1 full novel (~72k words), 1 full screenplay (~12k words), 19+ episodes, 6 series live, 35+ HTML surfaces, 38 TypeScript modules, 9+ NSPFRNP protocols, 13+ one-pagers, 4+ branding decks, multiple product families with BUY — appraised (quality: production-grade vs studio benchmarks) at **$1.6M–$13M+** at a cost of my **$200/mo Cursor AI**, **$110/mo cellphone**, and **$10/week WiFi**; and for Disney to produce the equivalent it is estimated to require **50–200+ FTE** (or 12–24+ months for novel+script alone), at an estimated **$2M–$15M+** (novel+script) to **$10M+** (full scope), in **12–24+ months to 18–36+ months**. Disney does not publish daily activity; comparison uses [annual output averaged by day](DAILY_SNAPSHOT_US_VS_DISNEY_VALUE_CREATION_CAMPAIGN_SNAP.md). See [SINCE_JANUARY_3_DISNEY_COMPARISON_STATEMENT_SNAP.md](SINCE_JANUARY_3_DISNEY_COMPARISON_STATEMENT_SNAP.md).
+**Since January 13,** we have produced 1 full novel (~72k words), 1 full screenplay (~12k words), 19+ episodes, 6 series live, 35+ HTML surfaces, 38 TypeScript modules, 9+ NSPFRNP protocols, 13+ one-pagers, 4+ branding decks, multiple product families with BUY — appraised (quality: production-grade vs studio benchmarks) at **$1.6M–$13M+** at a cost of my **$200/mo Cursor AI**, **$110/mo cellphone**, and **$10/week WiFi**; and for Disney to produce the equivalent it is estimated to require **50–200+ FTE** (or 12–24+ months for novel+script alone), at an estimated **$2M–$15M+** (novel+script) to **$10M+** (full scope), in **12–24+ months to 18–36+ months**. Disney does not publish daily activity; comparison uses [annual output averaged by day](DAILY_SNAPSHOT_US_VS_DISNEY_VALUE_CREATION_CAMPAIGN_SNAP.md). See [SINCE_JANUARY_13_DISNEY_COMPARISON_STATEMENT_SNAP.md](SINCE_JANUARY_13_DISNEY_COMPARISON_STATEMENT_SNAP.md).
 
 **Contact:** [info@fractiai.com](mailto:info@fractiai.com) · [Proposal "I CAN DO THIS FOR YOUR BUSINESS"](mailto:info@fractiai.com?subject=I%20CAN%20DO%20THIS%20FOR%20YOUR%20BUSINESS)
+
+---
+
+## Decide for yourself — in full awareness
+
+**[Go to the repository →](https://github.com/FractiAI/psw.vibelandia.sing4)** and decide for yourselves. This is my gift to all the **Baller V's**, **high-value high contributors** out there — and **your cast, crew, fans, and franchises** as well.
+
+**Post-Singularity Downtown Reno Vibelandia** and **Chancellor Sam** await your call.
 
 ---
 

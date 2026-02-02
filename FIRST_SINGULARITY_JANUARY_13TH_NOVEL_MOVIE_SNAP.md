@@ -18,17 +18,17 @@
 
 - **Word count:** Equal to **The Hobbit** — **~95,000 words** (The Hobbit is commonly cited as ~95,356; short read but sick, not too much).
 - **Comparables:** Harry Potter, The Hobbit.
-- **Voice:** **Alexandre Dumas's *Count of Monte Cristo*** — **minus the revenge. Only happy endings** (in Vibelandia).
+- **Voice:** **Fused — Dumas (*Count of Monte Cristo* minus revenge), Dickens (character, social weave, warmth), Twain (wit, plain speech, American grain), Steinbeck (earth, road, people of the land — Hero John, permanent residency), and me (Evan Bondonte: present tense, hinge, Vibelandia). Only happy endings.** All chapters (novel) and all sequences (screenplay) align to the irreducible crystal and to this fused voice.
 - **Beauty and voice:** **Evan Bondonte** (who I am still, here today).
 - **Produced:** Right before our eyes. SING! platform. Ultimate Baller V. Highest mission payload.
-- **Manuscript:** [deliverables/First_Singularity_January_13th_NOVEL.md](deliverables/First_Singularity_January_13th_NOVEL.md) — complete arc, full Edge. Expand middle to ~95k (Hobbit-length) as needed.
+- **Manuscript:** [deliverables/First_Singularity_January_13th_NOVEL.md](deliverables/First_Singularity_January_13th_NOVEL.md) — complete arc, full Edge. Align to [deliverables/IRREDUCIBLE_CRYSTAL_FIRST_SINGULARITY_JANUARY_13TH.md](deliverables/IRREDUCIBLE_CRYSTAL_FIRST_SINGULARITY_JANUARY_13TH.md); metabolize, crystallize, animate all. Expand middle to ~95k (Hobbit-length) as needed.
 - **Experience:** **Full book in beautiful experience and skins like reading a book.** When delivered, the novel is presented so it feels like reading a real book — beautiful presentation, book-like skins and layout. Confirmed.
 
 ---
 
 ## 3. Full feature movie
 
-- **Length:** **24,000 words** (full feature script).
+- **Length:** **24,000 words** (full feature script). Align to [deliverables/IRREDUCIBLE_CRYSTAL_FIRST_SINGULARITY_JANUARY_13TH.md](deliverables/IRREDUCIBLE_CRYSTAL_FIRST_SINGULARITY_JANUARY_13TH.md); animate all from crystal.
 - **Quality:** Absolutely the same as **Star Wars**.
 - **Title:** Same — **First Singularity January 13th**. Goes with the novel.
 
@@ -67,6 +67,8 @@ This is the **Edge** the novel and movie must deliver to. Generator Motor: origi
 **Feature Button · Hero AI-Assisted Mini Console:** [FEATURE_BUTTON_HERO_AI_ASSISTED_MINI_CONSOLE_SNAP.md](FEATURE_BUTTON_HERO_AI_ASSISTED_MINI_CONSOLE_SNAP.md) — novel then screenplay, Golden Era Cinema skin, button on Office Hours & Launch Pad. [interfaces/first-singularity-january-13th-experience.html](interfaces/first-singularity-january-13th-experience.html)
 
 **CUT! SNAP — Conversation captured since Action! streamed here:** [CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md](CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md)
+
+**Twain press release — Hero John Steinbeck permanent residency:** [TWAIN_PRESS_RELEASE_HERO_JOHN_STEINBECK_PERMANENT_RESIDENCY_SNAP.md](TWAIN_PRESS_RELEASE_HERO_JOHN_STEINBECK_PERMANENT_RESIDENCY_SNAP.md) — SNAP from Twain honoring Hero John's arrival and voice in the fusion.
 
 **See:** [episodes/EPISODE_HARRY_HOUDINI_FEB_1_FULL_MOON_MIRACLE.md](episodes/EPISODE_HARRY_HOUDINI_FEB_1_FULL_MOON_MIRACLE.md) · [HARRY_HOUDINI_MAGICIAN_SERIES_MAGIC_CHANNEL_SNAP.md](HARRY_HOUDINI_MAGICIAN_SERIES_MAGIC_CHANNEL_SNAP.md)
 

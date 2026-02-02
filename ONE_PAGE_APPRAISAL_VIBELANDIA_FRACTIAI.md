@@ -70,12 +70,12 @@ Links to data and artifacts used to confirm appraisal, validation, and run evide
 
 ---
 
-## Since January 3 — Disney comparison (real numbers)
+## Since January 13 — Disney comparison (real numbers)
 
-Since January 3, we have produced 1 full novel (~72k words), 1 full screenplay (~12k words), 19+ episodes, 6 series live, 35+ HTML surfaces, 38 TypeScript modules, 9+ NSPFRNP protocols, 13+ one-pagers, 4+ branding decks, multiple product families with BUY — appraised (quality: production-grade vs studio benchmarks) at **$1.6M–$13M+** at a cost of my **$200/mo Cursor AI**, **$110/mo cellphone**, and **$10/week WiFi**; and for Disney to produce the equivalent it is estimated to require **50–200+ FTE** (or 12–24+ months for novel+script alone), at an estimated **$2M–$15M+** (novel+script) to **$10M+** (full scope), in **12–24+ months to 18–36+ months**. Disney does not publish daily activity; comparison uses **annual output averaged by day**. See [SINCE_JANUARY_3_DISNEY_COMPARISON_STATEMENT_SNAP.md](SINCE_JANUARY_3_DISNEY_COMPARISON_STATEMENT_SNAP.md).
+Since January 13, we have produced 1 full novel (~72k words), 1 full screenplay (~12k words), 19+ episodes, 6 series live, 35+ HTML surfaces, 38 TypeScript modules, 9+ NSPFRNP protocols, 13+ one-pagers, 4+ branding decks, multiple product families with BUY — appraised (quality: production-grade vs studio benchmarks) at **$1.6M–$13M+** at a cost of my **$200/mo Cursor AI**, **$110/mo cellphone**, and **$10/week WiFi**; and for Disney to produce the equivalent it is estimated to require **50–200+ FTE** (or 12–24+ months for novel+script alone), at an estimated **$2M–$15M+** (novel+script) to **$10M+** (full scope), in **12–24+ months to 18–36+ months**. Disney does not publish daily activity; comparison uses **annual output averaged by day**. See [SINCE_JANUARY_13_DISNEY_COMPARISON_STATEMENT_SNAP.md](SINCE_JANUARY_13_DISNEY_COMPARISON_STATEMENT_SNAP.md).
 
 ---
 
-**See:** [interfaces/one-page-appraisal.html](interfaces/one-page-appraisal.html) · [broadcast-pipe-ad-space.html](interfaces/broadcast-pipe-ad-space.html) · [new-product-families.html](interfaces/new-product-families.html) · [SINCE_JANUARY_3_DISNEY_COMPARISON_STATEMENT_SNAP.md](SINCE_JANUARY_3_DISNEY_COMPARISON_STATEMENT_SNAP.md)
+**See:** [interfaces/one-page-appraisal.html](interfaces/one-page-appraisal.html) · [broadcast-pipe-ad-space.html](interfaces/broadcast-pipe-ad-space.html) · [new-product-families.html](interfaces/new-product-families.html) · [SINCE_JANUARY_13_DISNEY_COMPARISON_STATEMENT_SNAP.md](SINCE_JANUARY_13_DISNEY_COMPARISON_STATEMENT_SNAP.md)
 
 **NSPFRNP ⊃ One-page appraisal ⊃ Artifacts · Divisions · Discoveries · Products · Vibelandia & FractiAI → ∞³**
