@@ -50,6 +50,12 @@ COLOMBIA — ENGLISH-ONLY HARD STOP · LOCALE ONRAMP SNAP: Mitigation
 ├─ Wired on: index.html, interfaces/office-hours.html, interfaces/launch-pad.html.
 └─ See COLOMBIA_ENGLISH_ONLY_HARD_STOP_LOCALE_ONRAMP_SNAP.md · scripts/locale-onramp.js · README.es.md
 
+VIBELANDIA — FULL SENSORY REALITY OR REALLY REALLY GOOD SCI FI · YOU CHOOSE! (BRAND SNAP)
+├─ **Vibelandia can be enjoyed in full sensory reality or as really really good sci fi. YOU CHOOSE!**
+├─ Full sensory reality = live it (campus, Office Hours, Club, Reno). Really really good sci fi = enjoy it as story (episodes, novel, screenplay, SNAPs). No gatekeeping; both valid.
+├─ Placement: at top of index, Office Hours, Launch Pad, README. First brand message.
+└─ See VIBELANDIA_FULL_SENSORY_OR_SCI_FI_YOU_CHOOSE_BRAND_SNAP.md · README.md · index.html · interfaces/office-hours.html · interfaces/launch-pad.html
+
 WALKABLE PRE-SINGULARITY · VIBABLE POST-SINGULARITY (SNAP)
 ├─ Walkable = pre-singularity. Vibeable = post-singularity. Our campuses are vibeable, not "walkable."
 ├─ Lovers = pre-singularity (Paris is for lovers). Vibers = post-singularity (Reno is for vibers).
@@ -75,10 +81,23 @@ WORD! BRAND: Lightning bolt exclamation / story snap highlight
 ├─ Chancellor Sam (not Chancellor Samuel); Sam warming up to us; Ben's arrival helped; Sam and Ben new best friends; Ben loving Baller V Ambassador = WORD!
 └─ See WORD_BRANDING_SNAP.md · CHANCELLOR_SAM_BEN_WORD_BRANDING_SNAP.md
 
+VIBELANDIA — FULL SENSORY OR SCI-FI, YOU CHOOSE (BRAND SNAP)
+├─ **Vibelandia can be enjoyed in full sensory reality or as really really good sci-fi. YOU CHOOSE!**
+├─ Full sensory = live it (campus, Office Hours, Club, WINK!, SING!, episodes). Really really good sci-fi = experience it as story. Both valid; you choose.
+├─ Placement: at top of index, Office Hours, Launch Pad (first strip above scoreboard). README hero.
+└─ See VIBELANDIA_FULL_SENSORY_OR_SCI_FI_YOU_CHOOSE_BRAND_SNAP.md
+
 VIBELANDIA! BRAND: On-brand spelling — keep everywhere
 ├─ VIBELANDIA! = Ecosystem / brand (not "Vibelandia")
 ├─ VIBELANDIA RENO! = Campus (not "Vibelandia Reno")
 └─ Back links, titles, copy: use VIBELANDIA! and VIBELANDIA RENO!
+
+VIBELANDIA! — FULL SENSORY REALITY OR REALLY REALLY GOOD SCI-FI · YOU CHOOSE! (Brand SNAP)
+├─ **Line:** VIBELANDIA! can be enjoyed in full sensory reality or as really really good sci-fi. YOU CHOOSE!
+├─ **Full sensory reality** = Live it (campus, Office Hours, Club, WINK!, SING!, episodes, novel, screenplay, Update Certificates, Broadcast Pipe). Post-singularity gateway; Holographic Hydrogen Valley.
+├─ **Really really good sci-fi** = Same world, same Edge, same happy endings — as story. Enjoy as fiction.
+├─ **YOU CHOOSE** = No gatekeeping. Full sensory reality, or really really good sci-fi, or both. Your choice.
+└─ See VIBELANDIA_FULL_SENSORY_OR_SCI_FI_YOU_CHOOSE_BRAND_SNAP.md · README · Office Hours · Launch Pad
 
 POST-SINGULARITY SUPERINTELLIGENT AI HUB · HYDROGEN HOLOGRAPH VALLEY 100% SNAP: Campaign · tagline · all VIBELANDIA
 ├─ **Campaign:** Post-Singularity Superintelligent AI hub of the world · Hydrogen Holograph Valley 100%. Whether Chairman Robert (or any single counterpart) accepts or not, we layer this campaign and tagline to all VIBELANDIA SNAP.

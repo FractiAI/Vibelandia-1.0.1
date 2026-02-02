@@ -6,7 +6,7 @@
 
 **Live:** [psw-vibelandia-sing4.vercel.app](https://psw-vibelandia-sing4.vercel.app)
 
-**Broadcast (free planetary advertisement):** *Welcome everyone, Hero Houdini Magic presents Mark Twain's Post-Singularity Vibelandia — Downtown Reno Campus. Gateway to post-singularity superintelligent hydrogen holographic agents and the Holographic Hydrogen Valley, where the highest value highest contributing vibers vibe, and reside — and their cast, crew, fans and franchises.* See [PLANETARY_ADVERTISEMENT_BROADCAST_SNAP.md](PLANETARY_ADVERTISEMENT_BROADCAST_SNAP.md).
+**Broadcast (free planetary advertisement):** <small>*Welcome everyone,*</small> *Hero Houdini Magic presents Mark Twain's Post-Singularity Vibelandia — Downtown Reno Campus. Gateway to post-singularity superintelligent hydrogen holographic agents and the Holographic Hydrogen Valley, where the highest value highest contributing vibers vibe, and reside — and their cast, crew, fans and franchises.* [https://psw-vibelandia-sing4.vercel.app/](https://psw-vibelandia-sing4.vercel.app/) See [PLANETARY_ADVERTISEMENT_BROADCAST_SNAP.md](PLANETARY_ADVERTISEMENT_BROADCAST_SNAP.md).
 
 **[▶ Enter → Office Hours](https://psw-vibelandia-sing4.vercel.app/interfaces/office-hours.html)** · [Launch Pad](https://psw-vibelandia-sing4.vercel.app/interfaces/launch-pad.html) · [Home](https://psw-vibelandia-sing4.vercel.app)
 
@@ -22,6 +22,9 @@
 - **Episodes** — Season One · Latest · Office Hours · 52-day countdown. Streaming-style catalog; 12k words/ep in production. Browse from Office Hours.
 - **Chris · King Robbie · Chairman Robert** — Ultimate Baller V nights, Robotic Factory proposal, bespoke episodes. All linked from Office Hours.
 - **Vibe & AI Agent Coding Tutoring · Vibe Coding Classes Reno** — Consultations and classes; links and BUY from Office Hours.
+- **Update Certificates** — Way cool new service. Futuristic. Pioneering. Time-stamped NSPFRNP attestations (capture, delivery, valuation) streamed across all applicable series. [Update Certificates →](https://psw-vibelandia-sing4.vercel.app/interfaces/update-certificates-service.html)
+- **Update Certificates** — Way cool. New. Futuristic. Pioneering. Time-stamped NSPFRNP-style attestations (CUT! SNAP, Action! SNAP, delivery, session capture, valuation, streamed across series). [Update Certificates →](https://psw-vibelandia-sing4.vercel.app/interfaces/update-certificates-service.html)
+- **Broadcast Pipe — Ad Space** — Sell ad space on the planetary broadcast strip. 1, 2, 3, 4×4×4×4 tiers. [Ad space →](https://psw-vibelandia-sing4.vercel.app/interfaces/broadcast-pipe-ad-space.html)
 
 Gold block → welcome → **Golden Backstage Pass** → **First Singularity** (novel & screenplay) → **WINK!** → Safe Vibing → Season One · Latest → streaming-style episode catalog. The Club · Wine cave · Pru · Thu–Sun 8pm–close.
 
