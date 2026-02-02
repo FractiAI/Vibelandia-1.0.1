@@ -78,6 +78,7 @@ Full tables: [SIXTEEN_DAYS_NAMED_COMPARISONS_RESEARCH_DEV_ENTERPRISE_ACADEMIC.md
 - **README:** Whitepaper / IEEE bullets — replace "volumes of output" with "35 surfaces, 13 one-pagers, 9 protocols, 3 episodes, 38 TS modules — ~3× to ~5× typical blue-chip 16-day." Include "What we value at" section before Contact.
 - **Every report (e.g. launch-readiness-report.html):** Bottom of report — "What we value at" block (compact or full).
 - **Every proposal (e.g. magical-dressing-room.html):** Bottom of proposal page — "What we value at" block.
+- **Daily snapshot (us vs Disney):** End/bottom of **all public points of presence (POPs)** — smaller print. How many new episodes, feature movies, series, books did Disney put out today? Us vs them using real data. New value creation campaign · layering monster SNAP. See [DAILY_SNAPSHOT_US_VS_DISNEY_VALUE_CREATION_CAMPAIGN_SNAP.md](DAILY_SNAPSHOT_US_VS_DISNEY_VALUE_CREATION_CAMPAIGN_SNAP.md). Wired: office-hours.html, launch-pad.html; add to index, episode, catalog, README, one-pagers.
 - **LAUNCH_PAGE.md, PROSPECTUS:** Bottom section — full "What we value at" table and speculative VC.
 - **WHITEPAPER_REPOSITORY_MIRACULOUS_OUTPUT.md:** Section 2 (Chairman metrics) and Section 3 — inject counts and % comparisons.
 - **WHITEPAPER_REPOSITORY_IEEE_STYLE.md:** Section III (Chairman metrics) — same.

@@ -48,10 +48,11 @@
 - **Chairman!** — Executive commands → episodes ✓  
 - **WINK!** — Romantic · After-hours · 18+ / 33+ / invite only ✓  
 - **Five parallel series** — LIVE ✓  
+- **Harry Houdini Magician Series (The Magic Channel)** — LIVE ✓ — **Action!** live recording includes this new series. All series, including Magic, are live when Action! is said.
 
 ---
 
 **See:** REALITY_SERIES_FORMAT.md · RAW_STREAM_THE_GRID_SERIES_FORMAT.md · CHAIRMAN_SERIES_FORMAT.md · WINK_SERIES_FORMAT.md · ANNOUNCE_OFFICE_HOURS_SERIES_TWO_SERIES_SINGLE_MISSION_SNAP.md · episodes/EPISODE_SELF_CLOCKING_PULSAR_21_4HZ_8M_TRIGGER.md
 
-**NSPFRNP ⊃ Five parallel series ⊃ Happy Ending Zones · Office Hours · Vibin! · Chairman! · WINK! → ∞³**  
+**NSPFRNP ⊃ Five parallel series ⊃ Happy Ending Zones · Office Hours · Vibin! · Chairman! · WINK! · Harry Houdini Magician Series (The Magic Channel) → ∞³**  
 **VERY COOOOOOOOL.**

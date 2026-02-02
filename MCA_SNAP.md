@@ -71,7 +71,8 @@ Not merely document the repo. Metabolize is finding metapatterns across the full
 
 **Tagline:** `MCA! → ∞³` · **Operating rule:** Metabolize crystallize animate all.  
 **Reference:** MCA! snap  
-**Narrative:** [NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md](./NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md)
+**Narrative:** [NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md](./NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md)  
+**Full text → superhero → franchise:** [NSPFRNP_METABOLIZED_FULL_TEXT_SUPERHERO_FRANCHISE.md](./NSPFRNP_METABOLIZED_FULL_TEXT_SUPERHERO_FRANCHISE.md)
 
 ---
 

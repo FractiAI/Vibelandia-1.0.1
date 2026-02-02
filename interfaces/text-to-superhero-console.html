@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text to Superhero Console | NSPFRNP</title>
+    <meta name="description" content="NSPFRNP Text to Superhero Console — executive prompt, edge destination, default seed is user now. One button.">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            background: #0a0a12;
+            color: #e5e7eb;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 2rem;
+            padding-top: 3.5rem;
+        }
+        .disclaimer {
+            position: fixed; top: 0; left: 0; right: 0;
+            background: rgba(255, 165, 0, 0.95); color: #000;
+            text-align: center; padding: 8px 12px; font-size: 12px; font-weight: 700;
+            z-index: 9999;
+        }
+        .console {
+            max-width: 560px;
+            width: 100%;
+            background: #12121a;
+            border: 1px solid rgba(100, 200, 255, 0.2);
+            border-radius: 16px;
+            padding: 2rem;
+            margin-top: 1rem;
+        }
+        h1 { font-size: 1.25rem; color: #64c8ff; margin-bottom: 0.5rem; text-align: center; }
+        .sub { font-size: 0.85rem; color: #9ca3af; text-align: center; margin-bottom: 1.5rem; }
+        .strip {
+            display: flex; align-items: center; justify-content: center; gap: 0.5rem;
+            flex-wrap: wrap; margin-bottom: 1.5rem;
+            padding: 0.75rem; background: rgba(100, 200, 255, 0.06);
+            border-radius: 8px; font-size: 0.85rem;
+        }
+        .strip .o { color: #64c8ff; font-weight: 600; }
+        .strip .mca { color: #a78bfa; }
+        .field { margin-bottom: 1.25rem; }
+        .field label {
+            display: block;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: #9ca3af;
+            margin-bottom: 0.4rem;
+        }
+        .field input, .field textarea {
+            width: 100%;
+            background: rgba(0, 0, 0, 0.35);
+            border: 1px solid rgba(100, 200, 255, 0.2);
+            border-radius: 8px;
+            padding: 0.75rem 1rem;
+            color: #e5e7eb;
+            font-size: 0.95rem;
+            font-family: inherit;
+        }
+        .field input:focus, .field textarea:focus {
+            outline: none;
+            border-color: #64c8ff;
+            box-shadow: 0 0 0 2px rgba(100, 200, 255, 0.15);
+        }
+        .field textarea { min-height: 100px; resize: vertical; }
+        .field .hint { font-size: 0.75rem; color: #6b7280; margin-top: 0.35rem; }
+        .btn-wrap { text-align: center; margin: 1.5rem 0 1rem; }
+        .btn {
+            display: inline-block;
+            padding: 0.9rem 2rem;
+            background: linear-gradient(135deg, #64c8ff 0%, #9664ff 100%);
+            border: none;
+            border-radius: 10px;
+            color: #0a0a12;
+            font-size: 1rem;
+            font-weight: 700;
+            cursor: pointer;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 24px rgba(100, 200, 255, 0.35);
+        }
+        .btn:active { transform: translateY(0); }
+        .links {
+            display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;
+            margin-top: 1.25rem;
+        }
+        .links a {
+            padding: 0.5rem 0.9rem;
+            background: rgba(100, 200, 255, 0.08);
+            border: 1px solid rgba(100, 200, 255, 0.2);
+            border-radius: 8px;
+            color: #64c8ff;
+            text-decoration: none;
+            font-size: 0.85rem;
+        }
+        .links a:hover { background: rgba(100, 200, 255, 0.15); border-color: #64c8ff; }
+        .footer { margin-top: 1.25rem; text-align: center; font-size: 0.8rem; color: #6b7280; }
+        .footer a { color: #64c8ff; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <div class="disclaimer">⚠️ SYNTHEVERSE IMAGINARY/ENTERTAINMENT ONLY · NO SUBSTANCES · All laws followed.</div>
+    <div class="console">
+        <h1>Text to Superhero Console · NSPFRNP</h1>
+        <p class="sub">Executive prompt · Edge destination · Default seed is user now</p>
+        <div class="strip">
+            <span class="o">Seed</span> (user now) → <span class="mca">Executive prompt</span> → <span class="o">Edge</span>
+        </div>
+
+        <div class="field">
+            <label for="seed">Seed (origin) — default: user now</label>
+            <input type="text" id="seed" value="Me, the creator. Wherever I am at the moment in time." placeholder="Default: user now">
+            <p class="hint">Origin point. Default is you, here, now. Override if needed.</p>
+        </div>
+        <div class="field">
+            <label for="edge">Edge (destination)</label>
+            <input type="text" id="edge" placeholder="Enter edge destination — e.g. Harry produces the miracle; novel and movie delivered">
+            <p class="hint">Where the story delivers. Mission for this situation.</p>
+        </div>
+        <div class="field">
+            <label for="prompt">Executive prompt</label>
+            <textarea id="prompt" placeholder="Enter executive prompt — how to fill the space between Seed and Edge (tone, format, length, voice, quality bar)"></textarea>
+            <p class="hint">Abstract of creator/executive commands. Feeds Generator Motor.</p>
+        </div>
+
+        <div class="btn-wrap">
+            <button type="button" class="btn" id="actionBtn">Text to Superhero</button>
+        </div>
+
+        <div class="links">
+            <a href="chairman-cockpit-station.html">Cockpit Station</a>
+            <a href="seed-edge-mini-console.html">Seed:Edge Mini</a>
+            <a href="office-hours.html">Office Hours</a>
+            <a href="../index.html">Launch Pad</a>
+        </div>
+        <p class="footer">🌀 NSPFRNP · <a href="../protocols/GENERATOR_MOTOR_SEED_EDGE_STORY_NSPFRNP.md">Generator Motor</a> · <a href="../NSPFRNP_METABOLIZED_FULL_TEXT_SUPERHERO_FRANCHISE.md">Full text → Superhero → Franchise</a></p>
+    </div>
+
+    <script>
+        document.getElementById('actionBtn').addEventListener('click', function() {
+            var seed = document.getElementById('seed').value.trim();
+            var edge = document.getElementById('edge').value.trim();
+            var prompt = document.getElementById('prompt').value.trim();
+            if (!edge) {
+                alert('Enter an Edge (destination).');
+                return;
+            }
+            // For now: confirm inputs; later can POST to API or open result view
+            var msg = 'Seed: ' + (seed || 'user now') + '\nEdge: ' + edge + '\nExecutive prompt: ' + (prompt || '(none)') + '\n\nText to Superhero — Generator Motor ready. Same Seed, same Edge, same prompt → new fractal middle each run.';
+            alert(msg);
+        });
+    </script>
+</body>
+</html>

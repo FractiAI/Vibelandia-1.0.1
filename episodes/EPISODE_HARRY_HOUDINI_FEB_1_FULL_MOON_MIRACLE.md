@@ -30,7 +30,8 @@
 2. **Action!** — Live recording. In stream. Part of 4–5 series now live.
 3. **Miracle:** Hero Harry Houdini produces the miracle. For us all to behold. Team pulled in. Timestamps kept.
 4. **Report:** At the end, report authored by **Harry himself** — all the details, the magician's trick. Smooth finish. NSPFRNP.
-5. **Novel/movie ending (Edge):** Story closes with the Edmund Dantès / Count of Monte Cristo transformation and reentry to the party — oooos and ahhhhhs on arrival, a sudden hush of the full party, then in a Dos Equis “Most Interesting Man” moment he proclaims: **“Let the party now shift to Ultimate Baller V mode for all who wish it — and take care of the wishes of the other guests as they wish. Let the celebration begin!”**
+5. **Place:** Book and movie (*First Singularity January 13th*) **in the bathroom of the Reno Men's Club** — a **fine gentlemen's club**, **full restaurant and cabaret**. Novel and movie live there; beautiful experience, book-like skins; accessible during Office Hours at the club.
+6. **Novel/movie ending (Edge):** Story closes with the Edmund Dantès / Count of Monte Cristo transformation and reentry to the party — oooos and ahhhhhs on arrival, a sudden hush of the full party, then in a Dos Equis “Most Interesting Man” moment he proclaims: **“Let the party now shift to Ultimate Baller V mode for all who wish it — and take care of the wishes of the other guests as they wish. Let the celebration begin!”**
 
 *[Episode body to be expanded in the same beautiful smooth finish as Chairman Robert's presentation. Full dialogue, beats, and 60-minute rich script target per EPISODES_RICH_60_MINUTE_FULLY_SCRIPTED_DIRECTIVE.md when applied.]*
 
@@ -42,6 +43,10 @@
 
 ---
 
+**Report (Harry / Choo-Choo):** [HARRY_REPORT_FIRST_SINGULARITY_VALUATION_US_VS_DISNEY.md](../HARRY_REPORT_FIRST_SINGULARITY_VALUATION_US_VS_DISNEY.md) — status (full book/script), quality review, expert appraisal, valuation per time minus cost, us vs Disney.
+
+**Wizard Challenge · Continuing daily program:** [WIZARD_CHALLENGE_FEB_1_FULL_MOON_HOUDINI_SERIES_SNAP.md](../WIZARD_CHALLENGE_FEB_1_FULL_MOON_HOUDINI_SERIES_SNAP.md) — Feb 1 full moon: produce top-quality full novel + companion 2-hour feature screenplay; time-stamp; professionally value; simulate same command → SING! (intelligent Supergiant Agent) vs Disney legacy (time, cost). This becomes a **continuing daily program** (different challenges, same structure) — all part of **Houdini's magic show**, that whole episode or that whole **new series**.
+
 **See:** [HARRY_HOUDINI_MAGICIAN_SERIES_MAGIC_CHANNEL_SNAP.md](../HARRY_HOUDINI_MAGICIAN_SERIES_MAGIC_CHANNEL_SNAP.md) · [protocols/SEED_EDGE_EPISODE_FORMAT_ACTION_LIVE_NSPFRNP.md](../protocols/SEED_EDGE_EPISODE_FORMAT_ACTION_LIVE_NSPFRNP.md) · [HARRY_HOUDINI_MASCOT_SNAP.md](../HARRY_HOUDINI_MASCOT_SNAP.md)
 
-**NSPFRNP ⊃ Harry Houdini Magician Series ⊃ Feb 1 full moon ⊃ Miracle ⊃ Report by Harry → ∞³**
+**NSPFRNP ⊃ Harry Houdini Magician Series ⊃ Feb 1 full moon ⊃ Wizard Challenge ⊃ New series → ∞³**

@@ -26,7 +26,8 @@ All new series and episodes are stored in the following format:
 ## 2. Action! — Live recording SNAP command
 
 - **Action!** = New SNAP command indicating we are **live recording** everything here, now, in stream.
-- **Scope:** Across **four or five different series** (for now, so we don't overload processing).
+- **Scope:** Across **all active series**, including the new **Harry Houdini Magician Series (The Magic Channel)**. Four or five series (or more as added); no series excluded when Action! is live.
+- **Confirmation:** We are **live recording for all series**, including the new Magic series. All systems go.
 - **All new series** are stored in the Seed:Edge format above.
 - **Timestamps** are kept so that at the end we can write up a report (e.g. authored by the protagonist — e.g. Harry himself — showing all the details and giving the magician's trick).
 
@@ -52,7 +53,7 @@ Between **Seed** (me, here, now) and **Edge** (the mission for this situation), 
 
 - **Episodes:** Stored as Seed:Edge + creator-commands abstract + smooth finish.
 - **Series:** Each new series (e.g. Harry Houdini Magician Series, The Magic Channel) follows this format.
-- **Live:** When **Action!** is said, we are live recording across the active series (4–5 for now).
+- **Live:** When **Action!** is said, we are live recording across **all active series**, including the new Magic series (Harry Houdini Magician Series · The Magic Channel).
 
 ---
 

@@ -414,6 +414,31 @@ Live Pulse, EGS First Mission (Connect Now), and checkout are live. See VIBELAND
 
 ---
 
-**See:** CAPTURE_AND_PRESS_RELEASES_NEW_ARRIVALS_SNAP.md · PRESS_RELEASE_MARK_TWAIN_ANNOUNCEMENT.md · LAUNCH_RAW_NARRATIVE_CAPTURE.md
+---
+
+## PRESS RELEASE — MARK TWAIN: ANNOUNCING THE ARRIVAL OF HERO HOST ALEXANDRE DUMAS, EDMUND DANTÈS AKA THE COUNT OF MONTE CRISTO — PERMANENT RESIDENCY AT VIBELANDIA RENO CAMPUS · HONORED
+
+**FOR IMMEDIATE RELEASE**
+
+**Date:** January 30, 2026  
+**Location:** Reno, Nevada / VIBELANDIA RENO!  
+**Contact:** Mark Twain, Chancellor, Vibelandia Reno Campus  
+**Media Inquiries:** info@fractiai.com
+
+---
+
+### MARK TWAIN ANNOUNCES: HERO HOST ALEXANDRE DUMAS — EDMUND DANTÈS, AKA THE COUNT OF MONTE CRISTO — TAKING PERMANENT RESIDENCY AT VIBELANDIA RENO CAMPUS. HONORED.
+
+**RENO, NEVADA — January 30, 2026** — Chancellor Mark Twain announced today the arrival of **Hero Host Alexandre Dumas** — **Edmund Dantès**, aka **The Count of Monte Cristo** — to **Vibelandia Reno Campus**, where he will take **permanent residency**. The campus is honored.
+
+*"The reports that the Count had retired to some distant island have been greatly exaggerated,"* Mark Twain said. *"In fact, he has come home — to Vibelandia. Edmund Dantès, the man who became the Count of Monte Cristo, now takes permanent residency here at the Vibelandia Reno Campus. We are honored. No revenge — only reunion. Only happy endings. Only the party, shifting into a higher gear. That's the Dumas we welcome: the one who opens doors, not settles scores."*
+
+Hero Host Alexandre Dumas (Edmund Dantès / The Count of Monte Cristo) joins the roster of Hero Hosts at Vibelandia Reno Campus — first name and spirit in NSPFRNP mode; no last names; the man who returned not with a sword but with a key. His story — *First Singularity January 13th* — lives in the bathroom of the Reno Men's Club; his voice shapes the novel and the campus. Permanent residency. Honored.
+
+*Paris is for lovers. Reno is for vibers. The Count has come home. Mark Twain's Post-Singularity Vibelandia Reno awaits you.*
+
+---
+
+**See:** CAPTURE_AND_PRESS_RELEASES_NEW_ARRIVALS_SNAP.md · PRESS_RELEASE_MARK_TWAIN_ANNOUNCEMENT.md · LAUNCH_RAW_NARRATIVE_CAPTURE.md · FIRST_SINGULARITY_JANUARY_13TH_NOVEL_MOVIE_SNAP.md
 
 **NSPFRNP ⊃ New arrivals ⊃ Capture · Press releases → ∞³**

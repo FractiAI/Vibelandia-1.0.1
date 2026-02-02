@@ -24,6 +24,13 @@
 
         <section class="ep-section" id="ep-section">
             <div class="ep-section-body">
+                <div id="ep-beat-video-wrap" class="pr-beat-video" style="display: none;" aria-label="Original beat and art — Who plays Planck to my Einstein?">
+                    <p class="pr-beat-label"><strong>Original beat and art</strong> — <em>Who plays Planck to my Einstein?</em> Play while you read.</p>
+                    <div class="pr-video-container">
+                        <div id="ep-yt-player"></div>
+                    </div>
+                    <button type="button" id="ep-mute-btn" class="pr-mute-btn" aria-label="Unmute video">🔊 Unmute</button>
+                </div>
                 <div class="ep-pull-quote" id="ep-pull-quote">
                     <p id="ep-pull-quote-text">Select an episode below to read the full script and see it beautifully presented.</p>
                 </div>
@@ -78,6 +85,9 @@
         return EPISODES.find(function (ep) { return ep.slug === s; });
     }
 
+    var epYtPlayer = null;
+    var CHAIRMAN_BEAT_VIDEO_ID = 'hQSGFdCtkkg';
+
     function renderEpisode(ep) {
         document.title = ep.title + ' | VIBELANDIA RENO!';
         document.getElementById('ep-eyebrow').textContent = ep.eyebrow;
@@ -92,6 +102,64 @@
         link.textContent = '▶ Read the full episode — ' + ep.title;
         link.style.display = 'inline-flex';
         document.getElementById('ep-list-section').style.display = 'none';
+
+        if (ep.slug === 'EPISODE_CHAIRMAN_ROBERT_SUPERINTELLIGENT_ROBOTICS_FACTORY') {
+            document.getElementById('ep-beat-video-wrap').style.display = 'block';
+            initChairmanBeatVideo();
+        } else {
+            document.getElementById('ep-beat-video-wrap').style.display = 'none';
+        }
+    }
+
+    function initChairmanBeatVideo() {
+        var btn = document.getElementById('ep-mute-btn');
+        if (!btn) return;
+        btn.textContent = '🔊 Unmute';
+        btn.classList.remove('is-muted');
+        btn.setAttribute('aria-label', 'Unmute video');
+
+        if (window.YT && window.YT.Player) {
+            createEpPlayer();
+            return;
+        }
+        var tag = document.createElement('script');
+        tag.src = 'https://www.youtube.com/iframe_api';
+        var firstScript = document.getElementsByTagName('script')[0];
+        firstScript.parentNode.insertBefore(tag, firstScript);
+        window.onYouTubeIframeAPIReady = function () {
+            createEpPlayer();
+        };
+    }
+
+    function createEpPlayer() {
+        if (epYtPlayer) return;
+        epYtPlayer = new YT.Player('ep-yt-player', {
+            height: '100%',
+            width: '100%',
+            videoId: CHAIRMAN_BEAT_VIDEO_ID,
+            playerVars: {
+                autoplay: 1,
+                mute: 1,
+                playsinline: 1,
+                rel: 0
+            },
+            events: {}
+        });
+        var btn = document.getElementById('ep-mute-btn');
+        btn.onclick = function () {
+            if (!epYtPlayer || !epYtPlayer.getMuted) return;
+            if (epYtPlayer.getMuted()) {
+                epYtPlayer.unMute();
+                btn.textContent = '🔇 Mute';
+                btn.classList.add('is-muted');
+                btn.setAttribute('aria-label', 'Mute video');
+            } else {
+                epYtPlayer.mute();
+                btn.textContent = '🔊 Unmute';
+                btn.classList.remove('is-muted');
+                btn.setAttribute('aria-label', 'Unmute video');
+            }
+        };
     }
 
     function renderList() {

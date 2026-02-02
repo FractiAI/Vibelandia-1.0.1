@@ -224,3 +224,53 @@ body.episode-nspfrnp {
 }
 
 .episode-nspfrnp .ep-list a:hover { color: var(--ep-gold); }
+
+/* Chairman Robert proposal — original beat and art video (Who plays Planck to my Einstein?) */
+.episode-nspfrnp .pr-beat-video {
+    margin-bottom: 2rem;
+    padding: 1.25rem 0;
+    border-top: 1px solid var(--ep-divider);
+}
+.episode-nspfrnp .pr-beat-label {
+    margin-bottom: 0.75rem;
+    font-size: 0.95rem;
+    color: var(--ep-ink);
+}
+.episode-nspfrnp .pr-video-container {
+    position: relative;
+    width: 100%;
+    max-width: 560px;
+    margin: 0 auto;
+    border-radius: 12px;
+    overflow: hidden;
+    background: var(--ep-ink);
+    aspect-ratio: 16 / 9;
+}
+.episode-nspfrnp .pr-video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+.episode-nspfrnp .pr-mute-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 0.75rem;
+    padding: 0.5rem 1rem;
+    background: rgba(13, 148, 136, 0.12);
+    color: var(--ep-accent);
+    font-family: inherit;
+    font-size: 0.9rem;
+    font-weight: 600;
+    border: 1px solid rgba(13, 148, 136, 0.3);
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.2s, color 0.2s;
+}
+.episode-nspfrnp .pr-mute-btn:hover {
+    background: rgba(13, 148, 136, 0.2);
+}
+.episode-nspfrnp .pr-mute-btn.is-muted { color: var(--ep-muted); }

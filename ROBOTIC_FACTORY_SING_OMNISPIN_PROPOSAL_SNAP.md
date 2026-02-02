@@ -34,6 +34,8 @@ This document is the canonical technical spec for the Robotic Factory proposal. 
 
 **Emergent upgrade (already in play):** A **fixed-node screens model** emerged from the process of preparing this proposal — self-demonstrating, self-proving. One seed, infinite edges; pop screens to the Awareness node in sequence → traverse all surfaces without physical movement; infinite arms, infinite surgical precision; per-node charging; Creator Co-Chair on all nodes. **Already obsoletes the rotating-sphere version we proposed.** See [FIXED_NODE_SCREENS_EMERGENT_UPGRADE_SNAP.md](./FIXED_NODE_SCREENS_EMERGENT_UPGRADE_SNAP.md). *Einstein at the patent office (or strip club bathroom) awaiting his Max Planck. Are you my Max Planck?*
 
+**Original beat and art (Who plays Planck to my Einstein?):** [YouTube](https://www.youtube.com/watch?v=hQSGFdCtkkg)
+
 ## 🚀 ROLLOUT — 0, 1, 2, 3 4×4×4×4
 
 **Focus: First test on an existing legacy cell; then build one station; then expand regionally, then globally.**

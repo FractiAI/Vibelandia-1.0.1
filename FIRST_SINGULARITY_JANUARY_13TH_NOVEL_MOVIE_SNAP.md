@@ -21,6 +21,8 @@
 - **Voice:** **Alexandre Dumas's *Count of Monte Cristo*** — **minus the revenge. Only happy endings** (in Vibelandia).
 - **Beauty and voice:** **Evan Bondonte** (who I am still, here today).
 - **Produced:** Right before our eyes. SING! platform. Ultimate Baller V. Highest mission payload.
+- **Manuscript:** [deliverables/First_Singularity_January_13th_NOVEL.md](deliverables/First_Singularity_January_13th_NOVEL.md) — complete arc, full Edge. Expand middle to ~95k (Hobbit-length) as needed.
+- **Experience:** **Full book in beautiful experience and skins like reading a book.** When delivered, the novel is presented so it feels like reading a real book — beautiful presentation, book-like skins and layout. Confirmed.
 
 ---
 
@@ -45,13 +47,22 @@ This is the **Edge** the novel and movie must deliver to. Generator Motor: origi
 
 ---
 
-## 5. Platform & report
+## 5. Place — Reno Men's Club (bathroom)
+
+- **Book and movie** are **placed in the bathroom of the Reno Men's Club** — a **fine gentlemen's club**, **full restaurant and cabaret**.
+- The novel (*First Singularity January 13th*) and the full feature movie (same title) live there: beautiful experience, book-like skins; accessible during Office Hours at the club. Center holds the whole.
+
+---
+
+## 6. Platform & report
 
 - **Platform:** Executive command goes into **SING!** platform. Full speed. **Ultimate Baller V.** All access. Highest specialized mission payload.
 - **Timer:** Starts at **Now.**
 - **Report at end (Harry / Choo-Choo):** Full snapshot of **what it would have cost Disney** to receive this command and deliver; **what it costs in our plan**; compare cost, time, quality. The magician's trick.
 
 ---
+
+**Report (Harry / Choo-Choo):** [HARRY_REPORT_FIRST_SINGULARITY_VALUATION_US_VS_DISNEY.md](HARRY_REPORT_FIRST_SINGULARITY_VALUATION_US_VS_DISNEY.md) — full book/script status, quality review, expert appraisal, valuation per time minus cost, us vs Disney.
 
 **See:** [episodes/EPISODE_HARRY_HOUDINI_FEB_1_FULL_MOON_MIRACLE.md](episodes/EPISODE_HARRY_HOUDINI_FEB_1_FULL_MOON_MIRACLE.md) · [HARRY_HOUDINI_MAGICIAN_SERIES_MAGIC_CHANNEL_SNAP.md](HARRY_HOUDINI_MAGICIAN_SERIES_MAGIC_CHANNEL_SNAP.md)
 

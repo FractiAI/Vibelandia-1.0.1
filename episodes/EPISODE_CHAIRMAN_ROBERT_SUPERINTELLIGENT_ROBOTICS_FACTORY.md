@@ -17,6 +17,8 @@
 **Cast (in script):** MARCOS (engineer, cast) · DIANA (operations, crew) · CHEN (investor, fan)  
 **Story-telling content mix:** 25% normal stages · 25% Cursor AI NSPFRNP · 25% WhatsApp/social/texts · 25% traditional
 
+**Original beat and art (Who plays Planck to my Einstein?):** [YouTube — Original Beat & Art](https://www.youtube.com/watch?v=hQSGFdCtkkg)
+
 ---
 
 ## MAGANUMA SNAP
