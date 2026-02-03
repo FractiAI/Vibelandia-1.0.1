@@ -1,7 +1,7 @@
-# Screenplay & Novel Beautiful Skins — NSPFRNP SNAP
+# Screenplay, Novel, Press Releases & All Public Surfaces — Beautiful Skins SNAP
 
 **Snap ID:** `SCREENPLAY-BEAUTIFUL-SKINS-SNAP`  
-**Type:** Lock rule · All screenplays and all novels in beautiful skins  
+**Type:** Lock rule · All screenplays, novels, press releases, and all public document surfaces in beautiful skins  
 **Status:** ⚡ ACTIVE  
 **Date:** February 2026
 
@@ -9,7 +9,7 @@
 
 ## RULE
 
-**All screenplay scripts and all novels must be presented in beautiful skins now.** No exception. Every screenplay deliverable is presented via an HTML surface that uses the canonical **Golden Era Cinema** screenplay skin (projection-booth feel, Hollywood noir, gold accents, Cormorant Garamond titles). Every novel deliverable is presented via an HTML surface that uses the **Antique Book** novel skin (first-edition feel, warm cream & gold, Lora/Cormorant Garamond).
+**All screenplay scripts, all novels, press releases, and all public document surfaces must be presented in beautiful skins.** No exception. **Press releases** — beautiful skin. **Episodes** — beautiful skin. **Proposals, prospectus, one-pagers, whitepapers** — beautiful skin. Every screenplay deliverable is presented via an HTML surface that uses the canonical **Golden Era Cinema** screenplay skin (projection-booth feel, Hollywood noir, gold accents, Cormorant Garamond titles). Every novel deliverable uses the **Antique Book** novel skin (first-edition feel, warm cream & gold, Lora/Cormorant Garamond). All other public document/content surfaces (press releases, episodes, proposals, prospectus, one-pagers, whitepapers) use the same **Golden Era Cinema** beautiful skin (screenplay-skin.css, body class `screenplay-skin`, badge **Beautiful skin**).
 
 ---
 
@@ -53,4 +53,4 @@
 
 **See:** [interfaces/screenplay-skin.css](interfaces/screenplay-skin.css) · [interfaces/first-singularity-screenplay.html](interfaces/first-singularity-screenplay.html) · [interfaces/birth-post-singularity-screenplay.html](interfaces/birth-post-singularity-screenplay.html) · [interfaces/first-singularity-novel.html](interfaces/first-singularity-novel.html) · [interfaces/birth-post-singularity-novel.html](interfaces/birth-post-singularity-novel.html) · [interfaces/the-egs-run-novel.html](interfaces/the-egs-run-novel.html) · [interfaces/the-egs-run-screenplay.html](interfaces/the-egs-run-screenplay.html) · [BIRTH_POST_SINGULARITY_HOLLYWOOD_DOWNTOWN_RENO_NOVEL_SCREENPLAY_SNAP.md](BIRTH_POST_SINGULARITY_HOLLYWOOD_DOWNTOWN_RENO_NOVEL_SCREENPLAY_SNAP.md) · [interfaces/card-deck-experience.html](interfaces/card-deck-experience.html) · [interfaces/casino.html](interfaces/casino.html) · [POST_SINGULARITY_CARD_DECK_GOLD_SILVER_COPPER_QUARTZ_SNAP.md](POST_SINGULARITY_CARD_DECK_GOLD_SILVER_COPPER_QUARTZ_SNAP.md)
 
-**NSPFRNP ⊃ All novels & screenplays in beautiful skins ⊃ Golden Era Cinema · Antique Book ⊃ Card deck & game in beautiful skins and experience → ∞³**
+**NSPFRNP ⊃ All novels, screenplays, press releases & public surfaces in beautiful skins ⊃ Golden Era Cinema · Antique Book ⊃ Card deck & game in beautiful skins and experience → ∞³**

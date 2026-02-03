@@ -1,33 +1,35 @@
 <!DOCTYPE html>
-<html lang="en" class="episode-nspfrnp">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>One-Pager — Campus · WINK! · SING! · NSPFRNP | VIBELANDIA RENO!</title>
-    <meta name="description" content="One-pagers — beautifully presented. Same skins and experiences as proposals and episodes. NSPFRNP.">
-    <link rel="stylesheet" href="episode-nspfrnp.css">
+    <meta name="description" content="One-pagers — beautifully presented in beautiful skin. Same skins as proposals, episodes, press releases. NSPFRNP.">
+    <link rel="stylesheet" href="screenplay-skin.css">
 </head>
-<body class="episode-nspfrnp">
-    <article class="ep-prospectus">
-        <nav class="ep-nav-bar">
+<body class="screenplay-skin">
+    <div class="script-wrap">
+        <nav class="script-nav ep-nav-bar">
             <a href="launch-pad.html">← Launch Pad</a><span>·</span>
             <a href="vibelandia-reno-experience.html">Experience</a><span>·</span>
+            <a href="press-releases.html">Press Releases</a><span>·</span>
             <a href="../index.html">Home</a>
         </nav>
 
-        <header class="ep-hero" id="op-hero">
-            <p class="ep-eyebrow" id="op-eyebrow">One-Pagers · Campus · WINK! · SING!</p>
-            <h1 id="op-title"><span class="ep-gradient">One-Pager</span><br>Choose a one-pager</h1>
-            <p class="ep-sub" id="op-sub">All one-pagers — same skins and experiences as proposals and episodes</p>
-            <p class="ep-tagline" id="op-tagline">Metabolize → Crystallize → Animate.</p>
+        <header class="script-marquee ep-hero" id="op-hero">
+            <p class="badge">Golden Era Cinema · One-Pager <span class="badge-beautiful-skin">Beautiful skin</span></p>
+            <p class="ep-eyebrow" id="op-eyebrow" style="font-size: 0.7rem; letter-spacing: 0.35em; text-transform: uppercase; color: rgba(212, 175, 55, 0.9); margin-bottom: 0.5rem;">One-Pagers · Campus · WINK! · SING!</p>
+            <h1 id="op-title">One-Pager<br>Choose a one-pager</h1>
+            <p class="tagline ep-sub" id="op-sub">All one-pagers — same beautiful skin as episodes, proposals, press releases</p>
+            <p class="ep-tagline" id="op-tagline" style="font-size: 0.95rem; color: #a89878; margin-top: 0.5rem;">Metabolize → Crystallize → Animate.</p>
         </header>
 
         <section class="ep-section" id="op-section">
             <div class="ep-section-body">
                 <div class="ep-pull-quote" id="op-pull-quote">
-                    <p id="op-pull-quote-text">Select a one-pager below to read the full document — beautifully presented like Chairman Robert's proposal and all episodes.</p>
+                    <p id="op-pull-quote-text">Select a one-pager below to read the full document — beautifully presented in beautiful skin like episodes and press releases.</p>
                 </div>
-                <p id="op-blurb">Every one-pager is delivered in NSPFRNP format — same prospectus treatment. Campus · WINK! · SING! · Happy Ending Zones · Vibelandia Reno.</p>
+                <p id="op-blurb">Every one-pager is delivered in NSPFRNP format in the same beautiful skin as episodes, proposals, and press releases. Campus · WINK! · SING! · Happy Ending Zones · Vibelandia Reno.</p>
                 <a href="#" id="op-read-link" class="ep-btn-primary" style="display: none;">▶ Read the full one-pager</a>
                 <p style="margin-top: 1rem;"><a href="vibelandia-reno-experience.html" class="ep-btn-back">← Experience</a></p>
                 <p><a href="launch-pad.html" class="ep-btn-back">Launch Pad</a></p>
@@ -78,7 +80,7 @@
         document.title = op.title + ' | VIBELANDIA RENO!';
         document.getElementById('op-eyebrow').textContent = op.eyebrow;
         var titleParts = op.title.indexOf(' — ') !== -1 ? [op.title.split(' — ')[0], op.title.slice(op.title.indexOf(' — ') + 3)] : [op.title, ''];
-        document.getElementById('op-title').innerHTML = '<span class="ep-gradient">' + titleParts[0] + '</span>' + (titleParts[1] ? '<br>' + titleParts[1] : '');
+        document.getElementById('op-title').innerHTML = titleParts[0] + (titleParts[1] ? '<br>' + titleParts[1] : '');
         document.getElementById('op-sub').textContent = op.sub;
         document.getElementById('op-tagline').textContent = op.tagline;
         document.getElementById('op-pull-quote-text').textContent = op.pullQuote;

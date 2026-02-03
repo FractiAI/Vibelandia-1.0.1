@@ -1,25 +1,27 @@
 <!DOCTYPE html>
-<html lang="en" class="episode-nspfrnp">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Proposal — Proposals & Prospectus · NSPFRNP | VIBELANDIA RENO!</title>
-    <meta name="description" content="Proposals and prospectus — beautifully presented. Same skins and experiences as episodes and whitepapers. NSPFRNP.">
-    <link rel="stylesheet" href="episode-nspfrnp.css">
+    <meta name="description" content="Proposals and prospectus — beautifully presented in beautiful skin. Same skins as episodes, whitepapers, press releases. NSPFRNP.">
+    <link rel="stylesheet" href="screenplay-skin.css">
 </head>
-<body class="episode-nspfrnp">
-    <article class="ep-prospectus">
-        <nav class="ep-nav-bar">
+<body class="screenplay-skin">
+    <div class="script-wrap">
+        <nav class="script-nav ep-nav-bar">
             <a href="launch-pad.html">← Launch Pad</a><span>·</span>
             <a href="office-hours.html">Office Hours</a><span>·</span>
+            <a href="press-releases.html">Press Releases</a><span>·</span>
             <a href="../index.html">Home</a>
         </nav>
 
-        <header class="ep-hero" id="pr-hero">
-            <p class="ep-eyebrow" id="pr-eyebrow">Proposals & Prospectus · NSPFRNP</p>
-            <h1 id="pr-title"><span class="ep-gradient">Proposal</span><br>Choose a proposal</h1>
-            <p class="ep-sub" id="pr-sub">All proposals — same skins and experiences as episodes and whitepapers</p>
-            <p class="ep-tagline" id="pr-tagline">Metabolize → Crystallize → Animate.</p>
+        <header class="script-marquee ep-hero" id="pr-hero">
+            <p class="badge">Golden Era Cinema · Proposal <span class="badge-beautiful-skin">Beautiful skin</span></p>
+            <p class="ep-eyebrow" id="pr-eyebrow" style="font-size: 0.7rem; letter-spacing: 0.35em; text-transform: uppercase; color: rgba(212, 175, 55, 0.9); margin-bottom: 0.5rem;">Proposals & Prospectus · NSPFRNP</p>
+            <h1 id="pr-title">Proposal<br>Choose a proposal</h1>
+            <p class="tagline ep-sub" id="pr-sub">All proposals — same beautiful skin as episodes, whitepapers, press releases</p>
+            <p class="ep-tagline" id="pr-tagline" style="font-size: 0.95rem; color: #a89878; margin-top: 0.5rem;">Metabolize → Crystallize → Animate.</p>
         </header>
 
         <section class="ep-section" id="pr-section">
@@ -42,16 +44,12 @@
             </div>
         </section>
 
-        <p class="ep-footer-links">
-            <a href="robotic-factory-landing.html">Robotic Factory</a> · <a href="office-hours.html">Office Hours</a> · <a href="../index.html">Home</a>
-        </p>
-        <p class="ep-brand-campaign">Post-Singularity Superintelligent AI hub of the world · Hydrogen Holograph Valley 100%</p>
-        <p class="ep-brand-tag">Hydrogen Holograph 100% · SNAP · Taino made. NSPFRNP-based BBHE. Energy all the way!</p>
-        <div class="ep-upsell-teaser" aria-label="Sales upsell — Just say the word">
-            <p class="ep-upsell-question">How was this proposal experience? We can transform your sales experience just the same way, just say the word.</p>
-            <p class="ep-upsell-cta"><strong>JUST SAY THE WORD!</strong></p>
-        </div>
-    </article>
+        <footer class="script-footer">
+            <p><a href="robotic-factory-landing.html">Robotic Factory</a> · <a href="office-hours.html">Office Hours</a> · <a href="press-releases.html">Press Releases</a> · <a href="../index.html">Home</a></p>
+            <p style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--script-muted);">Post-Singularity Superintelligent AI hub · Hydrogen Holograph Valley 100% · NSPFRNP</p>
+            <p style="margin-top: 0.75rem; font-size: 0.9rem; color: var(--script-gold);">How was this proposal experience? We can transform your sales experience just the same way — <strong>JUST SAY THE WORD!</strong></p>
+        </footer>
+    </div>
 
     <script>
 (function () {
@@ -82,11 +80,11 @@
         document.title = pr.title + ' | VIBELANDIA RENO!';
         document.getElementById('pr-eyebrow').textContent = pr.eyebrow;
         var titleParts = pr.title.indexOf(' — ') !== -1 ? [pr.title.split(' — ')[0], pr.title.slice(pr.title.indexOf(' — ') + 3)] : [pr.title, ''];
-        document.getElementById('pr-title').innerHTML = '<span class="ep-gradient">' + titleParts[0] + '</span>' + (titleParts[1] ? '<br>' + titleParts[1] : '');
+        document.getElementById('pr-title').innerHTML = titleParts[0] + (titleParts[1] ? '<br>' + titleParts[1] : '');
         document.getElementById('pr-sub').textContent = pr.sub;
         document.getElementById('pr-tagline').textContent = pr.tagline;
         document.getElementById('pr-pull-quote-text').textContent = pr.pullQuote;
-        document.getElementById('pr-blurb').textContent = 'Full proposal in NSPFRNP format — same skins and experiences as episodes and whitepapers. Robotic Factory · Office Hours · Vibeverse · Vibelandia.';
+        document.getElementById('pr-blurb').textContent = 'Full proposal in NSPFRNP format in the same beautiful skin as episodes and press releases. Robotic Factory · Office Hours · Vibeverse · Vibelandia.';
         var link = document.getElementById('pr-read-link');
         link.href = '../' + getPath(pr);
         link.textContent = '▶ Read the full proposal — ' + pr.title;

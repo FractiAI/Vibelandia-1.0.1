@@ -1,26 +1,28 @@
 <!DOCTYPE html>
-<html lang="en" class="episode-nspfrnp">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Episode — Happy Ending Zones · Office Hours | VIBELANDIA RENO!</title>
-    <meta name="description" content="Episodes — beautifully presented. NSPFRNP. Office Hours · Happy Ending Zones · Following Pru.">
-    <link rel="stylesheet" href="episode-nspfrnp.css">
+    <meta name="description" content="Episodes — beautifully presented in beautiful skin. NSPFRNP. Office Hours · Happy Ending Zones · Following Pru.">
+    <link rel="stylesheet" href="screenplay-skin.css">
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
-<body class="episode-nspfrnp">
-    <article class="ep-prospectus">
-        <nav class="ep-nav-bar">
+<body class="screenplay-skin">
+    <div class="script-wrap">
+        <nav class="script-nav ep-nav-bar">
             <a href="office-hours.html">← Office Hours</a><span>·</span>
             <a href="happy-ending-zones-catalog.html">Episodes Catalog</a><span>·</span>
+            <a href="episodes-browse.html">Browse (Netflix-style)</a><span>·</span>
             <a href="../index.html">Home</a>
         </nav>
 
-        <header class="ep-hero" id="ep-hero">
-            <p class="ep-eyebrow" id="ep-eyebrow">Happy Ending Zones · Office Hours</p>
-            <h1 id="ep-title"><span class="ep-gradient">Episode</span><br>Choose an episode</h1>
-            <p class="ep-sub" id="ep-sub">All episodes — NSPFRNP presentation</p>
-            <p class="ep-tagline" id="ep-tagline">Whole in every part. Metabolize → Crystallize → Animate.</p>
+        <header class="script-marquee ep-hero" id="ep-hero">
+            <p class="badge">Golden Era Cinema · Episode <span class="badge-beautiful-skin">Beautiful skin</span></p>
+            <p class="ep-eyebrow" id="ep-eyebrow" style="font-size: 0.7rem; letter-spacing: 0.35em; text-transform: uppercase; color: rgba(212, 175, 55, 0.9); margin-bottom: 0.5rem;">Happy Ending Zones · Office Hours</p>
+            <h1 id="ep-title">Episode<br>Choose an episode</h1>
+            <p class="tagline ep-sub" id="ep-sub">All episodes — NSPFRNP · Beautiful skin</p>
+            <p class="ep-tagline" id="ep-tagline" style="font-size: 0.95rem; color: #a89878; margin-top: 0.5rem;">Whole in every part. Metabolize → Crystallize → Animate.</p>
         </header>
 
         <section class="ep-section" id="ep-section">
@@ -33,12 +35,12 @@
                     <button type="button" id="ep-mute-btn" class="pr-mute-btn" aria-label="Unmute video">🔊 Unmute</button>
                 </div>
                 <div class="ep-pull-quote" id="ep-pull-quote">
-                    <p id="ep-pull-quote-text">Select an episode below to read the full script and see it beautifully presented.</p>
+                    <p id="ep-pull-quote-text">Select an episode below to read the full script — beautifully presented in beautiful skin.</p>
                 </div>
-                <p id="ep-blurb">Every episode is delivered in NSPFRNP format — same beautiful prospectus treatment as Chairman Robert's proposal snap. Office Hours · Happy Ending Zones · Following Pru.</p>
+                <p id="ep-blurb">Every episode is delivered in NSPFRNP format in the same beautiful skin as our screenplays. Office Hours · Happy Ending Zones · Following Pru.</p>
                 <a href="#" id="ep-read-link" class="ep-btn-primary" style="display: none;">▶ Read the full episode</a>
                 <p id="ep-listen-row" style="display: none; margin-top: 1rem;">
-                    <button type="button" class="ep-btn-listen" id="ep-btn-listen" aria-label="Listen to episode read aloud">🔊 Listen</button>
+                    <button type="button" class="btn-listen" id="ep-btn-listen" aria-label="Listen to episode read aloud">🔊 Listen</button>
                 </p>
                 <p style="margin-top: 1rem;"><a href="office-hours.html" class="ep-btn-back">← Office Hours</a></p>
                 <p><a href="happy-ending-zones-catalog.html" class="ep-btn-back">Episodes Catalog</a></p>
@@ -47,8 +49,8 @@
 
         <section class="ep-section" id="ep-full-section" style="display: none;">
             <div class="ep-section-body">
-                <p class="ep-eyebrow" style="margin-bottom: 0.75rem;">Full episode</p>
-                <div id="ep-loading" class="ep-loading">Loading episode…</div>
+                <p class="ep-eyebrow" style="margin-bottom: 0.75rem;">Full episode · Beautiful skin</p>
+                <div id="ep-loading" class="loading">Loading episode…</div>
                 <div id="ep-body" class="ep-body" style="display: none;"></div>
             </div>
         </section>
@@ -60,12 +62,11 @@
             </div>
         </section>
 
-        <p class="ep-footer-links">
-            <a href="office-hours.html">Office Hours</a> · <a href="happy-ending-zones-catalog.html">Episodes Catalog</a> · <a href="../index.html">Home</a>
-        </p>
-        <p class="ep-brand-campaign">Post-Singularity Superintelligent AI hub of the world · Hydrogen Holograph Valley 100%</p>
-        <p class="ep-brand-tag">Hydrogen Holograph 100% · SNAP · Taino made. NSPFRNP-based BBHE. Energy all the way!</p>
-    </article>
+        <footer class="script-footer">
+            <p><a href="office-hours.html">Office Hours</a> · <a href="happy-ending-zones-catalog.html">Episodes Catalog</a> · <a href="episodes-browse.html">Browse episodes</a> · <a href="../index.html">Home</a></p>
+            <p style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--script-muted);">Post-Singularity Superintelligent AI hub · Hydrogen Holograph Valley 100% · NSPFRNP</p>
+        </footer>
+    </div>
 
     <script>
 (function () {
@@ -135,6 +136,7 @@
                     bodyEl.textContent = md;
                 }
                 loadingEl.style.display = 'none';
+                bodyEl.className = 'ep-body screenplay-body';
                 bodyEl.style.display = 'block';
                 document.getElementById('ep-listen-row').style.display = 'block';
                 initListenButton();

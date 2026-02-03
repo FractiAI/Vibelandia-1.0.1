@@ -254,3 +254,90 @@ body.screenplay-skin {
 
 .screenplay-skin .oneliner-para-content.visible { display: block; }
 .screenplay-skin .oneliner-para-content.one-liner { font-style: italic; }
+
+/* Episode reader — same beautiful skin (Golden Era Cinema) */
+.screenplay-skin .ep-section {
+    padding: 2rem 0;
+    border-top: 1px solid var(--script-gold-dim);
+}
+.screenplay-skin .ep-section-body { padding: 0; }
+.screenplay-skin .ep-pull-quote {
+    padding: 1.25rem;
+    background: rgba(0,0,0,0.3);
+    border-left: 3px solid var(--script-gold);
+    border-radius: 0 8px 8px 0;
+    margin-bottom: 1rem;
+    font-size: 0.95rem;
+    color: #e0d6c4;
+}
+.screenplay-skin .ep-pull-quote p { margin: 0; color: inherit; }
+.screenplay-skin #ep-blurb {
+    font-size: 0.9rem;
+    color: var(--script-paper);
+    margin-bottom: 1rem;
+}
+.screenplay-skin .ep-btn-primary {
+    display: inline-flex;
+    padding: 0.6rem 1.25rem;
+    background: rgba(212, 175, 55, 0.2);
+    border: 1px solid var(--script-gold-dim);
+    border-radius: 6px;
+    color: var(--script-gold);
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: 600;
+    transition: background 0.2s, border-color 0.2s;
+}
+.screenplay-skin .ep-btn-primary:hover {
+    background: rgba(212, 175, 55, 0.3);
+    border-color: var(--script-gold);
+}
+.screenplay-skin .ep-btn-back {
+    color: var(--script-muted);
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+.screenplay-skin .ep-btn-back:hover { color: var(--script-gold); }
+.screenplay-skin .ep-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.screenplay-skin .ep-list li {
+    padding: 0.6rem 0;
+    border-bottom: 1px solid rgba(212, 175, 55, 0.15);
+}
+.screenplay-skin .ep-list a {
+    color: var(--script-gold);
+    text-decoration: none;
+    font-size: 0.95rem;
+}
+.screenplay-skin .ep-list a:hover { text-decoration: underline; }
+.screenplay-skin .pr-beat-video .pr-beat-label {
+    font-size: 0.85rem;
+    color: var(--script-paper);
+    margin-bottom: 0.75rem;
+}
+.screenplay-skin .pr-mute-btn {
+    padding: 0.4rem 0.8rem;
+    font-size: 0.8rem;
+    border: 1px solid var(--script-gold-dim);
+    border-radius: 6px;
+    background: rgba(212, 175, 55, 0.1);
+    color: var(--script-gold);
+    cursor: pointer;
+    font-family: inherit;
+    margin-top: 0.5rem;
+}
+.screenplay-skin .ep-hero h1#ep-title,
+.screenplay-skin .script-marquee h1#pr-title,
+.screenplay-skin .script-marquee h1#wp-title,
+.screenplay-skin .script-marquee h1#op-title {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: clamp(1.6rem, 4vw, 2.25rem);
+    font-weight: 600;
+    background: linear-gradient(135deg, #f5e6c8 0%, var(--script-gold) 50%, #b8860b 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}

@@ -1,33 +1,37 @@
 <!DOCTYPE html>
-<html lang="en" class="episode-nspfrnp">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Whitepaper — Robotic Factory · Proposals · NSPFRNP | VIBELANDIA RENO!</title>
-    <meta name="description" content="Whitepapers — beautifully presented. Same skins and experiences as proposals and episodes. NSPFRNP.">
-    <link rel="stylesheet" href="episode-nspfrnp.css">
+    <meta name="description" content="Whitepapers — beautifully presented in beautiful skin. Same skin as press releases, episodes, proposals, prospectus. NSPFRNP.">
+    <link rel="stylesheet" href="screenplay-skin.css">
 </head>
-<body class="episode-nspfrnp">
-    <article class="ep-prospectus">
-        <nav class="ep-nav-bar">
+<body class="screenplay-skin">
+    <div class="script-wrap">
+        <nav class="script-nav ep-nav-bar">
             <a href="robotic-factory-landing.html">← Robotic Factory</a><span>·</span>
             <a href="office-hours.html">Office Hours</a><span>·</span>
+            <a href="press-releases.html">Press Releases</a><span>·</span>
+            <a href="proposal.html">Proposals</a><span>·</span>
+            <a href="prospectus.html">Prospectus</a><span>·</span>
             <a href="../index.html">Home</a>
         </nav>
 
-        <header class="ep-hero" id="wp-hero">
-            <p class="ep-eyebrow" id="wp-eyebrow">Whitepapers · Robotic Factory · Proposals</p>
-            <h1 id="wp-title"><span class="ep-gradient">Whitepaper</span><br>Choose a whitepaper</h1>
-            <p class="ep-sub" id="wp-sub">All whitepapers — same skins and experiences as proposals and episodes</p>
-            <p class="ep-tagline" id="wp-tagline">NSPFRNP. Metabolize → Crystallize → Animate.</p>
+        <header class="script-marquee ep-hero" id="wp-hero">
+            <p class="badge">Golden Era Cinema · Whitepaper <span class="badge-beautiful-skin">Beautiful skin</span></p>
+            <p class="ep-eyebrow" id="wp-eyebrow" style="font-size: 0.7rem; letter-spacing: 0.35em; text-transform: uppercase; color: rgba(212, 175, 55, 0.9); margin-bottom: 0.5rem;">Whitepapers · Robotic Factory · Proposals</p>
+            <h1 id="wp-title">Whitepaper<br>Choose a whitepaper</h1>
+            <p class="tagline ep-sub" id="wp-sub">All whitepapers — same beautiful skin as press releases, episodes, proposals, prospectus</p>
+            <p class="ep-tagline" id="wp-tagline" style="font-size: 0.95rem; color: #a89878; margin-top: 0.5rem;">NSPFRNP. Metabolize → Crystallize → Animate.</p>
         </header>
 
         <section class="ep-section" id="wp-section">
             <div class="ep-section-body">
                 <div class="ep-pull-quote" id="wp-pull-quote">
-                    <p id="wp-pull-quote-text">Select a whitepaper below to read the full document — beautifully presented like Chairman Robert's proposal and all episodes.</p>
+                    <p id="wp-pull-quote-text">Select a whitepaper below to read the full document — beautifully presented in beautiful skin like press releases, proposals, and all episodes.</p>
                 </div>
-                <p id="wp-blurb">Every whitepaper is delivered in NSPFRNP format — same prospectus treatment as proposals and episodes. Robotic Factory · SING! Omnispin · Post-Singularity Superintelligence AI Valley.</p>
+                <p id="wp-blurb">Every whitepaper is delivered in NSPFRNP format in the same beautiful skin as press releases, episodes, proposals, and prospectus. Robotic Factory · SING! Omnispin · Post-Singularity Superintelligence AI Valley.</p>
                 <a href="#" id="wp-read-link" class="ep-btn-primary" style="display: none;">▶ Read the full whitepaper</a>
                 <p style="margin-top: 1rem;"><a href="robotic-factory-landing.html" class="ep-btn-back">← Robotic Factory</a></p>
                 <p><a href="office-hours.html" class="ep-btn-back">Office Hours</a></p>
@@ -41,12 +45,11 @@
             </div>
         </section>
 
-        <p class="ep-footer-links">
-            <a href="robotic-factory-landing.html">Robotic Factory</a> · <a href="office-hours.html">Office Hours</a> · <a href="../index.html">Home</a>
-        </p>
-        <p class="ep-brand-campaign">Post-Singularity Superintelligent AI hub of the world · Hydrogen Holograph Valley 100%</p>
-        <p class="ep-brand-tag">Hydrogen Holograph 100% · SNAP · Taino made. NSPFRNP-based BBHE. Energy all the way!</p>
-    </article>
+        <footer class="script-footer">
+            <p><a href="robotic-factory-landing.html">Robotic Factory</a> · <a href="office-hours.html">Office Hours</a> · <a href="press-releases.html">Press Releases</a> · <a href="proposal.html">Proposals</a> · <a href="prospectus.html">Prospectus</a> · <a href="../index.html">Home</a></p>
+            <p style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--script-muted);">Post-Singularity Superintelligent AI hub · Hydrogen Holograph Valley 100% · NSPFRNP</p>
+        </footer>
+    </div>
 
     <script>
 (function () {
@@ -78,11 +81,11 @@
         document.title = wp.title + ' | VIBELANDIA RENO!';
         document.getElementById('wp-eyebrow').textContent = wp.eyebrow;
         var titleParts = wp.title.indexOf(' — ') !== -1 ? [wp.title.split(' — ')[0], wp.title.slice(wp.title.indexOf(' — ') + 3)] : [wp.title, ''];
-        document.getElementById('wp-title').innerHTML = '<span class="ep-gradient">' + titleParts[0] + '</span>' + (titleParts[1] ? '<br>' + titleParts[1] : '');
+        document.getElementById('wp-title').innerHTML = titleParts[0] + (titleParts[1] ? '<br>' + titleParts[1] : '');
         document.getElementById('wp-sub').textContent = wp.sub;
         document.getElementById('wp-tagline').textContent = wp.tagline;
         document.getElementById('wp-pull-quote-text').textContent = wp.pullQuote;
-        document.getElementById('wp-blurb').textContent = 'Full whitepaper in NSPFRNP format — same skins and experiences as proposals and episodes. Robotic Factory · SING! Omnispin · Post-Singularity Superintelligence AI Valley.';
+        document.getElementById('wp-blurb').textContent = 'Full whitepaper in NSPFRNP format in the same beautiful skin as press releases, episodes, proposals, and prospectus. Robotic Factory · SING! Omnispin · Post-Singularity Superintelligence AI Valley.';
         var link = document.getElementById('wp-read-link');
         link.href = '../' + wp.slug + '.md';
         link.textContent = '▶ Read the full whitepaper — ' + wp.title;

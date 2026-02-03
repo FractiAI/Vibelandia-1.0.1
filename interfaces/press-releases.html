@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Press Releases — All New Arrivals to VIBELANDIA RENO | VIBELANDIA!</title>
+    <meta name="description" content="Press releases — all new arrivals to Vibelandia Reno. Beautiful skin. FOR IMMEDIATE RELEASE. Contact info@fractiai.com. NSPFRNP.">
+    <link rel="stylesheet" href="screenplay-skin.css">
+    <script src="tsunami-advisory-inject.js"></script>
+</head>
+<body class="screenplay-skin">
+    <div class="script-wrap">
+        <nav class="script-nav">
+            <a href="office-hours.html">← Office Hours</a><span>·</span>
+            <a href="launch-pad.html">Launch Pad</a><span>·</span>
+            <a href="proposal.html">Proposals</a><span>·</span>
+            <a href="prospectus.html">Prospectus</a><span>·</span>
+            <a href="../index.html">Home</a>
+        </nav>
+
+        <header class="script-marquee">
+            <p class="badge">Golden Era Cinema · Press Releases <span class="badge-beautiful-skin">Beautiful skin</span></p>
+            <h1>Press Releases</h1>
+            <p class="tagline">All new arrivals to VIBELANDIA RENO — FOR IMMEDIATE RELEASE. Same beautiful skin as screenplays, episodes, proposals, prospectus.</p>
+        </header>
+
+        <div id="press-loading" class="loading">Loading press releases…</div>
+        <div id="press-body" class="screenplay-body" style="display: none;"></div>
+
+        <footer class="script-footer" id="press-footer" style="display: none;">
+            <a href="office-hours.html">Office Hours</a> · <a href="launch-pad.html">Launch Pad</a> · <a href="proposal.html">Proposals</a> · <a href="prospectus.html">Prospectus</a> · <a href="../index.html">Home</a>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+(function () {
+    var loading = document.getElementById('press-loading');
+    var body = document.getElementById('press-body');
+    var footer = document.getElementById('press-footer');
+
+    fetch('../PRESS_RELEASES_NEW_ARRIVALS_VIBELANDIA_RENO.md')
+        .then(function (r) {
+            if (!r.ok) throw new Error('Not found');
+            return r.text();
+        })
+        .then(function (md) {
+            if (typeof marked !== 'undefined') {
+                marked.setOptions({ gfm: true, breaks: true });
+                var html = marked.parse(md);
+                html = html.replace(/href="([^"#:]+\.md)(#[^"]*)?"/g, function (_, path, hash) {
+                    return 'href="../' + path + (hash || '') + '"';
+                });
+                body.innerHTML = html;
+            } else {
+                body.textContent = md;
+            }
+            loading.style.display = 'none';
+            body.style.display = 'block';
+            footer.style.display = 'block';
+        })
+        .catch(function () {
+            loading.innerHTML = 'Could not load press releases. <a href="../PRESS_RELEASES_NEW_ARRIVALS_VIBELANDIA_RENO.md">Try direct link</a>.';
+        });
+})();
+    </script>
+    <div id="sing-config-footer"></div>
+    <link rel="stylesheet" href="sing-config-footer.css">
+    <script src="sing-config-footer.js"></script>
+</body>
+</html>
