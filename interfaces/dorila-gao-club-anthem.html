@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dorila Gao — Club Anthem | Chairman Frankie feat. Dorila | VIBELANDIA!</title>
+    <meta name="description" content="Dorila Gao (The Big Ass That Make All Da Men Go Gaga) — Chairman Frankie feat. Dorila. Club dance anthem. Hero Jo's Golden Ass Studios · Music Studio · Jukebox. Listen · Beautiful skin.">
+    <link rel="stylesheet" href="screenplay-skin.css">
+    <script src="tsunami-advisory-inject.js"></script>
+</head>
+<body class="screenplay-skin">
+    <div class="script-wrap">
+        <nav class="script-nav">
+            <a href="music-studio.html">← Music Studio</a><span>·</span>
+            <a href="ultimate-baller-v-music-channel.html">Music Channel</a><span>·</span>
+            <a href="office-hours.html">Office Hours</a><span>·</span>
+            <a href="../index.html">Home</a>
+        </nav>
+
+        <header class="script-marquee">
+            <p class="badge">Golden Era Cinema · Song <span class="badge-beautiful-skin">Beautiful skin</span></p>
+            <h1>Dorila Gao (The Big Ass That Make All Da Men Go Gaga)</h1>
+            <p class="tagline">Chairman Frankie feat. Dorila — Club dance anthem · SQUEEZE!</p>
+            <div class="oneliner-para-row">
+                <button type="button" class="btn-listen" id="btn-listen" aria-label="Listen to song read aloud">🔊 Listen</button>
+            </div>
+        </header>
+
+        <div id="song-loading" class="loading">Loading song…</div>
+        <div id="song-body" class="screenplay-body" style="display: none;"></div>
+
+        <footer class="script-footer" id="song-footer" style="display: none;">
+            <a href="music-studio.html">← Music Studio</a> · <a href="ultimate-baller-v-music-channel.html">Music Channel</a> · <a href="te-quiero-mucho-baby.html">Te Quiero Mucho Baby</a> · <a href="../index.html">Home</a>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+(function () {
+    var loading = document.getElementById('song-loading');
+    var body = document.getElementById('song-body');
+    var footer = document.getElementById('song-footer');
+
+    fetch('../catalogs/music/dorila-gao-club-anthem.md')
+        .then(function (r) {
+            if (!r.ok) throw new Error('Not found');
+            return r.text();
+        })
+        .then(function (md) {
+            if (typeof marked !== 'undefined') {
+                marked.setOptions({ gfm: true, breaks: true });
+                var html = marked.parse(md);
+                html = html.replace(/href="([^"#:]+\.md)(#[^"]*)?"/g, function (_, path, hash) {
+                    return 'href="../' + path + (hash || '') + '"';
+                });
+                body.innerHTML = html;
+            } else {
+                body.textContent = md;
+            }
+            loading.style.display = 'none';
+            body.style.display = 'block';
+            footer.style.display = 'block';
+            initListen();
+        })
+        .catch(function () {
+            loading.innerHTML = 'Could not load song. <a href="../catalogs/music/dorila-gao-club-anthem.md">Try direct link</a>.';
+        });
+
+    function initListen() {
+        var btn = document.getElementById('btn-listen');
+        var content = document.getElementById('song-body');
+        if (!btn || !content) return;
+        var synth = window.speechSynthesis;
+        var chunks = [], idx = 0;
+        function getChunks() {
+            var text = (content.innerText || content.textContent || '').trim();
+            return text ? text.split(/\n\n+/).filter(function (p) { return p.length > 0; }) : [];
+        }
+        function pickVoice() {
+            var voices = synth.getVoices();
+            var pref = voices.filter(function (v) { var n = (v.name || '').toLowerCase(); return n.indexOf('female') !== -1 || n.indexOf('sabina') !== -1 || n.indexOf('google español') !== -1; });
+            if (pref.length) return pref[0];
+            var es = voices.filter(function (v) { return v.lang && v.lang.indexOf('es') === 0; });
+            return es.length ? es[0] : voices[0];
+        }
+        function speakNext() {
+            if (idx >= chunks.length) {
+                btn.textContent = '🔊 Listen';
+                btn.classList.remove('active');
+                return;
+            }
+            var u = new SpeechSynthesisUtterance(chunks[idx]);
+            u.rate = 0.9;
+            var voice = pickVoice();
+            if (voice) u.voice = voice;
+            u.onend = u.onerror = function () { idx++; speakNext(); };
+            synth.speak(u);
+        }
+        btn.addEventListener('click', function () {
+            if (synth.speaking) { synth.cancel(); btn.textContent = '🔊 Listen'; btn.classList.remove('active'); return; }
+            chunks = getChunks();
+            if (!chunks.length) return;
+            idx = 0;
+            btn.textContent = '⏹ Stop';
+            btn.classList.add('active');
+            if (synth.getVoices().length === 0) synth.onvoiceschanged = function () { speakNext(); };
+            else speakNext();
+        });
+    }
+})();
+    </script>
+    <div id="sing-config-footer"></div>
+    <link rel="stylesheet" href="sing-config-footer.css">
+    <script src="sing-config-footer.js"></script>
+</body>
+</html>

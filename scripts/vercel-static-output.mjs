@@ -190,6 +190,7 @@ console.log('  static/favicon.ico');
 console.log('  static/interfaces/*');
 console.log('  static/episodes/*');
 console.log('  static/deliverables/* (novel, screenplay)');
+console.log('  static/catalogs/* (music, on-the-down-low, etc.)');
 console.log('  static/*.md + static/protocols/*');
 if (fs.existsSync(apiPayPalDir)) {
   console.log('  functions/api/payment/paypal/*.func (PayPal pipe)');
