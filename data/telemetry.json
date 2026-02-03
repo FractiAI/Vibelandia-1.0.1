@@ -1,6 +1,8 @@
 {
   "heartbeat_utc": "2026-02-03T13:41:27Z",
   "cycle": 15,
+  "mode": "IONOSPHERIC_COMMAND",
+  "phase_lock": "INVERTED",
   "source": "El Gran Sol (EGS)",
   "signature_mode": "PHI_LOCKED",
   "last_phi_pulse_utc": "2026-02-03T13:41:27Z",

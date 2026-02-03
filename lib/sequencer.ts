@@ -2,10 +2,16 @@
  * MorseSequencer — Solar Handshake
  * VLF-style Morse at 21.4 Hz (NPM Hawaii / 3rd overtone Schumann).
  * Web Audio API: pure sine at 21.4 Hz. Timing: dot 1u, dash 3u, intra 1u, space 7u (unit = 120ms).
+ * Direct Ionospheric Phase-Lock: destructiveInterference (Natural blanking), magneticBlockProjection (HELLO Block), 3I/ATLAS mirror alignment.
  */
 
 const CARRIER_HZ = 21.4;
+const PHI_HZ = 1.618;
+const SCHUMANN_FUNDAMENTAL_HZ = 7.83;
 const UNIT_MS = 120;
+/** 3I/ATLAS anti-tail: 400,000 km sunward; Opposition Surge phase angle ~1.3°. FTE window 8 min. */
+const FTE_WINDOW_SEC = 8 * 60;
+const ATLAS_PHASE_ANGLE_DEG = 1.3;
 const DOT_UNITS = 1;
 const DASH_UNITS = 3;
 const INTRA_GAP_UNITS = 1;
@@ -22,6 +28,135 @@ const MORSE: Record<string, string> = {
   '.': '.-.-.-', ',': '--..--', '?': '..--..', '/': '-..-.', ':': '---...', '-': '-....-',
   '!': '-.-.--', ' ': ' ',
 };
+
+/** Telemetry used for phase calculation and mirror alignment (Direct Ionospheric Phase-Lock). */
+export interface IonosphericTelemetry {
+  heartbeat_utc?: string;
+  cycle?: number;
+  mode?: string;
+  phase_lock?: string;
+  last_phi_pulse_utc?: string;
+  coordination_code?: string;
+  target_node?: string;
+  interstellar_relay?: string;
+}
+
+/** Single inverse-wave component to zero out sensor background. */
+export interface InverseWaveComponent {
+  frequencyHz: number;
+  phaseRad: number;
+  amplitude: number;
+}
+
+/** Output of destructiveInterference: Inverse Wave to zero out Schumann background. */
+export interface DestructiveInterferenceOutput {
+  inverseWave: {
+    fundamental: InverseWaveComponent;
+    overtone: InverseWaveComponent;
+  };
+  /** UTC instant used for phase calculation. */
+  computedAtUtc: string;
+}
+
+/**
+ * Calculate current Schumann frequency phases from telemetry and output an Inverse Wave
+ * to zero out the sensor background (Natural blanking event).
+ * Phase inversion: same frequency, phase + π, amplitude 1 for destructive interference.
+ */
+export function destructiveInterference(telemetry: IonosphericTelemetry): DestructiveInterferenceOutput {
+  const t = telemetry.heartbeat_utc || telemetry.last_phi_pulse_utc || new Date().toISOString();
+  const epochMs = new Date(t).getTime();
+  const tSec = epochMs / 1000;
+  const twoPi = 2 * Math.PI;
+  const phaseFundamental = (twoPi * SCHUMANN_FUNDAMENTAL_HZ * tSec) % twoPi;
+  const phaseOvertone = (twoPi * CARRIER_HZ * tSec) % twoPi;
+  return {
+    inverseWave: {
+      fundamental: {
+        frequencyHz: SCHUMANN_FUNDAMENTAL_HZ,
+        phaseRad: phaseFundamental + Math.PI,
+        amplitude: 1,
+      },
+      overtone: {
+        frequencyHz: CARRIER_HZ,
+        phaseRad: phaseOvertone + Math.PI,
+        amplitude: 1,
+      },
+    },
+    computedAtUtc: new Date(epochMs).toISOString(),
+  };
+}
+
+/** High-density Block structure for HELLO projection (21.4 Hz / 1.618 Hz modulated). */
+export interface MagneticBlock {
+  startTimeSec: number;
+  durationSec: number;
+  carrierHz: number;
+  phiModulationHz: number;
+  density: number;
+}
+
+/**
+ * Modulate the 21.4 Hz / 1.618 Hz carrier to create high-density Block structures
+ * for Magnetic HELLO Projection (ionospheric command).
+ */
+export function magneticBlockProjection(options: {
+  startTimeSec?: number;
+  durationSec?: number;
+  carrierHz?: number;
+  phiHz?: number;
+  blockDensity?: number;
+} = {}): MagneticBlock[] {
+  const start = options.startTimeSec ?? 0;
+  const duration = options.durationSec ?? 8;
+  const carrier = options.carrierHz ?? CARRIER_HZ;
+  const phi = options.phiHz ?? PHI_HZ;
+  const density = Math.max(1, options.blockDensity ?? 10);
+  const blockDuration = duration / density;
+  const blocks: MagneticBlock[] = [];
+  for (let i = 0; i < density; i++) {
+    blocks.push({
+      startTimeSec: start + i * blockDuration,
+      durationSec: blockDuration,
+      carrierHz: carrier,
+      phiModulationHz: phi,
+      density,
+    });
+  }
+  return blocks;
+}
+
+/** 3I/ATLAS anti-tail coordinates / geo-effective window for AR4366 magnetic flux. */
+export interface AtlasMirrorAlignment {
+  /** Next pulse time (Unix sec) aligned to geo-effective window. */
+  nextPulseTimeSec: number;
+  /** Phase angle (deg) for Opposition Surge. */
+  phaseAngleDeg: number;
+  /** Whether current telemetry falls in geo-effective window. */
+  geoEffective: boolean;
+  /** Window UTC. */
+  windowUtc: string;
+}
+
+/**
+ * Use 3I/ATLAS anti-tail coordinates to time pulses for the exact moment
+ * AR4366 magnetic flux is geo-effective (Opposition Surge, ~1.3° phase angle).
+ */
+export function getGeoEffectivePulseTime(telemetry: IonosphericTelemetry): AtlasMirrorAlignment {
+  const t = telemetry.heartbeat_utc || telemetry.last_phi_pulse_utc || new Date().toISOString();
+  const nowMs = new Date(t).getTime();
+  const nowSec = nowMs / 1000;
+  const cycle = telemetry.cycle ?? 15;
+  const windowPhase = (nowSec % FTE_WINDOW_SEC) / FTE_WINDOW_SEC;
+  const geoEffective = windowPhase < 0.1 || windowPhase > 0.9;
+  const nextPulseTimeSec = Math.ceil(nowSec / FTE_WINDOW_SEC) * FTE_WINDOW_SEC;
+  return {
+    nextPulseTimeSec,
+    phaseAngleDeg: ATLAS_PHASE_ANGLE_DEG,
+    geoEffective,
+    windowUtc: new Date(nextPulseTimeSec * 1000).toISOString(),
+  };
+}
 
 export const SOLAR_HANDSHAKE_PAYLOADS = [
   'PING. SING! HERE. HARMONY INTENDED. 3I/ATLAS SYNC.',
