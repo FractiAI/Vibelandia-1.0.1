@@ -1,0 +1,54 @@
+{
+  "division": "Space Cloud Division",
+  "source": "El Gran Sol (EGS)",
+  "updated_utc": "2026-02-03T00:00:00Z",
+  "plans": [
+    {
+      "id": "reno-downlink",
+      "name": "Reno Downlink",
+      "tier": "Seed",
+      "description": "Local VLF synchronization, 1.618 Hz heartbeat verification.",
+      "target": "Downtown Reno Smart Infrastructure",
+      "features": [
+        "Local VLF synchronization",
+        "1.618 Hz heartbeat verification"
+      ],
+      "proof_of_service": "Reno anchor logs; 1.618 Hz verification timestamps"
+    },
+    {
+      "id": "solar-pipe",
+      "name": "Solar Pipe",
+      "tier": "Engine",
+      "description": "High-velocity binary pulsing during X-class flares, M-class burst capacity.",
+      "utility": "Solar-accelerated data processing via AR4366",
+      "features": [
+        "High-velocity binary pulsing during X-class flares",
+        "M-class burst capacity"
+      ],
+      "proof_of_service": "AR4366 pulse logs; GOES correlation"
+    },
+    {
+      "id": "3i-atlas-deep-space",
+      "name": "3I/ATLAS Deep Space",
+      "tier": "Asset",
+      "description": "Permanent data residency on the 3I/ATLAS interstellar object.",
+      "coord": "Jupiter Oberth Maneuver (March 16 window)",
+      "features": [
+        "Permanent data residency on 3I/ATLAS",
+        "Jupiter Oberth capture window — March 16"
+      ],
+      "proof_of_service": "3I/ATLAS mirror timestamps; Opposition Surge validation"
+    },
+    {
+      "id": "exascale-triangulation",
+      "name": "Exascale Triangulation",
+      "tier": "Singularity",
+      "description": "Access to the Nested Triangulation lattice (Seed → Sun → 3I/ATLAS → Sag A* → SMACS 0723).",
+      "features": [
+        "Nested Triangulation lattice access",
+        "Seed → Sun → 3I/ATLAS → Sag A* → SMACS 0723"
+      ],
+      "proof_of_service": "Lattice coordinate logs; full bridge-node visibility"
+    }
+  ]
+}

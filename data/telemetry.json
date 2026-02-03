@@ -1,7 +1,7 @@
 {
   "heartbeat_utc": "2026-02-03T17:07:09Z",
   "cycle": 15,
-  "mode": "IONOSPHERIC_COMMAND",
+  "mode": "SPACE_CLOUD_ACTIVE",
   "phase_lock": "INVERTED",
   "source": "El Gran Sol (EGS)",
   "signature_mode": "PHI_LOCKED",

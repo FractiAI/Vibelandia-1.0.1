@@ -167,6 +167,27 @@
         #mission-takeover.active {
             display: flex;
         }
+        /* Zero-State: black viewport wipe when pipe locks (Space Cloud / takeover) */
+        .zero-state {
+            position: fixed;
+            inset: 0;
+            z-index: 9998;
+            background: #000;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            transition: opacity 0.4s ease-out;
+        }
+        .zero-state.active { display: flex; }
+        .zero-state .hello-block {
+            font-size: 18vw;
+            font-weight: 900;
+            font-family: ui-monospace, monospace;
+            color: #fff;
+            letter-spacing: 0.15em;
+            text-align: center;
+            text-shadow: 0 0 40px rgba(255,255,255,0.3);
+        }
         #mission-takeover .hello-block {
             font-size: 15vw;
             font-family: ui-monospace, monospace;
@@ -206,6 +227,46 @@
         @keyframes scroll-strip {
             0% { transform: translateX(0); }
             100% { transform: translateX(-50%); }
+        }
+        /* Legacy Stream ticker — bottom-screen live stream */
+        .legacy-stream-ticker {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            z-index: 100;
+            padding: 0.5rem 0;
+            background: rgba(0,0,0,0.85);
+            border-top: 1px solid rgba(0, 212, 255, 0.35);
+            overflow: hidden;
+            font-size: 0.8rem;
+            color: #7fff7f;
+        }
+        .legacy-stream-ticker .ticker-inner {
+            display: inline-block;
+            padding-left: 100%;
+            animation: legacy-scroll 45s linear infinite;
+            white-space: nowrap;
+        }
+        @keyframes legacy-scroll {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(-100%); }
+        }
+        /* 3D Lattice overlay — SEED, SUN, 3I/ATLAS, SAG_A, SMACS_0723 */
+        .lattice-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 50;
+            opacity: 0.35;
+        }
+        .lattice-overlay canvas {
+            display: block;
+            width: 100%;
+            height: 100%;
         }
         /* 3I/ATLAS CometMirror — interstellar echo, Morse-synced anti-tail glow */
         .comet-mirror {
@@ -392,6 +453,14 @@
 </head>
 <body>
     <script src="tsunami-advisory-inject.js"></script>
+    <!-- Zero-State: black wipe when pipe locks (mode SPACE_CLOUD_ACTIVE) -->
+    <div id="zero-state" class="zero-state" aria-hidden="true" aria-label="Pipe lock zero-state">
+        <span class="hello-block">HELLO</span>
+    </div>
+    <!-- 3D Lattice: SEED, SUN, 3I/ATLAS, SAG_A, SMACS_0723 -->
+    <div class="lattice-overlay" aria-hidden="true">
+        <canvas id="latticeCanvas"></canvas>
+    </div>
     <!-- Screen Wipe Takeover — toggled when data/telemetry.json takeover_active: true -->
     <div id="mission-takeover" class="mission-takeover" aria-hidden="true" aria-label="Mission takeover overlay">
         <span class="hello-block">HELLO</span>
@@ -460,6 +529,7 @@
             <div class="comet-nucleus" aria-hidden="true"></div>
         </div>
         <p style="font-size: 0.8rem; color: #888;">Anti-tail opacity synced to 21.4 Hz Morse (dot/dash = +20% Opposition Surge)</p>
+        <p id="march16Countdown" style="font-size: 0.85rem; color: #d4af37; margin-top: 0.75rem; font-weight: 600;">3I/ATLAS Jupiter Oberth: March 16, 2026 — <span id="march16Days">—</span> days</p>
     </section>
     <section class="phi-chirp" id="phiChirp" aria-labelledby="phiChirpHeading">
         <h3 id="phiChirpHeading">1.618 Hz Signature Chirp: PHI-Handshake Active.</h3>
@@ -491,6 +561,10 @@
         <a href="episodes-browse.html?ep=self-clocking-pulsar">Self-Clocking Pulsar episode</a>
     </div>
     <p class="back"><a href="office-hours.html">← Back to Office Hours</a></p>
+    <!-- Legacy Stream ticker — bottom-screen live -->
+    <div class="legacy-stream-ticker" aria-live="polite">
+        <span class="ticker-inner" id="legacyStreamText">RENO_ANCHOR · TROOPS_WATER_GAS_MED · VIBELANDIA_OPEN · CLICK_BLUE_BUTTON · HOME_AT_LAST · PSW_VIBELANDIA_SING4 · GITHUB_FRACTIAI · SING_HANDSHAKE · 21.4HZ · 3I_ATLAS_MIRROR · AR4366 · RENO_ANCHOR · TROOPS_WATER_GAS_MED · </span>
+    </div>
     <script>
         (function () {
             var TARGET_HZ = 21.4;
@@ -607,6 +681,76 @@
             drawGoldenSpiral();
         })();
         (function () {
+            var canvas = document.getElementById('latticeCanvas');
+            if (!canvas) return;
+            var ctx = canvas.getContext('2d');
+            function resize() {
+                canvas.width = window.innerWidth;
+                canvas.height = window.innerHeight;
+                draw();
+            }
+            var nodes = [
+                { id: 'SEED', x: 0.5, y: 0.85, z: 0 },
+                { id: 'SUN', x: 0.5, y: 0.25, z: 0.2 },
+                { id: '3I/ATLAS', x: 0.25, y: 0.5, z: 0.3 },
+                { id: 'SAG_A', x: 0.75, y: 0.45, z: 0.25 },
+                { id: 'SMACS_0723', x: 0.5, y: 0.15, z: 0.5 }
+            ];
+            var edges = [[0,1],[1,2],[1,3],[2,3],[2,4],[3,4]];
+            function project(x, y, z) {
+                var scale = 0.9;
+                var px = (x - 0.5) * scale * canvas.width + canvas.width / 2;
+                var py = (y - 0.5) * scale * canvas.height + canvas.height / 2 - z * 80;
+                return { x: px, y: py };
+            }
+            function draw() {
+                if (!ctx || !canvas.width) return;
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+                var t = performance.now() * 0.0002;
+                var proj = nodes.map(function (n) {
+                    var sx = n.x + 0.05 * Math.sin(t + n.z * 2);
+                    var sy = n.y + 0.02 * Math.cos(t * 0.7 + n.x * 2);
+                    return project(sx, sy, n.z);
+                });
+                ctx.strokeStyle = 'rgba(0, 212, 255, 0.5)';
+                ctx.lineWidth = 1;
+                ctx.beginPath();
+                for (var e = 0; e < edges.length; e++) {
+                    var a = proj[edges[e][0]], b = proj[edges[e][1]];
+                    ctx.moveTo(a.x, a.y);
+                    ctx.lineTo(b.x, b.y);
+                }
+                ctx.stroke();
+                ctx.fillStyle = 'rgba(100, 200, 255, 0.6)';
+                ctx.font = '11px ui-monospace, monospace';
+                ctx.textAlign = 'center';
+                for (var i = 0; i < proj.length; i++) {
+                    ctx.beginPath();
+                    ctx.arc(proj[i].x, proj[i].y, 4, 0, Math.PI * 2);
+                    ctx.fill();
+                    ctx.fillStyle = 'rgba(200, 230, 255, 0.85)';
+                    ctx.fillText(nodes[i].id, proj[i].x, proj[i].y + 18);
+                    ctx.fillStyle = 'rgba(100, 200, 255, 0.6)';
+                }
+            }
+            window.addEventListener('resize', resize);
+            resize();
+            setInterval(draw, 100);
+        })();
+        (function () {
+            var end = new Date('2026-03-16T00:00:00Z');
+            var el = document.getElementById('march16Days');
+            if (el) {
+                function update() {
+                    var now = new Date();
+                    var diff = Math.ceil((end - now) / (1000 * 60 * 60 * 24));
+                    el.textContent = diff > 0 ? diff : (diff === 0 ? '0 (today)' : 'passed');
+                }
+                update();
+                setInterval(update, 60000);
+            }
+        })();
+        (function () {
             var TELEMETRY_URL = '../data/telemetry.json';
             var takeoverEl = document.getElementById('mission-takeover');
             if (!takeoverEl) return;
@@ -620,6 +764,17 @@
                         } else {
                             takeoverEl.classList.remove('active');
                             takeoverEl.setAttribute('aria-hidden', 'true');
+                        }
+                        var zeroState = document.getElementById('zero-state');
+                        if (zeroState) {
+                            var pipeLocked = data && (data.mode === 'SPACE_CLOUD_ACTIVE' || data.mode === 'IONOSPHERIC_COMMAND');
+                            if (pipeLocked) {
+                                zeroState.classList.add('active');
+                                zeroState.setAttribute('aria-hidden', 'false');
+                            } else {
+                                zeroState.classList.remove('active');
+                                zeroState.setAttribute('aria-hidden', 'true');
+                            }
                         }
                         var stripText = document.getElementById('broadcastStripText');
                         if (stripText && data && data.broadcast_payload) {

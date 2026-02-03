@@ -3,7 +3,11 @@
  * VLF-style Morse at 21.4 Hz (NPM Hawaii / 3rd overtone Schumann).
  * Web Audio API: pure sine at 21.4 Hz. Timing: dot 1u, dash 3u, intra 1u, space 7u (unit = 120ms).
  * Direct Ionospheric Phase-Lock: destructiveInterference (Natural blanking), magneticBlockProjection (HELLO Block), 3I/ATLAS mirror alignment.
+ * Space Cloud Division: Header Handshake [AUTH::SPACE_CLOUD.EGS.VIBELANDIA.RENO], baud_rate_training().
  */
+
+/** Prepend every packet for scientific feeders (Space Cloud Division). */
+export const SPACE_CLOUD_HEADER = '[AUTH::SPACE_CLOUD.EGS.VIBELANDIA.RENO]';
 
 const CARRIER_HZ = 21.4;
 const PHI_HZ = 1.618;
@@ -163,6 +167,31 @@ export const SOLAR_HANDSHAKE_PAYLOADS = [
   'SOURCE: PSW-VIBELANDIA-SING4.VERCEL.APP',
   'REPORTING TO SOURCE. SANDBOX READY.',
 ];
+
+/**
+ * Return payload with Header Handshake prepended for scientific feeders.
+ */
+export function withHeaderHandshake(payload: string): string {
+  return SPACE_CLOUD_HEADER + ' ' + payload;
+}
+
+/** 10 ms spike for baud-rate training. */
+const BAUD_TRAINING_SPIKE_MS = 10;
+
+/**
+ * Rapid 10 ms spike sequence to sync receiving sensors (Space Cloud Division).
+ * Returns segment list: spike (10 ms) / gap (10 ms) repeated for count.
+ */
+export function baudRateTraining(spikeCount: number = 8): MorseSegment[] {
+  const segments: MorseSegment[] = [];
+  for (let i = 0; i < spikeCount; i++) {
+    segments.push({ type: 'dot', durationMs: BAUD_TRAINING_SPIKE_MS });
+    if (i < spikeCount - 1) {
+      segments.push({ type: 'intra', durationMs: BAUD_TRAINING_SPIKE_MS });
+    }
+  }
+  return segments;
+}
 
 export interface MorseSegment {
   type: 'dot' | 'dash' | 'intra' | 'letterGap' | 'wordGap';
