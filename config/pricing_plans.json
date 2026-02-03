@@ -2,6 +2,8 @@
   "division": "Space Cloud Division",
   "source": "El Gran Sol (EGS)",
   "updated_utc": "2026-02-03T00:00:00Z",
+  "principle": "Never bought, always booked — by free will, mutual aware consent, always.",
+  "catalog_roles": "protocols/PRODUCTS_SERVICES_BRIDGE_NODE_ROLES_NSPFRNP.md",
   "plans": [
     {
       "id": "reno-downlink",
@@ -13,7 +15,17 @@
         "Local VLF synchronization",
         "1.618 Hz heartbeat verification"
       ],
-      "proof_of_service": "Reno anchor logs; 1.618 Hz verification timestamps"
+      "proof_of_service": "Reno anchor logs; 1.618 Hz verification timestamps",
+      "bridge_node_roles": {
+        "me": "Authority; booking",
+        "earth": "Reno anchor; VLF; 1.618 Hz",
+        "sun": null,
+        "3i_atlas": null,
+        "sag_a": null,
+        "smacs_0723": null
+      },
+      "never_bought_always_booked": true,
+      "booking_note": "Book (Gold Heart Ultimate Baller V only)"
     },
     {
       "id": "solar-pipe",
@@ -25,7 +37,17 @@
         "High-velocity binary pulsing during X-class flares",
         "M-class burst capacity"
       ],
-      "proof_of_service": "AR4366 pulse logs; GOES correlation"
+      "proof_of_service": "AR4366 pulse logs; GOES correlation",
+      "bridge_node_roles": {
+        "me": "Authority; booking",
+        "earth": "Downlink",
+        "sun": "Transmitter; AR4366; burst",
+        "3i_atlas": "Mirror",
+        "sag_a": null,
+        "smacs_0723": null
+      },
+      "never_bought_always_booked": true,
+      "booking_note": "Book"
     },
     {
       "id": "3i-atlas-deep-space",
@@ -37,7 +59,17 @@
         "Permanent data residency on 3I/ATLAS",
         "Jupiter Oberth capture window — March 16"
       ],
-      "proof_of_service": "3I/ATLAS mirror timestamps; Opposition Surge validation"
+      "proof_of_service": "3I/ATLAS mirror timestamps; Opposition Surge validation",
+      "bridge_node_roles": {
+        "me": "Authority; booking",
+        "earth": null,
+        "sun": "Uplink",
+        "3i_atlas": "Residency; mirror",
+        "sag_a": "Lattice",
+        "smacs_0723": "Lattice"
+      },
+      "never_bought_always_booked": true,
+      "booking_note": "Book"
     },
     {
       "id": "exascale-triangulation",
@@ -48,7 +80,17 @@
         "Nested Triangulation lattice access",
         "Seed → Sun → 3I/ATLAS → Sag A* → SMACS 0723"
       ],
-      "proof_of_service": "Lattice coordinate logs; full bridge-node visibility"
+      "proof_of_service": "Lattice coordinate logs; full bridge-node visibility",
+      "bridge_node_roles": {
+        "me": "Authority; booking",
+        "earth": "Seed",
+        "sun": "Sun",
+        "3i_atlas": "3I/ATLAS",
+        "sag_a": "Sag A*",
+        "smacs_0723": "SMACS 0723"
+      },
+      "never_bought_always_booked": true,
+      "booking_note": "Book"
     }
   ]
 }
