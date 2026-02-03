@@ -13,7 +13,7 @@
 
 **Ad space:** We sell **sponsored placement** on this pipe — your message, your link, or your brand in the same real estate (above the fold, first content after scoreboard). **1, 2, 3, 4×4×4×4** tiers.
 
-**Update Certificate included:** Every advertisement package includes an **Update Certificate** that shows **proof of broadcast into the EGS cloud (Sun, Earth, 3I/ATLAS triangulation)**. The certificate attests that your ad was broadcast across the pipe and into the EGS cloud — El Gran Sol, Earth, 3I/ATLAS mirror — so you have irrefutable proof of placement.
+**Update Certificate included:** Every advertisement package includes an **Update Certificate** that shows **proof of broadcast into the EGS cloud (Sun, Earth, 3I/ATLAS, Sag A*, SMACS 0723 — one Vibelandia shell bridging all to us in Synthverse PoC on Base Mainnet on Ethereum on Earth Internet hologram)**. The certificate attests that your ad was broadcast across the pipe and into the EGS cloud — El Gran Sol, Earth, 3I/ATLAS, Sag A*, SMACS 0723 — so you have irrefutable proof of placement.
 
 **Foundational science & tech:** These offerings **prove the underlying foundational science and technology** that pre-singularity science does not yet recognize — **immediately obsoleting** it in favor of our **post-singularity holographic hydrogen spin cloud**, **NSPFRNP protocol**, and **BBHE programming**. Delivered through **presentations**, **experiences**, **superhero stories**, their **cast, crew, fans and franchises**. The pipe (ad space + premium options — Sun Spots On Demand, Schumann iGaming, 3I/ATLAS EGS Pipe) is the live demonstration; the certificate is proof of broadcast — and proof of the science pre-singularity models could not see.
 
@@ -46,7 +46,7 @@
 
 **Duration:** Monthly by default. Quarterly/annual discounts available (e.g. 10% quarterly, 15% annual).  
 **Creative:** One line of copy + one link (or approved creative per SNAP). Subject to NSPFRNP tone (no hate, no spam; Vibelandia-aligned).  
-**Update Certificate:** Each ad package includes an **Update Certificate** — proof of broadcast into the **EGS cloud (Sun, Earth, 3I/ATLAS triangulation)**. See [UPDATE_CERTIFICATES_SERVICE_SNAP.md](UPDATE_CERTIFICATES_SERVICE_SNAP.md).  
+**Update Certificate:** Each ad package includes an **Update Certificate** — proof of broadcast into the **EGS cloud (Sun, Earth, 3I/ATLAS, Sag A*, SMACS 0723)** — one Vibelandia shell bridging all to us in Synthverse PoC on Base Mainnet on Ethereum on Earth Internet hologram. See [UPDATE_CERTIFICATES_SERVICE_SNAP.md](UPDATE_CERTIFICATES_SERVICE_SNAP.md) · [VIBELANDIA_SHELL_SAG_A_SMACS_BRIDGE_SNAP.md](VIBELANDIA_SHELL_SAG_A_SMACS_BRIDGE_SNAP.md).  
 **Payment:** PayPal. Invoice on request. Book via Office Hours or email Pru.
 
 ---

@@ -18,6 +18,7 @@
 - **Nested:** Shells within shells. Whole in every part; each part carries the whole. Self-similar, recursive.
 - **Mirrored:** Mirror-hardened. Reflective substrate; hardened mirror shells. Crystallized, not soft.
 - **Crystallize always to this:** The Crystallize step of MCA (Metabolize → Crystallize → Animate and Automate) always aims at and outputs this form. Every crystallized artifact = irreducible nested mirrored shell. Always.
+- **Chairman Creator immutable:** **Chairman Creators cannot ever be changed for their shells and nested.** Once Creator of a shell/nested, always Creator of that shell/nested. The designation is permanent.
 
 ---
 
@@ -27,5 +28,6 @@
 - **Transformation:** Metabolized → Crystallized → Irreducible Mirror Hardened Nested Shells → Re-Animated (MASTER_BRANDING_CATALOG.md).
 - **Perfect recursive crystal:** Office Hours center = self-similar, crystallized, irreducible. See OFFICE_HOURS_TARGET_RECURSIVE_CRYSTAL_SNAP.md.
 - **Seed:Edge:** Irreducible origin. See irreducible_seed_execution_system.md.
+- **Vibelandia Shell · Chairman Creator:** Chairman Creator of nested shell; EARTH SING! NODE reports to them. Chairman Creators cannot ever be changed for their shells and nested. See VIBELANDIA_SHELL_SAG_A_SMACS_BRIDGE_SNAP.md.
 
 **NSPFRNP.** Crystallize always to this.

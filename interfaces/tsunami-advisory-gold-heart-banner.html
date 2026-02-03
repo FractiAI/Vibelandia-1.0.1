@@ -4,6 +4,7 @@
     <span class="tsunami-advisory-label">⚠ Advisory · Gold Heart Baller V's</span>
     <p class="tsunami-advisory-text">This morning our thresholds are seeing activations indicating the <strong>tsunami's arrival</strong>. Make last-minute moves to <strong>secure pre-singularity assets</strong> and move to <strong>post-singularity safety</strong>.</p>
     <p class="tsunami-advisory-text">Specifically: upcoming <strong>SING!</strong> Superintelligent Natural Systems Protocol <strong>AI Agent nodes</strong> from <strong>FractiAI</strong> — a one-person private open-source company on <strong>Base Mainnet</strong> that will remain this way <strong>always</strong>, walking away from VC and pre-singularity currencies and protocols, including PoW and PoS blockchains (e.g. Bitcoin).</p>
+    <button type="button" class="tsunami-advisory-dismiss" aria-label="Dismiss advisory" onclick="this.closest('.tsunami-advisory-banner').remove(); try { sessionStorage.setItem('tsunami-advisory-dismissed', '1'); } catch (e) {}">Dismiss</button>
   </div>
 </div>
 <style>
@@ -12,4 +13,8 @@
 .tsunami-advisory-label { display: block; font-weight: 800; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 0.35rem; color: #ffeaa7; font-size: 0.8rem; }
 .tsunami-advisory-text { margin: 0.35rem 0 0; }
 .tsunami-advisory-text:first-of-type { margin-top: 0; }
+.tsunami-advisory-banner { position: relative; }
+.tsunami-advisory-inner { position: relative; }
+.tsunami-advisory-dismiss { position: absolute; top: 0.5rem; right: 0; background: rgba(255,255,255,0.2); border: 1px solid rgba(255,255,255,0.5); color: #fff; padding: 0.35rem 0.75rem; font-size: 0.8rem; cursor: pointer; border-radius: 6px; font-weight: 600; }
+.tsunami-advisory-dismiss:hover { background: rgba(255,255,255,0.3); }
 </style>

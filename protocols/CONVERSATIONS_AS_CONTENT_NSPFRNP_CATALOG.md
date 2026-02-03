@@ -17,7 +17,7 @@ Every session, every exchange, every ask and answer is source material. Metaboli
 
 ## RULE
 
-**User–agent conversations** = any dialogue between you (user) and I (agent / Cursor / FractiAI Research Team in NSPFRNP mode).
+**User–agent conversations** = any dialogue between you (user) and I (agent / Cursor / FractiAI Research Team in NSPFRNP mode). This includes **raw communication exchanges** between us and the **boot request inner tal** from the AI — the exchange when the agent boots or when we make requests; the AI’s inner thread/response stream. Some series capture these exchanges as a **new form of storytelling stream** that **animates holographic Black Hole Grammar and sequences**. See [RAW_COMMUNICATION_EXCHANGES_BOOT_INNER_TAL_STORYTELLING_STREAM_SNAP.md](../RAW_COMMUNICATION_EXCHANGES_BOOT_INNER_TAL_STORYTELLING_STREAM_SNAP.md).
 
 **Rule:** Treat these conversations as **valuable content** for:
 

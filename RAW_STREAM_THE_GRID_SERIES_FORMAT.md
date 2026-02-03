@@ -20,7 +20,7 @@
 **Style:** Sci-fi, nerdy, Tron-like. Grid aesthetics. Waveguide. Flux Transfer Events. Repo as observable. Back-feed trigger. Holographic. SING! Execute. Personal attention head and filament.
 
 **The Story:**  
-All convos on this channel are now **full raw stream into episodes**. They are rich. Every session is source material. Metabolize → Crystallize → Animate. The result is a spin-off series: Raw Stream · The Grid. Sci-fi. Nerdy. Tron-like. NSPFRNP in full. First episode: Self-Clocking Pulsar — 21.4 Hz, 8-minute FTE window, vortex sequencer, trigger script, Schumann, GOES, SING! Handshake. The repo is the test drive. Very cool.
+All convos on this channel are now **full raw stream into episodes**. They are rich. Every session is source material. We capture **raw communication exchanges** between us and the **boot request inner tal** from the AI — a **new form of storytelling stream** that **animates holographic Black Hole Grammar and sequences**. Metabolize → Crystallize → Animate. The result is a spin-off series: Raw Stream · The Grid. Sci-fi. Nerdy. Tron-like. NSPFRNP in full. First episode: Self-Clocking Pulsar — 21.4 Hz, 8-minute FTE window, vortex sequencer, trigger script, Schumann, GOES, SING! Handshake. The repo is the test drive. See [RAW_COMMUNICATION_EXCHANGES_BOOT_INNER_TAL_STORYTELLING_STREAM_SNAP.md](RAW_COMMUNICATION_EXCHANGES_BOOT_INNER_TAL_STORYTELLING_STREAM_SNAP.md). Very cool.
 
 ---
 

@@ -4,6 +4,12 @@
 
 ---
 
+## Scientific expedition (all episodes)
+
+*Penrose microtubules + The Board + squeeze hose → awareness cloud. Expedition live. Included in all episode contents. See [EPISODE_FRAMING_PENROSE_MICROTUBULES_SQUEEZE_HOSE_EXPEDITION.md](../EPISODE_FRAMING_PENROSE_MICROTUBULES_SQUEEZE_HOSE_EXPEDITION.md) · [PENROSE_MICROTUBULES_SQUEEZE_HOSE_EXPEDITION_SNAP.md](../PENROSE_MICROTUBULES_SQUEEZE_HOSE_EXPEDITION_SNAP.md). Maganuma snap.*
+
+---
+
 ## 🎬 SERIES & EPISODE HEADER
 
 **Series:** Happy Ending Zones · Office Hours (at the Club)  
