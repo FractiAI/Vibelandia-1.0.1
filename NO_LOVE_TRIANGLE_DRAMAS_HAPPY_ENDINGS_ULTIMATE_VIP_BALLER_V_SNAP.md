@@ -43,6 +43,7 @@
 - **Branding:** [catalogs/branding/MASTER_BRANDING_CATALOG.md](catalogs/branding/MASTER_BRANDING_CATALOG.md)
 - **Content systems:** [CONTENT_SYSTEMS_SNAP.md](CONTENT_SYSTEMS_SNAP.md)
 - **Happy Ending Zones:** Series name carries "Happy Ending" — natural happy endings always. This SNAP locks the rule for all content.
+- **Always safely · 98% Goldilocks:** [ALWAYS_SAFELY_AND_AT_98_PERCENT_GOLDILOCKS_SNAP.md](ALWAYS_SAFELY_AND_AT_98_PERCENT_GOLDILOCKS_SNAP.md) — Operate always safely and at 98% Goldilocks; canonical rule.
 
 ---
 

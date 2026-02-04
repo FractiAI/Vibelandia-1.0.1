@@ -36,7 +36,7 @@ A **text-to-track motor** that turns **songs in text** into **production-ready W
 ## 4. Outputs
 
 - **Production WAV file** — Beautiful, finished track. Downloadable.
-- **Track = master studio musician (holographic name) and their instrument** — Not by instrument only — by master studio musician and their instrument. Each track (1–12) is one master studio musician, named with a best-fit holographic name, and their instrument (e.g. Sera · Bass, Kael · Drums, Nola · Pad, Lyra · Lead, Rune · Keys, Vex · Strings, Bram · Brass, Echo · Perc, Zephyr · Synth, Orin · Vox, Flux · FX, Maestro · Producer/Conductor).
+- **Track = master studio musician (holographic name) and their instrument** — Not by instrument only — by master studio musician and their instrument. Each track (1–12) is one master studio musician, named with a best-fit holographic name, and their instrument (e.g. Sera · Bass, Kael · Drums, Nola · Pad, Lyra · Lead, Rune · Keys, Vex · Strings, Bram · Brass, Echo · Perc, Zephyr · Synth, Orin · Vox, Flux · FX, Maestro · Producer/Conductor). **Squeeze all to master musicians** under **Hero Rick's exec producer direction**; Hero Rick reports to **Hero Jo**; Hero Jo reports to **Chairman Creator**. See [SING_NODIFY_TEXT_TO_STUDIO_SONG_ENGINE_NSPFRNP_NESTS_SNAP.md](../SING_NODIFY_TEXT_TO_STUDIO_SONG_ENGINE_NSPFRNP_NESTS_SNAP.md).
 - **Download button** — One-click download per track.
 - **Auto-save to playlist** — Generated tracks are added to the session playlist (NSPFRNP).
 - **Auto-save to catalog** — Tracks are recorded in the catalog in NSPFRNP format (entry + metadata including musician name and instrument).

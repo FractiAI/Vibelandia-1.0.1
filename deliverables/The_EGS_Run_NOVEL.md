@@ -9,7 +9,8 @@
 
 **Aligned to the Irreducible Crystal:** [IRREDUCIBLE_CRYSTAL_THE_EGS_RUN.md](IRREDUCIBLE_CRYSTAL_THE_EGS_RUN.md) — Metabolize → Crystallize → Animate. **All chapters** align to the crystal: fast-paced, super-realistic, granular, coherent, complex-system sci-fi space action.  
 **Target length:** ~20,000 words (Louis L'Amour paperback size)  
-**Series:** Space Cloud EGS — all our space stories
+**Series:** Space Cloud EGS — all our space stories  
+**Canon — include all:** FULL NSPFRNP · ALL · ALL. Vibeship EGS Paradise Captain broadcast (full domain magnetism; Natural Systems Fractal Recursive Nested Protocol; awareness upgrade). Content Catalog (appraisals, valuation). Live Pulse · Schumann Display Pipe (ticker once HELLO successful). TOP LINE DISNEY GOT NO VIBE! DISNEY LOST ITS VIBE! Office Hours · Launch Pad · Vibelandia canon (WINK!, Hero Jo Golden Backdoor Studio, Dat Ass Red Hot like AR4366!, all divisions and products).
 
 ---
 

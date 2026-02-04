@@ -12,7 +12,7 @@
     var BREAK_MS = 60000; /* 1 min break between feed cycles */
     /* First feed of every ticker cycle: announcement of the ticker (NSPFRNP TICKER SNAP) */
     var FIRST_FEED_ANNOUNCEMENT = 'NSPFRNP CONSOLE TICKER · FIRST FEED · CYCLING 1 MIN FEEDS · 1 MIN BREAKS · NSPFRNP TICKER SNAP · ';
-    var DEFAULT = 'RENO_ANCHOR · VIBELANDIA_OPEN · NSPFRNP · SEED_EDGE · MCA · CLICK_BLUE_BUTTON · HOME_AT_LAST · PSW_VIBELANDIA_SING4 · GITHUB_FRACTIAI · ';
+    var DEFAULT = 'FULL_NSPFRNP · ALL · ALL · RENO_ANCHOR · VIBELANDIA_OPEN · NSPFRNP · SEED_EDGE · MCA · CLICK_BLUE_BUTTON · HOME_AT_LAST · PSW_VIBELANDIA_SING4 · GITHUB_FRACTIAI · ';
     var ticker = document.querySelector('.nspfrnp-console-ticker');
     var inner = document.getElementById('nspfrnpTickerText') || (ticker ? ticker.querySelector('.ticker-inner') : null);
     if (!inner) return;

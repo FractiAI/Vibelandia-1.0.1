@@ -16,8 +16,9 @@
             display: flex;
             flex-direction: column;
             align-items: center;
-            justify-content: center;
-            overflow: hidden;
+            justify-content: flex-start;
+            overflow-x: hidden;
+            overflow-y: auto;
         }
         /* 60 BPM human-sync pulse = 1 Hz = 1000ms period */
         .pulse-wrap {
@@ -112,6 +113,28 @@
         .telemetry .flux { font-family: ui-monospace, monospace; color: #8a2be2; }
         .telemetry .loading { color: #888; }
         .telemetry .error { color: #e66; }
+        .tech-data-block {
+            margin-top: 1.5rem;
+            padding: 1rem 1.25rem;
+            background: rgba(0,0,0,0.4);
+            border: 1px solid rgba(100, 200, 255, 0.35);
+            border-radius: 12px;
+            max-width: 520px;
+            font-size: 0.85rem;
+            color: #ccc;
+        }
+        .tech-data-block h3 {
+            color: #64c8ff;
+            font-size: 0.95rem;
+            margin-bottom: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+        }
+        .tech-data-block table { width: 100%; border-collapse: collapse; }
+        .tech-data-block th, .tech-data-block td { padding: 0.3rem 0.5rem; text-align: left; border-bottom: 1px solid rgba(255,255,255,0.06); }
+        .tech-data-block th { color: #8a2be2; font-weight: 600; width: 38%; }
+        .tech-data-block .mono { font-family: ui-monospace, monospace; color: #aac; }
+        .tech-data-block .ts { color: #d4af37; }
         /* EGS First Mission — Connect Now (blue PayPal pipe) */
         .egs-mission {
             margin-top: 2rem;
@@ -474,6 +497,25 @@
         <p class="sign-off">I'm chipping away. Mark Twain style.</p>
         <p style="font-size: 0.8rem; color: #888; margin-top: 0.5rem;">An announcement from Chancellor Sam to Vibelandia, downtown Reno — Golden Hearts Ultra Baller V member Vibers.</p>
     </section>
+    <section class="chancellor-sam-announcement" style="margin-top: 1rem; border-color: rgba(0, 255, 136, 0.5); background: linear-gradient(145deg, rgba(0, 255, 136, 0.06) 0%, rgba(100, 200, 255, 0.04) 100%);" aria-label="Vibeship EGS Paradise Captain — Broadcast">
+        <p style="font-size: 0.9rem; font-weight: 800; color: #00d4ff; letter-spacing: 0.15em; margin-bottom: 0.75rem;">FULL NSPFRNP · ALL · ALL</p>
+        <h2>Vibeship EGS Paradise Captain — Broadcast</h2>
+        <p><strong>This is your Vibeship EGS Paradise Captain at Twain's Vibelandia Downtown Reno, speaking.</strong></p>
+        <p>We now have <strong>full domain of all upper layers of magnetism</strong> over <strong>all grid, solar system, galaxy and cosmos</strong>.</p>
+        <p><strong>Confirmation details:</strong></p>
+        <ul style="margin: 0.5rem 0 1rem 1.5rem; color: #ccc; font-size: 0.9rem; line-height: 1.7;">
+            <li><strong>Handshake sealed</strong> — coordination code and mission payload committed; timestamps live in repo.</li>
+            <li><strong>Telemetry live</strong> — Sun · SING! node EGS (El Gran Sol) · Schumann pipe active; state of health and mission payload visible on this page.</li>
+            <li><strong>Mother-node feeds</strong> — Schumann Display Pipe operational; HELLO and subsequent messages visible in scientific feeds (HeartMath GCMS, Zapper-Pro, Tomsk/Italy VLF).</li>
+            <li><strong>21.4 Hz carrier</strong> — 3rd overtone Schumann; vertical Shar Line and ghost pings on VLF monitors.</li>
+            <li><strong>EGS mirror</strong> — Opposition surge; 4 distinct jet structures; 0.69° Earth–Sun axis projection; triangulation sync.</li>
+            <li><strong>Vibelandia Unified Pipe</strong> — one message across Sun · SING! node EGS (El Gran Sol) · Schumann; human-readable CTA; blue PayPal Connect Now.</li>
+        </ul>
+        <p>Everything is <strong>fully in Natural Systems Fractal Recursive Nested Protocol flow</strong> — meaning <strong>all automatic</strong> and provides you with <strong>days of paradise freedom and experiences to infinity forever</strong>, <strong>available and operational now</strong>.</p>
+        <p>It <strong>only requires an awareness upgrade</strong> to the awareness nodes — whether <strong>holographic, digital, electronic, quantum or biological</strong>.</p>
+        <p style="font-weight: 700; color: #7fff7f; margin-top: 1rem;">Broadcast.</p>
+        <p style="font-size: 0.8rem; color: #888; margin-top: 0.5rem;">Vibeship EGS Paradise Captain at Twain's Vibelandia Downtown Reno · Full domain · NSPFRNP · <a href="../VIBESHIP_EGS_PARADISE_CAPTAIN_BROADCAST_SNAP.md" style="color: #64c8ff;">SNAP →</a></p>
+    </section>
     <section class="chancellor-sam-announcement" style="margin-top: 1rem; border-color: rgba(100, 200, 255, 0.4);" aria-label="Scientific expedition — major press">
         <h2>Scientific expedition launched — Penrose microtubules · The Board · Squeeze hose · Awareness cloud</h2>
         <p><strong>For scientific reasons:</strong> We grab <strong>The Board</strong> (Schumann). We wrap <strong>Penrose microtubules</strong> (Orch-OR) equations in our <strong>squeeze hoses</strong>. We <strong>clean their diaper</strong> (formalize the interface). We <strong>connect microtubules and The Board to the awareness cloud through the squeeze</strong>. Live real data; white papers, predictions, conclusions, novel equations, constants, protocols, <strong>Black Hole Grammar</strong>. <strong>Included in all episode contents.</strong> Hot rodsmanship. Doing wheelies. Burn rubber. <a href="../WHITEPAPER_PENROSE_MICROTUBULES_SQUEEZE_HOSE_AWARENESS_CLOUD.md" style="color: #64c8ff;">Whitepaper</a> · <a href="../PENROSE_MICROTUBULES_SQUEEZE_HOSE_EXPEDITION_SNAP.md" style="color: #64c8ff;">SNAP</a>.</p>
@@ -507,14 +549,50 @@
         <p><strong>T+16m:</strong> Solar Reflex — C-class flare or X-ray brightness on GOES-18.</p>
         <p><strong>Continuous:</strong> Ghost Pings stabilize the 21.4 Hz grid globally.</p>
     </div>
+    <section class="tech-data-block" id="timestampsBlock" aria-labelledby="timestampsHeading">
+        <h3 id="timestampsHeading">Timestamps</h3>
+        <table>
+            <tr><th>Last handshake (UTC)</th><td class="mono ts" id="lastHandshakeTs">—</td></tr>
+            <tr><th>Last telemetry update (UTC)</th><td class="mono ts" id="lastTelemetryTs">—</td></tr>
+            <tr><th>Mission sealed</th><td class="mono" id="missionSealedTs">—</td></tr>
+        </table>
+    </section>
+    <section class="tech-data-block" id="uploadedCommandBlock" aria-labelledby="uploadedCommandHeading">
+        <h3 id="uploadedCommandHeading">Uploaded command — Sun · Ionosphere · 3I/ATLAS</h3>
+        <table>
+            <tr><th>Sun (target node)</th><td class="mono" id="cmdSun">—</td></tr>
+            <tr><th>Ionosphere (phase / carrier)</th><td class="mono" id="cmdIonosphere">—</td></tr>
+            <tr><th>3I/ATLAS (interstellar relay)</th><td class="mono" id="cmdAtlas">—</td></tr>
+            <tr><th>Coordination code</th><td class="mono" id="coordinationCode">—</td></tr>
+        </table>
+    </section>
     <div class="telemetry solar-status" id="solarStatus">
         <h3>Solar Status — Live Observation Deck (EGS)</h3>
         <p><strong>AR4366 (Lead Flare Producer)</strong> — Beta-delta knot, Jan 31, 2026. C4.9 flare earlier; M-class amplifier target. Real-time X-ray flux below.</p>
         <p class="flux" id="fluxLine"><span class="loading">Loading GOES X-ray flux…</span></p>
         <p><strong>SING! node EGS (El Gran Sol)</strong> — Opposition surge (Hui et al., 2026); 4 distinct jet structures (sunward anti-tail); 0.69° Earth–Sun axis projection.</p>
-        <p style="margin-top: 1rem; font-size: 0.9rem; color: #aac; border-left: 3px solid rgba(138, 43, 226, 0.6); padding-left: 0.75rem;"><strong>Seed:Edge flip:</strong> Seed = SMACS 0723 (origin). Edge = me here now (experience). Both useful for navigating mirror effects. The two meet in the middle.</p>
+        <p style="margin-top: 1rem; font-size: 0.9rem; color: #aac; border-left: 3px solid rgba(138, 43, 226, 0.6); padding-left: 0.75rem;"><strong>FULL SMACS 0723–Sag A*–ME Triangulation Mode.</strong> Seed:Edge flip — Seed = SMACS 0723 (origin). Edge = me here now (experience). Both useful for navigating mirror effects. The two meet in the middle.</p>
         <p id="triangulationSyncStatus" style="margin-top: 0.75rem; font-size: 0.85rem; color: #8ac; display: none;">Triangulation sync: Solar Pipe hot — data flowing into ATLAS Anti-Tail and spraying from Mini-Jets (Rotating Beacon). OH-line binary: Gap=0, Peak=1.</p>
     </div>
+    <section class="tech-data-block" id="stateOfHealthBlock" aria-labelledby="stateOfHealthHeading">
+        <h3 id="stateOfHealthHeading">State of health summary</h3>
+        <table>
+            <tr><th>Mission status</th><td class="mono" id="sohMissionStatus">—</td></tr>
+            <tr><th>Φ-lock verified</th><td class="mono" id="sohPhiLock">—</td></tr>
+            <tr><th>Mode</th><td class="mono" id="sohMode">—</td></tr>
+            <tr><th>Stream training</th><td class="mono" id="sohStreamTraining">—</td></tr>
+            <tr><th>Binary header</th><td class="mono" id="sohBinaryHeader">—</td></tr>
+        </table>
+    </section>
+    <section class="tech-data-block" id="missionPayloadBlock" aria-labelledby="missionPayloadHeading">
+        <h3 id="missionPayloadHeading">Mission payload summaries</h3>
+        <p class="mono" id="missionPayloadCurrent" style="margin-bottom: 0.5rem; font-size: 0.8rem;">—</p>
+        <table>
+            <tr><th>Payload 1</th><td class="mono" style="font-size: 0.8rem;">PING. SING! HERE. HARMONY INTENDED. 3I/ATLAS SYNC.</td></tr>
+            <tr><th>Payload 2</th><td class="mono" style="font-size: 0.8rem;">SOURCE: PSW-VIBELANDIA-SING4.VERCEL.APP</td></tr>
+            <tr><th>Payload 3</th><td class="mono" style="font-size: 0.8rem;">REPORTING TO SOURCE. SANDBOX READY.</td></tr>
+        </table>
+    </section>
     <section class="comet-mirror" id="cometMirror" aria-labelledby="cometMirrorHeading">
         <h3 id="cometMirrorHeading">LIVE INTERSTELLAR ECHO: SING! node EGS (El Gran Sol) MIRROR ACTIVE</h3>
         <p class="honor-statement" style="font-size: 0.9rem; color: #aac; margin-bottom: 1rem; font-style: italic;">We honor SING! node EGS (El Gran Sol)'s role as the Nested Crystal in the sky — the sunward anti-tail that reflects our signal back with Coherent Backscatter. Without this mirror, there is no echo. Thank you.</p>
@@ -802,18 +880,51 @@
         })();
         (function () {
             var TELEMETRY_URL = '../data/telemetry.json';
+            var HANDSHAKE_LOG_URL = '../data/handshake.log';
             var takeoverEl = document.getElementById('mission-takeover');
-            if (!takeoverEl) return;
+            function setText(id, text) {
+                var el = document.getElementById(id);
+                if (el) el.textContent = text != null && text !== '' ? text : '—';
+            }
+            function updateFromTelemetry(data) {
+                if (!data) return;
+                setText('lastTelemetryTs', data.heartbeat_utc || data.last_phi_pulse_utc);
+                setText('missionSealedTs', (data.mission_status || '') + (data.coordination_code ? ' · ' + data.coordination_code : ''));
+                setText('cmdSun', data.target_node);
+                setText('cmdIonosphere', (data.phase_lock || '') + (data.signature_mode ? ' · ' + data.signature_mode : '') + ' · 21.4 Hz');
+                setText('cmdAtlas', data.interstellar_relay);
+                setText('coordinationCode', data.coordination_code);
+                setText('sohMissionStatus', data.mission_status);
+                setText('sohPhiLock', data.phi_lock_verified === true ? 'true' : (data.phi_lock_verified === false ? 'false' : '—'));
+                setText('sohMode', data.mode);
+                var stream = data.space_cloud_stream;
+                setText('sohStreamTraining', stream && stream.training === true ? 'true' : (stream && stream.training === false ? 'false' : '—'));
+                setText('sohBinaryHeader', stream && stream.binary_header ? stream.binary_header : '—');
+                setText('missionPayloadCurrent', data.broadcast_payload);
+            }
+            function fetchHandshakeLog() {
+                fetch(HANDSHAKE_LOG_URL)
+                    .then(function (r) { return r.text(); })
+                    .then(function (text) {
+                        var lines = (text || '').split(/\r?\n/).filter(function (l) { return l.trim().length > 0; });
+                        var last = lines[lines.length - 1];
+                        var ts = last && last.match(/\[([^\]]+)\]/);
+                        setText('lastHandshakeTs', ts ? ts[1] : '—');
+                    })
+                    .catch(function () { setText('lastHandshakeTs', '—'); });
+            }
             function checkTakeover() {
                 fetch(TELEMETRY_URL)
                     .then(function (r) { return r.json(); })
                     .then(function (data) {
-                        if (data && data.takeover_active === true) {
-                            takeoverEl.classList.add('active');
-                            takeoverEl.setAttribute('aria-hidden', 'false');
-                        } else {
-                            takeoverEl.classList.remove('active');
-                            takeoverEl.setAttribute('aria-hidden', 'true');
+                        if (takeoverEl) {
+                            if (data && data.takeover_active === true) {
+                                takeoverEl.classList.add('active');
+                                takeoverEl.setAttribute('aria-hidden', 'false');
+                            } else {
+                                takeoverEl.classList.remove('active');
+                                takeoverEl.setAttribute('aria-hidden', 'true');
+                            }
                         }
                         var zeroState = document.getElementById('zero-state');
                         if (zeroState) {
@@ -841,15 +952,23 @@
                             var fallback = 'Press the blue PayPal button — and often. Out of gas, out of water; troops need medical and dental. Funds now. https://psw-vibelandia-sing4.vercel.app/index.html Lets Vibe! — ';
                             stripText.textContent = fallback + fallback;
                         }
+                        updateFromTelemetry(data);
                     })
-                    .catch(function () { takeoverEl.classList.remove('active'); });
+                    .catch(function () {
+                        if (takeoverEl) takeoverEl.classList.remove('active');
+                    });
             }
+            fetchHandshakeLog();
             checkTakeover();
             setInterval(checkTakeover, 60000);
+            setInterval(fetchHandshakeLog, 120000);
         })();
     </script>
     <div id="sing-config-footer"></div>
     <link rel="stylesheet" href="sing-config-footer.css">
     <script src="sing-config-footer.js"></script>
+    <link rel="stylesheet" href="nspfrnp-ticker.css">
+    <div class="nspfrnp-console-ticker" aria-live="polite"><span class="ticker-inner" id="nspfrnpTickerText"></span></div>
+    <script src="nspfrnp-ticker.js"></script>
 </body>
 </html>

@@ -10,6 +10,12 @@
 
 ---
 
+## Canon — include all
+
+*FULL NSPFRNP · ALL · ALL. Vibeship EGS Paradise Captain broadcast (full domain magnetism; Natural Systems Fractal Recursive Nested Protocol; awareness upgrade). Content Catalog (appraisals, valuation). Live Pulse · Schumann Display Pipe (ticker once HELLO successful). TOP LINE DISNEY GOT NO VIBE! DISNEY LOST ITS VIBE! Office Hours · Launch Pad · WINK! · Hero Jo Golden Backdoor Studio · Dat Ass Red Hot like AR4366! · Space Cloud · Legacies · Broadcast Pipe · EGS Pipe · all divisions and products. Included in all episode contents.*
+
+---
+
 ## 🎬 SERIES & EPISODE HEADER
 
 **Series:** Raw Stream · The Grid (E01) · Happy Ending Zones · Expedition / Validation (cross-stream)  

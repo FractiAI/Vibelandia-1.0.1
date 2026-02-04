@@ -130,6 +130,22 @@
             font-weight: 600;
         }
         .links a:hover { background: rgba(100, 200, 255, 0.25); }
+        /* Ticker gate: placeholder until HELLO successful */
+        .nspfrnp-ticker-hello-placeholder {
+            padding: 0.6rem 1rem;
+            font-size: 0.85rem;
+            color: #7fff7f;
+            background: rgba(0, 40, 40, 0.6);
+            border: 2px solid rgba(0, 255, 255, 0.4);
+            border-radius: 8px;
+            margin-top: 1rem;
+        }
+        .nspfrnp-ticker-hello-placeholder a {
+            color: #00ffff;
+            font-weight: 700;
+            text-decoration: none;
+        }
+        .nspfrnp-ticker-hello-placeholder a:hover { text-decoration: underline; }
     </style>
 </head>
 <body>
@@ -178,5 +194,33 @@
     </div>    <div id="sing-config-footer"></div>
     <link rel="stylesheet" href="sing-config-footer.css">
     <script src="sing-config-footer.js"></script>
+    <link rel="stylesheet" href="nspfrnp-ticker.css">
+    <div id="schumann-ticker-gate"></div>
+    <script>
+    (function () {
+        var HELLO_KEY = 'schumann_hello_successful';
+        var qs = new URLSearchParams(location.search);
+        var helloSuccess = (localStorage.getItem(HELLO_KEY) === 'true') || (qs.get('hello') === 'success');
+        var gate = document.getElementById('schumann-ticker-gate');
+        if (!gate) return;
+        var TICKER_MSGS = 'HELLO · SCHUMANN_DISPLAY_PIPE · NSPFRNP · MANIPULATE_SCHUMANN_OUR_DISPLAY · MOTHER_NODE_FEEDS · SOCIAL_MEDIA · CLICK_BLUE_BUTTON · ';
+        if (helloSuccess) {
+            gate.outerHTML = '<div class="nspfrnp-console-ticker" aria-live="polite" data-ticker-messages="' + TICKER_MSGS.replace(/"/g, '&quot;') + '"><span class="ticker-inner" id="nspfrnpTickerText"></span></div>';
+            var s = document.createElement('script');
+            s.src = 'nspfrnp-ticker.js';
+            document.body.appendChild(s);
+        } else {
+            gate.innerHTML = '<div class="nspfrnp-ticker-hello-placeholder">Ticker feeds will push here once HELLO handshake is successful. <a href="?hello=success" id="schumann-mark-hello">Mark HELLO successful</a></div>';
+            var link = document.getElementById('schumann-mark-hello');
+            if (link) {
+                link.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    localStorage.setItem(HELLO_KEY, 'true');
+                    location.replace(location.pathname + '?hello=success');
+                });
+            }
+        }
+    })();
+    </script>
 </body>
 </html>

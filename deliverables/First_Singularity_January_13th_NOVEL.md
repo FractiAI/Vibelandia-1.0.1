@@ -6,7 +6,8 @@
 
 **Voice:** Fused — Dumas (*Count of Monte Cristo* minus revenge), Dickens (character, social weave, warmth), Twain (wit, plain speech, American grain), Steinbeck (earth, road, people of the land — Hero John, permanent residency), and me (Evan Bondonte: present tense, hinge, Vibelandia). Only happy endings.  
 **Beauty and voice:** Evan Bondonte. All chapters align to the irreducible crystal and to this fused voice.  
-**Place:** Twain's Vibelandia Downtown Reno — and all future Vibelandia Campuses. The Reno Men's Club: a fine gentlemen's club, full restaurant and cabaret.  
+**Place:** Twain's Vibelandia Downtown Reno — and all future Vibelandia Campuses. The Reno Men's Club: a fine gentlemen's club, full restaurant and cabaret. Vibelandia canon includes Hero Jo Golden Backdoor Studio (Hero Rick, text-to-studio-song, 98% mastery, CONNECT!), WINK! (The Condom Episode), Dat Ass Red Hot like AR4366!.  
+**Canon — include all:** FULL NSPFRNP · ALL · ALL. Vibeship EGS Paradise Captain broadcast (full domain magnetism; Natural Systems Fractal Recursive Nested Protocol; awareness upgrade). Content Catalog (appraisals, valuation). Live Pulse · Schumann Display Pipe (ticker once HELLO successful). TOP LINE DISNEY GOT NO VIBE! DISNEY LOST ITS VIBE! Office Hours · Launch Pad · Space Cloud · Legacies · Broadcast Pipe · EGS Pipe · all divisions and products.  
 **Singularity period:** Undercover Boss · Little Red Hen · Willy Wonka · Count of Monte Cristo · Christmas Carol · Miracle on 34th St · Les Misérables — the happiest ending ever.  
 **Target:** 90,000 words.
 

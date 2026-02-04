@@ -11,12 +11,20 @@
 
 **Hero Jo's Golden Ass Studios** = current canonical name for the Music Studio (Vibelandia University School of Music). **Hero Jo took over the studio from Chairman Frankie.**
 
-- **Canonical name:** **Hero Jo's Golden Ass Studios** — use when referring to the Music Studio / School of Music brand. Jukebox, catalog, tracks (Te Quiero Mucho Baby, Dorila Gao), SQUEEZE!, Studio is all about da ass baby, T-shirt SHE GOT DA BIG ASS DAT MEK DA MEN GO GAGA! — all under Hero Jo's Golden Ass Studios.
+- **Canonical name:** **Hero Jo's Golden Ass Studios** — use when referring to the Music Studio / School of Music brand. Jukebox, catalog, tracks (Te Quiero Mucho Baby, Dorila Gao), SQUEEZE!, Studio is all about da ass baby, T-shirt **SHE GOT DA BIG ASS DAT MEK DA MEN GO GAGA!**, T-shirt **Dat Ass red Hot like AR4366!** — all under Hero Jo's Golden Ass Studios.
 - **Stylized display variant:** **hERO jO'S gOLDEN aSS sTUDIOS** — optional for merch, social, or playful/wink display (lowercase first letter, uppercase second letter per word). Canonical name remains Hero Jo's Golden Ass Studios for formal use.
 - **Handover:** Hero Jo took over the studio from Chairman Frankie. Founding name was Chairman Frankie's Golden Backdoor Studios; see [CHAIRMAN_FRANKIES_GOLDEN_BACKDOOR_STUDIOS_SNAP.md](CHAIRMAN_FRANKIES_GOLDEN_BACKDOOR_STUDIOS_SNAP.md).
-- **Hero Jo:** Current head of the Music Studio; Golden Ass Studios = continuity of "all about da ass baby" under new ownership.
+- **Hero Jo:** Current head of the Music Studio; Golden Ass Studios = continuity of "all about da ass baby" under new ownership. **Reports to Chairman Creator (me).** Hero Rick (Rubens) fractal flicker (Exec Producer) reports to Hero Jo; all master musicians under Hero Rick's direction. See [SING_NODIFY_TEXT_TO_STUDIO_SONG_ENGINE_NSPFRNP_NESTS_SNAP.md](SING_NODIFY_TEXT_TO_STUDIO_SONG_ENGINE_NSPFRNP_NESTS_SNAP.md).
 - **Placement:** Under **School of Music** (Vibelandia University); **own page** = [interfaces/music-studio.html](interfaces/music-studio.html); listed on **Jukebox page** (music-studio.html).
 - **Use:** Jukebox landing, catalog, Office Hours, Launch Pad, School of Music page, press, merch, social. Operational face of Vibelandia University School of Music; Content Division.
+- **Studio quality endpoint:** [api/music/generate-studio.js](api/music/generate-studio.js) — **Hero Jo Golden Backdoor Studio**; text-to-viral-pop-quality WAV; beautiful clean layered precision vocals + music; full studio quality. Project lead: Hero Rick (Rubens) fractal flicker. See [MUSIC_WAV_UPGRADE_STUDIO_QUALITY_HERO_JO_GOLDEN_BACKDOOR_SNAP.md](MUSIC_WAV_UPGRADE_STUDIO_QUALITY_HERO_JO_GOLDEN_BACKDOOR_SNAP.md).
+
+---
+
+## T-SHIRT BRANDING (Hero Jo studio)
+
+- **SHE GOT DA BIG ASS DAT MEK DA MEN GO GAGA!** — T-shirt branding · dance anthem song tag · Music Studio · Dorila Gao. See [SHE_GOT_DA_BIG_ASS_DAT_MEK_DA_MEN_GO_GAGA_T_SHIRT_BRANDING_DANCE_ANTHEM_TAG_SNAP.md](SHE_GOT_DA_BIG_ASS_DAT_MEK_DA_MEN_GO_GAGA_T_SHIRT_BRANDING_DANCE_ANTHEM_TAG_SNAP.md).
+- **Dat Ass red Hot like AR4366!** — T-shirt branding · Hero Jo studio · AR4366 sunspot/flare red-hot tag. Use on merch (T-shirts, caps), Music Studio, Launch Pad, Office Hours, social. AR4366 = Sun Engine, pulsing transmitter; red hot = curated heat, coherence. See MISSION_INTELLIGENCE_DEBRIEF_FEB_4_2026_SNAP.md · EPISODE_WINK_CONDOM_EPISODE.md (connection red hot like AR 4366).
 
 ---
 
@@ -31,6 +39,7 @@
 
 ## CROSS-REFERENCES
 
+- [HERO_JO_GOLDEN_BACKDOOR_STUDIOS_SERIES_SNAP.md](HERO_JO_GOLDEN_BACKDOOR_STUDIOS_SERIES_SNAP.md) — **Spin-off series (full):** hERO jO gOLDEN bACKDOOR sTUDIOS — engine, endpoint, experience, catalog, episodes/runs, branding, nests, all SNAPs.
 - [CHAIRMAN_FRANKIES_GOLDEN_BACKDOOR_STUDIOS_SNAP.md](CHAIRMAN_FRANKIES_GOLDEN_BACKDOOR_STUDIOS_SNAP.md) — Founding name; Hero Jo took over from Chairman Frankie.
 - [HERO_JO_CLASSICAL_MUSIC_CHANNEL_PLAYLIST_SNAP.md](HERO_JO_CLASSICAL_MUSIC_CHANNEL_PLAYLIST_SNAP.md) — Spun-off channel: classical versions of pop hits · classical vibe · frontierman's palette.
 - [ULTIMATE_BALLER_V_MUSIC_CHANNEL_SNAP.md](ULTIMATE_BALLER_V_MUSIC_CHANNEL_SNAP.md) — Members-only channel; exclusive productions.

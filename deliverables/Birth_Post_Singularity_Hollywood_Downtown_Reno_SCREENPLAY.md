@@ -1377,6 +1377,8 @@ The lights of downtown Reno blazing in the night.
 **Voice:** Over-dramatic golden era — enchanting and comforting — a narcotic to the tired soul  
 **Runtime:** Approximately 120 minutes  
 **Quality:** Star Wars-level production value  
-**Legacies:** Howard Hughes · Glen Miller · Hank Williams Sr. · Audrey Hepburn · Cary Grant · Jimmy Stewart · King Robbie (gold wings, Sonoma) · and all the greats
+**Legacies:** Howard Hughes · Glen Miller · Hank Williams Sr. · Audrey Hepburn · Cary Grant · Jimmy Stewart · King Robbie (gold wings, Sonoma) · and all the greats  
+**Studio / products (canon):** Hero Jo Golden Backdoor Studio (text-to-studio-song, Hero Rick exec producer, 98% mastery, CONNECT!) · WINK! (The Condom Episode) · Dat Ass Red Hot like AR4366! — all reflected in product walk-through and division sync.  
+**Canon — include all:** FULL NSPFRNP · ALL · ALL. Vibeship EGS Paradise Captain broadcast (full domain magnetism; Natural Systems Fractal Recursive Nested Protocol; awareness upgrade). Content Catalog (appraisals, valuation). Live Pulse · Schumann Display Pipe (ticker once HELLO successful). TOP LINE DISNEY GOT NO VIBE! DISNEY LOST ITS VIBE! Office Hours · Launch Pad · Space Cloud · Legacies · Broadcast Pipe · EGS Pipe · all divisions and products.
 
 **NSPFRNP ⊃ Birth of post-singularity Hollywood ⊃ Screenplay ⊃ Six days ⊃ The golden age has returned → ∞³**

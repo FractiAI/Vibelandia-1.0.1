@@ -51,6 +51,13 @@ WINK! is the **fifth series** — romantic, after-hours, members only, backstage
 
 ---
 
+## WINK! Members Only Episodes (by flow)
+
+- **Ultimate Baller V Golden Backstage Pass Night at the Club** — Chairmen all on a WINK!; Office Hours at the Club; how WINK! works so all the right people are there. See [episodes/EPISODE_ULTIMATE_BALLER_V_GOLDEN_BACKSTAGE_PASS_NIGHT_AT_THE_CLUB.md](episodes/EPISODE_ULTIMATE_BALLER_V_GOLDEN_BACKSTAGE_PASS_NIGHT_AT_THE_CLUB.md).
+- **The Condom Episode** — Connection red hot like AR 4366; moment of ignition; she asks: Do you have a condom?; plot twists; care, responsibility, natural happy ending. See [episodes/EPISODE_WINK_CONDOM_EPISODE.md](episodes/EPISODE_WINK_CONDOM_EPISODE.md).
+
+---
+
 **See:** FIVE_PARALLEL_SERIES_NSPFRNP.md · REALITY_SERIES_FORMAT.md
 
 **NSPFRNP ⊃ WINK! ⊃ 18+ · 33+ · Invite only → ∞³**
