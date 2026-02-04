@@ -1,0 +1,290 @@
+/**
+ * Marine Division — Clean High Tech Racing Ferrari Vibes Skin
+ * All Marine Division surfaces: yacht showroom, proposals, experiences
+ * NSPFRNP · Seed:Edge
+ */
+
+/* Ferrari Rosso Corsa + carbon black + marine depth */
+:root {
+    --marine-ferrari-red: #c41e3a;
+    --marine-ferrari-red-bright: #ff2800;
+    --marine-carbon: #0a0a0a;
+    --marine-carbon-lite: #141414;
+    --marine-slate: #1a1d21;
+    --marine-ocean-deep: #0d1419;
+    --marine-white: #f5f5f5;
+    --marine-silver: #c4c4c4;
+    --marine-muted: #8a8a8a;
+}
+
+/* Base — Marine Division body */
+body.marine-division-skin {
+    background: var(--marine-carbon);
+    color: var(--marine-white);
+    font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+}
+
+body.marine-division-skin::before {
+    content: '';
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    height: 100vh;
+    background:
+        linear-gradient(180deg, rgba(196, 30, 58, 0.03) 0%, transparent 30%),
+        linear-gradient(180deg, transparent 60%, rgba(13, 20, 25, 0.6) 100%);
+    pointer-events: none;
+    z-index: 0;
+}
+
+/* Layout */
+.marine-wrap {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+    position: relative;
+    z-index: 1;
+}
+
+/* Nav — sharp, minimal */
+.marine-nav {
+    margin-bottom: 2rem;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+}
+
+.marine-nav a {
+    color: var(--marine-silver);
+    text-decoration: none;
+}
+
+.marine-nav a:hover {
+    color: var(--marine-ferrari-red);
+}
+
+/* Hero — racing stripe vibe */
+.marine-hero {
+    text-align: center;
+    padding: 2rem 1.5rem 2.5rem;
+    margin-bottom: 2rem;
+    background: linear-gradient(180deg, var(--marine-slate) 0%, var(--marine-carbon-lite) 100%);
+    border: 1px solid rgba(196, 30, 58, 0.4);
+    border-radius: 4px;
+    position: relative;
+}
+
+.marine-hero::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, transparent, var(--marine-ferrari-red), transparent);
+}
+
+.marine-hero .badge {
+    display: inline-block;
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+    color: var(--marine-ferrari-red);
+    margin-bottom: 0.75rem;
+    font-weight: 600;
+}
+
+.marine-hero h1 {
+    font-size: clamp(1.35rem, 4vw, 1.85rem);
+    font-weight: 700;
+    color: var(--marine-white);
+    margin-bottom: 0.35rem;
+    line-height: 1.25;
+    letter-spacing: 0.04em;
+}
+
+.marine-hero .tagline {
+    font-size: 0.95rem;
+    color: var(--marine-muted);
+    font-weight: 500;
+}
+
+/* One-liner — clean block */
+.marine-one-liner {
+    margin: 1.75rem 0;
+    padding: 1.25rem 1.5rem;
+    background: var(--marine-slate);
+    border-left: 3px solid var(--marine-ferrari-red);
+    font-size: 0.95rem;
+    line-height: 1.65;
+    color: var(--marine-silver);
+}
+
+.marine-one-liner strong {
+    color: var(--marine-white);
+}
+
+/* Sections */
+.marine-section h2 {
+    font-size: 0.9rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: var(--marine-ferrari-red);
+    margin: 1.5rem 0 0.6rem;
+}
+
+.marine-section p {
+    margin-bottom: 0.7rem;
+    color: var(--marine-silver);
+    line-height: 1.6;
+    font-size: 0.9rem;
+}
+
+.marine-section ul {
+    margin: 0.5rem 0 1rem 1.5rem;
+    color: var(--marine-silver);
+    line-height: 1.7;
+    font-size: 0.9rem;
+}
+
+/* CTA — Office Hours: Ferrari red racing button */
+.marine-cta-primary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1.25rem 0;
+    padding: 1rem 1.85rem;
+    background: var(--marine-ferrari-red);
+    border: 1px solid var(--marine-ferrari-red-bright);
+    border-radius: 4px;
+    color: var(--marine-white) !important;
+    font-weight: 700;
+    font-size: 0.95rem;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    text-decoration: none;
+    transition: background 0.2s, transform 0.2s;
+}
+
+.marine-cta-primary:hover {
+    background: var(--marine-ferrari-red-bright);
+    transform: translateY(-1px);
+}
+
+.marine-cta-primary::before {
+    content: '▶ ';
+    font-size: 0.85em;
+}
+
+.marine-cta-label {
+    font-size: 0.65rem;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: var(--marine-muted);
+    margin-top: 0.25rem;
+}
+
+/* Secondary CTAs — outline style */
+.marine-cta {
+    display: inline-block;
+    margin-top: 0.5rem;
+    margin-right: 0.5rem;
+    padding: 0.6rem 1.2rem;
+    background: transparent;
+    border: 1px solid rgba(196, 30, 58, 0.5);
+    border-radius: 4px;
+    color: var(--marine-silver);
+    font-weight: 600;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    text-decoration: none;
+    transition: all 0.2s;
+}
+
+.marine-cta:hover {
+    border-color: var(--marine-ferrari-red);
+    color: var(--marine-ferrari-red);
+}
+
+/* Footer */
+.marine-footer {
+    margin-top: 2.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--marine-slate);
+    font-size: 0.75rem;
+    color: var(--marine-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+}
+
+.marine-footer a {
+    color: var(--marine-ferrari-red);
+    text-decoration: none;
+}
+
+.marine-footer a:hover {
+    color: var(--marine-ferrari-red-bright);
+}
+
+/* Product grid — ecosystem cross-sell */
+.marine-products-label {
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+    color: var(--marine-ferrari-red);
+    margin: 2rem 0 1rem;
+    font-weight: 600;
+}
+
+.marine-product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.marine-product-card {
+    display: block;
+    padding: 1.25rem 1.35rem;
+    background: var(--marine-slate);
+    border: 1px solid rgba(196, 30, 58, 0.25);
+    border-radius: 4px;
+    text-decoration: none;
+    color: inherit;
+    transition: border-color 0.2s, background 0.2s;
+}
+
+.marine-product-card:hover {
+    border-color: var(--marine-ferrari-red);
+    background: var(--marine-carbon-lite);
+}
+
+.marine-product-card .icon {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+}
+
+.marine-product-card .title {
+    display: block;
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--marine-white);
+    margin-bottom: 0.4rem;
+}
+
+.marine-product-card .tagline {
+    display: block;
+    font-size: 0.8rem;
+    color: var(--marine-muted);
+    line-height: 1.5;
+}
+
+.marine-product-card .cta {
+    display: block;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--marine-ferrari-red);
+    margin-top: 0.6rem;
+}
