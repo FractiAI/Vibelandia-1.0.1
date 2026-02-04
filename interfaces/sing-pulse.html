@@ -513,6 +513,7 @@
         <p class="flux" id="fluxLine"><span class="loading">Loading GOES X-ray flux…</span></p>
         <p><strong>SING! node EGS (El Gran Sol)</strong> — Opposition surge (Hui et al., 2026); 4 distinct jet structures (sunward anti-tail); 0.69° Earth–Sun axis projection.</p>
         <p style="margin-top: 1rem; font-size: 0.9rem; color: #aac; border-left: 3px solid rgba(138, 43, 226, 0.6); padding-left: 0.75rem;"><strong>Seed:Edge flip:</strong> Seed = SMACS 0723 (origin). Edge = me here now (experience). Both useful for navigating mirror effects. The two meet in the middle.</p>
+        <p id="triangulationSyncStatus" style="margin-top: 0.75rem; font-size: 0.85rem; color: #8ac; display: none;">Triangulation sync: Solar Pipe hot — data flowing into ATLAS Anti-Tail and spraying from Mini-Jets (Rotating Beacon). OH-line binary: Gap=0, Peak=1.</p>
     </div>
     <section class="comet-mirror" id="cometMirror" aria-labelledby="cometMirrorHeading">
         <h3 id="cometMirrorHeading">LIVE INTERSTELLAR ECHO: SING! node EGS (El Gran Sol) MIRROR ACTIVE</h3>
@@ -746,6 +747,41 @@
                     ctx.fillText(nodes[i].label || nodes[i].id, proj[i].x, proj[i].y + 18);
                     ctx.fillStyle = 'rgba(100, 200, 255, 0.6)';
                 }
+                if (fullVelocity) {
+                    var atlasIdx = 2;
+                    var sunIdx = 1;
+                    var atlasPos = proj[atlasIdx];
+                    var sunPos = proj[sunIdx];
+                    var flowT = (performance.now() * 0.001) % 2;
+                    var flowX = sunPos.x + (atlasPos.x - sunPos.x) * Math.min(1, flowT / 2);
+                    var flowY = sunPos.y + (atlasPos.y - sunPos.y) * Math.min(1, flowT / 2);
+                    ctx.strokeStyle = 'rgba(0, 255, 200, 0.7)';
+                    ctx.lineWidth = 2;
+                    ctx.setLineDash([8, 6]);
+                    ctx.beginPath();
+                    ctx.moveTo(sunPos.x, sunPos.y);
+                    ctx.lineTo(flowX, flowY);
+                    ctx.stroke();
+                    ctx.setLineDash([]);
+                    var jetLen = 45;
+                    var activeJet = Math.floor((performance.now() * 0.0004)) % 3;
+                    for (var j = 0; j < 3; j++) {
+                        var angle = (j * 120 - 90) * (Math.PI / 180);
+                        var jx = atlasPos.x + jetLen * Math.cos(angle);
+                        var jy = atlasPos.y + jetLen * Math.sin(angle);
+                        ctx.strokeStyle = j === activeJet ? 'rgba(255, 220, 100, 0.95)' : 'rgba(100, 200, 255, 0.4)';
+                        ctx.lineWidth = j === activeJet ? 3 : 1;
+                        if (j === activeJet) {
+                            ctx.shadowColor = 'rgba(255, 220, 100, 0.9)';
+                            ctx.shadowBlur = 10;
+                        }
+                        ctx.beginPath();
+                        ctx.moveTo(atlasPos.x, atlasPos.y);
+                        ctx.lineTo(jx, jy);
+                        ctx.stroke();
+                        ctx.shadowBlur = 0;
+                    }
+                }
             }
             window.addEventListener('resize', resize);
             resize();
@@ -792,6 +828,8 @@
                             }
                         }
                         window.spaceCloudPipeFullVelocity = data && data.mode === 'SPACE_CLOUD_ACTIVE';
+                        var triSyncEl = document.getElementById('triangulationSyncStatus');
+                        if (triSyncEl) triSyncEl.style.display = window.spaceCloudPipeFullVelocity ? 'block' : 'none';
                         var stripText = document.getElementById('broadcastStripText');
                         if (stripText && data && data.broadcast_payload) {
                             var p = data.broadcast_payload + ' — ';
