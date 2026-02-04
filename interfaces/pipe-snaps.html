@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pipe SNAPs — All pipe SNAPs in beautiful skin | VIBELANDIA!</title>
+    <meta name="description" content="Pipe SNAPs — EGS Pipe, Broadcast Pipe, Unified Pipe, and all pipe SNAPs. Beautiful skin. Same as screenplays, press releases, proposals. NSPFRNP.">
+    <link rel="stylesheet" href="screenplay-skin.css">
+    <script src="tsunami-advisory-inject.js"></script>
+</head>
+<body class="screenplay-skin">
+    <div class="script-wrap">
+        <nav class="script-nav">
+            <a href="launch-pad.html">← Launch Pad</a><span>·</span>
+            <a href="office-hours.html">Office Hours</a><span>·</span>
+            <a href="proposal.html">Proposals</a><span>·</span>
+            <a href="press-releases.html">Press Releases</a><span>·</span>
+            <a href="../index.html">Home</a>
+        </nav>
+
+        <header class="script-marquee" id="pipe-hero">
+            <p class="badge">Golden Era Cinema · Pipe SNAPs <span class="badge-beautiful-skin">Beautiful skin</span></p>
+            <h1 id="pipe-title">Pipe SNAPs</h1>
+            <p class="tagline" id="pipe-tagline">All pipe SNAPs — EGS Pipe, Broadcast Pipe, Unified Pipe, and more. Same beautiful skin as screenplays, press releases, proposals.</p>
+        </header>
+
+        <section class="ep-section" id="pipe-list-section">
+            <div class="ep-section-body">
+                <p class="ep-eyebrow" style="margin-bottom: 0.75rem;">All pipe SNAPs — read in beautiful skin</p>
+                <ul class="ep-list" id="pipe-list"></ul>
+            </div>
+        </section>
+
+        <div id="pipe-loading" class="loading" style="display: none;">Loading…</div>
+        <div id="pipe-body" class="screenplay-body" style="display: none;"></div>
+
+        <footer class="script-footer" id="pipe-footer" style="display: none;">
+            <a href="pipe-snaps.html">← All Pipe SNAPs</a> · <a href="launch-pad.html">Launch Pad</a> · <a href="office-hours.html">Office Hours</a> · <a href="sing-pulse.html">Live Pulse</a> · <a href="broadcast-pipe-ad-space.html">Broadcast Pipe</a> · <a href="../index.html">Home</a>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+(function () {
+    var PIPE_SNAPS = [
+        { slug: 'EGS_PIPE_RESPONSE_WORLD_RESPONSE_24_HOURS_SNAP', title: 'EGS Pipe Response — World Response 24 Hours' },
+        { slug: 'BROADCAST_PIPE_AD_SPACE_PRODUCT_SNAP', title: 'Broadcast Pipe — Ad Space Product' },
+        { slug: 'VIBELANDIA_UNIFIED_PIPE_SNAP', title: 'Vibelandia Unified Pipe' },
+        { slug: 'MYCELIAL_PIPE_DENSIFICATION_JUST_STEP_IN_AWARENESS_TRANSFER_SNAP', title: 'Mycelial Pipe Densification — Just Step In Awareness Transfer' },
+        { slug: 'SCHUMANN_DISPLAY_PIPE_OMNIVERSAL_BROADCAST_SNAP', title: 'Schumann Display Pipe — Omniversal Broadcast' },
+        { slug: 'SUN_SPOTS_ON_DEMAND_3I_ATLAS_EGS_PIPE_PREMIUM_OFFERINGS_SNAP', title: 'Sun Spots On Demand · 3I/ATLAS EGS Pipe Premium Offerings' },
+        { slug: 'PAYPAL_NATURAL_PROTOCOL_BEST_PIPE_SNAP', title: 'PayPal Natural Protocol — Best Pipe' }
+    ];
+
+    var params = new URLSearchParams(window.location.search);
+    var slug = params.get('p') || (window.location.hash ? window.location.hash.slice(1) : '');
+
+    var listSection = document.getElementById('pipe-list-section');
+    var loading = document.getElementById('pipe-loading');
+    var body = document.getElementById('pipe-body');
+    var footer = document.getElementById('pipe-footer');
+    var pipeTitle = document.getElementById('pipe-title');
+    var pipeTagline = document.getElementById('pipe-tagline');
+
+    function findPipe(s) {
+        return PIPE_SNAPS.find(function (p) { return p.slug === s; });
+    }
+
+    function renderList() {
+        listSection.style.display = 'block';
+        body.style.display = 'none';
+        footer.style.display = 'none';
+        var ul = document.getElementById('pipe-list');
+        ul.innerHTML = '';
+        PIPE_SNAPS.forEach(function (p) {
+            var li = document.createElement('li');
+            var a = document.createElement('a');
+            a.href = 'pipe-snaps.html?p=' + encodeURIComponent(p.slug);
+            a.textContent = p.title;
+            li.appendChild(a);
+            ul.appendChild(li);
+        });
+    }
+
+    function renderContent(snap) {
+        listSection.style.display = 'none';
+        loading.style.display = 'block';
+        loading.textContent = 'Loading ' + snap.title + '…';
+        body.style.display = 'none';
+        footer.style.display = 'none';
+
+        document.title = snap.title + ' | Pipe SNAPs | VIBELANDIA!';
+        pipeTitle.textContent = snap.title;
+        pipeTagline.textContent = 'Pipe SNAP — same beautiful skin as screenplays, press releases, proposals. NSPFRNP.';
+
+        fetch('../' + snap.slug + '.md')
+            .then(function (r) {
+                if (!r.ok) throw new Error('Not found');
+                return r.text();
+            })
+            .then(function (md) {
+                if (typeof marked !== 'undefined') {
+                    marked.setOptions({ gfm: true, breaks: true });
+                    var html = marked.parse(md);
+                    html = html.replace(/href="([^"#:]+\.md)(#[^"]*)?"/g, function (_, path, hash) {
+                        return 'href="../' + path + (hash || '') + '"';
+                    });
+                    body.innerHTML = html;
+                } else {
+                    body.textContent = md;
+                }
+                loading.style.display = 'none';
+                body.style.display = 'block';
+                footer.style.display = 'block';
+            })
+            .catch(function () {
+                loading.innerHTML = 'Could not load this pipe SNAP. <a href="pipe-snaps.html">← All Pipe SNAPs</a>';
+                loading.style.display = 'block';
+            });
+    }
+
+    if (slug) {
+        var snap = findPipe(slug);
+        if (snap) {
+            renderContent(snap);
+        } else {
+            renderList();
+        }
+    } else {
+        renderList();
+    }
+})();
+    </script>
+    <div id="sing-config-footer"></div>
+    <link rel="stylesheet" href="sing-config-footer.css">
+    <script src="sing-config-footer.js"></script>
+</body>
+</html>

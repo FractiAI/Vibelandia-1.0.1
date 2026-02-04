@@ -86,6 +86,7 @@
 - **Catalogs & playlists** — Character layering, Things to Do, Escapes, Dispensary, Happy Ending Zones catalog. See CHARACTER_LAYERING_CONTENT_ENRICHMENT_SNAP.md.
 - **Whitepaper / IEEE / Chairman metrics** — Technical and proof content. Real numbers and % comparisons vs blue chip only — no fluffy. See WHITEPAPER_*, WOW_BRANDING_SNAP.md, NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md.
 - **Proposals SNAP** — Enterprise/community proposals (I CAN DO THIS FOR YOUR BUSINESS). See BUSINESS_OFFER.md, WOW_BRANDING_SNAP.md.
+- **Pipe SNAPs** — EGS Pipe, Broadcast Pipe, Unified Pipe, Mycelial Pipe, Schumann Display Pipe, Sun Spots/EGS Pipe Premium, PayPal Best Pipe. All presented in **beautiful skin** via [interfaces/pipe-snaps.html](interfaces/pipe-snaps.html). Link from Launch Pad, Office Hours, Broadcast Pipe, Sing Pulse, Proposal. See [SCREENPLAY_BEAUTIFUL_SKINS_SNAP.md](SCREENPLAY_BEAUTIFUL_SKINS_SNAP.md).
 
 ---
 
