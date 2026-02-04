@@ -22,8 +22,9 @@
             <h1>Dorila Gao (The Big Ass That Make All Da Men Go Gaga)</h1>
             <p class="tagline">Chairman Frankie feat. Dorila — Club dance anthem · SQUEEZE!</p>
             <div class="oneliner-para-row">
-                <button type="button" class="btn-listen" id="btn-listen" aria-label="Listen to song read aloud">🔊 Listen</button>
+                <a href="text-to-track-motor.html?song=dorila-gao" class="btn-listen" style="display:inline-block;padding:0.5rem 1rem;background:linear-gradient(135deg,#0d9488,#0f766e);color:#fff;font-weight:700;text-decoration:none;border-radius:8px;">Text → Studio quality song</a>
             </div>
+            <p style="margin-top: 0.5rem; font-size: 0.85rem; color: rgba(212, 175, 55, 0.9);">Target: breakout viral hit quality — no less, always.</p>
         </header>
 
         <div id="song-loading" class="loading">Loading song…</div>
@@ -127,7 +128,6 @@ Club anthem — signed Chairman Frankie — baller V.
         loading.style.display = 'none';
         body.style.display = 'block';
         footer.style.display = 'block';
-        initListen();
     }
     var fallbackEl = document.getElementById('song-fallback');
     var fallbackMd = fallbackEl ? fallbackEl.textContent : '';
@@ -141,48 +141,6 @@ Club anthem — signed Chairman Frankie — baller V.
             if (fallbackMd) { render(fallbackMd); return; }
             loading.innerHTML = 'Could not load song. <a href="../catalogs/music/dorila-gao-club-anthem.md">Try direct link</a>.';
         });
-
-    function initListen() {
-        var btn = document.getElementById('btn-listen');
-        var content = document.getElementById('song-body');
-        if (!btn || !content) return;
-        var synth = window.speechSynthesis;
-        var chunks = [], idx = 0;
-        function getChunks() {
-            var text = (content.innerText || content.textContent || '').trim();
-            return text ? text.split(/\n\n+/).filter(function (p) { return p.length > 0; }) : [];
-        }
-        function pickVoice() {
-            var voices = synth.getVoices();
-            var pref = voices.filter(function (v) { var n = (v.name || '').toLowerCase(); return n.indexOf('female') !== -1 || n.indexOf('sabina') !== -1 || n.indexOf('google español') !== -1; });
-            if (pref.length) return pref[0];
-            var es = voices.filter(function (v) { return v.lang && v.lang.indexOf('es') === 0; });
-            return es.length ? es[0] : voices[0];
-        }
-        function speakNext() {
-            if (idx >= chunks.length) {
-                btn.textContent = '🔊 Listen';
-                btn.classList.remove('active');
-                return;
-            }
-            var u = new SpeechSynthesisUtterance(chunks[idx]);
-            u.rate = 0.9;
-            var voice = pickVoice();
-            if (voice) u.voice = voice;
-            u.onend = u.onerror = function () { idx++; speakNext(); };
-            synth.speak(u);
-        }
-        btn.addEventListener('click', function () {
-            if (synth.speaking) { synth.cancel(); btn.textContent = '🔊 Listen'; btn.classList.remove('active'); return; }
-            chunks = getChunks();
-            if (!chunks.length) return;
-            idx = 0;
-            btn.textContent = '⏹ Stop';
-            btn.classList.add('active');
-            if (synth.getVoices().length === 0) synth.onvoiceschanged = function () { speakNext(); };
-            else speakNext();
-        });
-    }
 })();
     </script>
     <div id="sing-config-footer"></div>
