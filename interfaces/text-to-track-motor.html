@@ -227,27 +227,30 @@
         <div class="hero">
             <span class="badge">Seed:Edge Motor · NSPFRNP · Copyright-free · Studio quality</span>
             <h1>Text-to-Track Motor</h1>
-            <p class="tagline">The artist creator gives exec instruction to his studio or concert team (options: studio, concert). Create dream teams with <strong>you as executive producer</strong>. Songs in text → production WAV. Each track = one master musician (holographic name) and their instrument. Download · Playlist · Catalog.</p>
+            <p class="tagline">Songs in text → <strong>one WAV (entire song)</strong>. Simple 1, 2, 3. You as executive producer; studio or concert team. Download · Playlist · Catalog.</p>
+            <p style="margin-top: 1rem; font-size: 0.9rem; color: #b0b8c0;"><strong>1</strong> Lyrics · <strong>2</strong> Genre &amp; vibe · <strong>3</strong> Generate entire song</p>
             <p style="margin-top: 1rem; font-size: 0.95rem; color: #d4af37; font-weight: 700;">Target: <strong>breakout viral hit quality</strong>. No less, always, all songs — why not.</p>
             <p style="margin-top: 0.35rem; font-size: 0.85rem; color: #9ca3af;">Layer 0 WAV here = brief + proof of concept. Full pipeline (vocals, arrangement, mix, master) delivers that bar.</p>
         </div>
 
         <section class="dream-teams-section" style="margin-bottom: 1.5rem;" aria-label="Produce this song — Hero Jo studio">
             <h3>Produce this song</h3>
-            <p class="ep-badge">Load lyrics + Reggaetón lineup. One click to fill, then hit Generate production WAV.</p>
+            <p class="ep-badge">Load lyrics + Reggaetón lineup. One click to fill, then hit Generate entire song (one WAV).</p>
             <div class="load-row" style="flex-wrap: wrap; gap: 0.75rem;">
                 <a href="text-to-track-motor.html?song=te-quiero-mucho-baby" id="preset-te-quiero" class="btn-load-dream" style="display:inline-block;padding:0.6rem 1rem;text-decoration:none;">Te Quiero Mucho Baby</a>
                 <a href="text-to-track-motor.html?song=dorila-gao" id="preset-dorila" class="btn-load-dream" style="display:inline-block;padding:0.6rem 1rem;text-decoration:none;">Dorila Gao — Club anthem</a>
             </div>
         </section>
 
-        <p id="preset-ready-msg" class="status-msg success" style="display: none; margin-bottom: 1rem;">Lyrics loaded. Hit <strong>Generate production WAV</strong> below.</p>
+        <p id="preset-ready-msg" class="status-msg success" style="display: none; margin-bottom: 1rem;">Lyrics loaded. Hit <strong>Generate entire song</strong> below.</p>
 
         <form id="motor-form">
+            <p style="font-size: 0.8rem; font-weight: 700; color: #0d9488; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 0.5rem;">Step 1 — Lyrics</p>
             <div class="form-group">
                 <label for="songs-text">Songs in text (lyrics, title, or description)</label>
-                <textarea id="songs-text" name="songs-text" placeholder="Paste or type your song text here. The motor uses this + Seed + Edge to generate a unique, copyright-free track."></textarea>
+                <textarea id="songs-text" name="songs-text" placeholder="Paste or type your song text here. The motor uses this + Seed + Edge to generate one entire song (one WAV)."></textarea>
             </div>
+            <p style="font-size: 0.8rem; font-weight: 700; color: #0d9488; text-transform: uppercase; letter-spacing: 0.1em; margin: 1.25rem 0 0.5rem;">Step 2 — Genre &amp; vibe</p>
             <div class="form-row">
                 <div class="form-group">
                     <label for="seed">Seed (origin — e.g. root note name or Hz)</label>
@@ -308,39 +311,38 @@
                 </div>
                 <ul id="dream-teams-list" class="dream-teams-list"></ul>
             </section>
-            <div class="form-row">
-                <div class="form-group">
-                    <label for="executive">Executive instruction (how to fill — BPM, tone, density)</label>
-                    <input type="text" id="executive" name="executive" value="smooth finish, studio quality, 92 BPM" placeholder="smooth finish, 92 BPM, warm">
-                </div>
-                <div class="form-group" style="min-width: 140px;">
-                    <label for="num-tracks">Tracks (1–12)</label>
-                    <select id="num-tracks" name="num-tracks" style="width:100%;padding:0.75rem 1rem;background:rgba(255,255,255,0.06);border:1px solid rgba(13,148,136,0.3);border-radius:10px;color:#e8e6e3;font-size:1rem;">
-                        <option value="1">1 — Sera · Bass</option>
-                        <option value="2">2 — Sera · Bass, Kael · Drums</option>
-                        <option value="3">3 — Sera, Kael, Nola</option>
-                        <option value="4">4 — Sera, Kael, Nola, Lyra</option>
-                        <option value="5">5 — … Lyra, Rune</option>
-                        <option value="6">6 — … Rune, Vex</option>
-                        <option value="7">7 — … Vex, Bram</option>
-                        <option value="8">8 — … Bram, Echo</option>
-                        <option value="9">9 — … Echo, Zephyr</option>
-                        <option value="10">10 — … Zephyr, Orin</option>
-                        <option value="11">11 — … Orin, Flux</option>
-                        <option value="12">12 — … Flux, Maestro · Producer/Conductor</option>
-                    </select>
-                    <p style="font-size: 0.75rem; color: #6b7280; margin-top: 0.35rem;">Track = master studio musician (holographic name) · their instrument</p>
-                </div>
+            <div class="form-group">
+                <label for="executive">Executive instruction (BPM, tone, density)</label>
+                <input type="text" id="executive" name="executive" value="smooth finish, studio quality, 92 BPM" placeholder="smooth finish, 92 BPM, warm">
             </div>
-            <button type="submit" class="btn-generate" id="btn-generate">Generate production WAV</button>
+            <p style="font-size: 0.8rem; font-weight: 700; color: #0d9488; text-transform: uppercase; letter-spacing: 0.1em; margin: 1.25rem 0 0.5rem;">Step 3 — Generate entire song</p>
+            <p style="font-size: 0.85rem; color: #9ca3af; margin-bottom: 1rem;">One WAV (full song). Layers mixed automatically. 6 layers default (Bass, Drums, Pad, Lead, Keys, more).</p>
+            <div class="form-group" style="display: none;" id="num-tracks-wrap">
+                <label for="num-tracks">Layers in mix (1–12)</label>
+                <select id="num-tracks" name="num-tracks" style="width:100%;padding:0.75rem 1rem;background:rgba(255,255,255,0.06);border:1px solid rgba(13,148,136,0.3);border-radius:10px;color:#e8e6e3;font-size:1rem;">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6" selected>6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                    <option value="11">11</option>
+                    <option value="12">12</option>
+                </select>
+            </div>
+            <button type="submit" class="btn-generate" id="btn-generate">Generate entire song (one WAV)</button>
         </form>
 
         <div class="output-section" id="output-section">
-            <h3>Production WAV ready</h3>
+            <h3>Entire song ready</h3>
             <p id="output-filename" class="status-msg"></p>
             <div id="download-list"></div>
-            <button type="button" class="btn-add-playlist" id="btn-add-playlist">+ Add all to playlist</button>
-            <button type="button" class="btn-add-catalog" id="btn-add-catalog">+ Add all to catalog (NSPFRNP)</button>
+            <button type="button" class="btn-add-playlist" id="btn-add-playlist">+ Add to playlist</button>
+            <button type="button" class="btn-add-catalog" id="btn-add-catalog">+ Add to catalog (NSPFRNP)</button>
             <button type="button" class="btn-add-catalog" id="btn-copy-catalog" style="margin-left: 0;">Copy catalog entry (markdown)</button>
         </div>
 
@@ -460,23 +462,9 @@
         if (!sel) return;
         lineup = lineup || getCurrentLineup();
         var maxN = Math.min(12, lineup.length);
-        sel.innerHTML = '';
-        for (var n = 1; n <= maxN; n++) {
-            var names = [];
-            for (var i = 0; i < n; i++) {
-                var m = getMusicianForTrack(i, lineup);
-                names.push(m.name + (i < 3 ? ' · ' + m.instrument : ''));
-            }
-            var label = n + ' — ' + (names.length <= 2 ? names.join(', ') : names.slice(0, 2).join(', ') + (n > 2 ? ', … ' + names[n - 1] : ''));
-            if (n === 12 && lineup.length >= 12) {
-                var last = getMusicianForTrack(11, lineup);
-                label = n + ' — … ' + last.display;
-            }
-            var opt = document.createElement('option');
-            opt.value = String(n);
-            opt.textContent = label;
-            sel.appendChild(opt);
-        }
+        if (maxN < 1) maxN = 1;
+        var current = Math.min(12, Math.max(1, parseInt(sel.value, 10) || 6));
+        sel.value = String(Math.min(current, maxN));
     }
 
     /** One track = one master musician (holographic name) and their instrument. Artist creator gives exec instruction to his studio or concert team. Copyright-free: oscillators only. */
@@ -737,6 +725,29 @@
         return blob;
     }
 
+    /** Mix N track buffers into one stereo buffer (entire song). Gain 1/N to avoid clip. */
+    function mixAudioBuffers(buffers) {
+        if (!buffers || buffers.length === 0) return null;
+        if (buffers.length === 1) return buffers[0];
+        var numChannels = 2;
+        var sampleRate = buffers[0].sampleRate;
+        var length = buffers[0].length;
+        var n = buffers.length;
+        var ctx = new OfflineAudioContext(numChannels, length, sampleRate);
+        var gainPerTrack = 1 / Math.sqrt(n);
+        for (var i = 0; i < buffers.length; i++) {
+            var buf = buffers[i];
+            var gain = ctx.createGain();
+            gain.gain.value = gainPerTrack;
+            var src = ctx.createBufferSource();
+            src.buffer = buf;
+            src.connect(gain);
+            gain.connect(ctx.destination);
+            src.start(0);
+        }
+        return ctx.startRendering();
+    }
+
     var lastOutputs = [];
     var playlist = JSON.parse(localStorage.getItem('textToTrackPlaylist') || '[]');
     var catalog = JSON.parse(localStorage.getItem('textToTrackCatalog') || '[]');
@@ -916,7 +927,7 @@
         if (team !== 'concert') team = 'studio';
         var executive = document.getElementById('executive').value.trim() || 'smooth finish';
         var lineup = getCurrentLineup();
-        var numTracks = Math.min(12, Math.max(1, parseInt(document.getElementById('num-tracks').value, 10) || 1));
+        var numTracks = Math.min(12, Math.max(1, parseInt(document.getElementById('num-tracks').value, 10) || 6));
         numTracks = Math.min(numTracks, lineup.length);
         if (numTracks < 1) numTracks = 1;
 
@@ -924,34 +935,43 @@
         var out = document.getElementById('output-section');
         var filenameEl = document.getElementById('output-filename');
         var downloadListEl = document.getElementById('download-list');
-        filenameEl.textContent = 'Generating ' + numTracks + ' track(s) — ' + team + ' team (artist creator exec instruction)… Seed:Edge + executive. Copyright-free.';
+        filenameEl.textContent = 'Generating entire song (' + numTracks + ' layers mixed) — ' + team + ' team… Seed:Edge + executive. Copyright-free.';
         filenameEl.className = 'status-msg';
         out.classList.add('visible');
         downloadListEl.innerHTML = '';
 
         var durationSec = textToDurationSec(songsText, executive);
-        var baseTitle = songsText.slice(0, 60) || 'Seed-Edge-Track';
+        var baseTitle = songsText.slice(0, 60) || 'Seed-Edge-Song';
         var baseTime = Date.now();
-        lastOutputs = [];
+        var trackBuffers = [];
 
         function runNext(index) {
             if (index >= numTracks) {
-                filenameEl.textContent = numTracks === 1 ? lastOutputs[0].meta.filename : numTracks + ' tracks ready.';
-                filenameEl.className = 'status-msg success';
-                lastOutputs.forEach(function (item, i) {
-                    var m = item.meta.musicianDisplay || (getMusicianForTrack(i, lineup).display);
+                mixAudioBuffers(trackBuffers).then(function (mixedBuffer) {
+                    var mixedBlob = audioBufferToWav(mixedBuffer);
+                    var filename = slug(baseTitle) + '_' + baseTime + '.wav';
+                    lastOutputs = [{
+                        blob: mixedBlob,
+                        meta: { title: baseTitle, seed: seed, edge: edge, team: team, executive: executive, filename: filename, numTracks: numTracks }
+                    }];
+                    filenameEl.textContent = 'Entire song ready: ' + filename;
+                    filenameEl.className = 'status-msg success';
                     var a = document.createElement('a');
-                    a.href = URL.createObjectURL(item.blob);
-                    a.download = item.meta.filename;
+                    a.href = URL.createObjectURL(mixedBlob);
+                    a.download = filename;
                     a.className = 'btn-download';
                     a.style.display = 'inline-flex';
                     a.style.marginRight = '0.75rem';
                     a.style.marginBottom = '0.5rem';
-                    a.textContent = '↓ ' + (numTracks > 1 ? 'Track ' + (i + 1) + ' — ' + m : item.meta.filename);
-                    a.title = item.meta.filename;
+                    a.textContent = '↓ Download entire song (WAV)';
+                    a.title = filename;
                     downloadListEl.appendChild(a);
+                    btn.disabled = false;
+                }).catch(function (err) {
+                    filenameEl.textContent = 'Error mixing: ' + (err.message || 'mix failed');
+                    filenameEl.className = 'status-msg error';
+                    btn.disabled = false;
                 });
-                btn.disabled = false;
                 return;
             }
             var musician = getMusicianForTrack(index, lineup);
@@ -965,16 +985,10 @@
                 trackIndex: index,
                 musician: musician
             }).then(function (buffer) {
-                var blob = audioBufferToWav(buffer);
-                var title = numTracks === 1 ? baseTitle : baseTitle + ' (' + (index + 1) + '/' + numTracks + ')';
-                var filename = slug(baseTitle) + (numTracks > 1 ? '_' + (index + 1) : '') + '_' + baseTime + '.wav';
-                lastOutputs.push({
-                    blob: blob,
-                    meta: { title: title, seed: seed, edge: edge, team: team, executive: executive, filename: filename, trackIndex: index, numTracks: numTracks, musicianName: musician.name, musicianInstrument: musician.instrument, musicianDisplay: musician.display }
-                });
+                trackBuffers.push(buffer);
                 runNext(index + 1);
             }).catch(function (err) {
-                filenameEl.textContent = 'Error (track ' + (index + 1) + '): ' + (err.message || 'generation failed');
+                filenameEl.textContent = 'Error (layer ' + (index + 1) + '): ' + (err.message || 'generation failed');
                 filenameEl.className = 'status-msg error';
                 btn.disabled = false;
             });
@@ -984,18 +998,14 @@
 
     document.getElementById('btn-add-playlist').addEventListener('click', function () {
         if (!lastOutputs.length) return;
-        lastOutputs.forEach(function (item) {
-            playlist.push({
-                title: item.meta.title,
-                seed: item.meta.seed,
-                edge: item.meta.edge,
-                team: item.meta.team,
-                filename: item.meta.filename,
-                musicianDisplay: item.meta.musicianDisplay,
-                musicianName: item.meta.musicianName,
-                musicianInstrument: item.meta.musicianInstrument,
-                url: URL.createObjectURL(item.blob)
-            });
+        var item = lastOutputs[0];
+        playlist.push({
+            title: item.meta.title,
+            seed: item.meta.seed,
+            edge: item.meta.edge,
+            team: item.meta.team,
+            filename: item.meta.filename,
+            url: URL.createObjectURL(item.blob)
         });
         savePlaylist();
         renderPlaylist();
@@ -1006,7 +1016,8 @@
         var now = new Date().toISOString();
         lastOutputs.forEach(function (item, i) {
             var trackId = 'TEXT-TO-TRACK-' + slug(item.meta.title).toUpperCase().replace(/_/g, '-') + '-' + Date.now() + (lastOutputs.length > 1 ? '-' + (i + 1) : '');
-            var m = item.meta.musicianDisplay || getMusicianForTrack(i).display;
+            var layers = item.meta.numTracks != null ? item.meta.numTracks : 6;
+            var disp = item.meta.musicianDisplay || ('Entire song · ' + layers + ' layers');
             catalog.push({
                 trackId: trackId,
                 title: item.meta.title,
@@ -1015,7 +1026,7 @@
                 team: item.meta.team,
                 executive: item.meta.executive,
                 filename: item.meta.filename,
-                musicianDisplay: item.meta.musicianDisplay || m,
+                musicianDisplay: disp,
                 musicianName: item.meta.musicianName,
                 musicianInstrument: item.meta.musicianInstrument,
                 generatedAt: now,
@@ -1032,13 +1043,12 @@
         var trackId = 'TEXT-TO-TRACK-' + slug(first.title).toUpperCase().replace(/_/g, '-') + '-' + Date.now();
         var md = '# ' + first.title + '\n\n' +
             '**Track ID:** `' + trackId + '`  \n' +
-            '**Tracks:** ' + lastOutputs.length + ' (1–12 available). Each track = one master musician (holographic name) and their instrument.  \n' +
+            '**Entire song:** One WAV (full song). Layers in mix: ' + (first.numTracks || 1) + '.  \n' +
             '**Team:** ' + (first.team || 'studio') + ' (artist creator gives exec instruction to his studio or concert team).  \n' +
-            (lastOutputs.length > 1 ? '**Musicians:** ' + lastOutputs.map(function (o) { return o.meta.musicianDisplay || getMusicianForTrack(o.meta.trackIndex).display; }).join(', ') + '  \n' : '') +
             '**Seed:** ' + first.seed + '  \n' +
             '**Edge:** ' + first.edge + '  \n' +
             '**Executive:** ' + (first.executive || '') + '  \n' +
-            '**Filenames:** ' + lastOutputs.map(function (o) { return o.meta.filename; }).join(', ') + '  \n' +
+            '**Filename:** ' + first.filename + '  \n' +
             '**Generated:** ' + new Date().toISOString() + '  \n' +
             '**Protocol:** TEXT-TO-TRACK-MOTOR-SEED-EDGE-NSPFRNP  \n' +
             '**Status:** Production WAV · Copyright-free · Seed:Edge motor.\n\n---\n';
@@ -1088,7 +1098,7 @@
                 : 'Dorila Gao — The Big Ass That Make All Da Men Go Gaga\n\nChairman Frankie feat. Dorila — Club dance anthem.\n\nHOOK: Dorila Gao — the big ass that make all da men go gaga. Dorila Gao — spin it, lay it down, you know how I like it daddy. Gao gao gao — Dorila Gao.\n\nVERSE: She from the coast, Afro-Colombian witch — Dorila Gao. Big ass make all da men go gaga. SQUEEZE! in the building, WINK! in the system. Gold heart baller V, locked and loaded, listen.\n\nClub anthem — signed Chairman Frankie — baller V.';
             if (songsTextEl) songsTextEl.value = fallback;
             var readyMsg = document.getElementById('preset-ready-msg');
-            if (readyMsg) { readyMsg.style.display = 'block'; readyMsg.textContent = 'Lyrics loaded (fallback). Hit Generate production WAV below.'; }
+            if (readyMsg) { readyMsg.style.display = 'block'; readyMsg.textContent = 'Lyrics loaded (fallback). Hit Generate entire song below.'; }
         });
     }
 
