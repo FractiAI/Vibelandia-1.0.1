@@ -732,8 +732,25 @@
     var DREAM_TEAMS_KEY = 'textToTrackDreamTeams';
     var dreamTeams = JSON.parse(localStorage.getItem(DREAM_TEAMS_KEY) || '[]');
 
+    var DEFAULT_PLAYLIST_WAV = [
+        { title: 'Te Quiero Mucho Baby', url: 'audio/te-quiero-mucho-baby.wav', filename: 'te-quiero-mucho-baby.wav', seed: 'C4', edge: 'studio', team: 'studio' },
+        { title: 'Dorila Gao', url: 'audio/dorila-gao.wav', filename: 'dorila-gao.wav', seed: 'C4', edge: 'studio', team: 'studio' }
+    ];
+    var DEFAULT_CATALOG_WAV = [
+        { trackId: 'TE-QUIERO-MUCHO-BABY-001', title: 'Te Quiero Mucho Baby', seed: 'C4', edge: 'studio', team: 'studio', filename: 'te-quiero-mucho-baby.wav', musicianDisplay: 'Entire song · WAV', protocol: 'TEXT-TO-TRACK-MOTOR-SEED-EDGE-NSPFRNP' },
+        { trackId: 'DORILA-GAO-CLUB-ANTHEM-001', title: 'Dorila Gao', seed: 'C4', edge: 'studio', team: 'studio', filename: 'dorila-gao.wav', musicianDisplay: 'Entire song · WAV', protocol: 'TEXT-TO-TRACK-MOTOR-SEED-EDGE-NSPFRNP' }
+    ];
+
     function savePlaylist() { localStorage.setItem('textToTrackPlaylist', JSON.stringify(playlist)); }
     function saveCatalog() { localStorage.setItem('textToTrackCatalog', JSON.stringify(catalog)); }
+    if (playlist.length === 0) {
+        playlist = DEFAULT_PLAYLIST_WAV.slice();
+        savePlaylist();
+    }
+    if (catalog.length === 0) {
+        catalog = DEFAULT_CATALOG_WAV.slice();
+        saveCatalog();
+    }
     function saveDreamTeams() { localStorage.setItem(DREAM_TEAMS_KEY, JSON.stringify(dreamTeams)); }
 
     function applyDreamTeam(lineup) {
@@ -917,6 +934,7 @@
         var durationSec = textToDurationSec(songsText, executive);
         var baseTitle = songsText.slice(0, 60) || 'Seed-Edge-Song';
         var baseTime = Date.now();
+        var trackBuffers = [];
 
         out.classList.add('visible');
         downloadListEl.innerHTML = '';
@@ -957,7 +975,7 @@
         }).catch(function () {
             filenameEl.textContent = 'Generating entire song (' + numTracks + ' layers mixed) — ' + team + ' team… Seed:Edge + executive. Copyright-free.';
             filenameEl.className = 'status-msg';
-            var trackBuffers = [];
+            trackBuffers.length = 0;
             runNext(0);
         });
 
@@ -1009,7 +1027,6 @@
                 btn.disabled = false;
             });
         }
-        runNext(0);
     });
 
     document.getElementById('btn-add-playlist').addEventListener('click', function () {
