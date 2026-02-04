@@ -11,16 +11,18 @@
 
 **Studio fees** = fees for using the **studio team** and studio-quality production. Artist creator gives executive instruction to his **studio** or concert team. Production WAV (1–12 tracks) · Download · Playlist · Catalog. Copyright-free · Seed:Edge motor only.
 
+**Unit:** All listed studio fees are **per song** (one full production = one motor run, 1–12 tracks, one WAV bundle). Not per day, not per month — **per song**. Ultimate tier: by arrangement (e.g. multi-song packs, monthly retainer, custom scope).
+
 ---
 
 ## Studio fees (BALLER V PRODUCER — studio team)
 
-| Tier | Plan | Studio fee | What you get |
-|------|------|------------|--------------|
-| **1** | Baller V Producer — Base | 1 Ben ($100) | Access to Text-to-Track Motor · **Studio** or concert team · Dream teams · Up to 12 tracks per run · Download · Playlist · Catalog. |
-| **2** | Baller V Producer — Standard | 4 Ben ($400) | Base + Priority queue · Extended dream team storage · Catalog export. |
-| **3** | Baller V Producer — Premium | 16 Ben ($1,600) | Standard + Custom executive briefs · Dedicated lineup presets · NSPFRNP attestation per production. |
-| **4×4×4×4** | Baller V Producer — Ultimate Baller V | By arrangement | Full producer tier · White-label · Integration · Office Hours with Pru. |
+| Tier | Plan | Studio fee | Per | What you get (detailed) |
+|------|------|------------|-----|-------------------------|
+| **1** | Baller V Producer — Base | 1 Ben ($100) | **Per song** | **One full production** (one run): Text-to-Track Motor · Studio or concert team · Dream teams · Up to 12 tracks per run · Download · Playlist · Catalog. Copyright-free · Seed:Edge. |
+| **2** | Baller V Producer — Standard | 4 Ben ($400) | **Per song** | **One full production** at Standard tier: everything in Base + **Priority queue** (faster turnaround) · **Extended dream team storage** (save more lineups) · **Catalog export** (markdown/NSPFRNP). |
+| **3** | Baller V Producer — Premium | 16 Ben ($1,600) | **Per song** | **One full production** at Premium tier: everything in Standard + **Custom executive briefs** (we tailor the brief to your song) · **Dedicated lineup presets** (your go-to team locked in) · **NSPFRNP attestation** per production. |
+| **4×4×4×4** | Baller V Producer — Ultimate Baller V | By arrangement | **Custom** | Multi-song packs, monthly retainer, or one-off at Ultimate level. Full producer tier · White-label · Integration · Office Hours with Pru. Scope and price agreed per booking. |
 
 **Book:** [payment-checkout.html?plan=baller-v-producer-base](interfaces/payment-checkout.html?plan=baller-v-producer-base) (Base) · [baller-v-producer.html](interfaces/baller-v-producer.html) (full tiers). **Talk to Pru** for Ultimate tier.
 

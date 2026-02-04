@@ -29,12 +29,14 @@
 
 ## Price
 
-| Tier | Name | Price | What you get |
-|------|------|-------|--------------|
-| **1** | Baller V Producer — Base | 1 Ben ($100) | Access to Text-to-Track Motor · Dream teams · Studio or concert team · Up to 12 tracks per run · Download · Playlist · Catalog. |
-| **2** | Baller V Producer — Standard | 4 Ben ($400) | Base + Priority queue · Extended dream team storage · Catalog export. |
-| **3** | Baller V Producer — Premium | 16 Ben ($1,600) | Standard + Custom executive briefs · Dedicated lineup presets · NSPFRNP attestation per production. |
-| **4×4×4×4** | Baller V Producer — Ultimate Baller V | By arrangement | Full producer tier · White-label · Integration · Office Hours with Pru. |
+All fees **per song** (one full production = one motor run, 1–12 tracks). Ultimate = by arrangement (e.g. multi-song packs, retainer).
+
+| Tier | Name | Price | Per | What you get |
+|------|------|-------|-----|--------------|
+| **1** | Baller V Producer — Base | 1 Ben ($100) | Per song | One full production: Text-to-Track Motor · Dream teams · Studio or concert team · Up to 12 tracks per run · Download · Playlist · Catalog. |
+| **2** | Baller V Producer — Standard | 4 Ben ($400) | Per song | One production at Standard: Base + Priority queue · Extended dream team storage · Catalog export. |
+| **3** | Baller V Producer — Premium | 16 Ben ($1,600) | Per song | One production at Premium: Standard + Custom executive briefs · Dedicated lineup presets · NSPFRNP attestation per production. |
+| **4×4×4×4** | Baller V Producer — Ultimate Baller V | By arrangement | Custom | Multi-song packs, retainer, or one-off. Full producer tier · White-label · Office Hours with Pru. |
 
 **Offered at:** Office Hours · Launch Pad · Music Studio · Ultimate Baller V Music Channel. **BUY** on [Launch Pad](interfaces/launch-pad.html) or [payment-checkout](interfaces/payment-checkout.html?plan=baller-v-producer-base). Gold Hearts Club members: see [Gold Hearts Club](interfaces/gold-hearts-club-program.html). **Talk to Pru** for Ultimate tier.
 

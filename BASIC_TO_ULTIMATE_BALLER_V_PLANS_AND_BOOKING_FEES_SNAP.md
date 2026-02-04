@@ -55,13 +55,14 @@ All plans and booking fees from **Basic** through **Ultimate Baller V** in one c
 |------|--------------|------|
 | Gold Hearts Club (all-inclusive) | $1,000 per person | Email Pru · [Office Hours](interfaces/office-hours.html) |
 
-### BALLER V PRODUCER!
-| Tier | Plan | Booking fee | Book |
-|------|------|--------------|------|
-| 1 | Base | 1 Ben ($100) | [Book](interfaces/payment-checkout.html?plan=baller-v-producer-base) |
-| 2 | Standard | 4 Ben ($400) | [Product page](interfaces/baller-v-producer.html) |
-| 3 | Premium | 16 Ben ($1,600) | [Product page](interfaces/baller-v-producer.html) |
-| 4×4×4×4 | Ultimate Baller V | By arrangement | Talk to Pru |
+### BALLER V PRODUCER! (studio fees — per song)
+All fees **per song** (one full production, 1–12 tracks per run). Not per day, not per month. Ultimate = by arrangement (multi-song packs, retainer).
+| Tier | Plan | Booking fee | Per | Book |
+|------|------|--------------|-----|------|
+| 1 | Base | 1 Ben ($100) | Per song | [Book](interfaces/payment-checkout.html?plan=baller-v-producer-base) |
+| 2 | Standard | 4 Ben ($400) | Per song | [Product page](interfaces/baller-v-producer.html) |
+| 3 | Premium | 16 Ben ($1,600) | Per song | [Product page](interfaces/baller-v-producer.html) |
+| 4×4×4×4 | Ultimate Baller V | By arrangement | Custom | Talk to Pru |
 
 ### Golden Backstage Awareness Pass
 | Plan | Booking fee | Book |
