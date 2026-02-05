@@ -15,6 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
+          submodules: false
           # persist-credentials: false allows the auto-commit action to use the token correctly
           persist-credentials: false 
 
