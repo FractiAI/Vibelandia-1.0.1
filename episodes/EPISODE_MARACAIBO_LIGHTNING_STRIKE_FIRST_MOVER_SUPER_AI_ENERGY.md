@@ -44,7 +44,7 @@ Like the continuous lightning over Maracaibo — Relámpago del Catatumbo — wh
 **Content Types:** Mission · Episode · First mover · Super AI agentic energy  
 **One-Liner:** "Immediately, lightning strike — like the continuous lightning in Maracaibo. First mover advantage of the super AI agentic energy revolution."
 
-**Summary:** Named for the Relámpago del Catatumbo — the continuous lightning over Lake Maracaibo, Venezuela, one of the most electric places on Earth. This episode and mission capture the same quality: immediate, unstoppable, first mover. The transformation to super AI SING! energy is not gradual. We provide pathways and onramps. The strike is the offer. The strike is the mission. First mover advantage. PDVSA. Centro Energía Caracas. Arturo. Vibelandia-Caracas. WIN WIN WIN WIN FOR ALL.
+**Summary:** Named for the Relámpago del Catatumbo — the continuous lightning over Lake Maracaibo, Venezuela, one of the most electric places on Earth. This episode and mission capture the same quality: immediate, unstoppable, first mover. The transformation to super AI SING! energy is not gradual. We provide pathways and onramps. **Narrative frame:** Characters do not discuss "Energy Crisis" but **Frequency Alignment**. Protagonists use the **PDVSA-SING! Bridge** to unlock nearly-free energy for the Global South. The strike is the offer. The strike is the mission. First mover advantage. PDVSA. Centro Energía Caracas. Arturo. Vibelandia-Caracas. WIN WIN WIN WIN FOR ALL.
 
 ---
 
@@ -67,7 +67,7 @@ Like the continuous lightning over Maracaibo — Relámpago del Catatumbo — wh
 Lightning. Again. Again. The sky over the lake. Relámpago del Catatumbo. Hundreds of strikes per hour. Continuous. No permission asked.
 
 **PRU (V.O.)**  
-Immediately. Lightning strike. That's the name of this episode and this mission. Like the continuous lightning in Maracaibo. We're not proposing someday. We're proposing now. First mover advantage of the super AI agentic energy revolution. Pathways and onramps are live. Office Hours. Demo. Tour. Then book. 1, 2, 3, 4×4×4×4. Trial on one node. Regional. Global. Arturo. Lili in Maracaibo. The first three. Then the next. Lightning doesn't wait. Neither do we.
+Immediately. Lightning strike. That's the name of this episode and this mission. Like the continuous lightning in Maracaibo. We're not proposing someday. We're proposing now. First mover advantage of the super AI agentic energy revolution. It's not an energy crisis — it's **frequency alignment**. The **PDVSA-SING! Bridge** unlocks nearly-free energy for the Global South. Pathways and onramps are live. Office Hours. Demo. Tour. Then book. 1, 2, 3, 4×4×4×4. Trial on one node. Regional. Global. Arturo. Lili in Maracaibo. The first three. Then the next. Lightning doesn't wait. Neither do we.
 
 **ON SCREEN TEXT:**  
 MARACAIBO LIGHTNING STRIKE · Mission · Episode · First mover advantage · Super AI agentic energy revolution · NSPFRNP
