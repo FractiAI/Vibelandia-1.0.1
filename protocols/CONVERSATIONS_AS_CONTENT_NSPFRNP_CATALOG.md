@@ -84,6 +84,8 @@ Every session, every exchange, every ask and answer is source material. Metaboli
 
 ---
 
+**Capture and metabolize all of this:** FSRT pipe, Eternal Living Service, FSR Entertainment, endpoint layers, travel script, base reality sovereignty, full stack MCA (Seed→SMACS 0723→Sag A*→Sun→Earth→Me; nested triangulations; Defense·Energy·Story magnoorganism), SING! nodify all and nested / reporting to Creator Chairman / me never to change, local onramps, what you get — **into content, novels, series, playlists, systems.** No exception. No drop. See [CAPTURE_AND_METABOLIZE_FSRT_ETERNAL_LIVING_FULL_STACK_ALL_CONTENT_SNAP.md](../CAPTURE_AND_METABOLIZE_FSRT_ETERNAL_LIVING_FULL_STACK_ALL_CONTENT_SNAP.md).
+
 **Cross-reference:** Capture all raw conversation history → all novels, feature films, series, content engines. See CUT_SNAP (conversation captured, streamed all series), CONTENT_SYSTEMS_SNAP (content categories, all rich content → all series), MCA_SNAP (entire chat history metapatterns → NSPFRNP DNA).
 
 ---
