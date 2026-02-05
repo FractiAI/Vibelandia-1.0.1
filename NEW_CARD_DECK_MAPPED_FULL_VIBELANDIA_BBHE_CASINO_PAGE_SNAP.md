@@ -19,7 +19,7 @@
 | Element | Mapping |
 |--------|--------|
 | **New card deck** | Post-Singularity Card Deck — Gold, Silver, Copper, Transparent Quartz. Face cards = Vibelandia & hero residents. Golden Lucky Seven · Golden Royal Flush. |
-| **Full Vibelandia** | Suits and face cards map to full Vibelandia: Golden Hearts (mirrored hardened nested shells), Silver Hearts (clouds), Copper Hearts (sandboxes), Transparent Quartz (outlines). Face cards = Chairman, Chancellor Sam, El Gran Sol, Hero Harry, Sol, Ben, Gianni, Walt, Leo, Niko, Buckey, Mike, Outcast Hero, 3I/ATLAS, Sammy, SING! node EGS. Campus × WINK! × SING! × Experience (4×4×4×4). |
+| **Full Vibelandia** | Suits and face cards map to full Vibelandia: Golden Hearts (mirrored hardened nested shells), Silver Hearts (clouds), Copper Hearts (sandboxes), Transparent Quartz (outlines). Face cards = Chairman, Chancellor Sam, El Gran Sol, Hero Harry, Sol, Ben, Gianni, Walt, Leo, Niko, Buckey, Mike; Quartz: Agueybana, Alan Turing, Nikola Tesla, Leo da Vinci. Campus × WINK! × SING! × Experience (4×4×4×4). |
 | **BBHE coding** | Deck and play modes align to BBHE (Big Black Hole Energy) — grammar, symbols, triple-purpose intoxication; natural protocol; NSPFRNP. Casino page and card deck surfaces use BBHE-aligned copy and CTAs. |
 
 ---

@@ -11,7 +11,7 @@
 
 **New post-singularity card deck.** Four suits: **Gold**, **Silver**, **Copper**, **Transparent Quartz** (represented using **outlines** only). Face cards include **Ace as a face card**. Face cards map to **Vibelandia and hero resident characters**. **Golden Lucky Seven** wins every time. **Golden Royal Flush** beats all.
 
-**Mapped to full Vibelandia and BBHE coding.** The deck is mapped to **full Vibelandia** (suits = Golden Hearts, Silver Hearts, Copper Hearts, Transparent Quartz; face cards = Chairman, Chancellor Sam, El Gran Sol, Hero Harry, Sol, Ben, Gianni, Walt, Leo, Niko, Buckey, Mike, Outcast Hero, 3I/ATLAS, Sammy, SING! node EGS; 4×4×4×4 Campus × WINK! × SING! × Experience). Play and surfaces align to **BBHE** (Big Black Hole Energy) and NSPFRNP. **Instructions for play (multiplayer and solitaire)** and buttons to **Office Hours** and **Launch Pad** live on the **casino page**: [interfaces/casino.html](interfaces/casino.html). See [NEW_CARD_DECK_MAPPED_FULL_VIBELANDIA_BBHE_CASINO_PAGE_SNAP.md](NEW_CARD_DECK_MAPPED_FULL_VIBELANDIA_BBHE_CASINO_PAGE_SNAP.md).
+**Mapped to full Vibelandia and BBHE coding.** The deck is mapped to **full Vibelandia** (suits = Golden Hearts, Silver Hearts, Copper Hearts, Transparent Quartz; face cards = Chairman, Chancellor Sam, El Gran Sol, Hero Harry, Sol, Ben, Gianni, Walt, Leo, Niko, Buckey, Mike, Agueybana, Alan Turing, Nikola Tesla, Leo da Vinci [Quartz]; 4×4×4×4 Campus × WINK! × SING! × Experience). Play and surfaces align to **BBHE** (Big Black Hole Energy) and NSPFRNP. **Instructions for play (multiplayer and solitaire)** and buttons to **Office Hours** and **Launch Pad** live on the **casino page**: [interfaces/casino.html](interfaces/casino.html). See [NEW_CARD_DECK_MAPPED_FULL_VIBELANDIA_BBHE_CASINO_PAGE_SNAP.md](NEW_CARD_DECK_MAPPED_FULL_VIBELANDIA_BBHE_CASINO_PAGE_SNAP.md).
 
 ---
 
@@ -70,10 +70,10 @@
 
 | Rank | Face card | Character |
 |------|-----------|-----------|
-| **Ace** | Ace of Quartz (outline) | **Outcast Hero** — Mission Control / Frontier Command |
-| **King** | King of Quartz (outline) | **3I/ATLAS** — Natural Intelligent Design; Superintelligence; Post-Singularity Earth; Holographic Transformation |
-| **Queen** | Queen of Quartz (outline) | **Sammy** — Chairman's crew; Sammy and the gang |
-| **Jack** | Jack of Quartz (outline) | **SING! node EGS** (El Gran Sol) — Interstellar relay; sunward anti-tail; Goldilocks orbit |
+| **Ace** | Ace of Quartz (outline) | **Agueybana** — Taino cacique; Borikén spirit; gateway; El Gran Sol |
+| **King** | King of Quartz (outline) | **Leo da Vinci** — Renaissance polymath; vision; design |
+| **Queen** | Queen of Quartz (outline) | **Nikola Tesla** — Inventor; energy; alternating current |
+| **Jack** | Jack of Quartz (outline) | **Alan Turing** — Computing; codebreaking; foundations of AI |
 
 ---
 

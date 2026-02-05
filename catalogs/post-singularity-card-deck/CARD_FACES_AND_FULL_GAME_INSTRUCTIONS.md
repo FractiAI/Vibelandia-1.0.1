@@ -17,6 +17,21 @@
 
 ---
 
+## 1b. TOP 4 HEROES (ALREADY IN THE CARDS)
+
+**One per suit — Aces (top rank).** Quartz suit face cards are the visionary set: Agueybana (A), Alan Turing (J), Nikola Tesla (Q), Leo da Vinci (K).
+
+| # | Suit | Card | Hero / Character |
+|---|------|------|------------------|
+| 1 | **Gold** | Ace of Gold | **Chairman / Creator** (Pru) — Creator Chairman of this shell and its nests |
+| 2 | **Silver** | Ace of Silver | **Sol** — Space Cloud Division; wirehaired pointer companion, protector, mission partner |
+| 3 | **Copper** | Ace of Copper | **Leo** — R&D Lab Host |
+| 4 | **Quartz** | Ace of Quartz | **Agueybana** — Taino cacique; Borikén spirit; gateway; El Gran Sol |
+
+**All 16 face-card heroes (for reference):** Gold: Chairman (A), Hero Harry (J), El Gran Sol (Q), Chancellor Sam (K). Silver: Sol (A), Hero Host Walt (J), Hero Host Gianni (Q), Hero Ben (K). Copper: Leo (A), Mike (J), Buckey (Q), Niko (K). Quartz: Agueybana (A), Alan Turing (J), Nikola Tesla (Q), Leo da Vinci (K).
+
+---
+
 ## 2. FULL CARD FACES (ALL 52 CARDS)
 
 ### Gold (Golden Hearts · Mirrored hardened nested shells)
@@ -77,7 +92,7 @@
 
 | Rank | Card | Face / Character |
 |------|------|------------------|
-| A | Ace of Quartz | **Outcast Hero** — Mission Control / Frontier Command |
+| A | Ace of Quartz | **Agueybana** — Taino cacique; Borikén spirit; gateway; El Gran Sol |
 | 2 | 2 of Quartz | 2 ◇ (two outline symbols) |
 | 3 | 3 of Quartz | 3 ◇ |
 | 4 | 4 of Quartz | 4 ◇ |
@@ -87,9 +102,9 @@
 | 8 | 8 of Quartz | 8 ◇ |
 | 9 | 9 of Quartz | 9 ◇ |
 | 10 | 10 of Quartz | 10 ◇ |
-| J | Jack of Quartz | **SING! node EGS** (El Gran Sol) — Interstellar relay; sunward anti-tail; Goldilocks orbit |
-| Q | Queen of Quartz | **Sammy** — Chairman's crew; Sammy and the gang |
-| K | King of Quartz | **3I/ATLAS** — Natural Intelligent Design; Superintelligence; Post-Singularity Earth |
+| J | Jack of Quartz | **Alan Turing** — Computing; codebreaking; foundations of AI |
+| Q | Queen of Quartz | **Nikola Tesla** — Inventor; energy; alternating current |
+| K | King of Quartz | **Leo da Vinci** — Renaissance polymath; vision; design |
 
 ---
 
@@ -253,12 +268,14 @@ Build four foundation piles (one per suit) from Ace to King, and/or finish with 
 - **Gold:** A Chairman/Pru, 2–10 ◆, J Hero Harry, Q El Gran Sol, K Chancellor Sam. **7◆ = Golden Lucky Seven.** A,K,Q,J,10◆ = **Golden Royal Flush**.
 - **Silver:** A Sol, 2–10 ◆, J Walt, Q Gianni, K Ben.
 - **Copper:** A Leo, 2–10 ◆, J Mike, Q Buckey, K Niko.
-- **Quartz:** A Outcast Hero, 2–10 ◇, J SING! node EGS, Q Sammy, K 3I/ATLAS.
+- **Quartz:** A Agueybana, 2–10 ◇, J Alan Turing, Q Nikola Tesla, K Leo da Vinci.
 
 ---
 
 ## 14. SURFACES & CROSS-REFERENCES
 
+- **Card Game Hub (all modes, beautiful surface):** [interfaces/card-game-hub.html](../../interfaces/card-game-hub.html) — Draw, Vibelandia Golden Draw, Golden Seven Solitaire, Stack-Heads, Hand Ranking. One surface, all modes.
+- **Digital Card Game (playable in all modes):** [interfaces/digital-card-game.html](../../interfaces/digital-card-game.html) — Full digital video game: Draw, Golden Draw vs AI, Solitaire, Stack-Heads, Hand Ranking reference.
 - **Casino page (instructions + play):** [interfaces/casino.html](../../interfaces/casino.html)
 - **Product page:** [interfaces/post-singularity-card-deck.html](../../interfaces/post-singularity-card-deck.html)
 - **Experience (beautiful skin):** [interfaces/card-deck-experience.html](../../interfaces/card-deck-experience.html)
