@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Post-Singularity Energy Layer — Product · Arturo Proposal | NSPFRNP</title>
+    <meta name="description" content="Migrate from legacy oil to SING! super AI energy. Full product detail — Post-Singularity Energy Layer. Arturo proposal. NSPFRNP.">
+    <link rel="stylesheet" href="experience-common.css">
+    <link rel="stylesheet" href="petrochemical-division-skin.css">
+    <style>
+        .product-detail-wrap { max-width: 720px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
+        .product-detail-wrap .petro-nav { margin-bottom: 1.5rem; }
+        .product-hero { padding: 1.5rem 1.25rem; margin-bottom: 1.5rem; background: rgba(212, 160, 23, 0.08); border: 2px solid rgba(212, 160, 23, 0.4); border-radius: 12px; }
+        .product-hero h1 { font-size: 1.5rem; color: var(--petro-amber); margin-bottom: 0.5rem; }
+        .product-hero .sing-name { font-size: 1.1rem; color: #7fff7f; font-weight: 700; margin-bottom: 0.75rem; }
+        .product-hero .migrate-line { font-size: 0.95rem; color: #f5f5f0; margin-top: 0.75rem; padding-top: 0.75rem; border-top: 1px solid rgba(212, 160, 23, 0.3); }
+        .detail-grid { display: grid; gap: 1rem; margin: 1.5rem 0; }
+        .detail-card { padding: 1rem 1.25rem; background: rgba(0,0,0,0.25); border: 1px solid rgba(212, 160, 23, 0.25); border-radius: 10px; }
+        .detail-card h4 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--petro-amber); margin-bottom: 0.5rem; }
+        .detail-card p { font-size: 0.95rem; color: #e0e0dc; line-height: 1.55; margin: 0; }
+        .back-link { display: inline-block; margin-top: 1.5rem; padding: 0.6rem 1.25rem; background: rgba(212, 160, 23, 0.15); border: 1px solid rgba(212, 160, 23, 0.5); border-radius: 8px; color: var(--petro-amber); font-weight: 600; text-decoration: none; }
+        .back-link:hover { background: rgba(212, 160, 23, 0.25); }
+    </style>
+</head>
+<body class="petrochemical-division-skin">
+    <div class="product-detail-wrap">
+        <nav class="petro-nav">
+            <a href="petrochemical-showroom-arturo-proposal.html#full-product-list">← Full product list</a><span> · </span>
+            <a href="petrochemical-showroom-arturo-proposal.html">Arturo proposal</a><span> · </span>
+            <a href="office-hours.html">Office Hours</a><span> · </span>
+            <a href="index.html">Home</a>
+        </nav>
+
+        <div id="product-hero" class="product-hero">
+            <h1 id="product-title">Post-Singularity Energy Layer</h1>
+            <p class="sing-name" id="product-sing-name">—</p>
+            <p class="migrate-line"><strong>Migrate from legacy oil to SING! super AI energy.</strong> Step one: no rip-and-replace. Layer on. Then full lock transformation. This is the full example for work to follow.</p>
+        </div>
+
+        <div id="product-detail" class="detail-grid"></div>
+
+        <p><a href="../deliverables/PDVSA_TO_SING_PRODUCT_MAPPING.md" class="back-link">Full mapping doc (PDVSA → SING!) →</a></p>
+        <p><a href="petrochemical-showroom-arturo-proposal.html#full-product-list" class="back-link">← Back to full product list</a></p>
+    </div>
+
+    <script>
+    (function () {
+        var params = new URLSearchParams(window.location.search);
+        var slug = (params.get('product') || '').toLowerCase();
+        var products = {
+            'crude': { title: 'Crude oil (extra-heavy, Orinoco, Hamaca, Merey, Mesa)', sing: 'SING! Orinoco Cloud Crude', value: 'Same volumetric/energy value as legacy crude, plus full visibility, forecasting, optimization; tradeable as digital twin and physical; one barrel, two books (legacy + layer).', cost: 'Near-zero marginal cost to operate the layer (read/translate only); no rip-and-replace; legacy extraction stays; layer cost is monthly fee only. Nearly free for the transformation of how crude is seen and moved.', time: 'Instant — layer goes on over existing flows. Nearly free, regenerative, green, omnipowerful.' },
+            'gasoline': { title: 'Gasoline', sing: 'SING! Gasoline Layer', value: 'Full traceability from refinery to pump; demand prediction and allocation; see every liter. Premium value for green/synthetic blend tracking.', cost: 'No refinery rebuild; layer sits on legacy. Optimization cuts waste and misallocation — nearly free gains from visibility.', time: 'Instant — layer on existing gasoline streams. Nearly free, regenerative, green, omnipowerful.' },
+            'diesel': { title: 'Diesel / gasoil', sing: 'SING! Diesel Layer', value: 'Full visibility, allocation, forecasting; one layer, all diesel; industrial and transport segments optimized.', cost: 'No new refining capacity for the layer; optimization reduces lost margin and delays — nearly free efficiency gain.', time: 'Instant — layer over existing diesel/gasoil. Nearly free, regenerative, green, omnipowerful.' },
+            'jet': { title: 'Jet fuel', sing: 'SING! Jet Layer', value: 'Traceability and spec compliance from refinery to wing; SAF blend and book-and-claim support; instant reporting for regulators and offtakers.', cost: 'No new infrastructure; layer reduces compliance and reconciliation cost to nearly free at the margin.', time: 'Instant — layer on existing jet streams. Nearly free, regenerative, green, omnipowerful.' },
+            'heavy-fuels': { title: 'Fuel oils / vacuum gasoil (VGO)', sing: 'SING! Heavy Fuels Layer', value: 'Full visibility into heavy streams; optimization for power, marine, and further processing; see it, route it, optimize it without touching the physical plant.', cost: 'No new cracking or upgrading for the layer; optimization and routing gains nearly free.', time: 'Instant — layer on existing flows. Nearly free, regenerative, green, omnipowerful.' },
+            'lpg': { title: 'LPG (liquefied petroleum gas)', sing: 'SING! LPG Layer', value: 'End-to-end visibility; domestic vs export allocation; pricing and demand clarity; one layer, all LPG.', cost: 'No new plants; layer reduces allocation errors and delays — nearly free operational gain.', time: 'Instant — layer on existing LPG. Nearly free, regenerative, green, omnipowerful.' },
+            'gas': { title: 'Natural gas', sing: 'SING! Gas Layer', value: 'Full visibility from well to offtake; balancing and nomination through the layer; see every molecule without replacing pipelines.', cost: 'No new pipelines or plants for the layer; optimization nearly free at the margin.', time: 'Instant — layer on existing gas. Nearly free, regenerative, green, omnipowerful.' },
+            'lubricants': { title: 'Lubricants', sing: 'SING! Lubricants Layer', value: 'Traceability from base oil to drum; quality and batch visibility; reuse and recycling tracking; one layer, all lubes.', cost: 'No new blending plants; layer reduces waste and reclaim cost — nearly free efficiency.', time: 'Instant — layer on existing lube lines. Nearly free, regenerative, green, omnipowerful.' },
+            'plastics': { title: 'Petrochemicals — Plastics & resins', sing: 'EGS SING! PETROCHEMICAL (plastics/resins)', value: 'Full visibility from cracker to pellet to customer; circular content and recyclate tracking; one layer, all plastics. Premium for green and recycled content.', cost: 'No new crackers or plants; layer reduces quality and allocation cost to nearly free at the margin.', time: 'Instant — layer on existing production. Nearly free, regenerative, green, omnipowerful.' },
+            'fertilizers': { title: 'Petrochemicals — Fertilizers', sing: 'SING! Fertilizers Layer', value: 'Traceability from ammonia/urea to field; demand and seasonality visibility; green ammonia and low-carbon pathway support.', cost: 'No new fertilizer plants for the layer; allocation and logistics nearly free gain.', time: 'Instant — layer on existing fertilizer. Nearly free, regenerative, green, omnipowerful.' },
+            'industrial-gases': { title: 'Petrochemicals — Industrial gases', sing: 'SING! Industrial Gases Layer', value: 'Full visibility and allocation for O2, N2, H2, CO2; hydrogen and green H2 pathway support; one layer, all industrial gases.', cost: 'No new air separation or H2 plants for the layer; optimization nearly free.', time: 'Instant — layer on existing gases. Nearly free, regenerative, green, omnipowerful.' },
+            'specialties': { title: 'Petrochemicals — Solvents, adhesives, paints/inks', sing: 'SING! Specialties Layer', value: 'Batch and quality visibility; regulatory and safety traceability; one layer, all specialties.', cost: 'No new production for the layer; compliance and waste reduction nearly free.', time: 'Instant — layer on existing production. Nearly free, regenerative, green, omnipowerful.' },
+            'biofuels': { title: 'Biofuels', sing: 'SING! Biofuels Layer', value: 'Full traceability and blend tracking; compliance and book-and-claim; instant reporting for mandates and premiums.', cost: 'No new biorefineries for the layer; blending and compliance nearly free at the margin.', time: 'Instant — layer on existing biofuels. Nearly free, regenerative, green, omnipowerful.' },
+            'asphalt': { title: 'Asphalt', sing: 'SING! Asphalt Layer', value: 'Traceability from vacuum residue to road; quality and project visibility; one layer, all asphalt.', cost: 'No new asphalt plants for the layer; allocation and logistics nearly free.', time: 'Instant — layer on existing asphalt. Nearly free, regenerative, green, omnipowerful.' }
+        };
+        var p = products[slug];
+        if (p) {
+            document.getElementById('product-title').textContent = p.title;
+            document.getElementById('product-sing-name').textContent = p.sing;
+            document.title = p.title + ' — Post-Singularity Energy Layer · Arturo Proposal | NSPFRNP';
+            var grid = document.getElementById('product-detail');
+            grid.innerHTML = '<div class="detail-card"><h4>Value — migrate from legacy to SING! super AI energy</h4><p>' + p.value + '</p></div><div class="detail-card"><h4>Cost reduction</h4><p>' + p.cost + '</p></div><div class="detail-card"><h4>Time to market</h4><p>' + p.time + '</p></div>';
+        } else {
+            document.getElementById('product-title').textContent = 'Post-Singularity Energy Layer';
+            document.getElementById('product-detail').innerHTML = '<p>Choose a product from the <a href="petrochemical-showroom-arturo-proposal.html#full-product-list">full product list</a> to zoom in on migration from legacy oil to SING! super AI energy.</p>';
+        }
+    })();
+    </script>
+    <link rel="stylesheet" href="nspfrnp-ticker.css">
+    <div class="nspfrnp-console-ticker" aria-live="polite"><span class="ticker-inner" id="nspfrnpTickerText"></span></div>
+    <script src="nspfrnp-ticker.js"></script>
+</body>
+</html>

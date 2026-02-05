@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Full PDVSA Proposal — NSPFRNP Format · Arturo · Centro Energía Caracas | NSPFRNP</title>
+    <meta name="description" content="Full PDVSA proposal in full NSPFRNP format. Centro Energía Caracas · Vibelandia-Caracas · Arturo. Golden Era Cinema beautiful skin. Post-Singularity Energy Layer. Live real. 50% share.">
+    <link rel="stylesheet" href="screenplay-skin.css">
+    <style>
+        .screenplay-skin .proposal-full-body table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
+        .screenplay-skin .proposal-full-body th, .screenplay-skin .proposal-full-body td { padding: 0.5rem 0.75rem; text-align: left; border-bottom: 1px solid var(--script-gold-dim); }
+        .screenplay-skin .proposal-full-body th { color: var(--script-gold); }
+        .screenplay-skin .proposal-full-body h2 { color: var(--script-gold); margin-top: 2rem; margin-bottom: 0.75rem; font-size: 1.15rem; }
+        .screenplay-skin .proposal-full-body h3 { color: var(--script-gold); margin-top: 1.5rem; margin-bottom: 0.5rem; font-size: 1rem; }
+        .screenplay-skin .proposal-full-body a { color: var(--script-gold); text-decoration: none; }
+        .screenplay-skin .proposal-full-body a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body class="screenplay-skin">
+    <div class="script-wrap">
+        <nav class="script-nav ep-nav-bar">
+            <a href="petrochemical-showroom-arturo-proposal.html">← Arturo proposal</a><span>·</span>
+            <a href="office-hours.html">Office Hours</a><span>·</span>
+            <a href="arturo-first-three-novel.html">Novel</a><span>·</span>
+            <a href="arturo-first-three-screenplay.html">Screenplay</a><span>·</span>
+            <a href="launch-pad.html">Launch Pad</a><span>·</span>
+            <a href="index.html">Home</a>
+        </nav>
+
+        <header class="script-marquee ep-hero">
+            <p class="badge">Golden Era Cinema · Full proposal <span class="badge-beautiful-skin">Beautiful skin</span></p>
+            <p class="ep-eyebrow" style="font-size: 0.7rem; letter-spacing: 0.35em; text-transform: uppercase; color: rgba(212, 175, 55, 0.9); margin-bottom: 0.5rem;">Petrochemical Division · NSPFRNP</p>
+            <h1>Full PDVSA Proposal</h1>
+            <p class="tagline ep-sub">Centro Energía Caracas · Vibelandia-Caracas · Arturo · Post-Singularity Energy Layer</p>
+            <p class="ep-tagline" style="font-size: 0.95rem; color: #a89878; margin-top: 0.5rem;">Full NSPFRNP format in full glory. Metabolize → Crystallize → Animate.</p>
+        </header>
+
+        <div id="proposal-loading" class="loading">Loading full proposal…</div>
+        <div id="proposal-body" class="screenplay-body proposal-full-body" style="display: none;"></div>
+
+        <footer class="script-footer" id="proposal-footer" style="display: none;">
+            <p><a href="petrochemical-showroom-arturo-proposal.html">← Arturo proposal</a> · <a href="office-hours.html">Office Hours</a> · <a href="arturo-first-three-novel.html">Novel</a> · <a href="arturo-first-three-screenplay.html">Screenplay</a> · <a href="reseller-info.html">Reseller Info</a></p>
+            <p style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--script-muted);">Live real. 50% share. Centro Energía Caracas · Vibelandia-Caracas · PDVSA. WIN WIN WIN WIN FOR ALL. NSPFRNP ⊃ ∞³</p>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+(function () {
+    var loading = document.getElementById('proposal-loading');
+    var body = document.getElementById('proposal-body');
+    var footer = document.getElementById('proposal-footer');
+
+    fetch('../deliverables/PDVSA_Arturo_Full_Proposal_NSPFRNP.md')
+        .then(function (r) {
+            if (!r.ok) throw new Error('Not found');
+            return r.text();
+        })
+        .then(function (md) {
+            marked.setOptions({ gfm: true, breaks: true });
+            var html = marked.parse(md);
+            html = html.replace(/href="([^"#:]+\.md)(#[^"]*)?"/g, function (_, path, hash) {
+                return 'href="../' + path + (hash || '') + '"';
+            });
+            body.innerHTML = html;
+            loading.style.display = 'none';
+            body.style.display = 'block';
+            footer.style.display = 'block';
+        })
+        .catch(function () {
+            loading.innerHTML = 'Could not load proposal. <a href="../deliverables/PDVSA_Arturo_Full_Proposal_NSPFRNP.md">Open markdown</a> · <a href="petrochemical-showroom-arturo-proposal.html">← Arturo proposal</a>';
+        });
+})();
+    </script>
+    <link rel="stylesheet" href="nspfrnp-ticker.css">
+    <div class="nspfrnp-console-ticker" aria-live="polite"><span class="ticker-inner" id="nspfrnpTickerText"></span></div>
+    <script src="nspfrnp-ticker.js"></script>
+</body>
+</html>

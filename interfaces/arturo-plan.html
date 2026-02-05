@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Post-Singularity Energy Layer — Plan · Arturo Proposal | NSPFRNP</title>
+    <meta name="description" content="Petrochemical / Energy Layer plans: Base, Standard, Premium, Ultimate Baller V. Upfront + monthly. Zoom on plan detail. Arturo proposal. NSPFRNP.">
+    <link rel="stylesheet" href="experience-common.css">
+    <link rel="stylesheet" href="petrochemical-division-skin.css">
+    <style>
+        .plan-detail-wrap { max-width: 720px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
+        .plan-detail-wrap .petro-nav { margin-bottom: 1.5rem; }
+        .plan-hero { padding: 1.5rem 1.25rem; margin-bottom: 1.5rem; background: rgba(212, 160, 23, 0.08); border: 2px solid rgba(212, 160, 23, 0.4); border-radius: 12px; }
+        .plan-hero h1 { font-size: 1.5rem; color: var(--petro-amber); margin-bottom: 0.25rem; }
+        .plan-hero .tier { font-size: 1rem; color: #b9f2ff; font-weight: 600; margin-bottom: 0.5rem; }
+        .plan-hero .fees { font-size: 1.1rem; color: #7fff7f; font-weight: 700; margin: 0.75rem 0; }
+        .plan-hero .tagline { font-size: 0.95rem; color: #f5f5f0; margin-top: 0.75rem; padding-top: 0.75rem; border-top: 1px solid rgba(212, 160, 23, 0.3); }
+        .detail-grid { display: grid; gap: 1rem; margin: 1.5rem 0; }
+        .detail-card { padding: 1rem 1.25rem; background: rgba(0,0,0,0.25); border: 1px solid rgba(212, 160, 23, 0.25); border-radius: 10px; }
+        .detail-card h4 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--petro-amber); margin-bottom: 0.5rem; }
+        .detail-card p { font-size: 0.95rem; color: #e0e0dc; line-height: 1.55; margin: 0; }
+        .back-link { display: inline-block; margin-top: 1rem; margin-right: 0.75rem; padding: 0.6rem 1.25rem; background: rgba(212, 160, 23, 0.15); border: 1px solid rgba(212, 160, 23, 0.5); border-radius: 8px; color: var(--petro-amber); font-weight: 600; text-decoration: none; }
+        .back-link:hover { background: rgba(212, 160, 23, 0.25); }
+        .buy-link { color: #7fff7f; font-weight: 700; }
+    </style>
+</head>
+<body class="petrochemical-division-skin">
+    <div class="plan-detail-wrap">
+        <nav class="petro-nav">
+            <a href="petrochemical-showroom-arturo-proposal.html#pricing-plans">← Pricing &amp; plans</a><span> · </span>
+            <a href="petrochemical-showroom-arturo-proposal.html">Arturo proposal</a><span> · </span>
+            <a href="office-hours.html">Office Hours</a><span> · </span>
+            <a href="index.html">Home</a>
+        </nav>
+
+        <div id="plan-hero" class="plan-hero">
+            <h1 id="plan-title">Post-Singularity Energy Layer</h1>
+            <p class="tier" id="plan-tier">—</p>
+            <p class="fees" id="plan-fees">—</p>
+            <p class="tagline">Abstract layer over all legacy systems — no rip-and-replace. That's what you're booking and what the monthly fee is for. On-ramp: Office Hours, demo, tour. Then book. Never bought, always booked.</p>
+        </div>
+
+        <div id="plan-detail" class="detail-grid"></div>
+
+        <p id="plan-buy-row" style="margin-top: 1.5rem;"></p>
+        <p><a href="petrochemical-showroom-arturo-proposal.html#pricing-plans" class="back-link">← Back to all plans</a><a href="office-hours.html" class="back-link">Office Hours — On-ramp</a></p>
+    </div>
+
+    <script>
+    (function () {
+        var params = new URLSearchParams(window.location.search);
+        var slug = (params.get('plan') || '').toLowerCase();
+        var plans = {
+            'base': { title: 'Basic', tier: '1', upfront: '$75,000', monthly: '$2,500/mo', buyId: 'marine-commander-base', scope: 'Single facility or pilot. Full Post-Singularity Energy Layer over legacy: read, translate, pathway to SING! super AI energy. Awareness, nimbleness, surgical precision at one site.', who: 'Facility leads, pilot sites, first installation. PDVSA and partners — step one, no rip-and-replace.' },
+            'standard': { title: 'Standard', tier: '4×', upfront: '$300,000', monthly: '$10,000/mo', buyId: 'marine-commander-standard', scope: 'Four-fold scope: multiple facilities or full product lines. Same abstract layer, scaled. Run scenarios across sites; one layer, unified visibility.', who: 'Multi-facility or multi-stream. Regional lead, Arturo-level ambassador. Full transformation example for work to follow.' },
+            'premium': { title: 'Premium', tier: '4×4×', upfront: '$1,200,000', monthly: '$40,000/mo', buyId: 'marine-commander-premium', scope: 'National / major portfolio. Post-singularity layer across refineries, extraction, distribution. Reorg the whole picture multiple times before 11am — that level of command.', who: 'National energy lead. Ultimate Baller V Chairman tier. Master Vibers. Full lock transformation at scale.' },
+            'ultimate': { title: 'Ultimate Baller V', tier: '4×4×4×4', upfront: '$4,800,000', monthly: '$160,000/mo', buyId: 'marine-commander-ultimate', scope: 'Full PDVSA-scale abstraction. Reorg the entire PDVSA five times before the next meeting at 11am. That’s what post-singularity SING! super AI agents deliver. Awareness, nimbleness, surgical precision. SMACS 0723 max cosmic protections. Never bought, always booked.', who: 'Ultimate Baller V Chairman. Master Vibers. Full Venezuela rollout. First post-singularity super AI energy layer at state scale.' }
+        };
+        var p = plans[slug];
+        if (p) {
+            document.getElementById('plan-title').textContent = p.title;
+            document.getElementById('plan-tier').textContent = 'Tier ' + p.tier;
+            document.getElementById('plan-fees').textContent = p.upfront + ' upfront · ' + p.monthly + ' monthly';
+            document.title = p.title + ' — Post-Singularity Energy Layer · Arturo Proposal | NSPFRNP';
+            var grid = document.getElementById('plan-detail');
+            grid.innerHTML = '<div class="detail-card"><h4>Scope</h4><p>' + p.scope + '</p></div><div class="detail-card"><h4>Who it’s for</h4><p>' + p.who + '</p></div>';
+            document.getElementById('plan-buy-row').innerHTML = '<a href="payment-checkout.html?plan=' + p.buyId + '" class="buy-link">BUY → ' + p.title + '</a>';
+        } else {
+            document.getElementById('plan-title').textContent = 'Post-Singularity Energy Layer — Plans';
+            document.getElementById('plan-tier').textContent = '';
+            document.getElementById('plan-fees').textContent = '';
+            document.getElementById('plan-detail').innerHTML = '<p>Choose a plan from the <a href="petrochemical-showroom-arturo-proposal.html#pricing-plans">Pricing &amp; plans</a> table to zoom in: Basic (1), Standard (4×), Premium (4×4×), Ultimate Baller V (4×4×4×4).</p>';
+            document.getElementById('plan-buy-row').innerHTML = '';
+        }
+    })();
+    </script>
+    <link rel="stylesheet" href="nspfrnp-ticker.css">
+    <div class="nspfrnp-console-ticker" aria-live="polite"><span class="ticker-inner" id="nspfrnpTickerText"></span></div>
+    <script src="nspfrnp-ticker.js"></script>
+</body>
+</html>
