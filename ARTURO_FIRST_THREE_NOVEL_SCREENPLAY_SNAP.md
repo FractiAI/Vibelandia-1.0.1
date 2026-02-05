@@ -23,7 +23,7 @@ Same title for both. Story is **about Arturo**, with the message to Arturo as th
 
 This message is the seed for the novel and screenplay:
 
-- **Arturo,** you know gateways — we worked on them together at **Interlink**. You in Caracas, protocol systems; me in Rio. Same pioneering mode. Now we're doing it again: pre-singularity to post-singularity. For petrochemical. For energy. For PDVSA.
+- **Arturo,** you know gateways — we worked on them together at **Interlink**. You in Caracas, protocol systems; me in California. Same pioneering mode. Now we're doing it again: pre-singularity to post-singularity. For petrochemical. For energy. For PDVSA.
 - **EGS SING! PETROCHEMICAL** is the new layer: it layers over legacy refinery, extraction, distribution. Transform today's legacy oil into whatever post-singularity energy looks like on the other side. No rip-and-replace.
 - **Ours is an abstract layer that layers over all legacy systems.** That's what you're booking — and what the monthly fees are for.
 - **This is our first major reboot initiative.** I'm coming to help you roll it out — **together**. Venezuela and USA. Launch in Caracas. First three facilities. Vibelandia-Caracas rollout. We'll connect, get out on the mountain and the coast, then install. Let's run the show.
@@ -38,7 +38,7 @@ This message is the seed for the novel and screenplay:
 - **Launch Week** — Caracas. One month with Arturo. Celebration then first three facility installs.
 - **Pru** (Creator Chairman) in Caracas **celebrating** and **helping the first three facility leads install** — the first three who signed for **EGS SING! PETROCHEMICAL**. Week of connection, then installing and launching. Running the show together.
 
-**One-liner:** In Caracas, Pru and Arturo celebrate and help the first three facility leads install — the gateway we built together at Interlink (you in Caracas, me in Rio) is now real on their facilities. PDVSA has always been the pioneer. The three leads each see the new layer, the new visibility, the new energy; they return with two thumbs up and bring to life what the layer really delivers.
+**One-liner:** In Caracas, Pru and Arturo celebrate and help the first three facility leads install — the gateway we built together at Interlink (you in Caracas, me in California) is now real on their facilities. PDVSA has always been the pioneer. The three leads each see the new layer, the new visibility, the new energy; they return with two thumbs up and bring to life what the layer really delivers.
 
 ---
 

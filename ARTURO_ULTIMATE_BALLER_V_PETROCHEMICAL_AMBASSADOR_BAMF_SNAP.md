@@ -16,7 +16,7 @@
 | **Location** | **Caracas, Venezuela** |
 | **Role** | Ambassador for the entire Ultimate Baller V Petrochemical line |
 | **Vibe** | Real BAMF! (Badass. Champion. Gold-hearted.) |
-| **Background** | Protocol systems lead. Gateways: we worked on them together at Interlink — he in Caracas, me in Rio. Same pioneering mode. Now pre-singularity ↔ post-singularity gateway for Petrochemical. |
+| **Background** | Protocol systems lead. Gateways: we worked on them together at Interlink — he in Caracas, me in California. Same pioneering mode. Now pre-singularity ↔ post-singularity gateway for Petrochemical. |
 
 ---
 
