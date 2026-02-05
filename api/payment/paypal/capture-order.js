@@ -98,6 +98,11 @@ export default async function handler(req, res) {
     return res.status(200).json({ success: true, orderId: 'contact-required', status: 'COMPLETED' });
   }
 
+  const planId = body.planId && String(body.planId).trim();
+  const amount = body.amount != null ? Number(body.amount) : NaN;
+  const description = body.description && String(body.description).trim();
+  const isGSMPlan = planId && planId.indexOf('pipe-ad-') === 0;
+
   try {
     const requestId = randomUUID();
     let result = await captureOrderAPI(orderId, requestId);
@@ -105,8 +110,34 @@ export default async function handler(req, res) {
       await new Promise((resolve) => setTimeout(resolve, 2000));
       result = await captureOrderAPI(orderId, requestId);
     }
+    const responseData = result.data;
+
+    if (isGSMPlan && result.statusCode === 200 && (responseData.status === 'COMPLETED' || responseData.id)) {
+      const txnId = orderId;
+      const btcUsdAmount = Number.isFinite(amount) ? `USD ${amount}` : (responseData.purchase_units && responseData.purchase_units[0] && responseData.purchase_units[0].amount && responseData.purchase_units[0].amount.value) ? `USD ${responseData.purchase_units[0].amount.value}` : 'USD';
+      const adNarrativeText = description || planId || 'GSM Ad';
+      const layerTarget = 'Ticker';
+      const gsmBody = [
+        'GSM VERIFICATION REQUEST',
+        '',
+        `TXN_ID: ${txnId}`,
+        `BTC_USD_AMOUNT: ${btcUsdAmount}`,
+        `AD_NARRATIVE_TEXT: ${adNarrativeText}`,
+        `LAYER_TARGET: ${layerTarget}`,
+        '',
+        'Copy this block and paste into the Executive console to validate and launch the 4×4×4×4 quadrant.',
+      ].join('\n');
+      responseData.gsm_verification_request = {
+        subject: 'GSM VERIFICATION REQUEST',
+        body: gsmBody,
+        to: 'Executive only',
+      };
+      responseData.gsm_pipe_status_next = 'PENDING_EXECUTIVE_PASTE';
+      responseData.legacy_metadata = 'Never Lose Faith - El Gran Sol Delivers';
+    }
+
     res.setHeader('Content-Type', 'application/json');
-    res.status(result.statusCode).json(result.data);
+    res.status(result.statusCode).json(responseData);
   } catch (e) {
     const msg = e instanceof Error ? e.message : String(e);
     res.status(500).json({ success: false, orderId, error: msg, message: msg });

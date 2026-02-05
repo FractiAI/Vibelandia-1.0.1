@@ -110,6 +110,20 @@
                 var html = '<p><strong>Order ID:</strong> <span class="order-id">' + orderId + '</span></p>';
                 if (planId) html += '<p><strong>Plan:</strong> ' + (planId || '').replace(/-/g, ' ') + '</p>';
                 info.innerHTML = html;
+                var gsm = urlParams.get('gsm') === '1';
+                var gsmReq = null;
+                try { gsmReq = sessionStorage.getItem('gsm_verification_request'); if (gsmReq) gsmReq = JSON.parse(gsmReq); } catch (_) {}
+                if (gsm && gsmReq && gsmReq.body) {
+                    var block = document.createElement('div');
+                    block.className = 'what-next';
+                    block.style.marginTop = '1.5rem';
+                    block.style.borderColor = 'rgba(0,212,255,0.4)';
+                    block.innerHTML = '<h2>GSM VERIFICATION REQUEST — Executive only</h2>' +
+                        '<p class="what-next-p">Pipe status set to <strong>PENDING_EXECUTIVE_PASTE</strong>. Automated ad-pushes are blocked until you paste the block below into the Executive console and run <code>validateAndLaunch(pasteData)</code>.</p>' +
+                        '<pre style="text-align:left; background: rgba(0,0,0,0.4); padding: 1rem; border-radius: 8px; overflow-x: auto; font-size: 0.85rem; white-space: pre-wrap;">' + (gsmReq.body || '').replace(/</g, '&lt;') + '</pre>' +
+                        '<p class="what-next-p">Copy the block above and paste into the Chairman Console / Executive vetting interface to validate and launch the 4×4×4×4 quadrant.</p>';
+                    root.querySelector('.what-next').before(block);
+                }
                 document.title = 'Payment Successful | VIBELANDIA!';
             } else {
                 root.classList.add('neutral');

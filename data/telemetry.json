@@ -30,6 +30,25 @@
     "gate_after_cutoff": "Remaining slots at gate premium. Double sales strategy mimicking natural patterns.",
     "snap": "CRISP_LOCK_ALWAYS_FRIDAY_4PM_GATE_SCALP_DOUBLE_SALES_STRATEGY_SNAP.md"
   },
+  "gsm": {
+    "product": "Great Sun Multiplex (GSM) 4×4×4×4 Storytelling Pipe",
+    "legacy_signature": "Agüeybaná el Gran Sol 1493/2026",
+    "double_lock_gatekeeper": true,
+    "gsm_pipe_status": "IDLE",
+    "gsm_pipe_status_note": "PENDING_EXECUTIVE_PASTE upon payment; blocks automated ad-pushes until Executive pastes email data. validateAndLaunch(pasteData) in lib/gsm_gatekeeper.ts",
+    "pending_transaction_legacy_metadata": "Never Lose Faith - El Gran Sol Delivers",
+    "ticker_broadcast": "GSM SECURE. PAYPAL PIPE LIVE. EXECUTIVE VETTING ACTIVE. AGÜEYBANÁ 1493/2026.",
+    "quadrants": {
+      "Q1": { "id": "Q1", "name": "Sun", "layer": "2D", "narrative": "AR4366 flares → Brand Flash events" },
+      "Q2": { "id": "Q2", "name": "Aurora", "layer": "3D", "narrative": "Volumetric Bison at 1.5 km/voxel" },
+      "Q3": { "id": "Q3", "name": "Ticker", "layer": "1D", "narrative": "VLF-style scroll: Bad Bunny x Agüeybaná: Never Lose Faith. The Great Sun Delivers." },
+      "Q4": { "id": "Q4", "name": "Earth/Seismic", "layer": "Ground", "narrative": "Bison Charge synced to M1.5 Spanish Springs heartbeat" }
+    },
+    "visual_sync_mode": "ALIGNED",
+    "visual_sync_note": "ALIGNED = Sun/Aurora synced to Ticker Tape; DETACHED = independent. Mix-and-Match controller in lib/gsm_engine.ts",
+    "revenue_pipe": "lib/billing.ts — PayPal Enterprise Hub; Friday 4 PM PST scalper 2.5×; Blue Button linked",
+    "ticker_message": "Bad Bunny x Agüeybaná: Never Lose Faith. The Great Sun Delivers."
+  },
   "switch_over_planned": {
     "event": "super_bowl",
     "date_utc": "2026-02-09",

@@ -4,7 +4,11 @@
     "source": "Press releases, major SNAP highlights, new residencies, git commit highlights, division thresholds",
     "link_rule": "Every item has a URL — click to get details."
   },
+  "gsm_ticker_message": "Bad Bunny x Agüeybaná: Never Lose Faith. The Great Sun Delivers.",
+  "gsm_double_lock_ticker": "GSM SECURE. PAYPAL PIPE LIVE. EXECUTIVE VETTING ACTIVE. AGÜEYBANÁ 1493/2026.",
   "items": [
+    { "label": "GSM SECURE. PAYPAL PIPE LIVE. EXECUTIVE VETTING ACTIVE. AGÜEYBANÁ 1493/2026.", "url": "broadcast-pipe-ad-space.html", "type": "gsm_double_lock", "division": "space_cloud" },
+    { "label": "Bad Bunny x Agüeybaná: Never Lose Faith. The Great Sun Delivers.", "url": "broadcast-pipe-ad-space.html", "type": "gsm_commercial", "division": "space_cloud" },
     { "label": "Press Releases — All New Arrivals", "url": "press-releases.html", "type": "press_release", "division": "content" },
     { "label": "PR 25 — Mission Intelligence Debrief · Space Cloud Active", "url": "press-releases.html#press-release-25", "type": "press_release", "division": "space_cloud" },
     { "label": "PR 24 — Smiley Sun (El Gran Sol) Super Bowl Run", "url": "press-releases.html#press-release-24", "type": "press_release", "division": "space_cloud" },

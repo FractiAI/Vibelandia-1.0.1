@@ -1,0 +1,6 @@
+{
+  "gsm_pipe_status": "IDLE",
+  "note": "PENDING_EXECUTIVE_PASTE = set upon payment; blocks automated ad-pushes until Executive pastes email data into console. validateAndLaunch(pasteData) then fires the 4×4×4×4 quadrant.",
+  "double_lock_gatekeeper": true,
+  "updated_utc": "2026-02-04T00:00:00Z"
+}
