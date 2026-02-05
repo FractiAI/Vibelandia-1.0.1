@@ -1,6 +1,7 @@
 {
   "title": "Full SING! config we are using",
   "updated_utc": "2026-02-03T00:00:00Z",
+  "gatekeeper": { "manual_override": true },
   "principle": "Never bought, always booked — by free will, mutual aware consent, always.",
   "base": {
     "description": "SING! base tiers — pre-singularity equivalents: entry base = reliable used car; top base (Full Ultimate Baller V full options) = top loaded Ferrari; options at our pricing.",
