@@ -3,381 +3,146 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Watch — Happy Ending Zones · Episodes | VIBELANDIA!</title>
-    <meta name="description" content="Browse and watch Happy Ending Zones episodes. Netflix-style experience — Season One, Office Hours, Flow-based, Ultimate Baller V. Episodes also in beautiful skin. Full descriptions and episode details.">
+    <title>Episodes — All in Beautiful Skin · Happy Ending Zones | VIBELANDIA!</title>
+    <meta name="description" content="All episodes — beautiful surface. Browse and read every episode in Golden Era Cinema beautiful skin. Season One, Office Hours, Flow, Ultimate Baller V. NSPFRNP.">
+    <link rel="stylesheet" href="screenplay-skin.css">
     <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        :root {
-            --bg: #141414;
-            --bg-lighter: #1f1f1f;
-            --red: #e50914;
-            --gold: #d4af37;
-            --text: #ffffff;
-            --text-muted: #b3b3b3;
-            --card-radius: 6px;
-        }
-        body {
-            font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-            background: var(--bg);
-            color: var(--text);
-            min-height: 100vh;
-            overflow-x: hidden;
-        }
-
-        /* Top bar */
-        .topbar {
-            position: fixed;
-            top: 0;
-            left: 0;
-            right: 0;
-            height: 56px;
-            background: linear-gradient(180deg, rgba(20,20,20,0.95) 0%, transparent 100%);
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            padding: 0 3%;
-            z-index: 100;
-            transition: background 0.3s;
-        }
-        .topbar.scrolled { background: rgba(20,20,20,0.98); }
-        .topbar-logo {
-            font-weight: 700;
-            font-size: 1.5rem;
-            background: linear-gradient(135deg, var(--gold), #f4e4bc);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            text-decoration: none;
-        }
-        .topbar-nav {
-            display: flex;
-            gap: 1.5rem;
-            align-items: center;
-        }
-        .topbar-nav a {
-            color: var(--text-muted);
-            text-decoration: none;
-            font-size: 0.9rem;
-            font-weight: 500;
-            transition: color 0.2s;
-        }
-        .topbar-nav a:hover { color: var(--text); }
-        .topbar-nav .active { color: var(--text); }
-        .back-link {
-            color: var(--gold);
-            font-size: 0.85rem;
-        }
-
-        /* Hero — featured episode */
-        .hero {
-            position: relative;
-            height: 56vh;
-            min-height: 320px;
-            max-height: 500px;
-            display: flex;
-            align-items: flex-end;
-            padding: 0 3% 8% 3%;
-            margin-bottom: -80px;
-            background-size: cover;
-            background-position: center;
-        }
-        .hero-gradient {
-            position: absolute;
-            inset: 0;
-            background: linear-gradient(0deg, var(--bg) 0%, transparent 40%, transparent 60%, rgba(20,20,20,0.6) 100%);
-            pointer-events: none;
-        }
-        .hero-content {
-            position: relative;
-            z-index: 2;
-            max-width: 520px;
-        }
-        .hero-badge {
-            display: inline-block;
-            padding: 4px 12px;
-            background: rgba(212, 175, 55, 0.25);
-            border: 1px solid rgba(212, 175, 55, 0.5);
-            border-radius: 4px;
-            font-size: 0.75rem;
-            color: var(--gold);
-            text-transform: uppercase;
-            letter-spacing: 0.08em;
-            margin-bottom: 0.75rem;
-        }
-        .hero-title {
-            font-size: clamp(1.75rem, 4vw, 3rem);
-            font-weight: 700;
-            line-height: 1.15;
-            margin-bottom: 0.5rem;
-            text-shadow: 0 2px 10px rgba(0,0,0,0.8);
-        }
-        .hero-description {
-            font-size: 1rem;
-            color: var(--text-muted);
-            line-height: 1.45;
-            margin-bottom: 1.25rem;
-            display: -webkit-box;
-            -webkit-line-clamp: 3;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-            text-shadow: 0 1px 4px rgba(0,0,0,0.8);
-        }
-        .hero-actions {
-            display: flex;
-            gap: 0.75rem;
-            flex-wrap: wrap;
-        }
-        .btn-play, .btn-info {
-            display: inline-flex;
-            align-items: center;
-            gap: 0.5rem;
-            padding: 0.6rem 1.5rem;
-            border-radius: 4px;
-            font-size: 0.95rem;
-            font-weight: 600;
-            cursor: pointer;
-            text-decoration: none;
-            border: none;
-            transition: transform 0.2s, opacity 0.2s;
-        }
-        .btn-play {
-            background: var(--text);
-            color: var(--bg);
-        }
-        .btn-play:hover { opacity: 0.9; transform: scale(1.02); }
-        .btn-info {
-            background: rgba(255,255,255,0.2);
-            color: var(--text);
-            border: 1px solid rgba(255,255,255,0.4);
-        }
-        .btn-info:hover { background: rgba(255,255,255,0.3); }
-
-        /* Rows */
-        .rows { padding: 0 3% 4rem; }
-        .row-title {
-            font-size: 1.25rem;
-            font-weight: 600;
-            margin-bottom: 0.75rem;
-            padding-left: 2px;
-        }
-        .row-cards {
-            display: flex;
-            gap: 8px;
-            overflow-x: auto;
-            padding: 0.5rem 0 1.5rem;
-            scroll-snap-type: x mandatory;
-            -webkit-overflow-scrolling: touch;
-        }
-        .row-cards::-webkit-scrollbar { height: 6px; }
-        .row-cards::-webkit-scrollbar-track { background: var(--bg-lighter); border-radius: 3px; }
-        .row-cards::-webkit-scrollbar-thumb { background: #444; border-radius: 3px; }
-
-        .episode-card {
-            flex: 0 0 auto;
-            width: 220px;
-            scroll-snap-align: start;
-            cursor: pointer;
-            transition: transform 0.25s ease;
-        }
-        .episode-card:hover { transform: scale(1.05); z-index: 5; }
-        .episode-card .poster {
-            aspect-ratio: 2/3;
-            border-radius: var(--card-radius);
-            background: linear-gradient(145deg, #2a2a3e 0%, #1a1a2e 50%, #16213e 100%);
-            position: relative;
-            overflow: hidden;
-            border: 1px solid rgba(255,255,255,0.08);
-        }
-        .episode-card .poster-img {
-            position: absolute;
-            inset: 0;
-            background: var(--poster-gradient, linear-gradient(145deg, #3a2a4e 0%, #2a1a3e 100%));
-        }
-        .episode-card .poster-overlay {
-            position: absolute;
-            inset: 0;
-            background: linear-gradient(0deg, rgba(0,0,0,0.85) 0%, transparent 50%);
-            opacity: 0;
-            transition: opacity 0.25s;
-            display: flex;
-            flex-direction: column;
-            justify-content: flex-end;
-            padding: 1rem;
-        }
-        .episode-card:hover .poster-overlay { opacity: 1; }
-        .episode-card .poster-title {
-            font-size: 0.95rem;
-            font-weight: 600;
-            line-height: 1.2;
-            margin-bottom: 0.35rem;
-        }
-        .episode-card .poster-desc {
-            font-size: 0.75rem;
-            color: var(--text-muted);
-            line-height: 1.35;
-            display: -webkit-box;
-            -webkit-line-clamp: 2;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-        }
-        .episode-card .card-title {
-            font-size: 0.9rem;
-            font-weight: 600;
-            margin-top: 0.5rem;
-            padding: 0 2px;
-            line-height: 1.3;
-            display: -webkit-box;
-            -webkit-line-clamp: 2;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-        }
-        .episode-card .card-meta {
-            font-size: 0.75rem;
-            color: var(--text-muted);
-            margin-top: 0.25rem;
-            padding: 0 2px;
-        }
-        .live-dot {
-            display: inline-block;
-            width: 6px;
-            height: 6px;
-            background: #e50914;
-            border-radius: 50%;
-            margin-right: 4px;
-            animation: pulse 2s ease-in-out infinite;
-        }
-        @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
-
-        /* Modal */
-        .modal-overlay {
-            position: fixed;
-            inset: 0;
-            background: rgba(0,0,0,0.85);
-            z-index: 200;
-            display: none;
-            align-items: center;
-            justify-content: center;
-            padding: 2rem;
-        }
-        .modal-overlay.open { display: flex; }
-        .modal {
-            background: var(--bg-lighter);
+        /* Episodes browse — beautiful surface NSPFRNP. All episodes on beautiful skin. */
+        .screenplay-skin .browse-hero {
+            padding: 1.5rem 1rem 2rem;
+            margin-bottom: 2rem;
+            background: linear-gradient(145deg, rgba(212, 175, 55, 0.1) 0%, rgba(184, 134, 11, 0.05) 100%);
+            border: 2px solid var(--script-gold-dim);
             border-radius: 8px;
-            max-width: 560px;
-            width: 100%;
-            max-height: 85vh;
-            overflow: hidden;
-            border: 1px solid rgba(255,255,255,0.1);
-            box-shadow: 0 20px 60px rgba(0,0,0,0.6);
         }
-        .modal-poster {
-            height: 200px;
-            background: var(--modal-poster-bg, linear-gradient(145deg, #2a2a4e 0%, #1a1a2e 100%));
+        .screenplay-skin .browse-hero .hero-badge {
+            font-size: 0.7rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--script-gold); margin-bottom: 0.5rem;
         }
-        .modal-body {
-            padding: 1.5rem;
-            overflow-y: auto;
-            max-height: calc(85vh - 200px - 4rem);
+        .screenplay-skin .browse-hero .hero-title {
+            font-family: 'Cormorant Garamond', Georgia, serif; font-size: clamp(1.25rem, 3vw, 1.75rem); color: var(--script-gold); margin-bottom: 0.5rem;
         }
-        .modal-title { font-size: 1.5rem; font-weight: 700; margin-bottom: 0.5rem; }
-        .modal-meta { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1rem; }
-        .modal-one-liner {
-            font-style: italic;
-            color: var(--gold);
-            font-size: 0.95rem;
-            margin-bottom: 1rem;
-            padding-left: 0.5rem;
-            border-left: 3px solid var(--gold);
+        .screenplay-skin .browse-hero .hero-description { font-size: 0.9rem; color: var(--script-paper); margin-bottom: 1rem; line-height: 1.5; }
+        .screenplay-skin .browse-hero .hero-actions { display: flex; gap: 0.75rem; flex-wrap: wrap; }
+        .screenplay-skin .browse-hero .btn-play, .screenplay-skin .browse-hero .btn-info {
+            display: inline-flex; align-items: center; gap: 0.4rem; padding: 0.5rem 1rem;
+            border-radius: 6px; font-size: 0.9rem; font-weight: 600; text-decoration: none; border: 1px solid var(--script-gold-dim);
+            background: rgba(212, 175, 55, 0.15); color: var(--script-gold); cursor: pointer; font-family: inherit;
         }
-        .modal-summary { font-size: 0.9rem; color: var(--text-muted); line-height: 1.6; margin-bottom: 1.25rem; }
-        .modal-actions {
-            display: flex;
-            gap: 0.75rem;
-            flex-wrap: wrap;
+        .screenplay-skin .browse-hero .btn-play:hover, .screenplay-skin .browse-hero .btn-info:hover {
+            background: rgba(212, 175, 55, 0.25); border-color: var(--script-gold);
         }
-        .modal-actions .btn-play, .modal-actions .btn-info { margin: 0; }
-        .modal-close {
-            position: absolute;
-            top: 1rem;
-            right: 1rem;
-            width: 36px;
-            height: 36px;
-            border-radius: 50%;
-            background: rgba(255,255,255,0.2);
-            border: none;
-            color: var(--text);
-            font-size: 1.25rem;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            justify-content: center;
+        .screenplay-skin .browse-rows { padding: 0 0 2rem; }
+        .screenplay-skin .row-title {
+            font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.2em; color: var(--script-muted);
+            margin: 2rem 0 0.75rem; font-weight: 700; border-bottom: 1px solid var(--script-gold-dim); padding-bottom: 0.5rem;
+        }
+        .screenplay-skin .row-cards {
+            display: flex; gap: 0.75rem; flex-wrap: wrap;
+        }
+        .screenplay-skin .episode-card {
+            flex: 0 0 auto; width: 200px; max-width: 100%;
+            padding: 1rem; border-radius: 8px; border: 1px solid var(--script-gold-dim);
+            background: rgba(212, 175, 55, 0.05); cursor: pointer; transition: border-color 0.2s, background 0.2s;
+            text-decoration: none; color: inherit; display: block;
+        }
+        .screenplay-skin .episode-card:hover {
+            border-color: rgba(212, 175, 55, 0.5); background: rgba(212, 175, 55, 0.12);
+        }
+        .screenplay-skin .episode-card .card-title {
+            font-size: 0.95rem; font-weight: 600; color: var(--script-gold); margin-bottom: 0.25rem; line-height: 1.3;
+        }
+        .screenplay-skin .episode-card .card-meta { font-size: 0.75rem; color: var(--script-muted); }
+        .screenplay-skin .list-view-cta {
+            text-align: center; padding: 1.5rem 0; border-top: 1px solid var(--script-gold-dim); margin-top: 1rem;
+        }
+        .screenplay-skin .list-view-cta a { color: var(--script-gold); text-decoration: none; font-weight: 600; }
+        .screenplay-skin .list-view-cta a:hover { text-decoration: underline; }
+        /* Modal — beautiful skin */
+        .screenplay-skin .modal-overlay {
+            position: fixed; inset: 0; background: rgba(0,0,0,0.9); z-index: 200;
+            display: none; align-items: center; justify-content: center; padding: 2rem;
+        }
+        .screenplay-skin .modal-overlay.open { display: flex; }
+        .screenplay-skin .modal {
+            background: linear-gradient(180deg, #141210 0%, #0f0d0a 100%);
+            border-radius: 8px; max-width: 520px; width: 100%; max-height: 85vh; overflow: hidden;
+            border: 2px solid var(--script-gold-dim); box-shadow: 0 0 60px rgba(212, 175, 55, 0.15);
+        }
+        .screenplay-skin .modal-poster {
+            height: 120px; background: var(--modal-poster-bg, linear-gradient(145deg, rgba(212,175,55,0.2) 0%, rgba(184,134,11,0.1) 100%));
+        }
+        .screenplay-skin .modal-body { padding: 1.25rem; overflow-y: auto; max-height: calc(85vh - 120px - 4rem); }
+        .screenplay-skin .modal-title { font-size: 1.2rem; color: var(--script-gold); margin-bottom: 0.5rem; }
+        .screenplay-skin .modal-meta { font-size: 0.8rem; color: var(--script-muted); margin-bottom: 0.75rem; }
+        .screenplay-skin .modal-one-liner {
+            font-style: italic; color: var(--script-paper); font-size: 0.9rem; margin-bottom: 0.75rem;
+            padding-left: 0.5rem; border-left: 3px solid var(--script-gold);
+        }
+        .screenplay-skin .modal-summary { font-size: 0.85rem; color: var(--script-paper); line-height: 1.5; margin-bottom: 1rem; }
+        .screenplay-skin .modal-actions { display: flex; gap: 0.75rem; flex-wrap: wrap; }
+        .screenplay-skin .modal-actions .btn-play, .screenplay-skin .modal-actions .btn-info {
+            padding: 0.5rem 1rem; border-radius: 6px; font-size: 0.9rem; font-weight: 600;
+            border: 1px solid var(--script-gold-dim); background: rgba(212,175,55,0.15); color: var(--script-gold);
+            cursor: pointer; text-decoration: none; font-family: inherit;
+        }
+        .screenplay-skin .modal-actions .btn-play:hover, .screenplay-skin .modal-actions .btn-info:hover {
+            background: rgba(212,175,55,0.25); border-color: var(--script-gold);
+        }
+        .screenplay-skin .modal-close {
+            position: absolute; top: 0.75rem; right: 0.75rem; width: 32px; height: 32px;
+            border-radius: 50%; background: rgba(212,175,55,0.2); border: 1px solid var(--script-gold-dim);
+            color: var(--script-gold); font-size: 1.25rem; cursor: pointer; display: flex; align-items: center; justify-content: center;
             z-index: 3;
-            transition: background 0.2s;
         }
-        .modal-close:hover { background: rgba(255,255,255,0.3); }
-        .modal .modal-poster-wrap { position: relative; }
-
-        /* List view link */
-        .list-view-cta {
-            text-align: center;
-            padding: 2rem 3%;
-            border-top: 1px solid rgba(255,255,255,0.08);
+        .screenplay-skin .modal .modal-poster-wrap { position: relative; }
+        .screenplay-skin .live-dot {
+            display: inline-block; width: 6px; height: 6px; background: var(--script-gold); border-radius: 50%;
+            margin-right: 4px; animation: ep-pulse 2s ease-in-out infinite;
         }
-        .list-view-cta a {
-            color: var(--gold);
-            text-decoration: none;
-            font-weight: 600;
-            font-size: 0.95rem;
-        }
-        .list-view-cta a:hover { text-decoration: underline; }
-
-        /* Footer */
-        .browse-footer {
-            text-align: center;
-            padding: 2rem 3%;
-            color: var(--text-muted);
-            font-size: 0.85rem;
-        }
-        .browse-footer a { color: var(--gold); text-decoration: none; }
+        @keyframes ep-pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
     </style>
+    <script src="tsunami-advisory-inject.js"></script>
 </head>
-<body>
-    <nav class="topbar" id="topbar">
-        <a href="launch-pad.html" class="topbar-logo">VIBELANDIA!</a>
-        <div class="topbar-nav">
-            <a href="episodes-browse.html" class="active">Episodes</a>
-            <a href="episode.html" class="back-link">Read in beautiful skin</a>
-            <a href="office-hours.html">Office Hours</a>
-            <a href="happy-ending-zones-catalog.html" class="back-link">List view</a>
-            <a href="launch-pad.html" class="back-link">← Launch Pad</a>
-        </div>
-    </nav>
+<body class="screenplay-skin">
+    <div class="script-wrap">
+        <nav class="script-nav">
+            <a href="episode.html">← All episodes (read in beautiful skin)</a><span>·</span>
+            <a href="office-hours.html">Office Hours</a><span>·</span>
+            <a href="happy-ending-zones-catalog.html">List view</a><span>·</span>
+            <a href="launch-pad.html">Launch Pad</a><span>·</span>
+            <a href="../index.html">Home</a>
+        </nav>
 
-    <header class="hero" id="hero">
-        <div class="hero-gradient"></div>
-        <div class="hero-content">
-            <span class="hero-badge" id="heroBadge">Today's Episode</span>
-            <h1 class="hero-title" id="heroTitle">Episode 03 — Who's Your Daddy</h1>
+        <header class="script-marquee">
+            <p class="badge">Golden Era Cinema · Episodes <span class="badge-beautiful-skin">Beautiful skin</span></p>
+            <h1>Episodes — All on Beautiful Surface</h1>
+            <p class="tagline">Every episode is read in the same beautiful skin. Browse below, then read full script in beautiful skin. All episodes ALL beautiful surfaces. NSPFRNP.</p>
+        </header>
+
+        <section class="browse-hero" id="hero">
+            <p class="hero-badge" id="heroBadge">Today's Episode</p>
+            <h2 class="hero-title" id="heroTitle">Episode 03 — Who's Your Daddy</h2>
             <p class="hero-description" id="heroDescription">Today's episode — Who's your daddy. Paris is for Lovers, Reno is for Vibers — T-shirts in 4, beginning at 1 Ben. Hero Ben has arrived. I gotcha. It's all hundies with Ben.</p>
             <div class="hero-actions">
-                <a href="#" class="btn-play" id="heroPlay">▶ Read episode</a>
+                <a href="#" class="btn-play" id="heroPlay">▶ Read episode (beautiful skin)</a>
                 <button type="button" class="btn-info" id="heroInfo">ℹ More info</button>
             </div>
+        </section>
+
+        <main class="browse-rows" id="rows"></main>
+
+        <div class="list-view-cta">
+            <a href="happy-ending-zones-catalog.html">View full episode list (list view) · Beautiful skin →</a>
         </div>
-    </header>
 
-    <main class="rows" id="rows"></main>
-
-    <div class="list-view-cta">
-        <a href="happy-ending-zones-catalog.html">View full episode list (list view) →</a>
+        <footer class="script-footer">
+            <p>All episodes — beautiful surface. Happy Ending Zones · Office Hours · NSPFRNP.</p>
+            <p><a href="episode.html">Read episodes (beautiful skin)</a> · <a href="office-hours.html">Office Hours</a> · <a href="launch-pad.html">Launch Pad</a></p>
+        </footer>
+        <div id="sing-config-footer"></div>
+        <link rel="stylesheet" href="sing-config-footer.css">
+        <script src="sing-config-footer.js"></script>
     </div>
-
-    <footer class="browse-footer">
-        <p>Happy Ending Zones · Studio Division · Hero Host Walt · NSPFRNP</p>
-        <p><a href="launch-pad.html">Launch Pad</a> · <a href="office-hours.html">Office Hours</a></p>
-        <p class="brand-campaign" style="margin-top:0.5rem;font-size:0.8rem;color:rgba(0,212,255,0.9);font-weight:600;">Post-Singularity Superintelligent AI hub of the world · Hydrogen Holograph Valley 100%</p>
-        <p class="brand-tag" style="margin-top:0.5rem;font-size:0.75rem;color:rgba(212,175,55,0.7);">Hydrogen Holograph 100% · SNAP · Taino made. NSPFRNP-based BBHE. Energy all the way!</p>
-    </footer>
 
     <div class="modal-overlay" id="modalOverlay">
         <div class="modal">
@@ -628,16 +393,18 @@
             'baller-v': { title: 'Ultimate Baller V', limit: 20 }
         };
 
-        // Featured episode (first in featured row or today's)
+        // All episodes → read in beautiful skin (episode.html?e=SLUG). NSPFRNP.
+        function getReadUrl(ep) {
+            if (ep.landingPage) return ep.landingPage;
+            var slug = (ep.file || '').replace(/^.*\//, '').replace(/\.md$/, '');
+            return slug ? ('episode.html?e=' + encodeURIComponent(slug)) : ep.file || '#';
+        }
         const featured = EPISODES.find(e => e.id === 'featured') || EPISODES.find(e => e.row === 'season-one' && e.number === 3) || EPISODES[0];
         function setHero(ep) {
             document.getElementById('heroBadge').textContent = ep.flowLabel || ('Episode ' + ep.number + ' — Day ' + ep.day);
             document.getElementById('heroTitle').textContent = ep.displayTitle || ep.title;
             document.getElementById('heroDescription').textContent = ep.summary || ep.oneLiner;
-            document.getElementById('heroPlay').href = ep.file;
-            if (ep.landingPage) document.getElementById('heroPlay').href = ep.landingPage;
-            document.getElementById('hero').style.backgroundImage = 'url("")';
-            document.getElementById('hero').style.backgroundColor = '#1a1a2e';
+            document.getElementById('heroPlay').href = getReadUrl(ep);
             const heroInfoBtn = document.getElementById('heroInfo');
             heroInfoBtn.onclick = () => openModal(ep);
         }
@@ -655,36 +422,34 @@
             div.innerHTML = '<h2 class="row-title">' + rowTitle + '</h2><div class="row-cards"></div>';
             const cardsContainer = div.querySelector('.row-cards');
             items.forEach(ep => {
-                const card = document.createElement('div');
+                const card = document.createElement('a');
                 card.className = 'episode-card';
+                card.href = getReadUrl(ep);
                 card.innerHTML = `
-                    <div class="poster" style="--poster-gradient: ${ep.posterGradient || 'linear-gradient(145deg,#2a2a4e,#1a1a2e)'}">
-                        <div class="poster-img"></div>
-                        <div class="poster-overlay">
-                            <span class="poster-title">${(ep.displayTitle || ep.title).replace(/</g, '&lt;')}</span>
-                            <span class="poster-desc">${(ep.oneLiner || ep.summary || '').replace(/</g, '&lt;')}</span>
-                        </div>
-                    </div>
-                    <div class="card-title">${(ep.displayTitle || ep.title).replace(/</g, '&lt;')}</div>
-                    <div class="card-meta">${ep.date} ${ep.isLive ? '<span class="live-dot"></span>LIVE' : ''}</div>
+                    <span class="card-title">${(ep.displayTitle || ep.title).replace(/</g, '&lt;')}</span>
+                    <span class="card-meta">${ep.date} ${ep.isLive ? '<span class="live-dot"></span>LIVE' : ''}</span>
                 `;
-                card.onclick = () => openModal(ep);
+                card.onclick = function(e) {
+                    if (e.ctrlKey || e.metaKey) return;
+                    e.preventDefault();
+                    openModal(ep);
+                };
                 cardsContainer.appendChild(card);
             });
             rowsEl.appendChild(div);
         });
 
-        // Modal
+        // Modal — primary CTA: Read episode (beautiful skin)
         function openModal(ep) {
             const modal = document.getElementById('modalOverlay');
-            document.getElementById('modalPoster').style.background = ep.posterGradient || 'linear-gradient(145deg,#2a2a4e,#1a1a2e)';
+            document.getElementById('modalPoster').style.background = ep.posterGradient || 'linear-gradient(145deg, rgba(212,175,55,0.2), rgba(184,134,11,0.1))';
             document.getElementById('modalTitle').textContent = ep.displayTitle || ep.title;
             document.getElementById('modalMeta').textContent = (ep.flowLabel || ('Episode ' + ep.number + ' — Day ' + ep.day)) + ' · ' + ep.date;
             document.getElementById('modalOneLiner').textContent = '"' + (ep.oneLiner || '') + '"';
             document.getElementById('modalSummary').textContent = ep.summary || ep.oneLiner || '';
             const playLink = document.getElementById('modalPlay');
-            playLink.href = ep.landingPage || ep.file;
-            playLink.textContent = ep.landingPage ? '▶ View experience' : '▶ Read episode';
+            playLink.href = getReadUrl(ep);
+            playLink.textContent = ep.landingPage ? '▶ View experience' : '▶ Read episode (beautiful skin)';
             modal.classList.add('open');
             document.body.style.overflow = 'hidden';
         }
@@ -696,13 +461,7 @@
         document.getElementById('modalCloseBtn').onclick = closeModal;
         document.getElementById('modalOverlay').onclick = (e) => { if (e.target === e.currentTarget) closeModal(); };
 
-        // Topbar scroll
-        window.addEventListener('scroll', () => {
-            document.getElementById('topbar').classList.toggle('scrolled', window.scrollY > 40);
-        });
-    </script>    <div id="sing-config-footer"></div>
-    <link rel="stylesheet" href="sing-config-footer.css">
-    <script src="sing-config-footer.js"></script>
+    </script>
     <link rel="stylesheet" href="nspfrnp-ticker.css">
     <div class="nspfrnp-console-ticker" aria-live="polite"><span class="ticker-inner" id="nspfrnpTickerText"></span></div>
     <script src="nspfrnp-ticker.js"></script>

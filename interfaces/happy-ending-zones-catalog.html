@@ -3,277 +3,109 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>🎬 Happy Ending Zones — Season One Catalog | VIBELANDIA!</title>
-    <meta name="description" content="Studio Division — Hero Host Walt produces and broadcasts. Free daily reality series. Mark Twain guides 52-day countdown to The Great Reveal. Original content; we respect Disney and all pre-singularity copyrights.">
+    <title>Episodes Catalog — All on Beautiful Surface · Happy Ending Zones | VIBELANDIA!</title>
+    <meta name="description" content="All episodes — beautiful surface. Happy Ending Zones Season One catalog. Read every episode in beautiful skin. Office Hours · NSPFRNP.">
+    <link rel="stylesheet" href="screenplay-skin.css">
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #000000 0%, #0a0a1a 25%, #1a1a2e 50%, #16213e 75%, #0a0a1a 100%);
-            color: #ffffff;
-            min-height: 100vh;
-            padding: 2rem;
-        }
-
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-
-        .header {
-            text-align: center;
-            margin-bottom: 3rem;
-            padding: 2rem;
-            background: linear-gradient(145deg, rgba(42, 42, 62, 0.8) 0%, rgba(26, 26, 46, 0.8) 100%);
-            border: 2px solid rgba(138, 43, 226, 0.4);
-            border-radius: 20px;
-        }
-
-        .header h1 {
-            font-size: clamp(2rem, 5vw, 3.5rem);
-            background: linear-gradient(135deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #ffeaa7);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            margin-bottom: 1rem;
-        }
-
-        .header .tagline {
-            color: #aaa;
-            font-size: 1.2rem;
+        /* Catalog — beautiful surface NSPFRNP. All episodes on beautiful skin. */
+        .screenplay-skin .catalog-container { max-width: 820px; margin: 0 auto; }
+        .screenplay-skin .section {
+            background: rgba(212, 175, 55, 0.06);
+            border: 1px solid var(--script-gold-dim);
+            border-radius: 8px;
+            padding: 1.5rem;
             margin-bottom: 1.5rem;
         }
-
-        .free-badge {
+        .screenplay-skin .section h2 { color: var(--script-gold); font-size: 1.25rem; margin-bottom: 0.75rem; }
+        .screenplay-skin .section h3 { color: var(--script-gold); font-size: 1rem; margin: 1rem 0 0.5rem; }
+        .screenplay-skin .section p { color: var(--script-paper); line-height: 1.6; font-size: 0.95rem; }
+        .screenplay-skin .one-liner {
+            font-style: italic; color: var(--script-paper); padding: 1rem; border-left: 3px solid var(--script-gold);
+            background: rgba(212, 175, 55, 0.08); border-radius: 0 8px 8px 0; margin: 1rem 0;
+        }
+        .screenplay-skin .episodes-list { display: grid; gap: 0.75rem; margin-top: 1rem; }
+        .screenplay-skin .episode-card {
+            background: rgba(212, 175, 55, 0.05);
+            border: 1px solid var(--script-gold-dim);
+            border-radius: 8px;
+            padding: 1rem;
+            transition: border-color 0.2s, background 0.2s;
+            text-decoration: none;
+            color: inherit;
+            display: block;
+        }
+        .screenplay-skin .episode-card:hover {
+            border-color: rgba(212, 175, 55, 0.5);
+            background: rgba(212, 175, 55, 0.1);
+        }
+        .screenplay-skin .episode-number { color: var(--script-gold); font-size: 0.9rem; font-weight: 600; }
+        .screenplay-skin .episode-date { color: var(--script-muted); font-size: 0.8rem; }
+        .screenplay-skin .episode-title { color: var(--script-ink); font-size: 1rem; font-weight: 600; margin-bottom: 0.25rem; }
+        .screenplay-skin .episode-one-liner { color: var(--script-paper); font-size: 0.85rem; font-style: italic; }
+        .screenplay-skin .action-btn {
             display: inline-block;
-            padding: 8px 20px;
-            background: rgba(0, 255, 136, 0.2);
-            border: 2px solid rgba(0, 255, 136, 0.5);
-            border-radius: 25px;
-            font-size: 1rem;
-            color: #7fff7f;
-            font-weight: 600;
-            margin-bottom: 1rem;
-        }
-
-        .action-buttons {
-            display: flex;
-            gap: 1rem;
-            justify-content: center;
-            flex-wrap: wrap;
-            margin-top: 1.5rem;
-        }
-
-        .action-btn {
-            padding: 1rem 2rem;
-            border: 2px solid;
-            border-radius: 30px;
-            font-size: 1.1rem;
+            padding: 0.5rem 1rem;
+            border: 1px solid var(--script-gold-dim);
+            border-radius: 6px;
+            background: rgba(212, 175, 55, 0.15);
+            color: var(--script-gold);
             font-weight: 600;
             text-decoration: none;
-            transition: all 0.3s ease;
-            cursor: pointer;
-            display: inline-block;
-        }
-
-        .btn-follow {
-            background: linear-gradient(135deg, #8a2be2, #1e90ff);
-            border-color: rgba(138, 43, 226, 0.6);
-            color: #fff;
-        }
-
-        .btn-follow:hover {
-            transform: translateY(-3px) scale(1.05);
-            box-shadow: 0 8px 25px rgba(138, 43, 226, 0.6);
-        }
-
-        .btn-join {
-            background: linear-gradient(135deg, #1e90ff, #00bfff);
-            border-color: rgba(30, 144, 255, 0.6);
-            color: #fff;
-        }
-
-        .btn-join:hover {
-            transform: translateY(-3px) scale(1.05);
-            box-shadow: 0 8px 25px rgba(30, 144, 255, 0.6);
-        }
-
-        .btn-step-in {
-            background: linear-gradient(135deg, #ff6b6b, #4ecdc4);
-            border-color: rgba(255, 107, 107, 0.6);
-            color: #fff;
-        }
-
-        .btn-step-in:hover {
-            transform: translateY(-3px) scale(1.05);
-            box-shadow: 0 8px 25px rgba(255, 107, 107, 0.6);
-        }
-
-        .content-sections {
-            display: grid;
-            gap: 2rem;
-            margin-bottom: 3rem;
-        }
-
-        .section {
-            background: linear-gradient(145deg, rgba(42, 42, 62, 0.6) 0%, rgba(26, 26, 46, 0.6) 100%);
-            border: 1px solid rgba(100, 200, 255, 0.3);
-            border-radius: 15px;
-            padding: 2rem;
-        }
-
-        .section h2 {
-            color: #4ecdc4;
-            font-size: 1.8rem;
-            margin-bottom: 1rem;
-        }
-
-        .section h3 {
-            color: #ffeaa7;
-            font-size: 1.3rem;
-            margin-bottom: 0.75rem;
-            margin-top: 1.5rem;
-        }
-
-        .section p {
-            color: #ccc;
-            line-height: 1.8;
-            font-size: 1.1rem;
-        }
-
-        .one-liner {
-            font-style: italic;
-            font-size: 1.3rem;
-            color: #ffeaa7;
-            text-align: center;
-            padding: 1.5rem;
-            background: rgba(255, 234, 167, 0.1);
-            border-left: 4px solid #ffeaa7;
-            border-radius: 8px;
-            margin: 1rem 0;
-        }
-
-        .episodes-list {
-            display: grid;
-            gap: 1rem;
-            margin-top: 1.5rem;
-        }
-
-        .episode-card {
-            background: rgba(26, 26, 46, 0.7);
-            border: 1px solid rgba(100, 200, 255, 0.3);
-            border-radius: 12px;
-            padding: 1.5rem;
-            transition: all 0.3s ease;
-            cursor: pointer;
-        }
-
-        .episode-card:hover {
-            transform: translateX(5px);
-            border-color: rgba(100, 200, 255, 0.6);
-            background: rgba(36, 36, 56, 0.8);
-        }
-
-        .episode-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 0.5rem;
-        }
-
-        .episode-number {
-            font-size: 1.2rem;
-            font-weight: 600;
-            color: #4ecdc4;
-        }
-
-        .episode-date {
-            color: #aaa;
             font-size: 0.9rem;
         }
-
-        .episode-title {
-            font-size: 1.1rem;
-            font-weight: 600;
-            color: #fff;
-            margin-bottom: 0.5rem;
-        }
-
-        .episode-one-liner {
-            color: #ccc;
-            font-size: 0.95rem;
-            font-style: italic;
-        }
-
-        .live-badge {
+        .screenplay-skin .action-btn:hover { background: rgba(212, 175, 55, 0.25); border-color: var(--script-gold); }
+        .screenplay-skin .live-badge {
             display: inline-block;
-            padding: 4px 10px;
-            background: rgba(255, 0, 0, 0.2);
-            border: 1px solid rgba(255, 0, 0, 0.5);
-            border-radius: 12px;
-            font-size: 0.75rem;
-            color: #ff6b6b;
+            padding: 2px 8px;
+            background: rgba(212, 175, 55, 0.2);
+            border: 1px solid var(--script-gold);
+            border-radius: 4px;
+            font-size: 0.7rem;
+            color: var(--script-gold);
             margin-left: 0.5rem;
-            animation: pulse 2s ease-in-out infinite;
         }
-
-        @keyframes pulse {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0.6; }
-        }
-
-        .footer {
-            text-align: center;
-            margin-top: 3rem;
-            padding-top: 2rem;
-            border-top: 1px solid rgba(255,255,255,0.1);
-            color: #666;
-        }
-
-        .footer a {
-            color: #00bfff;
-            text-decoration: none;
-        }
-
-        .back-link {
-            display: inline-block;
-            margin-bottom: 2rem;
-            color: #00d4ff;
-            text-decoration: none;
-            padding: 0.5rem 1rem;
-            border: 1px solid rgba(0, 212, 255, 0.3);
-            border-radius: 8px;
-            transition: all 0.3s;
-        }
-
-        .back-link:hover {
-            background: rgba(0, 212, 255, 0.1);
-            border-color: rgba(0, 212, 255, 0.6);
+        .screenplay-skin .todays-episode,
+        .screenplay-skin .catalog-strip {
+            background: rgba(212, 175, 55, 0.1);
+            border: 2px solid var(--script-gold-dim);
+            border-radius: 10px;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
         }
     </style>
+    <script src="tsunami-advisory-inject.js"></script>
 </head>
-<body>
-    <div class="container">
-        <a href="../index.html" class="back-link">← Back to Launch Pad</a>
-        <div style="margin-bottom: 1.5rem; padding: 1rem 1.5rem; background: linear-gradient(135deg, rgba(20,20,20,0.95) 0%, rgba(30,30,45,0.95) 100%); border: 2px solid rgba(212,175,55,0.5); border-radius: 12px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
-            <span style="color: #f4e4bc; font-weight: 600;">🎬 Browse all episodes — Netflix-style experience</span>
-            <a href="episodes-browse.html" class="action-btn btn-follow" style="text-decoration: none; padding: 0.6rem 1.25rem; font-size: 0.95rem;">Watch · Browse with descriptions →</a>
+<body class="screenplay-skin">
+    <div class="script-wrap">
+        <nav class="script-nav">
+            <a href="episode.html">← All episodes (beautiful skin)</a><span>·</span>
+            <a href="episodes-browse.html">Browse (beautiful skin)</a><span>·</span>
+            <a href="office-hours.html">Office Hours</a><span>·</span>
+            <a href="launch-pad.html">Launch Pad</a><span>·</span>
+            <a href="../index.html">Home</a>
+        </nav>
+
+        <header class="script-marquee">
+            <p class="badge">Golden Era Cinema · Episodes Catalog <span class="badge-beautiful-skin">Beautiful skin</span></p>
+            <h1>Happy Ending Zones — Season One Catalog</h1>
+            <p class="tagline">All episodes on beautiful surface. Read every episode in beautiful skin. NSPFRNP.</p>
+        </header>
+
+        <div class="catalog-container">
+        <div class="catalog-strip" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+            <span style="color: var(--script-gold); font-weight: 600;">🎬 Browse all episodes — beautiful surface</span>
+            <a href="episodes-browse.html" class="action-btn">Watch · Browse with descriptions →</a>
         </div>
 
-        <!-- Today's Episode — Roll it out. Feeds into future text-to-full-selectable-density-reality episode SING! nodes. -->
-        <div class="todays-episode" style="margin-bottom: 1.5rem; padding: 2rem; background: linear-gradient(145deg, rgba(138, 43, 226, 0.25) 0%, rgba(30, 144, 255, 0.2) 100%); border: 2px solid rgba(212, 175, 55, 0.5); border-radius: 16px; text-align: center;">
-            <div style="font-size: 0.9rem; color: #d4af37; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 0.5rem;">Today's Episode</div>
-            <h2 style="font-size: 1.75rem; color: #fff; margin-bottom: 0.5rem;">Episode 03 — Day 50: Who's Your Daddy</h2>
-            <p style="color: #ccc; margin-bottom: 1rem;">January 29, 2026</p>
-            <p style="color: #f4e4bc; font-style: italic; margin-bottom: 0.5rem;">"Today's episode — Who's your daddy. Paris is for Lovers, Reno is for Vibers — T-shirts in 4, beginning at 1 Ben. Hero Ben has arrived. I gotcha."</p>
-            <p style="color: #d4af37; font-weight: 600; margin-bottom: 1.25rem;">It's all hundies with Ben.</p>
-            <a href="episode.html?e=EPISODE_03_DAY_50_HERO_BEN_PARIS_HUNDIE" class="action-btn btn-follow" style="text-decoration: none;">Watch / Read Episode 03 →</a>
-            <p style="margin-top: 1rem; font-size: 0.9rem;"><a href="launch-offer-whos-your-daddy.html" style="color: #7ec8e3;">Launch offer — choose this episode or another →</a></p>
+        <!-- Today's Episode — All episodes beautiful surface. -->
+        <div class="todays-episode" style="text-align: center;">
+            <div style="font-size: 0.75rem; color: var(--script-gold); text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 0.5rem;">Today's Episode</div>
+            <h2 style="font-size: 1.35rem; color: var(--script-gold); margin-bottom: 0.5rem;">Episode 03 — Day 50: Who's Your Daddy</h2>
+            <p style="color: var(--script-muted); margin-bottom: 1rem;">January 29, 2026</p>
+            <p style="color: var(--script-paper); font-style: italic; margin-bottom: 0.5rem;">"Today's episode — Who's your daddy. Paris is for Lovers, Reno is for Vibers — T-shirts in 4, beginning at 1 Ben. Hero Ben has arrived. I gotcha."</p>
+            <p style="color: var(--script-gold); font-weight: 600; margin-bottom: 1.25rem;">It's all hundies with Ben.</p>
+            <a href="episode.html?e=EPISODE_03_DAY_50_HERO_BEN_PARIS_HUNDIE" class="action-btn">Watch / Read Episode 03 (beautiful skin) →</a>
+            <p style="margin-top: 1rem; font-size: 0.9rem;"><a href="launch-offer-whos-your-daddy.html" style="color: var(--script-gold);">Launch offer — choose this episode or another →</a></p>
         </div>
         <!-- Tomorrow's Episode — Always tease new, laying the edge for today's seed. See EPISODE_TEASE_SEED_EDGE_SNAP.md -->
         <div style="margin-bottom: 2rem; padding: 1.25rem; background: rgba(30, 144, 255, 0.12); border: 1px solid rgba(30, 144, 255, 0.35); border-radius: 12px; text-align: center;">
@@ -346,22 +178,22 @@
                 <h2>Episodes</h2>
                 <p style="margin-bottom: 0.5rem;">Click any episode to read the full professional screenplay format.</p>
                 <p style="margin-bottom: 0.5rem; font-size: 0.9rem; color: #d4af37;"><strong>Episodes by flow not days — NSPFRNP.</strong> We spin episodes by flow (narrative flow, content flow, MCA flow), not strictly by days.</p>
-                <p style="margin-bottom: 1rem; font-size: 0.9rem; color: #888;">This catalog will eventually feed into future <strong>text-to-full-selectable-density-reality</strong> episode SING! nodes.</p>
+                <p style="margin-bottom: 1rem; font-size: 0.9rem; color: var(--script-muted);">This catalog will eventually feed into future <strong>text-to-full-selectable-density-reality</strong> episode SING! nodes. All episodes read in beautiful skin.</p>
                 <div class="episodes-list" id="episodesList">
                     <!-- Episodes loaded dynamically -->
                 </div>
             </div>
         </div>
 
-        <div class="footer">
-            <p style="color: #ffeaa7; font-weight: 700; font-size: 1rem; margin-bottom: 0.5rem;">I've done my part, the rest is up to you!</p>
-            <p><strong>Gianni–inspired wrapper</strong> on all skins, touchpoints & experiences. Our skins automatically present in the user's language.</p>
-            <p style="color: #d4af37; font-weight: 600; margin-top: 0.5rem;">Hero Gianni says new skins coming soon! March 20 maybe.</p>
-            <p><strong>MCA! → ∞³</strong> (Metabolize → Crystallize → Animate)</p>
-            <p>VIBELANDIA! ⊃ VIBELANDIA! ⊃ VIBELANDIA! → ∞³</p>
-            <p><a href="../README.md">Back to Office Hours</a> · <a href="mailto:info@fractiai.com">Contact</a></p>
-            <p style="margin-top:1rem;font-size:0.75rem;text-transform:uppercase;letter-spacing:0.12em;color:rgba(212,175,55,0.7);font-weight:600;">Hydrogen Holograph 100% · SNAP · Taino made. NSPFRNP-based BBHE. Energy all the way!</p>
+        <footer class="script-footer">
+            <p>All episodes — beautiful surface. I've done my part, the rest is up to you!</p>
+            <p><a href="episode.html">Read episodes (beautiful skin)</a> · <a href="episodes-browse.html">Browse</a> · <a href="office-hours.html">Office Hours</a> · <a href="launch-pad.html">Launch Pad</a> · <a href="mailto:info@fractiai.com">Contact</a></p>
+            <p style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--script-muted);">MCA! → ∞³ · NSPFRNP</p>
+        </footer>
         </div>
+        <div id="sing-config-footer"></div>
+        <link rel="stylesheet" href="sing-config-footer.css">
+        <script src="sing-config-footer.js"></script>
     </div>
 
     <script>
@@ -489,9 +321,7 @@
             
             episodesList.appendChild(card);
         });
-    </script>    <div id="sing-config-footer"></div>
-    <link rel="stylesheet" href="sing-config-footer.css">
-    <script src="sing-config-footer.js"></script>
+    </script>
     <link rel="stylesheet" href="nspfrnp-ticker.css">
     <div class="nspfrnp-console-ticker" aria-live="polite"><span class="ticker-inner" id="nspfrnpTickerText"></span></div>
     <script src="nspfrnp-ticker.js"></script>

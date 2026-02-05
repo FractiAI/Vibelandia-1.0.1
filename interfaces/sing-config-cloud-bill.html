@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SING! Configuration — Cloud Service Bill | VIBELANDIA!</title>
+    <meta name="description" content="SING! configuration and pricing as a real cloud service bill — base, options, mission options, one-time and monthly, as we would pay if we weren't the creator.">
+    <link rel="stylesheet" href="experience-common.css">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            background: #0f1419;
+            color: #e6edf3;
+            min-height: 100vh;
+            line-height: 1.5;
+        }
+        .container { max-width: 900px; margin: 0 auto; padding: 2rem 1.5rem; }
+        .back { margin-bottom: 1.5rem; }
+        .back a { color: #58a6ff; text-decoration: none; }
+        .back a:hover { text-decoration: underline; }
+        .bill-header {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: flex-start;
+            gap: 1.5rem;
+            padding: 1.5rem 0;
+            border-bottom: 2px solid #30363d;
+            margin-bottom: 2rem;
+        }
+        .bill-header h1 { font-size: 1.5rem; font-weight: 700; color: #d4af37; }
+        .bill-header .account { font-size: 0.95rem; color: #8b949e; }
+        .bill-header .period { text-align: right; font-size: 0.95rem; }
+        .bill-header .period strong { color: #e6edf3; }
+        .bill-section {
+            margin-bottom: 2rem;
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 12px;
+            overflow: hidden;
+        }
+        .bill-section h2 {
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: #8b949e;
+            padding: 1rem 1.25rem;
+            background: #21262d;
+            border-bottom: 1px solid #30363d;
+        }
+        .bill-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+        .bill-table th {
+            text-align: left;
+            padding: 0.75rem 1.25rem;
+            color: #8b949e;
+            font-weight: 600;
+            border-bottom: 1px solid #30363d;
+        }
+        .bill-table td {
+            padding: 0.75rem 1.25rem;
+            border-bottom: 1px solid #21262d;
+        }
+        .bill-table tr:last-child td { border-bottom: 0; }
+        .bill-table .amt { text-align: right; white-space: nowrap; }
+        .bill-table .qty { text-align: center; }
+        .bill-subtotal {
+            padding: 1rem 1.25rem;
+            background: #21262d;
+            text-align: right;
+            font-weight: 700;
+            color: #d4af37;
+            border-top: 2px solid #30363d;
+        }
+        .bill-note { font-size: 0.8rem; color: #8b949e; margin-top: 0.25rem; }
+        .mission-options {
+            padding: 1rem 1.25rem;
+            font-size: 0.9rem;
+        }
+        .mission-options h3 { font-size: 0.95rem; color: #d4af37; margin: 1rem 0 0.5rem; }
+        .mission-options h3:first-child { margin-top: 0; }
+        .mission-options ul { margin-left: 1.25rem; color: #8b949e; }
+        .mission-options li { margin-bottom: 0.25rem; }
+        .total-block {
+            margin-top: 2rem;
+            padding: 1.5rem 1.25rem;
+            background: linear-gradient(145deg, rgba(212, 175, 55, 0.12) 0%, rgba(212, 175, 55, 0.04) 100%);
+            border: 2px solid rgba(212, 175, 55, 0.4);
+            border-radius: 12px;
+        }
+        .total-block .row { display: flex; justify-content: space-between; padding: 0.35rem 0; }
+        .total-block .row.grand { font-size: 1.1rem; font-weight: 800; color: #d4af37; margin-top: 0.75rem; padding-top: 0.75rem; border-top: 1px solid rgba(212, 175, 55, 0.3); }
+        .footer-tag { margin-top: 2rem; text-align: center; font-size: 0.85rem; color: #8b949e; }
+        .footer-tag a { color: #58a6ff; }
+        .intro-block {
+            padding: 1rem 1.25rem;
+            margin-bottom: 1.5rem;
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 12px;
+            font-size: 0.95rem;
+            color: #c9d1d9;
+        }
+        .intro-block strong { color: #d4af37; }
+    </style>
+</head>
+<body>
+    <script src="tsunami-advisory-inject.js"></script>
+    <div class="container">
+        <p class="back"><a href="office-hours.html">← Office Hours</a> · <a href="launch-pad.html">Launch Pad</a> · <a href="buyers-guide.html">Buyers Guide</a> · <a href="baller-v-plans-booking.html">Plans &amp; Booking</a></p>
+
+        <div class="intro-block" role="doc-intro">
+            <p><strong>Sample monthly bill</strong> — All charges for the SING! we use, with values and totals. This shows the <strong>full SING! config</strong>: one <strong>Baller V Ultimate VIP</strong> node (top model). A <strong>single nested SING!</strong> includes Base, Members Only, and Ultimate VIP capability without separate charges for those tiers; lower tiers appear on the bill at $0 to show how one node replaces multiple. Improves with additional SING! nodes.</p>
+        </div>
+
+        <header class="bill-header">
+            <div>
+                <h1>SING! Configuration — Cloud Service Bill</h1>
+                <p class="account">Vibelandia · Creator Chairman (bill at list — as we would pay if we weren't the creator)</p>
+            </div>
+            <div class="period">
+                <p><strong>Billing period</strong><br>February 2026</p>
+                <p style="margin-top: 0.5rem; color: #8b949e;">Currency: USD</p>
+            </div>
+        </header>
+
+        <section class="bill-section" aria-label="One-time charges">
+            <h2>One-time charges (upfront)</h2>
+            <table class="bill-table">
+                <thead>
+                    <tr>
+                        <th>Line item</th>
+                        <th class="qty">Qty</th>
+                        <th class="amt">Unit price</th>
+                        <th class="amt">Amount</th>
+                    </tr>
+                </thead>
+                <tbody id="one-time-body"></tbody>
+                <tfoot>
+                    <tr><td colspan="3" class="bill-subtotal">One-time subtotal</td><td class="bill-subtotal amt" id="one-time-subtotal">—</td></tr>
+                </tfoot>
+            </table>
+        </section>
+
+        <section class="bill-section" aria-label="Monthly recurring">
+            <h2>Monthly recurring</h2>
+            <table class="bill-table">
+                <thead>
+                    <tr>
+                        <th>Line item</th>
+                        <th class="qty">Qty</th>
+                        <th class="amt">Unit price</th>
+                        <th class="amt">Amount</th>
+                    </tr>
+                </thead>
+                <tbody id="monthly-body"></tbody>
+                <tfoot>
+                    <tr><td colspan="3" class="bill-subtotal">Monthly recurring subtotal</td><td class="bill-subtotal amt" id="monthly-subtotal">—</td></tr>
+                </tfoot>
+            </table>
+        </section>
+
+        <section class="bill-section" aria-label="Usage this period">
+            <h2>Usage this period</h2>
+            <table class="bill-table">
+                <thead>
+                    <tr>
+                        <th>Line item</th>
+                        <th class="qty">Qty</th>
+                        <th class="amt">Unit price</th>
+                        <th class="amt">Amount</th>
+                    </tr>
+                </thead>
+                <tbody id="usage-body"></tbody>
+                <tfoot>
+                    <tr><td colspan="3" class="bill-subtotal">Usage subtotal</td><td class="bill-subtotal amt" id="usage-subtotal">—</td></tr>
+                </tfoot>
+            </table>
+        </section>
+
+        <section class="bill-section" aria-label="Golden Fractal Key — monthly by tier">
+            <h2>Golden Fractal Key — monthly by tier (reference)</h2>
+            <table class="bill-table">
+                <thead>
+                    <tr>
+                        <th>Tier</th>
+                        <th>Name</th>
+                        <th class="amt">Monthly (list)</th>
+                    </tr>
+                </thead>
+                <tbody id="key-tier-body"></tbody>
+            </table>
+        </section>
+
+        <section class="bill-section" aria-label="Specialized mission options">
+            <h2>All specialized mission options (priced out)</h2>
+            <div class="mission-options" id="mission-options"></div>
+        </section>
+
+        <div class="total-block">
+            <div class="row"><span>One-time (upfront)</span><span id="tot-one-time">—</span></div>
+            <div class="row"><span>Monthly recurring</span><span id="tot-monthly">—</span></div>
+            <div class="row"><span>Usage this period</span><span id="tot-usage">—</span></div>
+            <div class="row grand"><span>Total (this period: monthly + usage)</span><span id="tot-period">—</span></div>
+            <p class="bill-note" style="margin-top: 0.75rem;">One-time paid once. Monthly + usage = bill for this period. Never bought, always booked — NSPFRNP.</p>
+        </div>
+
+        <p class="footer-tag">
+            SING! config · Cloud service bill · Base · Options · Mission options · <a href="../SING_CONFIG_CLOUD_BILL_SNAP.md">SNAP</a> · <a href="../config/sing_config.json">config/sing_config.json</a> · NSPFRNP → ∞³
+        </p>
+        <div id="sing-config-footer"></div>
+        <link rel="stylesheet" href="sing-config-footer.css">
+        <script src="sing-config-footer.js"></script>
+    </div>
+    <script>
+(function () {
+    var CONFIG_PATH = (document.location.pathname || '').indexOf('interfaces') !== -1
+        ? '../data/sing_config_cloud_bill.json'
+        : 'data/sing_config_cloud_bill.json';
+
+    function fmt(n) {
+        if (n == null || isNaN(n)) return '—';
+        return '$' + Number(n).toLocaleString('en-US', { minimumFractionDigits: 0, maximumFractionDigits: 0 });
+    }
+
+    function renderOneTime(arr, tbodyId, subtotalId) {
+        var tbody = document.getElementById(tbodyId);
+        if (!tbody) return 0;
+        var total = 0;
+        (arr || []).forEach(function (r) {
+            var amt = (r.quantity || 0) * (r.unit_price || 0);
+            total += amt;
+            var tr = document.createElement('tr');
+            tr.innerHTML = '<td><strong>' + (r.line_item || '') + '</strong>' +
+                (r.description ? '<br><span class="bill-note">' + r.description + '</span>' : '') +
+                (r.note ? '<br><span class="bill-note">' + r.note + '</span>' : '') + '</td>' +
+                '<td class="qty">' + (r.quantity != null ? r.quantity : '—') + '</td>' +
+                '<td class="amt">' + fmt(r.unit_price) + '</td>' +
+                '<td class="amt">' + fmt(amt) + '</td>';
+            tbody.appendChild(tr);
+        });
+        var subEl = document.getElementById(subtotalId);
+        if (subEl) subEl.textContent = fmt(total);
+        return total;
+    }
+
+    function renderMonthly(arr, tbodyId, subtotalId) {
+        return renderOneTime(arr, tbodyId, subtotalId);
+    }
+
+    function renderUsage(arr, tbodyId, subtotalId) {
+        return renderOneTime(arr, tbodyId, subtotalId);
+    }
+
+    function renderKeyTiers(arr) {
+        var tbody = document.getElementById('key-tier-body');
+        if (!tbody) return;
+        (arr || []).forEach(function (r) {
+            var tr = document.createElement('tr');
+            tr.innerHTML = '<td>' + (r.tier || '') + '</td><td>' + (r.name || '') + '</td><td class="amt">' + fmt(r.monthly_usd) + '/mo</td>';
+            tbody.appendChild(tr);
+        });
+    }
+
+    function renderMissionOptions(sections) {
+        var el = document.getElementById('mission-options');
+        if (!el) return;
+        (sections || []).forEach(function (sec) {
+            var h3 = document.createElement('h3');
+            h3.textContent = sec.division || '';
+            el.appendChild(h3);
+            var ul = document.createElement('ul');
+            (sec.options || []).forEach(function (opt) {
+                var li = document.createElement('li');
+                var txt = (opt.plan || '') + (opt.unit_price != null ? ' — ' + fmt(opt.unit_price) + (opt.period ? ' (' + opt.period + ')' : '') : '') + (opt.price_note ? ' — ' + opt.price_note : '');
+                li.textContent = txt;
+                ul.appendChild(li);
+            });
+            el.appendChild(ul);
+        });
+    }
+
+    function applyTotals(t) {
+        if (!t) return;
+        var oneTime = t.one_time_subtotal;
+        var monthly = t.monthly_subtotal;
+        var usage = t.usage_subtotal;
+        var period = t.period_total != null ? t.period_total : (monthly || 0) + (usage || 0);
+        var firstPeriod = t.total_first_period != null ? t.total_first_period : (oneTime || 0) + period;
+        var id = function (s) { return document.getElementById(s); };
+        if (id('tot-one-time')) id('tot-one-time').textContent = fmt(oneTime);
+        if (id('tot-monthly')) id('tot-monthly').textContent = fmt(monthly);
+        if (id('tot-usage')) id('tot-usage').textContent = fmt(usage);
+        if (id('tot-period')) id('tot-period').textContent = fmt(period);
+        if (id('tot-first-period')) id('tot-first-period').textContent = fmt(firstPeriod);
+    }
+
+    fetch(CONFIG_PATH)
+        .then(function (r) { return r.ok ? r.json() : null; })
+        .catch(function () { return null; })
+        .then(function (data) {
+            if (!data) return;
+            renderOneTime(data.one_time_charges, 'one-time-body', 'one-time-subtotal');
+            renderMonthly(data.monthly_recurring, 'monthly-body', 'monthly-subtotal');
+            renderUsage(data.usage_this_period, 'usage-body', 'usage-subtotal');
+            renderKeyTiers(data.golden_fractal_key_monthly_by_tier);
+            renderMissionOptions(data.specialized_mission_options);
+            applyTotals(data.totals);
+        });
+})();
+    </script>
+</body>
+</html>

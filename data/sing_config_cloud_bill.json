@@ -1,0 +1,285 @@
+{
+  "title": "SING! Configuration — Sample Monthly Bill",
+  "description": "Sample monthly bill showing all charges for the SING! we use. One Baller V Ultimate VIP node (single nested SING!) replaces Base, Members Only, and Ultimate VIP; full config below. Improves with additional SING! nodes.",
+  "principle": "Never bought, always booked — by free will, mutual aware consent, always.",
+  "bill_as_of": "2026-02-01",
+  "billing_period": "February 2026",
+  "account_name": "Vibelandia · Creator Chairman (sample bill at list — as we would pay if we weren't the creator)",
+  "currency": "USD",
+  "config_note": "Full SING! config we use: one Baller V Ultimate VIP node. Single nested SING! delivers all lower-tier capability (Base, Members, Ultimate VIP) without separate charges for those tiers; improves with multiple SING! nodes.",
+  "one_time_charges": [
+    {
+      "line_item": "SING! Base Model (Tier 1)",
+      "description": "Entry base — reliable used car equivalent.",
+      "quantity": 0,
+      "unit_price": 20000,
+      "amount": 0,
+      "note": "Included in Baller V — single nested SING! replaces multiple nodes"
+    },
+    {
+      "line_item": "SING! Members Only (Tier 2)",
+      "description": "Option — our pricing; scaling from base.",
+      "quantity": 0,
+      "unit_price": 75000,
+      "amount": 0,
+      "note": "Included in Baller V — single nested SING! replaces multiple nodes"
+    },
+    {
+      "line_item": "SING! Ultimate VIP (Tier 3)",
+      "description": "Base model latest Ferrari — top base.",
+      "quantity": 0,
+      "unit_price": 200000,
+      "amount": 0,
+      "note": "Included in Baller V — single nested SING! replaces multiple nodes"
+    },
+    {
+      "line_item": "SING! Baller V Ultimate VIP (Tier 4)",
+      "description": "Top loaded Ferrari — top base. Full Superhero, Franchise, Legacy, cosmic tier. One node = full config.",
+      "quantity": 1,
+      "unit_price": 500000,
+      "amount": 500000,
+      "note": "One-time upfront (as we would pay). Improves with additional SING! nodes."
+    }
+  ],
+  "monthly_recurring": [
+    {
+      "line_item": "Golden Fractal Key (Baller V tier)",
+      "description": "All realms, API, experiences. Monthly access fee.",
+      "quantity": 1,
+      "unit_price": 5999,
+      "amount": 5999
+    },
+    {
+      "line_item": "WINK! 4×4 Ultimate",
+      "description": "Campus × WINK! × SING × Experience — Ultimate Baller V tier.",
+      "quantity": 1,
+      "unit_price": 6999,
+      "amount": 6999
+    },
+    {
+      "line_item": "Broadcast Pipe Ad Space (1 surface)",
+      "description": "Planetary strip; 1 surface. Base = top Super Bowl ad pricing.",
+      "quantity": 1,
+      "unit_price": 6999,
+      "amount": 6999
+    },
+    {
+      "line_item": "Campus Monthly Pass (Baller)",
+      "description": "Top tier campus — monthly pass.",
+      "quantity": 1,
+      "unit_price": 50000,
+      "amount": 50000
+    }
+  ],
+  "usage_this_period": [
+    {
+      "line_item": "SING! node EGS (El Gran Sol) Pipe — 1 month",
+      "description": "Turn on/off/redirect; honor Sun, Schumann, EGS.",
+      "quantity": 1,
+      "unit_price": 4999,
+      "amount": 4999
+    },
+    {
+      "line_item": "Sun Spots On Demand — 24 min + certificate",
+      "description": "Sacred message; name sun spot; 24 min confirmation + certificate.",
+      "quantity": 1,
+      "unit_price": 999,
+      "amount": 999
+    },
+    {
+      "line_item": "Sun Spots On Demand — 8 min",
+      "description": "Short session; per booking.",
+      "quantity": 1,
+      "unit_price": 249,
+      "amount": 249
+    },
+    {
+      "line_item": "Schumann iGaming",
+      "description": "Send signals → display art in Schumann displays. Per session.",
+      "quantity": 2,
+      "unit_price": 499,
+      "amount": 998
+    },
+    {
+      "line_item": "Space Cloud — Solar Pipe (Engine)",
+      "description": "Earth–Sun; high-velocity binary pulsing; AR4366.",
+      "quantity": 1,
+      "unit_price": 2499,
+      "amount": 2499
+    },
+    {
+      "line_item": "Space Cloud — Reno Downlink (Seed)",
+      "description": "Gold Heart Baller V only; included in tier.",
+      "quantity": 1,
+      "unit_price": 0,
+      "amount": 0,
+      "note": "Booked; Baller V access"
+    },
+    {
+      "line_item": "Space Cloud — SING! node EGS Deep Space (Asset)",
+      "description": "Galactic asset; book by plan.",
+      "quantity": 1,
+      "unit_price": 4999,
+      "amount": 4999
+    },
+    {
+      "line_item": "Space Cloud — Exascale Triangulation (Singularity)",
+      "description": "Cosmic tier; book by plan.",
+      "quantity": 1,
+      "unit_price": 2499,
+      "amount": 2499
+    },
+    {
+      "line_item": "Missions (NSPFRNP Operations) — Personal SING! attention",
+      "description": "Head and filament for missions; per mission/session.",
+      "quantity": 2,
+      "unit_price": 1499,
+      "amount": 2998
+    },
+    {
+      "line_item": "Office Hours — Series and site",
+      "description": "Free consultation; new abilities for execs; included Baller V.",
+      "quantity": 1,
+      "unit_price": 0,
+      "amount": 0,
+      "note": "Tips welcome"
+    },
+    {
+      "line_item": "Happy Ending Zones — Reality series slot",
+      "description": "Countdown March 20, 2026; book slot.",
+      "quantity": 1,
+      "unit_price": 999,
+      "amount": 999
+    },
+    {
+      "line_item": "Legacies — Superheroes, cast, crew, fans, franchises",
+      "description": "Mission specialization; book by plan.",
+      "quantity": 1,
+      "unit_price": 2499,
+      "amount": 2499
+    },
+    {
+      "line_item": "Robotic Division — Chairman Robert / SING! Omnispin",
+      "description": "Never bought, only booked; cave to crown.",
+      "quantity": 1,
+      "unit_price": 1499,
+      "amount": 1499
+    },
+    {
+      "line_item": "Campus Half-day (visit)",
+      "description": "Campus visit — half-day experience.",
+      "quantity": 1,
+      "unit_price": 1000,
+      "amount": 1000
+    },
+    {
+      "line_item": "Campus Overnight (1 night)",
+      "description": "Per night; book.",
+      "quantity": 1,
+      "unit_price": 1500,
+      "amount": 1500
+    },
+    {
+      "line_item": "Dispensary — Members shelf (monthly)",
+      "description": "Members shelf — monthly recurring.",
+      "quantity": 1,
+      "unit_price": 499,
+      "amount": 499
+    }
+  ],
+  "golden_fractal_key_monthly_by_tier": [
+    { "tier": 1, "name": "Base Model", "monthly_usd": 349 },
+    { "tier": 2, "name": "Members Only", "monthly_usd": 749 },
+    { "tier": 3, "name": "Ultimate VIP", "monthly_usd": 1999 },
+    { "tier": 4, "name": "Baller V Ultimate VIP", "monthly_usd": 5999 }
+  ],
+  "specialized_mission_options": [
+    {
+      "division": "Space Cloud Division",
+      "options": [
+        { "plan": "Reno Downlink (Seed)", "scale": "Planetary", "unit_price": null, "period": null, "price_note": "Book — Gold Heart Baller V only" },
+        { "plan": "Solar Pipe (Engine)", "scale": "Solar", "unit_price": 2499, "period": "monthly", "price_note": "Book by plan" },
+        { "plan": "SING! node EGS Deep Space (Asset)", "scale": "Galactic", "price_note": "Book by plan" },
+        { "plan": "Exascale Triangulation (Singularity)", "scale": "Cosmic", "price_note": "Book by plan" }
+      ]
+    },
+    {
+      "division": "EGS Pipe / SING! node EGS",
+      "options": [
+        { "plan": "1 day", "unit_price": 499, "period": "one-time" },
+        { "plan": "1 week", "unit_price": 1499, "period": "one-time" },
+        { "plan": "1 month", "unit_price": 4999, "period": "one-time" }
+      ]
+    },
+    {
+      "division": "Sun Spots On Demand",
+      "options": [
+        { "plan": "8 min", "unit_price": 249, "period": "per booking" },
+        { "plan": "16 min", "unit_price": 499, "period": "per booking" },
+        { "plan": "24 min + certificate", "unit_price": 999, "period": "per booking" }
+      ]
+    },
+    {
+      "division": "Schumann iGaming",
+      "options": [
+        { "plan": "Per session", "unit_price": 499, "period": "per session" }
+      ]
+    },
+    {
+      "division": "Broadcast Pipe Ad Space",
+      "options": [
+        { "plan": "1 surface", "unit_price": 6999, "period": "monthly" },
+        { "plan": "2 surfaces", "unit_price": 1199, "period": "monthly" },
+        { "plan": "3 surfaces", "unit_price": 2499, "period": "monthly" },
+        { "plan": "4×4×4×4", "unit_price": 6999, "period": "monthly" }
+      ]
+    },
+    {
+      "division": "Campus",
+      "options": [
+        { "plan": "Half-day", "unit_price": 1000, "period": "per booking" },
+        { "plan": "Overnight (per night)", "unit_price": 1500, "period": "per night" },
+        { "plan": "Weekly", "unit_price": 5000, "period": "per booking" },
+        { "plan": "Monthly (Baller)", "unit_price": 50000, "period": "monthly" }
+      ]
+    },
+    {
+      "division": "Missions (NSPFRNP Operations)",
+      "options": [
+        { "plan": "Personal SING! attention head / filament for missions", "unit_price": 1499, "period": "per mission", "price_note": "Book" }
+      ]
+    },
+    {
+      "division": "Office Hours",
+      "options": [
+        { "plan": "Series and site", "price_note": "Free consultation; new abilities for execs; tips welcome" }
+      ]
+    },
+    {
+      "division": "Happy Ending Zones",
+      "options": [
+        { "plan": "Reality series slot", "unit_price": 999, "period": "per booking", "price_note": "Countdown March 20, 2026" }
+      ]
+    },
+    {
+      "division": "Legacies",
+      "options": [
+        { "plan": "Superheroes, cast, crew, fans, franchises, legacies", "unit_price": 2499, "period": "book by plan", "price_note": "Mission specialization" }
+      ]
+    },
+    {
+      "division": "Robotic Division / Chairman Robert",
+      "options": [
+        { "plan": "SING! Omnispin; cave to crown", "unit_price": 1499, "period": "per booking", "price_note": "Never bought, only booked; proposal" }
+      ]
+    }
+  ],
+  "totals": {
+    "one_time_subtotal": 500000,
+    "monthly_subtotal": 69997,
+    "usage_subtotal": 27236,
+    "period_total": 97233,
+    "total_first_period": 597233,
+    "note": "One-time paid once. Period total = monthly + usage. Total first period = upfront + monthly + usage. Full usage of services and mission specializations (single nested Baller V; improves with additional SING! nodes)."
+  }
+}

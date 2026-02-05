@@ -64,9 +64,11 @@ Episodes in this series are **space stories**: handshake logs, mission verificat
 
 ---
 
-## SURFACE
+## SURFACE — ALL SCRIPTS ON BEAUTIFUL SURFACES (NSPFRNP)
 
-- **Series landing:** [interfaces/space-cloud-egs-series.html](interfaces/space-cloud-egs-series.html) — Space Cloud EGS · All our space stories.
+- **Series landing:** [interfaces/space-cloud-egs-series.html](interfaces/space-cloud-egs-series.html) — Space Cloud EGS · All our space stories · **Beautiful skin** (Golden Era Cinema · screenplay-skin). All scripts on beautiful surfaces. NSPFRNP.
+- **The EGS Run — novel:** [interfaces/the-egs-run-novel.html](interfaces/the-egs-run-novel.html) — Beautiful skin.
+- **The EGS Run — screenplay:** [interfaces/the-egs-run-screenplay.html](interfaces/the-egs-run-screenplay.html) — Beautiful skin.
 - **Division (product):** [interfaces/space-cloud-division.html](interfaces/space-cloud-division.html) — Scope, services, pricing; Gold Heart Ultimate Baller V only.
 - **Live Pulse:** [interfaces/sing-pulse.html](interfaces/sing-pulse.html) — 21.4 Hz, EGS, telemetry.
 - **Episodes catalog:** [interfaces/episodes-browse.html](interfaces/episodes-browse.html) — All episodes including space stories.

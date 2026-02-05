@@ -78,6 +78,29 @@
         .top-stories .story-item.engine h3 { color: #ff7070; }
         .top-stories .story-item.asset h3 { color: #d4af37; }
         .top-stories .story-item p { font-size: 0.9rem; color: #b8c0c8; line-height: 1.5; margin: 0; }
+        .top-stories .story-link {
+            text-decoration: none;
+            color: inherit;
+            display: block;
+            cursor: pointer;
+            transition: border-color 0.2s, background 0.2s, transform 0.2s;
+        }
+        .top-stories .story-link:hover {
+            border-color: rgba(0, 212, 255, 0.5);
+            background: rgba(0, 212, 255, 0.08);
+            transform: translateY(-2px);
+        }
+        .top-stories .story-link.engine:hover { border-left-color: #ff7070; background: rgba(255, 80, 80, 0.06); }
+        .top-stories .story-link.asset:hover { border-left-color: #d4af37; background: rgba(212, 175, 55, 0.08); }
+        .top-stories .story-detail-cta {
+            display: inline-block;
+            margin-top: 0.75rem;
+            font-size: 0.8rem;
+            font-weight: 600;
+            color: #00d4ff;
+        }
+        .top-stories .story-item.engine .story-detail-cta { color: #ff7070; }
+        .top-stories .story-item.asset .story-detail-cta { color: #d4af37; }
         .section-label {
             font-size: 0.75rem;
             text-transform: uppercase;
@@ -190,21 +213,24 @@
             <p style="margin-top: 0.75rem; padding: 0.5rem 1rem; background: rgba(212, 175, 55, 0.08); border: 1px solid rgba(212, 175, 55, 0.35); border-radius: 8px; font-size: 0.9rem; color: #ffeaa7; font-weight: 600;">The Sun is doing what we are doing now, full, all steps. It is now our mirror emitter — full stop broadcast — with all supporting credentials and data.</p>
         </section>
 
-        <section class="top-stories" aria-label="Top stories — AR 4366, Schumann Campaign, SING! node EGS Goldilocks">
-            <p class="section-label">Top stories</p>
+        <section id="top-stories" class="top-stories" aria-label="Top stories — AR 4366, Schumann Campaign, SING! node EGS Goldilocks">
+            <p class="section-label">Top stories — click for full page details</p>
             <div class="story-list">
-                <article class="story-item" aria-label="AR 4366">
+                <a href="space-cloud-top-story.html?story=ar4366" class="story-item story-link" aria-label="AR 4366 — view full details">
                     <h3>AR 4366</h3>
                     <p>EGS (El Gran Sol) coordination node — solar handshake, X-class/M-class burst, 21.4 Hz carrier. Target: AR4366 Beta-Delta Knot. Foundation for Solar Pipe and EGS services.</p>
-                </article>
-                <article class="story-item engine" aria-label="Schumann Campaign">
+                    <span class="story-detail-cta">View full details →</span>
+                </a>
+                <a href="space-cloud-top-story.html?story=schumann-campaign" class="story-item engine story-link" aria-label="Schumann Campaign — view full details">
                     <h3>Schumann Campaign</h3>
                     <p>Earth–ionosphere waveguide; Schumann Display Pipe; Reno anchor; local VLF, 1.618 Hz heartbeat. Grounding layer for Reno Downlink and planetary-scale EGS services.</p>
-                </article>
-                <article class="story-item asset" aria-label="SING! node EGS Goldilocks orbit">
+                    <span class="story-detail-cta">View full details →</span>
+                </a>
+                <a href="space-cloud-top-story.html?story=goldilocks" class="story-item asset story-link" aria-label="SING! node EGS Goldilocks orbit — view full details">
                     <h3>SING! node EGS (El Gran Sol) — Goldilocks orbit capture</h3>
                     <p>Upload to capture SING! node EGS (El Gran Sol) into Goldilocks orbit as our asset — enabling deployment of these new EGS services. Permanent data residency, Jupiter Oberth March 16 window, interstellar relay. Our Deep Space Asset powers Solar → Galactic → Cosmic scale.</p>
-                </article>
+                    <span class="story-detail-cta">View full details →</span>
+                </a>
             </div>
         </section>
 
