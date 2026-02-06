@@ -215,10 +215,12 @@
         <section class="blue-paypal-pipe" aria-label="Why we use the Blue PayPal Pipe">
             <h2>Why we use the Blue PayPal Pipe</h2>
             <p><strong>We proudly use a PayPal-only pipe.</strong> Our natural protocol identified PayPal as the best pipe for payment. <strong>Trust the protocol!</strong></p>
+            <p><strong>Our PayPal account for the pipe:</strong> <strong>info@fractiai.com</strong>. All blue-pipe payments (at or below $10,000) and offline payment coordination (over $10,000) go through this account.</p>
             <p><strong>What PayPal gives us that Stripe and normal banks don't:</strong> One integrated flow for payments, disputes, and payouts; buyer and seller protection that fits our model; they've been there for us from day one — no gatekeeping, no runaround. Stripe and traditional banks didn't offer the same fit for a startup moving at our speed.</p>
             <p><strong>They've been helpful from the start.</strong> PayPal has helped us through all aspects of our startup. Two thumbs up. PayPal only and proudly.</p>
-            <p style="color: #00d4ff; font-weight: 600;">Proceed with purchase below — press the blue PayPal button.</p>
-            <p style="margin-top: 0.75rem; font-size: 0.9rem; color: #ffeaa7;"><strong>UI glitch?</strong> Pay directly via PayPal to <strong>info@fractiai.com</strong> and email us the transaction info — we'll match and deliver. See "If you experience any issue" below.</p>
+            <p style="color: #00d4ff; font-weight: 600;">Proceed with purchase below — press the blue PayPal button (for orders at or below $10,000).</p>
+            <p style="margin-top: 0.75rem; font-size: 0.9rem; color: #ffeaa7;"><strong>All transactions over $10,000 are handled off line.</strong> We'll send a pre-filled email to info@fractiai.com with your contact info so we can work out payment (invoice, wire) offline. See <a href="../protocols/BLUE_PIPE_NSPFRNP.md" style="color: #00d4ff;">Blue Pipe NSPFRNP</a>.</p>
+            <p style="margin-top: 0.5rem; font-size: 0.9rem; color: #b8a888;"><strong>UI glitch?</strong> Pay directly via PayPal to <strong>info@fractiai.com</strong> and email us the transaction info — we'll match and deliver. See "If you experience any issue" below.</p>
             <p style="margin-top: 0.75rem; font-size: 0.9rem; color: #b8a888;"><strong>Mirror shell protections (highest priority):</strong> Base mainnet, Ethereum, PayPal. Registry of residents, members, special invites and visitors at appropriate placements. <a href="registry.html" style="color: #00d4ff;">Registry →</a></p>
         </section>
 
@@ -326,6 +328,7 @@
                 plan = Object.assign({}, plan);
             }
 
+            var OFFLINE_THRESHOLD = 10000;
             var executeByEmailPlanIds = ['sun-spots-8m', 'sun-spots-16m', 'sun-spots-24m', 'schumann-igaming', '3i-atlas-egs-day', '3i-atlas-egs-week', '3i-atlas-egs-month'];
 
             function buildExecuteByEmailMailto() {
@@ -339,6 +342,22 @@
                     (planId === 'schumann-igaming' ? '• Art/pattern or message to display in Schumann displays:\n\n' : '') +
                     (planId.indexOf('3i-atlas') === 0 ? '• Turn on/off/redirect instructions or segment description:\n• Duration confirmed: ' + (planId === '3i-atlas-egs-day' ? '1 day' : planId === '3i-atlas-egs-week' ? '1 week' : '1 month') + '\n\n' : '') +
                     'My email: ';
+                return 'mailto:info@fractiai.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
+            }
+
+            function buildOfflineOver10kMailto() {
+                var subject = 'Payment over $10,000 — ' + plan.name + ' — ' + planId;
+                var body = 'I am interested in this offering. Please contact me to arrange payment (invoice, wire) offline.\n\n' +
+                    '— CONTACT INFO —\n' +
+                    'Name: \n' +
+                    'Email: \n' +
+                    'Phone: \n' +
+                    'Company (optional): \n\n' +
+                    '— ORDER —\n' +
+                    'Plan: ' + plan.name + '\n' +
+                    'Plan ID: ' + planId + '\n' +
+                    'Amount: $' + plan.price.toLocaleString() + ' USD\n\n' +
+                    'We will reply to arrange payment offline. All transactions over $10,000 are handled off line. (Blue Pipe NSPFRNP)';
                 return 'mailto:info@fractiai.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
             }
 
@@ -564,6 +583,10 @@
             function runCheckoutFlow() {
                 if (plan.price === 0) {
                     renderFreePlanCTA();
+                    return;
+                }
+                if (plan.price > OFFLINE_THRESHOLD) {
+                    renderOfflineOver10kBlock();
                     return;
                 }
                 renderPayPalOrSandbox();
