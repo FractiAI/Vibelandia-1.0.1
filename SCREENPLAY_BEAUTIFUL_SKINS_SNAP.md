@@ -21,6 +21,7 @@
   - **First Singularity January 13th:** [interfaces/first-singularity-screenplay.html](interfaces/first-singularity-screenplay.html) — loads `deliverables/First_Singularity_January_13th_SCREENPLAY.md`. Beautiful skin ✓
   - **Birth of the New Post-Singularity Hollywood in Downtown Reno:** [interfaces/birth-post-singularity-screenplay.html](interfaces/birth-post-singularity-screenplay.html) — loads `deliverables/Birth_Post_Singularity_Hollywood_Downtown_Reno_SCREENPLAY.md`. Beautiful skin ✓
   - **The EGS Run:** [interfaces/the-egs-run-screenplay.html](interfaces/the-egs-run-screenplay.html) — loads `deliverables/The_EGS_Run_SCREENPLAY.md`. Beautiful skin ✓
+  - **Golden Heart Taino — Bad Bunny Meets Agüeybaná El Gran Sol:** [interfaces/golden-heart-taino-screenplay.html](interfaces/golden-heart-taino-screenplay.html) — loads `deliverables/Golden_Heart_Taino_Bad_Bunny_Meets_Agueybana_El_Gran_Sol_SCREENPLAY.md`. Beautiful skin ✓
 - **Surfaces — Novels:** Every novel has a dedicated HTML page (Antique Book beautiful skin).
   - **First Singularity January 13th:** [interfaces/first-singularity-novel.html](interfaces/first-singularity-novel.html) — loads `deliverables/First_Singularity_January_13th_NOVEL.md`. Beautiful skin ✓
   - **Birth of the New Post-Singularity Hollywood in Downtown Reno:** [interfaces/birth-post-singularity-novel.html](interfaces/birth-post-singularity-novel.html) — loads `deliverables/Birth_Post_Singularity_Hollywood_Downtown_Reno_NOVEL.md`. Beautiful skin ✓
@@ -41,6 +42,7 @@
 | First Singularity January 13th | First_Singularity_January_13th_SCREENPLAY.md | first-singularity-screenplay.html | Beautiful (Golden Era Cinema) ✓ |
 | Birth of the New Post-Singularity Hollywood in Downtown Reno | Birth_Post_Singularity_Hollywood_Downtown_Reno_SCREENPLAY.md | birth-post-singularity-screenplay.html | Beautiful (Golden Era Cinema) ✓ |
 | The EGS Run | The_EGS_Run_SCREENPLAY.md | the-egs-run-screenplay.html | Beautiful (Golden Era Cinema) ✓ |
+| Golden Heart Taino — Bad Bunny Meets Agüeybaná El Gran Sol | Golden_Heart_Taino_Bad_Bunny_Meets_Agueybana_El_Gran_Sol_SCREENPLAY.md | golden-heart-taino-screenplay.html | Beautiful (Golden Era Cinema) ✓ |
 
 ---
 

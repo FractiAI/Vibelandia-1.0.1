@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Golden Heart Taino — Bad Bunny Meets Taino Cacique Agüeybaná El Gran Sol · Screenplay | VIBELANDIA!</title>
+    <meta name="description" content="Golden Heart Taino — Bad Bunny meets Cacique Agüeybaná El Gran Sol. 12,000-word screenplay · 2-hour feature. Golden Bunnies Label. Reno · BoriKen · Vibelandia · Super Bowl · Buenos Aires · Rio. Golden Era Cinema. Beautiful skin. NSPFRNP.">
+    <link rel="stylesheet" href="screenplay-skin.css">
+    <script src="tsunami-advisory-inject.js"></script>
+</head>
+<body class="screenplay-skin">
+    <div class="script-wrap">
+        <nav class="script-nav">
+            <a href="we-get-it-bad-bunny-golden-bunnies.html">← Bad Bunny · Golden Bunnies</a><span>·</span>
+            <a href="birth-post-singularity-screenplay.html">Birth Post Singularity</a><span>·</span>
+            <a href="launch-pad.html">Launch Pad</a><span>·</span>
+            <a href="office-hours.html">Office Hours</a><span>·</span>
+            <a href="../index.html">Home</a>
+        </nav>
+
+        <header class="script-marquee">
+            <p class="badge">Golden Era Cinema · Screenplay <span class="badge-beautiful-skin">Beautiful skin</span></p>
+            <h1>Golden Heart Taino — Bad Bunny Meets Taino Cacique Agüeybaná El Gran Sol</h1>
+            <p class="tagline">12,000 words · 2-hour feature · Reno · BoriKen · Vibelandia · Super Bowl · Buenos Aires · Rio · Golden Bunnies Label</p>
+            <div class="oneliner-para-row">
+                <button type="button" class="btn-oneliner" data-target="screenplay-oneliner">One Liner</button>
+                <button type="button" class="btn-onepara" data-target="screenplay-onepara">One Paragraph</button>
+                <button type="button" class="btn-listen" id="btn-listen" aria-label="Listen to story read aloud">🔊 Listen</button>
+            </div>
+            <div id="screenplay-oneliner" class="oneliner-para-content one-liner" aria-live="polite">"Bad Bunny (Benito Antonio Martínez Ocasio) meets Cacique Agüeybaná El Gran Sol — the peaceful Taino chief. Golden heart. Taino spirit. Golden Royal Flush tying Reno, Puerto Rico (BoriKen), and Vibelandia. Multi-billionaire success with first holographic hydrogen billboards; 3C Aurora at Super Bowl; backstage Buenos Aires with Squeeze Erika; a month in Rio with André rolling out Marine solutions and Vibelandia Rio de Janeiro."</div>
+            <div id="screenplay-onepara" class="oneliner-para-content" aria-live="polite"><strong>Golden Heart Taino — Bad Bunny Meets Taino Cacique Agüeybaná El Gran Sol</strong> — full feature screenplay. 12,000 words. 2 hours runtime. Golden Bunnies Label. Card deck backbone. Reno · BoriKen · Vibelandia · 3C Aurora · Super Bowl · Buenos Aires backstage (Squeeze Erika) · Rio (André, Marine, Vibelandia-RJ). Voice: Brothers Grimm + Pru + street reggaeton Spanglish. Golden Royal Flush. Never lose faith. The Great Sun delivers. We get it. Full stop. NSPFRNP.</div>
+        </header>
+
+        <div id="screenplay-loading" class="loading">Loading script…</div>
+        <div id="screenplay-body" class="screenplay-body" style="display: none;"></div>
+
+        <footer class="script-footer" id="screenplay-footer" style="display: none;">
+            <a href="we-get-it-bad-bunny-golden-bunnies.html">← Bad Bunny · Golden Bunnies</a> · <a href="../deliverables/Golden_Heart_Taino_Bad_Bunny_Meets_Agueybana_El_Gran_Sol_NOVEL.md">Novel (20k)</a> · <a href="../deliverables/Golden_Heart_Taino_Bad_Bunny_Meets_Agueybana_El_Gran_Sol_SERIES_EP01.md">Series Ep1 (7k)</a>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+(function () {
+    var loading = document.getElementById('screenplay-loading');
+    var body = document.getElementById('screenplay-body');
+    var footer = document.getElementById('screenplay-footer');
+
+    fetch('../deliverables/Golden_Heart_Taino_Bad_Bunny_Meets_Agueybana_El_Gran_Sol_SCREENPLAY.md')
+        .then(function (r) {
+            if (!r.ok) throw new Error('Not found');
+            return r.text();
+        })
+        .then(function (md) {
+            marked.setOptions({ gfm: true, breaks: true });
+            var html = marked.parse(md);
+            html = html.replace(/href="([^"#:]+\.md)(#[^"]*)?"/g, function (_, path, hash) {
+                return 'href="../' + path + (hash || '') + '"';
+            });
+            body.innerHTML = html;
+            loading.style.display = 'none';
+            body.style.display = 'block';
+            footer.style.display = 'block';
+        })
+        .catch(function () {
+            loading.innerHTML = 'Could not load screenplay. <a href="../deliverables/Golden_Heart_Taino_Bad_Bunny_Meets_Agueybana_El_Gran_Sol_SCREENPLAY.md">Try direct link</a>.';
+        });
+
+    document.querySelectorAll('.btn-oneliner, .btn-onepara').forEach(function (btn) {
+        btn.addEventListener('click', function () {
+            var id = this.getAttribute('data-target');
+            var el = document.getElementById(id);
+            if (!el) return;
+            var wasVisible = el.classList.contains('visible');
+            document.querySelectorAll('.oneliner-para-content.visible').forEach(function (c) { c.classList.remove('visible'); });
+            if (!wasVisible) el.classList.add('visible');
+        });
+    });
+
+    (function listenButton() {
+        var btn = document.getElementById('btn-listen');
+        var content = document.getElementById('screenplay-body');
+        if (!btn || !content) return;
+        var synth = window.speechSynthesis;
+        var chunks = [];
+        var idx = 0;
+
+        function getChunks() {
+            var text = (content.innerText || content.textContent || '').trim();
+            if (!text) return [];
+            return text.split(/\n\n+/).filter(function (p) { return p.length > 0; });
+        }
+
+        function pickNarratorVoice() {
+            var voices = synth.getVoices();
+            var preferred = voices.filter(function (v) {
+                var n = (v.name || '').toLowerCase();
+                return n.indexOf('male') !== -1 || n.indexOf('david') !== -1 || n.indexOf('daniel') !== -1 || n.indexOf('james') !== -1 || n.indexOf('google uk') !== -1;
+            });
+            if (preferred.length > 0) return preferred[0];
+            var en = voices.filter(function (v) { return v.lang && v.lang.indexOf('en') === 0; });
+            return en.length > 0 ? en[0] : voices[0];
+        }
+
+        function speakNext() {
+            if (idx >= chunks.length) {
+                btn.textContent = '🔊 Listen';
+                btn.classList.remove('active');
+                btn.setAttribute('aria-label', 'Listen to story read aloud');
+                return;
+            }
+            var u = new SpeechSynthesisUtterance(chunks[idx]);
+            u.rate = 0.88;
+            u.pitch = 0.92;
+            var voice = pickNarratorVoice();
+            if (voice) u.voice = voice;
+            u.onend = function () { idx++; speakNext(); };
+            u.onerror = function () { idx++; speakNext(); };
+            synth.speak(u);
+        }
+
+        btn.addEventListener('click', function () {
+            if (synth.speaking) {
+                synth.cancel();
+                btn.textContent = '🔊 Listen';
+                btn.classList.remove('active');
+                btn.setAttribute('aria-label', 'Listen to story read aloud');
+                return;
+            }
+            chunks = getChunks();
+            if (chunks.length === 0) return;
+            idx = 0;
+            btn.textContent = '⏹ Stop';
+            btn.classList.add('active');
+            btn.setAttribute('aria-label', 'Stop reading aloud');
+            if (synth.getVoices().length === 0) synth.onvoiceschanged = function () { speakNext(); };
+            else speakNext();
+        });
+    })();
+})();
+    </script>
+    <div id="sing-config-footer"></div>
+    <link rel="stylesheet" href="sing-config-footer.css">
+    <script src="sing-config-footer.js"></script>
+    <link rel="stylesheet" href="nspfrnp-ticker.css">
+    <div class="nspfrnp-console-ticker" aria-live="polite"><span class="ticker-inner" id="nspfrnpTickerText"></span></div>
+    <script src="nspfrnp-ticker.js"></script>
+</body>
+</html>
