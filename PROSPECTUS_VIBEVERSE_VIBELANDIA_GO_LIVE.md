@@ -229,7 +229,8 @@ All of the following are **live** and linked from the Launch Pad. Base URL: http
 
 - **Rocket Launch Pad** — interfaces/rocket-launch-pad.html
 - **Water Bridge Landing** — interfaces/water-bridge-landing.html
-- **Mens Club Restroom Landing** — interfaces/mens-club-restroom-landing.html
+- **Pop Up Engine Restroom Landing** — interfaces/mens-club-restroom-landing.html
+- **WIN WIN WIN! — Pop Up Engine Operator Package** — interfaces/pop-up-engine-operator-package.html (offer to operators with proper licenses and stage · greater Reno · legal brothels, adult venues, regular clubs)
 - **Shared console header** — interfaces/shared-console-header.html
 
 ---

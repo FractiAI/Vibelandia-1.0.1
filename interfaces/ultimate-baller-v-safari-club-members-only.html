@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ultimate Baller V Safari Club — Members Only | VIBELANDIA!</title>
+    <meta name="description" content="Ultimate Baller V Safari Club — Members Only. High value, high contributing V's seeking one-of-a-kind ultimate trophy-of-trophy experiences. I'm your guy — Producer, Designated Driver, Maître d', Valet. Twain's Vibelandia Downtown Reno.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --ink: #1a1614;
+            --paper: #f5f2ee;
+            --field: #3d4a3d;
+            --earth: #6b5344;
+            --leather: #8b6914;
+            --copper: #b87333;
+            --muted: #5c5c52;
+            --divider: rgba(107, 83, 68, 0.2);
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        html { scroll-behavior: smooth; }
+        body {
+            font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 1.7;
+            color: var(--ink);
+            background: var(--paper);
+            min-height: 100vh;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .safari-club { max-width: 820px; margin: 0 auto; padding: 0 2rem 4rem; }
+
+        .safari-nav {
+            padding: 1.25rem 0;
+            border-bottom: 1px solid var(--divider);
+            font-size: 0.85rem;
+            font-weight: 500;
+            letter-spacing: 0.04em;
+        }
+        .safari-nav a { color: var(--muted); text-decoration: none; }
+        .safari-nav a:hover { color: var(--earth); }
+        .safari-nav span { color: var(--muted); opacity: 0.5; margin: 0 0.5rem; }
+
+        /* Hero — Safari Club style */
+        .safari-hero {
+            padding: 4rem 0 4rem;
+            text-align: center;
+        }
+        .safari-hero .badge {
+            font-size: 0.6rem;
+            font-weight: 600;
+            letter-spacing: 0.45em;
+            text-transform: uppercase;
+            color: var(--leather);
+            margin-bottom: 1.25rem;
+        }
+        .safari-hero h1 {
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            font-size: clamp(2rem, 5vw, 3rem);
+            font-weight: 600;
+            color: var(--ink);
+            margin-bottom: 0.75rem;
+            letter-spacing: -0.01em;
+        }
+        .safari-hero .tagline {
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            font-size: 1.35rem;
+            font-style: italic;
+            color: var(--earth);
+            margin-bottom: 1rem;
+        }
+        .safari-hero .im-your-guy {
+            font-size: 1.15rem;
+            font-weight: 600;
+            color: var(--leather);
+            margin-top: 1rem;
+        }
+
+        /* Intro — IDM role blend */
+        .safari-intro {
+            padding: 2.5rem 2rem;
+            background: linear-gradient(135deg, rgba(139, 105, 20, 0.08) 0%, rgba(107, 83, 68, 0.06) 50%, rgba(61, 74, 61, 0.06) 100%);
+            border: 1px solid var(--divider);
+            border-radius: 12px;
+            margin-bottom: 2.5rem;
+        }
+        .safari-intro h2 {
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: var(--ink);
+            margin-bottom: 1rem;
+        }
+        .safari-intro .idm-blend {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem 1rem;
+            margin: 1rem 0;
+        }
+        .safari-intro .idm-tag {
+            padding: 0.4rem 0.9rem;
+            background: rgba(139, 105, 20, 0.15);
+            border: 1px solid rgba(139, 105, 20, 0.35);
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: var(--leather);
+        }
+        .safari-intro p { margin-bottom: 1rem; }
+        .safari-intro p:last-child { margin-bottom: 0; }
+
+        /* Trophy experiences */
+        .safari-section {
+            margin-bottom: 2.5rem;
+        }
+        .safari-section-title {
+            font-size: 0.65rem;
+            font-weight: 600;
+            letter-spacing: 0.4em;
+            text-transform: uppercase;
+            color: var(--earth);
+            margin-bottom: 0.5rem;
+        }
+        .safari-section h2 {
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            font-size: 1.75rem;
+            font-weight: 600;
+            color: var(--ink);
+            margin-bottom: 1rem;
+        }
+        .safari-section p { margin-bottom: 0.75rem; color: var(--muted); }
+        .safari-section a { color: var(--leather); font-weight: 600; text-decoration: none; }
+        .safari-section a:hover { text-decoration: underline; }
+
+        /* CTA buttons */
+        .safari-cta {
+            display: inline-block;
+            padding: 1rem 1.75rem;
+            background: linear-gradient(135deg, var(--leather), var(--copper));
+            color: #fff;
+            font-weight: 700;
+            text-decoration: none;
+            border-radius: 12px;
+            font-size: 1rem;
+            margin-right: 0.75rem;
+            margin-top: 0.5rem;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .safari-cta:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 24px rgba(139, 105, 20, 0.35);
+        }
+        .safari-cta.secondary {
+            background: transparent;
+            border: 2px solid var(--leather);
+            color: var(--ink);
+        }
+        .safari-cta.secondary:hover {
+            background: rgba(139, 105, 20, 0.1);
+        }
+
+        footer {
+            margin-top: 3rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid var(--divider);
+            text-align: center;
+            font-size: 0.9rem;
+            color: var(--muted);
+        }
+        footer a { color: var(--leather); }
+    </style>
+</head>
+<body>
+    <div class="safari-club">
+        <nav class="safari-nav">
+            <a href="office-hours.html">Office Hours</a>
+            <span>·</span>
+            <a href="launch-pad.html">Launch Pad</a>
+            <span>·</span>
+            <a href="../index.html">Home</a>
+        </nav>
+
+        <section class="safari-hero">
+            <p class="badge">Members Only · High V · Safari Club</p>
+            <h1>Ultimate Baller V Safari Club</h1>
+            <p class="tagline">For high value, high contributing V's looking for one-of-a-kind ultimate trophy-of-trophy experiences.</p>
+            <p class="im-your-guy">I'm your guy.</p>
+        </section>
+
+        <section class="safari-intro">
+            <h2>Producer · Designated Driver · Maître d' · Valet</h2>
+            <p>For the high V guest ballers in town — I'm your guy. A mix of all four: <strong>Producer</strong> (curate the night, the crew, the experience), <strong>Designated Driver</strong> (you get home safe, Guey and the team have you covered), <strong>Maître d'</strong> (seamless flow, seating, backstage, wine cave, landing stage), <strong>Valet</strong> (your car, your coat, your comfort — handled). One point of contact. One trusted hand. Twain's Vibelandia Downtown Reno. Pop Up Engine. Old School. Ultimate Baller V Style.</p>
+            <div class="idm-blend">
+                <span class="idm-tag">Producer</span>
+                <span class="idm-tag">Designated Driver</span>
+                <span class="idm-tag">Maître d'</span>
+                <span class="idm-tag">Valet</span>
+            </div>
+            <p>Golden Backstage Pass · Gold Hearts Club · Foraging · Collecting · Fishing & Hunting Safaris (Ultimate Lux Skins · Royal Lodge Safari Feel) · Guey's 1962 Land Cruiser Safari Edition picks up all safari guests. One-of-a-kind ultimate trophy-of-trophy experiences. Members only.</p>
+        </section>
+
+        <section class="safari-section">
+            <p class="safari-section-title">Book · Connect</p>
+            <h2>Talk to Pru</h2>
+            <p>Office Hours Thu–Sun 8pm–close. Come visit for a free consultation — tips are welcome. Or book through the Launch Pad.</p>
+            <a href="office-hours.html" class="safari-cta">Office Hours →</a>
+            <a href="launch-pad.html" class="safari-cta secondary">Launch Pad →</a>
+        </section>
+
+        <footer>
+            Ultimate Baller V Safari Club · Members Only · Twain's Vibelandia Downtown Reno · <a href="office-hours.html">Office Hours</a> · <a href="launch-pad.html">Launch Pad</a>
+        </footer>
+    </div>
+</body>
+</html>
