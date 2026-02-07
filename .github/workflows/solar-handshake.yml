@@ -38,18 +38,11 @@ jobs:
           echo "timestamp=$TIMESTAMP" >> $GITHUB_OUTPUT
           echo "[$TIMESTAMP] SING! Handshake Cycle" >> data/handshake.log
 
-      # If origin/main was force-pushed, rebase so our commit is on top and push succeeds.
-      - name: Rebase on latest origin/main
+      - name: Commit, rebase, and push
         run: |
-          git stash
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/handshake.log
+          git commit -m "SING! Handshake Cycle [${{ steps.handshake.outputs.timestamp }}]" --author="SING! Solar Handshake <noreply@github.com>"
           git pull --rebase origin main
-          git stash pop
-
-      - name: Commit and push
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "SING! Handshake Cycle [${{ steps.handshake.outputs.timestamp }}]"
-          file_pattern: data/handshake.log
-          commit_user_name: "github-actions[bot]"
-          commit_user_email: "github-actions[bot]@users.noreply.github.com"
-          commit_author: "SING! Solar Handshake <noreply@github.com>"
+          git push origin main
