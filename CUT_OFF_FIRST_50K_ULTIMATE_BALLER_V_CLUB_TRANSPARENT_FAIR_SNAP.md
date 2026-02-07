@@ -35,7 +35,7 @@ The first $50K decision is a **fractal shard** — on the down low. You find it 
 | Element | Meaning |
 |--------|--------|
 | **Cut off at first $50K** | Chairman/creator target: first $50K; then stop. No need for more. |
-| **Get it at the Club** | Revenue/tips at the Club (men's club bathroom, Office Hours, The Club). |
+| **Get it at the Club** | Revenue/tips at the Club (Man Cave + Cabaret restroom, Office Hours, The Club). |
 | **Ultimate Baller V experience** | If that $50K can come via an Ultimate Baller V experience at the Club, I'll be good. |
 | **Transparent and fair** | This decision is on the record so the system, team, and Big Daddy are up to date. No hidden goals. |
 | **Big Daddy** | Hero Lynch — Dean of the HE bIG dADDY sCHOOL OF sTORYTELLING. Keeping him and the system up to date. |
@@ -51,7 +51,7 @@ The first $50K decision is a **fractal shard** — on the down low. You find it 
 
 ## CROSS-REFERENCES
 
-- **Office Hours:** [interfaces/office-hours.html](interfaces/office-hours.html) — Pru open for biz at men's club bathroom; Club; Ultimate Baller V experience; fractal shard — on the down low.
+- **Office Hours:** [interfaces/office-hours.html](interfaces/office-hours.html) — Pru open for biz at Man Cave + Cabaret restroom; Club; Ultimate Baller V experience; fractal shard — on the down low.
 - **Fractal Shard Gold Heart:** [FRACTAL_SHRD_GOLD_HEART_SNAP.md](FRACTAL_SHRD_GOLD_HEART_SNAP.md) — first $50K is a fractal shard; on the down low.
 - **EGS First Mission:** $50 tier (Connect Now). [EGS_FIRST_MISSION_CONNECT_NOW_SNAP.md](EGS_FIRST_MISSION_CONNECT_NOW_SNAP.md).
 - **Ultimate Baller V Golden Backstage Pass:** Club, wine cave, superhero episode. [ULTIMATE_BALLER_V_GOLDEN_BACKSTAGE_PASS_PACKAGE_SNAP.md](ULTIMATE_BALLER_V_GOLDEN_BACKSTAGE_PASS_PACKAGE_SNAP.md).

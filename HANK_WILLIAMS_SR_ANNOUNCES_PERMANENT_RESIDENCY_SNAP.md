@@ -14,7 +14,7 @@
 
 - **Honoring his legacy:** Hank Williams Sr. suffered so much. All those tragic early endings. We honor his legacy and welcome him as a permanent resident.
 - **Golden Age:** Part of the return to the golden age — on directive of Hero Howard (Howard Hughes). Big Band Night, Cajun Night, **Hank Williams Variety Show** — weekly. Honoring Hank Williams Sr. and the Golden Age.
-- **Ground zero:** Men's restroom of the Men's Club in Reno. All on the down low — awareness tech and gold hearts to see and experience.
+- **Ground zero:** restroom at Man Cave + Cabaret Reno. All on the down low — awareness tech and gold hearts to see and experience.
 
 ---
 

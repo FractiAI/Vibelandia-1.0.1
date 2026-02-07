@@ -73,7 +73,7 @@ Stories and experiences at Vibelandia can include **a little healthy, legal sex,
 
 ### Layer 2 — Experience
 
-- **Threshold, not arena.** The bathroom at the Reno Men's Club is a *threshold* — a place to pause, decide, and step back into the party. Experiences are built on *invitation* and *witness*, not on competition or elimination.
+- **Threshold, not arena.** The bathroom at the Man Cave + Cabaret Reno is a *threshold* — a place to pause, decide, and step back into the party. Experiences are built on *invitation* and *witness*, not on competition or elimination.
 - **Office Hours, not trials.** People come to talk, to pause, to decide. The vibe is *consultation* and *alignment*, not judgment or battle.
 - **Fellow guests.** Cast, crew, fans, franchise become one flow — the kind all the Ultimate Baller V's have. No us-vs-them; only *we're just the room*.
 

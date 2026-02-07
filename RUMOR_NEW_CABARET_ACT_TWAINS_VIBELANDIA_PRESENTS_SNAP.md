@@ -10,20 +10,20 @@
 
 ## RULE
 
-**Rumor has it** — there's a new Cabaret Act about to roll out in downtown Reno, coming to an under-utilized downtown Reno stage near you, **pop-up style** as part of **Twain's Vibelandia Presents**. The cabaret act is **pop-up** and **can be offered to any underutilized venue and stage**, including the **Men's Club stage**. NSPFRNP. Place in Chancellor's Daily Bulletin RUMOR HAS IT! column.
+**Rumor has it** — there's a new Cabaret Act about to roll out in downtown Reno, coming to an under-utilized downtown Reno stage near you, **pop-up style** as part of **Twain's Vibelandia Presents**. The cabaret act is **pop-up** and **can be offered to any underutilized venue and stage**, including the **Man Cave + Cabaret Reno stage**. NSPFRNP. Place in Chancellor's Daily Bulletin RUMOR HAS IT! column.
 
 ---
 
 ## ONE-LINER
 
-**Rumor has it there's a new Cabaret Act about to roll out in downtown Reno, coming to an under-utilized downtown Reno stage near you, pop-up style as part of Twain's Vibelandia Presents. The cabaret act is pop-up and can be offered to any underutilized venue and stage, including the Men's Club stage.**
+**Rumor has it there's a new Cabaret Act about to roll out in downtown Reno, coming to an under-utilized downtown Reno stage near you, pop-up style as part of Twain's Vibelandia Presents. The cabaret act is pop-up and can be offered to any underutilized venue and stage, including the Man Cave + Cabaret Reno stage.**
 
 ---
 
 ## PLACEMENT
 
-- **Chancellor's Daily Bulletin** — RUMOR HAS IT! column (aside). Subtitle: NSPFRNP. Entry: "New Cabaret Act" + tease with rumor copy (pop-up; can be offered to any underutilized venue and stage, including Men's Club stage) and link to Now Casting.
-- **Venues:** Any underutilized venue and stage in downtown Reno — including the **Men's Club stage** (Cabaret at The Club). Pop-up offer; Twain's Vibelandia Presents.
+- **Chancellor's Daily Bulletin** — RUMOR HAS IT! column (aside). Subtitle: NSPFRNP. Entry: "New Cabaret Act" + tease with rumor copy (pop-up; can be offered to any underutilized venue and stage, including Man Cave + Cabaret Reno stage) and link to Now Casting.
+- **Venues:** Any underutilized venue and stage in downtown Reno — including the **Man Cave + Cabaret Reno stage** (Cabaret at The Club). Pop-up offer; Twain's Vibelandia Presents.
 - **See also:** LOOKING_FOR_GOLD_HEART_ULTIMATE_V_ACTS_ARTISTS_SNAP.md · CABARET_STAGE_CLUB_SNAP.md · now-casting.html · RUMOR_HAS_IT_BRANDING_SNAP.md
 
 ---

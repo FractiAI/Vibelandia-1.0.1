@@ -32,7 +32,7 @@
 | **Wizard Challenge SNAP** | **DONE** | WIZARD_CHALLENGE_FEB_1_FULL_MOON_HOUDINI_SERIES_SNAP.md — Feb 1 full moon, valuation, us vs Disney simulation, continuing daily program. |
 | **Harry Houdini episode** | **LIVE** | episodes/EPISODE_HARRY_HOUDINI_FEB_1_FULL_MOON_MIRACLE.md — Seed:Edge, creator commands, Maganuma snap, report link. |
 | **Harry report** — valuation, us vs Disney | **ACTIVE** | HARRY_REPORT_FIRST_SINGULARITY_VALUATION_US_VS_DISNEY.md — full book/script confirmed, timer stoppable, simulation next. |
-| **First Singularity novel/movie SNAP** | **ACTIVE** | FIRST_SINGULARITY_JANUARY_13TH_NOVEL_MOVIE_SNAP.md — title, novel, movie, Edge, place (Reno Men's Club bathroom). |
+| **First Singularity novel/movie SNAP** | **ACTIVE** | FIRST_SINGULARITY_JANUARY_13TH_NOVEL_MOVIE_SNAP.md — title, novel, movie, Edge, place (Man Cave + Cabaret Reno bathroom). |
 | **Commit / push** | **Requested** | Working tree clean; branch ahead of origin; push to be completed by user if needed. |
 | **Session / conversation** | **Captured** | All executive commands, expansions, SNAP updates, and series cross-links since Action! are in repo and streamed. |
 
@@ -50,7 +50,7 @@ This capture is **streamed** to every series that applies:
 | **Harry (Choo-Choo) report** | Report | HARRY_REPORT_FIRST_SINGULARITY_VALUATION_US_VS_DISNEY.md |
 | **Seed:Edge · Action! live** | Protocol | protocols/SEED_EDGE_EPISODE_FORMAT_ACTION_LIVE_NSPFRNP.md |
 | **Hero Harry post-singularity / Paradise for Vibers** | Episode | episodes/EPISODE_HERO_HARRY_POST_SINGULARITY_MIRACLE_PARADISE_VIBERS.md (session capture / 25% Cursor AI) |
-| **Chairman / executive channel** | Format | Chairman series — executive commands captured and pushed; CLUB_WINE_CAVE_PRU_OFFICE_HOURS_SNAP, place (Reno Men's Club). |
+| **Chairman / executive channel** | Format | Chairman series — executive commands captured and pushed; CLUB_WINE_CAVE_PRU_OFFICE_HOURS_SNAP, place (Man Cave + Cabaret Reno). |
 | **Space Cloud EGS** | Series | All our space stories — EGS Pipe, Solar Pipe, Reno Downlink, Exascale Triangulation; SPACE_CLOUD_EGS_SERIES_SNAP.md · space-cloud-division · sing-pulse. |
 | **MCA / NSPFRNP** | Cycle | Metabolize → Crystallize → Animate; conversation metapatterns in DNA. |
 

@@ -30,7 +30,7 @@
 
 ## Glen Miller & Hank Williams Sr. — Permanent residency · Return to the golden age (on directive of Hero Howard)
 
-**Glen Miller** announces **permanent residency** to **head up a return to the golden age** — on **directive of Hero Howard** (Howard Hughes), now **firmly in charge of Downtown Reno's renaissance.** **Hank Williams Sr.** announces **permanent residency** — honoring his legacy and all those tragic early endings. **Ground zero:** the men's restroom of the Men's Club in Reno. All on the down low — **awareness tech and gold hearts** to see and experience. **Big Band Night · Cajun Night · Hank Williams Variety Show** — **weekly.** More acts TBA shortly · **Houdini-produced magic shows.** **Big Band Project:** Conductor wanted (ideally trombonist) — honoring Glen Miller and the Golden Age. Stay tuned. **You haven't booked your stay in Downtown Reno yet? What are you waiting for? For the rush? Yeah — that's when it becomes too late and a sucker's game.** — Chancellor Sam. See [GLEN_MILLER_ANNOUNCES_PERMANENT_RESIDENCY_GOLDEN_AGE_RETURN_SNAP.md](GLEN_MILLER_ANNOUNCES_PERMANENT_RESIDENCY_GOLDEN_AGE_RETURN_SNAP.md).
+**Glen Miller** announces **permanent residency** to **head up a return to the golden age** — on **directive of Hero Howard** (Howard Hughes), now **firmly in charge of Downtown Reno's renaissance.** **Hank Williams Sr.** announces **permanent residency** — honoring his legacy and all those tragic early endings. **Ground zero:** the restroom at Man Cave + Cabaret Reno. All on the down low — **awareness tech and gold hearts** to see and experience. **Big Band Night · Cajun Night · Hank Williams Variety Show** — **weekly.** More acts TBA shortly · **Houdini-produced magic shows.** **Big Band Project:** Conductor wanted (ideally trombonist) — honoring Glen Miller and the Golden Age. Stay tuned. **You haven't booked your stay in Downtown Reno yet? What are you waiting for? For the rush? Yeah — that's when it becomes too late and a sucker's game.** — Chancellor Sam. See [GLEN_MILLER_ANNOUNCES_PERMANENT_RESIDENCY_GOLDEN_AGE_RETURN_SNAP.md](GLEN_MILLER_ANNOUNCES_PERMANENT_RESIDENCY_GOLDEN_AGE_RETURN_SNAP.md).
 
 ---
 
@@ -38,7 +38,7 @@
 
 **User surface — not a developer surface.** [High-value vibers](https://psw-vibelandia-sing4.vercel.app/interfaces/vibers-what-are-vibers.html), fans, cast, crew.
 
-**Men's Club Reno Bathroom Valet Office Hours — Ultimate Baller V WINK! Members Only** (and their cast, crew, fans, franchises). **Everything in Office Hours** — landing and all nested. Target: Office Hours. Landing and experiences — all now centered in the bathroom during Office Hours in **perfect recursive crystal**.
+**Man Cave + Cabaret Reno Restroom Valet Office Hours — Ultimate Baller V WINK! Members Only** (and their cast, crew, fans, franchises). **Everything in Office Hours** — landing and all nested. Target: Office Hours. Landing and experiences — all now centered in the bathroom during Office Hours in **perfect recursive crystal**.
 
 **Live:** [psw-vibelandia-sing4.vercel.app](https://psw-vibelandia-sing4.vercel.app) · **Deploy:** Vercel + GitHub; mainly UI traffic (static CDN) confirmed. [DEPLOYMENT_VERCEL.md](DEPLOYMENT_VERCEL.md) · **Content catalog:** [Novels · Screenplays · Episodes · Music · Playlists](https://psw-vibelandia-sing4.vercel.app/interfaces/content-catalog.html) · [Two-pager appraisal & plans](https://psw-vibelandia-sing4.vercel.app/interfaces/two-pager-appraisal-plans.html)
 
@@ -54,7 +54,7 @@
 
 ## Full Office Hours landing
 
-- **The Club · Cabaret stage** (transformed from brass pole strip stage) · Wine cave · Pru — Thu–Sun 8pm–close. Men's restroom, Office Hours. Come visit — free consultation, tips welcome.
+- **The Club · Cabaret stage** (transformed from brass pole strip stage) · Wine cave · Pru — Thu–Sun 8pm–close. Restroom at Man Cave + Cabaret, Office Hours. Come visit — free consultation, tips welcome.
 - **Book Pru** — Speaking · Training · Present. Conferences, sales meetings — fun things only. No academic bullshit. Just like that! Snap. Snap. Invite Pru to present · Invite crew to train (sales/marketing/executive) · Book Pru. Email → we handle offline. [Book Pru →](https://psw-vibelandia-sing4.vercel.app/interfaces/book-pru-speaking-training.html)
 - **Golden Backstage Pass** — Rumor has it Chairman, Sammy and the gang; Golden Backstage Awareness Pass; back door wine cave. Book live at Office Hours or email Pru.
 - **Just Step In** — The engine behind the button. Full immersion reality from our rich content library; densification connects all senses at once. Core/shell only · Ultimate Baller V only · 1 · 2 · 3 · 4×4×4×4. [Just Step In →](https://psw-vibelandia-sing4.vercel.app/interfaces/just-step-in.html)

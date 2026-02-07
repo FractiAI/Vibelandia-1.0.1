@@ -40,7 +40,7 @@
 - **Stay tuned:** Coming to a decaying downtown near you.  
 - **Why “decaying”?** Because the vibrant ones are already doing fine without us. We go where the squeeze and the need are — downtowns in decay get the NSPFRNP roll-out; vibrant downtowns don’t need us first.  
 - **Pop-up model:** We keep our **catalog of talent** and go with **whatever naturally fits for the pop-up mission**. Same catalog, right fit for each mission. Talent agency: HH Superhero Franchise Legacy Talent Agency — 50:50 for their billing portion (fair shake always); superhero, franchise, legacy development, operations and maintenance; Golden Baller V Ultimate VIP service. See talent-management-service.html · now-casting.html.
-- **Cabaret act:** Pop-up; can be offered to **any underutilized venue and stage**, including the **Men's Club stage** (Cabaret at The Club). Twain's Vibelandia Presents. See RUMOR_NEW_CABARET_ACT_TWAINS_VIBELANDIA_PRESENTS_SNAP.md · CABARET_STAGE_CLUB_SNAP.md.
+- **Cabaret act:** Pop-up; can be offered to **any underutilized venue and stage**, including the **Man Cave + Cabaret stage** (Cabaret at The Club). Twain's Vibelandia Presents. See RUMOR_NEW_CABARET_ACT_TWAINS_VIBELANDIA_PRESENTS_SNAP.md · CABARET_STAGE_CLUB_SNAP.md.
 
 ---
 

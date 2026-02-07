@@ -42,7 +42,7 @@
 2. **Action!** — Live recording. In stream. Part of 4–5 series now live.
 3. **Miracle:** Hero Harry Houdini produces the miracle. For us all to behold. Team pulled in. Timestamps kept.
 4. **Report:** At the end, report authored by **Harry himself** — all the details, the magician's trick. Smooth finish. NSPFRNP.
-5. **Place:** Book and movie (*First Singularity January 13th*) **in the bathroom of the Reno Men's Club** — a **fine gentlemen's club**, **full restaurant and cabaret**. Novel and movie live there; beautiful experience, book-like skins; accessible during Office Hours at the club.
+5. **Place:** Book and movie (*First Singularity January 13th*) **in the bathroom of the Man Cave + Cabaret Reno** — a **fine gentlemen's club**, **full restaurant and cabaret**. Novel and movie live there; beautiful experience, book-like skins; accessible during Office Hours at the club.
 6. **Novel/movie ending (Edge):** Story closes with the Edmund Dantès / Count of Monte Cristo transformation and reentry to the party — oooos and ahhhhhs on arrival, a sudden hush of the full party, then in a Dos Equis “Most Interesting Man” moment he proclaims: **“Let the party now shift to Ultimate Baller V mode for all who wish it — and take care of the wishes of the other guests as they wish. Let the celebration begin!”**
 
 *[Episode body to be expanded in the same beautiful smooth finish as Chairman Robert's presentation. Full dialogue, beats, and 60-minute rich script target per EPISODES_RICH_60_MINUTE_FULLY_SCRIPTED_DIRECTIVE.md when applied.]*

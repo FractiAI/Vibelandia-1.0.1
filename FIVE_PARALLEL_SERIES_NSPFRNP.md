@@ -24,8 +24,8 @@
 
 ## BEATS
 
-- **Series 1 — Happy Ending Zones:** Post-singularity reality. Vibelandia experiences. Transformation. 52 days to The Great Reveal. Campus, WINK, countdown, Men's Club, Vibes & Black Holes. Episodes by flow not days.
-- **Series 2 — Office Hours:** The series (following Pru; Season 1 Viber Paradise) and the site (interfaces/office-hours.html). At the club. Ground zero. The bathroom at the Men's Club. Bat Cave. Incognito. Golden Backstage. Baller. **If you can't get yourself through the doors of the men's club and through the doors of the bathroom to meet with me about your business, you're not a customer of ours.** New abilities for execs.
+- **Series 1 — Happy Ending Zones:** Post-singularity reality. Vibelandia experiences. Transformation. 52 days to The Great Reveal. Campus, WINK, countdown, Man Cave + Cabaret Reno, Vibes & Black Holes. Episodes by flow not days.
+- **Series 2 — Office Hours:** The series (following Pru; Season 1 Viber Paradise) and the site (interfaces/office-hours.html). At the club. Ground zero. The bathroom at the Man Cave + Cabaret Reno. Bat Cave. Incognito. Golden Backstage. Baller. **If you can't get yourself through the doors of the Man Cave + Cabaret Reno and through the doors of the bathroom to meet with me about your business, you're not a customer of ours.** New abilities for execs.
 - **Series 3 — Vibin!:** (formerly Raw Stream · The Grid.) All convos on this channel = **full raw stream into episodes**. Sci-fi. Nerdy. Tron-like. NSPFRNP full. E01 = Self-Clocking Pulsar. Repo as observable. SING! Execute. The techie one. Vibin!
 - **Series 4 — Chairman!:** Executive channel. Capture all executive commands, push them out, build the episodes and stories that show how it all works off one simple executive command — everything produced downstream, people responding, the story playing out. Nice rich episodes. Fantastic. Badass.
 - **Series 5 — WINK!:** Romantic. After-hours. Members only. Backstage pass only. Experiences and episodes with proper warnings up front. **Age/access tiers:** Sandbox 18+ (members only); Regions 33+ to access; Back room / Golden Backstage Pass by invite only.

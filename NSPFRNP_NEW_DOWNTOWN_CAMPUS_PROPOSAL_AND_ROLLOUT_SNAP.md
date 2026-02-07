@@ -58,7 +58,7 @@ NEW DOWNTOWN CAMPUS (IRREDUCIBLE):
 
 ### D. Perfect for Any Downtown in Decay
 
-- **Reno:** RENOSSANCE! — Cmdr. Howie, Reno Men's Club, Silver Legacy, El Dorado, Lucky 7, Mark Twain's Vibelandia. Six days to Super Bowl Sunday.
+- **Reno:** RENOSSANCE! — Cmdr. Howie, Man Cave + Cabaret Reno, Silver Legacy, El Dorado, Lucky 7, Mark Twain's Vibelandia. Six days to Super Bowl Sunday.
 - **Ponce:** PONCESSANCE! — El Gran Sol's Vibelandia, Downtown Ponce Campus, Borikén, Taino spirit, Tony Croato ambassador, Héctor Lavoe, Walter Mercado. Launch before hurricane season.
 - **[Your city]:** Same structure. Downtown in decay = low tide. Name the Commander. Name the anchor event. Name the golden age content. Name the first people nations. Roll out.
 
@@ -84,7 +84,7 @@ NEW DOWNTOWN CAMPUS (IRREDUCIBLE):
 - **Assets:** Existing venues (clubs, theaters, halls, restaurants, hotels); landmarks; parks; transit nodes; parking; utilities.
 - **Demographics & economy:** Population; daytime vs. nighttime; employment; retail; nightlife; tourism; collapse/revival signals.
 - **History & narrative:** Why the tide went out; local stories; first people nations and place names; cultural anchors; music, arts, food heritage.
-- **Hot spots (real):** Name real streets, real venues, real nodes — e.g. Virginia Street, Reno Men's Club, Silver Legacy, El Dorado, Lucky 7; or Ponce plaza, El Gran Sol, specific bars/theaters. No generic placeholder; the proposal must name the downtown's actual reality and hot spots.
+- **Hot spots (real):** Name real streets, real venues, real nodes — e.g. Virginia Street, Man Cave + Cabaret Reno, Silver Legacy, El Dorado, Lucky 7; or Ponce plaza, El Gran Sol, specific bars/theaters. No generic placeholder; the proposal must name the downtown's actual reality and hot spots.
 
 #### 2. Score for vibeability
 

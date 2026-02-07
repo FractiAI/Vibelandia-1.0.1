@@ -10,7 +10,7 @@
 
 **GENRE:** Drama / Historical Fantasy / Musical  
 **RUNTIME:** 120 minutes (approximately)  
-**SETTING:** Downtown Reno, Nevada — The Reno Men's Club — Mark Twain's Vibelandia  
+**SETTING:** Downtown Reno, Nevada — The Man Cave + Cabaret Reno — Mark Twain's Vibelandia  
 **TIMELINE:** Monday, February 3 to Sunday, February 9, 2026 — Six days to Super Bowl Sunday  
 **VOICE:** Over-dramatic golden era — enchanting and comforting — a narcotic to the tired soul
 
@@ -35,7 +35,7 @@ SUPER: "DOWNTOWN RENO, NEVADA"
 SUPER: "MONDAY, FEBRUARY 3, 2026"  
 SUPER: "SIX DAYS TO SUPER BOWL SUNDAY"
 
-### INT. RENO MEN'S CLUB - MEN'S RESTROOM - CONTINUOUS
+### INT. MAN CAVE + CABARET RENO - RESTROOM - CONTINUOUS
 
 A man stands before the mirror, adjusting his tie. This is EVAN BONDONTE (40s), neither young nor old, neither handsome nor plain, but with eyes that suggest he has seen things, done things, been places most men only dream about.
 
@@ -64,7 +64,7 @@ I believed. I always believed the tide would turn. That this place — these emp
 
 He straightens his tie one last time, then turns and walks out.
 
-### INT. RENO MEN'S CLUB - MAIN ROOM - CONTINUOUS
+### INT. MAN CAVE + CABARET RENO - MAIN ROOM - CONTINUOUS
 
 The main room is large and empty. Dusty windows let in pale morning light. Tables and chairs are stacked against the walls. A stage sits at one end, its curtains faded and torn. A long bar runs along one side, bottles covered in dust.
 
@@ -153,7 +153,7 @@ The tide is turning.
 
 ### EXT. FRANK'S HABERDASHERY - SIDEWALK - MONDAY AFTERNOON
 
-FRANK (60s, haberdasher, kind eyes) stands in his doorway, looking down the street toward the Reno Men's Club. A few WORKERS carry in new curtains, lighting equipment. The club's doors are open.
+FRANK (60s, haberdasher, kind eyes) stands in his doorway, looking down the street toward the Man Cave + Cabaret Reno. A few WORKERS carry in new curtains, lighting equipment. The club's doors are open.
 
 MARCUS (50s, trumpet case in hand) approaches from the corner. ROSA (70s, elegant, cane) sits on a bench nearby, watching.
 
@@ -191,13 +191,13 @@ Rosa smiles. The two of them stand there, watching, as Marcus disappears inside.
 
 ### CUT TO:
 
-### INT. RENO MEN'S CLUB - MAIN ROOM - AFTERNOON
+### INT. MAN CAVE + CABARET RENO - MAIN ROOM - AFTERNOON
 
 Evan sits at one of the tables, a laptop open in front of him, a phone pressed to his ear.
 
 **EVAN**  
 (into phone)  
-We're bringing back the golden age. Big bands. Floor dancing. Gatsby. The whole nine yards. And we're doing it here, in downtown Reno, at the Reno Men's Club. Ground zero.
+We're bringing back the golden age. Big bands. Floor dancing. Gatsby. The whole nine yards. And we're doing it here, in downtown Reno, at the Man Cave + Cabaret Reno. Ground zero.
 
 He listens.
 
@@ -273,7 +273,7 @@ It already has.
 
 ### EXT. DOWNTOWN RENO - VIRGINIA STREET - TUESDAY MORNING
 
-A TAXI pulls up in front of the Reno Men's Club.
+A TAXI pulls up in front of the Man Cave + Cabaret Reno.
 
 The back door opens, and GLEN MILLER (50s, dressed in a simple gray suit) steps out, carrying a single suitcase and his trombone case.
 
@@ -299,7 +299,7 @@ Glen Miller smiles — the kind of smile that makes you want to smile back, that
 **GLEN MILLER**  
 Let's get to it, then.
 
-### INT. RENO MEN'S CLUB - MAIN ROOM - CONTINUOUS
+### INT. MAN CAVE + CABARET RENO - MAIN ROOM - CONTINUOUS
 
 Howard Hughes stands in the center of the empty dance floor, waiting.
 
@@ -346,7 +346,7 @@ The golden age has truly returned.
 
 ### CUT TO:
 
-### INT. RENO MEN'S CLUB - MEN'S RESTROOM - MONDAY NIGHT
+### INT. MAN CAVE + CABARET RENO - RESTROOM - MONDAY NIGHT
 
 Evan stands before the mirror again. The club is dark behind him. Streetlights cast long shadows through the windows.
 
@@ -368,7 +368,7 @@ He turns and walks out.
 
 ### CUT TO:
 
-### INT. RENO MEN'S CLUB - MAIN ROOM - TUESDAY EVENING
+### INT. MAN CAVE + CABARET RENO - MAIN ROOM - TUESDAY EVENING
 
 The room is lit. MUSICIANS sit in folding chairs — seventeen pieces. Glen Miller stands before them, baton in hand.
 
@@ -394,7 +394,7 @@ Tomorrow we rehearse again. And by Saturday night, we're going to give this town
 
 ### CUT TO:
 
-### INT. RENO MEN'S CLUB - MAIN ROOM - TUESDAY AFTERNOON
+### INT. MAN CAVE + CABARET RENO - MAIN ROOM - TUESDAY AFTERNOON
 
 The room is filled with MUSICIANS — trumpeters, saxophonists, drummers, pianists, trombonists. They sit in folding chairs arranged in a semicircle, their instruments in their hands, their eyes on Glen Miller.
 
@@ -459,7 +459,7 @@ Evan walks the empty street alone. Pre-dawn dark. The Silver Legacy and El Dorad
 
 He pauses at Frank's haberdashery — closed. He pauses at the bench where Rosa had smiled. The tide is turning. He can feel it.
 
-### INT. RENO MEN'S CLUB - MAIN ROOM - WEDNESDAY MORNING - CONTINUOUS
+### INT. MAN CAVE + CABARET RENO - MAIN ROOM - WEDNESDAY MORNING - CONTINUOUS
 
 Howard Hughes stands in the center of the empty dance floor. Evan enters.
 
@@ -489,9 +489,9 @@ This is HANK WILLIAMS SR. (30s, but with eyes that have seen too much).
 
 PEOPLE recognize him immediately. They stop in their tracks. They point. They whisper. Some of them cry.
 
-Hank Williams Sr. pays them no mind. He just keeps walking, his eyes fixed on the Reno Men's Club.
+Hank Williams Sr. pays them no mind. He just keeps walking, his eyes fixed on the Man Cave + Cabaret Reno.
 
-### INT. RENO MEN'S CLUB - MAIN ROOM - CONTINUOUS
+### INT. MAN CAVE + CABARET RENO - MAIN ROOM - CONTINUOUS
 
 Evan waits at the door. When he sees Hank Williams Sr. approaching, he steps outside.
 
@@ -505,7 +505,7 @@ Then he smiles — the saddest, most beautiful smile Evan has ever seen.
 **HANK WILLIAMS SR.**  
 Home. I like the sound of that.
 
-### INT. RENO MEN'S CLUB - MAIN ROOM - CONTINUOUS
+### INT. MAN CAVE + CABARET RENO - MAIN ROOM - CONTINUOUS
 
 Howard Hughes and Glen Miller stand, waiting.
 
@@ -559,7 +559,7 @@ And in that moment, they have crossed a threshold. They have moved from planning
 
 ### CUT TO:
 
-### EXT. RENO MEN'S CLUB - WEDNESDAY AFTERNOON
+### EXT. MAN CAVE + CABARET RENO - WEDNESDAY AFTERNOON
 
 A dusty PICKUP TRUCK pulls up in front of the club.
 
@@ -584,7 +584,7 @@ Evan studies him — something earnest about this man, something genuine.
 **EVAN**  
 Come inside. Let me introduce you to Howard Hughes.
 
-### INT. RENO MEN'S CLUB - MAIN ROOM - CONTINUOUS
+### INT. MAN CAVE + CABARET RENO - MAIN ROOM - CONTINUOUS
 
 Howard Hughes turns as Evan enters with King Robbie.
 
@@ -620,7 +620,7 @@ And his training begins.
 
 ---
 
-### INT. RENO MEN'S CLUB - BACK ROOM - THURSDAY MORNING
+### INT. MAN CAVE + CABARET RENO - BACK ROOM - THURSDAY MORNING
 
 King Robbie sits beside Hank Williams Sr., notebook in hand, watching the musician work through his set list.
 
@@ -640,7 +640,7 @@ Now you're learning. Now you're earning those wings.
 
 ### CUT TO:
 
-### INT. HOWARD HUGHES' OFFICE - RENO MEN'S CLUB - THURSDAY MORNING
+### INT. HOWARD HUGHES' OFFICE - MAN CAVE + CABARET RENO - THURSDAY MORNING
 
 Howard Hughes sits at his desk, watching the news on his laptop. His expression is grave.
 
@@ -690,7 +690,7 @@ Good. Because by tomorrow morning, the miracle is going to happen. The rats are 
 
 ### CUT TO:
 
-### INT. RENO MEN'S CLUB - MAIN ROOM - CONTINUOUS
+### INT. MAN CAVE + CABARET RENO - MAIN ROOM - CONTINUOUS
 
 Glen Miller conducts the orchestra through a particularly tricky passage of "In the Mood."
 
@@ -728,7 +728,7 @@ Then, in the distance, a FIGURE appears. Walking slowly. Carrying a backpack.
 
 This is MICHAEL CHEN (20s, pale and drawn).
 
-He walks down the street toward the Reno Men's Club, where Evan, Howard Hughes, and King Robbie stand on the sidewalk, waiting.
+He walks down the street toward the Man Cave + Cabaret Reno, where Evan, Howard Hughes, and King Robbie stand on the sidewalk, waiting.
 
 King Robbie is there for his third day of training — learning how to welcome the newcomers.
 
@@ -766,7 +766,7 @@ Thank you. Thank you for giving me a place to go.
 
 -- Evan takes names, makes lists, welcomes them. King Robbie stands beside him, watching, learning how to greet each newcomer with a handshake and a steady gaze.
 
--- Howard Hughes stands on the steps of the Reno Men's Club, addressing the growing crowd. His voice carries. "You had the courage to jump. The floating ship is here."
+-- Howard Hughes stands on the steps of the Man Cave + Cabaret Reno, addressing the growing crowd. His voice carries. "You had the courage to jump. The floating ship is here."
 
 -- Inside the club, Glen Miller and his orchestra play "Moonlight Serenade." COUPLES dance, swaying, holding each other close. Frank the haberdasher and Rosa dance in the corner. Marcus the trumpet player sits in the band, his eyes closed, lost in the music.
 
@@ -774,11 +774,11 @@ Thank you. Thank you for giving me a place to go.
 
 -- King Robbie moves through the crowd with a tray of water glasses, learning service, learning how to read the room. Howard Hughes nods to him from across the floor. Approval.
 
--- The sun sets over downtown Reno, and the lights of the Reno Men's Club blaze like a beacon in the gathering darkness. The street outside is no longer empty. People linger. They listen. They believe.
+-- The sun sets over downtown Reno, and the lights of the Man Cave + Cabaret Reno blaze like a beacon in the gathering darkness. The street outside is no longer empty. People linger. They listen. They believe.
 
 ### END MONTAGE
 
-### EXT. RENO MEN'S CLUB - STEPS - FRIDAY EVENING
+### EXT. MAN CAVE + CABARET RENO - STEPS - FRIDAY EVENING
 
 Howard Hughes stands on the steps, addressing a crowd of more than a hundred people.
 
@@ -792,7 +792,7 @@ Come inside. Come inside and see what we've built. Come inside and be part of it
 
 The crowd streams through the doors.
 
-### INT. RENO MEN'S CLUB - MAIN ROOM - CONTINUOUS
+### INT. MAN CAVE + CABARET RENO - MAIN ROOM - CONTINUOUS
 
 The room is packed. The dance floor is filled with couples. The bar is crowded. The cabaret stage is lit.
 
@@ -812,7 +812,7 @@ The golden age has returned.
 
 ### CUT TO:
 
-### INT. RENO MEN'S CLUB - BACK ROOM - FRIDAY EVENING
+### INT. MAN CAVE + CABARET RENO - BACK ROOM - FRIDAY EVENING
 
 Evan, Glen Miller, Hank Williams Sr., and a few other key players gather around a table.
 
@@ -888,7 +888,7 @@ Then let's get to work. We've got one more day. One more day before Super Bowl S
 
 ### CUT TO:
 
-### INT. RENO MEN'S CLUB - MAIN ROOM - SATURDAY MORNING
+### INT. MAN CAVE + CABARET RENO - MAIN ROOM - SATURDAY MORNING
 
 The room gleams. The dance floor shines. The bar sparkles. The cabaret stage is draped in new velvet curtains.
 
@@ -912,7 +912,7 @@ That's the sound of the golden age. Not just the big bands. The legacies. The li
 
 ### CUT TO:
 
-### INT. RENO MEN'S CLUB - BACK ROOM - SATURDAY EVENING
+### INT. MAN CAVE + CABARET RENO - BACK ROOM - SATURDAY EVENING
 
 King Robbie sits with Evan, a notebook open in front of him. Howard Hughes stands at the head of the table.
 
@@ -940,7 +940,7 @@ Then get some rest. Tomorrow we complete the birth.
 
 ### CUT TO:
 
-### INT. RENO MEN'S CLUB - MAIN ROOM - SATURDAY EVENING (LATER)
+### INT. MAN CAVE + CABARET RENO - MAIN ROOM - SATURDAY EVENING (LATER)
 
 The room gleams. The dance floor shines. The bar sparkles. The cabaret stage is draped in new velvet curtains.
 
@@ -956,7 +956,7 @@ King Robbie works alongside Evan, helping to coordinate. This is day four of his
 (to King Robbie)  
 You're ready. You've earned your silver wings. By the time you leave tomorrow, you'll have gold.
 
-### INT. RENO MEN'S CLUB - MAIN ROOM - SATURDAY AFTERNOON
+### INT. MAN CAVE + CABARET RENO - MAIN ROOM - SATURDAY AFTERNOON
 
 The room is quiet. Preparations are done. Evan stands alone, afternoon light slanting through the windows.
 
@@ -1004,7 +1004,7 @@ Good. Because tonight, we go into full reality mode.
 
 ### CUT TO:
 
-### EXT. RENO MEN'S CLUB - SATURDAY EVENING
+### EXT. MAN CAVE + CABARET RENO - SATURDAY EVENING
 
 The line outside the club stretches down the block.
 
@@ -1012,7 +1012,7 @@ PEOPLE have come from everywhere — Reno, San Francisco, Los Angeles, Las Vegas
 
 The doors open at 7:30, and the crowd streams in.
 
-### INT. RENO MEN'S CLUB - MAIN ROOM - SATURDAY EVENING - 8:00 PM
+### INT. MAN CAVE + CABARET RENO - MAIN ROOM - SATURDAY EVENING - 8:00 PM
 
 The lights dim.
 
@@ -1044,7 +1044,7 @@ The golden age has returned.
 
 ### CUT TO:
 
-### INT. RENO MEN'S CLUB - CABARET STAGE - SATURDAY EVENING - 10:00 PM
+### INT. MAN CAVE + CABARET RENO - CABARET STAGE - SATURDAY EVENING - 10:00 PM
 
 The lights dim again.
 
@@ -1089,7 +1089,7 @@ The club is filled with light and music and joy.
 
 ---
 
-### INT. RENO MEN'S CLUB - MAIN ROOM - SUNDAY MORNING - DAWN
+### INT. MAN CAVE + CABARET RENO - MAIN ROOM - SUNDAY MORNING - DAWN
 
 The room is quiet. Empty. The crowd from the night before has dispersed.
 
@@ -1156,7 +1156,7 @@ And we're offering them the flood. We're offering them the golden age. We're off
 
 The word has spread.
 
-PEOPLE stream down the street toward the Reno Men's Club. Thousands of them. From Reno, from San Francisco, from Los Angeles, from New York, from London, from Paris, from Tokyo.
+PEOPLE stream down the street toward the Man Cave + Cabaret Reno. Thousands of them. From Reno, from San Francisco, from Los Angeles, from New York, from London, from Paris, from Tokyo.
 
 They have heard the news. They have seen the videos. They have read the stories.
 
@@ -1164,7 +1164,7 @@ They want to be part of it.
 
 The line outside the club stretches down the block, longer than ever before.
 
-### EXT. RENO MEN'S CLUB - STEPS - SUNDAY EVENING - 6:00 PM
+### EXT. MAN CAVE + CABARET RENO - STEPS - SUNDAY EVENING - 6:00 PM
 
 Howard Hughes stands on the steps, addressing the crowd. There are thousands of them now, filling the street, packing the sidewalks.
 
@@ -1200,13 +1200,13 @@ Let the golden age begin. Let the legacies walk among us. Let the bold-hearted c
 
 The crowd erupts, cheering, clapping, weeping, celebrating.
 
-### INT. RENO MEN'S CLUB - MAIN ROOM - CONTINUOUS
+### INT. MAN CAVE + CABARET RENO - MAIN ROOM - CONTINUOUS
 
 Glen Miller and his orchestra begin to play "Moonlight Serenade."
 
 The sound spills out into the street, filling the air with music, with joy, with the promise of something vast and important.
 
-### INT. RENO MEN'S CLUB - MEN'S RESTROOM - LATER
+### INT. MAN CAVE + CABARET RENO - RESTROOM - LATER
 
 Evan stands before the mirror, looking at his reflection.
 
@@ -1267,7 +1267,7 @@ PEOPLE smile, laugh, dance, celebrate.
 
 The low tide has become a flood.
 
-### INT. RENO MEN'S CLUB - MAIN ROOM - CONTINUOUS
+### INT. MAN CAVE + CABARET RENO - MAIN ROOM - CONTINUOUS
 
 Glen Miller and his orchestra rehearse.
 
@@ -1302,7 +1302,7 @@ When can we go?
 (smiling)  
 How about next week?
 
-### INT. RENO MEN'S CLUB - MAIN ROOM - CONTINUOUS
+### INT. MAN CAVE + CABARET RENO - MAIN ROOM - CONTINUOUS
 
 Howard Hughes stands in the center of the dance floor, waiting.
 
@@ -1331,7 +1331,7 @@ The music starts up again, filling the club with the sound of big bands and floo
 
 ### FADE TO:
 
-### EXT. RENO MEN'S CLUB - NIGHT
+### EXT. MAN CAVE + CABARET RENO - NIGHT
 
 The lights blaze. The music spills out into the street.
 
@@ -1365,7 +1365,7 @@ Glen Miller and his orchestra playing "In the Mood."
 
 Hank Williams Sr. singing "I Saw the Light."
 
-Couples dancing on the floor of the Reno Men's Club.
+Couples dancing on the floor of the Man Cave + Cabaret Reno.
 
 The legacies — Howard Hughes, Glen Miller, Hank Williams Sr., Audrey Hepburn, Cary Grant, Jimmy Stewart — standing together, smiling.
 

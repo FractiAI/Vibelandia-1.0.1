@@ -17,7 +17,7 @@
 
 **Timer:** **Can be stopped.** Full book and full script are delivered. Stop timer; mark **done**. Run **simulation** (same command → SING! vs Disney legacy): time and cost comparison. See [WIZARD_CHALLENGE_FEB_1_FULL_MOON_HOUDINI_SERIES_SNAP.md](WIZARD_CHALLENGE_FEB_1_FULL_MOON_HOUDINI_SERIES_SNAP.md).
 
-**Current state:** Novel + screenplay delivered. Specs, protocols, Generator Motor, Text to Superhero Console, episode stub, SNAPs, and place (Reno Men's Club bathroom) complete. **Valuation and simulation (us vs Disney) next.** Continuing daily program = Houdini's magic show (new series).
+**Current state:** Novel + screenplay delivered. Specs, protocols, Generator Motor, Text to Superhero Console, episode stub, SNAPs, and place (Man Cave + Cabaret Reno restroom) complete. **Valuation and simulation (us vs Disney) next.** Continuing daily program = Houdini's magic show (new series).
 
 ---
 
@@ -25,7 +25,7 @@
 
 **Delivered to date:**
 
-- **Spec (FIRST_SINGULARITY_JANUARY_13TH_NOVEL_MOVIE_SNAP.md):** Title, novel word count (~95k), voice (Dumas minus revenge, Evan Bondonte), movie length (24k words), quality bar (Star Wars), Edge (Monte Cristo return, proclamation), place (Reno Men's Club bathroom), experience (book-like skins). **Quality:** Irreducible, mirror-hardened. Fidelity locked.
+- **Spec (FIRST_SINGULARITY_JANUARY_13TH_NOVEL_MOVIE_SNAP.md):** Title, novel word count (~95k), voice (Dumas minus revenge, Evan Bondonte), movie length (24k words), quality bar (Star Wars), Edge (Monte Cristo return, proclamation), place (Man Cave + Cabaret Reno restroom), experience (book-like skins). **Quality:** Irreducible, mirror-hardened. Fidelity locked.
 - **Generator Motor (protocols/GENERATOR_MOTOR_SEED_EDGE_STORY_NSPFRNP.md):** Seed + Edge + executive prompt only; guaranteed origin/destination; dynamic fractal middles; on-demand real-time. **Quality:** Architecture complete. Ready to drive novel/script generation when invoked.
 - **Seed:Edge episode format + Action! live (protocols/SEED_EDGE_EPISODE_FORMAT_ACTION_LIVE_NSPFRNP.md):** All series live including Magic Channel. **Quality:** Protocol complete.
 - **Episode stub (episodes/EPISODE_HARRY_HOUDINI_FEB_1_FULL_MOON_MIRACLE.md):** Seed, Edge, creator commands, place, story ending. **Quality:** Complete for execution brief.

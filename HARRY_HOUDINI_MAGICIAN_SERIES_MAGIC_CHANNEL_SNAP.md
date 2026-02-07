@@ -37,7 +37,7 @@
 - **Series:** Harry Houdini Magician Series · The Magic Channel.
 - **Episodes:** Stored in Seed:Edge format. Smooth finish. NSPFRNP.
 - **Action!** = Live recording. In stream. Across 4–5 series.
-- **Place:** Book and movie (*First Singularity January 13th*) **in the bathroom of the Reno Men's Club** — a **fine gentlemen's club**, **full restaurant and cabaret**. Novel and movie live there; beautiful experience, book-like skins; accessible during Office Hours at the club.
+- **Place:** Book and movie (*First Singularity January 13th*) **in the bathroom of the Man Cave + Cabaret Reno** — a **fine gentlemen's club**, **full restaurant and cabaret**. Novel and movie live there; beautiful experience, book-like skins; accessible during Office Hours at the club.
 
 ---
 

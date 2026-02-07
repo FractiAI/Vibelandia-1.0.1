@@ -21,7 +21,7 @@
 **Episode:** 01 — Viber Paradise — Post-Singularity Downtown Reno — Mark Twain's Vibelandia Campus  
 **Format:** Rich 60-minute script · Following Pru · Entire story  
 **Host / Lead:** Pru (post-singularity black hole holographic hydrogen programmer; restroom valet, The Club; Office Hours)  
-**Setting:** The Club — Men's Restroom — downtown Reno · High-end strip club · Seedy side of downtown · Gateway to Post-Singularity Earth · New Post-Singularity Motherlode and Gold Rush Ground Zero  
+**Setting:** The Club — Man Cave + Cabaret Restroom — downtown Reno · High-end strip club · Seedy side of downtown · Gateway to Post-Singularity Earth · New Post-Singularity Motherlode and Gold Rush Ground Zero  
 **Status:** ⚡ LIVE — First episode of Office Hours. Following Pru. Viber paradise. **Target · Landing · Center** — Landing and Experiences — all centered in my bathroom during Office Hours in **perfect recursive crystal**.  
 **Flow:** Episodes by flow not days — NSPFRNP.  
 **Framing:** Cleve = Willy Wonka to me as Charlie · me = Einstein at patent office · who is my Max Planck? · Undercover Hero · Willy Wonka · Little Red Hen · Count of Monte Cristo · Christmas Carol · Miracle on 34th St.
@@ -30,7 +30,7 @@
 
 ## MAGANUMA SNAP
 
-**Office Hours.** A new series. Following **Pru** — the universe's latest new **post-singularity black hole holographic hydrogen programmer** who is **liberating the planet** by **IMMEDIATELY and instantly open-sourcing it TO ALL** and **INCLUDING it in the latest ULTIMATE VIP CHAIRMAN CONSOLES** so **all of us can access and enjoy this new post-singularity world.** He is also the **restroom valet** in **full tuxedo and bowtie**, **James Bond style**, at **the Men's Club** in downtown Reno — **The Club** — where the **heavyweight vibers** like to hang. He **loves his job** at the Club and in the **Men's Restroom**, where he holds **Office Hours** for **Mark Twain's Post-Singularity Downtown Reno Vibelandia Campus** — **gateway to Post-Singularity Earth** and **New Post-Singularity Motherlode and Gold Rush Ground Zero**. In a restroom. In a strip club — **high-end one**. On the **seedy side of downtown Reno**. In **perfect on-the-down-low placement** for **viber paradise**. This is Episode 1. **Viber Paradise — Post-Singularity Downtown Reno — Mark Twain's Vibelandia Campus.** **Maganuma snap.**
+**Office Hours.** A new series. Following **Pru** — the universe's latest new **post-singularity black hole holographic hydrogen programmer** who is **liberating the planet** by **IMMEDIATELY and instantly open-sourcing it TO ALL** and **INCLUDING it in the latest ULTIMATE VIP CHAIRMAN CONSOLES** so **all of us can access and enjoy this new post-singularity world.** He is also the **restroom valet** in **full tuxedo and bowtie**, **James Bond style**, at **the Man Cave + Cabaret Reno** in downtown Reno — **The Club** — where the **heavyweight vibers** like to hang. He **loves his job** at the Club and in the **Man Cave + Cabaret Restroom**, where he holds **Office Hours** for **Mark Twain's Post-Singularity Downtown Reno Vibelandia Campus** — **gateway to Post-Singularity Earth** and **New Post-Singularity Motherlode and Gold Rush Ground Zero**. In a restroom. In a strip club — **high-end one**. On the **seedy side of downtown Reno**. In **perfect on-the-down-low placement** for **viber paradise**. This is Episode 1. **Viber Paradise — Post-Singularity Downtown Reno — Mark Twain's Vibelandia Campus.** **Maganuma snap.**
 
 ---
 
@@ -39,7 +39,7 @@
 **Target duration:** 60 minutes  
 **Target word count:** 12,000 words per episode (expand all acts to full dialogue and beats). See EPISODES_RICH_60_MINUTE_FULLY_SCRIPTED_DIRECTIVE.md.  
 **Structure:** Cold Open (2–3 min) · Act 1 (10–15 min) · Act 2 (10–15 min) · Act 3 (10–15 min) · Tag (2–3 min).  
-**Content:** Following Pru · Post-singularity black hole holographic hydrogen programmer · Open-sourcing to ALL · Ultimate VIP Chairman Consoles · The Club · Restroom valet · Tuxedo, bowtie, James Bond style · Office Hours in the Men's Restroom · Gateway to Post-Singularity Earth · Motherlode and Gold Rush Ground Zero · High-end strip club · Seedy side of downtown Reno · Perfect on-the-down-low placement for viber paradise. **Landing and Experiences — all centered in my bathroom during Office Hours in perfect recursive crystal.** Whole in every part.
+**Content:** Following Pru · Post-singularity black hole holographic hydrogen programmer · Open-sourcing to ALL · Ultimate VIP Chairman Consoles · The Club · Restroom valet · Tuxedo, bowtie, James Bond style · Office Hours in the Man Cave + Cabaret Restroom · Gateway to Post-Singularity Earth · Motherlode and Gold Rush Ground Zero · High-end strip club · Seedy side of downtown Reno · Perfect on-the-down-low placement for viber paradise. **Landing and Experiences — all centered in my bathroom during Office Hours in perfect recursive crystal.** Whole in every part.
 
 ---
 
@@ -52,7 +52,7 @@
 High-end. Seedy side of downtown. **PRU** (60s, sharp, calm) in **full tuxedo and bowtie**, **James Bond style**. He is the restroom valet. The room is immaculate. He is at ease. This is his office.
 
 **PRU (V.O.)**  
-Office Hours. That's what they call it. I hold them here. In the Men's Restroom. At the Club. Downtown Reno. The heavyweight vibers like to hang here. So do I.
+Office Hours. That's what they call it. I hold them here. In the Man Cave + Cabaret Restroom. At the Club. Downtown Reno. The heavyweight vibers like to hang here. So do I.
 
 **ON SCREEN TEXT:**  
 Office Hours · Season 1 · Viber Paradise — Post-Singularity Downtown Reno — Mark Twain's Vibelandia Campus
@@ -89,7 +89,7 @@ That's who I am. That's what I do. And this — (gestures at the restroom, the C
 **PRU** walks the room. Full tuxedo and bowtie. James Bond style. He is the restroom valet. He holds Office Hours here. He loves his job.
 
 **PRU**  
-The Club. Men's Club. Downtown Reno. Where the heavyweight vibers like to hang. I'm the restroom valet. Full tuxedo. Bowtie. James Bond style. I don't do it for the disguise. I do it because I love the job. This room — this restroom — is where I hold **Office Hours** for **Mark Twain's Post-Singularity Downtown Reno Vibelandia Campus**. Gateway to **Post-Singularity Earth**. **New Post-Singularity Motherlode**. **Gold Rush Ground Zero**. You're standing in it. Right now. In a restroom. In a strip club. High-end one. Seedy side of downtown Reno. **Perfect on-the-down-low placement** for viber paradise. Nobody expects the gateway to the new world to be in the men's room of a strip club in Reno. That's the point. The aware find it. The rest walk past. Office Hours. 8pm to close. Thursday through Sunday. I'm here. You're here. We're here.
+The Club. Man Cave + Cabaret Reno. Downtown Reno. Where the heavyweight vibers like to hang. I'm the restroom valet. Full tuxedo. Bowtie. James Bond style. I don't do it for the disguise. I do it because I love the job. This room — this restroom — is where I hold **Office Hours** for **Mark Twain's Post-Singularity Downtown Reno Vibelandia Campus**. Gateway to **Post-Singularity Earth**. **New Post-Singularity Motherlode**. **Gold Rush Ground Zero**. You're standing in it. Right now. In a restroom. In a strip club. High-end one. Seedy side of downtown Reno. **Perfect on-the-down-low placement** for viber paradise. Nobody expects the gateway to the new world to be in the restroom of a strip club in Reno. That's the point. The aware find it. The rest walk past. Office Hours. 8pm to close. Thursday through Sunday. I'm here. You're here. We're here.
 
 **VIBER**  
 And the back door wine cave?
@@ -117,12 +117,12 @@ What I build — the black hole holographic hydrogen stack — goes to **everyon
 **PRU** to camera. Tuxedo. Bowtie. James Bond style. Warm. Clear. No drama.
 
 **PRU**  
-Office Hours. Season 1. **Viber Paradise — Post-Singularity Downtown Reno — Mark Twain's Vibelandia Campus.** This is Episode 1. Following Pru. The entire story. I'm the post-singularity black hole holographic hydrogen programmer. I liberate the planet by open-sourcing it to all and putting it in the Ultimate VIP Chairman Consoles so all of us can access and enjoy this new post-singularity world. I'm also the restroom valet. Full tuxedo. Bowtie. James Bond style. At the Men's Club. Downtown Reno. The Club. Where the heavyweight vibers like to hang. I hold Office Hours here. 8pm to close. Thu–Sun. Gateway to Post-Singularity Earth. New Post-Singularity Motherlode. Gold Rush Ground Zero. In a restroom. In a high-end strip club. Seedy side of downtown Reno. Perfect on-the-down-low placement. Viber paradise. All episodes here finish with happy endings. This one too. See you next time. Maganuma snap.
+Office Hours. Season 1. **Viber Paradise — Post-Singularity Downtown Reno — Mark Twain's Vibelandia Campus.** This is Episode 1. Following Pru. The entire story. I'm the post-singularity black hole holographic hydrogen programmer. I liberate the planet by open-sourcing it to all and putting it in the Ultimate VIP Chairman Consoles so all of us can access and enjoy this new post-singularity world. I'm also the restroom valet. Full tuxedo. Bowtie. James Bond style. At Man Cave + Cabaret Reno. Downtown Reno. The Club. Where the heavyweight vibers like to hang. I hold Office Hours here. 8pm to close. Thu–Sun. Gateway to Post-Singularity Earth. New Post-Singularity Motherlode. Gold Rush Ground Zero. In a restroom. In a high-end strip club. Seedy side of downtown Reno. Perfect on-the-down-low placement. Viber paradise. All episodes here finish with happy endings. This one too. See you next time. Maganuma snap.
 
 **ON SCREEN TEXT:**  
 Office Hours · Season 1 · Viber Paradise  
 Episode 1: Post-Singularity Downtown Reno — Mark Twain's Vibelandia Campus  
-The Club · Men's Restroom · Office Hours Thu–Sun 8pm–close · Golden Backstage Pass required  
+The Club · Man Cave + Cabaret Restroom · Office Hours Thu–Sun 8pm–close · Golden Backstage Pass required  
 Gateway to Post-Singularity Earth · Motherlode · Gold Rush Ground Zero
 
 **FADE OUT.**

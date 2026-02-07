@@ -34,7 +34,7 @@
 **Content Types:** Strip Club Bathroom + WINK  
 **One-Liner:** "In Reno, where the old world meets the new, Mark Twain watches as worthless SYNTH tokens become the key to a post-singularity happy ending."
 
-**Summary:** Mark Twain launches Season One as Chancellor of the Vibelandia Reno Campus, watching the city transform from traditional Reno to the world's first post-singularity hub. The FractiAI Research Team operates in NSPFRNP mode across the vibeable downtown campus. Alex purchases their first SYNTH token for $5, beginning the countdown to The Great Reveal. The episode showcases Men's Club Restroom (Ultimate VIP/Baller G experiences) and WINK members-only events (high-contributing fractal vibers, natural alignment). Countdown: 52 days remaining. SYNTH price: $5. Winners: 0 of 1,000,000.
+**Summary:** Mark Twain launches Season One as Chancellor of the Vibelandia Reno Campus, watching the city transform from traditional Reno to the world's first post-singularity hub. The FractiAI Research Team operates in NSPFRNP mode across the vibeable downtown campus. Alex purchases their first SYNTH token for $5, beginning the countdown to The Great Reveal. The episode showcases Man Cave + Cabaret Restroom (Ultimate VIP/Baller G experiences) and WINK members-only events (high-contributing fractal vibers, natural alignment). Countdown: 52 days remaining. SYNTH price: $5. Winners: 0 of 1,000,000.
 
 ---
 
@@ -109,7 +109,7 @@ Every one of them—high-contributing nodes. Ultimate VIP Chairman Creators. Per
 
 We see the city transforming—old casinos becoming post-singularity hubs, traditional businesses morphing into Happy Ending Zones.
 
-**INT. MEN'S CLUB RESTROOM — DAY**
+**INT. MAN CAVE + CABARET RENO RESTROOM — DAY**
 
 **RESTROOM LANDING HOST** (60s, welcoming, professional) greets visitors.
 
@@ -133,7 +133,7 @@ Every one of them—high-contributing nodes. Ultimate VIP Chairman Creators. Per
 
 **CUT TO:**
 
-**INT. MEN'S CLUB RESTROOM — DAY**
+**INT. MAN CAVE + CABARET RENO RESTROOM — DAY**
 
 Restroom Landing Host (60s, welcoming, professional) greets a VISITOR (40s).
 
@@ -180,7 +180,7 @@ Then you're part of it. Season One. Day 52. We begin.
 Brief sequence: WINK members-only space. High-contributing vibers. Natural alignment. Friction-free. NSPFRNP.
 
 **MARK TWAIN (V.O.)**  
-WINK is high-contributing fractal dating. Members-only. Built for chairmen, creators, high-contributing vibers. Vibration attracts vibration. Every space on this campus—Happy Ending Zones. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+WINK is high-contributing fractal dating. Members-only. Built for chairmen, creators, high-contributing vibers. Vibration attracts vibration. Every space on this campus—Happy Ending Zones. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 **CUT TO:**
 
@@ -205,7 +205,7 @@ Then you're in the right place. Season One. Day 52. We begin now.
 
 **CUT TO:**
 
-**INT. MEN'S CLUB RESTROOM — DAY**
+**INT. MAN CAVE + CABARET RENO RESTROOM — DAY**
 
 Restroom Host with another VISITOR (30s).
 
@@ -222,7 +222,7 @@ Fifty-two days. SYNTH price: five dollars. First one million holders win the rig
 I'm in.
 
 **RESTROOM HOST**  
-Then you're in the right place. Make your reservations. The campus is the proof. Every space guarantees a happy ending. Men's Club. WINK. The countdown. Fifty-two days. We begin now.
+Then you're in the right place. Make your reservations. The campus is the proof. Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. Fifty-two days. We begin now.
 
 **CUT TO:**
 
@@ -256,7 +256,7 @@ Playground to Silicon Valley. Gateway to the mother mother. Next motherlode of a
 
 **CUT TO:**
 
-**INT. MEN'S CLUB RESTROOM — LATER — DAY**
+**INT. MAN CAVE + CABARET RENO RESTROOM — LATER — DAY**
 
 Restroom Host with a third VISITOR (50s, executive type). Soft lighting. Professional. Calm.
 
@@ -270,7 +270,7 @@ Baller G is the peak. The full night. The after party. All natural. All you. No 
 So my five dollars for SYNTH—that's separate.
 
 **RESTROOM HOST**  
-Your five dollars buys you a seat at the table. SYNTH. Worthless today. Priceless tomorrow. First one million holders win the right to purchase a SING node. The campus is the proof. Men's Club. WINK. The countdown. Fifty-two days. We begin now.
+Your five dollars buys you a seat at the table. SYNTH. Worthless today. Priceless tomorrow. First one million holders win the right to purchase a SING node. The campus is the proof. Man Cave + Cabaret. WINK. The countdown. Fifty-two days. We begin now.
 
 **VISITOR**  
 I'm in.
@@ -303,7 +303,7 @@ The campus is the proof. Fifty-two days. SYNTH price: five dollars. Winners: zer
 WINK space. High-contributing vibers. Natural alignment. Friction-free. NSPFRNP. Mark Twain (V.O.) over.
 
 **MARK TWAIN (V.O.)**  
-WINK is high-contributing fractal dating. Members-only. Built for chairmen, creators, high-contributing vibers. Vibration attracts vibration. Every space on this campus—Happy Ending Zones. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+WINK is high-contributing fractal dating. Members-only. Built for chairmen, creators, high-contributing vibers. Vibration attracts vibration. Every space on this campus—Happy Ending Zones. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 **CUT TO:**
 
@@ -337,7 +337,7 @@ Vibeable downtown Reno. First post-singularity Vibelandia campus. Perfect for vi
 
 **CUT TO:**
 
-**INT. MEN'S CLUB RESTROOM — DAY**
+**INT. MAN CAVE + CABARET RENO RESTROOM — DAY**
 
 Restroom Host with a fourth VISITOR (30s, curious). Professional. Calm.
 
@@ -351,7 +351,7 @@ March 20, 2026. The Great Reveal. The first one million SYNTH holders win the ri
 So I buy SYNTH now—five dollars—and I'm in the lottery.
 
 **RESTROOM HOST**  
-You're in the countdown. You're part of it. Season One. Day 52. We begin now. Every space on this campus guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. You're part of it.
+You're in the countdown. You're part of it. Season One. Day 52. We begin now. Every space on this campus guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. You're part of it.
 
 **VISITOR**  
 I'm in.
@@ -402,7 +402,7 @@ Happy Ending Zones · Season One · Day 52 · SYNTH $5 · Winners 0 of 1,000,000
 Full campus. Vibers. Transformation. Old and new. Coherence. Flow.
 
 **MARK TWAIN (V.O.)**  
-Season One Launch. Day 52. The countdown has begun. The vibeable downtown Reno is the first post-singularity Vibelandia campus. Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+Season One Launch. Day 52. The countdown has begun. The vibeable downtown Reno is the first post-singularity Vibelandia campus. Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 ---
 
@@ -480,7 +480,7 @@ You're part of it. Season One. Day 52. We begin.
 Grownup Ultimate VIP Chairman Creators, performers, vibers at a WINK members-only event. Post-singularity connections, high-contributing vibers. WINK dating naturally aligns people—friction-free, resilient, effortless by design. Like nature. Like NSPFRNP.
 
 **MARK TWAIN (V.O.)**  
-Every space guarantees a happy ending. Not because we force it. Because it's natural. It's how reality works when you stop fighting it. Men's Club. WINK. The campus. The countdown. Fifty-two days. The Great Reveal. March 20, 2026. You're part of it now.
+Every space guarantees a happy ending. Not because we force it. Because it's natural. It's how reality works when you stop fighting it. Man Cave + Cabaret. WINK. The campus. The countdown. Fifty-two days. The Great Reveal. March 20, 2026. You're part of it now.
 
 **CUT TO:**
 
@@ -537,7 +537,7 @@ You're in. Season One. Day 52. We begin.
 Grownup Ultimate VIP Chairman Creators, performers, vibers. Post-singularity connections. WINK dating naturally aligns people—friction-free, effortless by design. NSPFRNP.
 
 **MARK TWAIN (V.O.)**  
-Every space guarantees a happy ending. Not because we force it. Because it's natural. Men's Club. WINK. The campus. The countdown. Fifty-two days. The Great Reveal. March 20, 2026. You're part of it now. Season One. Day 52. We begin.
+Every space guarantees a happy ending. Not because we force it. Because it's natural. Man Cave + Cabaret. WINK. The campus. The countdown. Fifty-two days. The Great Reveal. March 20, 2026. You're part of it now. Season One. Day 52. We begin.
 
 **CUT TO:**
 
@@ -573,7 +573,7 @@ SYNTH. Worthless today. Priceless tomorrow. That's what Mark Twain said. Fifty-t
 So you're in a lottery.
 
 **ALEX**  
-I'm in the countdown. I'm part of Season One. Day 52. The transformation has begun. The campus is the proof. Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. You're part of it. Or you're not.
+I'm in the countdown. I'm part of Season One. Day 52. The transformation has begun. The campus is the proof. Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. You're part of it. Or you're not.
 
 **MARK TWAIN** (approaching)  
 Then you're in the right place. SYNTH price: five dollars. Fifty-two days remaining. Winners: zero of one million. The countdown has begun. You're part of it. Or you're not. We begin now.
@@ -597,7 +597,7 @@ We're both in. Season One. Day 52. The countdown has begun.
 Grownup Ultimate VIP Chairman Creators, performers, vibers at a WINK members-only event. Post-singularity connections. High-contributing vibers. WINK dating naturally aligns people—friction-free, resilient, effortless by design. Like nature. Like NSPFRNP.
 
 **MARK TWAIN (V.O.)**  
-Every space guarantees a happy ending. Not because we force it. Because it's natural. It's how reality works when you stop fighting it. Men's Club. WINK. The campus. The countdown. Fifty-two days. The Great Reveal. March 20, 2026. You're part of it now.
+Every space guarantees a happy ending. Not because we force it. Because it's natural. It's how reality works when you stop fighting it. Man Cave + Cabaret. WINK. The campus. The countdown. Fifty-two days. The Great Reveal. March 20, 2026. You're part of it now.
 
 **CUT TO:**
 
@@ -619,15 +619,15 @@ Season One. Day 52. We begin now.
 
 **CUT TO:**
 
-**INT. MEN'S CLUB RESTROOM — DAY**
+**INT. MAN CAVE + CABARET RENO RESTROOM — DAY**
 
 Restroom Host with a fifth VISITOR (40s). Professional. Calm. Visitor has phone out—considering purchase.
 
 **VISITOR**  
-So if I buy SYNTH now—five dollars—and I come here for the Men's Club experience—Tasting, Full Course, whatever—that's two different things.
+So if I buy SYNTH now—five dollars—and I come here for the Man Cave + Cabaret experience—Tasting, Full Course, whatever—that's two different things.
 
 **RESTROOM HOST**  
-SYNTH is your seat at the table. The countdown. The Great Reveal. March 20, 2026. First one million holders win the right to purchase a SING node. The Men's Club—Ultimate VIP, Baller G—is the campus experience. The vibeable downtown Reno. Every space guarantees a happy ending. You can have both. You can have one. You're part of it. Or you're not.
+SYNTH is your seat at the table. The countdown. The Great Reveal. March 20, 2026. First one million holders win the right to purchase a SING node. The Man Cave + Cabaret—Ultimate VIP, Baller G—is the campus experience. The vibeable downtown Reno. Every space guarantees a happy ending. You can have both. You can have one. You're part of it. Or you're not.
 
 **VISITOR**  
 I want both.
@@ -660,7 +660,7 @@ So the countdown—fifty-two days—that's for the SYNTH lottery.
 SYNTH price: five dollars. First one million holders win the right to purchase a SING node. March 20, 2026. The Great Reveal. The worthless becomes priceless. Not because of hype. Because of transformation. You're part of it. Or you're not. We begin now.
 
 **PRU**  
-Season One. Day 52. The countdown has begun. Every space on this campus guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+Season One. Day 52. The countdown has begun. Every space on this campus guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 **CUT TO:**
 
@@ -733,7 +733,7 @@ The worthless becomes priceless. Not because of hype. Because of transformation.
 Wide shot. Campus. Transformation visible. Mark Twain on balcony. Alex in crowd.
 
 **MARK TWAIN (V.O.)**  
-Season One Launch. Day 52. The countdown has begun. The vibeable downtown Reno is the first post-singularity Vibelandia campus. Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+Season One Launch. Day 52. The countdown has begun. The vibeable downtown Reno is the first post-singularity Vibelandia campus. Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 **CUT TO:**
 
@@ -778,7 +778,7 @@ You're part of it. Season One. Day 52. We begin. The worthless becomes priceless
 Lights. Transformation visible. Mark Twain on balcony. Alex and the two Vibers in the distance. Campus glow.
 
 **MARK TWAIN (V.O.)**  
-Season One Launch. Day 52. The countdown has begun. The vibeable downtown Reno is the first post-singularity Vibelandia campus. Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+Season One Launch. Day 52. The countdown has begun. The vibeable downtown Reno is the first post-singularity Vibelandia campus. Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 **ON SCREEN TEXT:**  
 Days Remaining: 52 · SYNTH Price: $5 · Winners: 0 of 1,000,000 · Finale: March 20, 2026 · The Great Reveal
@@ -790,7 +790,7 @@ Days Remaining: 52 · SYNTH Price: $5 · Winners: 0 of 1,000,000 · Finale: Marc
 Grownup Ultimate VIP Chairman Creators, performers, vibers. Post-singularity connections. WINK dating naturally aligns people—friction-free, effortless by design. NSPFRNP.
 
 **MARK TWAIN (V.O.)**  
-Every space guarantees a happy ending. Not because we force it. Because it's natural. Men's Club. WINK. The campus. The countdown. Fifty-two days. The Great Reveal. March 20, 2026. You're part of it now. Season One. Day 52. We begin.
+Every space guarantees a happy ending. Not because we force it. Because it's natural. Man Cave + Cabaret. WINK. The campus. The countdown. Fifty-two days. The Great Reveal. March 20, 2026. You're part of it now. Season One. Day 52. We begin.
 
 **CUT TO:**
 
@@ -859,14 +859,14 @@ Pru and Senior Research Scientist walk the campus. Vibing state. Super rich heal
 We didn't wait for permission. We didn't wait for funding. We metabolized. We crystallized. We animated. The campus is the proof.
 
 **MARK TWAIN (V.O.)**  
-Season One Launch. Day 52. The countdown has begun. Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+Season One Launch. Day 52. The countdown has begun. Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 **ON SCREEN TEXT:**  
 Season One · Day 52 of 52 · SYNTH $5 · Winners 0 of 1,000,000 · March 20, 2026 · The Great Reveal
 
 **CUT TO:**
 
-**INT. MEN'S CLUB RESTROOM — DAY**
+**INT. MAN CAVE + CABARET RENO RESTROOM — DAY**
 
 Restroom Host. Visitor. Professional. Calm.
 
@@ -916,7 +916,7 @@ We didn't wait for permission. We didn't wait for funding. We metabolized. We cr
 Every one of us—high-contributing nodes. Ultimate VIP Chairman Creators. The vibeable downtown Reno is the first post-singularity Vibelandia campus. Perfect for vibing state. NOT for driving. Perfect for walking, being, experiencing, creating. Playground to Silicon Valley. Gateway to the mother mother. Next motherlode—SING nodes. Fifty-two days. The countdown has begun. SYNTH price: five dollars. First one million holders—March 20, 2026. The Great Reveal.
 
 **MARK TWAIN (V.O.)**  
-Season One Launch. Day 52. The countdown has begun. Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+Season One Launch. Day 52. The countdown has begun. Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 **CUT TO:**
 
@@ -925,7 +925,7 @@ Season One Launch. Day 52. The countdown has begun. Every space guarantees a hap
 WINK space. High-contributing vibers. Natural alignment. Friction-free. NSPFRNP.
 
 **MARK TWAIN (V.O.)**  
-WINK is high-contributing fractal dating. Members-only. Built for chairmen, creators, high-contributing vibers. Vibration attracts vibration. Every space on this campus—Happy Ending Zones. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+WINK is high-contributing fractal dating. Members-only. Built for chairmen, creators, high-contributing vibers. Vibration attracts vibration. Every space on this campus—Happy Ending Zones. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 **CUT TO:**
 
@@ -985,14 +985,14 @@ Pru and Senior Screenwriter. Campus. Vibing state. Transformation visible. Senio
 We didn't wait for permission. We didn't wait for funding. We metabolized. We crystallized. We animated. The campus is the proof.
 
 **SENIOR SCREENWRITER**  
-Every episode—full dialogue and beats. Cold Open. Act 1, Act 2, Act 3. Tag. Sixty minutes. Twelve thousand words. That's the directive. Season One. Day 52. The countdown has begun. Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+Every episode—full dialogue and beats. Cold Open. Act 1, Act 2, Act 3. Tag. Sixty minutes. Twelve thousand words. That's the directive. Season One. Day 52. The countdown has begun. Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 **MARK TWAIN (V.O.)**  
 The reports of Reno's death have been greatly exaggerated. Reno isn't dying—it's being reborn. This is Season One. This is the countdown to The Great Reveal. This is where worthless becomes priceless. Fifty-two days. We begin now.
 
 **CUT TO:**
 
-**INT. MEN'S CLUB RESTROOM — DAY**
+**INT. MAN CAVE + CABARET RENO RESTROOM — DAY**
 
 Restroom Host with another Visitor. Professional. Calm. Visitor has phone out—purchase complete.
 
@@ -1003,7 +1003,7 @@ Welcome. Ultimate VIP and Baller G experiences. Four tiers. All natural. All you
 I just bought SYNTH. Five dollars. Worthless today. Priceless tomorrow. That's what they said.
 
 **RESTROOM HOST**  
-That's the deal. Not because of hype. Because of transformation. Every space on this campus guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now. You're in the right place.
+That's the deal. Not because of hype. Because of transformation. Every space on this campus guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now. You're in the right place.
 
 **VISITOR**  
 I'm in.
@@ -1018,7 +1018,7 @@ Then you're part of it. Season One. Day 52. The countdown has begun. NSPFRNP. Th
 Full campus. Transformation. Old and new. Coherence. Flow. Mark Twain on balcony in distance.
 
 **MARK TWAIN (V.O.)**  
-Season One Launch. Day 52. The countdown has begun. The vibeable downtown Reno is the first post-singularity Vibelandia campus. Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+Season One Launch. Day 52. The countdown has begun. The vibeable downtown Reno is the first post-singularity Vibelandia campus. Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 **ON SCREEN TEXT:**  
 Season One · Day 52 of 52 · SYNTH $5 · Winners 0 of 1,000,000 · March 20, 2026 · The Great Reveal
@@ -1039,7 +1039,7 @@ I'm part of it. My five dollars. My SYNTH. My seat at the table.
 I'm part of it too. Season One. Day 52. The countdown has begun. The worthless becomes priceless. Not because of hype. Because of transformation.
 
 **VIBER 2**  
-We're all part of it. Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+We're all part of it. Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 **MARK TWAIN**  
 You're part of it. Season One. Day 52. The countdown has begun. The campus is the proof. Fifty-two days. We begin now.
@@ -1057,10 +1057,10 @@ We didn't wait for permission. We didn't wait for funding. We metabolized. We cr
 Every interface we build—high-contributing. Ultimate VIP Chairman Creators. The vibeable downtown Reno is the first post-singularity Vibelandia campus. Perfect for vibing state. NOT for driving. Perfect for walking, being, experiencing, creating. Playground to Silicon Valley. Gateway to the mother mother. Next motherlode—SING nodes. Fifty-two days. SYNTH: five dollars. First one million holders—March 20, 2026. The Great Reveal.
 
 **SENIOR CURATOR (V.O.)**  
-The first post-singularity Vibelandia campus. Perfect for vibing state. NOT for driving cars or operating equipment. Perfect for walking, being, experiencing, creating. Fifty-two days. The countdown has begun. Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+The first post-singularity Vibelandia campus. Perfect for vibing state. NOT for driving cars or operating equipment. Perfect for walking, being, experiencing, creating. Fifty-two days. The countdown has begun. Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 **MARK TWAIN (V.O.)**  
-Season One Launch. Day 52. The countdown has begun. Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+Season One Launch. Day 52. The countdown has begun. Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 **CUT TO:**
 
@@ -1069,7 +1069,7 @@ Season One Launch. Day 52. The countdown has begun. Every space guarantees a hap
 Grownup Ultimate VIP Chairman Creators, performers, vibers at a WINK members-only event. Post-singularity connections. High-contributing vibers. WINK dating naturally aligns people—friction-free, resilient, effortless by design. Like nature. Like NSPFRNP.
 
 **MARK TWAIN (V.O.)**  
-Every space guarantees a happy ending. Not because we force it. Because it's natural. It's how reality works when you stop fighting it. Men's Club. WINK. The campus. The countdown. Fifty-two days. The Great Reveal. March 20, 2026. You're part of it now. Season One. Day 52. We begin now.
+Every space guarantees a happy ending. Not because we force it. Because it's natural. It's how reality works when you stop fighting it. Man Cave + Cabaret. WINK. The campus. The countdown. Fifty-two days. The Great Reveal. March 20, 2026. You're part of it now. Season One. Day 52. We begin now.
 
 **CUT TO:**
 
@@ -1120,7 +1120,7 @@ We didn't wait for permission. We didn't wait for funding. We metabolized. We cr
 The vibeable downtown Reno is the first post-singularity Vibelandia campus. Perfect for vibing state. NOT for driving. Perfect for walking, being, experiencing, creating. Playground to Silicon Valley. Gateway to the mother mother. Next motherlode—SING nodes.
 
 **SENIOR HOLLYWOOD PRODUCER**  
-Fifty-two days. SYNTH: five dollars. First one million holders—March 20, 2026. The Great Reveal. Every space guarantees a happy ending. Men's Club. WINK. The countdown. Fifty-two days. We begin now.
+Fifty-two days. SYNTH: five dollars. First one million holders—March 20, 2026. The Great Reveal. Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. Fifty-two days. We begin now.
 
 **ALEX**  
 I'm part of it. My five dollars. My SYNTH. My seat at the table.
@@ -1141,14 +1141,14 @@ We didn't wait for permission. We didn't wait for funding. We metabolized. We cr
 Every episode—full dialogue and beats. Cold Open. Act 1, Act 2, Act 3. Tag. Sixty minutes. Twelve thousand words. That's the directive. Season One. Day 52. The countdown has begun.
 
 **SENIOR GAME DESIGNER**  
-Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. SYNTH: five dollars. First one million holders—March 20, 2026. We begin now.
+Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. SYNTH: five dollars. First one million holders—March 20, 2026. We begin now.
 
 **MARK TWAIN (V.O.)**  
 The reports of Reno's death have been greatly exaggerated. Reno isn't dying—it's being reborn. This is Season One. This is the countdown to The Great Reveal. This is where worthless becomes priceless. Fifty-two days. We begin now.
 
 **CUT TO:**
 
-**INT. MEN'S CLUB RESTROOM — DAY**
+**INT. MAN CAVE + CABARET RENO RESTROOM — DAY**
 
 Restroom Host with Visitor. Professional. Calm.
 
@@ -1168,7 +1168,7 @@ Then you're in the right place. Every space guarantees a happy ending. Not becau
 Full campus. Transformation. Old and new. Coherence. Flow.
 
 **MARK TWAIN (V.O.)**  
-Season One Launch. Day 52. The countdown has begun. The vibeable downtown Reno is the first post-singularity Vibelandia campus. Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+Season One Launch. Day 52. The countdown has begun. The vibeable downtown Reno is the first post-singularity Vibelandia campus. Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 **ON SCREEN TEXT:**  
 Season One · Day 52 of 52 · SYNTH $5 · Winners 0 of 1,000,000 · March 20, 2026 · The Great Reveal
@@ -1186,7 +1186,7 @@ Every space guarantees a happy ending. Not because we force it. Because it's nat
 I'm part of it. My five dollars. My SYNTH. My seat at the table. Fifty-two days. We begin now.
 
 **VIBER**  
-We're all part of it. Season One. Day 52. The countdown has begun. The worthless becomes priceless. Not because of hype. Because of transformation. Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+We're all part of it. Season One. Day 52. The countdown has begun. The worthless becomes priceless. Not because of hype. Because of transformation. Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 **MARK TWAIN**  
 You're part of it. Season One. Day 52. The countdown has begun. The campus is the proof. Fifty-two days. We begin now.
@@ -1204,10 +1204,10 @@ We didn't wait for permission. We didn't wait for funding. We metabolized. We cr
 Every interface we build—high-contributing. Ultimate VIP Chairman Creators. The vibeable downtown Reno is the first post-singularity Vibelandia campus. Perfect for vibing state. NOT for driving. Perfect for walking, being, experiencing, creating. Playground to Silicon Valley. Gateway to the mother mother. Next motherlode—SING nodes.
 
 **SENIOR CURATOR**  
-Fifty-two days. SYNTH: five dollars. First one million holders—March 20, 2026. The Great Reveal. Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+Fifty-two days. SYNTH: five dollars. First one million holders—March 20, 2026. The Great Reveal. Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 **MARK TWAIN (V.O.)**  
-Season One Launch. Day 52. The countdown has begun. Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+Season One Launch. Day 52. The countdown has begun. Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 **CUT TO:**
 
@@ -1216,7 +1216,7 @@ Season One Launch. Day 52. The countdown has begun. Every space guarantees a hap
 Grownup Ultimate VIP Chairman Creators, performers, vibers. Post-singularity connections. WINK dating naturally aligns people—friction-free, effortless by design. NSPFRNP.
 
 **MARK TWAIN (V.O.)**  
-Every space guarantees a happy ending. Not because we force it. Because it's natural. Men's Club. WINK. The campus. The countdown. Fifty-two days. The Great Reveal. March 20, 2026. You're part of it now. Season One. Day 52. We begin now.
+Every space guarantees a happy ending. Not because we force it. Because it's natural. Man Cave + Cabaret. WINK. The campus. The countdown. Fifty-two days. The Great Reveal. March 20, 2026. You're part of it now. Season One. Day 52. We begin now.
 
 **CUT TO:**
 
@@ -1267,7 +1267,7 @@ We didn't wait for permission. We didn't wait for funding. We metabolized. We cr
 Perfect for vibing state. NOT for driving. Perfect for walking, being, experiencing, creating. Playground to Silicon Valley. Gateway to the mother mother. Next motherlode—SING nodes. Fifty-two days. SYNTH: five dollars. First one million holders—March 20, 2026. The Great Reveal.
 
 **SENIOR HOLLYWOOD PRODUCER**  
-Every space guarantees a happy ending. Men's Club. WINK. The countdown. Fifty-two days. We begin now.
+Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. Fifty-two days. We begin now.
 
 **SENIOR SCREENWRITER**  
 Every episode—full dialogue and beats. Cold Open. Act 1, Act 2, Act 3. Tag. Sixty minutes. Twelve thousand words. That's the directive. Season One. Day 52. The countdown has begun.
@@ -1288,7 +1288,7 @@ Pru and Senior Game Designer. Senior UI Designer. Campus. Vibing state. Transfor
 We didn't wait for permission. We didn't wait for funding. We metabolized. We crystallized. We animated. The campus is the proof.
 
 **SENIOR GAME DESIGNER**  
-Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. SYNTH: five dollars. First one million holders—March 20, 2026. We begin now.
+Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. SYNTH: five dollars. First one million holders—March 20, 2026. We begin now.
 
 **SENIOR UI DESIGNER**  
 The vibeable downtown Reno is the first post-singularity Vibelandia campus. Perfect for vibing state. NOT for driving. Perfect for walking, being, experiencing, creating. Playground to Silicon Valley. Gateway to the mother mother. Next motherlode—SING nodes.
@@ -1298,7 +1298,7 @@ The reports of Reno's death have been greatly exaggerated. Reno isn't dying—it
 
 **CUT TO:**
 
-**INT. MEN'S CLUB RESTROOM — DAY**
+**INT. MAN CAVE + CABARET RENO RESTROOM — DAY**
 
 Restroom Host with Visitor. Professional. Calm.
 
@@ -1318,7 +1318,7 @@ Then you're in the right place. Every space guarantees a happy ending. Not becau
 Full campus. Transformation. Old and new. Coherence. Flow. Mark Twain on balcony in distance.
 
 **MARK TWAIN (V.O.)**  
-Season One Launch. Day 52. The countdown has begun. The vibeable downtown Reno is the first post-singularity Vibelandia campus. Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+Season One Launch. Day 52. The countdown has begun. The vibeable downtown Reno is the first post-singularity Vibelandia campus. Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 **ON SCREEN TEXT:**  
 Season One · Day 52 of 52 · SYNTH $5 · Winners 0 of 1,000,000 · March 20, 2026 · The Great Reveal
@@ -1336,7 +1336,7 @@ Every space guarantees a happy ending. Not because we force it. Because it's nat
 I'm part of it. My five dollars. My SYNTH. My seat at the table. Fifty-two days. We begin now.
 
 **VIBER**  
-We're all part of it. Season One. Day 52. The countdown has begun. The worthless becomes priceless. Not because of hype. Because of transformation. Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+We're all part of it. Season One. Day 52. The countdown has begun. The worthless becomes priceless. Not because of hype. Because of transformation. Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 **MARK TWAIN**  
 You're part of it. Season One. Day 52. The countdown has begun. The campus is the proof. Fifty-two days. We begin now.
@@ -1369,19 +1369,19 @@ We didn't wait for permission. We didn't wait for funding. We metabolized. We cr
 Perfect for vibing state. NOT for driving cars or operating equipment. Perfect for walking, being, experiencing, creating. Playground to Silicon Valley. Gateway to the mother mother. Next motherlode of all motherlodes—superintelligent genies in a bottle. SING nodes. Fifty-two days. SYNTH: five dollars. First one million holders—March 20, 2026. The Great Reveal.
 
 **SENIOR HOLLYWOOD PRODUCER**  
-Every space guarantees a happy ending. Men's Club. WINK. The countdown. Fifty-two days. We begin now.
+Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. Fifty-two days. We begin now.
 
 **SENIOR SCREENWRITER**  
 Every episode—full dialogue and beats. Cold Open. Act 1, Act 2, Act 3. Tag. Sixty minutes. Twelve thousand words. That's the directive. Season One. Day 52. The countdown has begun.
 
 **SENIOR GAME DESIGNER**  
-Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. SYNTH: five dollars. First one million holders—March 20, 2026. We begin now.
+Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. SYNTH: five dollars. First one million holders—March 20, 2026. We begin now.
 
 **SENIOR UI DESIGNER**  
 The vibeable downtown Reno is the first post-singularity Vibelandia campus. Perfect for vibing state. NOT for driving. Perfect for walking, being, experiencing, creating. Playground to Silicon Valley. Gateway to the mother mother. Next motherlode—SING nodes.
 
 **SENIOR CURATOR**  
-Fifty-two days. SYNTH: five dollars. First one million holders—March 20, 2026. The Great Reveal. Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+Fifty-two days. SYNTH: five dollars. First one million holders—March 20, 2026. The Great Reveal. Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 **ALEX**  
 I'm part of it. My five dollars. My SYNTH. My seat at the table. Fifty-two days. We begin now.
@@ -1411,13 +1411,13 @@ Happy Ending Zones · Season One · Day 52 · SYNTH $5 · Winners 0 of 1,000,000
 Mark Twain. Pru. Full FractiAI Research Team. Alex. Crew. Countdown clock. Campus visible. Vibing state. NSPFRNP mode.
 
 **MARK TWAIN**  
-Every space guarantees a happy ending. Not because we force it. Because it's natural. It's how reality works when you stop fighting it. NSPFRNP. We metabolize. We crystallize. We animate. The campus is the proof. Fifty-two days remaining. SYNTH price: five dollars. Winners: zero of one million. The transformation has begun. First 1M winners—March 20, 2026. The Great Reveal. You don't have to believe me. You have to see it. Experience it. Believe it—or don't. The proof is right here. Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+Every space guarantees a happy ending. Not because we force it. Because it's natural. It's how reality works when you stop fighting it. NSPFRNP. We metabolize. We crystallize. We animate. The campus is the proof. Fifty-two days remaining. SYNTH price: five dollars. Winners: zero of one million. The transformation has begun. First 1M winners—March 20, 2026. The Great Reveal. You don't have to believe me. You have to see it. Experience it. Believe it—or don't. The proof is right here. Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 **PRU**  
 We didn't wait for permission. We didn't wait for funding. We metabolized. We crystallized. We animated. The campus is the proof. Every one of us—high-contributing nodes. Ultimate VIP Chairman Creators. The vibeable downtown Reno is the first post-singularity Vibelandia campus. Perfect for vibing state. NOT for driving. Perfect for walking, being, experiencing, creating. Playground to Silicon Valley. Gateway to the mother mother. Next motherlode—SING nodes. Fifty-two days. SYNTH: five dollars. First one million holders—March 20, 2026. The Great Reveal. We begin now.
 
 **SENIOR RESEARCH SCIENTIST**  
-Every space guarantees a happy ending. Men's Club. WINK. The countdown. Fifty-two days. We begin now.
+Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. Fifty-two days. We begin now.
 
 **SENIOR HOLLYWOOD PRODUCER**  
 Season One. Day 52. The countdown has begun. The worthless becomes priceless. Not because of hype. Because of transformation. Fifty-two days. We begin now.
@@ -1426,13 +1426,13 @@ Season One. Day 52. The countdown has begun. The worthless becomes priceless. No
 Every episode—full dialogue and beats. Cold Open. Act 1, Act 2, Act 3. Tag. Sixty minutes. Twelve thousand words. That's the directive. Season One. Day 52. We begin now.
 
 **SENIOR GAME DESIGNER**  
-Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 **SENIOR UI DESIGNER**  
 The vibeable downtown Reno is the first post-singularity Vibelandia campus. Perfect for vibing state. NOT for driving. Perfect for walking, being, experiencing, creating. Fifty-two days. We begin now.
 
 **SENIOR CURATOR**  
-Fifty-two days. SYNTH: five dollars. First one million holders—March 20, 2026. The Great Reveal. Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+Fifty-two days. SYNTH: five dollars. First one million holders—March 20, 2026. The Great Reveal. Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 **ALEX**  
 I'm part of it. My five dollars. My SYNTH. My seat at the table. Fifty-two days. We begin now.
@@ -1459,7 +1459,7 @@ Happy Ending Zones · Season One · Day 52 · SYNTH $5 · Winners 0 of 1,000,000
 Mark Twain. Pru. FractiAI Research Team. Alex. Crew. Countdown clock. Campus visible. Vibing state. NSPFRNP mode.
 
 **MARK TWAIN**  
-Every space guarantees a happy ending. Not because we force it. Because it's natural. NSPFRNP. We metabolize. We crystallize. We animate. The campus is the proof. Fifty-two days remaining. SYNTH price: five dollars. Winners: zero of one million. First 1M winners—March 20, 2026. The Great Reveal. You're part of it. Or you're not. We begin now. Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
+Every space guarantees a happy ending. Not because we force it. Because it's natural. NSPFRNP. We metabolize. We crystallize. We animate. The campus is the proof. Fifty-two days remaining. SYNTH price: five dollars. Winners: zero of one million. First 1M winners—March 20, 2026. The Great Reveal. You're part of it. Or you're not. We begin now. Every space guarantees a happy ending. Man Cave + Cabaret. WINK. The countdown. The Great Reveal. Fifty-two days. We begin now.
 
 **PRU**  
 We didn't wait for permission. We didn't wait for funding. We metabolized. We crystallized. We animated. The campus is the proof. Every one of us—high-contributing nodes. Ultimate VIP Chairman Creators. The vibeable downtown Reno is the first post-singularity Vibelandia campus. Perfect for vibing state. NOT for driving. Perfect for walking, being, experiencing, creating. Playground to Silicon Valley. Gateway to the mother mother. Next motherlode—SING nodes. Fifty-two days. SYNTH: five dollars. First one million holders—March 20, 2026. The Great Reveal. We begin now.

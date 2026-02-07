@@ -129,7 +129,7 @@ So: **Vibeverse -1, 0, 1** = Pre-Vibeverse | Seed | Edge (Vibeverse experience).
 
 ## Integration
 
-- **Full text → superhero text → franchise:** First Singularity novel/movie, Magic Channel, Generator Motor, Reno Men's Club bathroom, live recording for all series — metabolized into NSPFRNP in three layers: **full text** (complete narrative/spec), **superhero text** (condensed, punchy, Hero Harry, one-liners), **franchise** (scalable, repeatable, series, place, turnkey). See [NSPFRNP_METABOLIZED_FULL_TEXT_SUPERHERO_FRANCHISE.md](../NSPFRNP_METABOLIZED_FULL_TEXT_SUPERHERO_FRANCHISE.md).
+- **Full text → superhero text → franchise:** First Singularity novel/movie, Magic Channel, Generator Motor, Man Cave + Cabaret Reno restroom, live recording for all series — metabolized into NSPFRNP in three layers: **full text** (complete narrative/spec), **superhero text** (condensed, punchy, Hero Harry, one-liners), **franchise** (scalable, repeatable, series, place, turnkey). See [NSPFRNP_METABOLIZED_FULL_TEXT_SUPERHERO_FRANCHISE.md](../NSPFRNP_METABOLIZED_FULL_TEXT_SUPERHERO_FRANCHISE.md).
 - **Script-writing deck:** Core vs vibes pattern + Vibeverse -1, 0, 1 FAQ + foundation/branches + triad/spine + lens/cockpit + Full Sensory Reality / natural systems + WINK! Kiosk list message and gold button added to deck-script-writing-content-patterns.md.
 - **Team:** TEAM_NSPFRNP_MODE_ACTIVE.md — all referred to by role/context when needed; names always respectful.
 - **FAQ:** "What is Vibeverse -1, 0, 1?" answered in this doc and in the script deck for reuse.

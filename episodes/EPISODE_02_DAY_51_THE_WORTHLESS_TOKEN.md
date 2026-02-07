@@ -285,7 +285,7 @@ Alex discovers their SYNTH token is worthless—but that's exactly the point of 
 So the campus is the proof.
 
 **MARK TWAIN**  
-The campus is the proof. We didn't wait for permission. We metabolize. We crystallize. We animate. Every space guarantees a happy ending. Men's Club. WINK. The countdown. The Great Reveal. Fifty-one days. SYNTH: six dollars. Winners: zero of one million. We begin now.
+The campus is the proof. We didn't wait for permission. We metabolize. We crystallize. We animate. Every space guarantees a happy ending. Man Cave + Cabaret Reno. WINK. The countdown. The Great Reveal. Fifty-one days. SYNTH: six dollars. Winners: zero of one million. We begin now.
 
 **CUT TO:**
 
