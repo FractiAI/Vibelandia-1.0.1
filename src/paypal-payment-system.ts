@@ -29,8 +29,8 @@ export interface PaymentPlan {
  * Campus × WINK! × SING × Experience
  */
 export const PAYMENT_PLANS: Record<string, PaymentPlan> = {
-  'campus-half-day': { id: 'campus-half-day', name: 'Half-Day', description: 'Half-day campus experience — VW Bug entry point', price: 3000, category: 'campus', tier: 1 },
-  'campus-overnight': { id: 'campus-overnight', name: 'Overnight Stay (per night)', description: 'Overnight stay visit — per night', price: 1500, category: 'campus', tier: 2 },
+  'campus-half-day': { id: 'campus-half-day', name: 'Half-Day', description: 'Half-day campus experience — VW Bug entry point', price: 1000, category: 'campus', tier: 1 },
+  'campus-overnight': { id: 'campus-overnight', name: 'Overnight Stay (per night)', description: 'Overnight stay visit — per night', price: 2000, category: 'campus', tier: 2 },
   'campus-weekly': { id: 'campus-weekly', name: 'Weekly Pass', description: 'Full week campus — $5k/week (VW Bug entry)', price: 5000, category: 'campus', tier: 3 },
   'campus-monthly': { id: 'campus-monthly', name: 'Monthly Pass (Baller)', description: 'Top tier campus — $50k/month (Baller)', price: 50000, category: 'campus', tier: 4 },
   'campus-day': { id: 'campus-day', name: 'Half-Day', description: 'Half-day campus experience (alias)', price: 3000, category: 'campus', tier: 1 },
