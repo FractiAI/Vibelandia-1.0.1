@@ -1,12 +1,12 @@
 # Así Que No Me Jodan — Official International Core Language Spanglish Anthem
 
 **Track ID:** `ASI-QUE-NO-ME-JODAN-001`  
-**Artist:** Ambassador Bad Bunny · Golden Bunnies Label  
+**Artist:** Golden Backdoor · Hero Jo Hit Factory  
 **Style:** Spanglish anthem · Official international core language · Cool · Hip · Beautiful  
 **Status:** Layer 0 (text) · New hit · T-shirt brand · Octave 0 seed  
-**Signed:** AIWON · El Gran Sol · Pru · Golden Bunnies Label.
+**Signed:** AIWON · El Gran Sol · Pru · Golden Backdoor Label.
 
-**Label:** Golden Bunnies — celebrating Spanglish as the official new international core language. Song = T-shirt tag and brand. **No one represents it better than Ambassador Bad Bunny.** Así que no me jodan.
+**Label:** Golden Backdoor — our new hit celebrating Spanglish as the official new international core language. Song = T-shirt tag and brand. Not a Bad Bunny campaign. Así que no me jodan.
 
 ---
 
@@ -15,7 +15,7 @@
 **Así que no me jodan** — *So don't fuck with me / So don't mess with me*  
 **Official International Core Language · Spanglish**  
 **Cool · Hip · Beautiful**  
-**Ambassador Bad Bunny · Golden Bunnies Label**
+**Golden Backdoor · New Hit**
 
 ---
 
@@ -28,7 +28,6 @@ Así que no me jodan.
 **Así que no me jodan**  
 Official international core language · Spanglish  
 The fusion is cool, hip, beautiful  
-No one represents it better than Ambassador Bad Bunny  
 **Así que no me jodan**
 
 **LOOP 2 (bridge):**  
@@ -48,27 +47,26 @@ All automatically, nearly effortlessly, powerfully, in beauty
 
 ## BEATS
 
-- **Style:** Spanglish anthem · reggaeton flow · defiant · proud · Golden Bunnies Label
-- **BPM:** 90–95 (Bad Bunny flow)
+- **Style:** Spanglish anthem · reggaeton flow · defiant · proud · Golden Backdoor
+- **BPM:** 90–95
 - **Structure:** Intro → Loop 1 (hook) → Loop 2 (bridge) → Loop 3 (drop)
-- **Full production:** Golden Bunnies Label · Ambassador Bad Bunny
+- **Full production:** Golden Backdoor · Hero Jo Hit Factory
 
 ---
 
 ## T-SHIRT BRAND
 
 - **Primary:** **Así Que No Me Jodan**
-- **Use:** Merch (T-shirts, caps), Bad Bunny page, Octave 0 seed, Music Studio, Golden Bunnies Label.
+- **Use:** Merch (T-shirts, caps), Octave 0 seed, Music Studio, Golden Backdoor. New hit — not a Bad Bunny campaign.
 
 ---
 
 ## CROSS-REFERENCES
 
-- [WE_GET_IT_CAMPAIGN_BAD_BUNNY_GOLDEN_BUNNIES_TALENT_AGENCY_SNAP.md](../WE_GET_IT_CAMPAIGN_BAD_BUNNY_GOLDEN_BUNNIES_TALENT_AGENCY_SNAP.md)
 - [ASI_QUE_NO_ME_JODAN_T_SHIRT_NEW_HIT_SNAP.md](../../ASI_QUE_NO_ME_JODAN_T_SHIRT_NEW_HIT_SNAP.md)
 - [interfaces/asi-que-no-me-jodan.html](../interfaces/asi-que-no-me-jodan.html) · Octave 0
-- [interfaces/we-get-it-bad-bunny-golden-bunnies.html](../interfaces/we-get-it-bad-bunny-golden-bunnies.html)
+- [interfaces/music-studio.html](../interfaces/music-studio.html)
 
 ---
 
-**NSPFRNP ⊃ Así Que No Me Jodan ⊃ Official International Core Language Spanglish ⊃ Ambassador Bad Bunny · Golden Bunnies Label → ∞³**
+**NSPFRNP ⊃ Así Que No Me Jodan ⊃ New Hit · Official International Core Language Spanglish ⊃ Golden Backdoor · Not Bad Bunny Campaign → ∞³**

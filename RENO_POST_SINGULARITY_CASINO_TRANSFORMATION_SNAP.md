@@ -9,7 +9,7 @@
 
 ## ABOUT THE TRANSFORMATION
 
-**Decades of post-singularity casinos in downtown Reno** — and they're just **full of empty shells.** Lots of empty shells. We have **entire Reno**: so many **stages**, so many **musicians**, so many **performers**, so much capacity for **Hollywood-level productions** — all just **sitting sidelined.** The transformation: **reduce and crystallize each casino as a stationary cruise ship of pleasure and fun**, very specifically targeting anybody into **gamification** of any sort.
+**Decades of pre-singularity casinos in downtown Reno** — and they're just **full of empty shells.** Lots of empty shells. We have **entire Reno**: so many **stages**, so many **musicians**, so many **performers**, so much capacity for **Hollywood-level productions** — all just **sitting sidelined.** The transformation: **reduce and crystallize each casino as a stationary cruise ship of pleasure and fun**, very specifically targeting anybody into **gamification** of any sort.
 
 ---
 
@@ -25,11 +25,28 @@
 
 **Vibelandia campus** = expanded **cruise-ship experience** · **gateway to everything:**
 
-- **To our south** — Mama and beyond  
-- **To our north** — full region  
-- **To our west** — Sierraville Hot Springs · **Lake Tahoe** · **Wine Country** · **Coast** · **San Francisco** · **Silicon Valley** · and beyond  
+- **To our south** — Mammoth  
+- **To our north** — Playa · Sierraville Hot Springs  
+- **To our west** — Lake Tahoe · SF Bay Area · Silicon Valley · Wine Country and Coast  
+- **To our east** — endless open desert, perfect for endless offroading and exploring  
 
 One campus. One transformation. Same doctrine as Arturo (energy layer), André (marine · Carnival · Rio), José Alfredo (Ponce · PONCESSANCE).
+
+---
+
+## PRICING · NOT BY QUOTE
+
+**Appraise and price at top gaming solutions** for base price, then **4×4×4×4** from there. Plans 1, 2, 3, 4×4×4×4 — specific and detailed, covering all departments of the casino.
+
+---
+
+## PROPOSAL · ALL DEPARTMENTS · 1, 2, 3
+
+**Plan 1 (Base):** Gaming floor (strategy + luck, game rooms, living video games) · F&B (gamified dining, achievement-linked menus) · Entertainment (stages, performers, Hollywood-level capacity). Gateway: south Mammoth, north Playa · Sierraville, west Tahoe · SF Bay · Silicon Valley · Wine Country and Coast, east endless open desert — offroading and exploring.
+
+**Plan 2 (Standard):** All Base plus Hotel/Rooms (gamified check-in, achievement tiers, premium suites) · Spa/Wellness (leader board privileges) · Retail (achievement-linked boutiques) · Operations (back-of-house, housekeeping, security).
+
+**Plan 3 (Premium):** All Standard plus Convention/Meetings/Events (gamified MICE) · Marketing/Guest services (full cruise-ship layer) · Five-star stationary cruise ship — every department crystallized.
 
 ---
 
