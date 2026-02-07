@@ -18,7 +18,7 @@
 - **Order:** The experience **begins with the novel**, then the **screenplay**.
 - **Novel:** *First Singularity January 13th* — full book. Hobbit-length, Dumas *Count of Monte Cristo* voice minus revenge; only happy endings. Part One (Ch 1–37), Part Two — The Return, Part Three — After. Edge delivered. Beautiful experience, book-like skins.
 - **Screenplay:** Same title — full 2-hour feature script. Full arc, proclamation, After. Star Wars quality. Full 12,000-word script. Beautiful surfaces.
-- **Place:** Man Cave + Cabaret Reno — fine gentlemen's club, full restaurant and cabaret. Accessible during Office Hours.
+- **Place:** Pop Up Engine — fine gentlemen's club, full restaurant and cabaret. Accessible during Office Hours.
 
 ---
 
@@ -45,7 +45,7 @@
 
 - **Name:** **Feature Button · Hero AI-Assisted Mini Console**
 - **Definition:** Single entry point (button) that opens the **First Singularity January 13th** experience page — novel first, then screenplay, Golden Era Cinema skin, beautiful surfaces. Hero AI-Assisted = SING! / NSPFRNP-assisted generation and presentation; Mini Console = compact, one-page console for this feature.
-- **Scope:** Novel + screenplay delivery, place (Man Cave + Cabaret Reno), Wizard Challenge · Harry Houdini Magician Series. Timer-stamped deliverables; valuation and us vs Disney simulation per Wizard Challenge SNAP.
+- **Scope:** Novel + screenplay delivery, place (Pop Up Engine), Wizard Challenge · Harry Houdini Magician Series. Timer-stamped deliverables; valuation and us vs Disney simulation per Wizard Challenge SNAP.
 - **Surfaces:** Office Hours, Launch Pad, first-singularity-january-13th-experience.html (Golden Era Cinema page).
 
 ---

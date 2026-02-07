@@ -1,4 +1,4 @@
-# 🎭 MAN CAVE + CABARET SNAP
+# 🎭 Pop Up Engine SNAP
 
 **Snap ID:** `MAN-CAVE-CABARET-SNAP`  
 **Type:** Venue / Hero Hostess / WINK!  
@@ -9,7 +9,7 @@
 
 ## RULE
 
-**Man Cave + Cabaret** = flagship campus venues where WINK! and high-contributing fractal dating live. **Marilyn** = Hero Hostess and **house mom** at Man Cave + Cabaret—first name only. She welcomes, curates vibe, and holds space for members. All Hero Hosts first names only. See [HERO_HOSTS_FIRST_NAMES_SNAP.md](./HERO_HOSTS_FIRST_NAMES_SNAP.md).
+**Pop Up Engine** = flagship campus venues where WINK! and high-contributing fractal dating live. **Marilyn** = Hero Hostess and **house mom** at Pop Up Engine—first name only. She welcomes, curates vibe, and holds space for members. All Hero Hosts first names only. See [HERO_HOSTS_FIRST_NAMES_SNAP.md](./HERO_HOSTS_FIRST_NAMES_SNAP.md).
 
 ---
 
@@ -20,21 +20,21 @@
 - **Cabaret** — Performance and entertainment. Marilyn house mom—curates the room, holds the vibe.
 
 **Hero Hostess Marilyn:**
-- **Role:** Hero Hostess and house mom at Man Cave + Cabaret.
+- **Role:** Hero Hostess and house mom at Pop Up Engine.
 - **First name only.** No last names—in support of Walt, Gianni, Niko.
 - **Function:** Welcome members, curate atmosphere, hold space for HIGH CONTRIBUTING FRACTAL DATING and WINK! experiences. Glamour, experience, warmth.
 
-**WINK! tagline:** HIGH CONTRIBUTING FRACTAL DATING. WINK! lives at Man Cave + Cabaret with Marilyn as hero hostess and house mom.
+**WINK! tagline:** HIGH CONTRIBUTING FRACTAL DATING. WINK! lives at Pop Up Engine with Marilyn as hero hostess and house mom.
 
 **Integration:**
-- README WINK! section — tagline + Marilyn at Man Cave + Cabaret.
-- ONE_PAGER_WINK — tagline + Marilyn at Man Cave + Cabaret.
+- README WINK! section — tagline + Marilyn at Pop Up Engine.
+- ONE_PAGER_WINK — tagline + Marilyn at Pop Up Engine.
 - Launch Pad and WINK! experience pages — tagline + Marilyn house mom.
-- HERO_HOSTS_FIRST_NAMES_SNAP — Marilyn as hero hostess and house mom at Man Cave + Cabaret.
+- HERO_HOSTS_FIRST_NAMES_SNAP — Marilyn as hero hostess and house mom at Pop Up Engine.
 - Catalogs/branding — Venues: Man Cave, Cabaret; Marilyn hero hostess, house mom.
 
 ---
 
 **See:** [HERO_HOSTS_FIRST_NAMES_SNAP.md](./HERO_HOSTS_FIRST_NAMES_SNAP.md) · [ONE_PAGER_WINK.md](./ONE_PAGER_WINK.md) · [catalogs/branding/MASTER_BRANDING_CATALOG.md](./catalogs/branding/MASTER_BRANDING_CATALOG.md)
 
-**🌀 Man Cave + Cabaret ⊃ Marilyn hero hostess, house mom. HIGH CONTRIBUTING FRACTAL DATING. SNAP nspfrnp.**
+**🌀 Pop Up Engine ⊃ Marilyn hero hostess, house mom. HIGH CONTRIBUTING FRACTAL DATING. SNAP nspfrnp.**

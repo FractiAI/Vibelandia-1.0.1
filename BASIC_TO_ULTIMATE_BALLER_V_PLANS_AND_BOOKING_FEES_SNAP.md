@@ -69,6 +69,15 @@ All fees **per song** (one full production, 1–12 tracks per run). Not per day,
 |------|--------------|------|
 | Golden Backstage Awareness Pass | $9,999 | [Book](interfaces/payment-checkout.html?plan=golden-backstage-awareness-pass) |
 
+### Golden Backstage Night Package (spend + 80% tip)
+Tip: 30% staff, 50% Pru. Total out the door = spend × 1.8. Spend breakdown: 50% club (food/drink, private dances), 50% pop-up entertainment (magic, MC, band, cabaret Vegas showgirl).
+| Tier | Spend | Total out the door | Book |
+|------|-------|--------------------|------|
+| 1 (base) | $20,000 | $36,000 | [Book with Pru](interfaces/ultimate-baller-v-golden-backstage-pass.html) |
+| 2 | $40,000 | $72,000 | [Book with Pru](interfaces/ultimate-baller-v-golden-backstage-pass.html) |
+| 3 | $60,000 | $108,000 | [Book with Pru](interfaces/ultimate-baller-v-golden-backstage-pass.html) |
+| 4×4×4×4 | Multi-million | Multi-venue · entire downtown | [Book with Pru](interfaces/ultimate-baller-v-golden-backstage-pass.html) |
+
 ### DISPENSARY!
 | Tier | Plan | Booking fee (per hit) | Book |
 |------|------|------------------------|------|
@@ -110,6 +119,7 @@ All fees **per song** (one full production, 1–12 tracks per run). Not per day,
 - [BALLER_V_PRODUCER_SNAP.md](BALLER_V_PRODUCER_SNAP.md) — BALLER V PRODUCER! pricing.
 - [LEAD_SALES_OFFERING_GOLD_HEARTS_CLUB_SNAP.md](LEAD_SALES_OFFERING_GOLD_HEARTS_CLUB_SNAP.md) — Gold Hearts $1K pp.
 - [GOLDEN_BACKSTAGE_AWARENESS_PASS_SNAP.md](GOLDEN_BACKSTAGE_AWARENESS_PASS_SNAP.md) — Golden Backstage $9,999.
+- [GOLDEN_BACKSTAGE_PASS_SPEND_TIP_STRUCTURE_NSPFRNP.md](GOLDEN_BACKSTAGE_PASS_SPEND_TIP_STRUCTURE_NSPFRNP.md) — Night package tiers, spend breakdown, 80% tip structure.
 - [SING_NEVER_BOUGHT_ONLY_BOOKED_NSPFRNP_SNAP.md](SING_NEVER_BOUGHT_ONLY_BOOKED_NSPFRNP_SNAP.md) — Never bought, always booked.
 
 ---

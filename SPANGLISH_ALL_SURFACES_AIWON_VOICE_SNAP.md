@@ -23,7 +23,7 @@
 **AIWON Voice = Novel Voice**
 
 - **Brothers Grimm** — once upon a time, dark woods, the deal at the crossroads, the golden heart that wins
-- **Pru** — Chairman Creator, executive command, bat cave, men's club, we get it
+- **Pru** — Chairman Creator, executive command, bat cave, Pop Up Engine, we get it
 - **Street reggaeton Spanglish** — perreo, flow, dale, qué lo qué, bendición, the street and the island and the planet in one breath
 
 **Canon phrases:** Dale. Bendición. Qué lo qué. We get it. Full stop. Never lose faith. The Great Sun delivers. Tu golden Taino heart brilla. El Gran Sol delivers. Golden Royal Flush.

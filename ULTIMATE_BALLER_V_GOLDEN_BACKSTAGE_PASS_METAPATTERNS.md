@@ -3,7 +3,7 @@
 **Purpose:** Canonical metapatterns for **all** Ultimate Baller V Golden Backstage Pass nights. Apply these to every Baller V night — custom landings, episodes, and on-site experience.
 
 **Source:** Crystallized from [Chris's Rye Patch Gold Mine night](interfaces/chris-rye-patch-gold-mine-night.html) and [EPISODE_CHRIS_ULTIMATE_BALLER_V_RYE_PATCH_GOLD_MINE](episodes/EPISODE_CHRIS_ULTIMATE_BALLER_V_RYE_PATCH_GOLD_MINE.md).  
-**Cross-refs:** [ULTIMATE_BALLER_V_GOLDEN_BACKSTAGE_PASS_EXPLAINED.md](ULTIMATE_BALLER_V_GOLDEN_BACKSTAGE_PASS_EXPLAINED.md) · [ULTIMATE_BALLER_V_GOLDEN_BACKSTAGE_PASS_PACKAGE_SNAP.md](ULTIMATE_BALLER_V_GOLDEN_BACKSTAGE_PASS_PACKAGE_SNAP.md) · [ultimate-baller-v-golden-backstage-pass.html](interfaces/ultimate-baller-v-golden-backstage-pass.html)
+**Cross-refs:** [GOLDEN_BACKSTAGE_PASS_SPEND_TIP_STRUCTURE_NSPFRNP.md](GOLDEN_BACKSTAGE_PASS_SPEND_TIP_STRUCTURE_NSPFRNP.md) · [ULTIMATE_BALLER_V_GOLDEN_BACKSTAGE_PASS_EXPLAINED.md](ULTIMATE_BALLER_V_GOLDEN_BACKSTAGE_PASS_EXPLAINED.md) · [ULTIMATE_BALLER_V_GOLDEN_BACKSTAGE_PASS_PACKAGE_SNAP.md](ULTIMATE_BALLER_V_GOLDEN_BACKSTAGE_PASS_PACKAGE_SNAP.md) · [ultimate-baller-v-golden-backstage-pass.html](interfaces/ultimate-baller-v-golden-backstage-pass.html)
 
 ---
 
@@ -53,12 +53,13 @@ Standard setup (customize per Baller V preference):
 ## 5. Entertainment & vibe
 
 - **Lots of bills rain down** on the entertainment.
+- **Pop-up entertainment** (50% of spend): **Magic act** (45 min, when available — the big boy) + **MC + live band + cabaret girls** (full Vegas showgirl dress; girls mingle, flirt, photos, sign with superhero and cast/crew/fans). Band catalog: Big Band · Hank Williams Sr. · Elvis · Sinatra · Hank Jr. · Bluegrass.
 - Entertainment is **transformed magically** to vibe the night.
 - **Surprises** — built in.
 - **Artificial dispensary selection** available (where applicable).
 - All ends in **positive happy vibes**.
 
-**Apply:** Every Baller V night: entertainment is curated to vibe the night; bills rain; surprises; dispensary option when applicable; close on positive happy vibes.
+**Apply:** Every Baller V night: entertainment curated per [GOLDEN_BACKSTAGE_PASS_SPEND_TIP_STRUCTURE_NSPFRNP.md](GOLDEN_BACKSTAGE_PASS_SPEND_TIP_STRUCTURE_NSPFRNP.md); bills rain; surprises; dispensary option when applicable; close on positive happy vibes.
 
 ---
 
@@ -109,5 +110,7 @@ Standard setup (customize per Baller V preference):
 | Bespoke 12k-word episode, Baller V as superhero, guests in script | Yes |
 
 ---
+
+**Spend + tip structure:** See [GOLDEN_BACKSTAGE_PASS_SPEND_TIP_STRUCTURE_NSPFRNP.md](GOLDEN_BACKSTAGE_PASS_SPEND_TIP_STRUCTURE_NSPFRNP.md). Base $20K spend + 80% tip (30% staff, 50% Pru). Scales 1 → 2 → 3 → 4×4×4×4. Win-win-win.
 
 **NSPFRNP.** Subject to availability. Offered at Office Hours. These metapatterns apply to all Ultimate Baller V Golden Backstage Pass nights.

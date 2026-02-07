@@ -11,7 +11,7 @@
 
 ---
 
-**LOGLINE (Episode 1):** Bad Bunny meets Cacique Agüeybaná El Gran Sol. The deck. The hand. The first holographic hydrogen billboard. The peaceful Taino chief and the golden heart from BoriKen. Golden Royal Flush begins. Reno · BoriKen · Vibelandia — the tie that binds.
+**LOGLINE (Episode 1):** Bad Bunny meets Cacique Agüeybaná El Gran Sol. The deck. The hand. The first holographic hydrogen billboard. Reno ground zero — Pop Up Engine · Golden Backstage · wine cave · cabaret. The peaceful Taino chief and the golden heart from BoriKen. Golden Royal Flush begins. Reno · BoriKen · Vibelandia — the tie that binds. See IRREDUCIBLE_CRYSTAL_GOLDEN_HEART_TAINO_BENITO_SUPER_BOWL.md.
 
 **GENRE:** Drama / Musical / Fantasy  
 **RUNTIME:** 1 hour (7,000 words)  
@@ -25,7 +25,7 @@
 *[The first billboard. The first light. Bad Bunny in the sky. Cut to shore. Cacique Agüeybaná. El Gran Sol.]*
 
 ### ACT 1
-*[The deck. Reno. The hand you're dealt. Golden Lucky Seven. Setup: who is Benito; what is at stake; the island calling.]*
+*[The deck. Reno. Pop Up Engine. The hand you're dealt. Golden Lucky Seven. Pru in the bathroom — ground zero. Wine cave, cabaret, Golden Backstage. Setup: who is Benito; what is at stake; the island calling.]*
 
 ### ACT 2
 *[Borikén. The meeting. Bad Bunny meets Cacique Agüeybaná El Gran Sol. Golden heart to golden heart. The peaceful one. Complete circle. Return. Liberate. Deliver. The emotional core of the episode.]*

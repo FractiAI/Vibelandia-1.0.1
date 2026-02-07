@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Swipe Left or Right · Post-Singularity Executive Campaign | VIBELANDIA!</title>
+    <meta name="description" content="Swipe left or right. Pre-singularity: build, organize, plan, execute. Post-singularity: transform, metabolize, crystallize, animate, squeeze. Boom boom dance anthem booty shaking hit. You either get it or you don't.">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(180deg, #0a0a12 0%, #1a0a1a 50%, #0a0a12 100%);
+            color: #e8e6e3;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 1.5rem;
+        }
+        .card {
+            max-width: 420px;
+            width: 100%;
+            background: linear-gradient(145deg, rgba(212, 175, 55, 0.12) 0%, rgba(138, 43, 226, 0.08) 50%, rgba(0, 212, 255, 0.04) 100%);
+            border: 3px solid rgba(212, 175, 55, 0.6);
+            border-radius: 24px;
+            padding: 2.5rem 2rem;
+            text-align: center;
+            box-shadow: 0 0 80px rgba(212, 175, 55, 0.15);
+        }
+        .card .badge {
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 0.3em;
+            color: rgba(212, 175, 55, 0.95);
+            margin-bottom: 1.25rem;
+            font-weight: 700;
+        }
+        .card h1 {
+            font-size: 1.35rem;
+            font-weight: 800;
+            color: #ffeaa7;
+            margin-bottom: 1.5rem;
+            line-height: 1.4;
+        }
+        .card .pre { font-size: 0.95rem; color: #b0b8c0; margin-bottom: 1rem; line-height: 1.6; }
+        .card .post { font-size: 0.95rem; color: #7fff7f; margin-bottom: 1rem; line-height: 1.6; }
+        .card .snap { font-size: 1.1rem; font-weight: 800; color: #d4af37; margin: 1.25rem 0; letter-spacing: 0.05em; }
+        .card .tagline { font-size: 0.9rem; color: #888; margin-top: 1.5rem; font-style: italic; }
+        .swipe-row {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            margin-top: 2rem;
+            flex-wrap: wrap;
+        }
+        .swipe-btn {
+            flex: 1;
+            min-width: 120px;
+            max-width: 160px;
+            padding: 1.25rem 1.5rem;
+            border-radius: 16px;
+            font-size: 1.1rem;
+            font-weight: 800;
+            text-decoration: none;
+            text-align: center;
+            transition: transform 0.2s, box-shadow 0.2s;
+            border: none;
+            cursor: pointer;
+        }
+        .swipe-btn.pass {
+            background: linear-gradient(135deg, #c0392b, #8e2c1f);
+            color: #fff;
+        }
+        .swipe-btn.pass:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(192, 57, 43, 0.5); }
+        .swipe-btn.go {
+            background: linear-gradient(135deg, #27ae60, #1e8449);
+            color: #fff;
+        }
+        .swipe-btn.go:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(39, 174, 96, 0.5); }
+        .social-cta {
+            margin-top: 2rem;
+            font-size: 1.25rem;
+            font-weight: 800;
+            color: #d4af37;
+        }
+        .links { margin-top: 1.5rem; font-size: 0.85rem; }
+        .links a { color: #00d4ff; text-decoration: none; }
+        .links a:hover { text-decoration: underline; }
+        @keyframes shake { 0%,100%{transform:translateX(0)} 25%{transform:translateX(-8px)} 75%{transform:translateX(8px)} }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <p class="badge">Post-Singularity Executive Campaign · SING! Family</p>
+        <h1>Swipe left or right.</h1>
+        <p class="pre">Pre-singularity: Executives — and all those with that executive inside — build, organize, plan, execute, re-organize, redeploy, restructure, point, reconfigure.</p>
+        <p class="post">Post-singularity: We transform. Metabolize. Crystallize. Animate. Squeeze. Boom boom dance anthem booty shaking hit. To irreducible shell. Nested shells. Hardened and mirrored nested shells. Pop. Wow. Bam. Snap. Monster mega snap.</p>
+        <p class="snap">No further explanation required.</p>
+        <p class="tagline">You either get it or you don't. You're either an executive or not. The rest takes care of itself.</p>
+        <div class="swipe-row">
+            <a href="#" class="swipe-btn pass" id="btnPass" onclick="return handlePass(event)">← PASS</a>
+            <a href="launch-pad.html" class="swipe-btn go">GO →</a>
+        </div>
+        <p class="social-cta">Swipe left or right. Bitch.</p>
+        <p class="links"><a href="launch-pad.html">Launch Pad</a> · <a href="office-hours.html">Office Hours</a> · <a href="we-get-it-bad-bunny-golden-bunnies.html">Bad Bunnies Vibelandia</a> · <a href="../index.html">Home</a></p>
+    </div>
+    <script>
+        function handlePass(e) {
+            if (e && e.preventDefault) e.preventDefault();
+            document.body.style.animation = 'shake 0.5s ease';
+            setTimeout(function() { document.body.style.animation = ''; }, 500);
+            return false;
+        }
+        var startX, startY;
+        document.addEventListener('touchstart', function(e) {
+            startX = e.touches[0].clientX;
+            startY = e.touches[0].clientY;
+        });
+        document.addEventListener('touchend', function(e) {
+            var endX = e.changedTouches[0].clientX;
+            var dx = endX - startX;
+            if (Math.abs(dx) > 80) {
+                if (dx > 0) window.location.href = 'launch-pad.html';
+                else handlePass({ preventDefault: function() {} });
+            }
+        });
+    </script>
+</body>
+</html>

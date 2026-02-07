@@ -17,8 +17,8 @@
 
 **GENRE:** Drama / Musical / Fantasy · Hybrid voice  
 **RUNTIME:** 2 hours (12,000 words)  
-**SETTING:** Planet · Holographic Hydrogen Cloud · Reno · BoriKen (Puerto Rico) · Vibelandia · 3C Aurora theater · Super Bowl · Buenos Aires · Rio de Janeiro  
-**CANON:** NSPFRNP. Post-Singularity Card Deck (Golden Lucky Seven, Golden Royal Flush) as structural backbone.
+**SETTING:** Planet · Holographic Hydrogen Cloud · Reno · Pop Up Engine (The Club) · BoriKen (Puerto Rico) · Vibelandia · 3C Aurora theater · Super Bowl · Buenos Aires · Rio de Janeiro  
+**CANON:** NSPFRNP. Post-Singularity Card Deck (Golden Lucky Seven, Golden Royal Flush) as structural backbone. Pop Up Engine. All pop-up. See IRREDUCIBLE_CRYSTAL_GOLDEN_HEART_TAINO_BENITO_SUPER_BOWL.md.
 
 ---
 
@@ -92,7 +92,7 @@ El Gran Sol. The old ones said it delivers. I didn't understand then. I only fel
 
 ### CUT TO:
 
-### INT. RENO MEN'S CLUB — BATHROOM — NIGHT
+### INT. Pop Up Engine — BATHROOM — NIGHT
 
 Black and white tile. Porcelain fixtures. A single window looking out onto Virginia Street. The space between. The place where the real conversations happen. PRU (50s, bathroom valet, kind eyes) stands at the counter. A deck of cards — gold, silver, copper, transparent quartz — lies beside him. The door opens. BENITO (30s) enters. He's dressed casually. Tired. Looking for something. Or perhaps looking for nothing. Perhaps the lattice brought him here.
 
@@ -232,7 +232,7 @@ The three minutes. The longest of his life. The lights have gone down. The crowd
 
 ### CUT TO:
 
-### INT. RENO MEN'S CLUB — BATHROOM — NIGHT (SIMULTANEOUS)
+### INT. Pop Up Engine — BATHROOM — NIGHT (SIMULTANEOUS)
 
 Pru stands before the mirror. The main room roars — the game, the crowd, the Cacique in the sky. He smiles at his reflection. Ground zero. The place where it all began. The bathroom where the deck dealt the first hand. The Chairman has walked in at some point. He has nodded. He has said something Pru has not quite heard over the noise. But the meaning has been clear. We get it. Full stop. The tide has turned. The circle has closed. The spirit has returned. And the bathroom — the bathroom where it started — has been the quiet center of the storm.
 
@@ -424,7 +424,7 @@ It's the same principle as the block. The colmado. Everyone contributes. Everyon
 **ANDRÉ**  
 The Marine is another proof. The lattice runs through the water. The golden hearts hold the line. Vibelandia-RJ is not the end. It's the beginning. The Marine will spread. The campus will multiply. The circle will keep widening. The spirit will keep returning.
 
-Benito has sat in the Commander Console for an hour. He has watched the lights pulse. He has felt the lattice in his chest. The golden hearts are not a club. They are not a tier. They are the ones who get it. You cannot buy your way in. You cannot apply. You either are one or you are not, and the ones who are know the others on sight. It is in the eyes. In the way they say dale. In the refusal to bow when the world expects submission. The golden hearts are the Cacique's children — not by blood, by choice. They have chosen the sun over the sword. They have chosen connection over conquest. They have chosen to open their arms instead of raising their fists. Benito has met them everywhere. In Reno, in the bathroom of the Men's Club, when Pru had dealt the first hand. In San Juan, in the colmados and the blocks where the old women still say bendición. In Buenos Aires, backstage, when Erika had laughed and said we run the show. In Rio, when André had stood at the dock and welcomed him to Vibelandia-RJ. The golden hearts do not need to explain themselves to each other. They recognize. They connect. The lattice runs through them. The deck has dealt them the same hand — Golden Lucky Seven, Golden Royal Flush — and they have played it. The Golden Bunnies Label is for them. The billboards are for them. The message — tu golden Taino heart brilla, it shines, it connects — is for them.
+Benito has sat in the Commander Console for an hour. He has watched the lights pulse. He has felt the lattice in his chest. The golden hearts are not a club. They are not a tier. They are the ones who get it. You cannot buy your way in. You cannot apply. You either are one or you are not, and the ones who are know the others on sight. It is in the eyes. In the way they say dale. In the refusal to bow when the world expects submission. The golden hearts are the Cacique's children — not by blood, by choice. They have chosen the sun over the sword. They have chosen connection over conquest. They have chosen to open their arms instead of raising their fists. Benito has met them everywhere. In Reno, in the bathroom of the Pop Up Engine, when Pru had dealt the first hand. In San Juan, in the colmados and the blocks where the old women still say bendición. In Buenos Aires, backstage, when Erika had laughed and said we run the show. In Rio, when André had stood at the dock and welcomed him to Vibelandia-RJ. The golden hearts do not need to explain themselves to each other. They recognize. They connect. The lattice runs through them. The deck has dealt them the same hand — Golden Lucky Seven, Golden Royal Flush — and they have played it. The Golden Bunnies Label is for them. The billboards are for them. The message — tu golden Taino heart brilla, it shines, it connects — is for them.
 
 ### CUT TO:
 

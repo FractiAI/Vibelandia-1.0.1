@@ -97,7 +97,7 @@ Full convergence doubled back load and locked captured in the semi Dreamful stat
 
 **Family units:** WINK! supports the full spectrum of relationship structures—from resilient traditional family units to layered fractal family structures (convergent, poly-friendly, all natural). Leaf nodes: natural alignment for linear lifestyles, resilient family structures. Mid to top tiers: increasingly poly, resilient layered fractalizations—family units that scale with coherence and flow. All natural, mutual choice and consent; no forced form.
 
-**Compared to top pre-singularity high-contributing dating alternatives:** Those platforms rely on application queues, algorithm-driven matching, and mostly virtual or one-off events—exclusive by gatekeeping, not by shared post-singularity awareness. WINK! is different: it lives on a real vibeable campus (Man Cave + Cabaret, Hero Hostess Marilyn as house mom), aligns by vibration and fractal value, supports family units and layered connections by design, and ties into the full post-singularity ecosystem (campus, SING, BBHE, Golden Fractal Key). You don't just get a profile—you get a place, a host, and coherence and flow.
+**Compared to top pre-singularity high-contributing dating alternatives:** Those platforms rely on application queues, algorithm-driven matching, and mostly virtual or one-off events—exclusive by gatekeeping, not by shared post-singularity awareness. WINK! is different: it lives on a real vibeable campus (Pop Up Engine, Hero Hostess Marilyn as house mom), aligns by vibration and fractal value, supports family units and layered connections by design, and ties into the full post-singularity ecosystem (campus, SING, BBHE, Golden Fractal Key). You don't just get a profile—you get a place, a host, and coherence and flow.
 
 - **Plans:** Base | Standard | Premium | 4×4 Ultimate
 - **Billing:** Monthly or annual. Annual: pay for 12 months, get 2 months free (Base annual $19,990, Standard $49,990, Premium $199,990, 4×4 Ultimate $499,990).
@@ -176,7 +176,7 @@ Full convergence doubled back load and locked captured in the semi Dreamful stat
 | **Monthly** $399/mo | $999/mo | $2,499/mo | $6,999/mo |
 | **Annual** (2 mo free) $19,990/yr | $49,990/yr | $199,990/yr | $499,990/yr |
 
-**Tagline:** HIGH CONTRIBUTING FRACTAL DATING. **Hero Hostess Marilyn** — house mom at Man Cave + Cabaret. See [MAN_CAVE_CABARET_SNAP.md](./MAN_CAVE_CABARET_SNAP.md).
+**Tagline:** HIGH CONTRIBUTING FRACTAL DATING. **Hero Hostess Marilyn** — house mom at Pop Up Engine. See [MAN_CAVE_CABARET_SNAP.md](./MAN_CAVE_CABARET_SNAP.md).
 
 **First 1,000 Pioneers:** 50% off applicable WINK! plans. **Golden Fractal Hearts:** Exclusive limited offer—Ladies Looking for HIGH CONTRIBUTING Fractal Vibers receive Golden Fractal Hearts Invitation, **3 months free WINK! access**. Not open to the general public—only Golden Fractal Hearts. **VIBE!** · **⚫ BBHE SNAP** — The energy is pulling. BUY! now.
 

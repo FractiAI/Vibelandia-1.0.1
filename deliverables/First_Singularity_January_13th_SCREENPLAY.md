@@ -6,7 +6,7 @@
 **Aligned to the Irreducible Crystal:** [IRREDUCIBLE_CRYSTAL_FIRST_SINGULARITY_JANUARY_13TH.md](IRREDUCIBLE_CRYSTAL_FIRST_SINGULARITY_JANUARY_13TH.md) — Metabolize → Crystallize → Animate. **All sequences** of this screenplay align to the crystal and are written in the fused voice (Dumas, Dickens, Twain, Steinbeck — Hero John — and the author). One-liner: On January 13th, while on daily Expeditions in the new holographic hydrogen Theater — or cloud and shell — he wrote; he experiences an unexpected full singularity event, transforming his GitHub repository into the world's first Black Hole Holographic Engine and unleashing the miraculous events now captured in this book. Over. All since January 13th.
 
 **Voice:** Fused — Dumas (*Count of Monte Cristo* minus revenge), Dickens (character, social weave, warmth), Twain (wit, plain speech, American grain), Steinbeck (earth, road, people of the land — Hero John, permanent residency), and me (Evan Bondonte: present tense, hinge, Vibelandia). Only happy endings. All sequences align to the irreducible crystal and to this fused voice.  
-**Place:** Twain's Vibelandia Downtown Reno. The Reno Men's Club. Vibelandia canon includes Hero Jo Golden Backdoor Studio (Hero Rick, text-to-studio-song, 98% mastery, CONNECT!), WINK! (The Condom Episode), Dat Ass Red Hot like AR4366!.  
+**Place:** Twain's Vibelandia Downtown Reno. The Pop Up Engine. Vibelandia canon includes Hero Jo Golden Backdoor Studio (Hero Rick, text-to-studio-song, 98% mastery, CONNECT!), WINK! (The Condom Episode), Dat Ass Red Hot like AR4366!.  
 **Canon — include all:** FULL NSPFRNP · ALL · ALL. Vibeship EGS Paradise Captain broadcast (full domain magnetism; Natural Systems Fractal Recursive Nested Protocol; awareness upgrade). Content Catalog (appraisals, valuation). Live Pulse · Schumann Display Pipe (ticker once HELLO successful). TOP LINE DISNEY GOT NO VIBE! DISNEY LOST ITS VIBE! Office Hours · Launch Pad · Space Cloud · Legacies · Broadcast Pipe · EGS Pipe · all divisions and products.  
 **Running time:** ~120 minutes (~120 pages)  
 **Word count (this draft):** ~24,000 words (full feature script — expand to 24k; animate all from crystal)
@@ -91,7 +91,7 @@ I will not punish. I will not settle scores. I will return. I will celebrate.
 
 ---
 
-### 8. INT. RENO MEN'S CLUB - FOYER - NIGHT
+### 8. INT. POP UP ENGINE - FOYER - NIGHT
 
 *He goes in. He does not know the protocol. He does not know if he will be welcomed or turned away. He only knows that he has to see. The foyer is as he had imagined: dark wood, brass, the smell of leather and cigar and something else — something like belonging. A man in a jacket that has seen better decades nods to him and does not ask his name. He passes through. He finds the restaurant, and beyond it the sound of music from the cabaret; and in the back, past the laughter and the clink of glasses, a corridor that leads to a room that is more than a room. A bathroom. The valet's domain. The threshold. He does not enter it yet. He only stands in the corridor and feels the hum of the place — the party that is always beginning, the celebration that is always almost there. People pass him. No one questions his right to be there. He is, in that moment, both stranger and guest.*
 
@@ -132,7 +132,7 @@ Let the party now shift to Ultimate Baller V mode for all who wish it — and ta
 
 ---
 
-### 12. INT. RENO MEN'S CLUB - BAR - NIGHT
+### 12. INT. POP UP ENGINE - BAR - NIGHT
 
 *He sits at the bar. Watches. Doesn't rush. A man nearby — 50s, face that has seen disappointment but doesn't wear it — catches his eye. Nods. The BARTENDER pours two whiskys. Doesn't ask.*
 
@@ -145,7 +145,7 @@ I used to think the calendar was fixed. That we were all marching toward the sam
 
 ---
 
-### 13. INT. RENO MEN'S CLUB - CORRIDOR / BATHROOM - NIGHT
+### 13. INT. POP UP ENGINE - CORRIDOR / BATHROOM - NIGHT
 
 *He has learned the club. He has learned its rhythms. He has learned that the bathroom — the valet's domain, the room at the back — is where the real work is done: not the work of the body but the work of the threshold. People come there not only to wash their hands but to pause. To breathe. To decide whether they are ready to go back into the party or to step out into the night. He has seen it himself: the man who stood at the mirror for a long moment, gathering himself; the woman who had stepped in to let her eyes adjust to the light before returning to the table. The bathroom is not an afterthought. It is a hinge — the place between the party and the world. Our man stands in the corridor. The VALET — 60s, towels, quiet — tends the threshold room. People pass. Pause. Decide. Go in or go back.*
 
@@ -459,7 +459,7 @@ When the night comes, I'll know.
 
 ---
 
-### 19E. INT. RENO MEN'S CLUB - BAR - NIGHT
+### 19E. INT. POP UP ENGINE - BAR - NIGHT
 
 *Cabaret loud. Corridor thick with laughter. Our man sees a WOMAN AT THE BAR who has been crying. Not loudly — quietly, as if she has trained herself to cry without sound. He does not approach her. He does not offer advice. He only stands at a distance and watches. When she catches his eye he nods. Not a nod of pity. A nod of recognition. As if to say: I see you. I've been in the threshold too. She holds his gaze for a moment. Then she nods back. He does not speak. She does not speak. The exchange is complete. She has seen in his nod that the party is not closed to her. That the door is still open. That all who wish it includes her. She is one of the seeds.*
 
@@ -608,7 +608,7 @@ I'll find it.
 
 ---
 
-### 19K. INT. RENO MEN'S CLUB - NIGHT (NEARLY EMPTY)
+### 19K. INT. POP UP ENGINE - NIGHT (NEARLY EMPTY)
 
 *One night he goes to the club and finds it almost empty. A handful of regulars. No music. No crowd. He stands in the corridor outside the bathroom. Feels the silence. It is not the silence of failure. It is the silence of pause — the party gathering its breath before the next swell. The valet is there. He nods to our man.*
 
@@ -624,7 +624,7 @@ Some nights the room is full. Some nights the room is ready. Tonight it was read
 
 ---
 
-### 19L. INT. RENO MEN'S CLUB - NIGHT (WINTER)
+### 19L. INT. POP UP ENGINE - NIGHT (WINTER)
 
 *Winter. He has not left Reno. The short days in his room, reading, walking the city when the cold allows. The long evenings at the club — not every night, but often enough that the bartender knows his drink and the valet knows his face. He does not speak of the proclamation to strangers. He does not announce the night of his return. He only waits. On one of those winter evenings he is at the club when the snow begins to fall again — soft, steady. Someone at the window speaks.*
 
@@ -641,7 +641,7 @@ It's almost time.
 
 ---
 
-### 19N. INT. RENO MEN'S CLUB - NIGHT (SNOW)
+### 19N. INT. POP UP ENGINE - NIGHT (SNOW)
 
 *He has been sitting in a booth near the back, watching the crowd. Someone at the window speaks.*
 
@@ -652,7 +652,7 @@ It's snowing.
 
 ---
 
-### 19O. INT. RENO MEN'S CLUB - BATHROOM - NIGHT
+### 19O. INT. POP UP ENGINE - BATHROOM - NIGHT
 
 *The bathroom is empty. The club is full. Our man has come to the threshold — not to enter, not yet; only to stand and feel the hum. The valet speaks more than usual.*
 
@@ -674,13 +674,13 @@ Don't thank me. Thank the party. It's been waiting for you.
 
 ---
 
-### 19P. INT. RENO MEN'S CLUB - NIGHT
+### 19P. INT. POP UP ENGINE - NIGHT
 
 *She has come back. The woman who had been crying at the bar — the one who had caught his eye and nodded — has come back on a night when the cabaret is loud and the corridor is thick with laughter. This time she is not crying. She is laughing. She is with friends. She does not approach our man. She does not need to. She only catches his eye again — across the room, through the crowd — and she nods. Not a nod of thanks. A nod of recognition. As if to say: I'm back. I stepped through the threshold. I'm one of the party now. He nods back. He does not need to speak. She is one of the seeds. She has chosen to step back in. The party has shifted for her — not because he has said the words yet, but because she has felt the hinge. All who wish it included her. She has wished it. She has come back.*
 
 ---
 
-### 19Q. INT. RENO MEN'S CLUB - CABARET - NIGHT
+### 19Q. INT. POP UP ENGINE - CABARET - NIGHT
 
 *Not long before the night he has chosen for his return. The MUSICIAN is there. Our man has not seen him since the café in the northern city. The musician has not announced himself. He has simply appeared at the club, taken a seat near the back, ordered a drink. When our man has seen him across the room he has not approached. He has only nodded. The musician has nodded back. Later that night — when the cabaret has gone quiet and the crowd has thinned — someone has asked the musician to play. The club has a piano in the corner. The musician has stood, has walked to the piano, and has played one piece. He has not said what it was. He has not spoken at all. He has only played — and the room has gone still. Not the stillness of boredom. The stillness of listening. When he has finished he has stood, has nodded to the room, and has returned to his seat. Our man has not gone to him. He has only caught his eye again — across the room, through the silence — and has nodded. The musician has nodded back. No words. They have known. The musician has come. He has played. He will be there when the door opens. The room is gathering. The party is gathering. The night will have a way of gathering its witnesses.*
 
@@ -709,7 +709,7 @@ I did not bring a sword. I brought a key.
 
 ---
 
-### 20. INT. RENO MEN'S CLUB - BAR - NIGHT (AUTUMN)
+### 20. INT. POP UP ENGINE - BAR - NIGHT (AUTUMN)
 
 *He has returned to Reno in the autumn. The club is as he had left it: dark wood, brass, the smell of leather and cigar and belonging. He has gone back not as a stranger but as a guest who has been away. The man at the door has nodded. The bartender remembers his drink. And in the corridor that leads to the bathroom — the threshold room — he has stood again and felt the hum of the place. The party that is always beginning. The celebration that is always almost there. He has begun to spend evenings at the club. Not every night, but often. He does not announce himself. He does not seek the centre. He simply appears, as a guest might, and watches and listens. He has seen the way people move between the restaurant and the cabaret and the corridor that leads to the back. He has seen the way they pause at the threshold — the moment of decision before stepping in or stepping back. Some step in. Some step back. Some stand for a long moment, gathering themselves, before they choose. He has learned the rhythms of a full night: the early quiet, when the club is still filling and the bartender has time to talk; the swell of laughter, when the cabaret is loud and the corridor is thick with the sound of glasses and voices; the late-hour intimacy, when the crowd has thinned and the ones who remain are the ones who have something to say. He has not rushed. He has only watched and learned. The club has taught him that the party has a rhythm — that it breathes in and out — and that the threshold is the place where a man can step in at any beat. He has only to choose his beat. The club is his teacher. The party is his curriculum. The threshold is his exam.*
 
@@ -748,7 +748,7 @@ Don't thank me. Thank the party. It's been waiting for you.
 
 ---
 
-### 21. INT. RENO MEN'S CLUB - BATHROOM - NIGHT
+### 21. INT. POP UP ENGINE - BATHROOM - NIGHT
 
 *Empty. Just our man and the valet. Our man stands at the mirror. Mouths the words — no sound. The valet folds towels. Doesn't look up. When our man turns to leave:*
 
@@ -826,7 +826,7 @@ When the night comes, I'll be there. I don't know the club. I'll find it.
 
 ---
 
-### 25. INT. RENO MEN'S CLUB - BOOTH - NIGHT (LATE)
+### 25. INT. POP UP ENGINE - BOOTH - NIGHT (LATE)
 
 *Back in Reno, on a night when the club has closed to the public and only a few of them remain — the man from the first evening, the woman from the bookstore who has driven in from the desert town, two others they have met along the way — they sit in a booth and talk until the sky turns grey in the windows. They do not speak of strategy. They do not speak of triumph. They speak of the hinge. Of the moment when each of them had felt the calendar turn.*
 
@@ -866,7 +866,7 @@ That's all I ask. That's everything.
 
 ---
 
-### 26. INT. RENO MEN'S CLUB - BATHROOM - NIGHT (NIGHT BEFORE)
+### 26. INT. POP UP ENGINE - BATHROOM - NIGHT (NIGHT BEFORE)
 
 *Empty. Our man before the mirror. He doesn't speak aloud. The words are in him. Have been since January the thirteenth. He looks at his reflection. Doesn't see a hero. Doesn't see a count. Sees a guest. A man who left and is about to come back. Not with a sword. With a key. The valet folds a towel. Says nothing.*
 
@@ -886,7 +886,7 @@ The room will be ready.
 
 ---
 
-### 28. INT. RENO MEN'S CLUB - FOYER - NIGHT
+### 28. INT. POP UP ENGINE - FOYER - NIGHT
 
 *Warm. The man in the jacket nods. He passes through. Restaurant. Cabaret. Corridor. And at the end: the threshold. Bathroom behind him. Party before him. The next step will be the last step of the old story and the first step of the new one.*
 
@@ -898,7 +898,7 @@ The room will be ready.
 
 ---
 
-### 29. INT. RENO MEN'S CLUB - CORRIDOR / PARTY - NIGHT
+### 29. INT. POP UP ENGINE - CORRIDOR / PARTY - NIGHT
 
 *The night of the return was not chosen at random. It was a night when the club is full — the restaurant humming, the cabaret alight, the corridors thick with the sound of glasses and laughter. He had waited for such a night. He had wanted witnesses. Not to his triumph — he has no triumph to display — but to his reentry. He had wanted the room to see that it is possible to leave and to come back, not as a ghost and not as a judge, but as a guest. A guest who has one thing to say. He has stepped through the door. For a moment, no one notices. Then one head turns. Then another. Then a ripple — a murmur — and then a sound that is not quite a word. It is the sound of breath catching. Oooo. Ahhhhh. It spreads. The room, or the part of it that can see him, begins to turn. The conversations dip. The laughter softens. And then, as if someone has turned a dial, the whole room falls into a sudden hush. Not a fearful hush. A recognition hush. The kind of silence that comes when something that was only rumoured becomes real. He is there. He has come back. And he is standing in the threshold between the party and the world, with his hands at his sides and his eyes on the crowd. He does not raise his voice. He does not need to. In the silence, every syllable will carry. He has practised this. He has dreamed it. And now he speaks — in the tone of a man who has seen the far side of the calendar and has chosen to return with a gift. The tone that has been called, in other stories, the tone of the Most Interesting Man in the Room. Not because he claimed it. Because the room granted it.*
 
@@ -909,7 +909,7 @@ Let the party now shift to Ultimate Baller V mode for all who wish it — and ta
 
 ---
 
-### 30. INT. RENO MEN'S CLUB - SAME - CONTINUOUS
+### 30. INT. POP UP ENGINE - SAME - CONTINUOUS
 
 *He does not move from the threshold at first. He lets them come. The man from the first evening — the one who had said the calendar turns when we are ready, we are standing at a hinge. The woman from the bookstore — the one who had given him the copy of Monte Cristo and had said read it again, imagine Edmond with a key. The musician — the one who had said I play for the moment when someone hears the hinge, I want to be there to witness. The man who had lost everything — the one who had said I count what I can give, the only list that doesn't poison me. The woman at the bar who had cried and had come back laughing — the one who had caught his eye and nodded, and had seen that the party was not closed to her. The baker's boy — fourteen, perhaps fifteen, the one who had said I wish it. The woman who sold flowers — the one who had said the ones who buy for celebration, they come back. The watchmaker — the old man from the niche who had said when you're ready the room will be ready, the party has been waiting, when the night comes I'll know. The tailor — the man his father's age who had said when the night comes I'll be at the club, I've been waiting for a night like that. The woman who had held the door in the rain — the one who had said the best doors are the ones someone holds open for you, I wish it. The judge from the train — the one who had said I used to hand down sentences of another kind, there's a difference between a verdict and a gift, when you step through that door the room will be ready. They do not crush him. They do not demand a speech. They only come, one by one and in small groups, and they nod, or they clasp his hand, or they raise their glasses — and in each face he sees the same thing: not triumph, not conquest, but recognition. The door has opened. The party has shifted. They had wished it. They had been there. That is enough. That is everything. The valet has stood in the corridor, towels folded, and has not smiled — he is not a man who smiles easily — but he has nodded, once, and our man has known that the nod is the highest honour the valet can give. The bartender has rung a glass with a spoon, not for silence — the room is already settling — but for a toast.*
 
@@ -925,13 +925,13 @@ To the party. To all who wish it.
 
 ---
 
-### 31. INT. RENO MEN'S CLUB - BATHROOM / OFFICE HOURS - DAY (LATER)
+### 31. INT. POP UP ENGINE - BATHROOM / OFFICE HOURS - DAY (LATER)
 
 *He is a regular now. Not a king. A guest. He holds Office Hours in the threshold room. People come to talk. To pause. To decide. Some thank him. Some say nothing — only stand where he stood and feel the hum. He doesn't refuse them. He doesn't exalt himself. He nods. Steps aside. Lets the room be what it is: a door. A threshold. A place where the party can shift again and again, for everyone who wishes it.*
 
 ---
 
-### 32. INT. RENO MEN'S CLUB - CABARET / THRESHOLD - NIGHT (MONTAGE / AFTER)
+### 32. INT. POP UP ENGINE - CABARET / THRESHOLD - NIGHT (MONTAGE / AFTER)
 
 *Word has gone out on the other side. Twain has opened a new portal — a pre–post singularity door — in Downtown Reno, and he has called it Vibelandia. And so the Gold Rush floodgates have begun. The rush is on; the door is open; the party has shifted and the vibe is spreading — not in a single headline but in a thousand small signals, the kind that waking dreamers cannot see yet but can now smell, where until recently they had not. Something has changed in the air. Not the calendar. Not the sky. The air — the one that lives behind the eyes and between the heartbeats. Meanwhile we have entered Sandbox 3I/ATLAS tailings: the mirror in the deep, the anti-tail that carries the signal back, the irreducible nested crystal at the edge of the cloud. The party is no longer only in the room. It is in the pipe. It is in the tailings. It is there. One by one, the great ones begin to arrive and take up permanent residency. JIMMY BUFFETT has arrived while the world was offline — no fanfare, no announcement; he has simply come home to Vibelandia Reno and taken his place among the Baller V's. Hero John Steinbeck has just arrived — honored by his permanent residency; his voice is now in the fusion. So many wonderful surprises. The top Baller V's — cast, crew, fans, and franchises — are returning as their larger whole: their superhero selves, no longer scattered, no longer waiting for permission. They have found the door. They have stepped through. And in that corner of paradise by the river and the neon and the old silver, they have become one beautiful unit. Not a society. Not a club. A vibe — the party that had always been beginning, now visibly, permanently, there.*
 
@@ -963,7 +963,7 @@ So excited to welcome you to Twain's Vibelandia Downtown Reno! So honored to acc
 
 ---
 
-### 33. INT. RENO MEN'S CLUB - WIDE - NIGHT
+### 33. INT. POP UP ENGINE - WIDE - NIGHT
 
 *The party. The celebration. There is no revenge. There is no Javert at the end of the river — only the party on the far shore. There is only the return. Only the mercy that had been waiting. Only the celebration. Only Vibelandia. Only the happiest ending — not because the story had stopped, but because it had finally learned to begin: to begin again, and again, at Twain's Vibelandia Downtown Reno and at every campus to come.*
 
@@ -974,7 +974,7 @@ What fun!
 
 ---
 
-### 34. INT. RENO MEN'S CLUB - BATHROOM / OFFICE HOURS - DAY (LATER)
+### 34. INT. POP UP ENGINE - BATHROOM / OFFICE HOURS - DAY (LATER)
 
 *In the days that followed he has walked the city again — the street that smells of snow and coffee, the river, the bench where he had sat on January the thirteenth. He has gone to the café. The woman behind the counter has nodded and refilled his cup and has not asked his name. He has gone to the watchmaker's niche. The old man has looked up from a movement he was cleaning and has said: The hands moved. I knew they would. He has gone to the club every evening, not as a king but as a guest. He has held Office Hours in the bathroom, the threshold room, where people can come to talk, to pause, to decide. Some come to thank him. Some come to ask nothing — only to stand where he had stood and feel the hum. He does not refuse them. He does not exalt himself. He only nods, and steps aside, and lets the room be what it is: a door. A threshold. A place where the party can shift again and again, for everyone who wishes it.*
 

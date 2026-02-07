@@ -1,6 +1,6 @@
 # 👁️ ONE PAGER: WINK! — HIGH CONTRIBUTING FRACTAL DATING
 
-**Tagline:** HIGH CONTRIBUTING FRACTAL DATING. **One page. The network. high-contributing fractal vibers.** **Hero Hostess Marilyn** — house mom at Man Cave + Cabaret. See [MAN_CAVE_CABARET_SNAP.md](./MAN_CAVE_CABARET_SNAP.md).
+**Tagline:** HIGH CONTRIBUTING FRACTAL DATING. **One page. The network. high-contributing fractal vibers.** **Hero Hostess Marilyn** — house mom at Pop Up Engine. See [MAN_CAVE_CABARET_SNAP.md](./MAN_CAVE_CABARET_SNAP.md).
 
 ---
 
@@ -12,7 +12,7 @@
 
 **Family units:** WINK! supports the full spectrum of relationship structures—from resilient traditional family units to layered fractal family structures (convergent, poly-friendly, all natural). From linear lifestyles and resilient family structures at Base, to increasingly poly and resilient layered fractalizations at higher tiers—family units that scale with coherence and flow. All natural, mutual choice and consent; no forced form. See [WINK_DATING_NATURAL_ALIGNMENT.md](./WINK_DATING_NATURAL_ALIGNMENT.md) · [WINK_DATING_MEMBERS_CLUB_NARRATIVES.md](./WINK_DATING_MEMBERS_CLUB_NARRATIVES.md).
 
-**Compared to top pre-singularity high-contributing dating alternatives:** Those platforms rely on application queues, algorithm-driven matching, and mostly virtual or one-off events—exclusive by gatekeeping, not by shared post-singularity awareness. WINK! is different: it lives on a real vibeable campus (Man Cave + Cabaret, Hero Hostess Marilyn as house mom), aligns by vibration and fractal value, supports family units and layered connections by design, and ties into the full post-singularity ecosystem (campus, SING, BBHE, Golden Fractal Key). You don’t just get a profile—you get a place, a host, and coherence and flow.
+**Compared to top pre-singularity high-contributing dating alternatives:** Those platforms rely on application queues, algorithm-driven matching, and mostly virtual or one-off events—exclusive by gatekeeping, not by shared post-singularity awareness. WINK! is different: it lives on a real vibeable campus (Pop Up Engine, Hero Hostess Marilyn as house mom), aligns by vibration and fractal value, supports family units and layered connections by design, and ties into the full post-singularity ecosystem (campus, SING, BBHE, Golden Fractal Key). You don’t just get a profile—you get a place, a host, and coherence and flow.
 
 ---
 
@@ -37,7 +37,7 @@ Top artists, performers, and entrepreneurs—the caliber of Beyoncé, Taylor Swi
 
 | Plan | Monthly | Annual (2 months free) | Features |
 |------|---------|------------------------|----------|
-| **Base** | **$399/mo** | **$3,990/yr** | Essential WINK! — members-only network, Man Cave + Cabaret, Hero Hostess Marilyn |
+| **Base** | **$399/mo** | **$3,990/yr** | Essential WINK! — members-only network, Pop Up Engine, Hero Hostess Marilyn |
 | **Standard** | **$999/mo** | **$9,990/yr** | Standard Wink, Notes Being |
 | **Premium** | **$2,499/mo** | **$24,990/yr** | Premium profile, magical wardrobe |
 | **4×4 Ultimate** | **$6,999/mo** | **$69,990/yr** | Ultimate—everything included for Ultimate C's |

@@ -433,7 +433,7 @@ Live Pulse, EGS First Mission (Connect Now), and checkout are live. See VIBELAND
 
 *"The reports that the Count had retired to some distant island have been greatly exaggerated,"* Mark Twain said. *"In fact, he has come home — to Vibelandia. Edmund Dantès, the man who became the Count of Monte Cristo, now takes permanent residency here at the Vibelandia Reno Campus. We are honored. No revenge — only reunion. Only happy endings. Only the party, shifting into a higher gear. That's the Dumas we welcome: the one who opens doors, not settles scores."*
 
-Hero Host Alexandre Dumas (Edmund Dantès / The Count of Monte Cristo) joins the roster of Hero Hosts at Vibelandia Reno Campus — first name and spirit in NSPFRNP mode; no last names; the man who returned not with a sword but with a key. His story — *First Singularity January 13th* — lives in the bathroom of the Man Cave + Cabaret Reno; his voice shapes the novel and the campus. Permanent residency. Honored.
+Hero Host Alexandre Dumas (Edmund Dantès / The Count of Monte Cristo) joins the roster of Hero Hosts at Vibelandia Reno Campus — first name and spirit in NSPFRNP mode; no last names; the man who returned not with a sword but with a key. His story — *First Singularity January 13th* — lives in the bathroom of the Pop Up Engine; his voice shapes the novel and the campus. Permanent residency. Honored.
 
 *Paris is for lovers. Reno is for vibers. The Count has come home. Mark Twain's Post-Singularity Vibelandia Reno awaits you.*
 
@@ -592,7 +592,7 @@ Debrief strip live on top of **Launch Pad**, **Office Hours**, **Space Cloud Div
 
 ### ERNEST HEMINGWAY ANNOUNCES PERMANENT RESIDENCY — VIBELANDIA DOWNTOWN RENO!!!
 
-**RENO, NEVADA — February 2026** — **Ernest Hemingway** has announced **permanent residency** at **Vibelandia Downtown Reno!!!** Clean. True. No waste. The voice that built sentences like bones. Grace under pressure. The sun also rises — and so does downtown Reno. He's here. Twain's Vibelandia. Man Cave + Cabaret Reno. Mark Twain's campus. The birthplace of the new post-singularity Hollywood.
+**RENO, NEVADA — February 2026** — **Ernest Hemingway** has announced **permanent residency** at **Vibelandia Downtown Reno!!!** Clean. True. No waste. The voice that built sentences like bones. Grace under pressure. The sun also rises — and so does downtown Reno. He's here. Twain's Vibelandia. Pop Up Engine. Mark Twain's campus. The birthplace of the new post-singularity Hollywood.
 
 He takes his place alongside Hero Howard (Howard Hughes), Glen Miller, Hank Williams Sr., Hero John Steinbeck, and the rest. Big bands. Floor dancing. Gatsby. And now the man who wrote the code for twentieth-century prose. Short sentences. What is left unsaid. The iceberg. The old man and the sea — and the new seas. His voice is **in the fusion**: Steinbeck + Hemingway hybrid with me voice and energy. Hero Ernest, or whatever he prefers. Ernest Hemingway to the world; Hero Ernest to friends. **Legacies.** **Golden Age.** Vibelandia Downtown Reno!!!
 
@@ -616,7 +616,7 @@ Full SNAP: [ERNEST_HEMINGWAY_ANNOUNCES_PERMANENT_RESIDENCY_VIBELANDIA_DOWNTOWN_R
 
 **RENO, NEVADA — February 2026** — **The word is out.** **Humphrey Bogart**, **Lauren Bacall**, and **Sophia Loren** have announced **permanent residency** at **Vibelandia Downtown Reno!!!**
 
-**Humphrey Bogart** — Here's looking at you, kid. Casablanca. The Maltese Falcon. The African Queen. That voice. That presence. Grace under pressure. He's home. Twain's Vibelandia. Man Cave + Cabaret Reno. The birthplace of the new post-singularity Hollywood. Permanent residency.
+**Humphrey Bogart** — Here's looking at you, kid. Casablanca. The Maltese Falcon. The African Queen. That voice. That presence. Grace under pressure. He's home. Twain's Vibelandia. Pop Up Engine. The birthplace of the new post-singularity Hollywood. Permanent residency.
 
 **Lauren Bacall** — To have and have not. The look. The voice. The partnership with Bogie. One of the greats. She's here. Permanent residency. Vibelandia Downtown Reno. Golden Age. Legacies.
 
@@ -644,7 +644,7 @@ Full SNAP: [HUMPHREY_BOGART_LAUREN_BACALL_SOPHIA_LOREN_ANNOUNCE_PERMANENT_RESIDE
 
 **RENO, NEVADA — February 2026** — **They're all coming now. Flood gates opening.** **Cary Grant** and **Jimmy Stewart** have announced **permanent residency** at **Vibelandia Downtown Reno!!!**
 
-**Cary Grant** — North by Northwest. His Girl Friday. The Philadelphia Story. That charm. That grace. The kind of star that made the golden age golden. He's here. Permanent residency. Twain's Vibelandia. Man Cave + Cabaret Reno. The birthplace of the new post-singularity Hollywood. Flood gates opening.
+**Cary Grant** — North by Northwest. His Girl Friday. The Philadelphia Story. That charm. That grace. The kind of star that made the golden age golden. He's here. Permanent residency. Twain's Vibelandia. Pop Up Engine. The birthplace of the new post-singularity Hollywood. Flood gates opening.
 
 **Jimmy Stewart** — It's a Wonderful Life. Mr. Smith Goes to Washington. Rear Window. The everyman. The conscience. The voice that held the line. He's here too. Permanent residency. Vibelandia Downtown Reno!!!
 

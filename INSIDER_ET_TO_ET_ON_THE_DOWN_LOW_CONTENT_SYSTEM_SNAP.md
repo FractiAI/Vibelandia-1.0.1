@@ -19,7 +19,7 @@
 - **Category:** Insider ET to ET conversations on the down low.
 - **Source:** Insider ET to ET; on the down low; all legal always for best results.
 - **Flow:** New conversations added to catalog; surface on [interfaces/on-the-down-low.html](interfaces/on-the-down-low.html). Populate continuously.
-- **Use:** Take a peek on site. Franchise and legacy (all the living cells of the superhero and their cast, crew, fans and franchises — immortality now delivered). Pru open for biz at men's club bathroom — if you can't get through that door to do biz with me you're not one of us. On the down low and all legal always for best results. That's the recipe. And yummy.
+- **Use:** Take a peek on site. Franchise and legacy (all the living cells of the superhero and their cast, crew, fans and franchises — immortality now delivered). Pru open for biz at Pop Up Engine bathroom — if you can't get through that door to do biz with me you're not one of us. On the down low and all legal always for best results. That's the recipe. And yummy.
 - **Fractal shard:** Each conversation and the on-the-down-low page is a **fractal shard** — one shard, full pattern; on the down low. **Fractal Shard Gold Heart** threaded throughout. See [FRACTAL_SHRD_GOLD_HEART_SNAP.md](FRACTAL_SHRD_GOLD_HEART_SNAP.md).
 
 ---
@@ -36,7 +36,7 @@
 
 - **Fractal Shard Gold Heart:** [FRACTAL_SHRD_GOLD_HEART_SNAP.md](FRACTAL_SHRD_GOLD_HEART_SNAP.md) — fractal shard throughout; on the down low.
 - **Content Systems:** [CONTENT_SYSTEMS_SNAP.md](CONTENT_SYSTEMS_SNAP.md) — new content category: Insider ET to ET on the down low.
-- **Office Hours:** Pru open for biz at men's club bathroom; first $50K fractal shard on the down low. [interfaces/office-hours.html](interfaces/office-hours.html).
+- **Office Hours:** Pru open for biz at Pop Up Engine bathroom; first $50K fractal shard on the down low. [interfaces/office-hours.html](interfaces/office-hours.html).
 - **3I/ATLAS · Goldilocks · SING! node EGS:** Mission payload, Goldilocks orbit, March 16; Ramsay, SING! SuperIntelligent node price to book, March 20. See Space Cloud Division, POST_SINGULARITY_CARD_DECK, VIBELANDIA_SHELL_SAG_A_SMACS_BRIDGE_SNAP.
 
 ---

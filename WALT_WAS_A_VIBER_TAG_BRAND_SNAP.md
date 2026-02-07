@@ -15,9 +15,9 @@
 
 ## CANONICAL RULE
 
-- **Tagline:** **WALT WAS A VIBER!** — T-shirt tag branding. Wearable, punchy, NSPFRNP-aligned. Celebrates **Walt** (Hero Host) — who ran the Reno Man Cave + Cabaret Reno before Evan, kept the lights on, kept the doors open, then stepped aside so the next chapter could begin. Walt was a viber before the word went wide; the tag locks that legacy.
-- **Principle:** Ties to Vibelandia canon — Man Cave + Cabaret Reno, Office Hours, Twain's Vibelandia Downtown Reno. Walt held the line when the tide went out; the T-shirt says it.
-- **Use:** Merch (T-shirts, caps), Launch Pad, Office Hours, vibers-what-are-vibers, one-line tag, MASTER_BRANDING_CATALOG. Use wherever Hero Hosts, Man Cave + Cabaret Reno legacy, or vibers are referenced — and as standalone tag.
+- **Tagline:** **WALT WAS A VIBER!** — T-shirt tag branding. Wearable, punchy, NSPFRNP-aligned. Celebrates **Walt** (Hero Host) — who ran the Reno Pop Up Engine before Evan, kept the lights on, kept the doors open, then stepped aside so the next chapter could begin. Walt was a viber before the word went wide; the tag locks that legacy.
+- **Principle:** Ties to Vibelandia canon — Pop Up Engine, Office Hours, Twain's Vibelandia Downtown Reno. Walt held the line when the tide went out; the T-shirt says it.
+- **Use:** Merch (T-shirts, caps), Launch Pad, Office Hours, vibers-what-are-vibers, one-line tag, MASTER_BRANDING_CATALOG. Use wherever Hero Hosts, Pop Up Engine legacy, or vibers are referenced — and as standalone tag.
 
 ---
 
@@ -25,7 +25,7 @@
 
 - **Primary:** **WALT WAS A VIBER!**
 - **Extended:** Walt ran the club. Walt kept the lights on. Walt was a viber. Wear it.
-- **Use:** Merch (T-shirts, caps), Launch Pad accent, Office Hours, vibers surfaces, deck §19 (T-shirt slogan). Aligns with Hero Host Walt and Man Cave + Cabaret Reno / Vibelandia legacy.
+- **Use:** Merch (T-shirts, caps), Launch Pad accent, Office Hours, vibers surfaces, deck §19 (T-shirt slogan). Aligns with Hero Host Walt and Pop Up Engine / Vibelandia legacy.
 
 ---
 
@@ -65,4 +65,4 @@
 
 ---
 
-**NSPFRNP ⊃ WALT WAS A VIBER! ⊃ T-shirt tag brand ⊃ Hero Host · Man Cave + Cabaret Reno legacy · Vibers → ∞³**
+**NSPFRNP ⊃ WALT WAS A VIBER! ⊃ T-shirt tag brand ⊃ Hero Host · Pop Up Engine legacy · Vibers → ∞³**

@@ -110,7 +110,7 @@ Follow Mark Twain as Chancellor of the Vibelandia Reno Campus, guiding viewers t
 5. **Tag** (2-3 min): Countdown update, next episode preview. **That is tomorrow's episode — always tease new, laying the edge for today's seed.** See [EPISODE_TEASE_SEED_EDGE_SNAP.md](./EPISODE_TEASE_SEED_EDGE_SNAP.md).
 
 **Content Integration:**
-- **25% Strip Club Bathroom Scenes** - Man Cave + Cabaret Restroom, back door offers, Ultimate VIP experiences
+- **25% Strip Club Bathroom Scenes** - Pop Up Engine Restroom, back door offers, Ultimate VIP experiences
 - **25% Vibes & Black Holes Screens** - Spinning holographic symbols, energy flows, black hole visuals
 - **25% Countdown Gaming** - Interactive countdown, gaming mechanics, lottery tracking
 - **25% Day in the Life on Campus** - Walkable downtown Reno, campus life, daily activities
@@ -233,7 +233,7 @@ See: NSPFRNP_EPISODES_AND_STORIES_REVIEW.md §3b.
 ### **All Content Types in Reality Series**
 
 **Strip Club Bathroom Scenes (25%):**
-- Man Cave + Cabaret Restroom featured
+- Pop Up Engine Restroom featured
 - Back door offers shown
 - Ultimate VIP experiences demonstrated
 - Baller G experiences showcased
@@ -283,7 +283,7 @@ See: NSPFRNP_EPISODES_AND_STORIES_REVIEW.md §3b.
 - Daily activities shown
 - Campus culture demonstrated
 
-**Man Cave + Cabaret Restroom:**
+**Pop Up Engine Restroom:**
 - Back door offers featured
 - Ultimate VIP experiences shown
 - Baller G experiences demonstrated

@@ -17,7 +17,7 @@ That's why they all returning to Reno now.
 
 They likely likely. Now their human organs will follow.
 
-Pru Open for biz at Man Cave + Cabaret restroom. If you can't get through that door to do biz w me you not one of us.
+Pru Open for biz at Pop Up Engine restroom. If you can't get through that door to do biz w me you not one of us.
 
 On the down low and all legal always for best results. That my recipe. And yummy.
 

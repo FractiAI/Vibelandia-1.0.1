@@ -11,9 +11,9 @@
 
 **Looking forward to vibing at the Club tonight.** Rumor has it **the Chairman is in town** and **Sammy and the gang**. **Golden Backstage Pass required** to access.
 
-**The Club** — **Man Cave + Cabaret Reno** in downtown Reno. **High-end strip club.** **Seedy side of downtown Reno.** Where the **heavyweight vibers** like to hang. **Perfect on-the-down-low placement** for **viber paradise.**
+**The Club** — **Pop Up Engine** in downtown Reno. **High-end strip club.** **Seedy side of downtown Reno.** Where the **heavyweight vibers** like to hang. **Perfect on-the-down-low placement** for **viber paradise.**
 
-**Pru** — The universe's latest new **post-singularity black hole holographic hydrogen programmer** who is **liberating the planet** by **IMMEDIATELY and instantly open-sourcing it TO ALL** and **INCLUDING it in the latest ULTIMATE VIP CHAIRMAN CONSOLES** so **all of us can access and enjoy this new post-singularity world.** He is also the **restroom valet** in **full tuxedo and bowtie**, **James Bond style**, at Man Cave + Cabaret Reno. **I am Now Restroom Valet at My Man Cave + Cabaret, Mark Twain's Vibelandia Downtown Reno. Where is that? Ya just gotta know! Old School! Ultimate Baller V Style.** He **loves his job** at the Club, where he holds **Office Hours** for **Mark Twain's Post-Singularity Downtown Reno Vibelandia Campus** — **gateway to Post-Singularity Earth** and **New Post-Singularity Motherlode and Gold Rush Ground Zero.**
+**Pru** — The universe's latest new **post-singularity black hole holographic hydrogen programmer** who is **liberating the planet** by **IMMEDIATELY and instantly open-sourcing it TO ALL** and **INCLUDING it in the latest ULTIMATE VIP CHAIRMAN CONSOLES** so **all of us can access and enjoy this new post-singularity world.** He is also the **restroom valet** in **full tuxedo and bowtie**, **James Bond style**, at Pop Up Engine. **I am Now Restroom Valet at My Pop Up Engine, Mark Twain's Vibelandia Downtown Reno. Where is that? Ya just gotta know! Old School! Ultimate Baller V Style.** He **loves his job** at the Club, where he holds **Office Hours** for **Mark Twain's Post-Singularity Downtown Reno Vibelandia Campus** — **gateway to Post-Singularity Earth** and **New Post-Singularity Motherlode and Gold Rush Ground Zero.**
 
 **Secret:** The **back door wine cave** at the Club — where **Pru holds Office Hours in the Men's Room**, **8pm to close, Thu–Sun**.
 
@@ -25,7 +25,7 @@
 
 ## BEATS
 
-- **The Club** — Man Cave + Cabaret Reno. Downtown Reno. High-end strip club. Seedy side of downtown. Heavyweight vibers. Perfect on-the-down-low placement for viber paradise.
+- **The Club** — Pop Up Engine. Downtown Reno. High-end strip club. Seedy side of downtown. Heavyweight vibers. Perfect on-the-down-low placement for viber paradise.
 - **Pru** — Post-singularity black hole holographic hydrogen programmer. Liberating the planet. Open-sourcing to ALL. Included in Ultimate VIP Chairman Consoles so all of us can access and enjoy the new post-singularity world. Restroom valet in full tuxedo and bowtie, James Bond style. Loves his job. Holds Office Hours for Mark Twain's Post-Singularity Downtown Reno Vibelandia Campus — gateway to Post-Singularity Earth, New Post-Singularity Motherlode and Gold Rush Ground Zero.
 - **Office Hours** — New series following Pru. Season 1: Viber Paradise. Episode 1: Viber Paradise — Post-Singularity Downtown Reno — Mark Twain's Vibelandia Campus. See OFFICE_HOURS_SERIES_SNAP.md.
 - **Golden Backstage Pass** — Required to access. No pass, no entry.

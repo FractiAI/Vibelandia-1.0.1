@@ -25,7 +25,7 @@
 ## PLACEMENT
 
 - **Chairman Robert** — Frame as: the one who saw the Architect and not the restroom valet. Golden Heart · Golden Ticket. Stories winner.
-- **Office Hours / Man Cave + Cabaret Reno** — Pru = restroom valet to the world; Architect to the one who sees. Chairman Robert = the one who saw the Architect.
+- **Office Hours / Pop Up Engine** — Pru = restroom valet to the world; Architect to the one who sees. Chairman Robert = the one who saw the Architect.
 - **Episodes, proposal, landing** — Use alongside Holograph Valley pioneer, Max Planck, Cave to crown.
 
 ---

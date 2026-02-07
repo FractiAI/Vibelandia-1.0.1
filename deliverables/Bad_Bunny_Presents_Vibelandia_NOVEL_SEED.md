@@ -25,7 +25,7 @@
 3. **Backstage pass in Buenos Aires** with **Squeeze Erika** and her friends — golden heart crew, the squeeze, the crew that runs the show.
 4. **Rio** — a **month with André** rolling out **Marine solutions** and **Vibelandia Rio de Janeiro**. Yes you heard that right. Rio Iate Club. Vibelandia-RJ Campus. Commander Console. Carnival. 50–50. The sea, the yacht, the bridge.
 
-**Voice:** Brothers Grimm — once upon a time, dark woods, the deal at the crossroads, the golden heart that wins. Pru — Chairman Creator, executive command, bat cave, men's club, the one who says we get it. Street reggaeton Spanglish — perreo, flow, dale, qué lo qué, bendición, the street and the island and the planet in one breath.
+**Voice:** Brothers Grimm — once upon a time, dark woods, the deal at the crossroads, the golden heart that wins. Pru — Chairman Creator, executive command, bat cave, Pop Up Engine, the one who says we get it. Street reggaeton Spanglish — perreo, flow, dale, qué lo qué, bendición, the street and the island and the planet in one breath.
 
 ---
 

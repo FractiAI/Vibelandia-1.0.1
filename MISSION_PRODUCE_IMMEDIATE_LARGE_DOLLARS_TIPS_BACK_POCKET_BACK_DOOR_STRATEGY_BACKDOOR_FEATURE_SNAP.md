@@ -22,7 +22,7 @@ This is the **back pocket strategy**. Part of the **back door strategy**. **Capt
 - **As tips and more** — Tips welcome at Office Hours; free consultation; gratuity flows in; plus other immediate revenue (consultation upsell, Golden Backstage, campus, etc.).
 - **Immediately** — No long sales cycle. Office Hours = when we're there; tips and more can land same visit.
 - **Back pocket strategy** — The play we keep ready. Always available. Low profile. High yield when it lands. Office Hours + free consultation + tips welcome = back pocket.
-- **Part of back door strategy** — The Club, wine cave, Man Cave + Cabaret restroom, Office Hours — our only physical point of presence; the back door. Back pocket strategy is part of that back door strategy: in-the-know access, tips and more at the door.
+- **Part of back door strategy** — The Club, wine cave, Pop Up Engine restroom, Office Hours — our only physical point of presence; the back door. Back pocket strategy is part of that back door strategy: in-the-know access, tips and more at the door.
 - **Back door strategy** — Access through the back door (The Club, wine cave, Pru Office Hours). Golden Backstage Pass. Hidden to all except those in the know. Where immediate large $ as tips and more can land.
 - **Capture into a backdoor feature** — Productize it. Make it a **backdoor feature**: the capability/flow that captures "come visit during Office Hours for a free consultation — tips are welcome" and mission (produce immediate large $) into a single, crystallized feature. NSPFRNP. SNAP.
 - **NSPFRNP SNAP** — Full fidelity. Metabolize, crystallize, animate. This is the SNAP.

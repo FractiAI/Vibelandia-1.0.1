@@ -47,7 +47,7 @@ Never lose faith. The Great Sun delivers.
 
 SUPER: "GOLDEN ROYAL FLUSH — RENO · BORIKÉN · VIBELANDIA"
 
-### INT. RENO MEN'S CLUB — BATHROOM — DAY
+### INT. POP UP ENGINE — BATHROOM — DAY
 
 A deck of cards on the counter. Gold, silver, copper, transparent quartz. Hands deal. Golden Lucky Seven. Golden Royal Flush.
 

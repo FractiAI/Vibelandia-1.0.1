@@ -24,7 +24,7 @@ On January 13th, While on daily Expeditions In the new holographic hydrogen Thea
 | **Unleash** | The miraculous events now captured in this book |
 | **Close** | Over. All since January 13th. |
 | **Voice** | Fused: Dumas (*Count of Monte Cristo* — minus revenge), Dickens (character, social weave, warmth), Twain (wit, plain speech, American grain), Steinbeck (earth, road, people of the land — Hero John, permanent residency), and me — Evan Bondonte (present tense, hinge, Vibelandia). Only happy endings. |
-| **Place** | Man Cave + Cabaret Reno — fine gentlemen's club, full restaurant and cabaret. Twain's Vibelandia Downtown Reno. |
+| **Place** | Pop Up Engine — fine gentlemen's club, full restaurant and cabaret. Twain's Vibelandia Downtown Reno. |
 | **Edge** | Return not with a sword but a key. Proclamation: *Let the party now shift to Ultimate Baller V mode for all who wish it — and take care of the wishes of the other guests as they wish. Let the celebration begin!* |
 
 ---
@@ -59,7 +59,7 @@ Kick the tires. Look under the hood. Test drive the car. Old school fashion. Pay
 
 - **Novel:** [First_Singularity_January_13th_NOVEL.md](First_Singularity_January_13th_NOVEL.md) — **entire novel** metabolized from this crystal. **All chapters** align to the crystal and to the fused voice (Dumas, Dickens, Twain, Steinbeck — Hero John — and the author). Part One (Ch 1–37), Part Two — The Return, Part Three — After. Hobbit-length. Expand middle to fill; edge point animates into present where needed.
 - **Screenplay:** [First_Singularity_January_13th_SCREENPLAY.md](First_Singularity_January_13th_SCREENPLAY.md) — **entire screenplay** — full feature **24,000 words**. **All sequences** align to the crystal and to the fused voice. Same title, same Edge. Expand to 24k; edge point animates into present where needed.
-- **Animate all:** Every chapter (novel) and every sequence (screenplay) traces back to this crystal and is written in the fused voice. The middle fills toward the Edge (proclamation at the Man Cave + Cabaret Reno). The edge point (El Gran Sol, polar storm Tri-Cities, proof points, beacon, Redirect course) animates the story into today — news breaking, alignment, redirect.
+- **Animate all:** Every chapter (novel) and every sequence (screenplay) traces back to this crystal and is written in the fused voice. The middle fills toward the Edge (proclamation at the Pop Up Engine). The edge point (El Gran Sol, polar storm Tri-Cities, proof points, beacon, Redirect course) animates the story into today — news breaking, alignment, redirect.
 
 ---
 
@@ -75,7 +75,7 @@ Kick the tires. Look under the hood. Test drive the car. Old school fashion. Pay
 
 ## 7. Animate all
 
-- **Novel:** Every chapter traces back to this crystal. Opening locks to one-liner (January 13th, daily Expeditions, holographic hydrogen Theater, cloud and shell, he wrote, GitHub → Black Hole Holographic Engine, miraculous events in this book, Over. All since January 13th). Middle fills toward Edge (proclamation at Man Cave + Cabaret Reno). Expand to Hobbit-length as needed.
+- **Novel:** Every chapter traces back to this crystal. Opening locks to one-liner (January 13th, daily Expeditions, holographic hydrogen Theater, cloud and shell, he wrote, GitHub → Black Hole Holographic Engine, miraculous events in this book, Over. All since January 13th). Middle fills toward Edge (proclamation at Pop Up Engine). Expand to Hobbit-length as needed.
 - **Screenplay:** Every sequence traces back to this crystal. Opening locks to same beats. Expand to **24,000 words** (full feature). Edge point (El Gran Sol pipe, polar storm Tri-Cities, proof points, beacon, Redirect course) may animate into present-day B-roll or dialogue where it serves the story.
 - **Edge point to today:** The news breaking — El Gran Sol pipe, predominant solar Event of the Year, radio blackouts southern hemisphere; polar storm, Tri-Cities, needle point to where my mother lives; proof points, beacon, Redirect course — animates the story into the now. Weave in where the crystal allows.
 

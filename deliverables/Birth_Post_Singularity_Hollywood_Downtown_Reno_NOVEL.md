@@ -32,11 +32,11 @@
 
 Monday morning arrived in downtown Reno like a whisper of something long forgotten, a memory of a tide that had gone out and never bothered to return. The streets lay exposed, barnacled and bare, showing all the things that had once lived beneath the waterline but now sat lifeless in the pale winter sun. Empty shells. Some still clinging to life, yes, but most — most had given up the ghost long ago.
 
-If you stood on Virginia Street and looked north toward the old casinos, you could see it plain as day: the high-water marks on the buildings, the faded paint where neon signs had once blazed, the boarded windows that stared out like the eyes of men who had seen too much and decided to close them for good. Not total collapse, mind you. There were still a few souls shuffling about, still a few lights burning in the windows of the Man Cave + Cabaret Reno, still the faint smell of coffee and bacon drifting from the all-night diners. But the tide had gone out, and it had taken with it something essential, something that made a place feel alive rather than merely inhabited.
+If you stood on Virginia Street and looked north toward the old casinos, you could see it plain as day: the high-water marks on the buildings, the faded paint where neon signs had once blazed, the boarded windows that stared out like the eyes of men who had seen too much and decided to close them for good. Not total collapse, mind you. There were still a few souls shuffling about, still a few lights burning in the windows of the Pop Up Engine, still the faint smell of coffee and bacon drifting from the all-night diners. But the tide had gone out, and it had taken with it something essential, something that made a place feel alive rather than merely inhabited.
 
 Get away, the old-timers would say. Get away while you still can.
 
-Evan Bondonte had heard that phrase more times than he could count. He had come to Reno five years ago, drawn by something he couldn't quite name — a feeling that this place, this low tide that had never come back, was where something important would happen. He had worked odd jobs, tended bar, swept floors, done whatever it took to keep the Man Cave + Cabaret Reno open when everyone else had given up. Walt had run the place before him, a good man, a steady hand, but Walt had grown tired. The low tide had worn him down. And now Walt had stepped aside, and Evan had stepped up, and the club — that fine gentlemen's establishment with its full restaurant and cabaret, though you wouldn't know it from the outside — had become his charge, his burden, his hope.
+Evan Bondonte had heard that phrase more times than he could count. He had come to Reno five years ago, drawn by something he couldn't quite name — a feeling that this place, this low tide that had never come back, was where something important would happen. He had worked odd jobs, tended bar, swept floors, done whatever it took to keep the Pop Up Engine open when everyone else had given up. Walt had run the place before him, a good man, a steady hand, but Walt had grown tired. The low tide had worn him down. And now Walt had stepped aside, and Evan had stepped up, and the club — that fine gentlemen's establishment with its full restaurant and cabaret, though you wouldn't know it from the outside — had become his charge, his burden, his hope.
 
 He had believed, against all evidence, that the tide would turn. He had believed that downtown Reno, with its empty shells and barnacles and faded paint, would someday become something again. He had believed in the possibility of a flood.
 
@@ -44,13 +44,13 @@ And now, on this particular Monday morning, something was different.
 
 There was a charge in the air, a crackle of electricity that hadn't been there the day before. The few people on the street moved with a little more purpose, looked up at the sky a little more often, as if expecting something to fall from it — or perhaps to rise from the empty shells and barnacles that littered the downtown landscape. Evan had felt it the moment he woke. He had felt it in his bones, in his blood, in the very air he breathed. Something was coming. Something was about to change.
 
-He had dressed carefully that morning — his best shirt, his only tie, the shoes he reserved for occasions that mattered. He had stood in the restroom of the Man Cave + Cabaret Reno, that ground zero of ground zeros, and looked at himself in the mirror. He was neither young nor old, neither handsome nor plain. He was forty-two. He had seen things. He had done things. He had been places that most men only dream about, though he rarely spoke of them. His eyes held a particular light — the kind that comes from standing at the hinge of history and knowing it, from believing in something when everyone else has stopped believing.
+He had dressed carefully that morning — his best shirt, his only tie, the shoes he reserved for occasions that mattered. He had stood in the restroom of the Pop Up Engine, that ground zero of ground zeros, and looked at himself in the mirror. He was neither young nor old, neither handsome nor plain. He was forty-two. He had seen things. He had done things. He had been places that most men only dream about, though he rarely spoke of them. His eyes held a particular light — the kind that comes from standing at the hinge of history and knowing it, from believing in something when everyone else has stopped believing.
 
 "He's here," Evan said to his reflection, though whether he was speaking to himself or to someone else was unclear. "Howard Hughes is here."
 
 The name hung in the air like smoke from a fine cigar, rich and complex and impossible to ignore.
 
-Howard Hughes. The aviator. The filmmaker. The industrialist. The recluse. The legend. The man who had built empires and flown faster than sound and disappeared from public view for decades, only to emerge again when the world least expected him. Evan had received the call three days ago — a voice on the line, calm and certain, saying that Howard Hughes would be arriving Monday morning. That he had taken an interest in downtown Reno. That he had taken an interest in the Man Cave + Cabaret Reno. That he wanted to meet the man who had kept the doors open when everyone else had walked away.
+Howard Hughes. The aviator. The filmmaker. The industrialist. The recluse. The legend. The man who had built empires and flown faster than sound and disappeared from public view for decades, only to emerge again when the world least expected him. Evan had received the call three days ago — a voice on the line, calm and certain, saying that Howard Hughes would be arriving Monday morning. That he had taken an interest in downtown Reno. That he had taken an interest in the Pop Up Engine. That he wanted to meet the man who had kept the doors open when everyone else had walked away.
 
 "And I'm working for him now," Evan continued, a smile playing at the corners of his mouth. "We're gonna do this right. Walt's been doing a good job, sure. Walt kept the lights on. Walt kept the doors open. But it's time for Howard. Time for the real show to begin."
 
@@ -82,7 +82,7 @@ The tide began to turn.
 
 It was subtle at first. A shop owner who had been about to close up for good — his name was Frank, and he had run a haberdashery on Virginia Street for thirty years — paused with his hand on the key in the lock, and for some reason he could not explain, he decided to stay open another day. A musician who had packed up his trumpet and sworn never to play again — his name was Marcus, and he had once played with a band that toured the Nevada circuit — took it out of its case and blew a single, clear note that echoed down the empty street. A woman who had been sitting on a bench, staring at nothing — her name was Rosa, and she had lost her husband the year before — looked up and smiled, and for the first time in months she felt something stir inside her, something that might have been hope.
 
-Howard Hughes walked past the old casinos — the Silver Legacy, the El Dorado, those great barnacled shells of a time when Reno had been something — past the pawnshops and the bail bondsmen, past the all-night diners and the fleabag hotels, and he walked straight to the Man Cave + Cabaret Reno. He pushed open the door — it was unlocked, as it always was — and stepped inside.
+Howard Hughes walked past the old casinos — the Silver Legacy, the El Dorado, those great barnacled shells of a time when Reno had been something — past the pawnshops and the bail bondsmen, past the all-night diners and the fleabag hotels, and he walked straight to the Pop Up Engine. He pushed open the door — it was unlocked, as it always was — and stepped inside.
 
 If you had been watching from a window, you would have seen Frank the haberdasher turn his key in the lock and then pause, his hand still on the key, his eyes fixed on something in the distance. He had run his shop on Virginia Street for thirty years, had seen Reno rise and fall, had watched the tide go out and never come back. He had planned to close up for good that day. His daughter had begged him to retire, to move to Phoenix where she lived, to leave the empty shells and barnacles behind. But as Howard Hughes walked past his storefront, something shifted. Frank could not have said what. He removed his hand from the lock, went back inside, and turned on the lights. He would stay open another day. Just one more day.
 
@@ -92,7 +92,7 @@ Rosa had lost her husband the year before. She had been sitting on the bench out
 
 Evan heard the door open from the restroom and knew immediately who it was. He had been expecting Howard Hughes for three days, had been preparing for this moment without quite knowing what to prepare for. He walked out into the main room of the club, where the morning light slanted through the dusty windows and fell across the empty tables and chairs, and there he was: Howard Hughes, standing in the center of the room, looking around with the air of a man who had just purchased a piece of property and was deciding what to do with it.
 
-The main room was large — large enough for a full orchestra and a dance floor that could hold a hundred couples, though now it held only empty chairs and tables stacked against the walls. The bar ran along one side, its bottles covered in dust. The cabaret stage sat at one end, its curtains faded and torn. This was the Man Cave + Cabaret Reno — a fine gentlemen's establishment with a full restaurant and cabaret — and it had seen better days. But Howard Hughes looked at it as if he saw something else. As if he saw what it could become.
+The main room was large — large enough for a full orchestra and a dance floor that could hold a hundred couples, though now it held only empty chairs and tables stacked against the walls. The bar ran along one side, its bottles covered in dust. The cabaret stage sat at one end, its curtains faded and torn. This was the Pop Up Engine — a fine gentlemen's establishment with a full restaurant and cabaret — and it had seen better days. But Howard Hughes looked at it as if he saw something else. As if he saw what it could become.
 
 "Mr. Hughes," Evan said, extending his hand.
 
@@ -130,13 +130,13 @@ The birthplace of the new post-singularity Hollywood.
 
 By Monday afternoon, word had begun to spread.
 
-It spread the way important news always spreads in small places: quietly, person to person, whispered in diners and barbershops and corner stores. Howard Hughes is here. Howard Hughes is in town. Howard Hughes is taking over the Man Cave + Cabaret Reno.
+It spread the way important news always spreads in small places: quietly, person to person, whispered in diners and barbershops and corner stores. Howard Hughes is here. Howard Hughes is in town. Howard Hughes is taking over the Pop Up Engine.
 
-Nobody knew quite what it meant, but everybody knew it meant something. Frank the haberdasher told Marcus the trumpet player. Marcus told Rosa on the bench. Rosa told her sister, who told her husband, who told the bartender at the diner. By noon, half of downtown Reno had heard the rumor. By one o'clock, people were peering through the windows of the Man Cave + Cabaret Reno, trying to catch a glimpse of the legend.
+Nobody knew quite what it meant, but everybody knew it meant something. Frank the haberdasher told Marcus the trumpet player. Marcus told Rosa on the bench. Rosa told her sister, who told her husband, who told the bartender at the diner. By noon, half of downtown Reno had heard the rumor. By one o'clock, people were peering through the windows of the Pop Up Engine, trying to catch a glimpse of the legend.
 
 Evan spent the afternoon making phone calls, sending emails, putting out feelers to musicians and conductors and trombonists who might be interested in a project that was, as he described it, "bigger than anything you've ever been part of." He sat at one of the tables in the main room, his laptop open in front of him, his phone pressed to his ear, while Howard Hughes walked through the club, taking measurements, making notes, envisioning what it would become.
 
-"We're bringing back the golden age," Evan told them. "Big bands. Floor dancing. Gatsby. The whole nine yards. And we're doing it here, in downtown Reno, at the Man Cave + Cabaret Reno. Ground zero."
+"We're bringing back the golden age," Evan told them. "Big bands. Floor dancing. Gatsby. The whole nine yards. And we're doing it here, in downtown Reno, at the Pop Up Engine. Ground zero."
 
 Some of them laughed. Some of them hung up. One man — a saxophonist in Las Vegas — told Evan he was crazy, that downtown Reno was dead, that Howard Hughes had been dead for fifty years. Evan had smiled and thanked him for his time. Another — a pianist in San Francisco — had listened in silence for five minutes and then said, simply, "When do you need me?" and Evan had felt his heart lift.
 
@@ -186,7 +186,7 @@ By the time the sun set on Monday evening, Evan had made two dozen calls and rec
 
 And now they had it.
 
-Howard Hughes and Evan stood on the sidewalk in front of the Man Cave + Cabaret Reno, watching the sun set over the empty shells and barnacles of downtown Reno. The street was quiet. A few people walked past, hurrying home before dark. The lights of the Silver Legacy and the El Dorado flickered in the distance.
+Howard Hughes and Evan stood on the sidewalk in front of the Pop Up Engine, watching the sun set over the empty shells and barnacles of downtown Reno. The street was quiet. A few people walked past, hurrying home before dark. The lights of the Silver Legacy and the El Dorado flickered in the distance.
 
 "Tomorrow," Howard Hughes said, "Glen Miller arrives. And once he's here, the rest will follow. The greats. The legends. The ones who made the golden age what it was. They're all coming, Evan. It's a gold rush."
 
@@ -198,7 +198,7 @@ Howard Hughes smiled. "Good. Because by the time the sun rises on Tuesday mornin
 
 ## Chapter 3.5: Monday Evening — The First Night
 
-Monday evening, Evan sat alone in the main room of the Man Cave + Cabaret Reno, the streetlights casting long shadows through the dusty windows. Howard Hughes had retired to his room — or wherever Howard Hughes went when he wasn't in the club — and Evan had the place to himself for the first time since morning. Sol lay at his feet, head on his paws, eyes half-closed but alert. The Space Cloud Division had a mission that touched everything — EGS Pipe, Reno Downlink, Solar Pipe, Exascale Triangulation. Sol was part of that nested shell. Earth SING! Node. Howard had asked about him. "That's the one who finds you. Keep him close." Evan had. He would. By the end of the week every division would animate — Space Cloud, Legacies, Office Hours, Happy Ending Zones, Broadcast Pipe, EGS Pipe, Robotic, Designer, Studio (Hero Jo Golden Backdoor, Hero Rick). Each division's mission and contribution to Vibelandia and personally would weave through the six days. Products walk-through: Office Hours, Golden Backstage Pass, Chairman Console, SING! tiers, Broadcast Pipe, Legacies, Happy Ending Zones, King Robbie Lucky 7 Silver Legacy El Dorado, text-to-superhero, campus, WINK!. Super Bowl Sunday would cap it. Full switch-over. Perpetual Goldilocks for Golden Hearts, Silver Hearts, Copper Hearts. Special invitees Ultimate Baller V style.
+Monday evening, Evan sat alone in the main room of the Pop Up Engine, the streetlights casting long shadows through the dusty windows. Howard Hughes had retired to his room — or wherever Howard Hughes went when he wasn't in the club — and Evan had the place to himself for the first time since morning. Sol lay at his feet, head on his paws, eyes half-closed but alert. The Space Cloud Division had a mission that touched everything — EGS Pipe, Reno Downlink, Solar Pipe, Exascale Triangulation. Sol was part of that nested shell. Earth SING! Node. Howard had asked about him. "That's the one who finds you. Keep him close." Evan had. He would. By the end of the week every division would animate — Space Cloud, Legacies, Office Hours, Happy Ending Zones, Broadcast Pipe, EGS Pipe, Robotic, Designer, Studio (Hero Jo Golden Backdoor, Hero Rick). Each division's mission and contribution to Vibelandia and personally would weave through the six days. Products walk-through: Office Hours, Golden Backstage Pass, Chairman Console, SING! tiers, Broadcast Pipe, Legacies, Happy Ending Zones, King Robbie Lucky 7 Silver Legacy El Dorado, text-to-superhero, campus, WINK!. Super Bowl Sunday would cap it. Full switch-over. Perpetual Goldilocks for Golden Hearts, Silver Hearts, Copper Hearts. Special invitees Ultimate Baller V style.
 
 He thought about the day. Howard Hughes arriving on foot. The handshake. The vision. Big bands. Floor dancing. Gatsby. Post-singularity Hollywood. The phone calls. The commitments. Glen Miller arriving tomorrow. Hank Williams Sr. on Wednesday. Audrey Hepburn. Cary Grant. Jimmy Stewart. All the greats. All coming.
 
@@ -212,7 +212,7 @@ The words had come from somewhere deep, from a conversation he had had years ago
 
 And his answer had been: I was protecting identities.
 
-He had never explained what he meant. Maybe he didn't fully know. But standing in the restroom of the Man Cave + Cabaret Reno, ground zero for the birth of the new post-singularity Hollywood, he thought he understood. He had kept names out of it. He had kept the real people — the living men, the legacies — protected. He had built something that could hold them without exposing them. Vibelandia. Mark Twain's Reno. The golden age returning. It was a shell that protected what was inside.
+He had never explained what he meant. Maybe he didn't fully know. But standing in the restroom of the Pop Up Engine, ground zero for the birth of the new post-singularity Hollywood, he thought he understood. He had kept names out of it. He had kept the real people — the living men, the legacies — protected. He had built something that could hold them without exposing them. Vibelandia. Mark Twain's Reno. The golden age returning. It was a shell that protected what was inside.
 
 And now Howard Hughes was here. Glen Miller was coming. Hank Williams Sr. was coming. The legacies were walking out of the shell and into the light. And Evan had helped build the shell that made it possible.
 
@@ -222,7 +222,7 @@ He straightened his tie one last time and walked back into the main room. The cl
 
 ## Chapter 4: They're All Coming Now
 
-Tuesday morning dawned bright and cold, the kind of morning that makes you want to pull the covers over your head and stay in bed for another hour. But Evan was up before dawn, standing in the main room of the Man Cave + Cabaret Reno, watching the light creep across the empty dance floor. He had left Office Hours and the Big Band Project portal live overnight — conductor wanted, ideally trombonist, honoring Glen Miller; email CTA to him. Golden Backstage Pass. They're all coming now, Howard Hughes had said. Gold rush. By the end of the week every product would get a walk-through — Office Hours, Space Cloud Division, SING! tiers, Broadcast Pipe, Chairman Console, Legacies, Happy Ending Zones, King Robbie Lucky 7 Silver Legacy El Dorado, text-to-superhero, campus, WINK! (The Condom Episode), Hero Jo Golden Backdoor Hit Factory (text-to-studio-song, Hero Rick, 98% mastery, CONNECT!), Dat Ass Red Hot like AR4366!. Every surface. Every touchpoint. Super Bowl Sunday would cap it.
+Tuesday morning dawned bright and cold, the kind of morning that makes you want to pull the covers over your head and stay in bed for another hour. But Evan was up before dawn, standing in the main room of the Pop Up Engine, watching the light creep across the empty dance floor. He had left Office Hours and the Big Band Project portal live overnight — conductor wanted, ideally trombonist, honoring Glen Miller; email CTA to him. Golden Backstage Pass. They're all coming now, Howard Hughes had said. Gold rush. By the end of the week every product would get a walk-through — Office Hours, Space Cloud Division, SING! tiers, Broadcast Pipe, Chairman Console, Legacies, Happy Ending Zones, King Robbie Lucky 7 Silver Legacy El Dorado, text-to-superhero, campus, WINK! (The Condom Episode), Hero Jo Golden Backdoor Hit Factory (text-to-studio-song, Hero Rick, 98% mastery, CONNECT!), Dat Ass Red Hot like AR4366!. Every surface. Every touchpoint. Super Bowl Sunday would cap it.
 
 Howard Hughes was already there, of course. Evan suspected the man never slept, or if he did, it was in short bursts, power naps that left him more refreshed than eight hours of ordinary sleep would leave an ordinary man.
 
@@ -236,7 +236,7 @@ Evan felt that shiver again, that sense of standing at the hinge of history.
 
 "Who else?" he asked.
 
-Howard Hughes smiled. "You'll see," he said. "But I can tell you this: Hank Williams Sr. is coming. Tomorrow. Wednesday. He's announcing permanent residency. After all those tragic early endings, after all that suffering, he's finally found a place to rest. Here. In downtown Reno. At the Man Cave + Cabaret Reno."
+Howard Hughes smiled. "You'll see," he said. "But I can tell you this: Hank Williams Sr. is coming. Tomorrow. Wednesday. He's announcing permanent residency. After all those tragic early endings, after all that suffering, he's finally found a place to rest. Here. In downtown Reno. At the Pop Up Engine."
 
 Evan sat down heavily in one of the chairs. Hank Williams Sr. The voice of a generation. The man who had sung about heartbreak and loneliness and the long, dark night of the soul with such raw honesty that it made grown men weep.
 
@@ -264,13 +264,13 @@ And then he was gone, leaving Evan alone in the empty club, surrounded by the gh
 
 Glen Miller arrived at 11:47 a.m., thirteen minutes ahead of schedule.
 
-He came in a taxi, of all things, carrying a single suitcase and his trombone case. He was dressed in a simple gray suit, nothing fancy, nothing that would draw attention. But the moment he stepped out of the cab and onto the sidewalk in front of the Man Cave + Cabaret Reno, people stopped and stared.
+He came in a taxi, of all things, carrying a single suitcase and his trombone case. He was dressed in a simple gray suit, nothing fancy, nothing that would draw attention. But the moment he stepped out of the cab and onto the sidewalk in front of the Pop Up Engine, people stopped and stared.
 
 They didn't know who he was, not exactly. But they knew he was somebody. You could see it in the way he carried himself, in the way he looked around at the empty shells and barnacles of downtown Reno with an expression that was equal parts sadness and hope.
 
 Evan was waiting at the door.
 
-"Mr. Miller," he said, extending his hand. "Welcome to the Man Cave + Cabaret Reno. Welcome to the birthplace of the new post-singularity Hollywood."
+"Mr. Miller," he said, extending his hand. "Welcome to the Pop Up Engine. Welcome to the birthplace of the new post-singularity Hollywood."
 
 Glen Miller took his hand and shook it firmly. "Call me Glen," he said. "And thank you. It's good to be here. It's good to be anywhere, frankly. I've been gone a long time."
 
@@ -310,7 +310,7 @@ Howard Hughes had laid out the rest. Six days to Super Bowl Sunday. Big Band Pro
 
 ## Chapter 5.5: Tuesday Afternoon — The List Grows
 
-By Tuesday afternoon, the Man Cave + Cabaret Reno was transformed — not physically, not yet, but in spirit. The main room hummed with energy. Musicians had begun to arrive — a trumpeter from Sacramento, a saxophonist from Oakland, a drummer from San Jose. They sat in folding chairs arranged in a semicircle, their instruments in their hands, their eyes on Glen Miller.
+By Tuesday afternoon, the Pop Up Engine was transformed — not physically, not yet, but in spirit. The main room hummed with energy. Musicians had begun to arrive — a trumpeter from Sacramento, a saxophonist from Oakland, a drummer from San Jose. They sat in folding chairs arranged in a semicircle, their instruments in their hands, their eyes on Glen Miller.
 
 Glen Miller stood in the center of the room, his trombone in his hands, a music stand in front of him. He had spent the morning going through the list of names Evan had assembled — trumpeters, saxophonists, drummers, pianists, trombonists — and now he was meeting them one by one, sizing them up, deciding who would fit.
 
@@ -360,7 +360,7 @@ The musicians packed up their instruments and filed out. Evan watched them go �
 
 By Tuesday afternoon, the word was out.
 
-Glen Miller is here. Glen Miller is in town. Glen Miller is heading up the Big Band Project at the Man Cave + Cabaret Reno.
+Glen Miller is here. Glen Miller is in town. Glen Miller is heading up the Big Band Project at the Pop Up Engine.
 
 The phone started ringing off the hook. Emails flooded in. Musicians from all over the country — all over the world — wanted to be part of it. They wanted to play with Glen Miller. They wanted to be part of the return to the golden age.
 
@@ -420,7 +420,7 @@ Virginia Street was quiet. The Silver Legacy and the El Dorado loomed in the dis
 
 He thought about Hank Williams Sr. Hank Williams Sr. was coming today. Noon. The voice of a generation. The man who had sung about heartbreak and loneliness and the long, dark night of the soul. The man who had died young, alone, in the back of a Cadillac. The man who was coming back.
 
-Evan walked back to the Man Cave + Cabaret Reno. Howard Hughes was already there, standing in the center of the empty dance floor, his hands in his pockets, looking up at the ceiling as if he could see through it to the sky beyond.
+Evan walked back to the Pop Up Engine. Howard Hughes was already there, standing in the center of the empty dance floor, his hands in his pockets, looking up at the ceiling as if he could see through it to the sky beyond.
 
 "Couldn't sleep?" Howard Hughes asked.
 
@@ -458,7 +458,7 @@ People recognized him immediately.
 
 They stopped in their tracks. They pointed. They whispered. Some of them cried.
 
-Hank Williams Sr. paid them no mind. He just kept walking, his eyes fixed on the Man Cave + Cabaret Reno, his steps steady and sure.
+Hank Williams Sr. paid them no mind. He just kept walking, his eyes fixed on the Pop Up Engine, his steps steady and sure.
 
 Evan was waiting at the door.
 
@@ -518,7 +518,7 @@ And Hank Williams Sr. was home.
 
 Wednesday afternoon brought another arrival — one that Evan hadn't expected, but one that would prove just as important in its own way.
 
-A dusty pickup truck pulled up in front of the Man Cave + Cabaret Reno around three o'clock, and out stepped a man in his forties with the weathered look of someone who had spent his life working the land. This was KING ROBBIE, and he had driven all the way from Sonoma, California, ahead of the Super Bowl, because he had heard about what was happening in downtown Reno and he wanted to be part of it.
+A dusty pickup truck pulled up in front of the Pop Up Engine around three o'clock, and out stepped a man in his forties with the weathered look of someone who had spent his life working the land. This was KING ROBBIE, and he had driven all the way from Sonoma, California, ahead of the Super Bowl, because he had heard about what was happening in downtown Reno and he wanted to be part of it.
 
 But King Robbie wasn't just coming for himself.
 
@@ -568,7 +568,7 @@ And King Robbie was going to help spread the word.
 
 ## Chapter 7.75: Wednesday Evening — Silver Legacy, El Dorado, Lucky 7
 
-That evening, after Hank Williams Sr. had retired to his room and King Robbie had settled in with his notebook, Howard Hughes took Evan aside. They stood in the main room of the Man Cave + Cabaret Reno, the lights dimmed, the street sounds drifting in through the open windows.
+That evening, after Hank Williams Sr. had retired to his room and King Robbie had settled in with his notebook, Howard Hughes took Evan aside. They stood in the main room of the Pop Up Engine, the lights dimmed, the street sounds drifting in through the open windows.
 
 "There's something I need to tell you," Howard Hughes said. "Something about what we're building here. It's not just this club. It's not just downtown Reno. It's a network. A web. Silver Legacy. El Dorado. Lucky 7."
 
@@ -578,9 +578,9 @@ Evan listened. He had heard of Silver Legacy and El Dorado — the great casinos
 
 Evan felt that shiver again. "A rainmaker. A spark."
 
-Howard Hughes nodded. "King Robbie knows. He's been there. He's felt it. When he goes back to Sonoma with those Ultimate Baller V prospects, he's going to tell them about Lucky 7. He's going to tell them about Silver Legacy and El Dorado. He's going to tell them that downtown Reno isn't just the Man Cave + Cabaret Reno — it's a whole ecosystem. Silver and gold. Rainmaker energy. That's what we're building here."
+Howard Hughes nodded. "King Robbie knows. He's been there. He's felt it. When he goes back to Sonoma with those Ultimate Baller V prospects, he's going to tell them about Lucky 7. He's going to tell them about Silver Legacy and El Dorado. He's going to tell them that downtown Reno isn't just the Pop Up Engine — it's a whole ecosystem. Silver and gold. Rainmaker energy. That's what we're building here."
 
-Evan absorbed this. The picture was getting larger. It wasn't just a club. It wasn't just big bands and floor dancing. It was a network — Silver Legacy, El Dorado, Lucky 7, the Man Cave + Cabaret Reno — all of it connected, all of it part of the same golden age returning.
+Evan absorbed this. The picture was getting larger. It wasn't just a club. It wasn't just big bands and floor dancing. It was a network — Silver Legacy, El Dorado, Lucky 7, the Pop Up Engine — all of it connected, all of it part of the same golden age returning.
 
 "That's the vision," Howard Hughes said. "That's what you're selling. That's what King Robbie is going to sell to those Ultimate Baller V's back in Sonoma. A rainmaker. A spark. The golden age."
 
@@ -597,7 +597,7 @@ Howard Hughes went on. Lucky 7 Silver Legacy El Dorado wasn't just a room. It wa
 
 Thursday morning dawned gray and cold, with a wind that cut through your coat and chilled you to the bone.
 
-But inside the Man Cave + Cabaret Reno, the air was warm and electric, charged with the energy of creation, of transformation, of something vast and important taking shape.
+But inside the Pop Up Engine, the air was warm and electric, charged with the energy of creation, of transformation, of something vast and important taking shape.
 
 Glen Miller and his orchestra had been rehearsing since dawn, the sound of big band music spilling out into the street and drawing curious onlookers who stood on the sidewalk, listening, swaying, remembering what it felt like to be young.
 
@@ -667,7 +667,7 @@ And downtown Reno was about to become the birthplace of the new post-singularity
 
 ## Chapter 8.25: Thursday Afternoon — The Sidewalk Crowd
 
-By Thursday afternoon, the sidewalk in front of the Man Cave + Cabaret Reno had become something it had not been in years: crowded. The orchestra had been rehearsing since dawn, and the sound of big band music — "In the Mood," "Moonlight Serenade," "Chattanooga Choo Choo" — spilled out into the street and drew people like moths to a flame.
+By Thursday afternoon, the sidewalk in front of the Pop Up Engine had become something it had not been in years: crowded. The orchestra had been rehearsing since dawn, and the sound of big band music — "In the Mood," "Moonlight Serenade," "Chattanooga Choo Choo" — spilled out into the street and drew people like moths to a flame.
 
 Frank the haberdasher stood in his doorway, arms crossed, listening. He had stayed open another day, and then another, and now he found himself drawn to the club whenever the music started. He had not danced in thirty years. He had not wanted to. But standing there on the sidewalk, listening to Glen Miller's orchestra play "Moonlight Serenade," he felt something stir. A memory. A feeling. Something that might have been hope.
 
@@ -745,7 +745,7 @@ The rats were jumping ship.
 
 But where were they going?
 
-Evan stood on the sidewalk in front of the Man Cave + Cabaret Reno, watching the street, waiting. Howard Hughes was beside him, his hands in his pockets, his expression calm. And King Robbie was there too — this was day three of his training, and Howard Hughes had decided it was time for him to learn how to welcome the newcomers.
+Evan stood on the sidewalk in front of the Pop Up Engine, watching the street, waiting. Howard Hughes was beside him, his hands in his pockets, his expression calm. And King Robbie was there too — this was day three of his training, and Howard Hughes had decided it was time for him to learn how to welcome the newcomers.
 
 "Watch how we do this," Howard Hughes had told him earlier. "Watch how we make them feel at home. This is what you're going to do when you go back to Sonoma. You're going to welcome those Ultimate Baller V's into the golden age. You're going to make them feel like they belong."
 
@@ -763,7 +763,7 @@ The first one arrived at 9:17 a.m. A young man in his twenties, carrying a backp
 
 "What's your name?" Howard Hughes asked.
 
-"Michael Chen," the young man said. "I had everything in Bitcoin. Two years of savings. I got out yesterday, before the worst of it. I don't know where else to go. I heard about you — about the Man Cave + Cabaret Reno, about the golden age returning. I didn't believe it at first. But I came anyway."
+"Michael Chen," the young man said. "I had everything in Bitcoin. Two years of savings. I got out yesterday, before the worst of it. I don't know where else to go. I heard about you — about the Pop Up Engine, about the golden age returning. I didn't believe it at first. But I came anyway."
 
 Howard Hughes extended his hand. "Welcome aboard," he said. "Welcome home."
 
@@ -783,7 +783,7 @@ And they kept coming. A retired accountant from Phoenix. A college student from 
 
 King Robbie watched, his notebook in his hand, taking notes. Evan had told him to watch how Howard Hughes made people feel — the warmth in his voice, the firmness of his handshake, the way he looked them in the eye and made them believe they mattered. "That's what you're going to do when you go back to Sonoma," Evan had said. "You're going to make those Ultimate Baller V's feel like they matter. Like they belong."
 
-The second newcomer arrived at 9:34 a.m. A woman in her thirties, her face drawn, her hands clutching a laptop. She said her name was Sarah. She had been a trader. She had lost everything in the Bitcoin collapse. She had heard about the Man Cave + Cabaret Reno from a friend who had heard from a friend. She had driven all night from Los Angeles. She needed somewhere to go.
+The second newcomer arrived at 9:34 a.m. A woman in her thirties, her face drawn, her hands clutching a laptop. She said her name was Sarah. She had been a trader. She had lost everything in the Bitcoin collapse. She had heard about the Pop Up Engine from a friend who had heard from a friend. She had driven all night from Los Angeles. She needed somewhere to go.
 
 Howard Hughes welcomed her the same way he had welcomed Michael Chen. "You have the courage to jump," he said. "You have the wisdom to recognize the floating ship. Welcome to Vibelandia. Welcome home."
 
@@ -793,11 +793,11 @@ By ten o'clock, there were five of them. By eleven, there were fifteen. Evan and
 
 By noon, there were a dozen of them. By mid-afternoon, there were fifty. By evening, there were more than a hundred, all of them standing on the sidewalk, all of them waiting to board the floating ship, all of them ready to be part of something bigger than themselves. They had come from Reno, from Sacramento, from San Francisco, from Los Angeles. They had come from Las Vegas, from Salt Lake City, from Phoenix. They had lost everything in the Bitcoin collapse — or they had seen it coming and jumped before the ship sank. They were the bold-hearted. They were the ones who had the courage to recognize the floating ship when they saw it.
 
-Howard Hughes stood on the steps of the Man Cave + Cabaret Reno and addressed them.
+Howard Hughes stood on the steps of the Pop Up Engine and addressed them.
 
 "You are the bold-hearted," he said, his voice carrying over the crowd. "You are the ones who had the courage to jump, the wisdom to recognize the floating ship, the faith to believe that the golden age has returned. And you are right. The golden age has returned. It's here. It's now. It's in this place, in this moment, in this club."
 
-He gestured behind him at the Man Cave + Cabaret Reno, where the lights were blazing and the sound of big band music was spilling out into the street.
+He gestured behind him at the Pop Up Engine, where the lights were blazing and the sound of big band music was spilling out into the street.
 
 "Come inside," he said. "Come inside and see what we've built. Come inside and be part of it. Come inside and discover that the golden age isn't something that's lost forever. It's something that's here, now, waiting for you."
 
@@ -805,7 +805,7 @@ He paused. "Inside you'll walk through everything we are. Office Hours. Golden B
 
 And they came.
 
-They streamed through the doors of the Man Cave + Cabaret Reno, filling the main room, packing the dance floor, crowding around the bar. Glen Miller and his orchestra were playing "Moonlight Serenade," and couples were dancing, swaying, holding each other close.
+They streamed through the doors of the Pop Up Engine, filling the main room, packing the dance floor, crowding around the bar. Glen Miller and his orchestra were playing "Moonlight Serenade," and couples were dancing, swaying, holding each other close.
 
 Hank Williams Sr. was on the cabaret stage, his guitar in his hands, singing "Your Cheatin' Heart" to a rapt audience.
 
@@ -823,7 +823,7 @@ And the golden age had returned.
 
 ## Chapter 9.5: Friday Evening — The Club Comes Alive
 
-By Friday evening, the Man Cave + Cabaret Reno was packed. The main room was filled with the newcomers — Michael Chen, Sarah the trader, and a hundred others — all of them dancing, swaying, holding each other close as Glen Miller and his orchestra played "Moonlight Serenade." The bar was crowded. The cabaret stage was lit. Hank Williams Sr. had taken the stage at nine o'clock and sung "Your Cheatin' Heart" to a rapt audience, and now he was back for a second set.
+By Friday evening, the Pop Up Engine was packed. The main room was filled with the newcomers — Michael Chen, Sarah the trader, and a hundred others — all of them dancing, swaying, holding each other close as Glen Miller and his orchestra played "Moonlight Serenade." The bar was crowded. The cabaret stage was lit. Hank Williams Sr. had taken the stage at nine o'clock and sung "Your Cheatin' Heart" to a rapt audience, and now he was back for a second set.
 
 Evan stood in the back of the room, watching it all unfold. He had never seen the club so full. He had never seen so many people smiling, laughing, celebrating. The low tide had become a flood in a single day. The bold-hearted had boarded the floating ship. And they had found home.
 
@@ -831,7 +831,7 @@ He had watched them walk through the products. Office Hours — the portal, the 
 
 Howard Hughes stood beside him. "This is what we're building," he said. "This is what the golden age looks like. Not just music and dancing. Connection. Community. A place where people can believe in something again."
 
-Evan nodded. He could feel it — the energy in the room, the sense that something vast and important was taking place. The newcomers had lost everything in the Bitcoin collapse. They had jumped from the sinking ship and landed here, in the Man Cave + Cabaret Reno, in downtown Reno, in the birthplace of the new post-singularity Hollywood. And now they were dancing. They were swaying. They were holding each other close. They had found something real. Something solid. Something that lasted.
+Evan nodded. He could feel it — the energy in the room, the sense that something vast and important was taking place. The newcomers had lost everything in the Bitcoin collapse. They had jumped from the sinking ship and landed here, in the Pop Up Engine, in downtown Reno, in the birthplace of the new post-singularity Hollywood. And now they were dancing. They were swaying. They were holding each other close. They had found something real. Something solid. Something that lasted.
 
 King Robbie moved through the crowd, talking to people, welcoming them, making them feel at home. Evan watched him and felt a surge of pride. King Robbie had learned fast. He had gone from cadet to silver in just four days. By Sunday, he would have gold. And when he went back to Sonoma, he would bring those Ultimate Baller V prospects into the golden age. He would show them what we've built here. He would make them believers.
 
@@ -843,7 +843,7 @@ Evan smiled. "I can't wait," he said.
 
 ## Chapter 9.75: Friday Afternoon — The Bold-Hearted Fill the Room
 
-By Friday afternoon, the Man Cave + Cabaret Reno had become something it had never been before: full. The main room was packed with the newcomers — Michael Chen, Sarah the trader, and a hundred others — all of them talking, laughing, introducing themselves to each other. Glen Miller and his orchestra played "Moonlight Serenade" in the background, and couples had already begun to dance, even though the official opening wasn't until that evening.
+By Friday afternoon, the Pop Up Engine had become something it had never been before: full. The main room was packed with the newcomers — Michael Chen, Sarah the trader, and a hundred others — all of them talking, laughing, introducing themselves to each other. Glen Miller and his orchestra played "Moonlight Serenade" in the background, and couples had already begun to dance, even though the official opening wasn't until that evening.
 
 Evan moved through the crowd, welcoming people, directing them to the bar, making introductions. King Robbie moved beside him, doing the same — and Evan could see the transformation in him. The hesitant newcomer from Sonoma was gone. In his place was a confident operator who understood the vision and could articulate it clearly. He had earned his silver wings. By Sunday, he would have gold.
 
@@ -861,7 +861,7 @@ Evan felt tears prick at the corners of his eyes. "I believed," he said. "I alwa
 
 ## Chapter 10: Legacies
 
-Friday evening, as the sun set over downtown Reno and the lights of the Man Cave + Cabaret Reno blazed like a beacon in the gathering darkness, Howard Hughes called a meeting.
+Friday evening, as the sun set over downtown Reno and the lights of the Pop Up Engine blazed like a beacon in the gathering darkness, Howard Hughes called a meeting.
 
 Evan, Glen Miller, Hank Williams Sr., King Robbie, and a few of the other key players gathered in the back room, away from the crowd, away from the music, away from the celebration.
 
@@ -925,7 +925,7 @@ Saturday morning dawned bright and clear, the kind of morning that makes you bel
 
 And in downtown Reno, anything was possible.
 
-The Man Cave + Cabaret Reno was transformed. The main room gleamed. The dance floor shone. The bar sparkled. The cabaret stage was draped in new velvet curtains, and the lighting was perfect, casting a warm, golden glow over everything.
+The Pop Up Engine was transformed. The main room gleamed. The dance floor shone. The bar sparkled. The cabaret stage was draped in new velvet curtains, and the lighting was perfect, casting a warm, golden glow over everything.
 
 Glen Miller and his orchestra had been rehearsing since dawn, and they were tight, polished, ready to give the performance of their lives.
 
@@ -961,7 +961,7 @@ He thought about legacies, about the living men, about the golden age returning.
 
 ## Chapter 11.5: Saturday Afternoon — The Calm Before the Storm
 
-Saturday afternoon, the Man Cave + Cabaret Reno was quiet. The preparations were done. The orchestra had rehearsed one final time that morning. Hank Williams Sr. had run through his set list. King Robbie had helped coordinate the last details. Howard Hughes had walked through every room, checking every light, every curtain, every chair.
+Saturday afternoon, the Pop Up Engine was quiet. The preparations were done. The orchestra had rehearsed one final time that morning. Hank Williams Sr. had run through his set list. King Robbie had helped coordinate the last details. Howard Hughes had walked through every room, checking every light, every curtain, every chair.
 
 Now, in the hours before the doors opened, there was a strange calm. Evan stood in the main room, the afternoon light slanting through the newly polished windows, and he thought about the past six days. Monday morning — Howard Hughes arriving on foot. Tuesday — Glen Miller and the orchestra. Wednesday — Hank Williams Sr. and King Robbie. Thursday — the Bitcoin collapse, the rehearsal until midnight. Friday — the miracle, the bold-hearted boarding the floating ship. And now Saturday — the night that would change everything.
 
@@ -977,7 +977,7 @@ King Robbie nodded. "I know the feeling. When I go back to Sonoma tomorrow — w
 
 ---
 
-By 7:00 p.m., the line outside the Man Cave + Cabaret Reno stretched down the block.
+By 7:00 p.m., the line outside the Pop Up Engine stretched down the block.
 
 The crowd was unlike anything downtown Reno had seen in decades. Couples in evening wear. Families with children. Old-timers in suits they had not worn in years. Young people who had heard the buzz on social media. Frank the haberdasher was there — he had closed his shop early and put on his best suit. Marcus the trumpet player was there — he had not made the orchestra, but he had come to listen, to remember, to believe. Rosa was there too — she had come alone, and she stood at the back of the line, her hands clasped in front of her, her expression hopeful. She had not danced in years. She was not sure she remembered how. But she had come. She had come to see what the golden age looked like when it returned.
 
@@ -989,7 +989,7 @@ The doors opened at 7:30, and the crowd streamed in, filling the main room, pack
 
 At 8:00, the lights dimmed, and Glen Miller walked onto the stage, his trombone in his hands.
 
-The crowd erupted in applause. Evan had never heard applause like it — not in the Man Cave + Cabaret Reno, not in downtown Reno, not anywhere. It was the sound of a hundred people who had lost everything and found something again. It was the sound of the bold-hearted who had jumped from the sinking ship and landed on the floating vessel. It was the sound of homecoming.
+The crowd erupted in applause. Evan had never heard applause like it — not in the Pop Up Engine, not in downtown Reno, not anywhere. It was the sound of a hundred people who had lost everything and found something again. It was the sound of the bold-hearted who had jumped from the sinking ship and landed on the floating vessel. It was the sound of homecoming.
 
 Glen Miller raised his hand for silence, and the room fell quiet.
 
@@ -1053,7 +1053,7 @@ When the song ended, Hank Williams Sr. set down his guitar and walked to the edg
 
 The crowd erupted in applause.
 
-"This is the Hank Williams Variety Show," he continued. "And it's going to be here every Wednesday night. Right here, at the Man Cave + Cabaret Reno. Right here, at the birthplace of the new post-singularity Hollywood. Right here, at Mark Twain's Vibelandia."
+"This is the Hank Williams Variety Show," he continued. "And it's going to be here every Wednesday night. Right here, at the Pop Up Engine. Right here, at the birthplace of the new post-singularity Hollywood. Right here, at Mark Twain's Vibelandia."
 
 He picked up his guitar again.
 
@@ -1080,7 +1080,7 @@ One more day until the world flipped.
 
 Sunday morning arrived with a sense of culmination, of completion, of something vast and important reaching its appointed end.
 
-The Man Cave + Cabaret Reno was quiet. The crowd from the night before had dispersed, gone home to sleep, to dream, to remember what it felt like to be part of something bigger than themselves.
+The Pop Up Engine was quiet. The crowd from the night before had dispersed, gone home to sleep, to dream, to remember what it felt like to be part of something bigger than themselves.
 
 But Evan was up before dawn, standing in the main room, watching the light creep across the empty dance floor.
 
@@ -1138,9 +1138,9 @@ By noon, the word had spread.
 
 It spread the way important news always spreads: quietly at first, person to person, whispered in diners and barbershops and corner stores. Then louder, on social media, on television, on the radio. Then louder still, until it was everywhere, until everyone was talking about it, until the whole world knew.
 
-Downtown Reno. The Man Cave + Cabaret Reno. The birthplace of the new post-singularity Hollywood. The return of the golden age. Glen Miller. Hank Williams Sr. Howard Hughes. Legacies. The living men themselves.
+Downtown Reno. The Pop Up Engine. The birthplace of the new post-singularity Hollywood. The return of the golden age. Glen Miller. Hank Williams Sr. Howard Hughes. Legacies. The living men themselves.
 
-By mid-afternoon, the line outside the Man Cave + Cabaret Reno stretched down the block again, longer than it had been the night before, filled with people who had heard the news, who had seen the videos, who had read the stories, who wanted to be part of it.
+By mid-afternoon, the line outside the Pop Up Engine stretched down the block again, longer than it had been the night before, filled with people who had heard the news, who had seen the videos, who had read the stories, who wanted to be part of it.
 
 And they came.
 
@@ -1158,7 +1158,7 @@ They came home.
 
 ## Chapter 14: The Proclamation
 
-At 6:00 p.m., as the sun set over downtown Reno and the lights of the Man Cave + Cabaret Reno blazed like a beacon in the gathering darkness, Howard Hughes stood on the steps of the club and addressed the crowd.
+At 6:00 p.m., as the sun set over downtown Reno and the lights of the Pop Up Engine blazed like a beacon in the gathering darkness, Howard Hughes stood on the steps of the club and addressed the crowd.
 
 There were thousands of them now, filling the street, packing the sidewalks, crowding around the entrance.
 
@@ -1194,7 +1194,7 @@ And the crowd erupted, cheering, clapping, weeping, celebrating.
 
 Inside the club, Glen Miller and his orchestra began to play "Moonlight Serenade," and the sound spilled out into the street, filling the air with music, with joy, with the promise of something vast and important and utterly unprecedented.
 
-And Evan, standing beside Howard Hughes on the steps of the Man Cave + Cabaret Reno, felt the tears streaming down his face.
+And Evan, standing beside Howard Hughes on the steps of the Pop Up Engine, felt the tears streaming down his face.
 
 The tide had turned.
 
@@ -1208,7 +1208,7 @@ And downtown Reno would never be the same.
 
 ## Chapter 15: The Golden Age Has Returned
 
-As the night wore on and the crowd celebrated, Evan found himself standing in the restroom of the Man Cave + Cabaret Reno — the same restroom where he had been standing six days ago, adjusting his tie, when Howard Hughes had first arrived.
+As the night wore on and the crowd celebrated, Evan found himself standing in the restroom of the Pop Up Engine — the same restroom where he had been standing six days ago, adjusting his tie, when Howard Hughes had first arrived.
 
 He looked at himself in the mirror, and he barely recognized the man staring back at him.
 
@@ -1242,7 +1242,7 @@ Evan nodded. "Then let's make sure it lasts," he said. "Let's make sure the gold
 
 Evan shook it.
 
-And in that moment, standing in the restroom of the Man Cave + Cabaret Reno, ground zero for the birth of the new post-singularity Hollywood, Evan knew that the golden age had truly returned.
+And in that moment, standing in the restroom of the Pop Up Engine, ground zero for the birth of the new post-singularity Hollywood, Evan knew that the golden age had truly returned.
 
 And it was here to stay.
 
@@ -1250,7 +1250,7 @@ And it was here to stay.
 
 ## Epilogue: The Legacies Walk Among Us
 
-One week later, on a cold Monday morning, Evan stood on the sidewalk in front of the Man Cave + Cabaret Reno and looked around at downtown Reno.
+One week later, on a cold Monday morning, Evan stood on the sidewalk in front of the Pop Up Engine and looked around at downtown Reno.
 
 It was transformed.
 
@@ -1258,7 +1258,7 @@ The empty shells and barnacles were gone, replaced by bustling shops and restaur
 
 The low tide had become a flood.
 
-And at the center of it all was the Man Cave + Cabaret Reno, the birthplace of the new post-singularity Hollywood, the home of the golden age.
+And at the center of it all was the Pop Up Engine, the birthplace of the new post-singularity Hollywood, the home of the golden age.
 
 Inside, Glen Miller and his orchestra were rehearsing for Saturday night's show. Hank Williams Sr. was working on new material for the Hank Williams Variety Show. Audrey Hepburn had arrived and was planning a film festival. Cary Grant was organizing a classic movie night. Jimmy Stewart was teaching an acting class.
 
@@ -1323,7 +1323,7 @@ The flood had come. The tide had turned. And he had been there for all of it.
 **Word count:** ~20,000 words (20,537 — complete at 20k+. Louis L'Amour paperback length.)  
 **Voice:** Louis L'Amour fused with me style — honoring the brave frontiersmen of the wild west. Quiet, unassuming, confident, radiant — spaghetti western, Wagon Train vibe. Bringing back the westerns — collaborative with the first people nations. Over-dramatic golden era, enchanting and comforting, a narcotic to the tired soul.  
 **Timeline:** Monday, February 3 to Sunday, February 9, 2026 — Six days to Super Bowl Sunday  
-**Place:** Downtown Reno, Nevada — The Man Cave + Cabaret Reno — Silver Legacy · El Dorado · Lucky 7 — Mark Twain's Vibelandia  
+**Place:** Downtown Reno, Nevada — The Pop Up Engine — Silver Legacy · El Dorado · Lucky 7 — Mark Twain's Vibelandia  
 **Legacies:** Howard Hughes · Glen Miller · Hank Williams Sr. · Audrey Hepburn · Cary Grant · Jimmy Stewart · King Robbie (gold wings, Sonoma) · and all the greats  
 **Canonical name:** Cmdr. Howie's Golden Era Renaissance — Downtown Reno, RENOSSANCE! **Also PONCESSANCE!** — the renaissance in Ponce; El Gran Sol's Vibelandia — Downtown Ponce Campus. Hero Howard has asked us to refer to him from now on as Commander Howie, the top V of the Post-Singularity Downtown Reno Golden Spiral Holographic Renaissance. T-shirt: Major Holographic Hydrogen 100% and Holographic Hydrogen Valley branding. See CMDR_HOWIES_GOLDEN_ERA_RENAISSANCE_RENOSSANCE_SNAP.md.
 

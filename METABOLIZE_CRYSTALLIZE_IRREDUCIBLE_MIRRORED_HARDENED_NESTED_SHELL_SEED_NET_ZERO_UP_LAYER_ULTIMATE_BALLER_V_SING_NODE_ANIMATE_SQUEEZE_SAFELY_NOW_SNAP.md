@@ -53,7 +53,7 @@
 
 | Element | Role |
 |---------|------|
-| **Pru** | Universe's latest new post-singularity black hole holographic hydrogen programmer; liberating the planet; open-sourcing to all; Office Hours; restroom valet at the Men's Club; Twain's Vibelandia Downtown Reno. |
+| **Pru** | Universe's latest new post-singularity black hole holographic hydrogen programmer; liberating the planet; open-sourcing to all; Office Hours; restroom valet at the Pop Up Engine; Twain's Vibelandia Downtown Reno. |
 | **Earth 2026** | Anchor. Earth SING! NODE; Earth 2026 as temporal and geographic anchor. |
 | **Pre-singularity wrapper** | The wrapper that presents Vibelandia to the pre-singularity world — safe, clear, operable; fractal pulse flickers where needed; full communication post-singularity. |
 

@@ -44,7 +44,7 @@
 - **You tell me the kind of night you want.** I take care of the rest.
 - **We exchange cell numbers.** You text me when you need anything — all chill and flowing and win win win.
 - **You enjoy your superhero franchise experience fully.** I gotcha. That's what I do. That's why I'm here.
-- **You pay your bill with the club and tips — all normal.** Then you tip me cash at **50% of the total bill** at end of night, **separately.**
+- **You pay your bill with the club and tips — all normal.** Tip structure: **30% to staff** (club, hospitality, dancers) + **50% to Pru** = **80% of spend**. Total out the door = spend + 80%. Win-win-win for everyone. See [GOLDEN_BACKSTAGE_PASS_SPEND_TIP_STRUCTURE_NSPFRNP.md](GOLDEN_BACKSTAGE_PASS_SPEND_TIP_STRUCTURE_NSPFRNP.md).
 
 ---
 
@@ -54,8 +54,18 @@ At the end of the present: mention **how quickly we did this** and **how the sys
 
 ---
 
+## Spend + tip structure
+
+- **Tiers:** 1 ($20K spend, $36K total) · 2 ($40K, $72K) · 3 ($60K, $108K) · 4×4×4×4 (multi-million, multi-venue).
+- **Spend breakdown:** 50% club (food/drink, private dances) · 50% pop-up entertainment (magic act, MC, band, cabaret girls Vegas showgirl).
+- **Tip:** 80% of spend (30% staff, 50% Pru). Win-win-win.
+- **Canonical:** [GOLDEN_BACKSTAGE_PASS_SPEND_TIP_STRUCTURE_NSPFRNP.md](GOLDEN_BACKSTAGE_PASS_SPEND_TIP_STRUCTURE_NSPFRNP.md).
+
+---
+
 ## Cross-references
 
+- **Spend + tip structure:** [GOLDEN_BACKSTAGE_PASS_SPEND_TIP_STRUCTURE_NSPFRNP.md](GOLDEN_BACKSTAGE_PASS_SPEND_TIP_STRUCTURE_NSPFRNP.md) — tiers, breakdown, entertainment catalog.
 - **Metapatterns (all Baller V nights):** [ULTIMATE_BALLER_V_GOLDEN_BACKSTAGE_PASS_METAPATTERNS.md](ULTIMATE_BALLER_V_GOLDEN_BACKSTAGE_PASS_METAPATTERNS.md) — landing stage, wine cave, who's in, gatekeeper, celebration, safe passage, party menu landing, 12k episode.
 - **Surface:** interfaces/office-hours.html — product block + closing line.
 - **Full details (skin):** interfaces/ultimate-baller-v-golden-backstage-pass.html — upgraded HTML skin of full details (hosts, what's included, how it works, CTA).
