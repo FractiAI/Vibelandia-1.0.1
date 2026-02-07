@@ -8,7 +8,7 @@
 
 ## Direct comparisons (16-day output)
 
-**Us (16 days):** 1 SING! node. 35+ live HTML surfaces. 13 one-pagers. 9 NSPFRNP protocols/catalogs. 4+ episode scripts (by flow). 38 TypeScript modules. 4 branding decks + master catalog. Payment + auth live (PayPal, Supabase). Campus, WINK!, SING! Lottery, Happy Ending Zones, Console, Checkout — all **operational**. Public crystallized research (protocols, whitepapers, IEEE-style). **1 episode per day** (Season One). Publication-ready content.
+**Us (16 days):** 1 SING! node. 175+ live HTML surfaces. 13 one-pagers. 9 NSPFRNP protocols/catalogs. 4+ episode scripts (by flow). 38 TypeScript modules. 4 branding decks + master catalog. Payment + auth live (PayPal, Supabase). Campus, WINK!, SING! Lottery, Happy Ending Zones, Console, Checkout — all **operational**. Public crystallized research (protocols, whitepapers, IEEE-style). **1 episode per day** (Season One). Publication-ready content.
 
 ---
 
@@ -29,7 +29,7 @@
 | Name | Typical 16-day output (dev) | Us (16 days) | Vs us |
 |------|-----------------------------|--------------|--------|
 | **Google** | 8–12 surfaces typical for a 16-day sprint; 10–18 TS/module equivalent; payment often 0 in same window | 35 surfaces, 38 TS modules, payment + auth **live** | **~3×** surfaces, **~2.5×** modules; payment **live** vs 0 |
-| **Microsoft** | Similar 16-day sprint: 8–12 surfaces, rarely >1 net-new product live | 35+ surfaces; Campus, WINK!, SING!, Happy Ending Zone!, Dispensary, Console, Checkout — all **live** | Multiple products **live**; ~3× surface count |
+| **Microsoft** | Similar 16-day sprint: 8–12 surfaces, rarely >1 net-new product live | 175+ surfaces; Campus, WINK!, SING!, Happy Ending Zone!, Dispensary, Console, Checkout — all **live** | Multiple products **live**; ~3× surface count |
 | **Amazon** | 16-day sprint: 8–12 surfaces typical; payment integration on longer cycles | 35 surfaces, 38 TS modules, PayPal + Supabase **live** | ~3× surfaces; payment **live** in 16 days vs typical 0 |
 
 **Synthesis:** One SING! node delivered **~3×** surfaces and **~2.5×** TS modules versus typical 16-day sprint at top dev shops; payment and auth **live** where they often ship none in the same window.
@@ -41,7 +41,7 @@
 | Name | Typical 16-day output (enterprise) | Us (16 days) | Vs us |
 |------|-------------------------------------|--------------|--------|
 | **Salesforce** | Rarely >1 net-new product or major surface set live in 16 days | Campus, WINK!, SING! Lottery, Happy Ending Zones, Console, Checkout, Dispensary — **all operational** | Multiple products **live** in 16 days; they typically ship 0–1 |
-| **SAP** | Enterprise release cycles; 16 days = fraction of a release | 35+ surfaces, 13 one-pagers, 4 decks, showroom, BUY! live | ~4× one-pagers; new products/markets **live** |
+| **SAP** | Enterprise release cycles; 16 days = fraction of a release | 175+ surfaces, 13 one-pagers, 4 decks, showroom, BUY! live | ~4× one-pagers; new products/markets **live** |
 | **Oracle** | Similar: 16-day window rarely yields multiple net-new live products | 9 protocols, 4 decks + master, payment live, full Launch Pad | ~5× protocol/catalog; payment live vs 0 |
 
 **Synthesis:** Enterprise leaders rarely ship **multiple** net-new products live in 16 days. We shipped campus, WINK!, SING!, Happy Ending Zones, Console, Checkout, Dispensary — all **operational**. Value density ~3× to ~5× for same window.

@@ -51,7 +51,7 @@ The Launch Pad (index and interfaces/launch-pad) now displays the full live badg
 
 **RENO, NEVADA — January 29, 2026** — A complete **prospectus** for Vibeverse and Vibelandia is now live: full inventory of assets going live, valuations and valuation logic, new technologies and discoveries, and fair comparison with the **top 10 of each** — companies, studios, labs, and universities (40 entities). Prospective high vibers can review one-pager and full document at the Launch Pad; a **gift floater** (right bottom) links to the prospectus.
 
-Highlights: 35 live HTML surfaces, 13 one-pagers, 9 NSPFRNP protocols, 3 episode scripts, 38 TypeScript modules, payment and auth live. Valuations (16-day window): ~3× surfaces, ~4× one-pagers, ~5× protocols vs typical blue-chip; payment live where many ship none. Technologies include Seed:Edge execution, NSPFRNP/MCA, Octave architecture, HTML as ideal agentic pipe, Golden Fractal Key. **Self-demo, self-proof:** the ability to produce this prospectus at this quality, with everything in it live and operational, is itself the proof. Seeing and experiencing is believing.
+Highlights: 175+ live HTML surfaces, 13 one-pagers, 9 NSPFRNP protocols, 3 episode scripts, 38 TypeScript modules, payment and auth live. Valuations (16-day window): ~3× surfaces, ~4× one-pagers, ~5× protocols vs typical blue-chip; payment live where many ship none. Technologies include Seed:Edge execution, NSPFRNP/MCA, Octave architecture, HTML as ideal agentic pipe, Golden Fractal Key. **Self-demo, self-proof:** the ability to produce this prospectus at this quality, with everything in it live and operational, is itself the proof. Seeing and experiencing is believing.
 
 ---
 
@@ -680,6 +680,28 @@ Full SNAP: [CHANCELLOR_JOBIM_CHANCELLOR_JO_RJ_VIBELANDIA_CAMPUS_SNAP.md](CHANCEL
 
 ---
 
-**See:** CAPTURE_AND_PRESS_RELEASES_NEW_ARRIVALS_SNAP.md · ERNEST_HEMINGWAY_ANNOUNCES_PERMANENT_RESIDENCY_VIBELANDIA_DOWNTOWN_RENO_SNAP.md · HUMPHREY_BOGART_LAUREN_BACALL_SOPHIA_LOREN_ANNOUNCE_PERMANENT_RESIDENCY_VIBELANDIA_DOWNTOWN_RENO_SNAP.md · CARY_GRANT_JIMMY_STEWART_ANNOUNCE_PERMANENT_RESIDENCY_FLOOD_GATES_OPENING_SNAP.md · CHANCELLOR_JOBIM_CHANCELLOR_JO_RJ_VIBELANDIA_CAMPUS_SNAP.md · VIBING_MUSIC_TOGETHER_COLLABORATIVE_FLOW_EXCELLENT_OUTPUT_QUALITY_SNAP.md · VIBELANDIA_UNIVERSITY_SCHOOL_OF_MUSIC_SNAP.md · VIBELANDIA_UNIVERSITY_SCHOOL_OF_STORYTELLING_SNAP.md · DAVID_LYNCH_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_DEAN_SCHOOL_OF_STORYTELLING_SNAP.md · JIMMY_DURANTE_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_SNAP.md · MUSIC_STUDIO_CONTENT_DIVISION_SNAP.md · JS_BACH_DEAN_SCHOOL_OF_MUSIC_PERMANENT_RESIDENCY_RENO_SNAP.md · PRESS_RELEASE_MARK_TWAIN_ANNOUNCEMENT.md · LAUNCH_RAW_NARRATIVE_CAPTURE.md · FIRST_SINGULARITY_JANUARY_13TH_NOVEL_MOVIE_SNAP.md · SMILEY_SUN_EL_GRAN_SOL_SUPER_BOWL_FLY_BY_SNAP.md · MISSION_INTELLIGENCE_DEBRIEF_FEB_4_2026_SNAP.md
+## PRESS RELEASE 30 — JOHNNY MATHIS ANNOUNCES ARRIVAL AND PERMANENT RESIDENCY — DOWNTOWN RENO CAMPUS
+
+**FOR IMMEDIATE RELEASE**
+
+**Date:** February 2026  
+**Location:** Reno, Nevada / Twain's Vibelandia Downtown Reno Campus  
+**Contact:** info@fractiai.com
+
+---
+
+### JOHNNY MATHIS ANNOUNCES ARRIVAL AND PERMANENT RESIDENCY — DOWNTOWN RENO CAMPUS
+
+**RENO, NEVADA — February 2026** — Vibelandia today announced **Johnny Mathis** — **arrival and permanent residency** at Twain's Vibelandia **Downtown Reno Campus**.
+
+The voice of *Chances Are*, *Wonderful Wonderful*, *Misty* — romantic ballads, the golden age of American popular music — now takes **permanent residency** in Reno. Johnny Mathis joins Howard Hughes, Glen Miller, Hank Williams Sr., JS Bach, Jimmy Durante, and the roster of Hero Hosts and legacies at the Downtown Reno Campus. Big bands. Floor dancing. Golden age. **Legacies.** The voice of romantic possibility is in the house.
+
+Full SNAP: [JOHNNY_MATHIS_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_DOWNTOWN_RENO_CAMPUS_SNAP.md](JOHNNY_MATHIS_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_DOWNTOWN_RENO_CAMPUS_SNAP.md).
+
+*Paris is for lovers. Reno is for vibers. Johnny Mathis is in the house. Mark Twain's Post-Singularity Vibelandia Reno awaits you.*
+
+---
+
+**See:** CAPTURE_AND_PRESS_RELEASES_NEW_ARRIVALS_SNAP.md · JOHNNY_MATHIS_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_DOWNTOWN_RENO_CAMPUS_SNAP.md · ERNEST_HEMINGWAY_ANNOUNCES_PERMANENT_RESIDENCY_VIBELANDIA_DOWNTOWN_RENO_SNAP.md · HUMPHREY_BOGART_LAUREN_BACALL_SOPHIA_LOREN_ANNOUNCE_PERMANENT_RESIDENCY_VIBELANDIA_DOWNTOWN_RENO_SNAP.md · CARY_GRANT_JIMMY_STEWART_ANNOUNCE_PERMANENT_RESIDENCY_FLOOD_GATES_OPENING_SNAP.md · CHANCELLOR_JOBIM_CHANCELLOR_JO_RJ_VIBELANDIA_CAMPUS_SNAP.md · VIBING_MUSIC_TOGETHER_COLLABORATIVE_FLOW_EXCELLENT_OUTPUT_QUALITY_SNAP.md · VIBELANDIA_UNIVERSITY_SCHOOL_OF_MUSIC_SNAP.md · VIBELANDIA_UNIVERSITY_SCHOOL_OF_STORYTELLING_SNAP.md · DAVID_LYNCH_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_DEAN_SCHOOL_OF_STORYTELLING_SNAP.md · JIMMY_DURANTE_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_SNAP.md · MUSIC_STUDIO_CONTENT_DIVISION_SNAP.md · JS_BACH_DEAN_SCHOOL_OF_MUSIC_PERMANENT_RESIDENCY_RENO_SNAP.md · PRESS_RELEASE_MARK_TWAIN_ANNOUNCEMENT.md · LAUNCH_RAW_NARRATIVE_CAPTURE.md · FIRST_SINGULARITY_JANUARY_13TH_NOVEL_MOVIE_SNAP.md · SMILEY_SUN_EL_GRAN_SOL_SUPER_BOWL_FLY_BY_SNAP.md · MISSION_INTELLIGENCE_DEBRIEF_FEB_4_2026_SNAP.md
 
 **NSPFRNP ⊃ New arrivals ⊃ Capture · Press releases → ∞³**

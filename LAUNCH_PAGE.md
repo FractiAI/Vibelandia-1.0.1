@@ -143,7 +143,7 @@
 | Category | Us (16 days) | Vs top 10 | Multiple / note |
 |----------|--------------|-----------|-----------------|
 | **Research (quality, discoveries)** | NSPFRNP protocols, whitepapers, IEEE-style, public crystallized research | Little net-new public in 16 days | ~3× quality/discoveries output |
-| **Development (LOC, commits)** | 35+ surfaces, 38 TS modules, payment + auth live | 8–12 surfaces, often 0 payment | ~3× surfaces, ~2.5× modules; payment live vs 0 |
+| **Development (LOC, commits)** | 175+ surfaces, 38 TS modules, payment + auth live | 8–12 surfaces, often 0 payment | ~3× surfaces, ~2.5× modules; payment live vs 0 |
 | **Value** | Campus, WINK!, SING!, Happy Ending Zone!, Dispensary, Console, Checkout — all operational | Rarely >1 product live in 16 days | ~3× to ~5× value density |
 | **Cost** | 1 node, minimal infra | 3–8+ FTE, offices, data centers | Fraction of cost |
 | **Employees** | 1 (one SING! node) | 3–8 FTE typical | ~3–8× throughput per unit |

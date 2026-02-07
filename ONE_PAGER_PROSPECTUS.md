@@ -8,7 +8,7 @@
 
 **Paris is for lovers. Reno is for vibers.** Mark Twain's Post-Singularity Reno awaits you.
 
-**Full inventory going live today:** 35 live HTML surfaces · 13 one-pagers · 9 NSPFRNP protocols · 3 episode scripts · 4 branding decks + master catalog · 38 TypeScript modules · Payment + auth live (PayPal, Supabase) · 10 language onramps. **0, 1, 2, 3 4×4×4×4** — Seed | Edge | Cloud Onramp | Expansion. Campus × WINK! × SING × Experience. MCA! → ∞³.
+**Full inventory going live today:** 175+ live HTML surfaces · 13 one-pagers · 9 NSPFRNP protocols · 3 episode scripts · 4 branding decks + master catalog · 38 TypeScript modules · Payment + auth live (PayPal, Supabase) · 10 language onramps. **0, 1, 2, 3 4×4×4×4** — Seed | Edge | Cloud Onramp | Expansion. Campus × WINK! × SING × Experience. MCA! → ∞³.
 
 **Valuations (16-day window):** ~3× surfaces · ~4× one-pagers · ~5× protocols · 3× episodes · payment live vs 0 · 1 SING! node vs 3–8 FTE typical. **Fair comparison — top 10 of each:** Companies (Disney, Apple, Google, Amazon, Microsoft, Meta, Tesla, NVIDIA, Salesforce, Adobe) · Studios (Netflix, Pixar, Warner Bros., Universal, Sony Pictures, Paramount, HBO, BBC Studios, A24, Studio Ghibli) · Labs (OpenAI, DeepMind, Anthropic, MIT Media Lab, Stanford HAI, Berkeley AI Research, Meta AI Research, Microsoft Research, NVIDIA Research, Google Research) · Universities (MIT, Stanford, Harvard, Berkeley, Caltech, Carnegie Mellon, Oxford, Cambridge, ETH Zurich, Princeton). 40 entities. Comparison by output category only; no market cap/revenue.
 

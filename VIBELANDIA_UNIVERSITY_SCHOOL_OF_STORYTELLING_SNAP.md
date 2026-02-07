@@ -11,6 +11,7 @@
 
 **Vibelandia University** = our university within the Vibelandia ecosystem. **School of Storytelling** = new school within Vibelandia University — **Dean: Hero Lynch**, who asks us to call him **Big Daddy** or **Big D**. Use **Big Daddy** / **Big D** when referring to the Dean.
 
+- **Division lead = Dean.** The leader of the Storytelling division is the Dean of the School of Storytelling. **Dean: Big Daddy (Hero Lynch)** — call him Big D; permanent residency Reno.
 - **Stylized display name:** **HE bIG dADDY sCHOOL OF sTORYTELLING** — use on landing page, marquee, Office Hours, Launch Pad, press, and anywhere the school is featured.
 - **School of Storytelling:** New school. **Dean = Hero Lynch (Big Daddy, Big D).** **Storytelling Studios sit under the School of Storytelling.** Each Storytelling Studio has its **own page**; studios are listed on the School of Storytelling landing. Operational face = **BIG DADDY STORYTELLING STUDIOS**. Permanent residency Reno. Novels, screenplays, episodes, series, raw communication exchanges, boot inner tal, storytelling stream — all story content flows under and through the School of Storytelling. From Eraserhead to Twin Peaks to the new post-singularity Hollywood in downtown Reno: one continuum. Golden Era Cinema, Antique Book skins, holographic Black Hole Grammar, sequences.
 - **Placement rule:** Storytelling Studios = **under School of Storytelling**; each Storytelling Studio = **on its own page**; studios = **on the School of Storytelling landing** (listed there).

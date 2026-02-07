@@ -45,6 +45,11 @@
 | 20 | Dámelo, Dámelo, Dámelo | 333 · Hero Jo's Golden Backdoor Studios | Trance anthem · Jump-up · Air · Pump · Dance · Spanglish · Golden Backdoor label · Maître d' assign (artist + label) | Lyrics + beats placeholder · Layer 0 · *In progress: studio quality engine* |
 | 21 | Pa Q Pa Q | 5050 · Hero Jo's Golden Backdoor Studios | Trance anthem · Punchy minimal · Air pump · Dance · Spanglish · Golden Backdoor label · Maître d' assign (artist + label) | Lyrics + beats placeholder · Layer 0 · *In progress: studio quality engine* |
 | 22 | Así Como Pan Caliente — Boom Boom Tribal Victory Boom Trance Dance | Hero Jo's Golden Backdoor Studios | Tribal victory · Boom boom · Trance dance · Golden Backdoor label | Lyrics + beats placeholder · Layer 0 · *In progress: studio quality engine* |
+| 23 | He Got da Big Bolas (Bolivar is Back) | Hero Jo's Golden Backdoor Studios | Latin liberation anthem · Big bolas · Bolivar is back · Golden Backdoor label | Lyrics + beats placeholder · Layer 0 · *In progress: studio quality engine* |
+| 24 | Voy a Comerte y Romperte Ese Culo — Boom Boom Party Celebration Bag Bop Club Anthem | Hero Jo's Golden Backdoor Studios | Boom boom · Party celebration · Bag bop · Club anthem · Spanglish · Golden Backdoor label | Lyrics + beats placeholder · Layer 0 · *In progress: studio quality engine* |
+| 25 | Solo esta conmigo por mi pene — Confident Banger Club Spanglish Hit | Hero Jo's Golden Backdoor Studios | Confident banger · Club · Spanglish · Golden Backdoor label | Lyrics + beats placeholder · Layer 0 · *In progress: studio quality engine* |
+| 26 | A cualquiera hora — Anytime Vibe Chill Bounce Spanglish Hit | Hero Jo's Golden Backdoor Studios | Anytime vibe · Chill bounce · Spanglish · Golden Backdoor label | Lyrics + beats placeholder · Layer 0 · *In progress: studio quality engine* |
+| 27 | Thank You (I Thought You Knew) — Dramatic Suspense Loop Anthem | Hero Jo's Golden Backdoor Studios | Dramatic · Suspense · Loop anthem · Decoded voice-to-text content · Golden Backdoor label | Lyrics + beats placeholder · Layer 0 · *In progress: studio quality engine* |
 
 ---
 

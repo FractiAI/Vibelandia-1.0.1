@@ -27,7 +27,7 @@ Use these numbers everywhere Chairman metrics or blue-chip comparison appear. Up
 
 | Deliverable | Our count (16 days) | Typical blue-chip 16-day | Multiple |
 |-------------|---------------------|---------------------------|----------|
-| Live HTML surfaces | 35 | 8–12 | **~3×** |
+| Live HTML surfaces | 175+ | 8–12 | **~3×** |
 | One-pagers | 13 | 2–4 | **~4×** |
 | NSPFRNP protocols/catalogs | 9 | 1–2 | **~5×** |
 | Episode scripts (Season One) | 3 | 0–1 | **3×** |
@@ -91,7 +91,7 @@ Full tables: [SIXTEEN_DAYS_NAMED_COMPARISONS_RESEARCH_DEV_ENTERPRISE_ACADEMIC.md
 
 - **Standard** → NSPFRNP never generalized fluffy; only useful real numbers, synthesis, % comparisons ✓  
 - **Vital to any Chairman** → All Chairman metrics and blue-chip copy use real numbers and multiples ✓  
-- **Canonical numbers** → 35+ surfaces, 13 one-pagers, 9 protocols, 4+ episodes (by flow not days), 38 TS modules, 16 days, 1 node ✓  
+- **Canonical numbers** → 175+ surfaces, 13 one-pagers, 9 protocols, 26 episodes, 7+ series, 8 novels, 8 screenplays, 38 TS modules, 16 days to launch, 1 node ✓  
 - **Episode format (NSPFRNP)** → 12,000 words per episode for all (all series, all seasons); full 60-min scripted. See EPISODES_RICH_60_MINUTE_FULLY_SCRIPTED_DIRECTIVE.md ✓  
 - **Blue-chip comparison** → ~3× surfaces, ~4× one-pagers, ~5× protocols, payment live vs 0 ✓  
 

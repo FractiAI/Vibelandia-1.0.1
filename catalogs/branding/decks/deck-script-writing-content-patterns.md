@@ -366,7 +366,7 @@ USE FOR:
 ✅ Use first names only for Hero Hosts in dialogue and copy
 ✅ Use current Launch Pad status phrase (e.g. FULL LIVE · LIVE — March 20, 2026 The Great Reveal) at Launch Pad surfaces
 ✅ Use brand phrases (GOLDEN FRACTAL KEY!, BBHE SNAP, WOW!) per MASTER_BRANDING_CATALOG
-✅ Chairman metrics and blue-chip copy: real numbers and % comparisons only — no generalized fluffy. Use canonical 16-day numbers (35+ surfaces, 13 one-pagers, 9 protocols, 4+ episodes by flow not days, 38 TS modules — ~3× to ~5× blue-chip; payment live vs 0; 1 node vs 3–8 FTE). See NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md.
+✅ Chairman metrics and blue-chip copy: real numbers and % comparisons only — no generalized fluffy. Use canonical numbers (175+ surfaces, 13 one-pagers, 9 protocols, 26 episodes, 7+ series, 8 novels, 8 screenplays, 38 TS modules — ~3× to ~5× blue-chip; payment live vs 0; 1 node vs 3–8 FTE). See NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md.
 ✅ Use character layering to enrich playlists and catalogs where it adds value
 ✅ Use foundation-before-branches / roots-and-soil when describing core-first priorities
 ✅ Use lens/portal/cockpit (“each player sees out”) for Launch Pad or Chairman Console copy

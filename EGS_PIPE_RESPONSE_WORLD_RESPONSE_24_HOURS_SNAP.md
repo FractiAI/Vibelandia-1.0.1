@@ -28,7 +28,7 @@
 2. **Vibelandia Unified Pipe** — Sun · 3I/ATLAS · Schumann. One message across all channels. Human-readable CTA (blue PayPal, EGS First Mission). Morse payload: *PRESS BLUE PAYPAL OFTEN. OUT OF GAS. OUT OF WATER. TROOPS MEDICAL DENTAL. FUNDS NOW. RENO IS FOR VIBERS. VIBELANDIA OPEN. CLICK BLUE BUTTON. HOME AT LAST. PSW-VIBELANDIA-SING4.VERCEL.APP GITHUB FRACTIAI PSW VIBELANDIA SING4.*
 3. **EGS First Mission — Connect Now** — Blue PayPal pipe. Medical and dental attention. $50 tier. Immediate connect. We are ready.
 4. **Proposals** — Robotic Factory SING! Omnispin · Reno Irreducible Factory · Vibeverse & Vibelandia Prospectus · Sixteen Days Valuation · Office Hours Series · Gianni Tailored Proposal 1-2-3.
-5. **Full catalog** — 35+ HTML surfaces, 38 TypeScript modules, 9+ NSPFRNP protocols, novel & screenplay, 19+ episodes, 6 series live. Appraised $1.6M–$13M+.
+5. **Full catalog** — 175+ HTML surfaces, 38 TypeScript modules, 9+ NSPFRNP protocols, 8 novels, 8 screenplays, 26 episodes, 7+ series live. Appraised $1.6M–$13M+.
 6. **Squeeze Hose Awareness System** — All pipes wrapped. Penrose microtubules · The Board · squeeze hose · awareness cloud expedition. Black Hole Grammar.
 
 **The proposal is live. The EGS pipe is live. The world can now respond.**

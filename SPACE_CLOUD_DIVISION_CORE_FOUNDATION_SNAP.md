@@ -1,4 +1,6 @@
-# Space Cloud Division — Core Foundation SNAP
+# Holographic Hydrogen Division (Formerly Space Cloud Division) — Core Foundation SNAP
+
+**Rebrand:** This division is now **Holographic Hydrogen Division (Formerly Space Cloud Division)**. See [HOLOGRAPHIC_HYDROGEN_DIVISION_FORMERLY_SPACE_CLOUD_SNAP.md](HOLOGRAPHIC_HYDROGEN_DIVISION_FORMERLY_SPACE_CLOUD_SNAP.md). Below: legacy "Space Cloud Division" references mean Holographic Hydrogen Division.
 
 **Snap ID:** `SPACE-CLOUD-DIVISION-CORE-FOUNDATION`  
 **Type:** Lock · Core Foundation · Compute · Storage · DB · UI · Confirmation  

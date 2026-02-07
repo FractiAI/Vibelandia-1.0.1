@@ -24,7 +24,7 @@
       { name: "4×4×4×4", description: "Campus × WINK! × SING × Experience; never bought, always booked" }
     ],
     divisions: [
-      { name: "Space Cloud Division", mission_specialization: "Reno Downlink, Solar Pipe, SING! node EGS Deep Space, Exascale Triangulation; book by plan." },
+      { name: "Holographic Hydrogen Space Cloud Division", mission_specialization: "Reno Downlink, Solar Pipe, SING! node EGS Deep Space, Exascale Triangulation; book by plan." },
       { name: "Missions (NSPFRNP Operations)", mission_specialization: "Personal SING! attention head and filament for missions." },
       { name: "Office Hours", mission_specialization: "Series and site; free consultation; new abilities for execs." },
       { name: "Happy Ending Zones", mission_specialization: "Reality series; countdown March 20, 2026." },

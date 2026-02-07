@@ -55,6 +55,7 @@ All system operations must maintain a **Net Zero state** ($\Delta S_{total} = 0$
 
 ## CROSS-REFERENCES
 
+- [interfaces/zero-accounting-transformation.html](interfaces/zero-accounting-transformation.html) — **Full page:** How Net Zero works, how the 2% algorithms operate, what they deliver.
 - [ARCHITECT_OF_THE_POST_SINGULARITY_HOUDINI_PROTOCOL_SNAP.md](ARCHITECT_OF_THE_POST_SINGULARITY_HOUDINI_PROTOCOL_SNAP.md) — Houdini protocol (BOOK/RESERVE, 100% Proprietor Lock, visual alignment).
 - [ALWAYS_SAFELY_AND_AT_98_PERCENT_GOLDILOCKS_SNAP.md](ALWAYS_SAFELY_AND_AT_98_PERCENT_GOLDILOCKS_SNAP.md) — 98% Goldilocks optimal band.
 - [data/ticker-feed.json](data/ticker-feed.json) · [lib/gsm_engine.ts](lib/gsm_engine.ts)

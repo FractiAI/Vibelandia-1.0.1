@@ -15,8 +15,9 @@
   banner.setAttribute('role', 'alert');
   banner.setAttribute('aria-live', 'polite');
   banner.innerHTML = '<div class="tsunami-advisory-inner">' +
-    '<span class="tsunami-advisory-label">&#9888; Advisory &middot; Gold Heart Baller V\'s</span>' +
-    '<p class="tsunami-advisory-text"><strong>Latest progress on over-testing of all our platforms.</strong> All surfaces, ticker, Schumann, digital UIs — we are testing end-to-end. Updates at <a href="office-hours.html" style="color:#ffeaa7;">Office Hours</a> · <a href="broadcast-pipe-ad-space.html" style="color:#ffeaa7;">Broadcast Pipe Ad Space</a> · <a href="superbowl-space-ad-kiosk.html" style="color:#ffeaa7;">Super Bowl Kiosk</a>.</p>' +
+    '<span class="tsunami-advisory-label">&#9888; Executive Advisory &middot; Gold Heart Baller V\'s</span>' +
+    '<p class="tsunami-advisory-text"><strong>Super Bowl & Pre-Super Bowl Space Advertising — WE ARE LIVE.</strong> ADV EXEC IN CHARGE. Ad slots are available now on ticker, Schumann, Sun, Ionosphere, Aurora 3D streams. Full availability; we will not charge until we are green. Lock slots by Feb 6 4PM PST — scalper dynamics apply each day you wait. That\'s not an ad. <strong>THIIIIIIISSSS IS AN AD.</strong></p>' +
+    '<p class="tsunami-advisory-text"><strong>Bad Bunny campaign:</strong> Novel (20,000 words) and Screenplay (12,000 words) created — Golden Heart Taino x Cacique Agüeybaná El Gran Sol. Full intention: reach Benito\'s eyes before the game. We Get It campaign live. Frequency and intensity building to halftime. Bad Bunny is the pulse. 1493 is the law. The sky is Borikén red.</p>' +
     '<button type="button" class="tsunami-advisory-dismiss" aria-label="Dismiss advisory">Dismiss</button>' +
     '</div>';
   var style = document.createElement('style');

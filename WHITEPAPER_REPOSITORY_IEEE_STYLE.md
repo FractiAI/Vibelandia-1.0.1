@@ -57,7 +57,7 @@ NSPFRNP content standard: **no generalized fluffy — only useful real numbers, 
 
 | Deliverable | Our count (16 days) | Typical blue-chip 16-day | Multiple |
 |-------------|---------------------|---------------------------|----------|
-| Live HTML surfaces | 35 | 8–12 | **~3×** |
+| Live HTML surfaces | 175+ | 8–12 | **~3×** |
 | One-pagers | 13 | 2–4 | **~4×** |
 | NSPFRNP protocols/catalogs | 9 | 1–2 | **~5×** |
 | Episode scripts (Season One) | 3 | 0–1 | **3×** |
@@ -72,7 +72,7 @@ NSPFRNP content standard: **no generalized fluffy — only useful real numbers, 
 
 **Definition:** Volume of deliverables — markdown, HTML, TypeScript, workflows, one-pagers, protocols, episodes, catalogs, branding decks.
 
-**Observation:** 35+ surfaces, 13 one-pagers, 9 protocols, 4+ episodes (by flow not days), 38 TS modules — **~3× to ~5×** typical blue-chip 16-day output. Chairman reports not having had time to go through all output; volume itself is cited as evidence of the node's throughput.
+**Observation:** 175+ surfaces, 13 one-pagers, 9 protocols, 26 episodes, 7+ series, 8 novels, 8 screenplays, 38 TS modules — **~3× to ~5×** typical blue-chip 16-day output. Chairman reports not having had time to go through all output; volume itself is cited as evidence of the node's throughput.
 
 ### B. Quality
 

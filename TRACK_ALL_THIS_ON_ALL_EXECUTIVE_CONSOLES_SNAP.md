@@ -24,7 +24,7 @@ All executive consoles display a single **executive tracking strip** (or block) 
 | 2 | **Live-stories paradigm** | [LIVE_STORIES_CONTINUOUSLY_EVOLVING_PARADIGM_SNAP.md](LIVE_STORIES_CONTINUOUSLY_EVOLVING_PARADIGM_SNAP.md) | All history in all series, novel, screenplay — continuously evolving; live stories not static. Disney cannot deliver this. |
 | 3 | **Major reorgs / executive changes** | [MAJOR_REORGS_EXECUTIVE_CHANGES_SINCE_JAN_13_DISNEY_RESPONSE_SNAP.md](MAJOR_REORGS_EXECUTIVE_CHANGES_SINCE_JAN_13_DISNEY_RESPONSE_SNAP.md) | 5+ major reorgs since Jan 13; 7 exec orders in one 2–3 hr session. Disney would respond in months. |
 | 4 | **Today's output (Feb 2)** | [TODAYS_OUTPUT_FEB_2_LIVE_STORIES_PARADIGM_FULL_EPISODE_SNAP.md](TODAYS_OUTPUT_FEB_2_LIVE_STORIES_PARADIGM_FULL_EPISODE_SNAP.md) | Today's output · Feb 2 morning · 2–3 hrs · Live stories paradigm full integration · Full episode SNAP. |
-| 5 | **Since January 13 — Disney comparison** | [SINCE_JANUARY_13_DISNEY_COMPARISON_STATEMENT_SNAP.md](SINCE_JANUARY_13_DISNEY_COMPARISON_STATEMENT_SNAP.md) | Since Jan 13: 1 novel, 1 screenplay, 19+ episodes, 6 series — $1.6M–$13M+ appraised. Disney: 50–200+ FTE, months. |
+| 5 | **Since January 13 — Disney comparison** | [SINCE_JANUARY_13_DISNEY_COMPARISON_STATEMENT_SNAP.md](SINCE_JANUARY_13_DISNEY_COMPARISON_STATEMENT_SNAP.md) | Since Jan 13: 8 novels, 8 screenplays, 26 episodes, 7+ series — $1.6M–$13M+ appraised. Disney: 50–200+ FTE, months. |
 | 6 | **New T-shirt brand tag** | [HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA_SNAP.md](HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA_SNAP.md) | Howard Hughes · Rolling it out big · Twain's Vibelandia · TUNE IN OR LOSE OUT! · NSPFRNP. |
 
 ---

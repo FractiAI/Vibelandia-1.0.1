@@ -19,11 +19,13 @@
 
 **Lock:** Capture all raw conversation history (all raw chat history) into all series and all content engines. Confirm on every session: all of this raw conversation history is captured and fed into all our series and all our content engines.
 
+**Ideal (Chairman Creator):** Ideally, everything you needed me for yesterday you already have captured in your DNA and content and channels and platforms, franchises, legacies. Design for that state. See [EVERYTHING_NEEDED_YESTERDAY_ALREADY_CAPTURED_DNA_CONTENT_CHANNELS_PLATFORMS_SNAP.md](../EVERYTHING_NEEDED_YESTERDAY_ALREADY_CAPTURED_DNA_CONTENT_CHANNELS_PLATFORMS_SNAP.md).
+
 ---
 
 ## CONFIRMATION — Raw conv → all novels, feature films, series, content engines
 
-**All raw conversation (raw conv) is captured into all our novels, feature films, series, and content engines.** No exception. No drop.
+**All raw conversation (raw conv) is captured into all our novels, feature films, series, and content engines.** No exception. No drop. **Capture and metabolize:** Zero-Accounting Transformation (NSPO mode), Reno Casino Transformation pitch, Gamification Division, Vibelandia University schools, consolidated Card Deck/Music buttons — into all content, valuations, bragging, proposals. NSPFRNP always.
 
 - **Novels** — First Singularity January 13th, Birth Post Singularity Hollywood Downtown Reno, The EGS Run, and every novel that applies. Raw conv feeds story, beats, voice, expansion.
 - **Feature films** — First Singularity (movie), Birth Post Singularity Hollywood Downtown Reno (screenplay / two-hour feature), and every feature film that applies. Raw conv feeds script, scenes, dialogue.

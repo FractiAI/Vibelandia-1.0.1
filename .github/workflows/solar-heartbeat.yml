@@ -17,7 +17,11 @@ jobs:
         with:
           submodules: false
           token: ${{ secrets.GITHUB_TOKEN }}
-          # Persist credentials so git-auto-commit-action can push (contents: write already granted). 
+          # Persist credentials so git-auto-commit-action can push (contents: write already granted).
+
+      # If origin/main was force-pushed or has new commits, rebase so our commit is on top and push succeeds.
+      - name: Rebase on latest origin/main
+        run: git pull --rebase origin main
 
       - name: Update telemetry heartbeat
         id: heartbeat

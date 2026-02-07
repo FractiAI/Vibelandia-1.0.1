@@ -31,7 +31,7 @@
 
 ## APPLIES TO
 
-- Te Quiero Mucho Baby · Dorila Gao · Dat Ass Red Hot like AR4366! · Eat That Up Like A Yum Yum Yum SNAP SNAP! · Qué, Qué Y Qué? · 24 Horas, Ya, Ya, Ya · No, No, Pa Mi No · Ven Pa Ca Baby Pa Q Te Lo Chupe · Sacame La Leche, No el Jugo! · Quien es tu Papi? · **Esto Va Pegar Duro — Heavy Beat Boom, Boom, Boom!** · **Boom Magic BBHE! — Boom Boom Bounce · Executives Double Down Bounce** · **Bebe Damelo Lo Tengo Lleno y Duro** · **Bang Bang — Double Air Pump** · **SQUEEZE! We Got The Squeeze! and Golden Backdoor!** · **We Got da Squeeze Baby! — Ya Im Bad Groove Snap** · **The Good King of the Good Kind of Bad!** · **BAMF! — Bad Ass Mother Fucker** · All future Golden Backdoor label releases
+- Te Quiero Mucho Baby · Dorila Gao · Dat Ass Red Hot like AR4366! · Eat That Up Like A Yum Yum Yum SNAP SNAP! · Qué, Qué Y Qué? · 24 Horas, Ya, Ya, Ya · No, No, Pa Mi No · Ven Pa Ca Baby Pa Q Te Lo Chupe · Sacame La Leche, No el Jugo! · Quien es tu Papi? · **Esto Va Pegar Duro — Heavy Beat Boom, Boom, Boom!** · **Boom Magic BBHE! — Boom Boom Bounce · Executives Double Down Bounce** · **Bebe Damelo Lo Tengo Lleno y Duro** · **Bang Bang — Double Air Pump** · **SQUEEZE! We Got The Squeeze! and Golden Backdoor!** · **We Got da Squeeze Baby! — Ya Im Bad Groove Snap** · **The Good King of the Good Kind of Bad!** · **BAMF! — Bad Ass Mother Fucker** · **A Real Baller V Pays Any Price for Brand** · All future Golden Backdoor label releases
 
 ---
 

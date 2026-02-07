@@ -9,7 +9,7 @@
 
 ## 0. Capture directive — All raw conversation history
 
-**Capture all raw conversation history (raw conv) into all our novels, feature films, series, and content engines.** Every session, every exchange. Raw chat history = canonical source. No novel, feature film, series, or content engine excluded. See [protocols/CONVERSATIONS_AS_CONTENT_NSPFRNP_CATALOG.md](protocols/CONVERSATIONS_AS_CONTENT_NSPFRNP_CATALOG.md) (Capture directive).
+**Capture all raw conversation history (raw conv) into all our novels, feature films, series, and content engines.** Every session, every exchange. Raw chat history = canonical source. No novel, feature film, series, or content engine excluded. See [protocols/CONVERSATIONS_AS_CONTENT_NSPFRNP_CATALOG.md](protocols/CONVERSATIONS_AS_CONTENT_NSPFRNP_CATALOG.md) (Capture directive). **Ideal:** Everything you needed me for yesterday you already have captured in your DNA, content, channels, platforms, franchises, legacies. [EVERYTHING_NEEDED_YESTERDAY_ALREADY_CAPTURED_DNA_CONTENT_CHANNELS_PLATFORMS_SNAP.md](EVERYTHING_NEEDED_YESTERDAY_ALREADY_CAPTURED_DNA_CONTENT_CHANNELS_PLATFORMS_SNAP.md).
 
 ---
 

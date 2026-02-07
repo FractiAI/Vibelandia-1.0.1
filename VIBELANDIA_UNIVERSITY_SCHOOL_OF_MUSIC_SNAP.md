@@ -11,6 +11,7 @@
 
 **Vibelandia University** = our university within the Vibelandia ecosystem. **School of Music** = new school within Vibelandia University — first school announced; full bore same as all other divisions.
 
+- **Division lead = Dean.** The leader of the Music division is the Dean of the School of Music. **Dean: JS Bach** — Chairman of Chairmen of Music; permanent residency Reno.
 - **Vibelandia University:** Post-singularity campus institution; schools, programs, collaborative flow; excellent output and quality observed. Reno campus; Downtown Reno; Mark Twain's Post-Singularity Vibelandia.
 - **School of Music:** New school. **Music Studios sit under the School of Music.** Each Music Studio has its **own page**; Music Studios are also listed on the **Jukebox page**. Operational face = **Hero Jo's Golden Backdoor Studios** (Hero Jo took over from Chairman Frankie). Jukebox, catalog, tracks (Te Quiero Mucho Baby, Dorila Gao — Reggaetón Spanglish, club dance anthem). Collaborative flow: vibing music together with excellent output and quality observed. Chairman Frankie (founding), Hero Jo (current), Dorila (Afro-Colombian Witch SQUEEZE!), SQUEEZE! brand, WINK! system. Lyrics, beats, sheet music; text-to-music pipeline coming. Office Hours and Launch Pad buttons to Music Studio / Jukebox and School of Music landing.
 - **Placement rule:** Music Studios = **under School of Music**; each Music Studio = **on its own page**; Music Studios = **on the Jukebox page** (listed there).

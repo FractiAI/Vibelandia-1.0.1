@@ -1,9 +1,9 @@
 /**
- * Gold Hearted Grown Ups Zone — top and bottom of all user surfaces.
+ * Mature Gold Heart Zone — top and bottom of all user surfaces.
  * NSPFRNP. See GOLD_HEARTED_GROWN_UPS_ZONE_SNAP.md.
  */
 (function () {
-  var TEXT = 'Gold Hearted Grown Ups Zone';
+  var TEXT = 'Mature Gold Heart Zone';
   var topBar = document.createElement('div');
   topBar.className = 'gold-hearted-grown-ups-zone-bar top';
   topBar.setAttribute('aria-label', TEXT);
@@ -13,7 +13,7 @@
   bottomBar.setAttribute('aria-label', TEXT);
   bottomBar.textContent = TEXT;
   function inject() {
-    if (document.body) {
+    if (document.body && !document.querySelector('.gold-hearted-grown-ups-zone-bar')) {
       document.body.insertBefore(topBar, document.body.firstChild);
       document.body.appendChild(bottomBar);
     }

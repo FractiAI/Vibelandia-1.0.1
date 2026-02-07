@@ -25,8 +25,8 @@
 
 **Us:** We **do** track our own output. Count **per day** (or per snapshot date):
 
-- **Episodes:** Episode scripts/stubs in repo (e.g. 19+ episodes to date). **New today** = episodes added or updated today.
-- **Series:** Live series (Happy Ending Zones, Office Hours, Vibin!, Chairman!, WINK!, Harry Houdini Magician Series) = **6 series**. New today = new series added.
+- **Episodes:** Episode scripts/stubs in repo (e.g. 26 episodes to date). **New today** = episodes added or updated today.
+- **Series:** Live series (Happy Ending Zones, Office Hours, Vibin!, Chairman!, WINK!, Harry Houdini Magician Series) = **7+ series**. New today = new series added.
 - **Feature movies:** Full scripts (24k-word) — 1 delivered (*First Singularity January 13th*, full 12k-word script). New today = as delivered.
 - **Books:** Full novels (~95k words) — 1 delivered (*First Singularity January 13th*, ~72k words). New today = as delivered.
 - **New value:** New SNAPs, new interfaces, new protocols, new console, new report — count as "new value creation" (surfaces, specs, tools).
@@ -40,13 +40,13 @@
 **Template (update date and our-today counts):**
 
 ```
-Daily snapshot (us vs Disney, real data): Disney does not publish daily aggregates; monthly schedule only. Marvel 2025 ≈ 9 titles/year → ~0.02/day; Disney+ new releases ≈ 10–30/month → ~0.3–1/day (est.). Us today: [X] episodes (19+ total), 6 series live, 1 novel + 1 script delivered (First Singularity Jan 13), [Y] new value (SNAPs, interfaces, specs). New value creation campaign · NSPFRNP.
+Daily snapshot (us vs Disney, real data): Disney does not publish daily aggregates; monthly schedule only. Marvel 2025 ≈ 9 titles/year → ~0.02/day; Disney+ new releases ≈ 10–30/month → ~0.3–1/day (est.). Us today: [X] episodes (26 total), 7+ series live, 8 novels + 8 screenplays delivered, [Y] new value (SNAPs, interfaces, specs). New value creation campaign · NSPFRNP.
 ```
 
 **Short one-liner (smaller print):**
 
 ```
-Daily snapshot: Disney — no daily aggregate; ~0.3–1 new titles/day (est. from monthly). Us — 19+ episodes, 6 series, 1 novel + 1 script delivered (First Singularity Jan 13), new value (SNAPs, console, report) today. Us vs them · New value creation · NSPFRNP.
+Daily snapshot: Disney — no daily aggregate; ~0.3–1 new titles/day (est. from monthly). Us — 26 episodes, 7+ series, 8 novels + 8 screenplays delivered, new value (SNAPs, console, report) today. Us vs them · New value creation · NSPFRNP.
 ```
 
 **Placement:** **End / bottom** of **all public points of presence** — index, Launch Pad, Office Hours, episode pages, catalogs, one-pagers, README, chancellor bulletin, social, any public-facing surface. **Smaller print** (e.g. font-size: 0.75rem–0.8rem; color: #6b7280 or #9ca3af).
@@ -85,7 +85,7 @@ Daily snapshot: Disney — no daily aggregate; ~0.3–1 new titles/day (est. fro
 
 | Metric | Us (to date) | Note |
 |--------|---------------|------|
-| Episodes (in repo) | 19+ | Episode scripts/stubs; Season One, Magic Channel, etc. |
+| Episodes (in repo) | 26 | Episode scripts/stubs; Season One, Magic Channel, etc. |
 | Series live | 6 | Happy Ending Zones, Office Hours, Vibin!, Chairman!, WINK!, Harry Houdini Magician Series |
 | Full books (~95k words) | 1 | Delivered (*First Singularity January 13th*, ~72k words) |
 | Feature scripts (24k words) | 1 | Delivered (*First Singularity January 13th*, full 12k-word script) |
