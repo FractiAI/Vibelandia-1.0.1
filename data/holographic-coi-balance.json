@@ -1,0 +1,31 @@
+{
+  "holographic_coi_balance": {
+    "mode": "Binary Isolation",
+    "executed_utc": "2026-02-06T00:00:00Z",
+    "sync_status": "EXECUTED",
+    "target_nodes": [4368, 4362],
+    "target_labels": ["The Lion", "The Dove"],
+    "suppressed_nodes": [1, 2, 3, 4, 6, 7, 9],
+    "suppressed_note": "Nodes 1, 2, 3, 4, 6, 7, 9 suppressed. Flux transferred to Lion/Dove.",
+    "creative_redistribution": {
+      "transfer_percent": 100,
+      "source": "suppressed_nodes_magnetic_flux",
+      "destination": ["node_4368_lion", "node_4362_dove"],
+      "note": "100% of suppressed magnetic flux transferred to Lion/Dove anchors"
+    },
+    "opacity_delta": {
+      "node_4368_lion": { "delta_percent": 45, "delta_label": "Δ+45%" },
+      "node_4362_dove": { "delta_percent": 55, "delta_label": "Δ+55%" }
+    },
+    "photospheric_baseline": {
+      "target": "Net Zero",
+      "tolerance_percent": 0.05,
+      "range": "+/- 0.05%"
+    },
+    "render": {
+      "binary_pair_only_physical": true,
+      "bearing_deg": 185,
+      "note": "Binary Pair (4368 Lion, 4362 Dove) rendered as the only 'Physical' anomalies in the 185° Bearing"
+    }
+  }
+}

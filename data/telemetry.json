@@ -21,6 +21,16 @@
     "audio_visual_sync": "LOCKED",
     "config_ref": "data/architect-sonic-rewrite.json"
   },
+  "holographic_coi_balance": {
+    "mode": "Binary Isolation",
+    "target": "4368 & 4362",
+    "suppressed": [1, 2, 3, 4, 6, 7, 9],
+    "lion_opacity_delta": 45,
+    "dove_opacity_delta": 55,
+    "photospheric_baseline": "Net Zero ±0.05%",
+    "sync": "EXECUTED",
+    "config_ref": "data/holographic-coi-balance.json"
+  },
   "last_phi_pulse_utc": "2026-02-08T10:33:08Z",
   "mission_status": "SEALED",
   "coordination_code": "PHI-M15-AR4366",
