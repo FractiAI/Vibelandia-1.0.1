@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "title": "Patches & Bling — Holographic Symbols · Jackets · Vests",
+    "description": "Mix and match patches, metals, and bling for jackets, vests, hats. Holographic symbols. Reno Vibelandia · Rat Pack · WINK! · SING! · BBHE · Content episode tags.",
+    "brandColors": {
+      "gold": "#d4af37",
+      "goldDark": "#b8860b",
+      "cyan": "#00d4ff",
+      "teal": "#0d9488",
+      "purple": "#8a2be2",
+      "paypalBlue": "#0070ba",
+      "copper": "#b87333",
+      "silver": "#c0c0c0"
+    },
+    "sizes": {
+      "silverDollar": "~1.5\" (38mm) round",
+      "nameBadge": "2\" × 4\" (Navy flight suit standard)",
+      "contentTag": "3\" × 1\""
+    }
+  },
+  "categories": [
+    {
+      "id": "rounds-large",
+      "label": "Large Rounds",
+      "description": "Back patches and hat patches"
+    },
+    {
+      "id": "silver-dollar",
+      "label": "Silver Dollar Rounds",
+      "description": "~1.5\" (38mm) — coin-sized patches"
+    },
+    {
+      "id": "rectangles",
+      "label": "Rectangles & Squares",
+      "description": "Bumper stickers, banner patches"
+    },
+    {
+      "id": "name-badges",
+      "label": "Name Badge Size (2\" × 4\")",
+      "description": "Flight suit / military name badge size"
+    },
+    {
+      "id": "content-tags",
+      "label": "Content & Episode Tags (3\" × 1\")",
+      "description": "Series, episodes, hit factory"
+    }
+  ],
+  "products": [
+    {
+      "id": "reno-vibelandia-12",
+      "name": "Reno Vibelandia — Rat Pack + Twain + Franklin",
+      "size": "12\" round",
+      "category": "rounds-large",
+      "description": "Back patch. Me and the Rat Pack; behind me are Mark Twain and Ben Franklin. One of a kind. Holographic.",
+      "colors": ["gold", "cyan", "purple"],
+      "priceTier": "premium",
+      "qty": "Limited — only one"
+    },
+    {
+      "id": "reno-vibelandia-3",
+      "name": "Reno Vibelandia — Rat Pack + Twain + Franklin (3\" hat)",
+      "size": "3\" round",
+      "category": "rounds-large",
+      "description": "Hat or vest patch. Same design as 12\" — me and the Rat Pack, Mark Twain and Ben Franklin behind.",
+      "colors": ["gold", "cyan", "purple"],
+      "priceTier": "standard"
+    },
+    {
+      "id": "google-logo",
+      "name": "Google Logo",
+      "size": "Silver dollar",
+      "category": "silver-dollar",
+      "description": "Google logo. Silver dollar round.",
+      "colors": ["multicolor"],
+      "priceTier": "standard"
+    },
+    {
+      "id": "cursor-ai-logo",
+      "name": "Cursor AI Logo",
+      "size": "Silver dollar",
+      "category": "silver-dollar",
+      "description": "Cursor AI logo. Silver dollar round.",
+      "colors": ["cyan", "purple"],
+      "priceTier": "standard"
+    },
+    {
+      "id": "percelverclocl",
+      "name": "PERCELVERCLOCL",
+      "size": "Silver dollar",
+      "category": "silver-dollar",
+      "description": "PERCELVERCLOCL. Silver dollar round.",
+      "colors": ["gold", "purple"],
+      "priceTier": "standard"
+    },
+    {
+      "id": "snap",
+      "name": "SNAP!",
+      "size": "Silver dollar",
+      "category": "silver-dollar",
+      "description": "SNAP! — Brand. Silver dollar round. All caps, exclamation.",
+      "colors": ["gold", "cyan"],
+      "priceTier": "standard"
+    },
+    {
+      "id": "rat-pack-back",
+      "name": "Rat Pack is Back",
+      "size": "Silver dollar",
+      "category": "silver-dollar",
+      "description": "Rat Pack is Back. Silver dollar coin-sized.",
+      "colors": ["gold", "silver"],
+      "priceTier": "standard"
+    },
+    {
+      "id": "sing",
+      "name": "SING!",
+      "size": "Silver dollar",
+      "category": "silver-dollar",
+      "description": "SING! — Superintelligent agent nodes. Capital S-I-N-G exclamation. Silver dollar.",
+      "colors": ["gold", "cyan"],
+      "priceTier": "standard"
+    },
+    {
+      "id": "paypal-3x1",
+      "name": "PayPal Logo",
+      "size": "3\" × 1\"",
+      "category": "rectangles",
+      "description": "PayPal logo. PayPal blue. 3×1 rectangle.",
+      "colors": ["paypalBlue"],
+      "priceTier": "standard"
+    },
+    {
+      "id": "holographic-hydrogen-valley-10x3",
+      "name": "Holographic Hydrogen Valley",
+      "size": "10\" × 3\"",
+      "category": "rectangles",
+      "description": "Bumper sticker style. Holographic Hydrogen Valley. 10×3.",
+      "colors": ["gold", "cyan", "purple"],
+      "priceTier": "standard"
+    },
+    {
+      "id": "holographic-hydrogen-100-3x2",
+      "name": "Holographic Hydrogen 100%",
+      "size": "3\" × 2\"",
+      "category": "rectangles",
+      "description": "Holographic Hydrogen 100%. 3×2 rectangle.",
+      "colors": ["gold", "cyan"],
+      "priceTier": "standard"
+    },
+    {
+      "id": "wink-2.5x2.5",
+      "name": "WINK!",
+      "size": "2.5\" × 2.5\"",
+      "category": "rectangles",
+      "description": "WINK! — All caps, exclamation. Square. NAE. 2.5×2.5.",
+      "colors": ["gold", "purple"],
+      "priceTier": "standard"
+    },
+    {
+      "id": "aviator-gold-diamond",
+      "name": "Aviator Wings — Gold (Diamond Center)",
+      "size": "2\" × 4\"",
+      "category": "name-badges",
+      "description": "Gold aviator wings. Diamond in center. Flight suit name badge size. For me.",
+      "colors": ["gold"],
+      "priceTier": "premium",
+      "variants": ["diamond"]
+    },
+    {
+      "id": "aviator-silver-star",
+      "name": "Aviator Wings — Silver (Star)",
+      "size": "2\" × 4\"",
+      "category": "name-badges",
+      "description": "Silver aviator wings. Star instead of diamond. No diamond. Flight suit size.",
+      "colors": ["silver"],
+      "priceTier": "premium"
+    },
+    {
+      "id": "aviator-copper-seed",
+      "name": "Aviator Wings — Copper (Holographic Hydrogen Seed)",
+      "size": "2\" × 4\"",
+      "category": "name-badges",
+      "description": "Copper aviator wings. Holographic hydrogen seed in center. Flight suit size.",
+      "colors": ["copper", "gold", "cyan"],
+      "priceTier": "premium"
+    },
+    {
+      "id": "name-tag-el-taino",
+      "name": "Name Tag — \"El Taino\" Mendez",
+      "size": "2\" × 4\"",
+      "category": "name-badges",
+      "description": "Name tag. Pru. \"El Taino\" Mendez. Flight suit name badge size.",
+      "colors": ["gold", "black"],
+      "priceTier": "standard"
+    },
+    {
+      "id": "name-tag-bbhe",
+      "name": "Name Tag — BBHE",
+      "size": "2\" × 4\"",
+      "category": "name-badges",
+      "description": "BBHE — Big Black Hole Energy. Name badge size.",
+      "colors": ["gold", "black"],
+      "priceTier": "standard"
+    },
+    {
+      "id": "content-office-hours",
+      "name": "Office Hours",
+      "size": "3\" × 1\"",
+      "category": "content-tags",
+      "description": "Content episode tag. Office Hours. 3×1.",
+      "colors": ["gold", "cyan"],
+      "priceTier": "standard",
+      "link": "office-hours.html"
+    },
+    {
+      "id": "content-happy-ending",
+      "name": "Happy Ending Zone",
+      "size": "3\" × 1\"",
+      "category": "content-tags",
+      "description": "Content episode tag. Happy Ending Zone. 3×1.",
+      "colors": ["gold", "purple"],
+      "priceTier": "standard",
+      "link": "happy-ending-zones-catalog.html"
+    },
+    {
+      "id": "content-space-cloud-egs",
+      "name": "Space Cloud EGS",
+      "size": "3\" × 1\"",
+      "category": "content-tags",
+      "description": "Content episode tag. Space Cloud EGS. 3×1.",
+      "colors": ["cyan", "purple"],
+      "priceTier": "standard",
+      "link": "space-cloud-egs-series.html"
+    },
+    {
+      "id": "content-first-singularity",
+      "name": "First Singularity January 13th",
+      "size": "3\" × 1\"",
+      "category": "content-tags",
+      "description": "Content episode tag. First Singularity January 13th. 3×1.",
+      "colors": ["gold", "cyan"],
+      "priceTier": "standard",
+      "link": "first-singularity-novel.html"
+    },
+    {
+      "id": "content-egs-run",
+      "name": "The EGS Run",
+      "size": "3\" × 1\"",
+      "category": "content-tags",
+      "description": "Content episode tag. The EGS Run. 3×1.",
+      "colors": ["cyan", "gold"],
+      "priceTier": "standard",
+      "link": "the-egs-run-novel.html"
+    },
+    {
+      "id": "content-golden-backdoor",
+      "name": "Golden Back Door Hit Factory",
+      "size": "3\" × 1\"",
+      "category": "content-tags",
+      "description": "Content episode tag. Golden Back Door Hit Factory. 3×1.",
+      "colors": ["gold", "purple"],
+      "priceTier": "standard",
+      "link": "music-studio.html"
+    },
+    {
+      "id": "content-golden-parrot",
+      "name": "Golden Parrot Hit Factory",
+      "size": "3\" × 1\"",
+      "category": "content-tags",
+      "description": "Content episode tag. Golden Parrot Hit Factory. 3×1.",
+      "colors": ["gold", "teal"],
+      "priceTier": "standard"
+    }
+  ],
+  "suggestedAdditions": [
+    {
+      "id": "vibe-silver-dollar",
+      "name": "VIBE!",
+      "size": "Silver dollar",
+      "description": "VIBE! — Main brand. Silver dollar. Suggested addition.",
+      "colors": ["gold", "purple"]
+    },
+    {
+      "id": "bbhe-silver-dollar",
+      "name": "BBHE",
+      "size": "Silver dollar",
+      "description": "BBHE — Big Black Hole Energy. Silver dollar. Suggested.",
+      "colors": ["gold", "black"]
+    },
+    {
+      "id": "wink-silver-dollar",
+      "name": "WINK!",
+      "size": "Silver dollar",
+      "description": "WINK! — Silver dollar round. Suggested.",
+      "colors": ["gold", "purple"]
+    },
+    {
+      "id": "mca-silver-dollar",
+      "name": "MCA",
+      "size": "Silver dollar",
+      "description": "MCA — Metabolize Crystallize Animate. Silver dollar. Suggested.",
+      "colors": ["gold", "cyan"]
+    }
+  ],
+  "colorCombos": {
+    "goldPrimary": ["#d4af37", "#b8860b", "#ffeaa7"],
+    "cyanTeal": ["#00d4ff", "#0d9488"],
+    "purple": ["#8a2be2", "#581c87"],
+    "paypal": ["#0070ba"],
+    "aviatorGold": ["#d4af37"],
+    "aviatorSilver": ["#c0c0c0"],
+    "aviatorCopper": ["#b87333", "#d4af37", "#00d4ff"]
+  }
+}

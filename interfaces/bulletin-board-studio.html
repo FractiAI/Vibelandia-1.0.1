@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bulletin Board Studio — Creator Console · Push Postings to Your Own Board | VIBELANDIA!</title>
+    <meta name="description" content="Bulletin Board Studio. Get your own bulletin board. Creator console — push new postings to your board. Seed:Edge · AI-assisted · preconfigured choices · Goldilocks best path. Identity tied to wallet · Golden Key.">
+    <link rel="stylesheet" href="experience-common.css">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(180deg, #0a0a12 0%, #1a1a2e 50%, #16213e 100%);
+            color: #e8e6e3;
+            min-height: 100vh;
+            line-height: 1.6;
+        }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem 1.5rem; }
+        .back { margin-bottom: 1.5rem; }
+        .back a { color: #00d4ff; text-decoration: none; }
+        .back a:hover { text-decoration: underline; }
+        .hero {
+            text-align: center;
+            padding: 2rem 1.5rem 2.5rem;
+            margin-bottom: 2rem;
+            background: linear-gradient(145deg, rgba(212, 175, 55, 0.2) 0%, rgba(0, 212, 255, 0.08) 50%, rgba(138, 43, 226, 0.06) 100%);
+            border: 3px solid rgba(212, 175, 55, 0.65);
+            border-radius: 16px;
+            box-shadow: 0 0 50px rgba(212, 175, 55, 0.12);
+        }
+        .hero .badge { display: inline-block; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.2em; color: #d4af37; margin-bottom: 0.75rem; font-weight: 700; }
+        .hero h1 { font-size: clamp(1.4rem, 4vw, 2rem); font-weight: 800; background: linear-gradient(135deg, #d4af37, #ffeaa7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin-bottom: 0.5rem; }
+        .hero .tagline { font-size: 1rem; color: #b0b8c0; }
+        .studio-console {
+            padding: 1.75rem 1.5rem;
+            margin-bottom: 1.5rem;
+            background: rgba(255,255,255,0.04);
+            border: 2px solid rgba(212, 175, 55, 0.4);
+            border-radius: 14px;
+        }
+        .studio-console h2 { font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.15em; color: #d4af37; margin-bottom: 1rem; font-weight: 700; }
+        .studio-console label { display: block; font-size: 0.9rem; color: #9ca8b8; margin-bottom: 0.35rem; }
+        .studio-console input, .studio-console textarea, .studio-console select {
+            width: 100%;
+            padding: 0.75rem 1rem;
+            margin-bottom: 1rem;
+            background: rgba(0,0,0,0.35);
+            border: 1px solid rgba(212, 175, 55, 0.35);
+            border-radius: 10px;
+            color: #e8e6e3;
+            font-size: 0.95rem;
+        }
+        .studio-console textarea { min-height: 100px; resize: vertical; }
+        .studio-console input:focus, .studio-console textarea:focus, .studio-console select:focus {
+            outline: none;
+            border-color: rgba(212, 175, 55, 0.7);
+        }
+        .preconfigured-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin: 0.75rem 0 1rem;
+        }
+        .preconfigured-row button {
+            padding: 0.5rem 1rem;
+            background: rgba(212, 175, 55, 0.15);
+            border: 1px solid rgba(212, 175, 55, 0.45);
+            border-radius: 8px;
+            color: #ffeaa7;
+            font-size: 0.85rem;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .preconfigured-row button:hover {
+            background: rgba(212, 175, 55, 0.25);
+            border-color: rgba(212, 175, 55, 0.7);
+        }
+        .goldilocks-note {
+            padding: 1rem 1.25rem;
+            margin: 1rem 0;
+            background: linear-gradient(90deg, rgba(127, 255, 127, 0.08) 0%, rgba(212, 175, 55, 0.06) 100%);
+            border: 1px solid rgba(127, 255, 127, 0.35);
+            border-radius: 10px;
+            font-size: 0.9rem; color: #9ca8b8;
+        }
+        .goldilocks-note strong { color: #7fff7f; }
+        .wallet-identity {
+            padding: 1rem 1.25rem;
+            margin-bottom: 1.5rem;
+            background: rgba(0, 212, 255, 0.06);
+            border: 2px solid rgba(0, 212, 255, 0.35);
+            border-radius: 12px;
+        }
+        .wallet-identity h3 { font-size: 1rem; color: #00d4ff; margin-bottom: 0.5rem; }
+        .wallet-identity p { font-size: 0.9rem; color: #b0b8c0; margin-bottom: 0.5rem; }
+        .cta-btn {
+            display: inline-block;
+            padding: 0.9rem 1.75rem;
+            background: linear-gradient(135deg, #d4af37, #b8860b);
+            color: #0a0a12;
+            font-weight: 800;
+            text-decoration: none;
+            border-radius: 12px;
+            font-size: 1rem;
+            border: 2px solid rgba(212, 175, 55, 0.7);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .cta-btn:hover { transform: translateY(-2px); box-shadow: 0 6px 24px rgba(212, 175, 55, 0.4); }
+        .cta-btn.secondary { background: rgba(0, 212, 255, 0.2); color: #00d4ff; border-color: rgba(0, 212, 255, 0.5); }
+        .cta-btn.secondary:hover { box-shadow: 0 6px 24px rgba(0, 212, 255, 0.3); }
+        .join-prompt {
+            padding: 1.25rem 1.5rem;
+            margin-bottom: 2rem;
+            background: linear-gradient(135deg, rgba(212, 175, 55, 0.18) 0%, rgba(138, 43, 226, 0.08) 100%);
+            border: 2px solid rgba(212, 175, 55, 0.55);
+            border-radius: 14px;
+            text-align: center;
+        }
+        .join-prompt p { font-size: 1rem; color: #e8e6e3; margin-bottom: 0.75rem; }
+        .join-prompt .highlight { font-size: 1.1rem; font-weight: 700; color: #ffeaa7; }
+    </style>
+</head>
+<body>
+    <script src="tsunami-advisory-inject.js"></script>
+    <div class="container">
+        <p class="back"><a href="office-hours.html">← Office Hours Bulletin Board</a> · <a href="community-bulletin-boards-division.html">Division</a> · <a href="profile.html">🔑 Wallet</a> · <a href="../index.html">Home</a></p>
+
+        <section class="hero">
+            <span class="badge">Creator Studio · AI-Assisted · Seed:Edge</span>
+            <h1>Bulletin Board Studio</h1>
+            <p class="tagline">Get your own bulletin board. Push new postings onto your board. Tweak. Do some math. Straightforward — Seed + Edge + executive description. Preconfigured choices. Auto-fill from both points meeting in the middle. Goldilocks best path. Reinforce it.</p>
+        </section>
+
+        <div class="join-prompt">
+            <p class="highlight">Hey, you want to join? Do your own bulletin board. Get your own bulletin board.</p>
+            <p>Anyone can browse. When you're ready to create — you're in the right place.</p>
+        </div>
+
+        <div class="wallet-identity">
+            <h3>🔑 Identity — Tied to Wallet · Golden Key</h3>
+            <p>Your username and profile are part of your community bulletin board. <strong>One authorization.</strong> Tied to your Vibers wallet — the key you get. Everyone gets a <strong>free Golden Key</strong>. Put money on it, it activates. That's it.</p>
+            <p style="margin-top: 0.75rem;"><a href="profile.html" class="cta-btn secondary">Open Wallet →</a> <a href="mailto:info@fractiai.com?subject=Bulletin%20Board%20Studio%20%E2%80%94%20Get%20my%20Golden%20Key" class="cta-btn secondary" style="margin-left: 0.5rem;">Get free Golden Key →</a></p>
+        </div>
+
+        <div class="studio-console">
+            <h2>New Posting — Seed:Edge Console</h2>
+            <p style="font-size: 0.9rem; color: #9ca8b8; margin-bottom: 1rem;">Capture your Seed (origin), Edge (experience/destination), and executive description. Customize beyond defaults. AI-assisted. Preconfigured choices below — click to auto-fill.</p>
+
+            <label for="seed">Seed — Origin (where you are, what you're starting from)</label>
+            <input type="text" id="seed" name="seed" placeholder="e.g. My little jewelry business · Downtown Reno · First post" />
+
+            <label for="edge">Edge — Destination / Experience (what this posting leads to)</label>
+            <input type="text" id="edge" name="edge" placeholder="e.g. Full website · Catalog · Proposal · Episode" />
+
+            <label for="exec">Executive Description — Customize beyond defaults</label>
+            <textarea id="exec" name="exec" placeholder="Brief description. What makes this posting yours. The AI fills from Seed + Edge meeting in the middle."></textarea>
+
+            <label>Preconfigured Choices — Click to apply</label>
+            <div class="preconfigured-row">
+                <button type="button" onclick="applyPreset('company')">Company / Brand</button>
+                <button type="button" onclick="applyPreset('novel')">Novel / Story</button>
+                <button type="button" onclick="applyPreset('episode')">Episode / Series</button>
+                <button type="button" onclick="applyPreset('song')">Song / Music</button>
+                <button type="button" onclick="applyPreset('proposal')">Proposal</button>
+                <button type="button" onclick="applyPreset('product')">Product / Service</button>
+                <button type="button" onclick="applyPreset('franchise')">Franchise / Empire</button>
+            </div>
+
+            <div class="goldilocks-note">
+                <strong>Goldilocks best path.</strong> Seed and Edge meet in the middle. The system auto-fills from both points. Achieve the best path — reinforce it. Straightforward.
+            </div>
+
+            <p style="margin-top: 1rem;"><a href="mailto:info@fractiai.com?subject=Bulletin%20Board%20Studio%20%E2%80%94%20New%20Posting&body=Seed:%20%0AEdge:%20%0AExecutive%20Description:%20" class="cta-btn">Push to My Bulletin Board →</a></p>
+        </div>
+
+        <div class="studio-console" style="border-color: rgba(0, 212, 255, 0.35);">
+            <h2>How It Works</h2>
+            <p><strong>Browse first.</strong> Anyone can cruise the bulletin board, buy, discover. No signup needed.</p>
+            <p style="margin-top: 0.5rem;"><strong>Join when ready.</strong> Click here → get your own bulletin board. Register with your Golden Key (free key, add funds to activate). Username, profile, all the fictions — tied to that one key.</p>
+            <p style="margin-top: 0.5rem;"><strong>Studio console.</strong> Push new postings. Seed:Edge + executive description. Preconfigured choices. AI-assisted auto-fill. Goldilocks best path. Tweak. Do math. Reinforce.</p>
+            <p style="margin-top: 1rem;"><a href="office-hours.html">Browse Bulletin Board →</a> · <a href="community-bulletin-boards-one-week-academy.html">One-Week Academy (producer cert) →</a></p>
+        </div>
+
+        <p style="margin-top: 2rem; text-align: center;">
+            <a href="office-hours.html" class="cta-btn secondary">← Back to Bulletin Board</a>
+            <a href="community-bulletin-boards-division.html" class="cta-btn secondary" style="margin-left: 0.5rem;">Division →</a>
+        </p>
+    </div>
+    <script>
+        function applyPreset(preset) {
+            const presets = {
+                company: { seed: 'My company / brand', edge: 'Full company website · Catalog · Contact', exec: 'Brand posting. Mission, offerings, connect.' },
+                novel: { seed: 'My novel / story', edge: 'Full read · Chapters · Experience', exec: 'Novel posting. Hook, genre, link to read.' },
+                episode: { seed: 'My episode / series', edge: 'Full episode · Series catalog', exec: 'Episode posting. Series name, episode title, link.' },
+                song: { seed: 'My song / music', edge: 'Play · Download · Catalog', exec: 'Music posting. Track, artist, play link.' },
+                proposal: { seed: 'My proposal', edge: 'Full proposal · Document · Connect', exec: 'Proposal posting. Brief, link to full doc.' },
+                product: { seed: 'My product / service', edge: 'Product page · Purchase · Support', exec: 'Product posting. What it is, link, CTA.' },
+                franchise: { seed: 'My franchise / empire', edge: 'Full franchise site · Nested buttons', exec: 'Franchise posting. Empire within empire. Nested.' }
+            };
+            const p = presets[preset];
+            if (p) {
+                document.getElementById('seed').value = p.seed;
+                document.getElementById('edge').value = p.edge;
+                document.getElementById('exec').value = p.exec;
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="nspfrnp-ticker.css">
+    <script src="nspfrnp-ticker.js"></script>
+</body>
+</html>

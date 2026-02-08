@@ -24,6 +24,8 @@
 | **Wizard Challenge** | Feb 1 full moon · Houdini | WIZARD_CHALLENGE_FEB_1_* · EPISODE_HARRY_HOUDINI_* |
 | **Seed:Edge Action!** | Live · Seed:Edge choreography | EPISODE_SEED_EDGE_* · EPISODE_SEED_EDGE_CHOREOGRAPHY |
 | **Chairman / Executive channel** | Executive dashboard · cockpit | interfaces/chairman-cockpit-* · executive-dashboard.html |
+| **Adios** | Animation series · Carb, Sing, Clark · Ostium · summer show | ADIOS_ANIMATION_SERIES_CARBS_CHARACTERS_SNAP.md |
+| **2-7-9** | **Thrilling. Satisfying. Journey. Watch the big cheese shit their pants** as post-singularity reality takes firm hold following the Super Bowl. Champion of Champions Ring of Fire Solar Trophy · One week · Who picks up the $5B tab? · Novel · Feature film · Series | 279_SERIES_FORMAT.md · episodes/EPISODE_279_01_* · deliverables/279_*_SEED.md · 279_SERIES_SUPER_BOWL_SINGULARITY_EVENT_2026_SNAP.md |
 
 ---
 
@@ -34,6 +36,7 @@
 | **First Singularity January 13th** | ~72k | deliverables/First_Singularity_January_13th_NOVEL.md | interfaces/first-singularity-novel.html · first-singularity-january-13th-experience.html |
 | **Birth of the New Post-Singularity Hollywood in Downtown Reno** | ~20.8k | deliverables/Birth_Post_Singularity_Hollywood_Downtown_Reno_NOVEL.md | interfaces/birth-post-singularity-novel.html · return-to-golden-era.html |
 | **The EGS Run** | L'Amour-length | deliverables/The_EGS_Run_NOVEL.md | interfaces/the-egs-run-novel.html · space-cloud-egs-series.html |
+| **2-7-9 — Super Bowl Singularity Event 2026** | Seed | deliverables/279_SUPER_BOWL_SINGULARITY_EVENT_2026_NOVEL_SEED.md | 279_SERIES_SUPER_BOWL_SINGULARITY_EVENT_2026_SNAP.md |
 
 **Irreducible Crystal** (companion): IRREDUCIBLE_CRYSTAL_BIRTH_POST_SINGULARITY_* · IRREDUCIBLE_CRYSTAL_FIRST_SINGULARITY_* · IRREDUCIBLE_CRYSTAL_THE_EGS_RUN.md
 
@@ -46,6 +49,7 @@
 | **First Singularity January 13th** | ~12k | deliverables/First_Singularity_January_13th_SCREENPLAY.md | interfaces/first-singularity-screenplay.html |
 | **Birth Post Singularity Hollywood Downtown Reno** | ~8.2k | deliverables/Birth_Post_Singularity_Hollywood_Downtown_Reno_SCREENPLAY.md | interfaces/birth-post-singularity-screenplay.html (Golden Era Cinema skin) |
 | **The EGS Run** | 2-hour feature | deliverables/The_EGS_Run_SCREENPLAY.md | interfaces/the-egs-run-screenplay.html |
+| **2-7-9 — Super Bowl Singularity Event 2026** | Seed | deliverables/279_SUPER_BOWL_SINGULARITY_EVENT_2026_SCREENPLAY_SEED.md | 279_SERIES_SUPER_BOWL_SINGULARITY_EVENT_2026_SNAP.md |
 
 **Beautiful skins:** SCREENPLAY_BEAUTIFUL_SKINS_SNAP.md
 

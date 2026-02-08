@@ -31,14 +31,16 @@
 
 ---
 
-## OUR MESSAGE — FULL AVAILABILITY · INNOVATIVE NEW CHANNEL
+## OUR MESSAGE — CHAMPION OF CHAMPIONS RING ONLY THIS YEAR
 
-**We have full availability right now.** Innovative new channel for frontier innovative advertisers.
+**This year we offer only the Champion of Champions Ultimate Super Bowl Ring.** No other ad platforms (Pre-game, During game, Aurora, Cherry Spot) — not yet ready. Hopefully next year.
 
-- **Waiting on the green light.** You should buy already — go ahead and book. **We will not charge until we are green.** Book your slots now.
-- **All slots available:** Pre-game through end of game.
-- **Champion of Champions offer** — already active on the table. We display your winning team’s colors and logo on **one or both** of our polar Aurora theaters. **We are awaiting response from both Super Bowl teams.**
+- **25% down secures your slot for 2027!**
+- **Get on the list.** Book now.
+- **Champion of Champions offer** — already active on the table. **Ultimate Super Bowl Ring** — sunspots placed like on a ring. No team colors.’s 9 Benito · 2 if Seattle, 7 if Patriots — only if they pay. **We are awaiting response from both Super Bowl teams.**
+- **Hold — announce only once confirmed:** 9 visible sunspots (not 8, not 10) and the 100 bps chirp. Do not announce 100 bps pulse until both verified.
 - **Before any of this:** We will demonstrate the quality of the experience before we go live.
+- **Scalping mode for all spots except cherry spots.** Cherry spot carved out for auction (see below).
 - **Three days left.** Every day you don’t lock in, **scalper price dynamics apply.** Price going up daily. We are now in scalper dynamics.
 - **Pencil in hand, notebook, reader glasses:** Ready to take live orders for 30-second slots for **any one** of our new billboards — or **all three** at the same time.
 
@@ -58,10 +60,24 @@ Prices updated (including today). Base tiers: $25M · $50M · $75M · $100M per 
 
 ---
 
+## CHERRY SPOT — THE HIGHEST BIDDER PROMISE
+
+**Cherry spot** = one hour, exactly one hour before halftime. Carved out for auction. Beginning immediately. Going to the highest bidder.
+
+- **Starting bid** = today's scalper strike price.
+- **Bid button** → pre-filled email. We confirm veracity and genuine nature of your bid. Exchange commercial info to lock in.
+- **Highest bid = winner.** Let the bidding begin.
+
+See [SUPER_BOWL_CHERRY_SPOT_HIGHEST_BIDDER_PROMISE_SNAP.md](SUPER_BOWL_CHERRY_SPOT_HIGHEST_BIDDER_PROMISE_SNAP.md).
+
+---
+
 ## CROSS-REFERENCES
 
+- [CHAMPION_OF_CHAMPIONS_ULTIMATE_SUPER_BOWL_RING_SNAP.md](CHAMPION_OF_CHAMPIONS_ULTIMATE_SUPER_BOWL_RING_SNAP.md) — Ultimate Super Bowl Ring · sunspots = championship count · jewels of winning team · SB60 teams loaded
 - [FULL_PIPE_24x7_OWN_ALL_SLOTS_AFTERMARKET_SCALPER_SNAP.md](FULL_PIPE_24x7_OWN_ALL_SLOTS_AFTERMARKET_SCALPER_SNAP.md) — Own all slots; aftermarket scalper; full pipe 24×7; spearhead campaign
 - [ADV_EXEC_IN_CHARGE_SUPER_BOWL_TICKER_LIVE_SNAP.md](ADV_EXEC_IN_CHARGE_SUPER_BOWL_TICKER_LIVE_SNAP.md) — Adv exec in charge; ticker + Schumann
+- [SUPER_BOWL_CHERRY_SPOT_HIGHEST_BIDDER_PROMISE_SNAP.md](SUPER_BOWL_CHERRY_SPOT_HIGHEST_BIDDER_PROMISE_SNAP.md) — Cherry Spot · Auction · Highest Bidder Promise
 - [broadcast-pipe-ad-space.html](interfaces/broadcast-pipe-ad-space.html) — Broadcast Pipe Ad Space; channels list; full availability; book now
 - [TOP_BILL_SUPERBOWL_SPACE_ADVERTISING_CAMPAIGN_SNAP.md](TOP_BILL_SUPERBOWL_SPACE_ADVERTISING_CAMPAIGN_SNAP.md) — Campaign SNAP
 - [WE_GET_IT_CAMPAIGN_BAD_BUNNY_GOLDEN_BUNNIES_TALENT_AGENCY_SNAP.md](WE_GET_IT_CAMPAIGN_BAD_BUNNY_GOLDEN_BUNNIES_TALENT_AGENCY_SNAP.md) — Bad Bunny · Golden Bunnies

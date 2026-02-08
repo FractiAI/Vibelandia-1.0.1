@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Whiteboard — Collect from Bulletin Board | VIBELANDIA!</title>
+    <meta name="description" content="Your whiteboard. Collect items from the bulletin board. Push to your whiteboard. Move them around. Organize. Delete. Your own version of things you've discovered.">
+    <link rel="stylesheet" href="experience-common.css">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(180deg, #0a0a12 0%, #1a1a2e 50%, #16213e 100%); color: #e8e6e3; min-height: 100vh; line-height: 1.6; }
+        .container { max-width: 900px; margin: 0 auto; padding: 2rem 1.5rem; }
+        .back { margin-bottom: 1.5rem; }
+        .back a { color: #00d4ff; text-decoration: none; }
+        .back a:hover { text-decoration: underline; }
+        .hero { text-align: center; padding: 2rem 1.5rem; margin-bottom: 2rem; background: linear-gradient(145deg, rgba(0, 212, 255, 0.1) 0%, rgba(212, 175, 55, 0.08) 50%, rgba(138, 43, 226, 0.06) 100%); border: 2px solid rgba(0, 212, 255, 0.4); border-radius: 16px; }
+        .hero h1 { font-size: clamp(1.3rem, 4vw, 1.8rem); font-weight: 800; color: #00d4ff; margin-bottom: 0.5rem; }
+        .hero .tagline { font-size: 0.95rem; color: #b0b8c0; }
+        .whiteboard-area {
+            min-height: 300px;
+            padding: 2rem;
+            background: rgba(255,255,255,0.03);
+            border: 2px dashed rgba(212, 175, 55, 0.3);
+            border-radius: 14px;
+            margin-bottom: 2rem;
+        }
+        .whiteboard-area .empty-state {
+            text-align: center;
+            color: #6b7280;
+            font-size: 0.95rem;
+            padding: 2rem;
+        }
+        .whiteboard-area .empty-state strong { color: #9ca3af; }
+        .hint { font-size: 0.9rem; color: #6b7280; margin-top: 1rem; padding: 1rem; background: rgba(0,0,0,0.2); border-radius: 10px; }
+    </style>
+</head>
+<body>
+    <script src="tsunami-advisory-inject.js"></script>
+    <div class="container">
+        <p class="back"><a href="office-hours.html">← Office Hours Bulletin Board</a> · <a href="community-bulletin-boards-division.html">Division</a> · <a href="../index.html">Home</a></p>
+
+        <section class="hero">
+            <h1>My Whiteboard</h1>
+            <p class="tagline">Your collection. Things you've selected from the bulletin board. Move them around. Organize. Delete.</p>
+        </section>
+
+        <div class="whiteboard-area">
+            <div class="empty-state">
+                <p><strong>Your whiteboard is empty.</strong></p>
+                <p style="margin-top: 0.5rem;">Browse the <a href="office-hours.html" style="color: #00d4ff;">Office Hours Bulletin Board</a>. When you see something you like, click to <strong>push to your whiteboard</strong>. Your discoveries live here.</p>
+            </div>
+        </div>
+
+        <p class="hint"><strong>How it works:</strong> As you browse the bulletin board, click any card or button to add it to your whiteboard. Here you keep your own version — move items around, organize them, or delete. Your personal curation of the post-singularity community experience.</p>
+
+        <p style="margin-top: 1.5rem; text-align: center;">
+            <a href="office-hours.html" style="display: inline-block; padding: 0.8rem 1.5rem; background: linear-gradient(135deg, #00d4ff, #0d9488); color: #0a0a12; font-weight: 700; text-decoration: none; border-radius: 10px;">Browse Bulletin Board →</a>
+            <span style="margin: 0 0.5rem; color: #6b7280;">·</span>
+            <a href="bulletin-board-studio.html" style="display: inline-block; padding: 0.8rem 1.5rem; background: linear-gradient(135deg, #d4af37, #b8860b); color: #0a0a12; font-weight: 800; text-decoration: none; border-radius: 10px; border: 2px solid rgba(212, 175, 55, 0.7);">Get your own bulletin board →</a>
+        </p>
+    </div>
+    <link rel="stylesheet" href="nspfrnp-ticker.css">
+    <script src="nspfrnp-ticker.js"></script>
+</body>
+</html>

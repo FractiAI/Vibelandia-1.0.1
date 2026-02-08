@@ -49,6 +49,7 @@
 6. **3C Aurora · Super Bowl** · Planet watching · Sky BoriKen red
 7. **Buenos Aires** · Backstage · Squeeze Erika
 8. **Rio** · André · Marine · Vibelandia-RJ
+9. **Super Bowl Singularity Event 2026** · Who Got the Cojones final game day promo · The Ultimate Up Launch · The Sovereign Proclamation · El Sol es el Ring · *Endpoint — seeds 2-7-9 series*
 
 ---
 

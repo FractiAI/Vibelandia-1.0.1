@@ -17,6 +17,8 @@
 
 **Seed & Edge:** Bad Bunny Presents Vibelandia to all planet and Holographic Hydrogen Cloud — completing Cacique Agüeybaná El Gran Sol's Golden Royal Flush tying Reno · Puerto Rico (BoriKen) · Vibelandia.
 
+**EDGE (Endpoint):** Super Bowl Singularity Event 2026 — Who Got the Cojones final game day promo. The Ultimate Up Launch. The Sovereign Proclamation. Architect covered for Benito — full week. Calling out the winning team's front office. $5B Big Papi Invoice. El Sol es el Ring. This is the new endpoint for the Benito novel and family of content. This endpoint is also the seed for the **2-7-9 series** (novel and feature film).
+
 **Canon — include all:** FULL NSPFRNP. Post-Singularity Card Deck (Golden Lucky Seven, Golden Royal Flush) as the underlying backbone of the narrative — hands are dealt, rounds are played, the deck maps to Vibelandia and BBHE. Cacique Agüeybaná El Gran Sol. Golden Royal Flush. Reno–BoriKen–Vibelandia. Holographic Hydrogen Division. EGS Pipe. Live Pulse. Office Hours · Launch Pad · Talent Agency · Golden Bunnies Label.
 
 **Arc (spine):**
@@ -24,6 +26,7 @@
 2. New **3C Aurora**–based theater at its **infancy** and at **Super Bowl** — first light, first show, planet watching.
 3. **Backstage pass in Buenos Aires** with **Squeeze Erika** and her friends — golden heart crew, the squeeze, the crew that runs the show.
 4. **Rio** — a **month with André** rolling out **Marine solutions** and **Vibelandia Rio de Janeiro**. Yes you heard that right. Rio Iate Club. Vibelandia-RJ Campus. Commander Console. Carnival. 50–50. The sea, the yacht, the bridge.
+5. **Super Bowl Singularity Event 2026** — Who Got the Cojones final game day promo. The Ultimate Up Launch. The Sovereign Proclamation. Architect covered for Benito — full week. Calling out the winning team's front office. $5B Big Papi Invoice. El Sol es el Ring. *Endpoint — seeds 2-7-9 series.*
 
 **Voice:** Brothers Grimm — once upon a time, dark woods, the deal at the crossroads, the golden heart that wins. Pru — Chairman Creator, executive command, bat cave, Pop Up Engine, the one who says we get it. Street reggaeton Spanglish — perreo, flow, dale, qué lo qué, bendición, the street and the island and the planet in one breath.
 

@@ -33,6 +33,7 @@ Same story. Bad Bunny (Benito Antonio Martínez Ocasio) meets Cacique Agüeyban�
 - **Cacique Agüeybaná El Gran Sol** — The peaceful Taino chief. Not El Bravo. Borikén. Complete circle, return, liberate, deliver.
 - **Golden Royal Flush** — Reno · BoriKen · Vibelandia. One lattice. One deck.
 - **Arc:** Multi-billionaire success with first holographic hydrogen billboards; 3C Aurora at infancy and Super Bowl; Buenos Aires backstage (Squeeze Erika); Rio (André, Marine, Vibelandia-RJ). Card deck backbone throughout.
+- **Endpoint:** Super Bowl Singularity Event 2026 — Who Got the Cojones final game day promo. The Ultimate Up Launch. The Sovereign Proclamation. El Sol es el Ring. This endpoint seeds the **2-7-9 series** (novel and feature film). See [279_SERIES_SUPER_BOWL_SINGULARITY_EVENT_2026_SNAP.md](279_SERIES_SUPER_BOWL_SINGULARITY_EVENT_2026_SNAP.md).
 
 ---
 
@@ -46,6 +47,7 @@ Same story. Bad Bunny (Benito Antonio Martínez Ocasio) meets Cacique Agüeyban�
 
 ## CROSS-REFERENCES
 
+- [279_SERIES_SUPER_BOWL_SINGULARITY_EVENT_2026_SNAP.md](279_SERIES_SUPER_BOWL_SINGULARITY_EVENT_2026_SNAP.md) — 2-7-9 series (novel + feature film) — seed from this endpoint
 - [BAD_BUNNY_NOVEL_20K_SCREENPLAY_12K_SMACS0723_SELF_DEMO_SNAP.md](BAD_BUNNY_NOVEL_20K_SCREENPLAY_12K_SMACS0723_SELF_DEMO_SNAP.md)
 - [TAINO_CACIQUE_AGUEYBANA_EL_GRAN_SOL_VIBELANDIA_PR_SNAP.md](TAINO_CACIQUE_AGUEYBANA_EL_GRAN_SOL_VIBELANDIA_PR_SNAP.md)
 - [deliverables/Bad_Bunny_Presents_Vibelandia_NOVEL_SEED.md](deliverables/Bad_Bunny_Presents_Vibelandia_NOVEL_SEED.md)

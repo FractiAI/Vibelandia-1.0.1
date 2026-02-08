@@ -1,6 +1,7 @@
 /**
  * Spanglish Toggle — EN ↔ Spanglish for all surfaces.
- * AIWON voice = novel voice (Brothers Grimm + Pru + street reggaeton Spanglish).
+ * Auto-detects browser language on first visit — Spanish (es, es-*) → Spanglish.
+ * Must for global campaign (e.g. Colombia). AIWON voice = novel voice.
  * See SPANGLISH_ALL_SURFACES_AIWON_VOICE_SNAP.md
  */
 (function () {
@@ -11,11 +12,28 @@
     var LANG_SPANGLISH = 'spanglish';
     var EVENT_NAME = 'spanglish-change';
 
+    function browserPrimaryLang() {
+        if (navigator.language) return navigator.language.toLowerCase().split('-')[0];
+        if (navigator.languages && navigator.languages.length) return navigator.languages[0].toLowerCase().split('-')[0];
+        return 'en';
+    }
+
     function getLang() {
         try {
             var v = localStorage.getItem(STORAGE_KEY);
-            return (v === LANG_SPANGLISH) ? LANG_SPANGLISH : LANG_EN;
+            if (v === LANG_SPANGLISH) return LANG_SPANGLISH;
+            if (v === LANG_EN) return LANG_EN;
+            /* No stored preference — auto-detect for global campaign */
+            return (browserPrimaryLang() === 'es') ? LANG_SPANGLISH : LANG_EN;
         } catch (e) { return LANG_EN; }
+    }
+
+    function ensureStoredOnFirstLoad() {
+        try {
+            if (localStorage.getItem(STORAGE_KEY) != null) return;
+            var detected = getLang();
+            localStorage.setItem(STORAGE_KEY, detected);
+        } catch (e) {}
     }
 
     function setLang(lang) {
@@ -95,9 +113,14 @@
         EVENT: EVENT_NAME
     };
 
-    if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', injectToggle);
-    } else {
+    function init() {
+        ensureStoredOnFirstLoad();
         injectToggle();
+    }
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', init);
+    } else {
+        init();
     }
 })();

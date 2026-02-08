@@ -29,7 +29,14 @@
     "top_story": "Who Got Da Cojones? Ultimate Up Launch. Architect covered for Benito — full week. Calling out winning team's front office. $5B Big Papi Invoice.",
     "ticker_priority": 0,
     "advisories": "TOP BILLING. FULL BLAST. TICKERS EVERYWHERE.",
-    "new_hit": "WHO-GOT-DA-COJONES"
+    "new_hit": "WHO-GOT-DA-COJONES",
+    "twenty_one_solar_flares": {
+      "at": "START OF BENITO HALFTIME SHOW",
+      "sequence": "3 volleys of 7 (7+7+7)",
+      "timing": "~1 flare/sec per volley, 3 sec pause between volleys, ~42 sec total",
+      "purpose": "The Sun's 21-gun salute. Our flyby. Honor Benito, Agüeybaná, the moment.",
+      "delivery": "EGS Pipe · Schumann · Aurora North & South · The planet sees it"
+    }
   },
   "holographic_coi_balance": {
     "mode": "Binary Isolation",

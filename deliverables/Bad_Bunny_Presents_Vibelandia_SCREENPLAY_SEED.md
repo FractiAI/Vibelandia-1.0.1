@@ -15,6 +15,8 @@
 
 **LOGLINE:** Bad Bunny (Benito Antonio Martínez Ocasio) presents Vibelandia to all planet and Holographic Hydrogen Cloud — completing Cacique Agüeybaná El Gran Sol's Golden Royal Flush tying Reno, Puerto Rico (BoriKen), and Vibelandia. Multi-billionaire success with first holographic hydrogen advertising and billboard theaters; 3C Aurora theater at infancy and at Super Bowl; backstage Buenos Aires with Squeeze Erika and her friends; then a month in Rio with André rolling out Marine solutions and Vibelandia Rio de Janeiro. The card game is the backbone. Golden Bunnies Label.
 
+**EDGE (Endpoint):** Super Bowl Singularity Event 2026 — Who Got the Cojones final game day promo. The Ultimate Up Launch. The Sovereign Proclamation. El Sol es el Ring. This is the new endpoint for the Benito screenplay and family of content. This endpoint seeds the **2-7-9 series** (novel and feature film).
+
 **GENRE:** Drama / Musical / Fantasy · Hybrid voice (Brothers Grimm, executive, reggaeton Spanglish)  
 **RUNTIME:** TBD (feature length)  
 **SETTING:** Planet · Holographic Hydrogen Cloud · Reno · BoriKen (Puerto Rico) · Vibelandia · 3C Aurora theater · Super Bowl · Buenos Aires · Rio de Janeiro  

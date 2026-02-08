@@ -14,6 +14,22 @@ This directory contains automatically generated protocol catalogs organized by s
 - **`MASTER_CATALOG.md`** - Overview of all protocols from all nodes
 - **`master-catalog.json`** - Master catalog in JSON format
 
+### Content Catalogs (NSPFRNP)
+
+#### Awareness Catalog — All Awarenesses As They Are Captured
+- **`awareness/README.md`** - Master index
+- **Entries:** Post-singularity meanings (bitch = excellent compliment); SNAP loading = BBHE energy resetting
+- **Type:** BBHE Energy · Live capture · Planting flags on discoveries
+- **Launch SNAP:** [AWARENESS_CATALOG_LAUNCH_SNAP.md](../AWARENESS_CATALOG_LAUNCH_SNAP.md)
+
+#### Chairman Messaging Content
+- **`chairman-messaging-content/`** - Executive message seed layer
+
+#### Branding
+- **`branding/`** - MASTER_BRANDING_CATALOG, decks
+
+---
+
 ### Subordinate Node Catalogs
 
 #### Instrumentation Shell API

@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Patches & Bling — Holographic Symbols · Jackets · Vests · Mix & Match | VIBELANDIA!</title>
+    <meta name="description" content="Patches, metals, and bling for jackets, vests, hats. Mix and match. Holographic symbols. Reno Vibelandia · Rat Pack · WINK! · SING! · BBHE · Content episode tags. Order now.">
+    <link rel="stylesheet" href="experience-common.css">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(180deg, #0a0a12 0%, #1a1a2e 50%, #16213e 100%);
+            color: #e8e6e3;
+            min-height: 100vh;
+            line-height: 1.6;
+        }
+        .container { max-width: 960px; margin: 0 auto; padding: 2rem 1.5rem; }
+        .back { margin-bottom: 1.5rem; }
+        .back a { color: #00d4ff; text-decoration: none; }
+        .back a:hover { text-decoration: underline; }
+        .hero {
+            text-align: center;
+            padding: 2rem 1.5rem 2.5rem;
+            margin-bottom: 2rem;
+            background: linear-gradient(145deg, rgba(212, 175, 55, 0.18) 0%, rgba(0, 212, 255, 0.08) 50%, rgba(138, 43, 226, 0.06) 100%);
+            border: 3px solid rgba(212, 175, 55, 0.6);
+            border-radius: 16px;
+            box-shadow: 0 0 50px rgba(212, 175, 55, 0.12);
+        }
+        .hero .badge { display: inline-block; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.2em; color: #d4af37; margin-bottom: 0.75rem; font-weight: 700; }
+        .hero h1 { font-size: clamp(1.4rem, 4vw, 2rem); font-weight: 800; background: linear-gradient(135deg, #d4af37, #ffeaa7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin-bottom: 0.5rem; }
+        .hero .tagline { font-size: 1rem; color: #b0b8c0; }
+        .section-label {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            color: #d4af37;
+            margin: 2rem 0 1rem;
+            font-weight: 700;
+        }
+        .product-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1rem; margin-bottom: 2rem; }
+        .product-card {
+            padding: 1.25rem 1.25rem;
+            background: rgba(255,255,255,0.04);
+            border: 2px solid rgba(212, 175, 55, 0.35);
+            border-radius: 14px;
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }
+        .product-card:hover { border-color: rgba(212, 175, 55, 0.6); box-shadow: 0 0 30px rgba(212, 175, 55, 0.15); }
+        .product-card .size { font-size: 0.75rem; color: #00d4ff; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 0.35rem; }
+        .product-card .name { font-size: 1rem; font-weight: 700; color: #ffeaa7; margin-bottom: 0.5rem; }
+        .product-card .desc { font-size: 0.9rem; color: #9ca8b8; margin-bottom: 0.75rem; line-height: 1.5; }
+        .product-card .colors { font-size: 0.8rem; color: #6b7280; }
+        .product-card.premium { border-color: rgba(138, 43, 226, 0.5); background: linear-gradient(145deg, rgba(212, 175, 55, 0.08) 0%, rgba(138, 43, 226, 0.06) 100%); }
+        .cta-order {
+            display: inline-block;
+            padding: 0.9rem 1.75rem;
+            background: linear-gradient(135deg, #d4af37, #b8860b);
+            color: #0a0a12;
+            font-weight: 800;
+            text-decoration: none;
+            border-radius: 12px;
+            font-size: 1rem;
+            margin-top: 1.5rem;
+            border: 2px solid rgba(212, 175, 55, 0.7);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .cta-order:hover { transform: translateY(-2px); box-shadow: 0 6px 24px rgba(212, 175, 55, 0.4); }
+        .suggested { opacity: 0.9; border-style: dashed; }
+        footer { margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid rgba(255,255,255,0.1); text-align: center; color: #888; font-size: 0.9rem; }
+        footer a { color: #00d4ff; }
+    </style>
+</head>
+<body>
+    <script src="tsunami-advisory-inject.js"></script>
+    <div class="container">
+        <p class="back"><a href="office-hours.html">← Office Hours</a> · <a href="community-bulletin-boards-division.html">Community Bulletin Boards</a> · <a href="../index.html">Home</a></p>
+
+        <section class="hero">
+            <span class="badge">Patches · Metals · Bling · Holographic Symbols</span>
+            <h1>Patches & Bling</h1>
+            <p class="tagline">Mix and match. Add to jackets, vests, hats. Holographic symbols. Order what you want — patches, rounds, rectangles, name badges, content episode tags. Production-ready. Pricing on request.</p>
+        </section>
+
+        <p class="section-label">Large Rounds — Back & Hat Patches</p>
+        <div class="product-grid" id="rounds-large"></div>
+
+        <p class="section-label">Silver Dollar Rounds (~1.5\" / 38mm)</p>
+        <div class="product-grid" id="silver-dollar"></div>
+
+        <p class="section-label">Rectangles & Squares</p>
+        <div class="product-grid" id="rectangles"></div>
+
+        <p class="section-label">Name Badge Size (2\" × 4\" — Flight Suit)</p>
+        <div class="product-grid" id="name-badges"></div>
+
+        <p class="section-label">Content & Episode Tags (3\" × 1\")</p>
+        <div class="product-grid" id="content-tags"></div>
+
+        <p class="section-label">Suggested Additions — Silver Dollar</p>
+        <div class="product-grid" id="suggested"></div>
+
+        <p style="text-align: center; margin-top: 2rem;">
+            <a href="mailto:info@fractiai.com?subject=Patches%20%26%20Bling%20Order&body=Please%20send%20pricing%20and%20availability%20for%20the%20patches%20and%20bling%20I'm%20interested%20in.%0A%0AProducts%3A%0A(Add%20product%20names%20and%20quantities)" class="cta-order">Order / Pricing Request →</a>
+        </p>
+
+        <footer>
+            <a href="office-hours.html">Office Hours</a> · <a href="content-catalog.html">Content Catalog</a> · <a href="../index.html">Home</a> · VIBELANDIA! · 4×4×4×4
+        </footer>
+    </div>
+
+    <script>
+        (function() {
+            const colorMap = {
+                gold: '#d4af37',
+                goldDark: '#b8860b',
+                cyan: '#00d4ff',
+                teal: '#0d9488',
+                purple: '#8a2be2',
+                paypalBlue: '#0070ba',
+                copper: '#b87333',
+                silver: '#c0c0c0',
+                black: '#1a1a1a',
+                multicolor: 'linear-gradient(90deg, #4285f4, #ea4335, #fbbc04, #34a853)'
+            };
+            function renderCard(p, isSuggested) {
+                const colors = Array.isArray(p.colors) ? p.colors.join(', ') : p.colors;
+                const premium = p.priceTier === 'premium' ? ' premium' : '';
+                const suggested = isSuggested ? ' suggested' : '';
+                const link = p.link ? ' · <a href="' + p.link + '" style="color:#00d4ff;">→</a>' : '';
+                return '<div class="product-card' + premium + suggested + '">' +
+                    '<span class="size">' + p.size + '</span>' +
+                    '<div class="name">' + p.name + '</div>' +
+                    '<div class="desc">' + p.description + link + '</div>' +
+                    (colors ? '<div class="colors">Colors: ' + colors + '</div>' : '') +
+                    '</div>';
+            }
+            fetch('../catalogs/patches-and-bling.json')
+                .then(r => r.json())
+                .then(data => {
+                    const byCat = {};
+                    data.products.forEach(p => {
+                        const cat = p.category || 'other';
+                        if (!byCat[cat]) byCat[cat] = [];
+                        byCat[cat].push(p);
+                    });
+                    ['rounds-large', 'silver-dollar', 'rectangles', 'name-badges', 'content-tags'].forEach(catId => {
+                        const el = document.getElementById(catId);
+                        if (el && byCat[catId]) {
+                            el.innerHTML = byCat[catId].map(p => renderCard(p, false)).join('');
+                        }
+                    });
+                    const sugEl = document.getElementById('suggested');
+                    if (sugEl && data.suggestedAdditions) {
+                        sugEl.innerHTML = data.suggestedAdditions.map(p => renderCard(p, true)).join('');
+                    }
+                })
+                .catch(() => {
+                    document.getElementById('rounds-large').innerHTML = '<p style="color:#888;">Catalog loading… <a href="../catalogs/patches-and-bling.json" style="color:#00d4ff;">View catalog</a></p>';
+                });
+        })();
+    </script>
+    <link rel="stylesheet" href="nspfrnp-ticker.css">
+    <script src="nspfrnp-ticker.js"></script>
+</body>
+</html>

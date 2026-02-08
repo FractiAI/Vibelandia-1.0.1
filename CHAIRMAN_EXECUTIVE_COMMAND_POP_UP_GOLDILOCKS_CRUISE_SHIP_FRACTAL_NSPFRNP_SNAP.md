@@ -15,6 +15,8 @@ This directive **affects all aspects of the entire FractiAI franchise and legacy
 
 ## POP-UP NATURE · EVERYTHING IS POP-UP
 
+**All pop-up style.** **No longer hardcoded to the men's club Reno.** Locations, venues, and experiences are pop-up — operate until not Goldilocks, then move. The men's club Reno is one possible instance, not the fixed default.
+
 **Every aspect is pop-up.** We are able to **operate until the conditions are not ideal** — until the conditions are **not Goldilocks**. Then we **move to the next place where they are Goldilocks.**  
 
 **The movement itself is part of the experience.** It is not a timeout. We **include it as part of the rich experience** — much like the old days: **slow migration, travel, wagon train.** Yes, there's travel — but there's **community**, **activities**, and **adventures every day.**  

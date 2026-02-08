@@ -15,8 +15,8 @@
 
 ## CANON
 
-- **Cacique Agüeybaná El Gran Sol** — The peaceful one. Taino chief; ancestor; spirit of Borikén. SING! node named **Guey** (after him); Chairman narrative: Guey = Cacique Agueybana El Gran Sol, the peaceful one, **not** El Bravo (his fighting brother who fought the conquistadores). See MASTER_BRANDING_CATALOG (Chairman Guey 1962 Land Cruiser narrative); PRESS_RELEASES_NEW_ARRIVALS_VIBELANDIA_RENO.
-- **El Bravo** — Fighting brother; do not confuse. Our story honors the **peaceful** Cacique (El Gran Sol), not the warrior.
+- **Cacique Agüeybaná El Gran Sol** — The peaceful one. Taino chief; ancestor; spirit of Borikén. As recorded by Bartolomé de las Casas and the church chroniclers of indigenous history. SING! node named **Guey** (after him); Chairman narrative: Guey = Cacique Agueybana El Gran Sol, the peaceful one, **not** El Bravo (his fighting brother who fought the conquistadores). Big Papi honors him when picking up the $5B tab. See [BIG_PAPI_ARCHITECT_CHARACTER_SNAP.md](BIG_PAPI_ARCHITECT_CHARACTER_SNAP.md); MASTER_BRANDING_CATALOG; PRESS_RELEASES_NEW_ARRIVALS_VIBELANDIA_RENO.
+- **El Bravo** — Fighting brother (Agüeybaná II); do not confuse. Our story honors the **peaceful** Cacique (El Gran Sol), not the warrior.
 - **Borikén** — Puerto Rico. The island. Paradise island setting for this story; not Hawaii.
 - **Paradise island story** — Island-quest style: chosen one, calling of the spirit, voyage, return, restoration of the people's spirit, liberation, delivery. Told without naming other IP; archetype: the heir who completes the circle and brings the spirit of the people to life.
 

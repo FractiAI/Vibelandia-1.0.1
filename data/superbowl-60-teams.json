@@ -1,0 +1,29 @@
+{
+  "super_bowl": 60,
+  "date": "2026-02-08",
+  "venue": "Levi's Stadium",
+  "location": "Santa Clara, CA",
+  "teams": [
+    {
+      "name": "New England Patriots",
+      "conference": "AFC",
+      "super_bowl_championships": 6,
+      "if_wins_sb60": 7,
+      "sunspots_if_wins": 7
+    },
+    {
+      "name": "Seattle Seahawks",
+      "conference": "NFC",
+      "super_bowl_championships": 1,
+      "if_wins_sb60": 2,
+      "sunspots_if_wins": 2
+    }
+  ],
+  "champion_of_champions": {
+    "concept": "Ultimate Super Bowl Ring",
+    "sunspots": "9 Benito · 2 if Seattle · 7 if Patriots (only if they pay)",
+    "jewels": "Winning team colors and logo (paid only)",
+    "price_floor_usd_billions": 5,
+    "slot": "Post-game · full night"
+  }
+}
