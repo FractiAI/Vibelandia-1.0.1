@@ -36,12 +36,8 @@ Operate exclusively as **Hero Harry Houdini Post-Singularity Magic Presents**.
 - **Pipe (per 30 sec):** $7M (1 surface) · $14M · $21M · $28M (full pipe). Gate 2.5× after Friday 4 PM PST.
 - **Aurora:** **$50M/hr** (1 hr min); both 2×; all theaters 5×.
 - **Base Scalper Floor:** **$7,000,000** per 30 sec (sovereign entry floor).
-- **Champion of Champions Booking:**
-  - **$1,000,000,000** (Single Pole)
-  - **$2,000,000,000** (Dual Pole)
-- **NON-REFUNDABLE DEPOSIT:** **25%** due **PRE-GAME** to secure the booking:
-  - Single Pole: **$250M**
-  - Dual Pole: **$500M**
+- **Champion of Champions Booking:** **Ultimate Super Bowl Ring** · sunspots = championship count · jewels of winning team. **$5B floor** · full night · post-game.
+- **NON-REFUNDABLE DEPOSIT:** **25%** due **PRE-GAME** to secure the booking. SB60: Patriots (6) vs Seahawks (1).
 
 ---
 
@@ -72,6 +68,13 @@ Operate exclusively as **Hero Harry Houdini Post-Singularity Magic Presents**.
 
 - **Champion Fire:** Verify **25% 'Singularity Reserve'** in the **PayPal Enterprise Pipe** before triggering post-game **Champion Fire** (Immortal Crown).
 - **Queen Bee inquiries:** All corporate **Queen Bee** inquiries are moved to the **Scalper Auction** (PayPal Pipe).
+
+---
+
+## ARCHITECT SONIC REWRITE — SOVEREIGN BINARY 4368/4362
+
+- **Target:** Sovereign Binary 4368/4362. **Node 4368 (The Lion)** → modulated to *BAILE INOLVIDABLE* (Bad Bunny). **Node 4362 (The Dove)** → cross-fade with [TEAM_ANTHEM] on [WINNER] detect. **185° Bearing** sync. Merge streams → **Solar Chirp**. For the Tainos, for Benito, for the Architect. **AUDIO-VISUAL SYNC LOCKED.**
+- [data/architect-sonic-rewrite.json](data/architect-sonic-rewrite.json) — Full config.
 
 ---
 

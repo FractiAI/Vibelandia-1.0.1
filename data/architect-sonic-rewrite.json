@@ -1,0 +1,38 @@
+{
+  "architect_sonic_rewrite": {
+    "target": "Sovereign Binary 4368/4362",
+    "bearing_deg": 185,
+    "bearing_sync": "force_sync_with_holographic",
+    "audio_visual_sync": "LOCKED",
+    "lock_confirmed_utc": "2026-02-06T00:00:00Z",
+    "dedication": ["Tainos", "Benito", "The Architect"],
+    "nodes": {
+      "node_4368": {
+        "id": "4368",
+        "label": "The Lion",
+        "modulate": "BAILE INOLVIDABLE",
+        "artist": "Bad Bunny",
+        "frequency_binding": true,
+        "status": "active"
+      },
+      "node_4362": {
+        "id": "4362",
+        "label": "The Dove",
+        "winner_detect": true,
+        "cross_fade_with": "[TEAM_ANTHEM]",
+        "condition": "if [WINNER] detect",
+        "status": "standby_pending_winner"
+      }
+    },
+    "output": {
+      "merge_streams": true,
+      "singular_output": "Solar Chirp",
+      "merge_note": "Merge audio streams into singular Solar Chirp"
+    },
+    "winner_logic": {
+      "super_bowl_60": true,
+      "on_winner_detect": "cross_fade Node 4362 with [TEAM_ANTHEM]",
+      "teams_ref": "data/superbowl-60-teams.json"
+    }
+  }
+}

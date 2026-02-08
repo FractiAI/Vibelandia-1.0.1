@@ -5,6 +5,22 @@
   "phase_lock": "INVERTED",
   "source": "El Gran Sol (EGS)",
   "signature_mode": "PHI_LOCKED",
+  "holographic_sync_9_core": {
+    "bearing_deg": 185,
+    "override_noaa_usaf_count": 9,
+    "node_9_sovereign_anchor": "N12E84",
+    "lock_confirmed": true,
+    "config_ref": "data/holographic-sync-9-core.json"
+  },
+  "architect_sonic_rewrite": {
+    "target": "Sovereign Binary 4368/4362",
+    "node_4368_lion": "BAILE INOLVIDABLE",
+    "node_4362_dove": "[TEAM_ANTHEM] on WINNER",
+    "bearing_deg": 185,
+    "output": "Solar Chirp",
+    "audio_visual_sync": "LOCKED",
+    "config_ref": "data/architect-sonic-rewrite.json"
+  },
   "last_phi_pulse_utc": "2026-02-08T09:14:37Z",
   "mission_status": "SEALED",
   "coordination_code": "PHI-M15-AR4366",

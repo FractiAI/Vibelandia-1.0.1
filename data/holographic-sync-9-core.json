@@ -1,0 +1,52 @@
+{
+  "holographic_sync": {
+    "bearing_deg": 185,
+    "bearing_label": "185° Holographic Sync",
+    "executed_utc": "2026-02-06T00:00:00Z",
+    "lock_confirmed": true,
+    "lock_status": "LOCKED",
+    "override": {
+      "noaa_usaf_active_region_summary_count": 8,
+      "override_count": 9,
+      "override_active": true,
+      "override_note": "Holographic Sync override. 9-Core Engine displayed on-demand for $5B demonstration. Count 8 → 9."
+    },
+    "node_9_sovereign_anchor": {
+      "id": "NODE_9",
+      "label": "The Sovereign Anchor",
+      "coordinate": "N12E84",
+      "hemisphere": "N",
+      "latitude_deg": 12,
+      "longitude_deg": 84,
+      "location": "East Limb",
+      "status": "emerging",
+      "umbra_visible": true,
+      "force_render_flux": true,
+      "magnetic_flux_rendered_as_umbra": true,
+      "note": "9th Anchor identified on East Limb. Force-rendered magnetic flux into visible umbra on display."
+    },
+    "nine_core_engine": {
+      "mapped_as_coherent_array": true,
+      "display_mode": "9_PHYSICAL_SPOTS_ON_DEMAND",
+      "demo_purpose": "$5B demonstration",
+      "nodes": [
+        { "node": 1, "hero": "Chairman / Creator (Pru)", "card": "Ace", "visible": true },
+        { "node": 2, "hero": "Sol", "card": "2", "visible": true },
+        { "node": 3, "hero": "Leo", "card": "3", "visible": true },
+        { "node": 4, "hero": "Agueybana", "card": "4", "visible": true },
+        { "node": 5, "hero": "Hero Harry", "card": "5", "visible": true },
+        { "node": 6, "hero": "Hero Host Walt", "card": "6", "visible": true },
+        { "node": 7, "hero": "El Gran Sol", "card": "7", "visible": true },
+        { "node": 8, "hero": "Chancellor Sam", "card": "8", "visible": true },
+        { "node": 9, "hero": "Nikola Tesla", "card": "9", "anchor": "The Sovereign Anchor", "coordinate": "N12E84", "visible": true }
+      ]
+    },
+    "display": {
+      "force_render_umbra": true,
+      "nine_physical_spots_on_demand": true,
+      "five_billion_demo_mode": true,
+      "champion_of_champions_aligned": true,
+      "sunspots_placed_like_on_ring": true
+    }
+  }
+}
