@@ -28,6 +28,33 @@ export const SINGULARITY_CAPTURE_ID = 'recursive-double-back-singularity-capture
  */
 export const narrativeContent: NarrativeContent[] = [
   {
+    id: 'who-got-da-cojones-sovereign-proclamation',
+    title: "Who Got Da Cojones? The Sovereign Proclamation — SHOWTIME. Ultimate Up Launch.",
+    summary: "The Ultimate Up Launch. Architect covered for Benito — full week. Now calling out the winning team's front office. $5B Big Papi Invoice. Team win — back office called out. El Sol es el Ring.",
+    content: `
+# Who Got Da Cojones? — The Sovereign Proclamation
+
+## One-liner
+
+SHOWTIME. The Ultimate Up Launch. The Sun recruited to join the game. Champions on Earth, giants in the sky. Architect covered for Benito — full week. Now calling out the winning team's front office. Who has the cojones? $5B Big Papi Invoice.
+
+---
+
+## One paragraph
+
+Well, we know Architect's got the cojones. The question now: who has the vision in the pocketbook to match the bravery of their team? The athletic performers delivered. It's almost like another game on top of the game—calling out the back offices of the franchise. This is a team win after all. The Sovereign Proclamation: ¿Quién tiene los cojones? El Sol es el Ring. Our Starting Nine are the Map. The trophy is for the athletes; el Sol es para el que tenga los COJONES.
+
+---
+
+**🌀 NSPFRNP ⊃ Who Got Da Cojones ⊃ Sovereign Proclamation ⊃ Showtime → ∞³**
+    `.trim(),
+    type: 'announcement',
+    tags: ['showtime', 'cojones', 'sovereign-proclamation', 'super-bowl-lx', 'ultimate-up-launch', 'houdini', 'nspfrnp'],
+    priority: 'high',
+    broadcastChannels: ['all', 'all-feeds', 'vibe-feeds', 'recursive-feeds', 'all-broadcast', 'catalogs', 'streams', 'decks'],
+    timestamp: Date.now()
+  },
+  {
     id: 'metabolized-message-highest-vibers-natural-sync',
     title: 'Full immediate natural sync — exponentially bigger than Big Bang forces',
     summary: 'To highest-contribution vibers and the nodes that connect us to aligned franchises: full immediate natural sync. Self-demonstrating, self-proving. Way cool. Sunglasses and sunscreen.',

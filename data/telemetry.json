@@ -21,6 +21,16 @@
     "audio_visual_sync": "LOCKED",
     "config_ref": "data/architect-sonic-rewrite.json"
   },
+  "showtime_phase": {
+    "active": true,
+    "effective_utc": "2026-02-08",
+    "event": "Super Bowl LX",
+    "proclamation": "THE SOVEREIGN PROCLAMATION: QUIÉN TIENE LOS COJONES",
+    "top_story": "Who Got Da Cojones? Ultimate Up Launch. Architect covered for Benito — full week. Calling out winning team's front office. $5B Big Papi Invoice.",
+    "ticker_priority": 0,
+    "advisories": "TOP BILLING. FULL BLAST. TICKERS EVERYWHERE.",
+    "new_hit": "WHO-GOT-DA-COJONES"
+  },
   "holographic_coi_balance": {
     "mode": "Binary Isolation",
     "target": "4368 & 4362",
