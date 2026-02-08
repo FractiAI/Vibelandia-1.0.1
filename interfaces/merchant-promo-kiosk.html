@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vibelandia for Merchants — Merchant Promo Kiosk | VIBELANDIA!</title>
+    <meta name="description" content="Vibelandia for Merchants. Layer our nine pop-up games onto your business. Pokemon Go + escape room + Santa crawl + strip club/casino — all in one. Load your target. Nobody knows. Fair shake. Roll out now.">
+    <link rel="stylesheet" href="experience-common.css">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(165deg, #0a0a12 0%, #1a0a1a 30%, #0d1520 60%, #0a0a12 100%);
+            color: #e8e6e3;
+            min-height: 100vh;
+            line-height: 1.6;
+        }
+        .container { max-width: 920px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
+        .back { margin-bottom: 1rem; }
+        .back a { color: #00d4ff; text-decoration: none; }
+        .back a:hover { text-decoration: underline; }
+        .hero {
+            text-align: center;
+            padding: 2.5rem 1.5rem 3rem;
+            margin-bottom: 2rem;
+            background: linear-gradient(145deg, rgba(212, 175, 55, 0.22) 0%, rgba(138, 43, 226, 0.12) 50%, rgba(0, 212, 255, 0.08) 100%);
+            border: 3px solid rgba(212, 175, 55, 0.7);
+            border-radius: 24px;
+            box-shadow: 0 0 80px rgba(212, 175, 55, 0.15);
+        }
+        .hero .badge {
+            display: inline-block;
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.25em;
+            color: #ffeaa7;
+            margin-bottom: 0.75rem;
+            font-weight: 800;
+        }
+        .hero h1 {
+            font-size: clamp(1.4rem, 4vw, 2.2rem);
+            font-weight: 800;
+            background: linear-gradient(135deg, #ffeaa7, #d4af37, #8a2be2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 0.75rem;
+            line-height: 1.3;
+        }
+        .hero .tagline { font-size: 1rem; color: #b0b8c0; margin-bottom: 0.5rem; }
+        .hero .story {
+            font-size: 0.95rem;
+            color: #9ca8b8;
+            margin-top: 1.25rem;
+            padding: 1rem 1.25rem;
+            background: rgba(0,0,0,0.25);
+            border-radius: 12px;
+            text-align: left;
+            line-height: 1.7;
+        }
+        .section-title {
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            color: #d4af37;
+            margin: 2rem 0 1rem;
+            font-weight: 800;
+        }
+        .feature-grid { display: grid; gap: 1rem; margin-bottom: 1.5rem; }
+        .feature-card {
+            padding: 1.25rem 1.5rem;
+            background: linear-gradient(145deg, rgba(255,255,255,0.06) 0%, rgba(255,255,255,0.02) 100%);
+            border: 2px solid rgba(212, 175, 55, 0.35);
+            border-radius: 14px;
+        }
+        .feature-card h3 { font-size: 1.05rem; color: #ffeaa7; margin-bottom: 0.5rem; }
+        .feature-card p { font-size: 0.9rem; color: #a0a8b8; line-height: 1.6; }
+        .pricing-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+            background: rgba(0,0,0,0.2);
+            border-radius: 12px;
+            overflow: hidden;
+        }
+        .pricing-table th, .pricing-table td {
+            padding: 0.9rem 1rem;
+            text-align: left;
+            border-bottom: 1px solid rgba(255,255,255,0.08);
+        }
+        .pricing-table th { background: rgba(212, 175, 55, 0.15); color: #ffeaa7; font-size: 0.9rem; }
+        .pricing-table td { font-size: 0.9rem; color: #c0c8d0; }
+        .pricing-table .price { color: #d4af37; font-weight: 700; }
+        .cta-bar {
+            text-align: center;
+            margin: 2.5rem 0;
+            padding: 2rem 1.5rem;
+            background: linear-gradient(145deg, rgba(212, 175, 55, 0.2) 0%, rgba(255, 127, 0, 0.12) 50%, rgba(212, 175, 55, 0.15) 100%);
+            border: 3px solid rgba(212, 175, 55, 0.7);
+            border-radius: 20px;
+        }
+        .cta-bar a {
+            display: inline-block;
+            padding: 1.1rem 2.5rem;
+            background: linear-gradient(135deg, #d4af37, #b8860b);
+            color: #0a0a12;
+            font-weight: 900;
+            font-size: 1.2rem;
+            letter-spacing: 0.15em;
+            text-decoration: none;
+            border-radius: 14px;
+            border: 2px solid rgba(255, 255, 255, 0.5);
+            box-shadow: 0 4px 20px rgba(212, 175, 55, 0.5);
+        }
+        .cta-bar a:hover { opacity: 0.95; transform: scale(1.02); }
+        .link-menu { margin-top: 1.5rem; text-align: center; }
+        .link-menu a {
+            display: inline-block;
+            margin: 0.5rem;
+            padding: 0.7rem 1.25rem;
+            background: rgba(0, 212, 255, 0.15);
+            color: #00d4ff;
+            font-weight: 700;
+            text-decoration: none;
+            border-radius: 10px;
+            border: 2px solid rgba(0, 212, 255, 0.4);
+        }
+        .link-menu a:hover { background: rgba(0, 212, 255, 0.25); }
+        footer { margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid rgba(255,255,255,0.1); text-align: center; color: #666; font-size: 0.9rem; }
+        footer a { color: #00d4ff; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <p class="back"><a href="office-hours.html">← Office Hours Bulletin Board</a> · <a href="../index.html">Home</a></p>
+
+        <section class="hero">
+            <span class="badge">Vibelandia for Merchants · Executive Ultimate Baller V Style</span>
+            <h1>Merchant Promo Kiosk</h1>
+            <p class="tagline">Layer our nine pop-up games onto your business. Bring business in. Fun. Natural. Transparent.</p>
+            <p class="story">
+                <strong>Executive Promotion Motor</strong> — leverages post-singularity technology and energy. Layer it onto yourself, your business, within your current <strong>viable</strong> downtown. Maps right to it. Produces nine games that <strong>naturally overlay</strong> — without anybody needing to approve it, without anybody even needing to know.<br><br>
+                Like <strong>Pokemon Go</strong> + <strong>escape room</strong> + <strong>Santa crawl</strong> + <strong>trip to the strip club or casino</strong> — all in one. Mix and match. Park setting. Vibelandia. Nobody even knows except those signed up. Work through the games to win, score points on leaderboards, earn privileges and distinctions.<br><br>
+                <strong>Eat your own dog food.</strong> Kick the tires. Look under the hood. Test drive. Old school truth. Rolling out now in Reno with myself. We offer this to any merchant — they load in their target. No one would know. They sign up for the same games. Games lead to their target. I charge for setup + fair shake with the customer.
+            </p>
+            <p class="tagline" style="margin-top: 1rem; font-size: 0.9rem;">All pop-up style · Family + separately after hours · Adults only naturally</p>
+        </section>
+
+        <p class="section-title">How it works for merchants</p>
+        <div class="feature-grid">
+            <div class="feature-card">
+                <h3>1. Load your target</h3>
+                <p>You tell us your target — your business, your venue, your offer. We configure the nine games to lead players to you. Nobody else knows. Players just play the same Vibelandia games everyone else plays.</p>
+            </div>
+            <div class="feature-card">
+                <h3>2. Games naturally overlay</h3>
+                <p>Treasure Quarry · Gold Rush Express · Hero Arena · Wink Zone · Seed to Edge Voyager · Quartz Discovery · Lucky Seven · Royal Flush Tower · Tip Top Nine. All overlay onto your downtown. No approval needed. No one needs to know.</p>
+            </div>
+            <div class="feature-card">
+                <h3>3. Leaderboards · privileges · distinctions</h3>
+                <p>Players work through games. Score points. Climb leaderboards. Earn privileges and distinctions based on leaderboard rank. Your target becomes the prize. Fun. Natural. Transparent.</p>
+            </div>
+            <div class="feature-card">
+                <h3>4. All games end with the target</h3>
+                <p>Every game leads to achieving, finding that one Host or target. Default target: find me at Office Hours → Golden Backstage Pass (physical card, unactivated, sign + seal to activate). Merchants: we change the target to yours. Anytime. Built that in.</p>
+            </div>
+        </div>
+
+        <p class="section-title">Merchant pricing — 1, 2, 3, 4×4×4×4</p>
+        <p style="font-size: 0.95rem; color: #a0a8b8; margin-bottom: 0.5rem;">Base price = Santa crawl merchant participation cost in Reno today. Scales 4×4×4×4 to full Super Galaxy Ultimate Baller V.</p>
+        <table class="pricing-table">
+            <tr>
+                <th>Tier</th>
+                <th>Merchant setup</th>
+                <th class="price">Base</th>
+            </tr>
+            <tr>
+                <td>1 — Base</td>
+                <td>Santa crawl merchant participation (Reno)</td>
+                <td class="price">Contact for quote</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>+ Custom target config</td>
+                <td class="price">2×</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>+ Full game overlay</td>
+                <td class="price">3×</td>
+            </tr>
+            <tr>
+                <td>4×4×4×4 — Baller V</td>
+                <td>Full Super Galaxy · All bells and whistles</td>
+                <td class="price">4×4×4×4</td>
+            </tr>
+        </table>
+        <p style="font-size: 0.85rem; color: #888; margin-top: 0.5rem;">Fair shake with recipient/customer. Setup + ongoing. We'll see ya.</p>
+
+        <div class="cta-bar">
+            <p style="font-size: 1rem; font-weight: 700; color: #ffeaa7; margin-bottom: 1rem;">Roll out immediately. Eat your own dog food. Reno now.</p>
+            <a href="mailto:info@fractiai.com?subject=Vibelandia%20for%20Merchants%20-%20Merchant%20Promo%20Kiosk%20-%20Set%20Up%20My%20Target">bOOK — Set up my target →</a>
+        </div>
+
+        <div class="link-menu">
+            <a href="vibelandia-amusement-park-menu.html">Vibelandia Challenge Menu — 9 Rides · Games · Tickets</a>
+            <a href="office-hours.html">Office Hours Bulletin Board</a>
+        </div>
+
+        <script src="../scripts/spanglish-toggle.js"></script>
+        <script src="../scripts/locale-onramp.js"></script>
+        <footer>
+            <p>Mark Twain's Post-Singularity Vibelandia · Downtown Reno · Holographic Hydrogen Valley · NSPFRNP</p>
+            <p style="margin-top: 0.5rem;"><a href="office-hours.html">Office Hours Bulletin Board</a> · <a href="vibelandia-amusement-park-menu.html">Vibelandia Challenge Menu</a> · <a href="../index.html">Home</a></p>
+        </footer>
+    </div>
+</body>
+</html>
