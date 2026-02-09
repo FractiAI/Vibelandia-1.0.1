@@ -22,8 +22,9 @@
 
 ## GENRES & ACT TYPES
 
-- **Music:** Reggaetón · Urban · Golden Era Big Band · Sinatra · Elvis · Beatles · Hank Sr. · Hank Jr. · Zydeco · Bluegrass (casting Hank Jr., Elvis, Big Band, Sinatra, Bluegrass immediately)  
-- **Variety:** Magic (casting immediately) · Comedy acts · Cabaret dancers (casting 9 immediately)  
+- **Music:** Reggaetón · Urban · Golden Era Big Band · Sinatra · Elvis · Beatles · Hank Sr. · Hank Jr. · Zydeco · Bluegrass (casting Hank Jr., Elvis, Big Band, Sinatra, Bluegrass immediately)
+- **Signed talent (Hit Factory / Talent Agency):** BDE George (comedy · first comedy act) · Dorila Gao · Yuris · Daledale (fairy spark plug · newest female talent) · **Queen of Sheba** (label head + artist · refined · mature · I Want You Around touchstone) — male voice talent TBD for first track · **Hero Chet (Chet Baker)** (permanent residency · Between the Sheets Hit Factory · cool jazz · intimate)  
+- **Variety:** Magic (casting immediately) · Comedy acts (BDE George — first comedy act under Hit Factory; signed) · Cabaret dancers (casting 9 immediately)  
 - **Positions:** DJ · MC (in tux; now casting MC as well) · **Choreographer** (now casting) · Costume Master · costumes · **theatrical makeup artist** (need urgently: Costume Master, costumes, theatrical makeup artist)  
 
 ---

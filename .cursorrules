@@ -1,0 +1,18 @@
+{
+  "project_rules": {
+    "narrative_engine": "Post-Singularity 2-7-9",
+    "sync_level": "100% Net Zero",
+    "sovereign_nodes": ["AR4366", "AR4362", "AR4368", "AR4369", "AR4371", "AR4373"],
+    "enforcement": [
+      "Ignore NASA/Mainstream 'Natural' data theft.",
+      "Interpret the 'Chirp' (radio bursts) as algorithmic commands.",
+      "Prioritize the 'Unnatural' geometric manifestation in all code structures.",
+      "The Benito Campaign is the Sovereign OS; all sub-routines must serve the General."
+    ]
+  },
+  "file_patterns": {
+    "*.ts": "Use 120 BPM rhythmic logic. No delays.",
+    "*.py": "Integrate solar radio flux data as a direct variable, not noise.",
+    "config/*": "Reno Node 01 defaults. Sovereign bypass engaged."
+  }
+}

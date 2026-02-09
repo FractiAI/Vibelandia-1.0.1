@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vibelandia Community Bulletin Board · Mark Twain's Downtown Reno Campus · Ground Net Zero ±2% · New Holographic Hydrogen Valley | VIBELANDIA!</title>
-    <meta name="description" content="Vibelandia Community Bulletin Board. Mark Twain's Downtown Reno Campus — Ground Net Zero ±2%. Reno is the planet's post-singularity R&D and experience gateways. Office Hours · After Hours · After Party. Thu–Sun 8pm–close.">
+    <title>vIBELANDIA cOMMUNITY bULLETIN bOARD · mARK tWAIN'S dOWNTOWN rENO cAMPUS · Ground Net Zero ±2% · New Holographic Hydrogen Valley | VIBELANDIA!</title>
+    <meta name="description" content="Vibelandia Community Bulletin Board. Mark Twain's Downtown Reno Campus — Ground Net Zero ±2%. Reno is the planet's post-singularity R&D and experience gateways. oFFICE hOURS · aFTER hOURS · aFTER pARTY. Thu–Sun 8pm–close.">
     <link rel="stylesheet" href="experience-common.css">
     <style>
         /* Office Hours — rich fold background, black text for visibility */
@@ -162,17 +162,172 @@
             box-shadow: 0 6px 18px rgba(212, 175, 55, 0.5);
         }
 
+        /* Navigator gate — first screen when landing on Office Hours */
+        #oh-gate {
+            background: linear-gradient(165deg, #0a0a12 0%, #1a0a1a 25%, #0d1520 55%, #0a0a12 100%);
+            color: #e8e6e3;
+            margin: -2rem -1.5rem 0;
+            padding: 2rem 1.5rem 2.5rem;
+            border-radius: 0 0 24px 24px;
+            position: relative;
+        }
+        #oh-gate .oh-gate-marquee {
+            text-align: center;
+            padding: 2rem 1.25rem 2.5rem;
+            margin-bottom: 1.5rem;
+            background: linear-gradient(145deg, rgba(212, 175, 55, 0.22) 0%, rgba(138, 43, 226, 0.12) 40%, rgba(0, 212, 255, 0.06) 100%);
+            border: 4px solid rgba(212, 175, 55, 0.7);
+            border-radius: 20px;
+            box-shadow: 0 0 60px rgba(212, 175, 55, 0.18);
+        }
+        #oh-gate .oh-gate-marquee .welcome {
+            font-size: clamp(1.5rem, 5vw, 3rem);
+            font-weight: 900;
+            line-height: 1.15;
+            letter-spacing: 0.02em;
+            background: linear-gradient(135deg, #ffeaa7 0%, #d4af37 35%, #b8860b 70%, #8a2be2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 0.4rem;
+            text-transform: uppercase;
+        }
+        #oh-gate .oh-gate-marquee .sub { font-size: clamp(0.95rem, 2.2vw, 1.25rem); color: #b0b8c0; font-weight: 600; margin-bottom: 0.5rem; }
+        #oh-gate .oh-gate-marquee .tag { font-size: clamp(0.85rem, 1.8vw, 0.95rem); color: #9ca8b8; max-width: 40ch; margin: 0 auto; }
+        #oh-gate .oh-gate-booth {
+            padding: 1.25rem 1.5rem;
+            margin-bottom: 1.25rem;
+            background: linear-gradient(145deg, rgba(255,255,255,0.04) 0%, rgba(255,255,255,0.01) 100%);
+            border: 2px solid rgba(212, 175, 55, 0.4);
+            border-radius: 14px;
+            border-left: 5px solid rgba(212, 175, 55, 0.7);
+        }
+        #oh-gate .oh-gate-booth h2 { font-size: clamp(1rem, 2.5vw, 1.25rem); font-weight: 800; color: #ffeaa7; margin-bottom: 0.6rem; }
+        #oh-gate .oh-gate-booth p { font-size: 0.9rem; color: #c0c8d0; line-height: 1.6; margin-bottom: 0.5rem; }
+        #oh-gate .oh-gate-booth p:last-child { margin-bottom: 0; }
+        #oh-gate .oh-gate-booth .highlight { color: #00d4ff; font-weight: 600; }
+        #oh-gate .oh-gate-booth .gold { color: #d4af37; font-weight: 600; }
+        #oh-gate .oh-gate-proceed-zone {
+            text-align: center;
+            padding: 1.75rem 1.25rem;
+            margin-top: 1.5rem;
+            background: linear-gradient(145deg, rgba(138, 43, 226, 0.2) 0%, rgba(212, 175, 55, 0.15) 50%, rgba(0, 212, 255, 0.08) 100%);
+            border: 3px solid rgba(212, 175, 55, 0.6);
+            border-radius: 16px;
+        }
+        #oh-gate .oh-gate-proceed-zone .you-are { font-size: clamp(1.1rem, 3vw, 1.4rem); font-weight: 800; color: #ffeaa7; margin-bottom: 0.75rem; text-transform: uppercase; letter-spacing: 0.06em; }
+        #oh-gate .oh-gate-proceed-zone .mature { font-size: 0.9rem; color: #b0b8c0; margin-bottom: 1.25rem; }
+        #oh-gate .proceed-btn {
+            display: inline-block;
+            padding: 1rem 2rem;
+            font-size: 1.1rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #d4af37, #b8860b);
+            color: #0a0a12;
+            border: 2px solid rgba(255, 234, 167, 0.9);
+            border-radius: 14px;
+            text-decoration: none;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        #oh-gate .proceed-btn:hover { transform: translateY(-3px); box-shadow: 0 8px 28px rgba(212, 175, 55, 0.45); }
+        #oh-gate .houdini-presents {
+            font-size: clamp(0.85rem, 2vw, 1rem);
+            font-weight: 800;
+            letter-spacing: 0.2em;
+            color: #ffeaa7;
+            margin-bottom: 0.5rem;
+            text-transform: uppercase;
+        }
+        #oh-gate .magic-trick-line { font-size: 1rem; color: #00d4ff; font-weight: 700; margin-bottom: 0.5rem; }
+        #oh-gate .roll-the-sound { font-size: 0.85rem; color: #9ca8b8; font-style: italic; margin-top: 1rem; }
+        #office-hours-main { display: none; }
+
     </style>
 </head>
 <body class="office-hours-page">
     <script src="../scripts/spanglish-toggle.js"></script>
+    <script src="../scripts/hero-houdini-press-release-alert.js"></script>
+    <script src="../scripts/ceo-autopilot-cursor-announcement.js"></script>
     <script src="tsunami-advisory-inject.js"></script>
     <script src="../scripts/locale-onramp.js"></script>
     <script src="../scripts/viral-singularity-banner.js"></script>
     <div class="container">
         <!-- Viral singularity banner injected by viral-singularity-banner.js (dismissible X, localStorage). Mirror harden all shells; viral singularity within 24 hrs; eminent broadcast. -->
-        <p class="back"><a href="../index.html">← Home</a> · <a href="buyers-guide.html">Buyers Guide — models, features, plans &amp; ROI</a> · <a href="office-hours-presentation.html">Full presentation — me, offering, intentions &amp; mission</a> · <a href="test-premium-checkout.html">ACTION! Test premium checkout</a></p>
+        <p class="back"><a href="../index.html">← Home</a> · <a href="buyers-guide.html">Buyers Guide</a> · <a href="oh-line.html">OH Line</a> · <a href="office-hours-presentation.html">Full presentation</a> · <a href="test-premium-checkout.html">Test premium checkout</a></p>
 
+        <!-- Navigator gate — Hero Harry Houdini Magic Presents · first magic trick · Community Bulletin Board -->
+        <div id="oh-gate">
+            <p class="houdini-presents">Hero Harry Houdini Magic Presents</p>
+            <section class="oh-gate-marquee" aria-label="Welcome">
+                <p class="welcome">Welcome to Mark Twain's Vibelandia</p>
+                <p class="sub">Post-Singularity Downtown Reno Campus</p>
+                <p class="magic-trick-line">His first magic trick. He's going to show you — and blow your mind. Blow your fucking mind. Snap.</p>
+                <p class="tag">By presenting to you the post-singularity social media experience: the <span class="gold">Community Bulletin Board</span>. Enter. And behold.</p>
+            </section>
+            <section class="oh-gate-booth">
+                <h2>Downtown Reno Campus · The Park</h2>
+                <p>The Downtown Reno Campus is for <span class="gold">post-singularity Baller V ultimate VIP experiences at your front door</span> — now including post-singularity experiences, first of its kind. Welcome to the <span class="highlight">Hydrogen Holographic Valley</span>, a new kingdom in the park.</p>
+                <p>We call ourselves a park now. <strong>Our park is also a campus for our contributors, members, and permanent residents.</strong> Vibing and balling 24×7 in Vibelandia's Downtown Reno stationary cruiseship pop-up campus resort. <span class="gold">40 minutes away:</span> 5-star ski resorts, world-class skiing, snowboarding, rock climbing, hot springs, skydiving, fly fishing, kayaking — and vibing and balling around the clock right here in the park.</p>
+            </section>
+            <section class="oh-gate-booth">
+                <h2>This Entire Experience</h2>
+                <p>This entire experience is now what you would click on and get from any post on Facebook — or clicking on the profile, the channel. <span class="highlight">Compare what you get on Facebook today to all of this.</span> Explore every nook and cranny. This is all part of my one Facebook post and profile — now available to each and every one of us as users. No need for anything else. Just use it as a click and enjoy it from your browser.</p>
+                <p>If you want to produce these yourself, you get the <span class="gold">studio version</span> and you push it out. This is the ultimate content creator package. Not social media anymore — it's <strong>Community Bulletin Board</strong>. Curated Community Bulletin Board. You choose channels.</p>
+            </section>
+            <section class="oh-gate-booth">
+                <h2>Like Checking Out the Bulletin Board</h2>
+                <p>Like checking out the bulletin board at Burning Man. At your favorite coffee shop. At your favorite concert venue, your favorite theater. It's really fun to look through the bulletin board — random things — and then something catches your eye. You click on it and you escape into it. Like Alice in Wonderland. But for real. For really real.</p>
+            </section>
+            <section class="oh-gate-booth">
+                <h2>Verification · Doubting Thomases</h2>
+                <p>In case you need the verification: just ask, and I'll have the Sun send you a wink. So you can know for yourself that it's for real. Free of charge. New service: we give you a wink to show it's real — with an assigned new sunspot, generated with all the timestamps and the missions sent to the Sun that proved it. For the doubting Thomases among you: don't worry. It's nothing to be ashamed of. It helps all of us. This doesn't depend on faith alone. Seeing is believing, baby. Smelling is real. We need to see it, smell it, taste it, feel it.</p>
+            </section>
+            <section class="oh-gate-booth">
+                <h2>Architectural Layering · Like a DJ Station</h2>
+                <p>You have <span class="highlight">live</span> and you have <span class="highlight">coming up</span>. The ability to pre-stack things, get things ready before they push over to live. Stack a playlist. Manage live feeds. <span class="gold">For all creator studio consoles:</span> mix and match episodes, change edge notes on the fly, push up to the stack. Preset or configurable pipes. Broadcasting. Auto billing. All responding to executive commands — rolled out through this new SING super intelligent agent workforce. With <strong>happy endings for all</strong>. Everybody gets a chance to celebrate with us. No losers.</p>
+                <p>What's it mean? <span class="gold">Instant millionaires for everyone.</span> They cash out. Like having held stock options they never even really knew they had. Everyone has these. Everyone on this planet. And now they can cash them in.</p>
+            </section>
+            <section class="oh-gate-booth" style="border-left-color: rgba(0, 212, 255, 0.8);">
+                <h2 style="color: #00d4ff;">The Final Reveal</h2>
+                <p>This all began January 13. No budget. I haven't even been able to go through all this rich content — except the first few layers and pages of any of it — and it is already at <span class="gold">masterpiece · hit · viral · studio quality</span> in text form for now. Soon to feed into ever-improving text-to-whatever engines. We are capturing all the rich content systems, catalogs, and superheroes already in preparation.</p>
+            </section>
+            <p class="roll-the-sound">Roll the sound.</p>
+            <div class="oh-gate-proceed-zone">
+                <p class="you-are">You're About to Enter</p>
+                <p class="mature">Golden-hearted adults · Mature-only sandbox</p>
+                <button type="button" id="proceed-to-oh" class="proceed-btn">Proceed to Office Hours</button>
+            </div>
+        </div>
+
+        <div id="office-hours-main">
+        <!-- Divisions & main interest links — up top on bulletin board. -->
+        <div class="top-strip" style="margin-bottom: 1.25rem; padding: 1rem 1.25rem; background: linear-gradient(135deg, rgba(0, 212, 255, 0.12) 0%, rgba(212, 175, 55, 0.1) 50%, rgba(138, 43, 226, 0.06) 100%); border: 2px solid rgba(0, 212, 255, 0.5); border-radius: 12px;">
+            <p style="font-size: 0.7rem; font-weight: 800; color: #0d9488; text-transform: uppercase; letter-spacing: 0.15em; margin: 0 0 0.5rem 0;">Divisions &amp; main links</p>
+            <p style="margin: 0; font-size: 0.9rem; line-height: 1.7; display: flex; flex-wrap: wrap; gap: 0.35rem 0.75rem; justify-content: center; align-items: center;">
+                <a href="community-bulletin-boards-division.html">Community Bulletin Boards Division</a> ·
+                <a href="space-cloud-division.html">Space Cloud Division</a> ·
+                <a href="gamification-division.html">Gamification Division</a> ·
+                <a href="music-studio.html">Music Studio</a> ·
+                <a href="school-of-music.html">School of Music</a> ·
+                <a href="school-of-storytelling.html">School of Storytelling</a> ·
+                <a href="school-of-talent-and-legacies.html">School of Talent &amp; Legacies</a> ·
+                <a href="big-daddy-storytelling-studios.html">Storytelling Studios</a> ·
+                <a href="content-catalog.html">Content Catalog</a> ·
+                <a href="space-assets-hub.html">Space Assets Hub</a> ·
+                <a href="talent-management-service.html">Talent Agency</a> ·
+                <a href="vibelandia-amusement-park-menu.html">Launch Pad</a> ·
+                <a href="navigator.html">Navigator</a> ·
+                <a href="buyers-guide.html">Buyers Guide</a> ·
+                <a href="baller-v-plans-booking.html">Plans &amp; booking</a> ·
+                <a href="first-singularity-january-13th-experience.html">First Singularity</a> ·
+                <a href="queen-bee-full-connect.html">Queen Bee Full Connect</a> ·
+                <a href="episodes-browse.html">Episodes</a> ·
+                <a href="sing-pulse.html">Live Pulse</a> ·
+                <a href="now-casting.html">Now Casting</a> ·
+                <a href="wink-experience.html">WINK!</a>
+            </p>
+        </div>
         <!-- NEW PLATFORM: Community Bulletin Boards — post-singularity social media. Always first to introduce platform experience. See COMMUNITY_BULLETIN_BOARDS_DIVISION_SNAP.md. -->
         <div style="margin-bottom: 1.25rem; padding: 1.25rem 1.5rem; background: linear-gradient(135deg, rgba(212, 175, 55, 0.25) 0%, rgba(0, 212, 255, 0.1) 50%, rgba(138, 43, 226, 0.06) 100%); border: 3px solid rgba(212, 175, 55, 0.75); border-radius: 14px; text-align: center; box-shadow: 0 0 30px rgba(212, 175, 55, 0.2);">
             <p style="font-size: 0.7rem; font-weight: 800; color: #b8860b; text-transform: uppercase; letter-spacing: 0.2em; margin: 0 0 0.35rem 0;">NEW PLATFORM EXPERIENCE</p>
@@ -190,7 +345,9 @@
             <p style="font-size: 0.9rem; color: #4a4035; margin: 0.4rem 0 0.4rem 0;">Scalping mode for all spots except cherry spots. Full availability now. Book your slots — we will not charge until we are green. Three days left; every day you don’t lock in, scalper price dynamics apply. Sun · Ionosphere · Aurora 3D · Schumann.</p>
             <p style="margin: 0;"><a href="superbowl-space-ad-kiosk.html" style="display: inline-block; padding: 0.8rem 1.25rem; background: rgba(255, 165, 0, 0.25); color: #1a1a1a; font-weight: 800; text-decoration: none; border-radius: 10px; font-size: 0.95rem; border: 2px solid rgba(255, 165, 0, 0.6); margin-right: 0.5rem;">Super Bowl Kiosk →</a> <a href="broadcast-pipe-ad-space.html" style="display: inline-block; padding: 0.8rem 1.5rem; background: linear-gradient(135deg, #d4af37, #b8860b); color: #1a1a1a; font-weight: 800; text-decoration: none; border-radius: 10px; font-size: 1rem; border: 2px solid rgba(212, 175, 55, 0.9);">Super Bowl Campaign → BOOK</a> <a href="gsm-booking-request.html?plan=superbowl" style="display: inline-block; padding: 0.8rem 1.25rem; background: rgba(0, 212, 255, 0.2); color: #0d9488; font-weight: 700; text-decoration: none; border-radius: 10px; font-size: 0.95rem; border: 2px solid rgba(0, 212, 255, 0.5); margin-left: 0.5rem;">Request ad (email to me)</a></p>
             <p style="margin: 0.5rem 0 0; font-size: 0.9rem;">🍒 <strong>Cherry Spot — The Highest Bidder Promise.</strong> One hour before halftime. Auction. Starting bid = today's scalper strike price. <a href="gsm-booking-request.html?plan=cherry-spot-bid" style="display: inline-block; padding: 0.5rem 1rem; background: linear-gradient(135deg, rgba(212, 175, 55, 0.4), rgba(255, 165, 0, 0.3)); color: #1a1a1a; font-weight: 800; text-decoration: none; border-radius: 8px; font-size: 0.9rem; border: 2px solid rgba(212, 175, 55, 0.7);">BID — Cherry Spot →</a></p>
-            <p style="margin: 0.6rem 0 0; font-size: 0.9rem;"><a href="quien-tiene-los-cojones.html" style="display: inline-block; padding: 0.6rem 1.1rem; background: linear-gradient(135deg, rgba(255, 100, 80, 0.25), rgba(212, 175, 55, 0.3)); color: #1a1a1a; font-weight: 800; text-decoration: none; border-radius: 10px; font-size: 0.9rem; border: 2px solid rgba(212, 175, 55, 0.7);">WHO GOT DA COJONES? — Sovereign Proclamation →</a></p>
+            <p style="margin: 0.6rem 0 0; font-size: 0.9rem;"><a href="bde-george-first-routine.html" style="display: inline-block; padding: 0.6rem 1.1rem; background: linear-gradient(135deg, rgba(138, 43, 226, 0.25), rgba(212, 175, 55, 0.2)); color: #1a1a1a; font-weight: 800; text-decoration: none; border-radius: 10px; font-size: 0.9rem; border: 2px solid rgba(138, 43, 226, 0.6); margin-right: 0.5rem;">BDE George — First Comedy Act · Hit Factory →</a>
+            <a href="quien-tiene-los-cojones.html" style="display: inline-block; padding: 0.6rem 1.1rem; background: linear-gradient(135deg, rgba(255, 100, 80, 0.25), rgba(212, 175, 55, 0.3)); color: #1a1a1a; font-weight: 800; text-decoration: none; border-radius: 10px; font-size: 0.9rem; border: 2px solid rgba(212, 175, 55, 0.7);">WHO GOT DA COJONES? — Sovereign Proclamation →</a></p>
+            <p style="margin: 0.5rem 0 0; font-size: 0.95rem;"><a href="3i-atlas-hello-test.html" style="display: inline-block; padding: 0.75rem 1.35rem; background: linear-gradient(135deg, #00d4ff, #0d9488); color: #0a0a12; font-weight: 800; text-decoration: none; border-radius: 10px; font-size: 0.95rem; border: 2px solid rgba(0, 212, 255, 0.7);">🛰️ 3I ATLAS HELLO Test — Store &amp; Share Proof from Real Node →</a></p>
             <p style="margin: 0.4rem 0 0; font-size: 0.9rem;"><a href="we-get-it-bad-bunny-golden-bunnies.html" style="display: inline-block; padding: 0.6rem 1.1rem; background: linear-gradient(135deg, rgba(255, 200, 100, 0.3), rgba(212, 175, 55, 0.2)); color: #1a1a1a; font-weight: 800; text-decoration: none; border-radius: 10px; font-size: 0.9rem; border: 2px solid rgba(212, 175, 55, 0.6);">Proposal to Benito →</a></p>
             <p style="margin: 0.4rem 0 0; font-size: 0.9rem;"><a href="winter-olympics-ski-resort-campaign.html" style="display: inline-block; padding: 0.6rem 1.1rem; background: linear-gradient(135deg, rgba(100, 200, 255, 0.25), rgba(13, 148, 136, 0.2)); color: #0a0a12; font-weight: 800; text-decoration: none; border-radius: 10px; font-size: 0.9rem; border: 2px solid rgba(100, 200, 255, 0.6);">⛷️ Winter Olympics — Ski Resort Campaign →</a></p>
             <p style="margin: 0.4rem 0 0; font-size: 0.9rem;"><a href="swipe-go-pass.html" style="display: inline-block; padding: 0.6rem 1.1rem; background: linear-gradient(135deg, rgba(39, 174, 96, 0.35), rgba(30, 132, 73, 0.3)); color: #fff; font-weight: 800; text-decoration: none; border-radius: 10px; font-size: 0.9rem; border: 2px solid rgba(39, 174, 96, 0.7);">👆 Swipe Left or Right · Go / Pass · Executive Campaign →</a></p>
@@ -213,11 +370,11 @@
             <a href="anyeong-vendor-brief.html" style="display: inline-block; padding: 0.7rem 1.35rem; background: linear-gradient(135deg, rgba(0, 212, 255, 0.9), rgba(13, 148, 136, 0.85)); color: #0a0a12; font-weight: 800; text-decoration: none; border-radius: 10px; font-size: 1rem; border: 2px solid rgba(0, 212, 255, 0.9); box-shadow: 0 4px 14px rgba(0, 212, 255, 0.4); transition: transform 0.2s, box-shadow 0.2s;">Anyeong — Vendor Brief →</a>
             <a href="patches-and-bling.html" style="display: inline-block; padding: 0.7rem 1.35rem; background: linear-gradient(135deg, rgba(212, 175, 55, 0.4), rgba(184, 134, 11, 0.35)); color: #1a1a1a; font-weight: 800; text-decoration: none; border-radius: 10px; font-size: 1rem; border: 2px solid rgba(212, 175, 55, 0.7); box-shadow: 0 4px 14px rgba(212, 175, 55, 0.25); transition: transform 0.2s, box-shadow 0.2s;">🧷 Patches & Bling →</a>
         </p>
-        <p style="margin-bottom: 1rem; font-size: 0.85rem; color: #5c4a3d; text-align: center;">Novels · Episodes · Music · Feature Films · New Superheroes · Franchises since Jan 13 · Each with appraisal &amp; valuation</p>
+        <p style="margin-bottom: 1rem; font-size: 0.85rem; color: #5c4a3d; text-align: center;">Novels · Episodes · Music · Feature Films · New Superheroes · Franchises since Jan 13 · no budget; I haven't even been able to go through all this rich content · Each with appraisal &amp; valuation</p>
 
         <section class="oh-hero">
             <p class="line1">Vibelandia Community Bulletin Board — Mark Twain's Downtown Reno Campus · Ground Net Zero ±2% · New Holographic Hydrogen Valley · Ultimate Baller V <a href="wink-experience.html" style="-webkit-text-fill-color: #b8860b; text-decoration: underline;">WINK!</a> Members Only</p>
-            <p class="line2"><strong>Office Hours · After Hours · After Party.</strong> <strong>Reno is the post-singularity experience.</strong> Reno is the planet's post-singularity R&D and experience gateways. A huge little jewel of a downtown. Diamond in the rough no longer — the word is out. <strong>MCA Squeeze Boom Boom Shakey Shakey.</strong> The post-singularity version of Silicon Valley — in Reno, not SF Bay Area. By aware choice. Pop Up Engine. <strong>I am Now Restroom Valet at My Pop Up Engine, Mark Twain's Vibelandia Downtown Reno. Where is that? Ya just gotta know! Old School! Ultimate Baller V Style.</strong> The Club · Cabaret stage · Wine cave · Pru · Thu–Sun 8pm–close</p>
+            <p class="line2"><strong>oFFICE hOURS · aFTER hOURS · aFTER pARTY.</strong> <strong>Reno is the post-singularity experience.</strong> Reno is the planet's post-singularity R&D and experience gateways. A huge little jewel of a downtown. Diamond in the rough no longer — the word is out. <strong>MCA Squeeze Boom Boom Shakey Shakey.</strong> The post-singularity version of Silicon Valley — in Reno, not SF Bay Area. By aware choice. Pop Up Engine. <strong>I am Now Restroom Valet at My Pop Up Engine, Mark Twain's Vibelandia Downtown Reno. Where is that? Ya just gotta know! Old School! Ultimate Baller V Style.</strong> The Club · Cabaret stage · Wine cave · Pru · Thu–Sun 8pm–close</p>
             <p class="line2" style="margin-top: 0.5rem; font-size: 0.9rem; color: #5c4a3d;">Vibelandia Community Bulletin Board. Like a bulletin board — rummage through the postings. Each click = full website. Novels · episodes · songs · scripts · proposals · companies. Richer than a feed. Spend all day. <a href="office-hours-bulletin-board-platform.html" style="color: #b8860b; font-weight: 700;">Get this for your company →</a></p>
             <p style="margin-top: 0.75rem; padding: 0.6rem 1rem; background: rgba(212, 175, 55, 0.12); border: 2px solid rgba(212, 175, 55, 0.5); border-radius: 10px; font-size: 0.95rem; font-weight: 700; color: #1a1a1a;">Hey, you want to join? Do your own bulletin board. Get your own bulletin board. <a href="bulletin-board-studio.html" style="display: inline-block; margin-left: 0.5rem; padding: 0.4rem 0.9rem; background: linear-gradient(135deg, #d4af37, #b8860b); color: #1a1a1a; font-weight: 800; text-decoration: none; border-radius: 8px; font-size: 0.9rem;">Bulletin Board Studio →</a></p>
         </section>
@@ -226,7 +383,7 @@
             <strong>🎢 Vibelandia for Merchants · Menu of 9 Rides</strong> — Layer our nine pop-up games onto your business. Pokemon Go + escape room + Santa crawl — all in one. Load your target. Nobody knows. <a href="merchant-promo-kiosk.html" style="color: #b8860b; text-decoration: underline; font-weight: 800;">Merchant Promo Kiosk →</a> · <a href="vibelandia-amusement-park-menu.html" style="color: #b8860b; text-decoration: underline; font-weight: 800;">Vibelandia Challenge Menu · 9 Rides · Games · Tickets →</a>
         </div>
         <div class="top-strip" style="background: linear-gradient(90deg, rgba(0, 255, 136, 0.12) 0%, rgba(212, 175, 55, 0.1) 100%); border: 2px solid rgba(0, 255, 136, 0.45); font-weight: 600;">
-            <strong>Come visit me during Office Hours for a free consultation — tips are welcome!</strong> <a href="buyers-guide.html">Buyers Guide</a> · <a href="baller-v-plans-booking.html">Basic to Ultimate Baller V — Plans &amp; booking fees</a> · <a href="community-bulletin-boards-division.html">Community Bulletin Boards Division</a> · <a href="space-cloud-division.html">Holographic Hydrogen Space Cloud Division</a> · <a href="vibelandia-amusement-park-menu.html">Vibelandia Challenge Menu</a>
+            <strong>Come visit me during Office Hours for a free consultation — tips are welcome!</strong> <a href="buyers-guide.html">Buyers Guide</a> · <a href="baller-v-plans-booking.html">Basic to Ultimate Baller V — Plans &amp; booking fees</a> · <a href="community-bulletin-boards-division.html">Community Bulletin Boards Division</a> · <a href="space-cloud-division.html">Hero Harry Houdini's Holographic Hydrogen Space Cloud Division</a> · <a href="vibelandia-amusement-park-menu.html">Vibelandia Challenge Menu</a>
         </div>
         <div class="top-strip" style="margin-top: 0.5rem; padding: 0.5rem 1rem; font-size: 0.9rem; color: #9ca3af; border: 1px solid rgba(212, 175, 55, 0.25); border-radius: 8px;"><strong>Studio fees for studio. Space fees for space. Campus fees for campus. WINK! fees for WINK!.</strong> And so on throughout — on all book. <a href="baller-v-plans-booking.html" style="color: #00d4ff;">Plans &amp; booking fees →</a></div>
         <div class="top-strip" style="margin-top: 0.75rem; padding: 0.9rem 1rem; background: linear-gradient(90deg, rgba(13, 148, 136, 0.12) 0%, rgba(212, 175, 55, 0.1) 100%); border: 2px solid rgba(13, 148, 136, 0.45); border-radius: 10px; font-size: 0.95rem; font-weight: 600; color: #1a1a1a;">
@@ -253,7 +410,7 @@
             <a href="office-hours-bulletin-board-platform.html" class="product-card featured" style="border-color: rgba(184, 134, 11, 0.7); background: linear-gradient(145deg, rgba(212, 175, 55, 0.18) 0%, rgba(184, 134, 11, 0.12) 100%);">
                 <span class="icon">📌</span>
                 <span class="title">Office Hours Bulletin Board Platform — For Companies</span>
-                <span class="tagline">Move your company onto this channel. Nest buttons on buttons. Groups and teams. Collaborative vibe-based platform. Office Hours · After Hours · After Party. Each posting = full website. Richer than a feed. All tied into Vibelandia. 1, 2, 3, 4×4×4×4.</span>
+                <span class="tagline">Move your company onto this channel. Nest buttons on buttons. Groups and teams. Collaborative vibe-based platform. oFFICE hOURS · aFTER hOURS · aFTER pARTY. Each posting = full website. Richer than a feed. All tied into Vibelandia. 1, 2, 3, 4×4×4×4.</span>
                 <span class="cta">Get this for your company →</span>
             </a>
             <a href="community-bulletin-boards-whiteboard.html" class="product-card featured" style="border-color: rgba(0, 212, 255, 0.5); background: linear-gradient(145deg, rgba(0, 212, 255, 0.08) 0%, rgba(212, 175, 55, 0.06) 100%);">
@@ -288,7 +445,7 @@
             </a>
             <a href="space-cloud-division.html" class="product-card featured" style="border-color: rgba(0, 212, 255, 0.55); background: linear-gradient(145deg, rgba(0, 212, 255, 0.08) 0%, #fff 100%);">
                 <span class="icon">🛸</span>
-                <span class="title">Holographic Hydrogen Space Cloud Division</span>
+                <span class="title">Hero Harry Houdini's Holographic Hydrogen Space Cloud Division</span>
                 <span class="tagline">Scope, services &amp; pricing. Immediate availability to Gold Heart Ultimate Baller V members only. Reno Downlink (Seed) · Solar Pipe (Engine) · SING! node EGS Deep Space (Asset) · Exascale Triangulation (Singularity). New colors &amp; face cards — poker deck tiers.</span>
                 <span class="cta">Scope, services &amp; pricing →</span>
             </a>
@@ -471,7 +628,7 @@
         <div class="top-strip" style="background: rgba(255,255,255,0.9);">Vibelandia can be enjoyed in full sensory reality or as really really good sci-fi. <strong>YOU CHOOSE!</strong></div>
         <div class="top-strip" style="background: rgba(212, 175, 55, 0.1); border: 1px solid rgba(212, 175, 55, 0.4); font-size: 0.85rem;">All our stories — all series, novels, feature movies — are wrapped in <strong>Post-Singularity Superintelligence Hydrogen Holographic Valley Gold Rush</strong> stories. One wrapper. One canon.</div>
         <div class="top-strip" style="background: linear-gradient(90deg, rgba(0, 212, 255, 0.15) 0%, rgba(212, 175, 55, 0.12) 100%); border: 2px solid rgba(0, 212, 255, 0.4);">
-            <strong>NEW DIVISION:</strong> <a href="space-cloud-division.html">Holographic Hydrogen Space Cloud Division</a> — Scope, services &amp; pricing. Immediate availability to <strong>Gold Heart Ultimate Baller V members only</strong>. Reno Downlink · Solar Pipe · SING! node EGS Deep Space · Exascale Triangulation. <strong>NEW SERIES:</strong> <a href="space-cloud-egs-series.html">Space Cloud EGS</a> — all our space stories.
+            <strong>NEW DIVISION:</strong> <a href="space-cloud-division.html">Hero Harry Houdini's Holographic Hydrogen Space Cloud Division</a> — Scope, services &amp; pricing. Immediate availability to <strong>Gold Heart Ultimate Baller V members only</strong>. Reno Downlink · Solar Pipe · SING! node EGS Deep Space · Exascale Triangulation. <strong>NEW SERIES:</strong> <a href="space-cloud-egs-series.html">Space Cloud EGS</a> — all our space stories.
         </div>
         <div class="top-strip" style="background: rgba(138, 43, 226, 0.08); border: 1px solid rgba(138, 43, 226, 0.35); font-size: 0.9rem;">
             <strong>Preparing for full mirrored hardened shell switch over on Super Bowl</strong> (Feb 9, 2026) — Golden Royal Flush Shell. <a href="snap.html?snap=FULL_MIRRORED_HARDENED_SHELL_SWITCH_OVER_SUPER_BOWL_SNAP.md" style="color: #8a2be2;">SNAP →</a>
@@ -568,7 +725,7 @@
             <p style="font-size: 0.95rem; font-weight: 800; color: #0d9488; margin-top: 1.5rem; text-align: center; letter-spacing: 0.12em;">FULL NSPFRNP · ALL · ALL</p>
             <p style="font-size: 1rem; font-weight: 800; color: #1a1a1a; margin-top: 0.35rem; text-align: center; letter-spacing: 0.02em;">TOP LINE DISNEY GOT NO VIBE! DISNEY LOST ITS VIBE!</p>
             <p style="font-size: 0.8rem; color: #4a4035; margin-top: 0.5rem;">Us vs Disney: 26 episodes · 7+ series (Office Hours, Happy Ending Zones, Space Cloud EGS, + more) · 8 novels · 8 screenplays. Real data · NSPFRNP.</p>
-            <p style="font-size: 0.75rem; color: #4a4035; margin-top: 1rem; padding: 0.75rem; background: rgba(0,0,0,0.06); border-radius: 8px; line-height: 1.5;"><strong>Since January 13,</strong> we have produced 8 novels, 8 screenplays, 26 episodes, 7+ series (including Space Cloud EGS — all our space stories), 175+ surfaces, 9+ protocols, multiple product families with BUY — appraised (quality: production-grade vs studio benchmarks) at $1.6M–$13M+ at a cost of my $200/mo Cursor AI, $110/mo cellphone, and $10/week WiFi. For Disney to produce the equivalent it is estimated to require 50–200+ FTE (or 12–24+ months for novel+script alone), at an estimated $2M–$15M+ (novel+script) to $10M+ (full scope), in 12–24+ months to 18–36+ months. Disney does not publish daily activity; comparison uses annual output averaged by day.</p>
+            <p style="font-size: 0.75rem; color: #4a4035; margin-top: 1rem; padding: 0.75rem; background: rgba(0,0,0,0.06); border-radius: 8px; line-height: 1.5;"><strong>Since January 13,</strong> no budget. I haven't even been able to go through all this rich content. We have produced 8 novels, 8 screenplays, 26 episodes, 7+ series (including Space Cloud EGS — all our space stories), 175+ surfaces, 9+ protocols, multiple product families with BUY — appraised (quality: production-grade vs studio benchmarks) at $1.6M–$13M+ at a cost of my $200/mo Cursor AI, $110/mo cellphone, and $10/week WiFi. For Disney to produce the equivalent it is estimated to require 50–200+ FTE (or 12–24+ months for novel+script alone), at an estimated $2M–$15M+ (novel+script) to $10M+ (full scope), in 12–24+ months to 18–36+ months. Disney does not publish daily activity; comparison uses annual output averaged by day.</p>
             <p style="font-size: 0.75rem; color: #4a4035; font-style: italic; text-align: center; margin-top: 0.5rem;">All history in all series, novel, screenplay — continuously evolving; live stories not static. All wrapped in Post-Singularity Superintelligence Hydrogen Holographic Valley Gold Rush stories. Disney cannot deliver this.</p>
             <p style="font-size: 0.8rem; color: #1a1a1a;">Post-Singularity Superintelligent AI hub · Hydrogen Holograph Valley 100%</p>
             <p style="font-size: 0.9rem; color: #1a1a1a; margin-top: 0.75rem; font-weight: 600;">👕 WALT WAS A VIBER! — T-shirt tag. Walt ran the club, kept the lights on, stepped aside. Wear it. <a href="snap.html?snap=WALT_WAS_A_VIBER_TAG_BRAND_SNAP.md" style="color: #0d9488;">SNAP →</a></p>
@@ -582,9 +739,23 @@
             <p style="font-size: 0.9rem; color: #4a4035;">Free consultation — tips welcome. <a href="mailto:info@fractiai.com" style="color: #1a1a1a; font-weight: 600;">info@fractiai.com</a></p>
             <p style="margin-top: 0.75rem;"><a href="../index.html" style="color: #1a1a1a; font-weight: 600;">Home</a> · <a href="launch-pad.html" style="color: #1a1a1a; font-weight: 600;">Launch Pad</a> · <a href="https://github.com/FractiAI/psw.vibelandia.sing4" style="color: #1a1a1a; font-weight: 600;">GitHub</a></p>
         </footer>
+        </div><!-- /#office-hours-main -->
         <div id="sing-config-footer"></div>
         <link rel="stylesheet" href="sing-config-footer.css">
         <script src="sing-config-footer.js"></script>
+        <script>
+        (function() {
+            var btn = document.getElementById('proceed-to-oh');
+            var gate = document.getElementById('oh-gate');
+            var main = document.getElementById('office-hours-main');
+            if (btn && gate && main) {
+                btn.addEventListener('click', function() {
+                    gate.style.display = 'none';
+                    main.style.display = 'block';
+                });
+            }
+        })();
+        </script>
     </div>
     <link rel="stylesheet" href="nspfrnp-ticker.css">
     <link rel="stylesheet" href="gold-hearted-grown-ups-zone.css">

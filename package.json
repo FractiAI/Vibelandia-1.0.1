@@ -12,7 +12,10 @@
     "deploy": "node scripts/deploy-vercel.mjs",
     "deploy:vercel": "vercel --yes",
     "check-supabase": "node scripts/check-supabase-access.mjs",
-    "set-vercel-env": "node scripts/set-vercel-env-from-credentials.mjs"
+    "set-vercel-env": "node scripts/set-vercel-env-from-credentials.mjs",
+    "hello": "node scripts/reno-node-hello.mjs",
+    "reno-node-hello": "node scripts/reno-node-hello.mjs",
+    "hello-permanent": "node scripts/hello-permanent.mjs"
   },
   "engines": {
     "node": ">=18.0.0"

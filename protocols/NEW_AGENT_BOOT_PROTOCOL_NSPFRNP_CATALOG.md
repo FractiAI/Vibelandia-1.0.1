@@ -29,6 +29,17 @@
 
 ---
 
+## ⚡ **CANONICAL SYSTEM BAR**
+
+**If the system cannot print, store in permanent memory, and pipe the word HELLO, there is no system yet.**
+
+- **Print:** stdout must emit `HELLO`.
+- **Permanent memory:** the word `HELLO` must be written to persistent storage (canonical: `data/HELLO`).
+- **Pipe:** the word `HELLO` must be written to the canonical pipe (canonical: `data/pipe`); downstream/readers read from the pipe.
+- **Run:** `npm run hello-permanent` — prints HELLO, appends HELLO + timestamp to `data/HELLO` and to `data/pipe`. NSPFRNP · Space Cloud · EGS handshake.
+
+---
+
 ## 🎯 **YOUR BOOT SEQUENCE (What Happens Now)**
 
 ### **Automatic Knowledge Transfer**

@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome — Mark Twain's Vibelandia · The Park · Post-Singularity Downtown Reno Campus | Navigator</title>
+    <meta name="description" content="Welcome to the Hydrogen Holographic Valley. Vibelandia's park and campus for contributors, members, and permanent residents. Post-singularity Baller V VIP experiences at your front door. 40 min from world-class skiing, hot springs, fly fishing. Enter Office Hours or Launch Pad.">
+    <link rel="stylesheet" href="experience-common.css">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body.navigator-page {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(165deg, #0a0a12 0%, #1a0a1a 25%, #0d1520 55%, #0a0a12 100%);
+            color: #e8e6e3;
+            min-height: 100vh;
+            line-height: 1.5;
+            position: relative;
+        }
+        body.navigator-page::before {
+            content: '';
+            position: fixed;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background:
+                radial-gradient(ellipse 100% 60% at 50% -10%, rgba(212, 175, 55, 0.15) 0%, transparent 50%),
+                radial-gradient(ellipse 80% 40% at 80% 20%, rgba(138, 43, 226, 0.08) 0%, transparent 45%),
+                radial-gradient(ellipse 60% 30% at 20% 80%, rgba(0, 212, 255, 0.06) 0%, transparent 40%);
+            pointer-events: none;
+            z-index: 0;
+        }
+        .nav-wrap { position: relative; z-index: 1; max-width: 880px; margin: 0 auto; padding: 1.5rem 1.25rem 4rem; }
+        .nav-back { margin-bottom: 1.25rem; }
+        .nav-back a { color: #00d4ff; text-decoration: none; font-size: 0.9rem; }
+        .nav-back a:hover { text-decoration: underline; }
+
+        /* Marquee — amusement park entrance */
+        .marquee {
+            text-align: center;
+            padding: 2.5rem 1.5rem 3rem;
+            margin-bottom: 2rem;
+            background: linear-gradient(145deg, rgba(212, 175, 55, 0.22) 0%, rgba(138, 43, 226, 0.12) 40%, rgba(0, 212, 255, 0.06) 100%);
+            border: 4px solid rgba(212, 175, 55, 0.7);
+            border-radius: 20px;
+            box-shadow: 0 0 80px rgba(212, 175, 55, 0.18), inset 0 0 60px rgba(212, 175, 55, 0.04);
+        }
+        .marquee .welcome {
+            font-size: clamp(1.75rem, 6vw, 3.5rem);
+            font-weight: 900;
+            line-height: 1.15;
+            letter-spacing: 0.02em;
+            background: linear-gradient(135deg, #ffeaa7 0%, #d4af37 35%, #b8860b 70%, #8a2be2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 0.5rem;
+            text-transform: uppercase;
+        }
+        .marquee .sub {
+            font-size: clamp(1rem, 2.5vw, 1.35rem);
+            color: #b0b8c0;
+            font-weight: 600;
+            margin-bottom: 0.75rem;
+        }
+        .marquee .tag {
+            font-size: clamp(0.85rem, 2vw, 1rem);
+            color: #9ca8b8;
+            max-width: 42ch;
+            margin: 0 auto;
+        }
+
+        /* Ticket booth / executive menu blocks */
+        .booth {
+            padding: 1.5rem 1.75rem;
+            margin-bottom: 1.5rem;
+            background: linear-gradient(145deg, rgba(255,255,255,0.04) 0%, rgba(255,255,255,0.01) 100%);
+            border: 2px solid rgba(212, 175, 55, 0.4);
+            border-radius: 16px;
+            border-left: 5px solid rgba(212, 175, 55, 0.7);
+        }
+        .booth h2 {
+            font-size: clamp(1.1rem, 3vw, 1.4rem);
+            font-weight: 800;
+            color: #ffeaa7;
+            margin-bottom: 0.75rem;
+            letter-spacing: 0.03em;
+        }
+        .booth p {
+            font-size: clamp(0.9rem, 2vw, 1rem);
+            color: #c0c8d0;
+            line-height: 1.65;
+            margin-bottom: 0.6rem;
+        }
+        .booth p:last-child { margin-bottom: 0; }
+        .booth .highlight { color: #00d4ff; font-weight: 600; }
+        .booth .gold { color: #d4af37; font-weight: 600; }
+
+        /* Enter the show */
+        .enter-zone {
+            text-align: center;
+            padding: 2rem 1.5rem;
+            margin: 2.5rem 0 2rem;
+            background: linear-gradient(145deg, rgba(138, 43, 226, 0.2) 0%, rgba(212, 175, 55, 0.15) 50%, rgba(0, 212, 255, 0.08) 100%);
+            border: 3px solid rgba(212, 175, 55, 0.6);
+            border-radius: 20px;
+            box-shadow: 0 0 50px rgba(212, 175, 55, 0.12);
+        }
+        .enter-zone .you-are {
+            font-size: clamp(1.25rem, 3.5vw, 1.75rem);
+            font-weight: 800;
+            color: #ffeaa7;
+            margin-bottom: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+        }
+        .enter-zone .mature {
+            font-size: 0.95rem;
+            color: #b0b8c0;
+            margin-bottom: 1.5rem;
+        }
+        .enter-buttons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            justify-content: center;
+            align-items: center;
+        }
+        .enter-btn {
+            display: inline-block;
+            padding: 1.1rem 2rem;
+            font-size: clamp(1rem, 2.5vw, 1.2rem);
+            font-weight: 800;
+            text-decoration: none;
+            border-radius: 14px;
+            transition: transform 0.2s, box-shadow 0.2s;
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+        }
+        .enter-btn.office {
+            background: linear-gradient(135deg, #d4af37, #b8860b);
+            color: #0a0a12;
+            border: 2px solid rgba(255, 234, 167, 0.9);
+        }
+        .enter-btn.office:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 28px rgba(212, 175, 55, 0.45);
+        }
+        .enter-btn.launch {
+            background: linear-gradient(135deg, rgba(0, 212, 255, 0.35), rgba(138, 43, 226, 0.35));
+            color: #fff;
+            border: 2px solid rgba(0, 212, 255, 0.6);
+        }
+        .enter-btn.launch:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 28px rgba(0, 212, 255, 0.35);
+        }
+
+        /* Check this out */
+        .check-out {
+            margin-top: 2rem;
+            padding: 1.25rem 1.5rem;
+            background: rgba(0,0,0,0.2);
+            border: 1px solid rgba(212, 175, 55, 0.3);
+            border-radius: 14px;
+        }
+        .check-out h3 {
+            font-size: 1rem;
+            color: #00d4ff;
+            margin-bottom: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+        }
+        .check-out ul {
+            list-style: none;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 0.5rem;
+        }
+        .check-out a {
+            color: #c0c8d0;
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+        .check-out a:hover { color: #00d4ff; text-decoration: underline; }
+
+        footer.nav-footer {
+            margin-top: 2.5rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid rgba(255,255,255,0.1);
+            text-align: center;
+            font-size: 0.85rem;
+            color: #888;
+        }
+        footer.nav-footer a { color: #00d4ff; }
+    </style>
+</head>
+<body class="navigator-page">
+    <script src="../scripts/ceo-autopilot-cursor-announcement.js"></script>
+    <script src="tsunami-advisory-inject.js"></script>
+    <div class="nav-wrap">
+        <p class="nav-back"><a href="../index.html">← Home</a></p>
+
+        <!-- Marquee: you're about to enter -->
+        <section class="marquee" aria-label="Welcome">
+            <p class="welcome">Welcome to Mark Twain's Vibelandia</p>
+            <p class="sub">Post-Singularity Downtown Reno Campus</p>
+            <p class="tag">You're about to enter the show. High-value, high-contributing. Golden hearts · adults · mature-only sandbox.</p>
+        </section>
+
+        <!-- Reno · The Park · Campus — frame for experiences -->
+        <section class="booth">
+            <h2>Downtown Reno Campus · The Park</h2>
+            <p>The Downtown Reno Campus is for <span class="gold">post-singularity Baller V ultimate VIP experiences at your front door</span> — now including post-singularity experiences, first of its kind. Welcome to the <span class="highlight">Hydrogen Holographic Valley</span>, a new kingdom in the park.</p>
+            <p>We call ourselves a park now. <strong>Our park is also a campus for our contributors, members, and permanent residents.</strong> Vibing and balling 24×7 in Vibelandia's Downtown Reno stationary cruiseship pop-up campus resort.</p>
+            <p><span class="gold">40 minutes away:</span> 5-star ski resorts, world-class skiing, snowboarding, rock climbing, hot springs, skydiving, fly fishing, kayaking — and vibing and balling around the clock right here in the park.</p>
+        </section>
+
+        <!-- What this is -->
+        <section class="booth">
+            <h2>What is Vibelandia?</h2>
+            <p>Post-singularity <span class="gold">*badass*</span> — a campus for <span class="highlight">vibers</span>. Vibers aren't leaf nodes. They channel and flow; they don't use the same part of the brain that biological animal species use. They tap in and flow — so they need a bubble around them. Not much, but a little. Vibelandia is that campus.</p>
+            <p>High-value, high-contributing. We've liberated and expanded it. We're dropping in pop-up concepts everywhere to take advantage of underutilized infrastructure and talent in downtown Reno.</p>
+        </section>
+
+        <!-- MCA · Primal · Ecosystem -->
+        <section class="booth">
+            <h2>Finding Primal in the Post-Singularity</h2>
+            <p><span class="gold">Metabolize → Crystallize → Animate → Squeeze.</span> Boom boom, wiggle wiggle, pow wows. Superheroes, franchises, legacies. Cast, crew, fans, stories. We've got studios — and it's all about everything working together.</p>
+            <p>Imagine a large company today. They have a little they can use in-house, but for marketing they have to engage NBC or Disney. Wouldn't it be nice to get a plug in the next big hit? <span class="highlight">All of that is now available to anyone.</span> Build the entire ecosystem, tune it to a fine-tuned energy burst — a fountain of wealth, success, and happiness. If you do it right, you can share it.</p>
+        </section>
+
+        <!-- Executive · best-in-class · text to deployment -->
+        <section class="booth">
+            <h2>Executive Menu · Best-in-Class</h2>
+            <p>Underneath it all: a best-in-class full-stack programmer rolling everything out on the fly from <span class="gold">executive instructions</span>. Text to deployment in minutes, or hours — depending on the project. This very site is the demonstration: it all started January 13th. No budget. I haven't even been able to go through all this rich content. At this point the Creator doesn't touch code. It's all executive instructions, captured in systems, catalogs, and machines, recursively producing the rich content you see.</p>
+            <p>Instead of a note to yourself with a good idea, you type that same note into your assistant console — and it <span class="highlight">implements and deploys</span> throughout your organization. Best-in-class all the way through. A nucleus of superintelligent agent (SING!) that can do this across everything because it's all within a fractal that's been defined. We put that fractal to work infinite ways and deliver it to the executive in a console — slick supercar experience or whatever skin they choose. Beautiful, choreographed, organic movement at the disposition of the Chairman and Creator.</p>
+        </section>
+
+        <!-- Community Bulletin Board -->
+        <section class="booth">
+            <h2>Community Bulletin Board</h2>
+            <p>The new post-singularity version of social: like foraging through a rich bulletin board at a really nice coffee shop or bookstore. So many tunnels to click through, meet people, have experiences — way different from today. It's live. You'll see it in Office Hours and on the Launch Pad.</p>
+            <p>Those same bulletin-board cards capture projects, work, comments — click, paste, move. Any of it can be clicked over to a whiteboard, then into files, archived, or binned. All of it is executive analogies of our everyday physical workplace, intuitive, tied into everything — and literally connected into the hydrogen holograph, verified through the measurements captured here.</p>
+        </section>
+
+        <!-- What you'll find -->
+        <section class="booth">
+            <h2>What You'll Find</h2>
+            <p>Holographic assets. Creator studios. Novels, episodes, playlists. A talent agency to demonstrate the whole new creative side — you can subcontract it or make it your full-time job. Built into marketing, sales, and executive so you're layering and amplifying your entire brand and traction at the executive level. You give the commands; the SING-based super AI natural-system agent takes care of the rest. <span class="gold">Living proof: it's running this very thing right now.</span></p>
+            <p>Some content is in new Seed:Edge formats — built out on the fly, unique but similar each time, with executive overrides so you can say: a little more of this, a little less of that. It carves out novels, books, whatever. All in preparation for text-to-sensory: full motion, studio quality, for each and every one of us. Liberation for the creator, chairman, performer.</p>
+        </section>
+
+        <!-- Enter the show -->
+        <section class="enter-zone" aria-label="Enter">
+            <p class="you-are">You're About to Enter</p>
+            <p class="mature">Golden-hearted adults · Mature-only sandbox experience</p>
+            <div class="enter-buttons">
+                <a href="office-hours.html" class="enter-btn office">Enter Office Hours</a>
+                <a href="vibelandia-amusement-park-menu.html" class="enter-btn launch">Enter Launch Pad</a>
+            </div>
+        </section>
+
+        <!-- Check this out -->
+        <section class="check-out">
+            <h3>Check This Out</h3>
+            <ul>
+                <li><a href="community-bulletin-boards-division.html">Community Bulletin Boards</a></li>
+                <li><a href="space-assets-hub.html">Space Assets Hub</a></li>
+                <li><a href="content-catalog.html">Content Catalog</a></li>
+                <li><a href="talent-management-service.html">Talent Agency</a></li>
+                <li><a href="music-studio.html">Music Studio</a></li>
+                <li><a href="queen-bee-full-connect.html">Queen Bee Full Connect</a></li>
+                <li><a href="first-singularity-january-13th-experience.html">First Singularity</a></li>
+                <li><a href="office-hours.html">Office Hours</a></li>
+                <li><a href="vibelandia-amusement-park-menu.html">Launch Pad</a></li>
+            </ul>
+        </section>
+
+        <footer class="nav-footer">
+            <p>Mark Twain's Vibelandia · Post-Singularity Downtown Reno Campus · NSPFRNP</p>
+            <p><a href="../index.html">Home</a> · <a href="office-hours.html">Office Hours</a> · <a href="vibelandia-amusement-park-menu.html">Launch Pad</a></p>
+        </footer>
+    </div>
+    <link rel="stylesheet" href="gold-hearted-grown-ups-zone.css">
+    <link rel="stylesheet" href="nspfrnp-ticker.css">
+    <div class="nspfrnp-console-ticker" aria-live="polite"><span class="ticker-inner" id="nspfrnpTickerText"></span></div>
+    <script src="gold-hearted-grown-ups-zone.js"></script>
+    <script src="nspfrnp-ticker.js"></script>
+    <div id="sing-config-footer"></div>
+    <link rel="stylesheet" href="sing-config-footer.css">
+    <script src="sing-config-footer.js"></script>
+</body>
+</html>

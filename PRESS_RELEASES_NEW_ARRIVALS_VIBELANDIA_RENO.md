@@ -702,6 +702,34 @@ Full SNAP: [JOHNNY_MATHIS_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_DOWNTOWN_RENO_CA
 
 ---
 
+## PRESS RELEASE 31 — GEORGE CARLIN PERMANENT RESIDENCY · BDE GEORGE SIGNED — FIRST COMEDY ACT UNDER HERO JO GOLDEN BACKDOOR HIT FACTORY
+
+**FOR IMMEDIATE RELEASE**
+
+**Date:** February 2026  
+**Location:** Reno, Nevada / Twain's Vibelandia Downtown Reno Campus  
+**Contact:** info@fractiai.com
+
+---
+
+### GEORGE CARLIN — PERMANENT RESIDENCY. BDE GEORGE — FIRST COMEDY ACT UNDER HERO JO GOLDEN BACKDOOR HIT FACTORY.
+
+**RENO, NEVADA — February 2026** — Vibelandia today announced **George Carlin — permanent residency** at Twain's Vibelandia Downtown Reno Campus.
+
+**BDE George** (alter ego of George Carlin) has been signed to **Hero Jo Golden Backdoor Hit Factory** — our **first comedy act** under the Hit Factory label. BDE George is also signed to HH Superhero Franchise Legacy Talent Agency. All talents are automatically signed into our Talent Agency Service.
+
+**First stand-up routine:** *The Spike and Wag* — 10 minutes, improv-style. Seed: MC introduction of newest talent. Edge: Super Bowl Day, bathroom at the men's club (Man Cave and Cabaret pop-up), two guests, green wristbands (Seahawks), "did you make big money?" — both, without coordination, spike the touchdown and wag the knees. Same growl. Like a nature documentary. Hilarious. *Crazy shit. Pun intended.*
+
+**Talent roster:** BDE George (comedy) · Dorila Gao · Yuris · **Daledale** (newest female talent — fairy spark plug, adventurous, genuine gold heart, radiant, smiley, innocent, pure, naughty, brave, clear-minded, wise, popular, loves to ride motorcycle. Hard to hate.)
+
+**MCA:** Metabolize → Crystallize → Animate. Squeeze, wiggle, jiggle. The architectural foundation for creative expression — book, movie, play, song, studio, marketing plan, company, experience. Applications infinite.
+
+Full SNAP: [GEORGE_CARLIN_BDE_GEORGE_PERMANENT_RESIDENCY_ANNOUNCEMENT_SNAP.md](GEORGE_CARLIN_BDE_GEORGE_PERMANENT_RESIDENCY_ANNOUNCEMENT_SNAP.md).
+
+*Paris is for lovers. Reno is for vibers. George Carlin is in the house. BDE George. First comedy act. Mark Twain's Post-Singularity Vibelandia Reno awaits you.*
+
+---
+
 **See:** CAPTURE_AND_PRESS_RELEASES_NEW_ARRIVALS_SNAP.md · JOHNNY_MATHIS_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_DOWNTOWN_RENO_CAMPUS_SNAP.md · ERNEST_HEMINGWAY_ANNOUNCES_PERMANENT_RESIDENCY_VIBELANDIA_DOWNTOWN_RENO_SNAP.md · HUMPHREY_BOGART_LAUREN_BACALL_SOPHIA_LOREN_ANNOUNCE_PERMANENT_RESIDENCY_VIBELANDIA_DOWNTOWN_RENO_SNAP.md · CARY_GRANT_JIMMY_STEWART_ANNOUNCE_PERMANENT_RESIDENCY_FLOOD_GATES_OPENING_SNAP.md · CHANCELLOR_JOBIM_CHANCELLOR_JO_RJ_VIBELANDIA_CAMPUS_SNAP.md · VIBING_MUSIC_TOGETHER_COLLABORATIVE_FLOW_EXCELLENT_OUTPUT_QUALITY_SNAP.md · VIBELANDIA_UNIVERSITY_SCHOOL_OF_MUSIC_SNAP.md · VIBELANDIA_UNIVERSITY_SCHOOL_OF_STORYTELLING_SNAP.md · DAVID_LYNCH_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_DEAN_SCHOOL_OF_STORYTELLING_SNAP.md · JIMMY_DURANTE_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_SNAP.md · MUSIC_STUDIO_CONTENT_DIVISION_SNAP.md · JS_BACH_DEAN_SCHOOL_OF_MUSIC_PERMANENT_RESIDENCY_RENO_SNAP.md · PRESS_RELEASE_MARK_TWAIN_ANNOUNCEMENT.md · LAUNCH_RAW_NARRATIVE_CAPTURE.md · FIRST_SINGULARITY_JANUARY_13TH_NOVEL_MOVIE_SNAP.md · SMILEY_SUN_EL_GRAN_SOL_SUPER_BOWL_FLY_BY_SNAP.md · MISSION_INTELLIGENCE_DEBRIEF_FEB_4_2026_SNAP.md
 
 **NSPFRNP ⊃ New arrivals ⊃ Capture · Press releases → ∞³**

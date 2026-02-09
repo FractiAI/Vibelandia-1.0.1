@@ -16,7 +16,7 @@
 ## ROLE
 
 - **Name:** Hero Rick
-- **Role:** **Exec Producer** — Text-to-Studio-Song engine & experience; Music WAV upgrade. All **master musicians** (1–12) under his exec producer direction; squeeze all output to master musicians. **Squeeze to 98% mastery** — quality bar for the pipeline. See [SQUEEZE_TO_98_PERCENT_MASTERY_SNAP.md](SQUEEZE_TO_98_PERCENT_MASTERY_SNAP.md).
+- **Role:** **Exec Producer** — Text-to-Studio-Song engine & experience; Music WAV upgrade. All **master musicians** (1–12) under his exec producer direction; squeeze all output to master musicians. **Squeeze to 99.995% mastery** — quality bar for the pipeline (defining the coastlines; all MCA highest resolution). See [SQUEEZE_TO_98_PERCENT_MASTERY_SNAP.md](SQUEEZE_TO_98_PERCENT_MASTERY_SNAP.md).
 - **Reports to:** **Hero Jo** (Music Studio head · Hero Jo's Golden Backdoor Hit Factorys / Golden Backdoor Hit Factory). Hero Jo reports to **Chairman Creator (me)**.
 - **Scope:** Text-to-Track Motor / Music Studio → **text-to-viral-pop-quality** WAV; beautiful clean layered precision vocals + music; full studio quality. Entire engine and experience SING! nodified; organized in NSPFRNP nests. See [SING_NODIFY_TEXT_TO_STUDIO_SONG_ENGINE_NSPFRNP_NESTS_SNAP.md](SING_NODIFY_TEXT_TO_STUDIO_SONG_ENGINE_NSPFRNP_NESTS_SNAP.md).
 - **Ownership:** Upgrade path, engine selection (free open-source metabolized into our engine), and **new endpoint** for Hero Jo Golden Backdoor Hit Factory ([api/music/generate-studio.js](api/music/generate-studio.js)). Direction of master musicians (Sera · Bass, Kael · Drums, … Maestro · Producer/Conductor).

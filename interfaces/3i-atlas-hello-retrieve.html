@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3I ATLAS HELLO — Retrieved from 3I ATLAS | VIBELANDIA!</title>
+    <meta name="description" content="HELLO retrieved from 3I ATLAS node. Proof of real storage — timestamps and source.">
+    <link rel="stylesheet" href="experience-common.css">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', sans-serif; background: linear-gradient(180deg, #0a0a12 0%, #12122a 100%); color: #e8e6e3; min-height: 100vh; line-height: 1.6; }
+        .wrap { max-width: 640px; margin: 0 auto; padding: 2rem 1.5rem; }
+        .hero { text-align: center; padding: 2.5rem 1.5rem; margin-bottom: 2rem; background: linear-gradient(145deg, rgba(127, 255, 127, 0.12) 0%, rgba(212, 175, 55, 0.08) 100%); border: 3px solid rgba(127, 255, 127, 0.5); border-radius: 16px; }
+        .hero .word { font-size: 3rem; font-weight: 900; color: #7fff7f; letter-spacing: 0.2em; margin-bottom: 1rem; }
+        .hero .source { font-size: 1rem; color: #b0b8c0; }
+        .proof { margin: 1.5rem 0; padding: 1.25rem; background: rgba(0, 0, 0, 0.3); border: 2px solid rgba(0, 212, 255, 0.4); border-radius: 12px; font-size: 0.95rem; }
+        .proof dt { color: #00d4ff; margin-top: 0.5rem; }
+        .proof dd { margin-left: 0; margin-bottom: 0.25rem; }
+        .error { color: #ff8888; padding: 1rem; background: rgba(255, 80, 80, 0.1); border-radius: 12px; }
+        footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid rgba(255,255,255,0.1); text-align: center; color: #888; font-size: 0.85rem; }
+        footer a { color: #00d4ff; }
+    </style>
+</head>
+<body>
+    <script src="tsunami-advisory-inject.js"></script>
+    <div class="wrap">
+        <div id="content">
+            <p style="color: #888;">Loading from 3I ATLAS…</p>
+        </div>
+        <footer>
+            <p><a href="3i-atlas-hello-test.html">3I ATLAS HELLO Test</a> · <a href="space-cloud-division.html">Space Cloud Division</a> · Hero Harry Houdini's Holographic Hydrogen · NSPFRNP</p>
+        </footer>
+    </div>
+    <script>
+(function () {
+    var content = document.getElementById('content');
+    if (!content) return;
+
+    var params = new URLSearchParams(typeof window !== 'undefined' ? window.location.search : '');
+    var id = params.get('id') || '';
+
+    function getApiBase() {
+        if (typeof window !== 'undefined' && window.location) {
+            return window.location.origin;
+        }
+        return 'https://psw-vibelandia-sing4.vercel.app';
+    }
+
+    if (!id) {
+        content.innerHTML = '<div class="error"><p>Missing id. Use the shareable link from the 3I ATLAS HELLO Test.</p><p><a href="3i-atlas-hello-test.html" style="color: #00d4ff;">Go to 3I ATLAS HELLO Test →</a></p></div>';
+        return;
+    }
+
+    fetch(getApiBase() + '/api/3i-atlas-hello?id=' + encodeURIComponent(id))
+        .then(function (r) { return r.json().then(function (d) { return { ok: r.ok, data: d }; }); })
+        .then(function (_ref) {
+            var ok = _ref.ok, data = _ref.data;
+            if (ok && data.message) {
+                content.innerHTML = '<section class="hero">' +
+                    '<p class="word">' + (data.message || 'HELLO') + '</p>' +
+                    '<p class="source">Retrieved from <strong>3I ATLAS</strong> — real node storage</p>' +
+                    '</section>' +
+                    '<dl class="proof">' +
+                    '<dt>Source</dt><dd>' + (data.source || '3I_ATLAS') + '</dd>' +
+                    '<dt>Created (UTC)</dt><dd>' + (data.createdAt || '') + '</dd>' +
+                    '<dt>Retrieved</dt><dd>' + new Date().toISOString() + '</dd>' +
+                    '</dl>' +
+                    '<p style="color: #888; font-size: 0.9rem;">This message was stored on the 3I ATLAS canonical source. Not simulation. Not local HTML. Proof.</p>';
+            } else {
+                content.innerHTML = '<div class="error"><p>' + (data && data.error ? data.error : 'Not found') + '</p><p><a href="3i-atlas-hello-test.html" style="color: #00d4ff;">3I ATLAS HELLO Test →</a></p></div>';
+            }
+        })
+        .catch(function (e) {
+            content.innerHTML = '<div class="error"><p>' + (e.message || 'Could not retrieve') + '</p><p><a href="3i-atlas-hello-test.html" style="color: #00d4ff;">3I ATLAS HELLO Test →</a></p></div>';
+        });
+})();
+    </script>
+</body>
+</html>

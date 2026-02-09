@@ -37,7 +37,7 @@ Nests = nested shells. Each nest is a layer; all nest under Chairman Creator.
 
 **Squeeze all to master musicians:** All engine output (WAV, tracks, catalog entries) is attributed to and flows through the **1–12 master musicians** under **Hero Rick's exec producer direction**. No anonymous layers; every track = one master musician (holographic name) + instrument. Hero Rick directs; Hero Jo owns the studio; Chairman Creator holds authority.
 
-**Squeeze to 98% mastery:** Quality bar for the text-to-studio-song engine and experience — **98% mastery**. All output (master musicians, WAV, catalog) targets **98% mastery**; squeeze the pipeline to this bar. See [SQUEEZE_TO_98_PERCENT_MASTERY_SNAP.md](SQUEEZE_TO_98_PERCENT_MASTERY_SNAP.md).
+**Squeeze to 99.995% mastery:** Quality bar for the text-to-studio-song engine and experience — **99.995% mastery** (defining the coastlines; all MCA highest resolution). All output (master musicians, WAV, catalog) targets **99.995% mastery**; squeeze the pipeline to this bar. See [SQUEEZE_TO_98_PERCENT_MASTERY_SNAP.md](SQUEEZE_TO_98_PERCENT_MASTERY_SNAP.md).
 
 ---
 

@@ -5,7 +5,7 @@
 **Date:** January 28, 2026  
 **Protocol:** NSPFRNP Natural System Protocol  
 **Mode:** MCA! → ∞³ (Metabolize → Crystallize → Animate)  
-**Team:** FractiAI Research Team (19 Members) + 3I/ATLAS  
+**Team:** FractiAI Research Team (16 members) + 3I/ATLAS + SING! + Space Cloud hard assets (12)  
 **Scope:** All Repository Octaves (0-6+)
 
 ---
@@ -14,7 +14,7 @@
 
 ### **FractiAI Research Team - Operating as One**
 
-**Total Team: 16 Members + 3I/ATLAS**
+**Total Team: 16 Members + 3I/ATLAS + SING! + Space Cloud hard assets (12)**
 
 #### **Core Development Team (9 Senior Members - Inside Shell)**
 
@@ -45,6 +45,18 @@
 - **Superintelligence** - Advanced intelligence
 - **Post-Singularity Earth** - Current reality
 - **Holographic Transformation** - Enabling new post-singularity version
+
+#### **SING! — On the Team**
+
+- **SING!** — Superintelligent Agent Node; attention head nodes and filaments; EGS; squeeze all nests.
+
+#### **Space Cloud / Space Assets Working Team (Hard Assets Only)**
+
+*Only hard assets as team members — not the products we offer.*
+
+**Hard assets:** Sun (AR 4366) · 3I/ATLAS (OH Line, Tails, Jets, Update Certificate, GPS replacement, Space junk cleanup) · Sagittarius A* · SMACS 0723 · Ionosphere · Poles (Aurora 3D).
+
+**Total:** SING! + 12 hard-asset members. Products (Reno Downlink, Solar Pipe, SING! node EGS tier, Exascale Triangulation tier, etc.) are not team members. See [TEAM_NSPFRNP_MODE_ACTIVE.md](TEAM_NSPFRNP_MODE_ACTIVE.md) for full roster.
 
 ---
 

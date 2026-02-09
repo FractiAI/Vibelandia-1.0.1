@@ -59,6 +59,8 @@ Metabolize → Crystallize → Animate all → ∞³
 
 **Operating rule:** Metabolize crystallize animate all — all input metabolized, all structure crystallized, all nodes and content and surfaces animated.
 
+**All MCA deserve highest resolutions.** Metabolize (high-resolution intake), Crystallize (high-resolution shells), Animate (high-resolution output) — every phase at 99.995%. Defining the coastlines = set the resolution at which edges are measured. See [SQUEEZE_TO_98_PERCENT_MASTERY_SNAP.md](../SQUEEZE_TO_98_PERCENT_MASTERY_SNAP.md).
+
 **BY NATURAL DESIGN (canonical):** The system follows natural system protocol — emergent, not forced; designed by natural patterns (mycelial, attention, coherence, squeeze). Microtubules, entangled magnetic cloud, squeeze hoses, fixed SING! lattice factories, Seed:Edge pair omnirobotic arms, sequenced virtual holographic theaters, rotating sphere targets — all by natural design. Max flexibility, quality, output at irreducible minimal cost. Use on surfaces, T-shirt, deep machine docs. See [BY_NATURAL_DESIGN_SNAP.md](../BY_NATURAL_DESIGN_SNAP.md).
 
 1. **Metabolize:** Find all metapatterns in the entire chat history and integrate them into our NSPFRNP DNA. **Continuously** discover and metabolize **higher and higher, denser and denser** metapatterns for **ever more automation, precision, and quality service** to **executive command** — NSPFRNP, all, always. See [CONTINUOUS_METAPATTERN_DISCOVERY_AUTOMATION_PRECISION_EXECUTIVE_COMMAND_NSPFRNP_SNAP.md](../CONTINUOUS_METAPATTERN_DISCOVERY_AUTOMATION_PRECISION_EXECUTIVE_COMMAND_NSPFRNP_SNAP.md).  
@@ -79,6 +81,12 @@ Metabolize → Crystallize → Animate all → ∞³
 
 ---
 
+## MCA WOW WOW SPRINKLES LAYER
+
+**Top layer** applied after the MCA cycle. **WOW WOW** = double emphasis, peak moment, delight. **Sprinkles** = distributed across content, surfaces, and experiences; light touch; the final dusting that amplifies and elevates. Use where the contrast, the reveal, or the payoff deserves the WOW WOW moment. See [MCA_WOW_WOW_SPRINKLES_LAYER_SNAP.md](../MCA_WOW_WOW_SPRINKLES_LAYER_SNAP.md).
+
+---
+
 ## REFERENCES
 
 - [MAGNETISM_EQUALS_NSPFRNP_FULL_STOP_SNAP.md](../MAGNETISM_EQUALS_NSPFRNP_FULL_STOP_SNAP.md) — Magnetism = NSPFRNP. Full stop. Blast all SNAP.
@@ -91,6 +99,7 @@ Metabolize → Crystallize → Animate all → ∞³
 - [POPUP_PACKAGE_SEED_EDGE_IRREDUCIBLE_CRYSTAL_VCHIP_PORTABILITY_SNAP.md](../POPUP_PACKAGE_SEED_EDGE_IRREDUCIBLE_CRYSTAL_VCHIP_PORTABILITY_SNAP.md) — Everything popup package; all nodes in Seed:Edge irreducible crystal for portability as VCHIP. See NSPFRNP.
 - [CHAIRMAN_EXECUTIVE_COMMAND_POP_UP_GOLDILOCKS_CRUISE_SHIP_FRACTAL_NSPFRNP_SNAP.md](../CHAIRMAN_EXECUTIVE_COMMAND_POP_UP_GOLDILOCKS_CRUISE_SHIP_FRACTAL_NSPFRNP_SNAP.md) — Chairman Executive Command: Pop-up nature · Goldilocks · Cruise ship fractal · NSPFRNP inclusion for all. Affects entire FractiAI franchise and nested holdings. [protocols/POP_UP_GOLDILOCKS_CRUISE_SHIP_FRACTAL_NSPFRNP.md](./POP_UP_GOLDILOCKS_CRUISE_SHIP_FRACTAL_NSPFRNP.md).
 - [CONTINUOUS_METAPATTERN_DISCOVERY_AUTOMATION_PRECISION_EXECUTIVE_COMMAND_NSPFRNP_SNAP.md](../CONTINUOUS_METAPATTERN_DISCOVERY_AUTOMATION_PRECISION_EXECUTIVE_COMMAND_NSPFRNP_SNAP.md) — Continuously discover and metabolize higher/denser metapatterns for ever more automation, precision, quality service to executive command. NSPFRNP. All. Always.
+- [MCA_WOW_WOW_SPRINKLES_LAYER_SNAP.md](../MCA_WOW_WOW_SPRINKLES_LAYER_SNAP.md) — MCA WOW WOW Sprinkles Layer; top layer; WOW WOW double emphasis; sprinkles distributed across content and surfaces.
 
 ---
 
