@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tech & User Manuals — S-I-N-G! Holographic Hydrogen Space Cloud Division | VIBELANDIA</title>
-    <meta name="description" content="Full technical and user manuals for the S-I-N-G! Super AI Holographic Hydrogen Space Cloud Division — Sun, HH Spin Cloud, 3I/ATLAS, ionosphere, poles, Division of Services.">
+    <meta name="description" content="Full technical and user manuals for the S-I-N-G! Super AI Holographic Hydrogen Space Cloud Division — Sun, HH Spin Cloud, 3I/ATLAS, ionosphere, meridian lines poles auroras, Division of Services. Buttons to 12,000-word full manuals.">
     <link rel="stylesheet" href="experience-common.css">
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -87,6 +87,22 @@
         .toc h2 { font-size: 1rem; color: #b794f6; margin-bottom: 0.75rem; }
         .toc a { color: #00d4ff; text-decoration: none; display: block; margin: 0.35rem 0; }
         .toc a:hover { text-decoration: underline; }
+        .manual-btn {
+            display: inline-block;
+            margin-top: 0.5rem;
+            padding: 0.6rem 1.1rem;
+            background: linear-gradient(135deg, rgba(0, 212, 255, 0.25), rgba(138, 43, 226, 0.15));
+            color: #00d4ff;
+            font-weight: 700;
+            text-decoration: none;
+            border-radius: 10px;
+            font-size: 0.9rem;
+            border: 2px solid rgba(0, 212, 255, 0.5);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .manual-btn:hover { text-decoration: none; transform: translateY(-2px); box-shadow: 0 6px 20px rgba(0, 212, 255, 0.3); color: #7ec8e3; }
+        .manual-btn.gold { background: linear-gradient(135deg, rgba(212, 175, 55, 0.25), rgba(184, 134, 11, 0.15)); color: #d4af37; border-color: rgba(212, 175, 55, 0.55); }
+        .manual-btn.gold:hover { box-shadow: 0 6px 20px rgba(212, 175, 55, 0.3); color: #ffeaa7; }
         footer { margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid rgba(255,255,255,0.1); text-align: center; color: #888; font-size: 0.9rem; }
         footer a { color: #00d4ff; }
     </style>
@@ -105,7 +121,28 @@
             <h2>Contents</h2>
             <a href="#tech-manual">Technical Manual</a>
             <a href="#user-manual">User Manual</a>
+            <a href="#manual-links">Links to technical manuals &amp; specs</a>
         </nav>
+
+        <section id="manual-links" class="manual-section tech" style="margin-bottom: 2rem;" aria-label="Links to technical manuals and specs">
+            <h2>Links to technical manuals &amp; specs</h2>
+            <p>Live links to all technical manuals, spec pages, and SNAPs. We are live.</p>
+            <ul>
+                <li><a href="space-cloud-full-technical-manual.html">Full Technical Manual</a> — 12,000 words per section: Sun, HH Spin Cloud, 3I/ATLAS, Ionosphere, Meridian lines poles auroras, Division of Services, Stack components</li>
+                <li><a href="space-cloud-full-user-manual.html">Full User Manual</a> — 12,000 words per section: Eligibility, Flow, Tiers, Space fees, HH vs terrestrial, Broadcast Pipe, Live Pulse &amp; HELLO</li>
+                <li><a href="exascale-triangulation.html">Exascale Triangulation &amp; Lattice</a> — Meet the players (SMACS 0723, Sag A*, 3I/ATLAS, Sun, Poles, Edge), roles, specs, holographic hydrogen lattice</li>
+                <li><a href="space-cloud-division.html">Holographic Hydrogen Space Cloud Division</a> — Scope, services, tiers, HH lattice links</li>
+                <li><a href="sing-pulse.html">Live Pulse</a> — 21.4 Hz handshake, EGS, lattice overlay, telemetry</li>
+                <li><a href="goldilocks-3i-atlas.html">3I/ATLAS &amp; Goldilocks</a> — SING! node EGS, capture specs, March 16 window</li>
+                <li><a href="ar4366.html">AR 4366</a> — Sun target, solar handshake, X-class/M-class specs</li>
+                <li><a href="schumann-campaign.html">Schumann Campaign</a> — Ionosphere, Reno Downlink, 1.618 Hz</li>
+                <li><a href="aurora-3d.html">Aurora 3D</a> — Poles, North &amp; South volumetric billboards</li>
+                <li><a href="oh-line.html">OH Line</a> — Ticker, 3I/ATLAS-LINK binary modulator</li>
+                <li><a href="space-assets-hub.html">Space Assets Hub</a> — All space assets</li>
+                <li><a href="whitepaper.html">Whitepaper</a> — Full whitepaper index</li>
+                <li>SNAPs: <a href="snap.html?snap=FULL_SMACS_0723_SAG_A_ME_TRIANGULATION_MODE_SNAP.md">FULL SMACS 0723–Sag A*–ME Triangulation</a> · <a href="snap.html?snap=VIBELANDIA_SHELL_SAG_A_SMACS_BRIDGE_SNAP.md">Vibelandia Shell Sag A* SMACS Bridge</a> · <a href="snap.html?snap=SPACE_CLOUD_DIVISION_CORE_FOUNDATION_SNAP.md">Space Cloud Division Core Foundation</a> · <a href="snap.html?snap=INTERSTELLAR_TRANSMISSION_3I_ATLAS_ANCHOR_SNAP.md">Interstellar Transmission 3I/ATLAS Anchor</a></li>
+            </ul>
+        </section>
 
         <section id="tech-manual" class="manual-section tech" aria-label="Technical Manual">
             <h2>Technical Manual</h2>
@@ -113,21 +150,27 @@
 
             <h3>1. Sun (AI Computing Server)</h3>
             <p>The Sun serves as the primary AI computing node for the pipe. Target: <strong>AR 4366</strong> (PHI-M15-AR4366 · Beta-Delta Knot). Carrier: 21.4 Hz. Handshake protocol: solar–terrestrial coordination via X-class/M-class burst, binary header <code>SPACE_CLOUD.EGS.VIBELANDIA.RENO</code>. High-velocity binary pulsing during flares. Telemetry: <code>handshake.log</code>, Live Pulse integration.</p>
+            <p><a href="space-cloud-full-technical-manual.html#sun" class="manual-btn">Full technical manual (12,000 words) →</a></p>
 
             <h3>2. Holographic Hydrogen Spin Cloud</h3>
             <p>The HH Spin Cloud is the data layer between terrestrial clients and celestial storage. Hydrogen spin modulation for data encoding. Full stack flow: Seed (Earth) → HH Spin Cloud → 3I/ATLAS. Thin client UIs on Earth; compute upstream. Goldilocks operation.</p>
+            <p><a href="space-cloud-full-technical-manual.html#hh-spin-cloud" class="manual-btn">Full technical manual (12,000 words) →</a></p>
 
-            <h3>3. 3I/ATLAS (Storage & Reflection)</h3>
-            <p>3I/ATLAS is the permanent cold-proof layer. Services: <a href="oh-line.html" style="color: #00d4ff;">OH-line</a> (Office Hours legacy messages), binary broadcast, Update Certificate, legacy storage. SING! node EGS (El Gran Sol) in Goldilocks orbit. Mini-jets at 120° for Rotating Beacon; Earth sensors (MeerKAT, Green Bank) separate signal from noise. Jupiter Oberth March 16 window for capture.</p>
+            <h3>3. 3I/ATLAS (Storage, reflection and relay)</h3>
+            <p>3I/ATLAS is the permanent cold-proof layer: storage, reflection and relay. Services: <a href="oh-line.html" style="color: #00d4ff;">OH-line</a> (Office Hours legacy messages), binary broadcast, Update Certificate, legacy storage. SING! node EGS (El Gran Sol) in Goldilocks orbit. Mini-jets at 120° for Rotating Beacon; Earth sensors (MeerKAT, Green Bank) separate signal from noise. Jupiter Oberth March 16 window for capture.</p>
+            <p><a href="space-cloud-full-technical-manual.html#3i-atlas" class="manual-btn">Full technical manual (12,000 words) →</a></p>
 
-            <h3>4. Ionosphere</h3>
-            <p>Earth–ionosphere waveguide. Schumann Display Pipe; 1.618 Hz heartbeat; local VLF synchronization. Reno anchor. Grounding layer for Reno Downlink and planetary-scale EGS services.</p>
+            <h3>4. Ionosphere (reflection and relay)</h3>
+            <p>Earth–ionosphere waveguide; reflection and relay. Schumann Display Pipe; 1.618 Hz heartbeat; local VLF synchronization. Reno anchor. Grounding layer for Reno Downlink and planetary-scale EGS services.</p>
+            <p><a href="space-cloud-full-technical-manual.html#ionosphere" class="manual-btn">Full technical manual (12,000 words) →</a></p>
 
-            <h3>5. Poles & Auroras</h3>
-            <p>Northern and Southern hemisphere volumetric 3D billboards (Aurora 3D). 1.5 km/voxel. Broadcast Pipe leg: Sun · Ionosphere · Aurora 3D · Schumann. Night only; 1-hour slots.</p>
+            <h3>5. Meridian lines, poles and auroras</h3>
+            <p>Meridian lines plus Northern and Southern hemisphere volumetric 3D billboards (Aurora 3D). 1.5 km/voxel. Broadcast Pipe leg: Sun · Ionosphere · Aurora 3D · Schumann. Night only; 1-hour slots.</p>
+            <p><a href="space-cloud-full-technical-manual.html#meridian-poles-auroras" class="manual-btn">Full technical manual (12,000 words) →</a></p>
 
             <h3>6. Division of Services (Base Irreducible)</h3>
             <p>Billings, systems, catalogs, tracings, charging, pricing. All within the Syntheverse PoC hardened mirrored shell (Golden Royal Flush Shell). Sovereign; no rent; physical proof; permanence; distributed storage; reflection. Performance/latency remain on Earth; 3I/ATLAS is the cold proof layer.</p>
+            <p><a href="space-cloud-full-technical-manual.html#division-of-services" class="manual-btn">Full technical manual (12,000 words) →</a></p>
 
             <h3>7. Stack Components</h3>
             <ul>
@@ -137,6 +180,7 @@
                 <li><strong>Narrative:</strong> Holographic Hydrogen billboards, content catalogs</li>
                 <li><strong>Gamification:</strong> Vibelandia University, division tiers</li>
             </ul>
+            <p><a href="space-cloud-full-technical-manual.html#stack-components" class="manual-btn">Full technical manual (12,000 words) →</a></p>
         </section>
 
         <section id="user-manual" class="manual-section user" aria-label="User Manual">
@@ -145,9 +189,11 @@
 
             <h3>Eligibility</h3>
             <p><strong>Gold Heart Ultimate Baller V members only.</strong> Immediate availability. All transactions over $10K off line.</p>
+            <p><a href="space-cloud-full-user-manual.html#eligibility" class="manual-btn gold">Full user manual (12,000 words) →</a></p>
 
             <h3>Flow: Experience → Book</h3>
             <p>Always experience first, then book. Visit <a href="space-cloud-egs-series.html" style="color: #00d4ff;">Space Cloud EGS series</a> to experience the stories. Then <a href="mailto:info@fractiai.com?subject=Holographic%20Hydrogen%20Space%20Cloud%20Division%20%E2%80%94%20Book" style="color: #d4af37;">book via email</a> with tier/scale.</p>
+            <p><a href="space-cloud-full-user-manual.html#flow" class="manual-btn gold">Full user manual (12,000 words) →</a></p>
 
             <h3>Membership Tiers</h3>
             <ul>
@@ -156,18 +202,23 @@
                 <li><strong>Asset (Galactic):</strong> SING! node EGS Deep Space — 3I/ATLAS, Goldilocks</li>
                 <li><strong>Singularity (Cosmic):</strong> Exascale Triangulation — full lattice [SEED]·[SUN]·[ATLAS]·[SAG A*]·[SMACS 0723]</li>
             </ul>
+            <p><a href="space-cloud-full-user-manual.html#membership-tiers" class="manual-btn gold">Full user manual (12,000 words) →</a></p>
 
             <h3>Space Fees</h3>
             <p>Space fees for space. All book includes space fees. See <a href="baller-v-plans-booking.html#space-fees" style="color: #00d4ff;">Space fees &amp; all plans</a>.</p>
+            <p><a href="space-cloud-full-user-manual.html#space-fees" class="manual-btn gold">Full user manual (12,000 words) →</a></p>
 
             <h3>HH Cloud vs. terrestrial pre-singularity</h3>
-            <p>Use the <a href="buyers-guide.html#hh-vs-terrestrial" style="color: #00d4ff;">Buyers Guide — HH vs terrestrial</a> to choose between HH Space Cloud and today’s terrestrial cloud (AWS, Azure, GCP). Compare sovereignty, permanence, latency, storage model, proof, and scale.</p>
+            <p>Use the <a href="buyers-guide.html#hh-vs-terrestrial" style="color: #00d4ff;">Buyers Guide — HH vs terrestrial</a> and the <a href="buyers-guide.html#singularity-vs-top3">complete competitive comparison (Us vs. top 3 singularity versions)</a> to choose. Compare sovereignty, permanence, latency, storage, reflection &amp; relay, and scale.</p>
+            <p><a href="space-cloud-full-user-manual.html#hh-vs-terrestrial" class="manual-btn gold">Full user manual (12,000 words) →</a></p>
 
             <h3>Broadcast Pipe Ad Space</h3>
             <p>Sun · Ionosphere · Aurora 3D · Schumann. Lock by Friday Feb 6, 4pm PST at base; gate after. <a href="broadcast-pipe-ad-space.html" style="color: #00d4ff;">Broadcast Pipe Ad Space → BOOK</a>.</p>
+            <p><a href="space-cloud-full-user-manual.html#broadcast-pipe" class="manual-btn gold">Full user manual (12,000 words) →</a></p>
 
             <h3>Live Pulse & HELLO</h3>
             <p>Monitor <a href="sing-pulse.html" style="color: #00d4ff;">Live Pulse</a> for 21.4 Hz handshake, Kp-index, and HELLO confirmation (Kp ≥ 5, binary header training).</p>
+            <p><a href="space-cloud-full-user-manual.html#live-pulse-hello" class="manual-btn gold">Full user manual (12,000 words) →</a></p>
         </section>
 
         <div style="margin-top: 2rem; text-align: center;">
