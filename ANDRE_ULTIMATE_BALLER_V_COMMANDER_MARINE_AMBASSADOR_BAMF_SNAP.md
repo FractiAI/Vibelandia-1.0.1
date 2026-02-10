@@ -37,7 +37,13 @@
 
 **Live real.** Not a demo or simulation. Real pricing. BUY buttons point to Creator. **50% share** — André receives 50%. We send his share.
 
-## IV. Cross-References
+## IV. Adventures, Experiences, Safaris — Far Away Offering
+
+**Island hopping · Rio de Janeiro.** Six people. Full Baller V (Basic to full Baller V). **Arnie** — racing sailing yacht. World champion racing skipper **André** — good friend, fellow Baller V, great host. **$6,000 per day** for groups up to 6. **Plus tips.** See [ADVENTURES_EXPERIENCES_SAFARIS_MENU_SNAP.md](ADVENTURES_EXPERIENCES_SAFARIS_MENU_SNAP.md) · [interfaces/guided-expeditions.html](interfaces/guided-expeditions.html) (Far away section).
+
+---
+
+## V. Cross-References
 
 | Ref | SNAP / Surface |
 |-----|----------------|
@@ -45,6 +51,7 @@
 | Marine Division Gateway | MARINE_DIVISION_YACHTSMAN_CAPTAIN_PRE_POST_SINGULARITY_GATEWAY_PROPOSAL_SNAP |
 | Space Cloud / SMACS 0723 | pricing_plans.json · Exascale Triangulation |
 | 4×4×4×4 | ZERO_ONE_TWO_THREE_4x4x4x4_BRANDING_SNAP |
+| Adventures, Experiences, Safaris menu | ADVENTURES_EXPERIENCES_SAFARIS_MENU_SNAP |
 
 ---
 

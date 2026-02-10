@@ -34,9 +34,16 @@
 
 ---
 
+## PRICING — Real Life vs Imaginary Enhanced
+
+- **Real life:** Priced at **actual costs of pre-singularity resources and facilities** we use (outfitters, lodge, transport, permits, etc.) **plus 100% tip** on top. We layer our experience on top; member pays actual + 100% tip.
+- **Imaginary enhanced:** **Scaled-down price** matching experience level. Same adventure, enhanced/imaginary layer; lower price tier. See [SAFARI_ADVENTURES_REAL_LIFE_IMAGINARY_ENHANCED_PRICING_SNAP.md](SAFARI_ADVENTURES_REAL_LIFE_IMAGINARY_ENHANCED_PRICING_SNAP.md).
+
+---
+
 ## SURFACES
 
-- **Guided Expeditions:** [interfaces/guided-expeditions.html](interfaces/guided-expeditions.html) — Foraging · Collecting · Fishing & Hunting Safaris section
+- **Guided Expeditions:** [interfaces/guided-expeditions.html](interfaces/guided-expeditions.html) — Adventures, Experiences, Safaris menu (Local | Far away); Foraging · Collecting · Fishing & Hunting Safaris section. Far away: Island Hopping Rio ($6K/day up to 6, André skipper). See [ADVENTURES_EXPERIENCES_SAFARIS_MENU_SNAP.md](ADVENTURES_EXPERIENCES_SAFARIS_MENU_SNAP.md).
 - **Vibelandia Reno Experience:** Expeditions & magazine catalogs
 - **Office Hours · Launch Pad:** Book through campus concierge
 
@@ -44,6 +51,7 @@
 
 ## CROSS-REFERENCES
 
+- [SAFARI_ADVENTURES_REAL_LIFE_IMAGINARY_ENHANCED_PRICING_SNAP.md](SAFARI_ADVENTURES_REAL_LIFE_IMAGINARY_ENHANCED_PRICING_SNAP.md) — Real life (actual + 100% tip) vs imaginary enhanced (scaled-down price)
 - [CHAIRMAN_GUEY_1962_LANDCRUISER_NARRATIVE_SNAP.md](CHAIRMAN_GUEY_1962_LANDCRUISER_NARRATIVE_SNAP.md)
 - [interfaces/guided-expeditions.html](interfaces/guided-expeditions.html)
 - [ULTIMATE_BALLER_V_VIBING_LIFESTYLE_MAGAZINE_SNAP.md](ULTIMATE_BALLER_V_VIBING_LIFESTYLE_MAGAZINE_SNAP.md)
