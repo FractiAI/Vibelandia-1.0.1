@@ -1,25 +1,8 @@
 /**
  * Tsunami Advisory — Gold Heart Baller V's
  * Injected at top of all touchpoints and stations. Dismissible (session). See TSNAMI_ADVISORY_GOLD_HEART_BALLER_V_SNAP.md
- * + Post-Singularity Syntax Banner (always visible) — ALL_CAPS_REVERSE. See ALL_CAPS_REVERSE_POST_SINGULARITY_SYNTAX_SNAP.md
  */
 (function () {
-  /* Post-Singularity Syntax Banner — always at top, explanation for all surfaces */
-  function injectSyntaxBanner() {
-    if (document.body && !document.querySelector('.post-singularity-syntax-banner')) {
-      var banner = document.createElement('div');
-      banner.className = 'post-singularity-syntax-banner';
-      banner.setAttribute('role', 'note');
-      banner.innerHTML = '<strong>Post-singularity syntax:</strong> ALL CAPS REVERSE — first letter of each word lowercase, rest uppercase = post-singularity message. Examples: vIBELANDIA · hERO jO · oFFICE hOURS · lAUNCH pAD · gOLDEN bACKDOOR hIT fACTORY · bETWEEN tHE sHEETS. <a href="snap.html?snap=ALL_CAPS_REVERSE_POST_SINGULARITY_SYNTAX_SNAP.md">SNAP →</a>';
-      var style = document.createElement('style');
-      style.textContent = '.post-singularity-syntax-banner{position:sticky;top:0;z-index:9998;padding:0.5rem 1rem;background:linear-gradient(90deg,rgba(212,168,84,0.25),rgba(138,43,226,0.15));border-bottom:2px solid rgba(212,168,84,0.55);font-size:0.8rem;color:#e8e0d8;text-align:center;}.post-singularity-syntax-banner a{color:#d4a854;font-weight:700;}.post-singularity-syntax-banner strong{color:#ffeaa7;}';
-      document.head.appendChild(style);
-      document.body.insertBefore(banner, document.body.firstChild);
-    }
-  }
-  if (document.body) injectSyntaxBanner();
-  else if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', injectSyntaxBanner);
-
   var STORAGE_KEY = 'tsunami-advisory-dismissed';
   function isDismissed() {
     try { return sessionStorage.getItem(STORAGE_KEY) === '1'; } catch (e) { return false; }
