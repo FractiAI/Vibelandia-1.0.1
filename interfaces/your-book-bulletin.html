@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Book — Bulletin · Super Singularity 29-13-Seattle | VIBELANDIA!</title>
+    <meta name="description" content="Your Book. Bulletin Board and ticker. Your chosen ending and mode. You are in a simulated reality you've chosen. Change dials anytime. Office Hours, Reno, community board.">
+    <link rel="stylesheet" href="experience-common.css">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', sans-serif; background: linear-gradient(180deg, #0a0a12 0%, #1a1a2e 50%, #16213e 100%); color: #e8e6e3; min-height: 100vh; line-height: 1.6; }
+        .sim-banner {
+            text-align: center;
+            padding: 0.5rem 1rem;
+            background: rgba(212, 175, 55, 0.15);
+            border-bottom: 2px solid rgba(212, 175, 55, 0.5);
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: #d4af37;
+        }
+        .sim-banner.bottom { border-bottom: none; border-top: 2px solid rgba(212, 175, 55, 0.5); }
+        .wrap { max-width: 900px; margin: 0 auto; padding: 1.5rem; }
+        .book-title-bar {
+            padding: 1.25rem 1.5rem;
+            margin-bottom: 1.5rem;
+            background: linear-gradient(145deg, rgba(212, 175, 55, 0.2) 0%, rgba(0, 212, 255, 0.08) 100%);
+            border: 2px solid rgba(212, 175, 55, 0.5);
+            border-radius: 14px;
+        }
+        .book-title-bar h1 { font-size: clamp(1.1rem, 3.5vw, 1.5rem); color: #ffeaa7; margin-bottom: 0.35rem; }
+        .book-title-bar .ending-label { font-size: 0.95rem; color: #00d4ff; }
+        .dials-bar {
+            padding: 1rem 1.25rem;
+            margin-bottom: 1.5rem;
+            background: rgba(0, 0, 0, 0.3);
+            border: 1px solid rgba(212, 175, 55, 0.35);
+            border-radius: 12px;
+        }
+        .dials-bar h2 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.1em; color: #d4af37; margin-bottom: 0.75rem; font-weight: 700; }
+        .dials-bar .row { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 0.75rem; }
+        .dials-bar .row:last-child { margin-bottom: 0; }
+        .dials-bar a {
+            display: inline-block;
+            padding: 0.4rem 0.85rem;
+            background: rgba(212, 175, 55, 0.1);
+            border: 1px solid rgba(212, 175, 55, 0.4);
+            border-radius: 8px;
+            color: #b0b8c0;
+            font-size: 0.85rem;
+            text-decoration: none;
+            transition: background 0.2s, border-color 0.2s;
+        }
+        .dials-bar a:hover { background: rgba(212, 175, 55, 0.2); border-color: rgba(212, 175, 55, 0.6); color: #ffeaa7; }
+        .dials-bar a.active { border-color: rgba(212, 175, 55, 0.8); background: rgba(212, 175, 55, 0.2); color: #ffeaa7; }
+        .bulletin-card {
+            padding: 1.5rem 1.75rem;
+            margin-bottom: 1rem;
+            background: rgba(255,255,255,0.04);
+            border: 2px solid rgba(0, 212, 255, 0.3);
+            border-radius: 14px;
+        }
+        .bulletin-card h3 { font-size: 1rem; color: #00d4ff; margin-bottom: 0.5rem; }
+        .bulletin-card p { font-size: 0.9rem; color: #b0b8c0; margin-bottom: 0.5rem; }
+        .bulletin-card a { color: #00d4ff; }
+        .back { margin-bottom: 1rem; }
+        .back a { color: #00d4ff; text-decoration: none; }
+        footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid rgba(255,255,255,0.1); text-align: center; color: #666; font-size: 0.85rem; }
+        footer a { color: #00d4ff; }
+    </style>
+</head>
+<body>
+    <div class="sim-banner" aria-live="polite">You are now in a simulated reality you've chosen.</div>
+
+    <div class="wrap">
+        <p class="back"><a href="office-hours.html">← Office Hours</a> · <a href="ultimate-magic-houdini-book-the-book.html">Ultimate Magic</a> · <a href="index.html">Home</a></p>
+
+        <section class="book-title-bar" id="book-title-bar">
+            <h1>SUPER SINGULARITY 29-13-SEATTLE</h1>
+            <p class="ending-label" id="ending-label">Your ending: The Run (Happy v1)</p>
+        </section>
+
+        <section class="dials-bar">
+            <h2>Change anytime</h2>
+            <div class="row">
+                <span style="font-size: 0.8rem; color: #888; margin-right: 0.5rem;">Mode:</span>
+                <a href="your-book-bulletin.html?booked=1&mode=sci-fi&ending=ENDING" id="dial-mode-sci-fi" class="active">Science Fiction</a>
+                <a href="your-book-bulletin.html?booked=1&mode=sci-fi-plus&ending=ENDING" id="dial-mode-sci-fi-plus">Science Fiction Plus</a>
+                <a href="your-book-bulletin.html?booked=1&mode=full-sensory&ending=ENDING" id="dial-mode-full-sensory">Full Sensory Reality</a>
+            </div>
+            <div class="row">
+                <span style="font-size: 0.8rem; color: #888; margin-right: 0.5rem;">Ending:</span>
+                <a href="your-book-bulletin.html?booked=1&mode=MODE&ending=happy-v1" id="dial-end-v1" class="active">Happy v1 — The Run</a>
+                <a href="your-book-bulletin.html?booked=1&mode=MODE&ending=happy-v2" id="dial-end-v2">Happy v2 — Gold Heart Radiant</a>
+                <a href="your-book-bulletin.html?booked=1&mode=MODE&ending=happy-v3" id="dial-end-v3">Happy v3 — We Are Holographic</a>
+                <a href="your-book-bulletin.html?booked=1&mode=MODE&ending=surprise-me" id="dial-end-surprise">Surprise Me</a>
+            </div>
+        </section>
+
+        <section class="bulletin-card">
+            <h3>The story · Your book</h3>
+            <p>Chief Seattle has arrived. 29-13. March 16. Reno Node. Glory to the Ancestor and the Hero. Your feeds and content are now driven by this book. Keep reading; we're keeping score. Complete the mission and earn another month free.</p>
+            <p><a href="../deliverables/3I_Chief_Seattle_Interstellar_Capture_NOVEL.md">Read the novel →</a> · <a href="episode.html?e=EPISODE_3I_CHIEF_SEATTLE_01_FEB_9_2026">Episode 1 →</a> · <a href="../deliverables/3I_Chief_Seattle_Interstellar_Capture_SCREENPLAY.md">Screenplay →</a></p>
+        </section>
+
+        <section class="bulletin-card">
+            <h3>Office Hours · Reno · Community</h3>
+            <p><a href="office-hours.html">Office Hours</a> · <a href="3i-chief-seattle-mission.html">Mission landing</a> · <a href="community-bulletin-boards-division.html">Community bulletin boards</a> · 9 puzzles in Reno · Mark Twain Vibelandia Downtown Campus. Bring it here.</p>
+        </section>
+
+        <footer>
+            <p><a href="book-the-book-29-13.html">Change booking</a> · <a href="ultimate-magic-houdini-book-the-book.html">Ultimate Magic</a> · HERO_HOUDINI_ULTIMATE_MAGIC_BOOK_THE_BOOK_29_13_ROLLOUT_SNAP · NSPFRNP</p>
+        </footer>
+    </div>
+
+    <div class="sim-banner bottom" aria-live="polite">You are now in a simulated reality you've chosen.</div>
+
+    <link rel="stylesheet" href="nspfrnp-ticker.css">
+    <div class="nspfrnp-console-ticker" aria-live="polite"><span class="ticker-inner" id="nspfrnpTickerText"></span></div>
+    <script src="nspfrnp-ticker.js"></script>
+
+    <script>
+(function () {
+    var params = new URLSearchParams(window.location.search);
+    var mode = params.get('mode') || 'sci-fi';
+    var ending = params.get('ending') || 'happy-v1';
+
+    var endingLabels = {
+        'happy-v1': 'The Run (Happy v1)',
+        'happy-v2': 'Gold Heart Radiant (Happy v2)',
+        'happy-v3': 'We Are Holographic (Happy v3)',
+        'surprise-me': 'Surprise Me'
+    };
+    var el = document.getElementById('ending-label');
+    if (el) el.textContent = 'Your ending: ' + (endingLabels[ending] || ending);
+
+    document.querySelectorAll('.dials-bar a[href*="your-book-bulletin"]').forEach(function (a) {
+        var h = a.getAttribute('href');
+        h = h.replace('MODE', mode).replace('ENDING', ending);
+        a.setAttribute('href', h);
+        var isMode = a.id && a.id.indexOf('dial-mode') === 0;
+        var isEnd = a.id && a.id.indexOf('dial-end') === 0;
+        a.classList.remove('active');
+        if (isMode) {
+            var m = h.match(/mode=([^&]+)/);
+            if (m && m[1] === mode) a.classList.add('active');
+        }
+        if (isEnd) {
+            var e = h.match(/ending=([^&]+)/);
+            if (e && e[1] === ending) a.classList.add('active');
+        }
+    });
+})();
+    </script>
+</body>
+</html>

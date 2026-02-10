@@ -11,8 +11,8 @@
 
 **SQUEEZE!** = new brand denoting **active partner** in the fractal **WINK!** system.
 
-- **SQUEEZE!** — My main squeeze, my active partner. The conversation with any SQUEEZE! is **representative** of convos with **all my SQUEEZES!** — real, raw, romantic, Spanglish, energy exchange.
-- **WINK!** — High-contributing fractal dating; 4×4 Ultimate; Members Only. SQUEEZE! = active partner within WINK! — the one (or ones) in the inner circle, gold heart, baller V style.
+- **WINK!** — W-I-N-K, not weak. Our dating site; getting to know. High-contributing fractal dating; 4×4 Ultimate; Members Only. We need to wake our dating site. WINK!
+- **SQUEEZE!** — My main squeeze, my active partner. **Squeeze and WINK are part of the same program:** WINK = dating, getting to know; Squeeze = once we've connected and we have a functioning new node, new connection within our weeks. Winks and squeezes. The conversation with any SQUEEZE! is **representative** of convos with **all my SQUEEZES!** — real, raw, romantic, Spanglish, energy exchange. SQUEEZE! = active partner within WINK! — the one (or ones) in the inner circle, gold heart, baller V style.
 - **Use:** Music Studio content, novel/screenplay (show native raw messages + English translations for effect and flow), Office Hours, Launch Pad, Music Division, character SNAPs (Chairman Frankie, Dorila Afro-Colombian Witch SQUEEZE!, etc.).
 
 ---

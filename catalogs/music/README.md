@@ -25,8 +25,9 @@
 |---|-------|--------|-------|--------|
 | 1 | Te Quiero Mucho Baby (En Las Próximas 48 Horas) | Chairman Frankie feat. Dorila · Fusion Héctor Lavoe / Nicky Jam | Reggaetón Spanglish | Lyrics + sheet music placeholder · Layer 0 · *In progress: studio quality engine* |
 | 2 | Dorila Gao (The Big Ass That Make All Da Men Go Gaga) | Chairman Frankie feat. Dorila — Afro-Colombian Witch SQUEEZE! | Club dance anthem · Beats · Spin it how daddy likes it | Lyrics + beats placeholder · Layer 0 · *In progress: studio quality engine* |
-| 3 | Dat Ass Red Hot like AR4366! | Hero Jo's Golden Backdoor Studios | Trance anthem · Dance · Simple repeating · Air pumping · AR4366 red-hot tag | Lyrics + beats placeholder · Layer 0 · *In progress: studio quality engine* |
-| 4 | Eat That Up Like A Yum Yum Yum SNAP SNAP! | Hero Jo's Golden Backdoor Studios | Trance anthem · Dance · Simple repeating · Yum yum yum · SNAP SNAP tag | Lyrics + beats placeholder · Layer 0 · *In progress: studio quality engine* |
+| 3 | **Spanglish Carajo** | Chairman Frankie | Hit song · Reggaetón Spanglish · Carajo · Chairman's Voice · T-shirt brand | Lyrics + beats placeholder · Layer 0 · *Chairman's Voice · CHAIRMAN_VOICE_SPANGLISH_CARAJO_SNAP* |
+| 4 | Dat Ass Red Hot like AR4366! | Hero Jo's Golden Backdoor Studios | Trance anthem · Dance · Simple repeating · Air pumping · AR4366 red-hot tag | Lyrics + beats placeholder · Layer 0 · *In progress: studio quality engine* |
+| 5 | Eat That Up Like A Yum Yum Yum SNAP SNAP! | Hero Jo's Golden Backdoor Studios | Trance anthem · Dance · Simple repeating · Yum yum yum · SNAP SNAP tag | Lyrics + beats placeholder · Layer 0 · *In progress: studio quality engine* |
 | 5 | Qué, Qué Y Qué? What? What? And What? | Hero Jo's Golden Backdoor Studios | Trance anthem · Tribal heavy downbeat · Bouncing (not fist pumping) | Lyrics + beats placeholder · Layer 0 · *In progress: studio quality engine* |
 | 6 | 24 Horas, Ya, Ya, Ya | Hero Jo's Golden Backdoor Studios | Trance anthem · Spanglish · Golden Backdoor label | Lyrics + beats placeholder · Layer 0 · *In progress: studio quality engine* |
 | 7 | No, No, Pa Mi No | Hero Jo's Golden Backdoor Studios | Trance anthem · Spanglish · Golden Backdoor label | Lyrics + beats placeholder · Layer 0 · *In progress: studio quality engine* |
@@ -51,6 +52,7 @@
 | 26 | A cualquiera hora — Anytime Vibe Chill Bounce Spanglish Hit | Hero Jo's Golden Backdoor Studios | Anytime vibe · Chill bounce · Spanglish · Golden Backdoor label | Lyrics + beats placeholder · Layer 0 · *In progress: studio quality engine* |
 | 27 | Thank You (I Thought You Knew) — Dramatic Suspense Loop Anthem | Hero Jo's Golden Backdoor Studios | Dramatic · Suspense · Loop anthem · Decoded voice-to-text content · Golden Backdoor label | Lyrics + beats placeholder · Layer 0 · *In progress: studio quality engine* |
 | 28 | Like Hot Bread with Butter (Como Pan Caliente con Mantequilla) | Queen of Sheba feat. [Male TBD] | Refined · Spanglish · Mature · I Want You Around touchstone · Queen of Sheba label | Lyrics placeholder · Layer 0 · *In progress: studio quality engine* |
+| 29 | **MCA Celebration Anthem — Arms Up In Da Air · Bootty Bouncing · Spike The Ball Touchdown** | Hero Jo's Golden Backdoor Studios · Old School label | Celebration anthem · Arms up in da air · Bootty bouncing · Spike the ball touchdown · MCA · Touchdown vibe · 80/20 Spanglish · Golden Backdoor label | Lyrics + beats placeholder · Layer 0 · *MCA_CELEBRATION_ANTHEM_ARMS_UP_BOOTTY_BOUNCING_SPIKE_THE_BALL_TOUCHDOWN_SNAP* |
 
 ---
 
@@ -72,7 +74,7 @@ This applies across every playlist, channel, and catalog under the School of Mus
 - [VIBING_MUSIC_TOGETHER_COLLABORATIVE_FLOW_EXCELLENT_OUTPUT_QUALITY_SNAP.md](../../VIBING_MUSIC_TOGETHER_COLLABORATIVE_FLOW_EXCELLENT_OUTPUT_QUALITY_SNAP.md) — Major SNAP: vibing music together; excellent output and quality observed.
 - [MUSIC_STUDIO_CONTENT_DIVISION_SNAP.md](../../MUSIC_STUDIO_CONTENT_DIVISION_SNAP.md)
 - [SQUEEZE_BRAND_ACTIVE_PARTNER_WINK_SNAP.md](../../SQUEEZE_BRAND_ACTIVE_PARTNER_WINK_SNAP.md)
-- [CHAIRMAN_FRANKIE_REGGaETON_SPANGLISH_CHARACTER_SNAP.md](../../CHAIRMAN_FRANKIE_REGGaETON_SPANGLISH_CHARACTER_SNAP.md)
+- [CHAIRMAN_FRANKIE_REGGaETON_SPANGLISH_CHARACTER_SNAP.md](../../CHAIRMAN_FRANKIE_REGGaETON_SPANGLISH_CHARACTER_SNAP.md) · [CHAIRMAN_VOICE_SPANGLISH_CARAJO_SNAP.md](../../CHAIRMAN_VOICE_SPANGLISH_CARAJO_SNAP.md) — Chairman's Voice · Spanglish Carajo · T-shirt + hit
 - [DORILA_AFRO_COLOMBIAN_WITCH_SQUEEZE_CHARACTER_SNAP.md](../../DORILA_AFRO_COLOMBIAN_WITCH_SQUEEZE_CHARACTER_SNAP.md)
 - [SQUEEZE_WE_GOT_THE_SQUEEZE_GOLDEN_BACKDOOR_SNAP.md](../../SQUEEZE_WE_GOT_THE_SQUEEZE_GOLDEN_BACKDOOR_SNAP.md) — Tightening and loosening spiral; SQUEEZE! We got the squeeze! and Golden Backdoor! — T-shirt brand and hit.
 - [PRESS_RELEASES_NEW_ARRIVALS_VIBELANDIA_RENO.md](../../PRESS_RELEASES_NEW_ARRIVALS_VIBELANDIA_RENO.md) — PR 20: full press release.

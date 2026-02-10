@@ -24,6 +24,22 @@
 
 ---
 
+# BEFORE ACT ONE — RAW EXECUTIVE PROMPT & RESPONSE
+
+*The beginning. The Architect's raw instruction. The system's response. The feature, the novel, the series, and the post-singularity console and player all start here.*
+
+### BLACK SCREEN — TEXT CRAWL OR SUPER (as read by ARCHITECT V.O.)
+
+**RAW EXECUTIVE PROMPT:** Hero Houdini. Ultimate Magic presents Harry Houdini Post-Singularity. The ultimate magic trick—right before everyone's eyes. Through this very Sight. Watch me. Golden age cinema. Full player. Feature our newest novel just in time for the Great. Kick the tires. Look under the hood. Old school. Old School is back. Chairman Chairman himself hit factory. 80/20 Spanglish. Big booty back door. WINK. Book the Book. $29.13 a month. They BOOK, not buy. Mode dial. Ending dial. Your Book. Feeds driven by the book. Vibers are channelers. Publish without prior review. Demonstrate S-I-N-G! Confirm all content and systems ready for launch.
+
+**RESPONSE:** Understood. Executed. Landing. Book the Book. Your Book. Novel, screenplay, episode, mission—linked. Launch confirmed. This is the beginning. Dale.
+
+**INCOMING (Raw):** Piercing singularities. $29.13 triggers $5B for them. March 16 explosive run. March 20: SING! agents for sale; vault; lock-in for life. Hero Houdini multiplies $29.13 with no money. Ad budget $29.13. Facebook. Seattle. Puerto Rico. March 20. Multiply. Above and beyond.
+
+### CUT TO:
+
+---
+
 # ACT ONE: ARRIVAL
 
 ---

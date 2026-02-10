@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book the Book — $29.13/month · Super Singularity 29-13-Seattle | VIBELANDIA!</title>
+    <meta name="description" content="BOOK the book — don't buy. $29.13/month. Choose your mode: Science Fiction, Sci-Fi Plus, or Full Sensory Reality. Choose your ending: Happy v1, v2, v3, or Surprise Me. Press 2 to Book.">
+    <link rel="stylesheet" href="experience-common.css">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', sans-serif; background: linear-gradient(180deg, #0a0a12 0%, #12122a 100%); color: #e8e6e3; min-height: 100vh; line-height: 1.6; }
+        .wrap { max-width: 720px; margin: 0 auto; padding: 2rem 1.5rem; }
+        .back { margin-bottom: 1.5rem; }
+        .back a { color: #00d4ff; text-decoration: none; }
+        .hero { text-align: center; padding: 2rem 1.5rem; margin-bottom: 2rem; background: linear-gradient(145deg, rgba(212, 175, 55, 0.18) 0%, rgba(0, 212, 255, 0.08) 100%); border: 3px solid rgba(212, 175, 55, 0.55); border-radius: 16px; }
+        .hero h1 { font-size: clamp(1.2rem, 4vw, 1.6rem); color: #ffeaa7; margin-bottom: 0.35rem; }
+        .hero .price { font-size: 1.75rem; font-weight: 800; color: #d4af37; margin: 0.5rem 0; }
+        .hero .note { font-size: 0.9rem; color: #b0b8c0; }
+        .dial-block {
+            padding: 1.5rem 1.75rem;
+            margin-bottom: 1.5rem;
+            background: rgba(0, 0, 0, 0.35);
+            border: 2px solid rgba(212, 175, 55, 0.4);
+            border-radius: 14px;
+        }
+        .dial-block h2 { font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.12em; color: #d4af37; margin-bottom: 1rem; font-weight: 700; }
+        .dial-options { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+        .dial-options label {
+            display: inline-flex;
+            align-items: center;
+            padding: 0.6rem 1rem;
+            background: rgba(212, 175, 55, 0.08);
+            border: 1px solid rgba(212, 175, 55, 0.4);
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            color: #c0c8d0;
+            transition: background 0.2s, border-color 0.2s;
+        }
+        .dial-options input { margin-right: 0.5rem; accent-color: #d4af37; }
+        .dial-options label:hover { background: rgba(212, 175, 55, 0.15); border-color: rgba(212, 175, 55, 0.6); }
+        .dial-options input:checked + span,
+        .dial-options label:has(input:checked) { border-color: rgba(212, 175, 55, 0.8); background: rgba(212, 175, 55, 0.18); color: #ffeaa7; }
+        .cta-row { text-align: center; margin: 2rem 0; }
+        .btn-book {
+            display: inline-block;
+            padding: 1rem 2.5rem;
+            background: linear-gradient(135deg, #d4af37, #b8860b);
+            border: 1px solid rgba(212, 175, 55, 0.8);
+            border-radius: 10px;
+            color: #0c0c0c;
+            font-weight: 700;
+            font-size: 1.1rem;
+            cursor: pointer;
+            text-decoration: none;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .btn-book:hover { transform: translateY(-2px); box-shadow: 0 6px 24px rgba(212, 175, 55, 0.4); }
+        .paypal-note { font-size: 0.85rem; color: #888; margin-top: 1rem; }
+        .reward-note { padding: 1rem 1.25rem; margin-top: 1.5rem; background: rgba(0, 212, 255, 0.06); border-left: 4px solid rgba(0, 212, 255, 0.5); border-radius: 0 10px 10px 0; font-size: 0.9rem; color: #b0b8c0; }
+        footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid rgba(255,255,255,0.1); text-align: center; color: #666; font-size: 0.85rem; }
+        footer a { color: #00d4ff; }
+    </style>
+</head>
+<body>
+    <script src="tsunami-advisory-inject.js"></script>
+    <div class="wrap">
+        <p class="back"><a href="ultimate-magic-houdini-book-the-book.html">← Ultimate Magic</a> · <a href="office-hours.html">Office Hours</a> · <a href="index.html">Home</a></p>
+
+        <section class="hero">
+            <h1>Book the Book</h1>
+            <p class="price">$29.13<span style="font-size: 0.6em; font-weight: 400;">/month</span></p>
+            <p class="note">SUPER SINGULARITY 29-13-SEATTLE · You're not buying — you're booking. Continue the story. Choose your ending. Choose your mode.</p>
+        </section>
+
+        <form id="book-form" action="your-book-bulletin.html" method="get">
+            <input type="hidden" name="booked" value="1">
+            <input type="hidden" name="mode" id="hid-mode" value="sci-fi">
+            <input type="hidden" name="ending" id="hid-ending" value="happy-v1">
+
+            <div class="dial-block">
+                <h2>Mode — How you experience it</h2>
+                <div class="dial-options" role="group" aria-label="Mode">
+                    <label><input type="radio" name="mode" value="sci-fi" checked> <span>Science Fiction</span></label>
+                    <label><input type="radio" name="mode" value="sci-fi-plus"> <span>Science Fiction Plus</span></label>
+                    <label><input type="radio" name="mode" value="full-sensory"> <span>Full Sensory Reality</span></label>
+                </div>
+            </div>
+
+            <div class="dial-block">
+                <h2>Ending — Where you're headed</h2>
+                <div class="dial-options" role="group" aria-label="Ending">
+                    <label><input type="radio" name="ending" value="happy-v1" checked> <span>Happy v1 — The Run</span></label>
+                    <label><input type="radio" name="ending" value="happy-v2"> <span>Happy v2 — Gold Heart Radiant</span></label>
+                    <label><input type="radio" name="ending" value="happy-v3"> <span>Happy v3 — We Are Holographic</span></label>
+                    <label><input type="radio" name="ending" value="surprise-me"> <span>Surprise Me</span></label>
+                </div>
+            </div>
+
+            <div class="cta-row">
+                <a href="#" id="btn-book-link" class="btn-book">Press 2 to Book</a>
+                <p class="paypal-note">$29.13/month via PayPal · We BOOK and RESERVE reality. After payment we'll confirm and you'll land on Your Book.</p>
+            </div>
+        </form>
+
+        <div class="reward-note">
+            <strong>Complete the book and all missions</strong> → earn another month free. Scores kept; cash in at the end. Supporting the team · Benito · Post-singularity · New Earth.
+        </div>
+
+        <footer>
+            <p><a href="ultimate-magic-houdini-book-the-book.html">Ultimate Magic</a> · <a href="3i-chief-seattle-mission.html">Mission</a> · HERO_HOUDINI_ULTIMATE_MAGIC_BOOK_THE_BOOK_29_13_ROLLOUT_SNAP · NSPFRNP</p>
+        </footer>
+    </div>
+
+    <script>
+(function () {
+    var form = document.getElementById('book-form');
+    var btn = document.getElementById('btn-book-link');
+    var hidMode = document.getElementById('hid-mode');
+    var hidEnding = document.getElementById('hid-ending');
+
+    function updateHidden() {
+        var m = document.querySelector('input[name="mode"]:checked');
+        var e = document.querySelector('input[name="ending"]:checked');
+        if (m) hidMode.value = m.value;
+        if (e) hidEnding.value = e.value;
+    }
+    form.querySelectorAll('input[name="mode"], input[name="ending"]').forEach(function (el) {
+        el.addEventListener('change', updateHidden);
+    });
+
+    btn.addEventListener('click', function (ev) {
+        ev.preventDefault();
+        updateHidden();
+        var mode = hidMode.value;
+        var ending = hidEnding.value;
+        var paypalSubject = 'Book the Book $29.13/month — Super Singularity 29-13-Seattle';
+        var paypalBody = 'I want to BOOK the book.\n\nMode: ' + mode + '\nEnding: ' + ending + '\n\n$29.13/month. Please send PayPal link to complete.';
+        var mailto = 'mailto:info@fractiai.com?subject=' + encodeURIComponent(paypalSubject) + '&body=' + encodeURIComponent(paypalBody);
+        window.open(mailto);
+        window.location.href = 'your-book-bulletin.html?booked=1&mode=' + encodeURIComponent(mode) + '&ending=' + encodeURIComponent(ending);
+    });
+})();
+    </script>
+    <link rel="stylesheet" href="nspfrnp-ticker.css">
+    <div class="nspfrnp-console-ticker" aria-live="polite"><span class="ticker-inner" id="nspfrnpTickerText"></span></div>
+    <script src="nspfrnp-ticker.js"></script>
+</body>
+</html>

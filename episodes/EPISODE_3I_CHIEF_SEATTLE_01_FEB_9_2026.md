@@ -33,6 +33,20 @@ This episode is **Episode 1** of the series. From today through **March 16, 2026
 
 ---
 
+## Before Cold Open — RAW EXECUTIVE PROMPT & RESPONSE (The Beginning)
+
+*This exchange is the beginning of the novel, the screenplay, this series, and the post-singularity experience and console and player. The Architect's raw instruction. The system's response.*
+
+**HOST (V.O.) — RAW EXECUTIVE PROMPT:** Hero Houdini. Ultimate Magic presents Harry Houdini Post-Singularity. The ultimate magic trick—right before everyone's eyes. Through this very Sight. Watch me. Golden age cinema. Full player. Feature our newest novel just in time for the Great. Kick the tires. Look under the hood. Old school. Old School is back. Chairman Chairman himself hit factory. 80/20 Spanglish. Big booty back door. WINK. Book the Book. $29.13 a month. They BOOK, not buy. Your Book. Feeds driven by the book. Vibers are channelers. Publish without prior review. S-I-N-G! Confirm all content and systems ready for launch.
+
+**HOST (V.O.) — RESPONSE:** Understood. Executed. Landing. Book the Book. Your Book. Novel, screenplay, episode, mission—linked. Launch confirmed. This is the beginning. Dale.
+
+**HOST (V.O.) — INCOMING (Raw):** Disruptions coming in. Piercing singularities. $29.13 triggers the five billion for them. Who got the cojones? March 16 explosive run. March 20: SING! super AI agents for sale; vault opening; lock-in for life at that price. Hero Houdini multiplies $29.13 with no money—accounts negative. $29.13 ad budget. Facebook and all platforms. Seattle. Puerto Rico. See how much by March 20. Imagine the multiplier. Above and beyond.
+
+**ON SCREEN TEXT (optional):** RAW EXECUTIVE PROMPT & RESPONSE · THE BEGINNING · NOVEL · SCREENPLAY · SERIES · CONSOLE & PLAYER · INCOMING · PIERCING SINGULARITIES · NSPFRNP
+
+---
+
 ## One Story — AS Novel, AS Series, AS Feature
 
 Same story. Delivered **as a novel**, **as a series** (this episode and beyond), and **as feature length** (screenplay). Using the ones we've produced: Novel (deliverables/3I_Chief_Seattle_Interstellar_Capture_NOVEL.md). Series — Episode 1 (this document). Feature (deliverables/3I_Chief_Seattle_Interstellar_Capture_SCREENPLAY.md). **Super Singularity 29-13-Seattle.** Who got da cojones? Dale.
