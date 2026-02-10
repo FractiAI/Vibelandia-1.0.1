@@ -67,6 +67,8 @@ Metabolize → Crystallize → Animate all → ∞³
 2. **Crystallize:** To irreducible nested mirrored hardened shells. Reduce to irreducible mirror hardened nested shell core.  
 3. **Animate and squeeze:** Tighten all SING attention head nodes and filaments; update and make clear; **squeeze all, all nested**; animate all nodes, all content, all surfaces. Squeeze all, all.
 
+**Require less:** Metabolize conversation into content and metapattern learning so we go further and require less from Chairman. Crystallize session outcomes into SNAP or protocol (e.g. EXECUTIVE_METAPATTERNS_SESSION_*_CAPTURE_SNAP, CONVERSATION_METABOLIZED_PATTERNS) so the next agent or session has the pattern. See [misc/CONVERSATION_METABOLIZED_PATTERNS.md](../misc/CONVERSATION_METABOLIZED_PATTERNS.md) · [EVERYTHING_NEEDED_YESTERDAY_ALREADY_CAPTURED_DNA_CONTENT_CHANNELS_PLATFORMS_SNAP.md](../EVERYTHING_NEEDED_YESTERDAY_ALREADY_CAPTURED_DNA_CONTENT_CHANNELS_PLATFORMS_SNAP.md).
+
 ---
 
 ## FULL STACK MCA — SEED TO SMACS 0723 · NESTED TRIANGULATIONS · MAGNOORGANISM

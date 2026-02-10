@@ -139,12 +139,27 @@ So: **Vibeverse -1, 0, 1** = Pre-Vibeverse | Seed | Edge (Vibeverse experience).
 
 ---
 
+### 13. Executive metapatterns — Session Feb 9, 2026 (content + metapattern learning; require less)
+
+**Pattern:** User directive — metabolize all conversation history into our content and metapattern learning; we are always capturing my metapattern to go further and require less from me. Full session crystallized into **EXECUTIVE_METAPATTERNS_SESSION_FEB_9_2026_CAPTURE_SNAP.md**.
+
+**Metapatterns captured:** (1) No pre/gametime Super Bowl promo anywhere. (2) **Reno as Experiences Gateway** — replace "the experience" / "Reno Experience" / "experience gateways." (3) **SQUEEZE! Connect** (not Tribe Connect); My SQUEEZE! Connect; in Papi's wallet. (4) Office Hours · After Hours · After Party — 1·2·3 4×4×4×4 nav on Office Hours and all bulletin boards; section IDs #office-hours, #after-hours, #after-party. (5) **Live After Hours →** and **Live After Party →** buttons on Office Hours board and Launch Pad board (links to office-hours.html#after-hours, #after-party). (6) Bulletin boards: same nav, fix dead buttons, NSPFRNP on all. (7) Executive advisory **single source:** data/ticker-feed.json `executive_advisory`; index and tsunami-advisory-inject consume it.
+
+**Require-less metapattern:** Continuously metabolize conversation into content and metapattern learning so that content/channels/platforms encode Chairman intent and future sessions go further with less repeated direction. Design for everything-you-needed-yesterday-already-captured.
+
+**Content use:** Apply these metapatterns across interfaces, ticker, advisories, bulletin boards, profile, content-catalog, protocols. When closing a session, crystallize outcomes into SNAP or protocol so the next agent or session has the pattern.
+
+**Reference:** EXECUTIVE_METAPATTERNS_SESSION_FEB_9_2026_CAPTURE_SNAP.md, protocols/CONVERSATIONS_AS_CONTENT_NSPFRNP_CATALOG.md, EVERYTHING_NEEDED_YESTERDAY_ALREADY_CAPTURED_DNA_CONTENT_CHANNELS_PLATFORMS_SNAP.md.
+
+---
+
 ## Integration
 
 - **Full text → superhero text → franchise:** First Singularity novel/movie, Magic Channel, Generator Motor, Pop Up Engine restroom, live recording for all series — metabolized into NSPFRNP in three layers: **full text** (complete narrative/spec), **superhero text** (condensed, punchy, Hero Harry, one-liners), **franchise** (scalable, repeatable, series, place, turnkey). See [NSPFRNP_METABOLIZED_FULL_TEXT_SUPERHERO_FRANCHISE.md](../NSPFRNP_METABOLIZED_FULL_TEXT_SUPERHERO_FRANCHISE.md).
 - **Script-writing deck:** Core vs vibes pattern + Vibeverse -1, 0, 1 FAQ + foundation/branches + triad/spine + lens/cockpit + Full Sensory Reality / natural systems + WINK! Kiosk list message and gold button added to deck-script-writing-content-patterns.md.
 - **Team:** TEAM_NSPFRNP_MODE_ACTIVE.md — all referred to by role/context when needed; names always respectful.
 - **FAQ:** "What is Vibeverse -1, 0, 1?" answered in this doc and in the script deck for reuse.
+- **Require less:** Session Feb 9, 2026 — metabolize conversation into content and metapattern learning so we go further and require less from Chairman. Crystallize session outcomes into SNAP or protocol; feed CONVERSATIONS_AS_CONTENT and EXECUTIVE_METAPATTERNS session captures. See EXECUTIVE_METAPATTERNS_SESSION_FEB_9_2026_CAPTURE_SNAP.md, EVERYTHING_NEEDED_YESTERDAY_ALREADY_CAPTURED_DNA_CONTENT_CHANNELS_PLATFORMS_SNAP.md.
 - **Privacy:** Raw correspondence is never stored or quoted. Only patterns are extracted. Contributors are not named in pattern descriptions; we use "one contributor," "another," "research-oriented contributor," "operator" etc. when structure requires a role.
 
 ---

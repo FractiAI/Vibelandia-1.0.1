@@ -118,6 +118,17 @@
         }
         .join-prompt p { font-size: 1rem; color: #e8e6e3; margin-bottom: 0.75rem; }
         .join-prompt .highlight { font-size: 1.1rem; font-weight: 700; color: #ffeaa7; }
+        /* Bulletin boards — 1·2·3 4×4×4×4 nav · NSPFRNP */
+        .bb-nav { display: flex; flex-wrap: wrap; gap: 0.75rem; justify-content: center; align-items: center; margin: 1rem 0 1.25rem; }
+        .bb-nav a { display: inline-block; padding: 0.65rem 1.2rem; font-size: 0.95rem; font-weight: 800; text-decoration: none; border-radius: 10px; border: 2px solid; transition: transform 0.2s; }
+        .bb-nav a:hover { transform: translateY(-2px); }
+        .bb-nav .nav-oh { background: linear-gradient(135deg, #d4af37, #b8860b); color: #1a1a1a; border-color: rgba(212, 175, 55, 0.9); }
+        .bb-nav .nav-ah { background: linear-gradient(135deg, rgba(0, 212, 255, 0.25), rgba(13, 148, 136, 0.25)); color: #0a0a12; border-color: rgba(0, 212, 255, 0.6); }
+        .bb-nav .nav-ap { background: linear-gradient(135deg, rgba(138, 43, 226, 0.3), rgba(88, 28, 135, 0.3)); color: #fff; border-color: rgba(138, 43, 226, 0.7); }
+        .bb-nav .nav-scale { font-size: 0.85rem; font-weight: 700; color: #9ca8b8; padding: 0.5rem 0.75rem; }
+        .bb-nav-go { margin-top: 0.75rem; font-size: 0.9rem; }
+        .bb-nav-go a { color: #00d4ff; font-weight: 600; text-decoration: none; }
+        .bb-nav-go a:hover { text-decoration: underline; }
     </style>
 </head>
 <body>
@@ -126,9 +137,17 @@
         <p class="back"><a href="office-hours.html">← Office Hours Bulletin Board</a> · <a href="community-bulletin-boards-division.html">Division</a> · <a href="profile.html">🔑 Wallet</a> · <a href="../index.html">Home</a></p>
 
         <section class="hero">
-            <span class="badge">Creator Studio · AI-Assisted · Seed:Edge</span>
+            <span class="badge">Creator Studio · AI-Assisted · Seed:Edge · NSPFRNP</span>
             <h1>Bulletin Board Studio</h1>
             <p class="tagline">Get your own bulletin board. Push new postings onto your board. Tweak. Do some math. Straightforward — Seed + Edge + executive description. Preconfigured choices. Auto-fill from both points meeting in the middle. Goldilocks best path. Reinforce it.</p>
+            <p style="font-size: 0.9rem; color: #9ca8b8; margin-top: 0.5rem;">Click to section &amp; details — 1 · 2 · 3 · 4×4×4×4.</p>
+            <div class="bb-nav" aria-label="Office Hours, After Hours, After Party — jump to section">
+                <a href="office-hours.html#office-hours" class="nav-oh">1. Office Hours →</a>
+                <a href="office-hours.html#after-hours" class="nav-ah">2. After Hours →</a>
+                <a href="office-hours.html#after-party" class="nav-ap">3. After Party →</a>
+                <span class="nav-scale">4×4×4×4</span>
+            </div>
+            <p class="bb-nav-go">Go to: <a href="office-hours.html">Office Hours Bulletin Board</a> · <a href="community-bulletin-boards-whiteboard.html">My Whiteboard</a> · <a href="community-bulletin-boards-division.html">Division</a> · <a href="office-hours-bulletin-board-platform.html">Platform (for companies)</a></p>
         </section>
 
         <div class="join-prompt">
@@ -155,7 +174,7 @@
             <label for="exec">Executive Description — Customize beyond defaults</label>
             <textarea id="exec" name="exec" placeholder="Brief description. What makes this posting yours. The AI fills from Seed + Edge meeting in the middle."></textarea>
 
-            <label>Preconfigured Choices — Click to apply</label>
+            <label>Preconfigured Choices — Click to apply preset (then push to board)</label>
             <div class="preconfigured-row">
                 <button type="button" onclick="applyPreset('company')">Company / Brand</button>
                 <button type="button" onclick="applyPreset('novel')">Novel / Story</button>
@@ -165,6 +184,7 @@
                 <button type="button" onclick="applyPreset('product')">Product / Service</button>
                 <button type="button" onclick="applyPreset('franchise')">Franchise / Empire</button>
             </div>
+            <p class="bb-nav-go" style="margin-bottom: 0.5rem;"><strong>Or go to page:</strong> <a href="office-hours-bulletin-board-platform.html">Platform (companies)</a> · <a href="content-catalog.html">Content Catalog (novels, episodes)</a> · <a href="music-studio.html">Music Studio</a> · <a href="office-hours.html">Bulletin Board</a></p>
 
             <div class="goldilocks-note">
                 <strong>Goldilocks best path.</strong> Seed and Edge meet in the middle. The system auto-fills from both points. Achieve the best path — reinforce it. Straightforward.

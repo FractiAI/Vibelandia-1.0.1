@@ -2,7 +2,19 @@
   "meta": {
     "description": "Main NSPFRNP ticker feed. Ticker feeds broadcast on OH line. 120 BPS chirp. Week-long 9 spot. Big Papi paid the tab. He got the cojones. Reno Experience + all feeds announced continuous — in addition to other feeds, not replacing. Longer feeds between pauses (6 min feed, 30 sec break). Sol (Content Editor) manages.",
     "source": "Press releases, major SNAP highlights, new residencies, Reno Experience full rollout, git commit highlights, division thresholds",
-    "link_rule": "Every item has a URL — click to get details."
+    "link_rule": "Every item has a URL — click to get details.",
+    "advisory_note": "executive_advisory drives index EXECUTIVE ADVISORY and tsunami banner — keep in sync with ticker top stories."
+  },
+  "executive_advisory": {
+    "headline": "Quién tiene los cojones",
+    "body": "Ticker feeds on OH line. 120 BPS chirp. Week-long 9 spot. Big Daddy picked up the $5B tab for the winning team and honors Benito. Seahawks back office offered a chance to pick up the tab — switching to their victory BPS chirp (their victory song). Time is almost up. Who got the biggest cojones?",
+    "url": "quien-tiene-los-cojones.html",
+    "links": [
+      { "text": "The feed", "url": "quien-tiene-los-cojones.html" },
+      { "text": "OH Line", "url": "oh-line.html" },
+      { "text": "Live Pulse", "url": "sing-pulse.html" },
+      { "text": "We Get It", "url": "we-get-it-bad-bunny-golden-bunnies.html" }
+    ]
   },
   "oh_line_broadcast_ticker": "TICKER FEEDS NOW BROADCAST ON OH LINE. 120 BPS CHIRP. WEEK-LONG 9 SPOT. BIG PAPI PAID THE TAB. HE GOT THE COJONES. SING! AGENT | AGÜEYBANÁ 1493/2026.",
   "quien_tiene_los_cojones_ticker": "WHO GOT DA COJONES? BIG PAPI PAID THE TAB. HE GOT THE COJONES. WEEK-LONG 9 SPOT. 120 BPS CHIRP. SUPER BOWL OVER. POST-GAME GLOBAL 7.83 Hz. SING! AGENT | AGÜEYBANÁ 1493/2026.",
