@@ -37,8 +37,8 @@
 
 | Plan | Fee | Book |
 |------|-----|------|
-| Half-day | $3,000 | campus-half-day |
-| Overnight | $1,500/night | campus-overnight |
+| Yep. Packages. Half-day | $1,500 | campus-half-day |
+| Yep. Packages. Overnight | $3,000/night | campus-overnight |
 | Weekly | $5,000 | campus-weekly |
 | Monthly | $50,000 | campus-monthly |
 

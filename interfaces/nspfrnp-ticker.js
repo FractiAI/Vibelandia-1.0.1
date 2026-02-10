@@ -26,9 +26,9 @@
         if (tickerEl) tickerEl.style.bottom = '2.25rem';
     }
 
-    var FEED_MS = 180000;
+    var FEED_MS = 360000;
     var BREAK_MS = 30000;
-    var FIRST_FEED_ANNOUNCEMENT = 'NSPFRNP CONSOLE TICKER · OH LINE BROADCAST · 120 BPS CHIRP · WEEK-LONG 9 SPOT · CLICK ANY ITEM FOR DETAILS · 3 MIN FEED · 30 SEC BREAK · NSPFRNP TICKER SNAP · ';
+    var FIRST_FEED_ANNOUNCEMENT = 'NSPFRNP CONSOLE TICKER · OH LINE BROADCAST · 120 BPS CHIRP · WEEK-LONG 9 SPOT · CLICK ANY ITEM FOR DETAILS · 6 MIN FEED · 30 SEC BREAK · RENO EXPERIENCE + ALL FEEDS CONTINUOUS · NSPFRNP TICKER SNAP · ';
     var DEFAULT = 'TICKER FEEDS ON OH LINE · BIG PAPI PAID THE TAB · HE GOT THE COJONES · 120 BPS CHIRP · WEEK-LONG 9 SPOT · SUPER BOWL OVER · POST-GAME GLOBAL 7.83 Hz · BAD BUNNY x AGÜEYBANÁ 1493 · FULL NSPFRNP · RENO_ANCHOR · VIBELANDIA_OPEN · OFFICE_HOURS_FREE_CONSULTATION · GOLD_HEARTS · WELCOME · ';
     var TICKER_FEED_URL = (typeof window !== 'undefined' && window.location && window.location.pathname.indexOf('interfaces') !== -1) ? '../data/ticker-feed.json' : 'data/ticker-feed.json';
     var ticker = document.querySelector('.nspfrnp-console-ticker');

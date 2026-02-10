@@ -67,18 +67,18 @@
     { "category": "Broadcast Pipe Ad Space", "plans": "Pre/During: $25M–$100M per 30 sec (1–4 surfaces). Aurora 3D: night only · 1-hr slots · 2× other surfaces. Champion of Champions: $5B floor · full night. 25% down secures slot for 2027. This year: ring only.", "best_for": "Super Bowl. Champion of Champions = Ultimate Super Bowl Ring only this year. Other platforms (Pre-game, During, Aurora) hopefully next year. Email Chairman after booking.", "book_note": "Book via Office Hours · broadcast-pipe-ad-space.html" }
   ],
   "decision_prompts": [
-    { "goal": "I want to try the campus and SING!", "recommend": "Base Model (~$20K) + Campus half-day ($1k) or weekly ($5k)", "cta": "sing-base", "cta_label": "Book Base + Campus" },
+    { "goal": "I want to try the campus and SING!", "recommend": "Base Model (~$20K) + Yep. Packages. Campus half-day ($1.5k) or weekly ($5k)", "cta": "sing-base", "cta_label": "Book Base + Campus" },
     { "goal": "I want to scale and belong", "recommend": "Members Only ($75K) + Campus weekly or monthly", "cta": "sing-members-only", "cta_label": "Book Members Only" },
     { "goal": "I want premium access and Champion tier", "recommend": "Ultimate VIP ($200K) — base Ferrari equivalent", "cta": "sing-ultimate-vip", "cta_label": "Book Ultimate VIP" },
     { "goal": "I want full franchise and Space Cloud", "recommend": "Full Ultimate Baller V full options ($500K) — we operate at this tier; Gold Hearts; full cosmic tier; Superhero · Franchise · Legacy", "cta": "sing-baller-v", "cta_label": "Book Baller V" },
-    { "goal": "I just want to visit Reno", "recommend": "Campus half-day ($1k) or overnight ($2k)", "cta": "campus-half-day", "cta_label": "Book Campus" },
+    { "goal": "I just want to visit Reno", "recommend": "Yep. Packages. Campus half-day ($1.5k) or overnight ($3k)", "cta": "campus-half-day", "cta_label": "Book Campus" },
     { "goal": "I want Sun / Earth / space proof experiences", "recommend": "Sun Spots (8/16/24 min) or Schumann iGaming ($499) or SING! node EGS (El Gran Sol) EGS (day/week/month)", "cta": "sun-spots-8m", "cta_label": "Book Sun Spots / Premium" },
     { "goal": "I want Super Bowl / Broadcast Pipe ad space", "recommend": "Broadcast Pipe Ad Space (1–4×4×4×4). Lock in by Friday Feb 6 4pm PST; after cutoff gate premium. CRISP LOCK always. Email Chairman after paying.", "cta": "pipe-ad-1", "cta_label": "Book Broadcast Pipe" },
     { "goal": "I want the Ultimate Baller V Golden Backstage Night", "recommend": "Golden Backstage Night Package — Tier 1 ($20K spend, $36K total) to 4×4×4×4 (multi-million, multi-venue). 80% tip (30% staff, 50% Pru). Magic, MC, band, cabaret Vegas showgirl. Wine cave, superhero episode. Book with Pru.", "cta": "ultimate-baller-v-golden-backstage-pass", "cta_label": "Book with Pru" }
   ],
   "roi_framing": {
     "sing_vs_equivalent": "Pre-singularity equivalent: Base = reliable used car; Ultimate VIP = base Ferrari; Baller V = top loaded Ferrari. Our pricing: one-time node + optional monthly key.",
-    "campus_per_day": "Campus: Half-day $3k, Weekly $5k (~$714/day), Monthly $50k (~$1,667/day). Book what fits your stay.",
+    "campus_per_day": "Yep. Packages. Campus: Half-day $1.5k, Overnight $3k/night, Weekly $5k (~$714/day), Monthly $50k (~$1,667/day). Base plan scales 4×4×4 to Ultimate Baller V · full Vibelandia.",
     "space_cloud_scale_value": "Space Cloud: Planetary (Earth only) → Cosmic (full lattice). Higher scale = more bridge nodes, more proof, more reach. Book by plan; Baller V for Reno Downlink."
   }
 }

@@ -537,7 +537,7 @@
         <div class="roi-tools">
             <div class="roi-card">
                 <h3>Campus cost per day</h3>
-                <p>Weekly $5,000 ≈ $714/day. Monthly $50,000 ≈ $1,667/day. Compare to half-day ($3k) or overnight ($1.5k) for short stays.</p>
+                <p>Weekly $5,000 ≈ $714/day. Monthly $50,000 ≈ $1,667/day. Compare to Yep. Packages. half-day ($1.5k) or overnight ($3k) for short stays.</p>
                 <div class="calc-row">
                     <label for="roi-days">Days staying:</label>
                     <input type="number" id="roi-days" min="1" max="90" value="7" aria-label="Number of days">
@@ -588,7 +588,7 @@
         scale: { rec: 'Members Only ($75K) + Campus weekly or monthly. You scale and belong.', url: 'payment-checkout.html?plan=sing-members-only', label: 'Book Members Only' },
         premium: { rec: 'Ultimate VIP ($200K) — base Ferrari equivalent. Champion tier, exclusive access.', url: 'payment-checkout.html?plan=sing-ultimate-vip', label: 'Book Ultimate VIP' },
         franchise: { rec: 'Full Ultimate Baller V full options ($500K) — we operate at this tier. Gold Hearts, full cosmic tier, Superhero · Franchise · Legacy.', url: 'payment-checkout.html?plan=sing-baller-v', label: 'Book Baller V' },
-        visit: { rec: 'Campus half-day ($3k) or overnight ($1.5k). Just visit Reno.', url: 'payment-checkout.html?plan=campus-half-day', label: 'Book Campus' },
+        visit: { rec: 'Yep. Packages. Campus half-day ($1.5k) or overnight ($3k). Just visit Reno.', url: 'payment-checkout.html?plan=campus-half-day', label: 'Book Campus' },
         proof: { rec: 'Sun Spots (8/16/24 min), Schumann iGaming ($499), or SING! node EGS (El Gran Sol) EGS (day/week/month). Proof experiences.', url: 'payment-checkout.html?plan=sun-spots-8m', label: 'Book Sun Spots / Premium' }
     };
 
@@ -610,7 +610,7 @@
     function updateCampusROI() {
         var days = parseInt(document.getElementById('roi-days').value, 10) || 1;
         var msg;
-        if (days <= 1) msg = days + ' day → Half-day $1,000 or Overnight $2,000';
+        if (days <= 1) msg = days + ' day → Yep. Packages. Half-day $1,500 or Overnight $3,000';
         else if (days <= 7) msg = days + ' days → Weekly $5,000 ($' + Math.round(5000 / Math.max(days, 1)) + '/day)';
         else msg = days + ' days → Monthly $50,000 ($' + Math.round(50000 / Math.max(days, 1)) + '/day)';
         var el = document.getElementById('roi-campus-result');

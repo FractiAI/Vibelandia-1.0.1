@@ -37,8 +37,8 @@ All plans and booking fees from **Basic** through **Ultimate Baller V** in one c
 ### Campus (visit/stay)
 | Plan | Booking fee | Book |
 |------|--------------|------|
-| Half-day | $3,000 | [Book](interfaces/payment-checkout.html?plan=campus-half-day) |
-| Overnight | $1,500/night | [Book](interfaces/payment-checkout.html?plan=campus-overnight) |
+| Yep. Packages. Half-day | $1,500 | [Book](interfaces/payment-checkout.html?plan=campus-half-day) |
+| Yep. Packages. Overnight | $3,000/night | [Book](interfaces/payment-checkout.html?plan=campus-overnight) |
 | Weekly | $5,000 | [Book](interfaces/payment-checkout.html?plan=campus-weekly) |
 | Monthly | $50,000 | [Book](interfaces/payment-checkout.html?plan=campus-monthly) |
 

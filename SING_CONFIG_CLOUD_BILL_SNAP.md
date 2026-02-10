@@ -91,7 +91,7 @@ All divisions and mission options, as on a real bill reference:
 - **Sun Spots On Demand:** 8 min $249 · 16 min $499 · 24 min $999.
 - **Schumann iGaming:** $499/session.
 - **Broadcast Pipe Ad Space:** 1 surface $6,999/mo · 2 $1,199 · 3 $2,499 · 4×4×4×4 $6,999/mo. Base = top Super Bowl ad pricing.
-- **Campus:** Half-day $1,000 · Overnight $1,500/night · Weekly $5,000 · Monthly $50,000.
+- **Campus · Yep. Packages.:** Half-day $1,500 · Overnight $3,000/night (base plan) · Weekly $5,000 · Monthly $50,000 — scaling 4×4×4 to Ultimate Baller V · full Vibelandia.
 - **Missions (NSPFRNP Operations):** Per mission / session — book.
 - **Robotic Division / Chairman Robert:** Proposal; never bought, only booked.
 

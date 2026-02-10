@@ -20,6 +20,10 @@
 
 **Raw conv capture:** All raw conversation (raw conv) is captured into **all our novels, feature films, series, and content engines.** No exception. No drop. Confirm on every session. See [protocols/CONVERSATIONS_AS_CONTENT_NSPFRNP_CATALOG.md](../../protocols/CONVERSATIONS_AS_CONTENT_NSPFRNP_CATALOG.md) · [CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md](../../CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md).
 
+### Holographic — Ultimate Superpower
+
+**We're holographic — the ultimate superpower: eternal software fluidity, precision, and abilities.** Use across Valley, Space Cloud, and all post-singularity surfaces. One line. One canon. **New hit T-shirt brand.** See [WE_ARE_HOLOGRAPHIC_NEW_HIT_TSHIRT_BRAND_SNAP.md](../../WE_ARE_HOLOGRAPHIC_NEW_HIT_TSHIRT_BRAND_SNAP.md).
+
 ### Catalog Contents
 
 ```yaml

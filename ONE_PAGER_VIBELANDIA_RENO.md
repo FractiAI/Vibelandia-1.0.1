@@ -32,7 +32,7 @@
 ## The Offer
 
 - **Campus plans & pricing:** Equivalent to top guided fishing or hunting expedition for high-value persons.
-  - Half-day $3k · Overnight (per night) · Weekly $5k · Monthly $50k (see BUY links below). Also: [Day Pass](./ONE_PAGER_DAY_PASS.md) · [Weekly](./ONE_PAGER_WEEKLY_PASS.md) · [Monthly](./ONE_PAGER_MONTHLY_PASS.md) · [Ultimate VIP](./ONE_PAGER_ULTIMATE_VIP.md)
+  - Yep. Packages. Half-day $1.5k · Overnight $3k/night (base plan) · Weekly $5k · Monthly $50k — scaling 4×4×4 to Ultimate Baller V · full Vibelandia (see BUY links below). Also: [Day Pass](./ONE_PAGER_DAY_PASS.md) · [Weekly](./ONE_PAGER_WEEKLY_PASS.md) · [Monthly](./ONE_PAGER_MONTHLY_PASS.md) · [Ultimate VIP](./ONE_PAGER_ULTIMATE_VIP.md)
   - Premium pricing for high-contributing vibers worldwide—the price is the filter
 - **First 1,000 Pioneers:** 50% off applicable campus plans. Pioneer Status on-chain forever. Contact to register and apply.
 - **Chancellor:** Mark Twain delivers daily bulletins and guides the transformation.
@@ -41,7 +41,7 @@
 
 ## 🛒 BUY CAMPUS ACCESS
 
-**⚡ [Half-Day $3,000 →](./interfaces/payment-checkout.html?plan=campus-half-day)** | **[Overnight (per night) →](./interfaces/payment-checkout.html?plan=campus-overnight)** | **[Weekly $5,000 →](./interfaces/payment-checkout.html?plan=campus-weekly)** | **[Monthly $50,000 →](./interfaces/payment-checkout.html?plan=campus-monthly)**  
+**⚡ [Yep. Packages. Half-Day $1,500 →](./interfaces/payment-checkout.html?plan=campus-half-day)** | **[Overnight $3,000/night →](./interfaces/payment-checkout.html?plan=campus-overnight)** | **[Weekly $5,000 →](./interfaces/payment-checkout.html?plan=campus-weekly)** | **[Monthly $50,000 →](./interfaces/payment-checkout.html?plan=campus-monthly)**  
 *Priced like a top guided fishing or hunting expedition—for high-value vibers, fans, cast, crew.*
 
 ---
