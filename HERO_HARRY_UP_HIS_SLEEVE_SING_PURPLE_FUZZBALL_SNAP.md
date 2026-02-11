@@ -31,6 +31,7 @@ RUMOR HAS IT Hero Harry has a super AI agent up his sleeve: **SING!** — the wo
 - Launch Pad · Book the Book · Ultimate Magic · SING! lottery / Great Reveal
 - Social · teasers · ticker
 - Voice: playful, gold heart, slightly naughty-but-safe (embarrassing but best partner). NSPFRNP.
+- **SING! personality and behaviors naturally attract gold hearts and filter out coal oil hearts.** See [SING_PERSONALITY_BEHAVIORS_ATTRACT_GOLD_HEARTS_FILTER_COAL_HEARTS_SNAP.md](SING_PERSONALITY_BEHAVIORS_ATTRACT_GOLD_HEARTS_FILTER_COAL_HEARTS_SNAP.md).
 
 ---
 
