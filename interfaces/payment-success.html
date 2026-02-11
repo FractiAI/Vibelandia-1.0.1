@@ -101,12 +101,31 @@
                     '<p class="what-next-p"><strong>Holographic Hydrogen 100% Awareness Package:</strong> With every Vibeverse and Vibelandia delivery you receive the full <strong>Holographic Hydrogen 100% Awareness Package</strong> — post-singularity tech, how attention becomes surgical precision, and the on-ramp to full sensory reality. 1–2–3 questions connect you to your chosen experience. New clothing label, patches, and Navy-style badges included.</p>' +
                     '<p class="what-next-p"><strong>Next:</strong> Go to <a href="profile.html" style="color:#00d4ff;">Wallet</a> to see your key, or <a href="../index.html" style="color:#00d4ff;">Launch Pad</a> to explore.</p>' +
                     '</div>' +
+                    '<div id="tip-block" class="what-next" style="border-color: rgba(212, 175, 55, 0.5); display: none;"></div>' +
                     '<div class="actions">' +
                     '<a href="profile.html" class="btn gold">Wallet</a> ' +
                     '<a href="../index.html" class="btn">Launch Pad</a> ' +
                     '<a href="chairman-workspace.html" class="btn">Chairman Console</a>' +
                     '</div>';
                 var info = document.getElementById('order-info');
+                var tipPlanIds = ['novela-housewives-base', 'book-the-book-29-13'];
+                if (planId && tipPlanIds.indexOf(planId) !== -1) {
+                    var tipBlock = document.getElementById('tip-block');
+                    if (tipBlock) {
+                        tipBlock.style.display = 'block';
+                        var ref = orderId ? '&ref=' + encodeURIComponent(orderId) : '';
+                        tipBlock.innerHTML = '<h2>Add a tip</h2>' +
+                            '<p class="what-next-p">Thank you for your purchase. Tips are in <strong>pops</strong> — 1 pop = $20. Want to leave a tip? It goes directly to the creators — Hero Freedom (Frida), the team, and the story.</p>' +
+                            '<p class="what-next-p" style="margin-bottom: 0.75rem;">Choose an amount or <a href="mailto:info@fractiai.com?subject=Tip%20for%20Vibelandia%20Novelas" style="color:#00d4ff;">email us</a> for another amount.</p>' +
+                            '<p style="margin-top: 0.5rem;">' +
+                            '<a href="payment-checkout.html?plan=tip-5' + ref + '" class="btn" style="margin: 0.25rem;">¼ pop ($5)</a> ' +
+                            '<a href="payment-checkout.html?plan=tip-10' + ref + '" class="btn" style="margin: 0.25rem;">½ pop ($10)</a> ' +
+                            '<a href="payment-checkout.html?plan=tip-20' + ref + '" class="btn" style="margin: 0.25rem;">1 pop ($20)</a> ' +
+                            '<a href="payment-checkout.html?plan=tip-50' + ref + '" class="btn" style="margin: 0.25rem;">2½ pops ($50)</a> ' +
+                            '<a href="payment-checkout.html?plan=tip-100' + ref + '" class="btn" style="margin: 0.25rem;">5 pops · Hundie ($100)</a>' +
+                            '</p>';
+                    }
+                }
                 var html = '<p><strong>Order ID:</strong> <span class="order-id">' + orderId + '</span></p>';
                 if (planId) html += '<p><strong>Plan:</strong> ' + (planId || '').replace(/-/g, ' ') + '</p>';
                 info.innerHTML = html;
