@@ -21,7 +21,7 @@
 ## WINK! AND SQUEEZE! — DEFINITIONS
 
 - **WINK!** — W-I-N-K, not weak. Our dating site; getting to know. High-contributing fractal dating; Members Only. [SQUEEZE_BRAND_ACTIVE_PARTNER_WINK_SNAP.md](SQUEEZE_BRAND_ACTIVE_PARTNER_WINK_SNAP.md) · [WINK_MEMBERS_ONLY_CONCIERGE_KIOSK_TRIPS_SNAP.md](WINK_MEMBERS_ONLY_CONCIERGE_KIOSK_TRIPS_SNAP.md)
-- **Squeeze!** — **A squeeze is a WINK! that is connected to another WINK!** Active partner in the same program. My main squeeze = my active partner. Squeeze and WINK are part of the same program; squeeze = the connection between two WINK!s.
+- **Squeeze!** (S-Q-U-E-E-Z-E!) — **WINK! members who have found connections — whether linear or fractal in nature.** We do squeeze and fractal squeeze. A squeeze is a WINK! connected to another WINK!; active partner in the same program. My main squeeze = my active partner. Include this in your survey.
 
 ---
 

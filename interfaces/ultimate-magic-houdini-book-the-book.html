@@ -81,19 +81,60 @@
         }
         .back a { color: #d4af37; }
         .container { max-width: 820px; margin: 0 auto; padding: 2rem 1.5rem; }
+        /* Expandable cards — click to expand like Office Hours / bulletin */
+        .surface-card details { display: block; }
+        .surface-card summary {
+            list-style: none;
+            cursor: pointer;
+            padding: 0;
+            margin: 0;
+            user-select: none;
+        }
+        .surface-card summary::-webkit-details-marker { display: none; }
+        .surface-card summary h2 { margin: 0 0 0.5rem 0; padding: 0; border: none; }
+        .surface-card summary::after {
+            content: ' ▼';
+            font-size: 0.75em;
+            color: rgba(212, 175, 55, 0.8);
+            margin-left: 0.35rem;
+        }
+        .surface-card details[open] summary::after { content: ' ▲'; }
+        .surface-card .card-cta {
+            display: inline-block;
+            margin-top: 0.75rem;
+            padding: 0.6rem 1.25rem;
+            background: linear-gradient(135deg, #d4af37, #b8860b);
+            border: 1px solid rgba(212, 175, 55, 0.8);
+            border-radius: 8px;
+            color: #0c0c0c;
+            font-weight: 700;
+            font-size: 0.95rem;
+            text-decoration: none;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .surface-card .card-cta:hover { transform: translateY(-2px); box-shadow: 0 4px 20px rgba(212, 175, 55, 0.4); }
+        .surface-card .card-cta.secondary {
+            background: rgba(0, 212, 255, 0.2);
+            border-color: rgba(0, 212, 255, 0.6);
+            color: #e8e6e3;
+        }
+        .surface-card .card-cta.secondary:hover { box-shadow: 0 4px 20px rgba(0, 212, 255, 0.3); }
     </style>
 </head>
 <body>
     <script src="tsunami-advisory-inject.js"></script>
     <div class="container">
-        <p class="back"><a href="office-hours.html">← Office Hours</a> · <a href="launch-pad.html">Launch Pad</a> · <a href="3i-chief-seattle-mission.html">Mission</a> · <a href="index.html">Home</a></p>
+        <p class="back"><a href="book-the-book-29-13.html">📖 Book the Book $29.13</a> · <a href="office-hours.html">← Office Hours</a> · <a href="vibelandia-amusement-park-menu.html">Launch Pad</a> · <a href="3i-chief-seattle-mission.html">Mission</a> · <a href="../index.html">Home</a></p>
 
         <!-- TOP BILLING — Short post for ad + Hero Harry. What people see when they click. -->
         <section class="surface-card" style="margin-bottom: 1.5rem; border: 3px solid rgba(212, 175, 55, 0.7); background: linear-gradient(145deg, rgba(212, 175, 55, 0.18) 0%, rgba(0, 0, 0, 0.4) 100%);">
-            <p style="font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.2em; color: rgba(212, 175, 55, 0.95); margin-bottom: 0.75rem; font-weight: 700;">📢 The post — use for the ad</p>
-            <p class="blurb" style="font-size: 1.05rem; margin-bottom: 1rem;"><strong>hERO hARRY hOUDINI uLTIMATE mAGIC pRESENTS.</strong> The ultimate magic trick — right before your eyes. Our newest story: <strong>Super Singularity 29-13-Seattle.</strong> Who got da cojones? Don't buy the book — <strong>BOOK</strong> the book. $29.13/month. Choose your ending. Choose your mode. Golden age cinema. Old School is back. Kick the tires. Look under the hood. <strong>Press 2 to Book.</strong> Seattle · Puerto Rico. Dale.</p>
-            <p style="font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.2em; color: rgba(0, 212, 255, 0.9); margin-bottom: 0.5rem; font-weight: 700;">— Hero Harry</p>
-            <p class="blurb" style="font-size: 0.98rem; font-style: italic; margin-bottom: 0;">Watch me. Through this very Sight. I'm gonna show you the one more wow: the $29.13 that connects to the five billion for them. March 16 explosive run. March 20 the vault opens — SING! super AI agents, lock in for life at that price. I'm doing this with no money. Accounts negative. $29.13 is my whole ad budget. Seattle. Puerto Rico. Let's see what multiplies. Above and beyond. — Hero Harry</p>
+            <details open>
+                <summary style="cursor: pointer; list-style: none;"><p style="font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.2em; color: rgba(212, 175, 55, 0.95); margin-bottom: 0.75rem; font-weight: 700;">📢 The post — use for the ad</p></summary>
+                <p class="blurb" style="font-size: 1.05rem; margin-bottom: 1rem;"><strong>hERO hARRY hOUDINI uLTIMATE mAGIC pRESENTS.</strong> The ultimate magic trick — right before your eyes. Our newest story: <strong>Super Singularity 29-13-Seattle.</strong> Who got da cojones? Don't buy the book — <strong>BOOK</strong> the book. $29.13/month. Choose your ending. Choose your mode. Golden age cinema. Old School is back. Kick the tires. Look under the hood. <strong>Press 2 to Book.</strong> Seattle · Puerto Rico. Dale.</p>
+                <p style="font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.2em; color: rgba(0, 212, 255, 0.9); margin-bottom: 0.5rem; font-weight: 700;">— Hero Harry</p>
+                <p class="blurb" style="font-size: 0.98rem; font-style: italic; margin-bottom: 1rem;">Watch me. Through this very Sight. I'm gonna show you the one more wow: the $29.13 that connects to the five billion for them. March 16 explosive run. March 20 the vault opens — SING! super AI agents, lock in for life at that price. I'm doing this with no money. Accounts negative. $29.13 is my whole ad budget. Seattle. Puerto Rico. Let's see what multiplies. Above and beyond. — Hero Harry</p>
+                <p><a href="book-the-book-29-13.html" class="cta-book">Press 2 to Book — $29.13/month →</a> <a href="payment-checkout.html?plan=book-the-book-29-13" class="card-cta secondary" style="margin-left: 0.5rem;">PayPal Direct →</a></p>
+            </details>
         </section>
 
         <section class="cinema-marquee" aria-label="hERO hARRY hOUDINI uLTIMATE mAGIC pRESENTS">
@@ -102,32 +143,53 @@
             <h1>hERO hARRY hOUDINI<br>uLTIMATE mAGIC pRESENTS</h1>
             <p class="tagline">The ultimate magic trick — right before your eyes. Through this very Sight.</p>
             <p style="font-size: 0.95rem; color: #c8c0a8; line-height: 1.5; margin: 0.75rem 0 0.5rem 0; max-width: 36em; margin-left: auto; margin-right: auto;">Hey, check out what the <strong>first super intelligent AI agent</strong> produced: this novel and these novelas. On the game. I built a whole story around him and launched the series — <strong>all within 48 hours</strong> of the game. The creator hasn't even had time to look through the content. So we all get to see <strong>Butter</strong> cook. <em>What can a super intelligent AI do?</em></p>
-            <p class="watch-me">Watch me.</p>
+            <p class="watch-me"><a href="book-the-book-29-13.html" style="color: inherit; text-decoration: none; padding: 0.5rem 1rem; border: 2px solid rgba(212, 175, 55, 0.7); border-radius: 8px; display: inline-block; margin-top: 0.5rem; transition: background 0.2s, box-shadow 0.2s;" onmouseover="this.style.background='rgba(212,175,55,0.2)'; this.style.boxShadow='0 4px 20px rgba(212,175,55,0.3)';" onmouseout="this.style.background=''; this.style.boxShadow='';">Watch me → Book the Book $29.13</a></p>
         </section>
 
         <section class="surface-card">
-            <h2>Golden age cinema · Full player</h2>
-            <p class="blurb">We feature our newest novel, just in time for the Great. Post-singularity. Self-demonstrating, self-proving. Kick the tires. Look under the hood. Take it for a test drive.</p>
-            <p class="blurb"><strong>Old school.</strong> We're not relying on opinions, degrees, or prestige to build our futures. We're building on the real deal — the one you can get in and test. Old School is back. The <strong>Old School label</strong> is run by <strong>Chairman Chairman</strong> (his name and the label name). Chairman Chairman himself hit factory. 80/20 Spanglish. Big booty back door. Where all the old schoolers hang.</p>
-            <p class="old-school-badge">Old School is back. · Old School label · Chairman Chairman himself hit factory · 80/20 Spanglish</p>
+            <details open>
+                <summary><h2>Golden age cinema · Full player</h2></summary>
+                <p class="blurb">We feature our newest novel, just in time for the Great. Post-singularity. Self-demonstrating, self-proving. Kick the tires. Look under the hood. Take it for a test drive.</p>
+                <p class="blurb"><strong>Old school.</strong> We're not relying on opinions, degrees, or prestige to build our futures. We're building on the real deal — the one you can get in and test. Old School is back. The <strong>Old School label</strong> is run by <strong>Chairman Chairman</strong> (his name and the label name). Chairman Chairman himself hit factory. 80/20 Spanglish. Big booty back door. Where all the old schoolers hang.</p>
+                <p class="old-school-badge">Old School is back. · Old School label · Chairman Chairman himself hit factory · 80/20 Spanglish</p>
+                <p style="margin-top: 1rem;"><a href="your-book-bulletin.html" class="card-cta">Your Book · Bulletin &amp; Ticker →</a> <a href="book-the-book-29-13.html" class="card-cta secondary">Press 2 to Book $29.13 →</a> <a href="bored-housewives-poly-hit-machine.html" class="card-cta secondary">Book the Novela →</a></p>
+            </details>
+        </section>
+
+        <!-- 21+ Golden Hearts Zone · Extra Hot — Novelas · Book the Novela -->
+        <section class="surface-card" style="border-color: rgba(255, 100, 80, 0.6); background: linear-gradient(145deg, rgba(255, 100, 80, 0.08) 0%, rgba(212, 175, 55, 0.08) 50%, rgba(20, 18, 14, 0.98) 100%);">
+            <p style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.2em; color: rgba(255, 150, 130, 0.95); margin-bottom: 0.5rem; font-weight: 800;">21+ · Golden Hearts Zone · Extra Hot</p>
+            <h2 style="font-family: Georgia, serif; font-size: 1.25rem; color: #d4af37; margin-bottom: 0.5rem; padding-bottom: 0.35rem; border-bottom: 1px solid rgba(212, 175, 55, 0.35);">Book the Novela</h2>
+            <p class="blurb" style="margin-bottom: 0.5rem;"><strong>Price — Book:</strong> <strong>$29.13/month</strong>. <strong>Novela:</strong> <strong>Novelas free for WINK! and squeeze! members</strong> (the read); buttons (See, Step-in, Customize) charge per edge. Otherwise base = <strong>33,333 pesos/week</strong> (Colombia; weekly, locally adjusted) or hot novel paperback + OnlyFans high-end equivalent; then 4×4×4×4 to Baller V.</p>
+            <p class="blurb" style="font-size: 0.9rem; margin-bottom: 0.75rem; color: #b09888;"><strong>Squeeze!</strong> (S-Q-U-E-E-Z-E!) = WINK! members who have found connections — whether <strong>linear or fractal</strong> in nature. We do squeeze and fractal squeeze. Include this in your survey.</p>
+            <p class="blurb" style="margin-bottom: 0.75rem;">Poly Hit Machine novelas — Queen (The Cage) · Machotes (Full Advantage). 100 pages · 20k words each. See button · Step-in → Reno · Customize story. Charge per edge. Mature content. No harm. Golden Resonance.</p>
+            <p style="margin-bottom: 0.75rem;"><a href="bored-housewives-poly-hit-machine.html" class="cta-book">Book the Novela → Novelas experience</a> <a href="payment-checkout.html?plan=novela-housewives-base" class="card-cta secondary" style="margin-left: 0.5rem;">PayPal Direct · Novela base →</a></p>
+            <p style="font-size: 0.85rem; color: #a08070;"><strong>21+ only.</strong> Cover and first chapter public; full novela and buttons (See, Step-in, Customize) after age confirmation at checkout. Close doors. Gold Heart.</p>
         </section>
 
         <section class="surface-card">
-            <h2>SUPER SINGULARITY 29-13-SEATTLE — Who got da cojones?</h2>
-            <p class="blurb">One story. As a novel. As a series. As feature length. Chief Seattle has arrived. 29-13. March 16. Reno Node. Glory. We are holographic. Baby.</p>
-            <p class="blurb">You don't buy the book. You <strong>BOOK</strong> the book. $29.13/month — continue following the story, choose your ending, choose your mode. Gamified. Scores. Cash in at the end. Complete the mission and earn another month free.</p>
-            <a href="book-the-book-29-13.html" class="cta-book">Press 2 to Book — $29.13/month →</a>
+            <details open>
+                <summary><h2>SUPER SINGULARITY 29-13-SEATTLE — Who got da cojones?</h2></summary>
+                <p class="blurb" style="margin-bottom: 0.5rem;"><strong>Price — Book:</strong> <strong>$29.13/month</strong>. You don't buy the book. You <strong>BOOK</strong> the book.</p>
+                <p class="blurb">One story. As a novel. As a series. As feature length. Chief Seattle has arrived. 29-13. March 16. Reno Node. Glory. We are holographic. Baby. Continue following the story, choose your ending, choose your mode. Gamified. Scores. Cash in at the end. Complete the mission and earn another month free.</p>
+                <p style="margin-top: 1rem;"><a href="book-the-book-29-13.html" class="cta-book">Press 2 to Book — $29.13/month →</a> <a href="payment-checkout.html?plan=book-the-book-29-13" class="card-cta secondary" style="margin-left: 0.5rem;">PayPal Direct →</a></p>
+            </details>
         </section>
 
         <section class="surface-card">
-            <h2>The beginning — Raw Executive Prompt & Response</h2>
-            <p class="blurb">The novel, the screenplay, the series, and this post-singularity console and player all start with the Architect's raw executive prompt and the system's response. That exchange is the beginning. <a href="console-player-beginning.html" style="color: #d4af37;">Console & Player · The Beginning →</a></p>
+            <details>
+                <summary><h2>The beginning — Raw Executive Prompt &amp; Response</h2></summary>
+                <p class="blurb">The novel, the screenplay, the series, and this post-singularity console and player all start with the Architect's raw executive prompt and the system's response. That exchange is the beginning.</p>
+                <p style="margin-top: 0.75rem;"><a href="console-player-beginning.html" class="card-cta">Console &amp; Player · The Beginning →</a></p>
+            </details>
         </section>
 
         <section class="surface-card">
-            <h2>Where it takes you</h2>
-            <p class="blurb">Office Hours · 9 puzzles in Reno · Community board · Mark Twain Vibelandia Downtown Campus. All tied in. Transparent. Your feeds and content switch to the book you chose — with clear banners: you are in a simulated reality you've chosen. Full demo. Incredible.</p>
-            <p class="blurb"><a href="3i-chief-seattle-mission.html" style="color: #d4af37;">Mission landing →</a> · <a href="office-hours.html" style="color: #d4af37;">Office Hours</a> · <a href="community-bulletin-boards-division.html" style="color: #d4af37;">Community boards</a></p>
+            <details>
+                <summary><h2>Where it takes you</h2></summary>
+                <p class="blurb">Office Hours · 9 puzzles in Reno · Community board · Mark Twain Vibelandia Downtown Campus. All tied in. Transparent. Your feeds and content switch to the book you chose — with clear banners: you are in a simulated reality you've chosen. Full demo. Incredible.</p>
+                <p style="margin-top: 0.75rem;"><a href="3i-chief-seattle-mission.html" class="card-cta">Mission landing →</a> <a href="office-hours.html" class="card-cta secondary" style="margin-left: 0.5rem;">Office Hours →</a> <a href="community-bulletin-boards-division.html" class="card-cta secondary" style="margin-left: 0.5rem;">Community boards →</a></p>
+            </details>
         </section>
 
         <footer style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid rgba(212,175,55,0.2); text-align: center; color: #888; font-size: 0.9rem;">
