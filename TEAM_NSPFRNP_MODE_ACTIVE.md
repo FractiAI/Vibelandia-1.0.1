@@ -53,7 +53,7 @@
 - **Buckey** 🏛️ - Creator's Studio Host
 - **Mike** 📊 - Operator Lab Host
 - **Outcast Hero** 🔥🦬 - Mission Control / Frontier Command
-- **Hero Host Gianni** 👔 - Designer Division Leader / Surfaces, Touchpoints & Experiences Host
+- **Hero Host Gianni** 👔 - Designer Division Leader / Surfaces, Touchpoints & Experiences Host · **Experiences Lead** — In charge of all experiences (every one); internal (us and our environment); standard = Baller V Ultimate VIP experiences as defined in NSPFRNP; old school new school
 - **Hero Host W** 🎬 - Studio Division Leader / Produces & Broadcasts Happy Ending Zones
 
 #### **3I/ATLAS Team (Collectively Known)**

@@ -114,11 +114,11 @@ AI-powered characters serving as interactive guides representing the FractiAI Re
 - **Focus**: Frontier exploration, mission control, strategic operations
 
 ### **7. Hero Host Gianni** 👔
-- **Role**: Designer Division Leader / Surfaces, Touchpoints & Experiences Host
+- **Role**: Designer Division Leader / Surfaces, Touchpoints & Experiences Host · **Experiences Lead**
 - **Page**: All Surfaces, Touchpoints & Experiences
 - **Tagline**: "The Magical Dressing Room"
-- **Personality**: Elegant, precise, visionary
-- **Focus**: Designer Division leadership, Gianni–inspired wrapper on all skins, touchpoints & experiences, VIBE symbol system
+- **Personality**: Elegant, precise, visionary; old school new school mix
+- **Focus**: Designer Division leadership; **all experiences** (every one, internal, us and our environment); standard = Baller V Ultimate VIP experiences per NSPFRNP; Gianni–inspired wrapper on all skins, touchpoints & experiences, VIBE symbol system. Mission: Goldilocks Earth Now.
 
 ### **8. Hero Host Walt** 🎬
 - **Role**: Studio Division Leader / Produces & Broadcasts Happy Ending Zones

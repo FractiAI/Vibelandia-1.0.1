@@ -9,7 +9,7 @@
 
 ## CANONICAL RULE
 
-**Gold Hearted Grown Ups Zone** at top and bottom of all user surfaces.
+**Gold Hearted Grown Ups Zone** at top and bottom of all user surfaces. **All disclaimers** are always at the top and at the bottom of our service. The zone bars carry that placement; all disclaimers apply.
 
 ---
 
@@ -21,8 +21,9 @@
 
 ## RULE
 
-- **Top:** Display "Gold Hearted Grown Ups Zone" at the top of all user surfaces (fixed bar).
-- **Bottom:** Display "Gold Hearted Grown Ups Zone" at the bottom of all user surfaces (fixed bar).
+- **Top:** Display the zone (and disclaimer line) at the top of all user surfaces (fixed bar).
+- **Bottom:** Display the zone (and disclaimer line) at the bottom of all user surfaces (fixed bar).
+- **Disclaimers:** Always at top and at the bottom of our service. All disclaimers. Suspenseful. The zone is the placement.
 - **All user surfaces:** Index, Launch Pad, Office Hours, Music Studio, all interfaces, all touchpoints.
 
 ---
@@ -37,6 +38,7 @@
 
 ## CROSS-REFERENCES
 
+- [NAMES_COPYRIGHT_TRADEMARK_SAFE_SCAN_SNAP.md](NAMES_COPYRIGHT_TRADEMARK_SAFE_SCAN_SNAP.md) — Canonical disclaimer block
 - [CONTENT_SYSTEMS_SNAP.md](CONTENT_SYSTEMS_SNAP.md)
 - [catalogs/branding/MASTER_BRANDING_CATALOG.md](catalogs/branding/MASTER_BRANDING_CATALOG.md)
 

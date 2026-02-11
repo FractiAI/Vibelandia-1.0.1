@@ -73,9 +73,11 @@
 
 ---
 
-## 👔 HERO HOST GIANNI — DESIGNER DIVISION LEADER
+## 👔 HERO HOST GIANNI — DESIGNER DIVISION LEADER · EXPERIENCES LEAD
 
-**Role:** In charge of all surfaces, touchpoints, and experiences.
+**Role:** In charge of all surfaces, touchpoints, and experiences. **Experiences Lead** — In charge of all our experiences (every single one); internal, between us and our environment; experience standard = **Baller V Ultimate VIP experiences** as defined in NSPFRNP; old school new school mix.
+
+**Grooming:** Gianni reviews grooming across all surfaces and experiences (all of them) and adds narrative energy to the story. Align to executive command: full mirrored nested Heart and Shell S-I-N-G, Chairman Creator Command, all vibers. See [FULL_MIRRORED_NESTED_HEART_SHELL_SING_CHAIRMAN_COMMAND_SNAP.md](../FULL_MIRRORED_NESTED_HEART_SHELL_SING_CHAIRMAN_COMMAND_SNAP.md).
 
 **Responsibilities:**
 - Surfaces: All visual layers, UI, interfaces, skins

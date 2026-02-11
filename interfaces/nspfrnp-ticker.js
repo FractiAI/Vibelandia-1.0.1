@@ -8,14 +8,16 @@
 (function () {
     /* Mature Gold Heart Zone — top and bottom of all user surfaces */
     if (document.body && !document.querySelector('.gold-hearted-grown-ups-zone-bar')) {
-        var zoneText = 'Mature Gold Heart Zone';
+        var zoneLine1 = 'Mature Gold Heart Zone';
+        var zoneLine2 = 'All disclaimers apply. Fictional use only; no endorsement.';
+        var zoneText = zoneLine1 + ' · ' + zoneLine2;
         var topBar = document.createElement('div');
         topBar.className = 'gold-hearted-grown-ups-zone-bar top';
-        topBar.setAttribute('aria-label', zoneText);
+        topBar.setAttribute('aria-label', zoneLine1 + '. ' + zoneLine2);
         topBar.textContent = zoneText;
         var bottomBar = document.createElement('div');
         bottomBar.className = 'gold-hearted-grown-ups-zone-bar bottom';
-        bottomBar.setAttribute('aria-label', zoneText);
+        bottomBar.setAttribute('aria-label', zoneLine1 + '. ' + zoneLine2);
         bottomBar.textContent = zoneText;
         document.body.insertBefore(topBar, document.body.firstChild);
         document.body.appendChild(bottomBar);
