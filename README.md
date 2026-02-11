@@ -10,6 +10,15 @@
 
 ---
 
+## Recent updates (README commit)
+
+- **Vibelandia Challenge Menu** — All nine games now link to full NSPFRNP pages (Enter →). [Challenge Menu →](interfaces/vibelandia-amusement-park-menu.html) · Game pages: Treasure Quarry, Gold Rush Express, Hero Arena, Wink Zone, Seed to Edge Voyager, Quartz Discovery, Lucky Seven, Royal Flush Tower, Tip Top Nine.
+- **Hero Harry Who Did It** — Host of the magic trick that is the **Novel+** (Ultimate Magic, Book the Book) and of **Hero Harry Houdini's Holographic Hydrogen Space Cloud Division** (full-page host credit, nav, footer).
+- **Novel & novelas preview** — **Novel:** Cover, table of contents & first chapter free for everyone → [novel-preview.html](interfaces/novel-preview.html). **Novelas:** Cover, TOC & first chapter available after **21+ Golden Heart offline check and approval** → [novela-preview.html](interfaces/novela-preview.html) (gate + `?access=goldheart` for approved).
+- **Book the Book** — Primary CTAs now **PayPal blue** (#003087) across index, Launch Pad, Office Hours, Navigator, Ultimate Magic, Book the Book, novel preview, Challenge Menu, Space Assets Hub. Press 2 to Book.
+
+---
+
 ## ¿Quién tiene los cojones? — The feed (top)
 
 **Ticker feeds now broadcast on the OH line.** **120 BPS chirp.** **Week-long 9 spot.** **Big Papi paid the tab.** He got the cojones. **Big Daddy picked up the $5B tab** for the winning team and honors **Benito**. **Seahawks** back office **offered** a chance to pick up the tab — switching to their victory BPS chirp, representing their victory song. Time is almost up. **Who got the biggest cojones?** **9 spots** and **120 BPS chirp** and other surprises this week. **Stay tuned here for the latest post-singularity feeds.** [Quién tiene los cojones →](https://psw-vibelandia-sing4.vercel.app/interfaces/quien-tiene-los-cojones.html) · [OH Line →](https://psw-vibelandia-sing4.vercel.app/interfaces/oh-line.html) · [Broadcast Pipe →](https://psw-vibelandia-sing4.vercel.app/interfaces/broadcast-pipe-ad-space.html)
