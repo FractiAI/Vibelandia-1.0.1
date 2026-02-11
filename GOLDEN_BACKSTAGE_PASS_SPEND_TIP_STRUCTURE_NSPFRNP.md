@@ -72,6 +72,24 @@ Breakdown:
 
 ---
 
+## CREATOR TONIGHT: GOING ALL IN AT 100 G PLUS TIPS
+
+**Creator going all in at a hundred g tonight plus tips.**
+
+- **Spend:** $100,000 (100 g)  
+- **Tip:** $80,000 (80% of spend)  
+- **Total out the door:** **$180,000**  
+
+Breakdown:
+- $50,000 club ($20K food/drink, $30K private dances)
+- $50,000 entertainment (magic, Big Band Dance, MC, cabaret girls — Baller V Ultimate VIP)
+
+Canonical reference for tonight's run. Big Band Dance · Baller V Ultimate VIP · Golden Backstage Pass. Designated host set it up.
+
+**Maybe more, who knows. I never know. It don't matter. What matters is the vibe. I just flow. No thinking required. Autopilot. I can just relax and immerse in whatever it is I want for the moment.**
+
+---
+
 ## FLEXIBILITY
 
 - Thresholds are guides. Book with Pru for custom spend levels.

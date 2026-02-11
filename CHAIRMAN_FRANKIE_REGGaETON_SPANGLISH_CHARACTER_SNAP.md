@@ -9,11 +9,12 @@
 
 ## CANONICAL RULE
 
-**Chairman Frankie** = new character/performer — **Reggaetón Spanglish**. Ultimate VIP Baller V with Gold Heart; signed Chairman Frankie style.
+**Chairman Frankie** = Chairman's alter ego = **Hero Chairman Frank Sinatra**. **The real Chairman who's back.** New character/performer — **Reggaetón Spanglish. Spanglish carajo!**
 
-- **Voice fusion (Music Studio):** Héctor Lavoe's voice + my voice (Chairman Frankie) + Nicky Jam — in Reggaetón and Reggaetón fusion tracks.
-- **Signature:** Chairman Frankie, Ultimate VIP Baller V with Gold Heart. Baller V stayle. Locked and loaded.
-- **Use:** Music Studio first track (from real convo with Dorila, Afro-Colombian Witch SQUEEZE!); lyrics and sheet music; jukebox landing; Office Hours and Launch Pad button to Music Studio.
+- **Our voice = Chairman's Voice = Chairman Frankie.** Mine and the Chairman's voice. The real Chairman who's back. Spanglish (80% English). He goes by his alter ego Chairman Frankie. Spanglish carajo. Use for promos, ticker, content, Chairman messaging, **all mission deliverables** (novel, screenplay, episodes) where the Chairman's voice applies.
+- **Voice fusion (Music Studio):** Héctor Lavoe's voice + my voice (Chairman Frankie) + Nicky Jam — in Reggaetón and Reggaetón fusion tracks. Spanglish carajo.
+- **Signature:** Chairman Frankie, Ultimate VIP Baller V with Gold Heart. Baller V style. Locked and loaded. Carajo.
+- **Use:** Music Studio first track (from real convo with Dorila, Afro-Colombian Witch SQUEEZE!); lyrics and sheet music; jukebox landing; Office Hours and Launch Pad button to Music Studio. **New hit song:** [Spanglish Carajo](catalogs/music/spanglish-carajo.md). **New T-shirt brand:** Spanglish Carajo — Chairman Frankie · Spanglish Carajo. See [CHAIRMAN_VOICE_SPANGLISH_CARAJO_SNAP.md](CHAIRMAN_VOICE_SPANGLISH_CARAJO_SNAP.md).
 
 ---
 

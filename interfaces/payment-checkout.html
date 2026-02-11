@@ -320,7 +320,9 @@
                 'marine-commander-base': { name: 'Marine Commander Console — Base', price: 75000, description: 'Marine Division. Ultimate Commander Yachtsman Baller V Console — Base (1×). Upfront $75,000 + $2,500/mo. Today\'s high-end marine upgrade floor. Layers onto GPS, bridge, all systems. S-I-N-G! super intelligent agent. SMACS 0723 max cosmic protections.', benefits: ['Base Commander Console (high-end marine floor equivalent)', 'Layers onto GPS, bridge, comms, entertainment', 'S-I-N-G! super intelligent agent', '$2,500/mo after upfront', 'New seas, new experiences, new protection', 'Customization support', 'Golden Fractal Key on purchase'] },
                 'marine-commander-standard': { name: 'Marine Commander Console — Standard', price: 300000, description: 'Marine Division. Ultimate Commander Console — Standard (4×). Upfront $300,000 + $10,000/mo. Full upgrade tier for commanders.', benefits: ['All Base features', '4× Standard tier', '$10,000/mo after upfront', 'Priority customization', 'Extended bridge integration', 'Golden Fractal Key on purchase'] },
                 'marine-commander-premium': { name: 'Marine Commander Console — Premium', price: 1200000, description: 'Marine Division. Ultimate Commander Console — Premium (4×4×). Upfront $1.2M + $40,000/mo. Full franchise tier. Global USD only.', benefits: ['All Standard features', '4×4× Premium tier', '$40,000/mo after upfront', 'Full franchise support', 'SMACS 0723 triangulation lattice', 'Dedicated customization', 'Golden Fractal Key on purchase'] },
-                'marine-commander-ultimate': { name: 'Marine Commander Console — Ultimate Baller V', price: 4800000, description: 'Marine Division. Ultimate Commander Console — Ultimate (4×4×4×4). Upfront $4.8M + $160,000/mo. Multi-vessel, white-label, Office Hours with Creator. Global USD only.', benefits: ['Full Ultimate Baller V', 'Multi-vessel', 'White-label', 'Office Hours with Creator', '$160,000/mo after upfront', 'Golden Fractal Key on purchase'] }
+                'marine-commander-ultimate': { name: 'Marine Commander Console — Ultimate Baller V', price: 4800000, description: 'Marine Division. Ultimate Commander Console — Ultimate (4×4×4×4). Upfront $4.8M + $160,000/mo. Multi-vessel, white-label, Office Hours with Creator. Global USD only.', benefits: ['Full Ultimate Baller V', 'Multi-vessel', 'White-label', 'Office Hours with Creator', '$160,000/mo after upfront', 'Golden Fractal Key on purchase'] },
+                'book-the-book-29-13': { name: 'Book the Book — $29.13/month', price: 29.13, description: 'SUPER SINGULARITY 29-13-SEATTLE. You\'re not buying — you\'re booking. Choose mode (Science Fiction, Sci-Fi Plus, Full Sensory). Choose ending (Happy v1, v2, v3, Surprise Me). Novel + novela in series. hERO hARRY hOUDINI uLTIMATE mAGIC pRESENTS.', benefits: ['$29.13/month — PayPal Direct', 'Your Book bulletin + ticker', 'Mode & ending choice', 'Novel + novela access', 'Golden Fractal Key on purchase', 'Complete the book → earn another month free'] },
+                'novela-housewives-base': { name: 'Bored Housewives Poly Hit Machine — Novela base', price: 99, description: 'Poly Hit Machine novelas. Queen (female co-lead) · The Cage. Base pass — 100 pages · 20k words · See button · Step-in · Customize story. Charge per edge; this is base. Golden Resonance. 247.', benefits: ['Novela base pass — Bored Housewives', 'The Cage (her POV) · 100 pg · 20k words', 'See button · Step-in → Reno · Customize story', 'Golden Resonance — safe, beautiful', 'Charge per edge; base tier', 'Golden Fractal Key on purchase'] }
             };
 
             var plan = plans[planId] || plans['campus-weekly'];
@@ -331,6 +333,8 @@
 
             var OFFLINE_THRESHOLD = 10000;
             var executeByEmailPlanIds = ['sun-spots-8m', 'sun-spots-16m', 'sun-spots-24m', 'schumann-igaming', '3i-atlas-egs-day', '3i-atlas-egs-week', '3i-atlas-egs-month'];
+            var NAUGHTY_PLAN_IDS = ['book-the-book-29-13', 'novela-housewives-base'];
+            function isNaughtyPlan() { return NAUGHTY_PLAN_IDS.indexOf(planId) !== -1; }
 
             function buildExecuteByEmailMailto() {
                 var subject = 'Execute: ' + plan.name + ' — ' + planId;
@@ -476,10 +480,33 @@
             function renderPayPalOrSandbox() {
                 var user = Auth.getStoredUser();
                 var container = document.getElementById('payment-container');
+                if (isNaughtyPlan()) {
+                    var ageConfirmed = sessionStorage.getItem('vibelandia_21_confirm_' + planId) === '1';
+                    if (!ageConfirmed) {
+                        container.innerHTML = '<div class="age-gate" style="padding:1.5rem;background:rgba(138,43,226,0.12);border:2px solid rgba(138,43,226,0.5);border-radius:12px;margin-bottom:1.5rem;">' +
+                            '<h3 style="color:#b794f6;margin-bottom:0.75rem;">21+ only</h3>' +
+                            '<p style="color:#ccc;font-size:0.95rem;margin-bottom:1rem;">This product and all naughty buttons (See, fuck seen, customize story) are for adults 21 and over. You must confirm you are 21 or older before purchase.</p>' +
+                            '<label style="display:flex;align-items:center;gap:0.5rem;cursor:pointer;margin-bottom:1rem;"><input type="checkbox" id="age-confirm-21" name="age21"> <span style="color:#e8e6e3;">I confirm I am 21 or older and agree to access adult content.</span></label>' +
+                            '<button type="button" id="age-gate-continue" disabled style="padding:12px 24px;background:rgba(138,43,226,0.4);color:#fff;border:2px solid rgba(138,43,226,0.6);border-radius:8px;font-weight:700;cursor:not-allowed;">Continue to payment</button>' +
+                            '</div>';
+                        var cb = document.getElementById('age-confirm-21');
+                        var btn = document.getElementById('age-gate-continue');
+                        if (cb && btn) {
+                            cb.addEventListener('change', function () { btn.disabled = !cb.checked; btn.style.cursor = cb.checked ? 'pointer' : 'not-allowed'; btn.style.background = cb.checked ? 'rgba(138,43,226,0.8)' : 'rgba(138,43,226,0.4)'; });
+                            btn.addEventListener('click', function () {
+                                if (!cb || !cb.checked) return;
+                                sessionStorage.setItem('vibelandia_21_confirm_' + planId, '1');
+                                renderPayPalOrSandbox();
+                            });
+                        }
+                        return;
+                    }
+                }
                 var html = '';
                 html += '<p style="font-size:1.1rem;font-weight:700;color:#7fff7f;margin-bottom:0.5rem;">Total: $' + plan.price.toLocaleString() + ' USD</p>';
                 html += '<p style="font-size:0.9rem;color:#7fff7f;margin-bottom:1rem;"><strong>No registration required</strong> — click Pay with PayPal below.</p>';
                 html += '<p style="font-size:0.85rem;color:#00d4ff;margin-bottom:1rem;"><em>Our natural protocol identified PayPal as the best pipe. Trust the protocol!</em></p>';
+                html += '<p style="font-size:0.85rem;color:#9ca3af;margin-bottom:1rem;">Until March 20: direct charge to PayPal each time. From March 20: pay from your SYNTH wallet (1 SYNTH = $1) in the wallet.</p>';
                 html += '<p style="font-size:0.9rem;color:#ffeaa7;margin-bottom:1rem;"><strong>Paris is for lovers. Reno is for vibers. Mark Twain\'s Post-Singularity Reno awaits you.</strong></p>';
                 if (user && user.email) {
                     html += '<div class="user-badge">Signed in as ' + user.email + ' — purchase will be linked to your account.</div>';

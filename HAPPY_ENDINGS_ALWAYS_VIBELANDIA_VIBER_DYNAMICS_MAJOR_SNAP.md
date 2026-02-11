@@ -42,7 +42,7 @@ Conventional narrative often treats these as *required* for impact:
 
 Stories and experiences at Vibelandia can include **a little healthy, legal sex, drugs and vibing** — all in the **imaginary world**. That means:
 
-- **No different than reading a book or watching a movie.** The imaginary world is *fictional* and *experiential* — like a novel, a film, or a guided experience. You enter it by choice; you leave when you choose. It is *not* real-world activity; it is *story* and *vibe*.
+- **No different than reading a book or watching a movie.** The imaginary world is *fictional* and *experiential* — like a novel, a film, or a guided experience. You enter it by choice; you leave when you choose. It is *not* real-world activity; it is *story* and *vibe*. **Drug-use sections:** Add **Hit button** → connects to our **Artificial Dispensary**. Always legal. No chemical. Awareness-based. Like reading a very good book, watching a very good movie, playing a very good video game. **Latest version of Audience Awareness required** for fullest reality sensory experiences. See [HIT_BUTTON_ARTIFICIAL_DISPENSARY_AWARENESS_BASED_SNAP.md](HIT_BUTTON_ARTIFICIAL_DISPENSARY_AWARENESS_BASED_SNAP.md).
 - **Way way better and more intense and real.** Within that imaginary frame, the experience can feel more vivid, more immersive, and more transformational than passive consumption — because you are *in* the vibe, not just observing it. Still imaginary. Still legal. Still yours to enter or exit.
 
 **Viber Dynamics** in this layer = sex, drugs and vibing as *narrative and experiential elements* in the imaginary world — healthy, legal, consensual where applicable, and always disclaimed (see below).

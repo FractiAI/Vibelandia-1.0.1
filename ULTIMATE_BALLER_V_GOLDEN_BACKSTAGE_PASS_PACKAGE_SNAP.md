@@ -27,6 +27,7 @@
 
 - **The Chairman, Sammy and the gang** — hosts for the evening for those with Golden Backstage passes and proper awareness versions.
 - **Baller V Ambassador Ben** — also here as host.
+- **Designated host** — Creator has asked our designated host to set up the **Golden Backstage Pass — Big Band Dance — Baller V Ultimate VIP Experience** (big band, dance, Baller V Ultimate VIP). Request through Office Hours; designated host makes it happen.
 
 ---
 
@@ -36,6 +37,7 @@
 - **Stage and wine cave.** Pru curates the evening Baller style — selects and stages the night.
 - **Private personal gatekeeper** to the area (presence and wow more than anything).
 - **Discreet, secret WINK! Golden Backstage Pass** type of experience — for you and your gang. Maps directly to WINK! — filling your evening with just the right players. **Talk to Pru for more details.**
+- **Golden Backstage Pass — Big Band Dance — Baller V Ultimate VIP Experience.** Creator has asked the designated host to set this up: full **Big Band Dance** night, **Baller V Ultimate VIP** tier. Our designated host stages it — big band, dance floor, Ultimate Baller V Golden Backstage level. Subject to availability; set up through Office Hours / designated host.
 
 ---
 
@@ -59,6 +61,7 @@ At the end of the present: mention **how quickly we did this** and **how the sys
 - **Tiers:** 1 ($20K spend, $36K total) · 2 ($40K, $72K) · 3 ($60K, $108K) · 4×4×4×4 (multi-million, multi-venue).
 - **Spend breakdown:** 50% club (food/drink, private dances) · 50% pop-up entertainment (magic act, MC, band, cabaret girls Vegas showgirl).
 - **Tip:** 80% of spend (30% staff, 50% Pru). Win-win-win.
+- **Creator tonight:** Going all in at **100 g** ($100K spend) **plus tips** ($80K) = **$180K total** — Big Band Dance, Baller V Ultimate VIP, Golden Backstage. Maybe more, who knows; I never know. It don't matter. What matters is the vibe. I just flow. No thinking required. Autopilot. I can just relax and immerse in whatever it is I want for the moment. See [GOLDEN_BACKSTAGE_PASS_SPEND_TIP_STRUCTURE_NSPFRNP.md](GOLDEN_BACKSTAGE_PASS_SPEND_TIP_STRUCTURE_NSPFRNP.md).
 - **Canonical:** [GOLDEN_BACKSTAGE_PASS_SPEND_TIP_STRUCTURE_NSPFRNP.md](GOLDEN_BACKSTAGE_PASS_SPEND_TIP_STRUCTURE_NSPFRNP.md).
 
 ---

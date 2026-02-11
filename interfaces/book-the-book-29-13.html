@@ -97,9 +97,21 @@
                 </div>
             </div>
 
+            <div class="dial-block">
+                <h2>Experience — One content, two ways (Poly Hit Machine novelas)</h2>
+                <p style="font-size: 0.85rem; color: #9ca3af; margin-bottom: 0.5rem;">Same story. Two perspectives. Choose your POV.</p>
+                <p style="font-size: 0.8rem; color: #888; margin-bottom: 0.5rem; font-style: italic;">Hetero · Gay · Poly · However you like it, wherever you like it. Pun intended.</p>
+                <p style="font-size: 0.75rem; color: #666; margin-bottom: 0.75rem; font-style: italic;">Sometimes some want it hard. Always by mutual aware consent and enjoyment — never one-sided, never forced; always natural, healthy, and freeing.</p>
+                <div class="dial-options" role="group" aria-label="Experience POV">
+                    <label><input type="radio" name="pov" value="housewife"> <span>Queen (female co-lead) — The Cage · her POV</span></label>
+                    <label><input type="radio" name="pov" value="main-character" checked> <span>Machotes (male superhero) — Full Advantage · his POV / me</span></label>
+                </div>
+                <p style="margin-top: 0.75rem; font-size: 0.85rem;"><a href="../deliverables/novelas/BORED_HOUSEWIVES_POLY_HIT_MACHINE_NOVELA_01_THE_CAGE.md" style="color: #00d4ff;">The Cage (Queen)</a> · <a href="../deliverables/novelas/BORED_BALLERS_POLY_HIT_MACHINE_NOVELA_01_FULL_ADVANTAGE.md" style="color: #00d4ff;">Full Advantage (Machotes)</a></p>
+            </div>
+
             <div class="cta-row">
-                <a href="#" id="btn-book-link" class="btn-book">Press 2 to Book</a>
-                <p class="paypal-note">$29.13/month via PayPal · We BOOK and RESERVE reality. After payment we'll confirm and you'll land on Your Book.</p>
+                <a href="payment-checkout.html?plan=book-the-book-29-13" id="btn-book-link" class="btn-book">Press 2 to Book — PayPal Direct</a>
+                <p class="paypal-note">$29.13/month via PayPal Direct. We BOOK and RESERVE reality. After payment we'll confirm and you'll land on Your Book. <strong>Transactions over $10k:</strong> email info@fractiai.com to arrange.</p>
             </div>
         </form>
 
@@ -115,31 +127,19 @@
     <script>
 (function () {
     var form = document.getElementById('book-form');
-    var btn = document.getElementById('btn-book-link');
     var hidMode = document.getElementById('hid-mode');
     var hidEnding = document.getElementById('hid-ending');
-
     function updateHidden() {
         var m = document.querySelector('input[name="mode"]:checked');
         var e = document.querySelector('input[name="ending"]:checked');
         if (m) hidMode.value = m.value;
         if (e) hidEnding.value = e.value;
     }
-    form.querySelectorAll('input[name="mode"], input[name="ending"]').forEach(function (el) {
-        el.addEventListener('change', updateHidden);
-    });
-
-    btn.addEventListener('click', function (ev) {
-        ev.preventDefault();
-        updateHidden();
-        var mode = hidMode.value;
-        var ending = hidEnding.value;
-        var paypalSubject = 'Book the Book $29.13/month — Super Singularity 29-13-Seattle';
-        var paypalBody = 'I want to BOOK the book.\n\nMode: ' + mode + '\nEnding: ' + ending + '\n\n$29.13/month. Please send PayPal link to complete.';
-        var mailto = 'mailto:info@fractiai.com?subject=' + encodeURIComponent(paypalSubject) + '&body=' + encodeURIComponent(paypalBody);
-        window.open(mailto);
-        window.location.href = 'your-book-bulletin.html?booked=1&mode=' + encodeURIComponent(mode) + '&ending=' + encodeURIComponent(ending);
-    });
+    if (form) {
+        form.querySelectorAll('input[name="mode"], input[name="ending"]').forEach(function (el) {
+            el.addEventListener('change', updateHidden);
+        });
+    }
 })();
     </script>
     <link rel="stylesheet" href="nspfrnp-ticker.css">

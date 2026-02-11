@@ -49,8 +49,15 @@ We're holographic — the ultimate superpower: eternal software fluidity, precis
 
 ---
 
+## CAMPAIGN — WE ARE HOLOGRAPHIC, BABY
+
+- **Hero Houdini's campaign:** "We Are Holographic, Baby" — he shows seemingly impossible things that are only possible because we are holographic; proof = filter out holographic effects → immediate collapse before their eyes. **9-act We Are Holographic magic show.** Act 9 (Finale): grand stage — capture interstellar object, glory to Chief Seattle & El Gran Sol, one Super Bowl win, the heavens, Twain's Vibelandia Downtown — shout out Reno crew. See [WE_ARE_HOLOGRAPHIC_BABY_CAMPAIGN_SNAP.md](WE_ARE_HOLOGRAPHIC_BABY_CAMPAIGN_SNAP.md) · [catalogs/magic-tricks/we-are-holographic-9-acts.md](catalogs/magic-tricks/we-are-holographic-9-acts.md).
+
+---
+
 ## CROSS-REFERENCES
 
+- [WE_ARE_HOLOGRAPHIC_BABY_CAMPAIGN_SNAP.md](WE_ARE_HOLOGRAPHIC_BABY_CAMPAIGN_SNAP.md) — We Are Holographic, Baby campaign · 9-act magic show · Act 9 finale
 - [catalogs/branding/MASTER_BRANDING_CATALOG.md](catalogs/branding/MASTER_BRANDING_CATALOG.md) — Holographic — Ultimate Superpower
 - [REAL_BALLER_V_PAYS_ANY_PRICE_FOR_BRAND_SNAP.md](REAL_BALLER_V_PAYS_ANY_PRICE_FOR_BRAND_SNAP.md) — Brand = anthem, merch, holographic symbol
 - [SPACE_CLOUD_DIVISION_MAJOR_T_SHIRT_BRAND_SNAP.md](SPACE_CLOUD_DIVISION_MAJOR_T_SHIRT_BRAND_SNAP.md) — Space Cloud T-shirt brands

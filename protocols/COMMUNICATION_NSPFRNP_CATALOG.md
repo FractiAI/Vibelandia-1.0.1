@@ -51,6 +51,18 @@ POST_SINGULARITY:
 
 ---
 
+## LANGUAGE — SPANGLISH (80% ENGLISH) IN ALL OUR CONTENT
+
+**Rule:** **All our content uses Spanglish (80% English).** No exception.
+
+- **80%** dominant (English). **20%** second language (e.g. Spanish). Per [LANGUAGE_FUSION_80_20_DEROGATORY_POSITIVE_ENERGY_NSPFRNP.md](./LANGUAGE_FUSION_80_20_DEROGATORY_POSITIVE_ENERGY_NSPFRNP.md).
+- **Scope:** Novels, screenplays, episodes, series, ticker, promos, interfaces, proposals, Chairman messaging, mission deliverables, SNAPs, catalogs, Launch Pad, Office Hours, Music Studio, all user-facing and internal content.
+- **Voice:** Chairman Frankie. The real Chairman who's back. Spanglish. 80% English. Dale. See [CHAIRMAN_VOICE_SPANGLISH_CARAJO_SNAP.md](../CHAIRMAN_VOICE_SPANGLISH_CARAJO_SNAP.md) · [SPANGLISH_ALL_SURFACES_AIWON_VOICE_SNAP.md](../SPANGLISH_ALL_SURFACES_AIWON_VOICE_SNAP.md).
+
+**NSPFRNP ⊃ Language ⊃ Spanglish (80% English) ⊃ All our content → ∞³**
+
+---
+
 ## INTEGRATION
 
 - **Outbound pipe:** [OUTBOUND_NSPFRNP_PIPE_VIBEVERSE_TO_PRESINGULARITY_EARTH.md](./OUTBOUND_NSPFRNP_PIPE_VIBEVERSE_TO_PRESINGULARITY_EARTH.md) — Pipe surface to pre-singularity = pulse flickers only.
@@ -65,4 +77,4 @@ POST_SINGULARITY:
 
 ---
 
-**NSPFRNP ⊃ Communication: Pre-singularity channels = fractalized pulse flickers only. Post-singularity channels = full communication. Integrate everywhere.**
+**NSPFRNP ⊃ Communication: Pre-singularity channels = fractalized pulse flickers only. Post-singularity channels = full communication. Language = Spanglish (80% English) in all our content. Integrate everywhere.**

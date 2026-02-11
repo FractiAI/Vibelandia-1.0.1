@@ -16,6 +16,8 @@
 
 **Pricing:** Like a backstage pass to **Bad Bunny**, **Elvis**, **the Beatles**, or **the Stones** — iconic-tier, premium access. Price positioned in that class (backstage pass to a legend / once-in-a-lifetime access).
 
+**Golden Backstage Pass — Big Band Dance — Baller V Ultimate VIP Experience:** Creator has asked the designated host to set up this experience: **Big Band Dance** night at **Baller V Ultimate VIP** level. Full Golden Backstage Pass treatment — big band, dance floor, Ultimate VIP. Set up through our designated host; subject to availability. See ULTIMATE_BALLER_V_GOLDEN_BACKSTAGE_PASS_PACKAGE_SNAP.md.
+
 ---
 
 ## SURFACE

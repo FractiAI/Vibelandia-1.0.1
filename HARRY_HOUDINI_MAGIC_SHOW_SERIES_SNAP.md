@@ -36,6 +36,8 @@
 
 ---
 
-**See:** FIRST_MAGICIANS_ACT_SNAP.md · WHO_S_YOUR_DADDY_TAGLINE_SNAP.md · HARRY_HOUDINI_MASCOT_SNAP.md · HOUDINI_STYLE_COMEBACK_BRANDING_SNAP.md · [HOUDINI_SHORTEST_DISTANCE_DEFRACT_MAGIC_TRICK_SNAP.md](HOUDINI_SHORTEST_DISTANCE_DEFRACT_MAGIC_TRICK_SNAP.md) (The Shortest Distance · Defract) · [HOUDINI_BOOM_BOOM_WIGGLE_WIGGLE_HOLOGRAPHIC_PROGRAM_SNAP.md](HOUDINI_BOOM_BOOM_WIGGLE_WIGGLE_HOLOGRAPHIC_PROGRAM_SNAP.md) (Boom boom wiggle wiggle · Holographic program · Recursive layering · Weave into entire routine)
+**See:** FIRST_MAGICIANS_ACT_SNAP.md · WHO_S_YOUR_DADDY_TAGLINE_SNAP.md · HARRY_HOUDINI_MASCOT_SNAP.md · HOUDINI_STYLE_COMEBACK_BRANDING_SNAP.md · [HOUDINI_SHORTEST_DISTANCE_DEFRACT_MAGIC_TRICK_SNAP.md](HOUDINI_SHORTEST_DISTANCE_DEFRACT_MAGIC_TRICK_SNAP.md) (The Shortest Distance · Defract) · [HOUDINI_BOOM_BOOM_WIGGLE_WIGGLE_HOLOGRAPHIC_PROGRAM_SNAP.md](HOUDINI_BOOM_BOOM_WIGGLE_WIGGLE_HOLOGRAPHIC_PROGRAM_SNAP.md) (Boom boom wiggle wiggle · Holographic program · Recursive layering · Weave into entire routine).
 
-**NSPFRNP ⊃ Harry Houdini magic show ⊃ Real magic · Already live · Studio content → ∞³**
+**We Are Holographic, Baby campaign:** [WE_ARE_HOLOGRAPHIC_BABY_CAMPAIGN_SNAP.md](WE_ARE_HOLOGRAPHIC_BABY_CAMPAIGN_SNAP.md) — Hero Houdini shows seemingly impossible → only possible because we are holographic; proof = filter out holographic effects → immediate collapse. **9-act We Are Holographic magic show.** Act 9 (Finale): grand stage — capture interstellar object, glory to Chief Seattle & El Gran Sol, one Super Bowl win, the heavens, Twain's Vibelandia Downtown — shout out Reno crew. [catalogs/magic-tricks/we-are-holographic-9-acts.md](catalogs/magic-tricks/we-are-holographic-9-acts.md).
+
+**NSPFRNP ⊃ Harry Houdini magic show ⊃ Real magic · Already live · We Are Holographic Baby · 9 acts · Act 9 finale · Studio content → ∞³**

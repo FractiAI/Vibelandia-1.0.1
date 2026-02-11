@@ -1,21 +1,23 @@
 {
   "meta": {
-    "description": "Main NSPFRNP ticker feed. Ticker feeds broadcast on OH line. 120 BPS chirp. Week-long 9 spot. Big Papi paid the tab. He got the cojones. Reno Experience + all feeds announced continuous — in addition to other feeds, not replacing. Longer feeds between pauses (6 min feed, 30 sec break). Sol (Content Editor) manages.",
+    "description": "Main NSPFRNP ticker feed. Ticker feeds broadcast on OH line. 120 BPS chirp. Week-long 9 spot. Big Papi paid the tab. He got the cojones. Reno Experience + all feeds announced continuous — in addition to other feeds, not replacing. Long-form story feeds with breaks: full messages/stories on feed; breaks like commercial breaks (pause or substitute); interruptions with symbology + short announcement then back to story. Sol (Content Editor) manages.",
     "source": "Press releases, major SNAP highlights, new residencies, Reno Experience full rollout, git commit highlights, division thresholds",
     "link_rule": "Every item has a URL — click to get details.",
     "advisory_note": "executive_advisory drives index EXECUTIVE ADVISORY and tsunami banner — keep in sync with ticker top stories."
   },
   "executive_advisory": {
-    "headline": "Quién tiene los cojones",
-    "body": "Ticker feeds on OH line. 120 BPS chirp. Week-long 9 spot. Big Daddy picked up the $5B tab for the winning team and honors Benito. Seahawks back office offered a chance to pick up the tab — switching to their victory BPS chirp (their victory song). Time is almost up. Who got the biggest cojones?",
-    "url": "quien-tiene-los-cojones.html",
+    "headline": "NEW NOVEL & NOVELA · TOMORROW'S PARADE · TOP BILLING · HERO PERRY",
+    "body": "Fully load the launch. The new book. The novel and novela in series. New kind of experience. Post-singularity. Who got da cojones? Link → The novel. The big cojones. The novella. All feeds through tomorrow. C-Ad online. Produce the miracle. Thanks Hero Perry.",
+    "url": "3i-chief-seattle-mission.html",
     "links": [
-      { "text": "The feed", "url": "quien-tiene-los-cojones.html" },
-      { "text": "OH Line", "url": "oh-line.html" },
-      { "text": "Live Pulse", "url": "sing-pulse.html" },
-      { "text": "We Get It", "url": "we-get-it-bad-bunny-golden-bunnies.html" }
+      { "text": "The Novel & Novela · Mission", "url": "3i-chief-seattle-mission.html" },
+      { "text": "Ultimate Magic → Book the Book", "url": "ultimate-magic-houdini-book-the-book.html" },
+      { "text": "Bored Housewives · Novelas", "url": "bored-housewives-poly-hit-machine.html" },
+      { "text": "OH Line", "url": "oh-line.html" }
     ]
   },
+  "tomorrows_parade_top_billing_ticker": "TOP BILLING · NEW NOVEL & NOVELA · TOMORROW'S PARADE · HERO PERRY · WHO GOT DA COJONES? · THE NOVEL · THE BIG COJONES · THE NOVELLA · ALL FEEDS · C-AD ONLINE · NSPFRNP.",
+  "ultimate_magic_top_billing_ticker": "TOP BILLING · hERO hARRY hOUDINI uLTIMATE mAGIC pRESENTS · SUPER SINGULARITY 29-13-SEATTLE · WHO GOT DA COJONES? DON'T BUY — BOOK THE BOOK · $29.13/MONTH · SEATTLE · PUERTO RICO · PRESS 2 TO BOOK · FULL FLOOD ALL CHANNELS · NSPFRNP.",
   "oh_line_broadcast_ticker": "TICKER FEEDS NOW BROADCAST ON OH LINE. 120 BPS CHIRP. WEEK-LONG 9 SPOT. BIG PAPI PAID THE TAB. HE GOT THE COJONES. SING! AGENT | AGÜEYBANÁ 1493/2026.",
   "quien_tiene_los_cojones_ticker": "WHO GOT DA COJONES? BIG PAPI PAID THE TAB. HE GOT THE COJONES. WEEK-LONG 9 SPOT. 120 BPS CHIRP. SUPER BOWL OVER. POST-GAME GLOBAL 7.83 Hz. SING! AGENT | AGÜEYBANÁ 1493/2026.",
   "sovereign_proclamation_header": "THE SOVEREIGN PROCLAMATION: QUIÉN TIENE LOS COJONES.",
@@ -78,8 +80,12 @@
   "chief_seattle_blast_body": "CHIEF SEATTLE HAS ARRIVED. 29-13 IGNITION. MARCH 16 JUPITER HILL RADIUS LOCK. NEW MISSION LIVE ON ALL FEEDS THROUGH MARCH 16. SOUNDTRACK · NOVEL · SERIES EPISODE 1 TODAY. GOLD HEART RADIANT. NO HONOR TO BACK OFFICE — ALL GLORY TO THE ANCESTOR AND THE HERO. NSPFRNP.",
   "chief_seattle_blast_full": "3I/CHIEF SEATTLE INTERSTELLAR CAPTURE. CHIEF SEATTLE (SI'AHL) — SUQUAMISH, DUWAMISH · NORTH AMERICAN & MEDITERRANEAN MERIDIANS & NORTH · TEAM JOINING EGS TROPICAL & SOUTH. CHIEF SEATTLE HAS ARRIVED. 29-13 IGNITION. MARCH 16 JUPITER HILL RADIUS LOCK. BLAST ON ALL FEEDS TODAY THROUGH MARCH 16. NSPFRNP.",
   "chief_seattle_29_13_receipt": "THE SEAHAWKS 29-13 SCORE IS THE RECEIPT FOR THE 1855 LAND TAX. CHIEF SEATTLE HAS ARRIVED TO COLLECT. 3I/CHIEF SEATTLE · MARCH 16 LOCK. SING! AGENT | AGÜEYBANÁ 1493/2026.",
+  "bison_aurora_breaking_story": "AT THIS BREAKING STORY OF THE BISON APPEARING OVER THE NORTH PAUL! AURORA! BEHOLD! HOUDINI SPEAKS. FROM THE OTHER SIDE. BOREALIS BISON 01 · CERTIFICATE OF MIGRATION · AR 4366 · NSPFRNP.",
   "chairman_frankie_spanglish_carajo": "CHAIRMAN'S VOICE · CHAIRMAN FRANKIE · SPANGLISH CARAJO! NEW T-SHIRT BRAND + HIT SONG. YOU KNOW WHO. DALE. NSPFRNP.",
   "items": [
+    { "label": "AT THIS BREAKING STORY OF THE BISON APPEARING OVER THE NORTH PAUL! AURORA! BEHOLD! HOUDINI SPEAKS. FROM THE OTHER SIDE. →", "url": "borealis-bison-migration.html", "type": "bison_aurora_breaking_story", "division": "space_cloud", "priority": 1 },
+    { "label": "TOP BILLING · NEW NOVEL & NOVELA · TOMORROW'S PARADE · HERO PERRY · WHO GOT DA COJONES? · THE NOVEL · THE BIG COJONES · THE NOVELLA · ALL FEEDS →", "url": "3i-chief-seattle-mission.html", "type": "tomorrows_parade_new_novel_novela", "division": "content", "priority": 1 },
+    { "label": "TOP BILLING · hERO hARRY hOUDINI uLTIMATE mAGIC pRESENTS · SUPER SINGULARITY 29-13-SEATTLE · WHO GOT DA COJONES? BOOK THE BOOK $29.13/MONTH · SEATTLE · PUERTO RICO · PRESS 2 TO BOOK →", "url": "ultimate-magic-houdini-book-the-book.html", "type": "ultimate_magic_top_billing", "division": "content", "priority": 1 },
     { "label": "CHAIRMAN'S VOICE · CHAIRMAN FRANKIE · SPANGLISH CARAJO! NEW T-SHIRT BRAND + HIT SONG. YOU KNOW WHO. DALE. NSPFRNP.", "label_spanglish": "La voz del Chairman · Chairman Frankie · ¡Spanglish carajo! Nueva marca de playera + hit. Ya sabes quién. Dale. NSPFRNP.", "url": "music-studio.html", "type": "chairman_frankie_spanglish_carajo", "division": "content", "priority": 0 },
     { "label": "CHIEF SEATTLE (SI'AHL) — SUQUAMISH & DUWAMISH LEADER. DOMAIN: SALISH SEA, PACIFIC NORTHWEST. TRIBES: SUQUAMISH, DUWAMISH. WE RECOGNIZE HIM: THE SPEECH, STEWARDSHIP, 1855, 29-13 RECEIPT. WE HONOR HIM AS OUR NORTH AMERICAN & MEDITERRANEAN MERIDIANS & NORTH — TEAM JOINING EGS (TROPICAL MERIDIANS & SOUTH). NORTH + SOUTH, ONE TEAM. NSPFRNP.", "url": "3i-chief-seattle-mission.html", "type": "chief_seattle_promo_intro", "division": "space_cloud", "priority": 0 },
     { "label": "3I/CHIEF SEATTLE INTERSTELLAR CAPTURE. CHIEF SEATTLE HAS ARRIVED. 29-13 IGNITION. MARCH 16 JUPITER HILL RADIUS LOCK. BLAST ON ALL FEEDS TODAY THROUGH MARCH 16. NEW SOUNDTRACK · NOVEL · SERIES EP 1 TODAY. GOLD HEART RADIANT. NSPFRNP.", "url": "3i-chief-seattle-mission.html", "type": "chief_seattle_blast", "division": "space_cloud", "priority": 0 },

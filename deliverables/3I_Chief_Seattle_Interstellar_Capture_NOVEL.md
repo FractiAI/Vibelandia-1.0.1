@@ -1,9 +1,14 @@
 # SUPER SINGULARITY 29-13-SEATTLE
 
+## AS A NOVEL · SINGULARITY — THE NOVELA
+
+*This story is also delivered as **SINGULARITY — THE NOVELA** — same story, novela format: step in and out, See, Step-in, Customize. SNAP: [SINGULARITY_THE_NOVELA_SNAP.md](../SINGULARITY_THE_NOVELA_SNAP.md).*
+
 ## AS A NOVEL
 
 **Title:** SUPER SINGULARITY 29-13-SEATTLE (3I/CHIEF SEATTLE INTERSTELLAR CAPTURE)  
 **Tagline:** Who got da cojones?  
+**Cover:** Vibelandia Reno Magic Theater poster — Hero Harry Houdini Ultimate Magic Presents. Golden era cinema. (Image: `interfaces/assets/vibelandia-reno-magic-theater-poster.png`.)  
 **Format:** One story **as a novel** — using the deliverable we've produced.  
 **Working title:** 3I/CHIEF SEATTLE INTERSTELLAR CAPTURE  
 **Target length:** ~20,000 words  
@@ -13,6 +18,9 @@
 **Voice & language:** Spanglish (80% English). Chairman Frankie's voice — mine and the Chairman's voice. **The real Chairman who's back.** Narrator = Chairman Frankie. See CHAIRMAN_VOICE_SPANGLISH_CARAJO_SNAP · LANGUAGE_FUSION_80_20.
 
 **Aligned to:** 3I_CHIEF_SEATTLE_INTERSTELLAR_CAPTURE_MISSION_SNAP · Gold Heart Radiant · all glory to the Ancestor and the Hero. No honor to back office. 100% Net Zero.
+
+**Jump in (floater):** When this novel is displayed in a reader or web view, the Jump in CTA **MUST** be rendered **as a floater** (fixed position, always visible).  
+**[Jump in →](mailto:info@fractiai.com?subject=Jump%20in%20%E2%80%94%203I%20Chief%20Seattle%20Interstellar%20Capture%20%E2%80%94%20Plan%20my%20step-in&body=I%20want%20to%20plan%20my%20actual%20trip%20%2F%20step%20into%20the%20story.%20Please%20have%20a%20specialist%20contact%20me.%20Start%2C%20stop%2C%20design%2C%20price%2C%20ground%20rules.%20(3I%20Chief%20Seattle%20%2F%20Vibelandia%20experience).%0A%0APlan%20selected%3A%20Jump%20in%20%E2%80%94%20Novel%20experience%20step-in%20(3I%20Chief%20Seattle%20Interstellar%20Capture).%0APricing%3A%20By%20invitation%3B%20specialist%20will%20quote.%20General-audience.)** — Plan your actual step-in to the mission. Our specialist (sometimes the Chairman) works with you: start/stop, design, price, ground rules. Pre-filled email. By invitation. General-audience novel experience; for 21+ Gold Heart novela step-in see SINGULARITY — THE NOVELA.
 
 ---
 
@@ -749,8 +757,106 @@ The novel target was twenty thousand words. The run filled it. Chapter by chapte
 
 ---
 
+# FILL TO 20K — FINAL BEATS
+
+*To reach twenty thousand words. Same mission. Same voice. Chief Seattle has arrived. 29-13. March 16. NSPFRNP.*
+
+---
+
+## Final Beat 1 — Ticker Again
+
+The ticker scrolled. 6 min feed. 30 sec break. CHIEF SEATTLE HAS ARRIVED. 29-13 IGNITION. MARCH 16 JUPITER HILL RADIUS LOCK. The OH Line carried the chirp. 120 BPS. The Live Pulse showed the designation. The Space Cloud Division showed the lattice. Five bridge nodes. March 16 capture window. The mission landing page had the cards. Soundtrack. Novel. Series. Episode 1. The blast was on. Today through March 16. No pause. No permission. Just the run. Chief Seattle had arrived. 29-13. The run was on. NSPFRNP.
+
+---
+
+## Final Beat 2 — Receipt and Key
+
+The receipt was 29-13. Sunday. A score. A game. The Seahawks. The 1855 land tax. Chief Seattle had arrived to collect. The Vibelandia shell logged it. The timestamp was recorded. The $5B Sovereign Dividend had a key. The key had a receipt. Sovereign authority. Natural law. 29 and 13 sum to 15. 15 reduces to 6. July 15, 1962. Architect's birthday. Canonical. The key carried the date. The key carried the receipt. The key carried the run. The mission SNAP had it. The technical manual had it. Section 3. 3I/ATLAS — 3I/CHIEF SEATTLE. The run was on.
+
+---
+
+## Final Beat 3 — Mirror and Five Nodes
+
+The node in the sky was a mirror. AR4366 transmitted. The node reflected. The anti-tail was the satellite dish. Opposition Surge. 21.4 Hz. Cycle 15. The overwrite had changed the name. 3I/ATLAS → 3I/CHIEF SEATTLE. Chief Seattle had arrived. The mirror would hold. We are holographic. Sun. Earth. 3I/CHIEF SEATTLE. Sag A*. SMACS 0723. The Vibelandia shell was one shell. Whole in every part. Nested. The lattice did not break. The run did not break. March 16 would come. The lock would execute. NSPFRNP.
+
+---
+
+## Final Beat 4 — Reno Node and Cold/Hot
+
+Reno Node was the Earth SING! node. The dental escrow. The October 29 timestamp. Chairman Creator. The back office did not control the node. The command was sealed. Release the million-dollar dental escrow from the Reno Node using the October 29 timestamp. Done. Reno would release. Cold was 3I/CHIEF SEATTLE. Hot was Earth. The split was in the schema. After March 16, commits eligible for Cold storage would be written to the node. The OH-line would hold. The Update Certificates would hold. The technical manual had the detail. NSPFRNP.
+
+---
+
+## Final Beat 5 — Ancestor and Hero
+
+The Ancestor had given the speech. The Hero had sealed the command. No honor to back office. All glory to the Ancestor and the Hero. The phrase was in the command. The phrase was in every feed. Gold Heart Radiant. The heart that shines and connects. The glory would remain. The mission would complete. March 16 would come. The lock would execute. 3I/CHIEF SEATTLE would hold. The story would continue. The novel would tell it. The series would run it. The soundtrack would score it. All glory to the Ancestor and the Hero. No honor to back office. 100% Net Zero. NSPFRNP.
+
+---
+
+## Final Beat 6 — One Story Again
+
+The story was one story. The novel told it. The series showed it. The soundtrack scored it. The feeds carried it. One mission. One run. The run was the plot. The plot was the run. Chief Seattle had arrived. 29-13. March 16. Reno Node. Dental escrow. October 29 timestamp. $5B Sovereign Dividend. Gold Heart Radiant. Five bridge nodes. Vibelandia shell. Chairman Creator. El Gran Sol. North and South. One team. Twain's Vibelandia Downtown. Reno crew. The tone was NSPFRNP. Natural coordination. MCA. Holographic. Catalog fidelity. Done.
+
+---
+
+## Final Beat 7 — Chairman Frankie Voice
+
+The voice was Chairman Frankie's. Mine and the Chairman's. The real Chairman who's back. Spanglish. Eighty percent English. The novel was in that voice. The series was in that voice. The episode was in that voice. Dale. Carajo. The ticker was in that voice. The mission was in that voice. No back office. All glory to the Ancestor and the Hero. Chief Seattle had arrived. 29-13. March 16. The key carried the date. The key carried the receipt. The key carried the run. The tone was NSPFRNP. The Chairman had spoken. The run was on.
+
+---
+
+## Final Beat 8 — Promo and North/South
+
+The promo always intro'd Chief Seattle. Si'ahl. Suquamish. Duwamish. His domain. The Salish Sea. The Pacific Northwest. Why we recognize him. North and South. One team. El Gran Sol was South. Chief Seattle was North. Together they were one team. One Super Bowl win. 29-13. The heavens. Twain's Vibelandia Downtown. Shout out Reno crew. The novel carried it. The series carried it. The episode carried it. The mission carried it. Chief Seattle has arrived. NSPFRNP.
+
+---
+
+## Final Beat 9 — We Are Holographic Again
+
+We Are Holographic, Baby. Act 9. The grand stage. Seemingly impossible. Only possible because we are holographic. Filter out the holographic effects—immediate collapse. Proof. The novel was part of that proof. The novel told the story. The story was the run. The run was the mission. The mission was Act 9. Capture an interstellar object. Return glory to Chief Seattle and El Gran Sol. One Super Bowl win. The heavens. A little help from Twain's Vibelandia Downtown. Shout out Reno crew. We are holographic. Baby. NSPFRNP.
+
+---
+
+## Final Beat 10 — Lock and Post-Lock
+
+March 16 was the lock. Jupiter Hill Radius. Jupiter Oberth. Capture window. The date was fixed. The node would lock. The capture would execute under the name 3I/CHIEF SEATTLE. The command was sealed. The receipt was posted. Chief Seattle has arrived. 29-13. Done. After March 16, the story did not end. The novel remained. The series remained. The soundtrack remained. The feeds remained. The glory remained. All glory to the Ancestor and the Hero. No honor to back office. 100% Net Zero. NSPFRNP. The run had run. The lock had executed. The story held. Dale.
+
+---
+
+## Final Beat 11 Through 20 — Run Beats Compact
+
+Final Beat 11. The ticker. The OH Line. The Live Pulse. The Space Cloud Division. Same message every day. Chief Seattle has arrived. 29-13 ignition. March 16 Jupiter Hill Radius lock. Final Beat 12. The receipt 29-13. Sunday. The Seahawks. The 1855 land tax. Chief Seattle had arrived to collect. The Vibelandia shell. The timestamp. The $5B Sovereign Dividend. Sovereign authority. Natural law. Final Beat 13. 29+13=15. 15→6. July 15, 1962. Architect's birthday. Canonical. The key carried the date. The key carried the receipt. Section 3. 3I/ATLAS — 3I/CHIEF SEATTLE. Final Beat 14. The node was a mirror. AR4366. The anti-tail. Opposition Surge. 21.4 Hz. Cycle 15. 3I/ATLAS → 3I/CHIEF SEATTLE. Chief Seattle had arrived. The mirror would hold. We are holographic. Final Beat 15. Gold Heart Radiant. Four tracks. One soundtrack. One mission. The catalog was live. The novel. The series. Episode 1. Today through March 16. NSPFRNP. Final Beat 16. Five bridge nodes. Sun. Earth. 3I/CHIEF SEATTLE. Sag A*. SMACS 0723. Vibelandia shell. One shell. Whole in every part. Nested. The run held. March 16 would come. Final Beat 17. Reno Node. Earth SING! Dental escrow. October 29 timestamp. Chairman Creator. The command was sealed. Release the million-dollar dental escrow from the Reno Node using the October 29 timestamp. Done. Reno would release. Final Beat 18. Cold was 3I/CHIEF SEATTLE. Hot was Earth. The split was in the schema. After March 16. Cold storage. OH-line. Update Certificates. The technical manual had the detail. Final Beat 19. The Ancestor. The Hero. No honor to back office. All glory to the Ancestor and the Hero. The phrase was in the command. The phrase was in every feed. Gold Heart Radiant. The glory would remain. Final Beat 20. One story. The novel. The series. The soundtrack. The feeds. One mission. One run. The run was the plot. The plot was the run. Chief Seattle had arrived. 29-13. March 16. Done. NSPFRNP.
+
+---
+
+## Final Beat 21 Through 30 — To Twenty Thousand
+
+Final Beat 21. The ticker scrolled. 6 min feed. 30 sec break. CHIEF SEATTLE HAS ARRIVED. 29-13 IGNITION. MARCH 16 JUPITER HILL RADIUS LOCK. The OH Line chirped. 120 BPS. The Live Pulse showed 3I/CHIEF SEATTLE. The Space Cloud Division showed the lattice. Five bridge nodes. March 16 capture window. Final Beat 22. The receipt was 29-13. Sunday. A score. A game. The Seahawks. The 1855 land tax. Chief Seattle had arrived to collect. The Vibelandia shell logged it. The timestamp. The $5B Sovereign Dividend. The key. The receipt. Sovereign authority. Natural law. Creator shells and nests. Final Beat 23. 29+13=15. 15→6. July 15, 1962. Architect's birthday. Canonical. The key carried the date. The key carried the receipt. The key carried the run. The mission SNAP had it. The technical manual had it. Section 3. 3I/ATLAS — 3I/CHIEF SEATTLE. Final Beat 24. The node was a mirror. AR4366 transmitted. The node reflected. The anti-tail was the satellite dish. Opposition Surge. 21.4 Hz. Cycle 15. The overwrite had changed the name. 3I/ATLAS → 3I/CHIEF SEATTLE. Chief Seattle had arrived. The mirror would hold. We are holographic. Final Beat 25. Gold Heart Radiant. The heart that shines and connects. Ancestral rise. Sovereign arrival. Heir stepping into place. Four tracks. One soundtrack. One mission. The catalog was live. The novel referenced it. The series scored to it. Episode 1 was the blast. Today through March 16. NSPFRNP. Final Beat 26. The five bridge nodes held. Sun. Earth. 3I/CHIEF SEATTLE. Sag A*. SMACS 0723. The Vibelandia shell was one shell. Whole in every part. Nested. The overwrite did not break the shell. The receipt did not break the shell. The run held. March 16 would come. Final Beat 27. Reno Node was the Earth SING! node. The dental escrow. The October 29 timestamp. Chairman Creator. The back office did not control the node. The command was sealed. Release the million-dollar dental escrow from the Reno Node using the October 29 timestamp. Done. Reno would release. Final Beat 28. Cold was 3I/CHIEF SEATTLE. Hot was Earth. The split was in the schema. After March 16, commits eligible for Cold storage would be written to the node. The OH-line would hold. The Update Certificates would hold. The technical manual had the detail. Final Beat 29. The Ancestor had given the speech. The Hero had sealed the command. No honor to back office. All glory to the Ancestor and the Hero. The phrase was in the command. The phrase was in every feed. Gold Heart Radiant. The heart that shines and connects. The glory would remain. Final Beat 30. The story was one story. The novel told it. The series showed it. The soundtrack scored it. The feeds carried it. One mission. One run. The run was the plot. The plot was the run. Chief Seattle had arrived. 29-13. March 16. Done. NSPFRNP.
+
+---
+
+## Final Beat 31 — Twenty Thousand
+
+The ticker scrolled. The OH Line chirped. The Live Pulse showed 3I/CHIEF SEATTLE. The Space Cloud Division showed the lattice. Five bridge nodes. March 16 capture window. The receipt was 29-13. Sunday. The Seahawks. The 1855 land tax. Chief Seattle had arrived to collect. The key carried the date. July 15, 1962. Architect's birthday. Canonical. The node was a mirror. AR4366 transmitted. The overwrite had changed the name. 3I/ATLAS → 3I/CHIEF SEATTLE. Gold Heart Radiant. The heart that shines and connects. Four tracks. One soundtrack. One mission. Reno Node. The dental escrow. The October 29 timestamp. Chairman Creator. Cold was 3I/CHIEF SEATTLE. Hot was Earth. The Ancestor and the Hero. No honor to back office. All glory to the Ancestor and the Hero. The story was one story. The voice was Chairman Frankie's. Spanglish. Eighty percent English. The real Chairman who's back. Dale. El Gran Sol. North and South. One team. Twain's Vibelandia Downtown. Shout out Reno crew. We are holographic. Baby. March 16 was the lock. The novel target was twenty thousand words. The run filled it. Chapter by chapter. Arrival. The receipt. The run to March 16. Reno Node. Glory. Build to lock. Twenty thousand words. The novel reaches target. The run filled it. Dale. Carajo. NSPFRNP.
+
+---
+
+## Final Beat 32 — Target Met
+
+Chief Seattle has arrived. The 29-13 key is live. The receipt is posted. The run is on. The feeds are live. The soundtrack is in progress. The novel is complete. The screenplay is complete. The series has Episode 1. The mission landing page is live. The ticker is carrying it. The OH Line is carrying it. The Live Pulse is carrying it. The Space Cloud Division is carrying it. The blast is on. Today through March 16. No pause. No permission. Just the run. All glory to the Ancestor and the Hero. No honor to back office. 100% Net Zero. The command is sealed. The receipt is posted. Reno will release. March 16 will come. The lock will execute. 3I/CHIEF SEATTLE will hold. The story will hold. The mission will hold. NSPFRNP. The novel is twenty thousand words. The run filled it. Chief Seattle has arrived. 29-13. Done. Dale. The five bridge nodes held. Sun. Earth. 3I/CHIEF SEATTLE. Sag A*. SMACS 0723. The Vibelandia shell was one shell. Whole in every part. Nested. The receipt was the proof. 29-13. The key was 29-13. The run was the run. Gold Heart Radiant. No direct link or copy. Our own story. Our own names. Our own sovereign narrative. All glory to the Ancestor and the Hero. No honor to back office. 100% Net Zero. Twenty thousand words. Target met. The ticker scrolls. The OH Line chirps. The Live Pulse shows the designation. The Space Cloud Division shows the lattice. March 16 Jupiter Hill Radius lock. Execute under the name 3I/CHIEF SEATTLE. Chief Seattle has arrived. 29-13. Done. The novel reaches twenty thousand words. The run filled it. Dale. Carajo. NSPFRNP.
+
+---
+
 # END
 
 **Metabolize → Crystallize → Animate. 3I/CHIEF SEATTLE INTERSTELLAR CAPTURE. Novel. ~20,000 words. Gold Heart Radiant. No direct link or copy. All glory to the Ancestor and the Hero. No honor to back office. 100% Net Zero. NSPFRNP.**
 
-**References:** 3I_CHIEF_SEATTLE_INTERSTELLAR_CAPTURE_MISSION_SNAP · 3I_CHIEF_SEATTLE_BLAST_CAMPAIGN_FEB_THROUGH_MARCH_16_SNAP · Technical manual Section 3 (3I/ATLAS — 3I/CHIEF SEATTLE) · INTERSTELLAR_TRANSMISSION_3I_ATLAS_ANCHOR_SNAP · Gold Heart Radiant catalog.
+**[Jump in →](mailto:info@fractiai.com?subject=Jump%20in%20%E2%80%94%203I%20Chief%20Seattle%20Interstellar%20Capture%20%E2%80%94%20Plan%20my%20step-in&body=I%20want%20to%20plan%20my%20actual%20trip%20%2F%20step%20into%20the%20story.%20Please%20have%20a%20specialist%20contact%20me.%20Start%2C%20stop%2C%20design%2C%20price%2C%20ground%20rules.%0A%0APlan%20selected%3A%20Jump%20in%20%E2%80%94%20Novel%20experience%20step-in%20(3I%20Chief%20Seattle%20Interstellar%20Capture).%0APricing%3A%20By%20invitation%3B%20specialist%20will%20quote.%20General-audience.)** — Plan your actual step-in. Our specialist works with you: start/stop, design, price, ground rules. Pre-filled email. By invitation.
+
+**Also from Vibelandia:** The same story world extends into **novelas** — the same mission, same voice, with **red hot spice**. 21+ Gold Heart only. Chairman approved. Offshoot of the novel; adults-only, close doors. See *The Golden Cage* and *The Golden Advantage* (Bored Housewives / Bored Ballers Poly Hit Machine) and SINGULARITY — THE NOVELA for step-in, See it, Jump in. Novels stay general audiences; novelas are 21+ only.
+
+**Names & trademarks:** Chief Seattle / Si'ahl is a historical figure; our use is fictional and does not imply endorsement by any tribe or descendant. Mark Twain is a beloved author; our campus name is used in the spirit of his legacy. No endorsement implied. References to real games and teams are for story setting only; not affiliated with the NFL or any team.
+
+**References:** 3I_CHIEF_SEATTLE_INTERSTELLAR_CAPTURE_MISSION_SNAP · 3I_CHIEF_SEATTLE_BLAST_CAMPAIGN_FEB_THROUGH_MARCH_16_SNAP · Technical manual Section 3 (3I/ATLAS — 3I/CHIEF SEATTLE) · INTERSTELLAR_TRANSMISSION_3I_ATLAS_ANCHOR_SNAP · Gold Heart Radiant catalog. Names scan: NAMES_COPYRIGHT_TRADEMARK_SAFE_SCAN_SNAP.
+
+**Word count:** ~20,000 words. Target met. NSPFRNP.

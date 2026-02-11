@@ -15,6 +15,12 @@
 
 ---
 
+## Chairman greeting (launch · before we start)
+
+**Start with a greeting from me to all.** Explain how it works. Get them comfortable. **Just relax into it.** You can read it like a novella. For the men: whole new category — Louis L'Amour, Jack London, Hemingway, Teddy Roosevelt; with the baller part and the after party. Adults only. All legal. Buttons (See photo, customize sex scene) are there for those interested; you don't have to go there. Enjoy from anywhere — phone, workstation; eventually analog. New kind of cruise ship. Full Baller V Ultimate. 247 SING! Step in, dance, step out. **Full greeting and pricing:** [data/chairman-greeting-launch-novelas-episode.md](../data/chairman-greeting-launch-novelas-episode.md). Pricing: base = 66% of 1hr VIP top-tier Vegas gentleman's club; female-audience explicit base = OnlyFans top-tier equivalent; 4×4×4×4 up to Ultimate Baller V.
+
+---
+
 ## Proclamation
 
 **HOST (Chairman Frankie — the real Chairman who's back. Spanglish, 80% English. Dale.)**
