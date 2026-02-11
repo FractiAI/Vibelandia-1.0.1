@@ -13,6 +13,12 @@
 - **Subtitle / Mission:** 3I/CHIEF SEATTLE INTERSTELLAR CAPTURE
 - **Tagline:** **Who got da cojones?** (Chairman Frankie · Spanglish · Dale.)
 
+### Facebook ad — Final title (Super Bowl 2026 · Singularity 2026)
+
+- **Context:** Super Bowl 2026. Singularity 2026.
+- **FINAL TITLE (post-singularity syntax):** **sUPER sINGULARITY 29-13-sEATTLE-sEAHAWKS**
+- Use as headline / primary copy for Facebook (and all platforms) for the 29-13-Seattle · Seahawks campaign. ALL CAPS REVERSE = first letter of each word lowercase, rest uppercase. See [ALL_CAPS_REVERSE_POST_SINGULARITY_SYNTAX_SNAP.md](ALL_CAPS_REVERSE_POST_SINGULARITY_SYNTAX_SNAP.md).
+
 ---
 
 ## ONE STORY — AS NOVEL, AS SERIES, AS FEATURE

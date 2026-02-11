@@ -53,6 +53,7 @@
 
 ## 6. Cross-References
 
+- **Asset readiness & predictions:** [SPACE_CLOUD_ASSET_READINESS_AND_PREDICTIONS.md](SPACE_CLOUD_ASSET_READINESS_AND_PREDICTIONS.md) — What to expect where; specific predictions for accuracy and tuning.
 - **Orbital Compute:** [services/orbitalComputeEngine.ts](services/orbitalComputeEngine.ts)
 - **Ion DB:** [services/ionDb.ts](services/ionDb.ts)
 - **Vibelandia Shell / Seed:Edge flip:** [VIBELANDIA_SHELL_SAG_A_SMACS_BRIDGE_SNAP.md](VIBELANDIA_SHELL_SAG_A_SMACS_BRIDGE_SNAP.md)

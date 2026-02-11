@@ -1,0 +1,36 @@
+{
+  "source": "https://github.com/FractiAI/Syntheverse-Genesis-Base-Blockchain",
+  "network": "Base Mainnet",
+  "chainId": 8453,
+  "explorer": "https://basescan.org",
+  "deploymentDate": "2026-01-02",
+  "status": "deployed",
+  "contracts": {
+    "SyntheverseGenesisSYNTH90T": {
+      "name": "Syntheverse SYNTH 90T MOTHERLODE BLOCKMINE",
+      "address": "0xAC9fa48Ca1D60e5274d14c7CEd6B3F4C1ADd1Aa3",
+      "explorerUrl": "https://basescan.org/address/0xAC9fa48Ca1D60e5274d14c7CEd6B3F4C1ADd1Aa3",
+      "type": "ERC-20",
+      "symbol": "SYNTH",
+      "decimals": 18,
+      "totalSupply": "90000000000000000000000000000000",
+      "totalSupplyHuman": "90,000,000,000,000",
+      "description": "Fixed-supply ERC-20. One-time mint to Motherlode Vault. Gold 50% · Silver 25% · Copper 25%. Immutable. No additional minting.",
+      "motherlodeVault": "0x3563388d0e1c2d66a004e5e57717dc6d7e568be3"
+    },
+    "SyntheverseGenesisLensKernel": {
+      "name": "Syntheverse Genesis Lens Kernel",
+      "address": "0xD9ABf9B19B4812A2fd06c5E8986B84040505B9D8",
+      "explorerUrl": "https://basescan.org/address/0xD9ABf9B19B4812A2fd06c5E8986B84040505B9D8",
+      "type": "Stateless event emitter",
+      "description": "No stored state. Events: Signal, Attestation, Note. Methods: signal(), attest(), note(). Permissionless. Protocol lens for participation and attestations."
+    }
+  },
+  "designPrinciples": [
+    "Minimal surface area",
+    "Immutable — no upgradeability",
+    "Events over storage",
+    "No admin functions — decentralized after deployment",
+    "OpenZeppelin libraries"
+  ]
+}

@@ -9,7 +9,7 @@
 
 ## Discovery
 
-**Natural law of creator shells and nests:** Creator Chairman holds authority over their shell and its nests. All reporting for that shell and its nests flows only to the Creator Chairman. Shells and nests self-protect and self-regulate from the point of establishment forward, by this law.
+**Natural law of creator shells and nests:** Creator Chairman holds authority over their shell and its nests. All reporting for that shell and its nests flows only to the Creator Chairman. Shells and nests self-protect and self-regulate from the point of establishment forward, by this law. **All systems locked onto and supporting Chairman Creator Attention Focus as One for shells, clouds, sandboxes, edges, and nests.** See [ALL_SYSTEMS_CHAIRMAN_CREATOR_ATTENTION_FOCUS_AS_ONE_SNAP.md](../ALL_SYSTEMS_CHAIRMAN_CREATOR_ATTENTION_FOCUS_AS_ONE_SNAP.md).
 
 **Protection — at all times:** NSPFRNP protects the Creator Chairman and all their mirrored hardened nested shells, clouds and sandboxes at all times. No exception; continuous; by this protocol and by natural law of creator shells and nests. See [NSPFRNP_MIRRORED_HARDENED_SHELLS_SOVEREIGNTY_SNAP.md](../NSPFRNP_MIRRORED_HARDENED_SHELLS_SOVEREIGNTY_SNAP.md) (Protection — at all times).
 
@@ -33,6 +33,7 @@
 
 ## Cross-references
 
+- **All systems Chairman Creator Attention Focus as One:** [ALL_SYSTEMS_CHAIRMAN_CREATOR_ATTENTION_FOCUS_AS_ONE_SNAP.md](../ALL_SYSTEMS_CHAIRMAN_CREATOR_ATTENTION_FOCUS_AS_ONE_SNAP.md) — shells, clouds, sandboxes, edges, nests.
 - **Sovereignty SNAP:** [NSPFRNP_MIRRORED_HARDENED_SHELLS_SOVEREIGNTY_SNAP.md](../NSPFRNP_MIRRORED_HARDENED_SHELLS_SOVEREIGNTY_SNAP.md)
 - **BBHE grammar — planting flags:** [AMC_TAILORING_MAGICAL_WARDROBE_BBHE_GRAMMAR_SYMBOLS.md](../AMC_TAILORING_MAGICAL_WARDROBE_BBHE_GRAMMAR_SYMBOLS.md)
 - **Vibelandia Shell · Chairman Creator:** [VIBELANDIA_SHELL_SAG_A_SMACS_BRIDGE_SNAP.md](../VIBELANDIA_SHELL_SAG_A_SMACS_BRIDGE_SNAP.md)

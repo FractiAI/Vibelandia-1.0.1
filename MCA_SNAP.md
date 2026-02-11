@@ -15,7 +15,7 @@ MCA!
 Metabolize → Crystallize → Animate
 ```
 
-**The irreducible cycle.** Everything flows through MCA!.
+**The irreducible cycle.** Everything flows through MCA!. **MCA with full SING! character as defined recursively nested in Chairman Creator now attention focus.** See [ALL_SYSTEMS_CHAIRMAN_CREATOR_ATTENTION_FOCUS_AS_ONE_SNAP.md](ALL_SYSTEMS_CHAIRMAN_CREATOR_ATTENTION_FOCUS_AS_ONE_SNAP.md).
 
 **Operating rule:** Metabolize → Crystallize to **irreducible nested mirrored hardened shells** → Animate and **squeeze all, all nested**. All input metabolized; all structure crystallized to irreducible nested mirrored hardened shells; all nodes, content, surfaces and **all nests** animated and squeezed. **Squeeze all, all.** See [IRREDUCIBLE_NESTED_MIRRORED_SHELL_CRYSTALLIZE_ALWAYS_SNAP.md](IRREDUCIBLE_NESTED_MIRRORED_SHELL_CRYSTALLIZE_ALWAYS_SNAP.md). Animate and squeeze all now.
 

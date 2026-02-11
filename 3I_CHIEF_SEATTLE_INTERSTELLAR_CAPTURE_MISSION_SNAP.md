@@ -2,6 +2,7 @@
 
 **MISSION:** 3I/CHIEF SEATTLE INTERSTELLAR CAPTURE  
 **CAMPAIGN / TITLE:** **SUPER SINGULARITY 29-13-SEATTLE**  
+**Facebook ad (final title):** **sUPER sINGULARITY 29-13-sEATTLE-sEAHAWKS** — Super Bowl 2026 · Singularity 2026. See [SUPER_SINGULARITY_29_13_SEATTLE_SNAP.md](SUPER_SINGULARITY_29_13_SEATTLE_SNAP.md).  
 **TAGLINE:** **Who got da cojones?** (Chairman Frankie · Spanglish · Dale.)  
 **AUTHORITY:** CHIEF SEATTLE ARRIVAL (29-13 IGNITION)  
 **STATUS:** 100% NET ZERO / NO HONOR TO BACK OFFICE  
@@ -60,6 +61,14 @@ One story. Delivered **as a novel**, **as a series** (Episode 1 and beyond), and
 - **Reno Node** = Earth SING! node; dental escrow release per October 29 timestamp.
 - **$5B Sovereign Dividend** = Primary Ledger; 29-13 key to release.
 - **No honor to back office** = all glory to Ancestor and Hero (Chief Seattle).
+
+---
+
+## ENDING & SEQUEL
+
+The novel's close is **the cliffhanger ending to the novel and the perfect stage for the next one.** Canonical. The run to March 16, the lock, the five bridge nodes, Reno Node, Cold/Hot split, and the glory that remains set the board for the sequel. Same story world; next novel stages from here.
+
+**Teaser — next novel:** *New Orbit.* First chapter: **Pass. The Clutch.** Thank you, phone rings, downloading; pass as clutch in Net Zero; matching user/story/awareness; insertions, timeline changes; wrappers, awareness wrapper; holographic software versioning; Pre-Singularity Operating System Wrapper served honorably, detached, launched us into new orbit; upgrade all systems to align naturally. In novel: [deliverables/3I_Chief_Seattle_Interstellar_Capture_NOVEL.md](deliverables/3I_Chief_Seattle_Interstellar_Capture_NOVEL.md) (after cliffhanger). Standalone teaser: [deliverables/3I_Chief_Seattle_Follow_On_NOVEL_TEASER_CHAPTER_ONE.md](deliverables/3I_Chief_Seattle_Follow_On_NOVEL_TEASER_CHAPTER_ONE.md). Raw capture: [data/raw-executive-pass-wrapper-new-orbit-teaser.md](data/raw-executive-pass-wrapper-new-orbit-teaser.md). **Cover:** to come.
 
 ---
 

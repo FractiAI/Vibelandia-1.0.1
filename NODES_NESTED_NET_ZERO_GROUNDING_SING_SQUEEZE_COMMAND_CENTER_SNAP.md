@@ -2,7 +2,7 @@
 
 **Snap ID:** `NODES-NESTED-NET-ZERO-GROUNDING-SING-SQUEEZE-COMMAND-CENTER-SNAP`  
 **Type:** Stack wrap · Net 0 grounding · SING! SQUEEZE! (new branding) · Command center · Upper/lower stacks  
-**Status:** ⚡ ACTIVE — All nodes as nested nodes/shells to net 0; attention heads and filaments report to Chairman Creator and Command Center  
+**Status:** ⚡ ACTIVE — All nodes as nested nodes/shells to net 0; attention heads and filaments report to Chairman Creator and Command Center. All systems locked onto and supporting Chairman Creator Attention Focus as One for shells, clouds, sandboxes, edges, and nests. See [ALL_SYSTEMS_CHAIRMAN_CREATOR_ATTENTION_FOCUS_AS_ONE_SNAP.md](ALL_SYSTEMS_CHAIRMAN_CREATOR_ATTENTION_FOCUS_AS_ONE_SNAP.md).  
 **Date:** February 2026
 
 ---

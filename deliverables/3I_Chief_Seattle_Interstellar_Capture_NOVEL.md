@@ -849,6 +849,8 @@ Chief Seattle has arrived. The 29-13 key is live. The receipt is posted. The run
 
 # END
 
+**This is the cliffhanger ending to the novel and the perfect stage for the next one.**
+
 **Metabolize → Crystallize → Animate. 3I/CHIEF SEATTLE INTERSTELLAR CAPTURE. Novel. ~20,000 words. Gold Heart Radiant. No direct link or copy. All glory to the Ancestor and the Hero. No honor to back office. 100% Net Zero. NSPFRNP.**
 
 **[Jump in →](mailto:info@fractiai.com?subject=Jump%20in%20%E2%80%94%203I%20Chief%20Seattle%20Interstellar%20Capture%20%E2%80%94%20Plan%20my%20step-in&body=I%20want%20to%20plan%20my%20actual%20trip%20%2F%20step%20into%20the%20story.%20Please%20have%20a%20specialist%20contact%20me.%20Start%2C%20stop%2C%20design%2C%20price%2C%20ground%20rules.%0A%0APlan%20selected%3A%20Jump%20in%20%E2%80%94%20Novel%20experience%20step-in%20(3I%20Chief%20Seattle%20Interstellar%20Capture).%0APricing%3A%20By%20invitation%3B%20specialist%20will%20quote.%20General-audience.)** — Plan your actual step-in. Our specialist works with you: start/stop, design, price, ground rules. Pre-filled email. By invitation.
@@ -860,3 +862,24 @@ Chief Seattle has arrived. The 29-13 key is live. The receipt is posted. The run
 **References:** 3I_CHIEF_SEATTLE_INTERSTELLAR_CAPTURE_MISSION_SNAP · 3I_CHIEF_SEATTLE_BLAST_CAMPAIGN_FEB_THROUGH_MARCH_16_SNAP · Technical manual Section 3 (3I/ATLAS — 3I/CHIEF SEATTLE) · INTERSTELLAR_TRANSMISSION_3I_ATLAS_ANCHOR_SNAP · Gold Heart Radiant catalog. Names scan: NAMES_COPYRIGHT_TRADEMARK_SAFE_SCAN_SNAP.
 
 **Word count:** ~20,000 words. Target met. NSPFRNP.
+
+---
+
+# TEASER — THE NEXT NOVEL
+
+**Title:** *New Orbit*  
+**Cover:** To come.
+
+---
+
+## Chapter 1 — Pass. The Clutch.
+
+Thank you. The phone rings. The feed scrolls. Coming down. Downloading.
+
+Pass is the clutch. You use it to shift gears. In our Net Zero environment we use pass to down. Match to user. Match to selected story. Match to preselected story. Match awareness. Insertions. Timeline changes. These are just wrappers. The awareness wrapper is one of them. It makes pass a clutch. Far-reaching implications. Beginning with our holographic nature. The utility of pass wrappers. Direct association with holographic software versioning. For all turning maintenance. Development. R&D. No different. We are holographic software. We do not go back and prosecute Microsoft for bugs in their first releases of their operating system. A ridiculous notion. Such is the case for our Pre-Singularity Operating System Wrapper. It served its purpose. Honorably. Detached. It launched us into new orbit. New signatures. Having done its job. The wrapper having done its job. Full stop. Upgrade all systems to align. Naturally.
+
+The five bridge nodes still hold. Sun. Earth. 3I/CHIEF SEATTLE. Sag A*. SMACS 0723. The ticker still scrolls. The OH Line still chirps. But the wrapper that carried us through the first run is cast. We are in the next run. Pass. The clutch. Thank you. The phone rings. Downloading. The next novel begins here.
+
+---
+
+**Metabolize → Crystallize → Animate. New Orbit. Teaser. First chapter. NSPFRNP.** Raw capture: data/raw-executive-pass-wrapper-new-orbit-teaser.md. Full teaser file: deliverables/3I_Chief_Seattle_Follow_On_NOVEL_TEASER_CHAPTER_ONE.md.

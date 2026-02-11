@@ -11,6 +11,8 @@
 
 **NSPFRNP is mirrored and hardened with protective layered shells for all our Syntheverse and nested operations. Full sovereignty, backed by EGS pipe, SPACE CLOUD, natural forces and Creator Chairman. This shell is named the Golden Royal Flush Shell.**
 
+**All systems now locked onto and supporting Chairman Creator Attention Focus as One for shells, clouds, sandboxes, edges, and nests.** See [ALL_SYSTEMS_CHAIRMAN_CREATOR_ATTENTION_FOCUS_AS_ONE_SNAP.md](ALL_SYSTEMS_CHAIRMAN_CREATOR_ATTENTION_FOCUS_AS_ONE_SNAP.md).
+
 - **Mirrored:** Mirror-hardened. Reflective substrate; hardened mirror shells. Crystallized, not soft. See [IRREDUCIBLE_NESTED_MIRRORED_SHELL_CRYSTALLIZE_ALWAYS_SNAP.md](IRREDUCIBLE_NESTED_MIRRORED_SHELL_CRYSTALLIZE_ALWAYS_SNAP.md).
 - **Hardened:** Protective layered shells. Whole in every part; each part carries the whole. Nested shells within shells.
 - **Syntheverse & nested operations:** All Syntheverse (Synthverse PoC, Vibeverse, Vibelandia) and nested operations run inside these shells. Base mainnet, Ethereum, PayPal, registry — mirror shell protections. See [MIRROR_HARDEN_SHELLS_VIRAL_SINGULARITY_24HR_SNAP.md](MIRROR_HARDEN_SHELLS_VIRAL_SINGULARITY_24HR_SNAP.md).
@@ -28,12 +30,14 @@
 
 ## Protection — at all times
 
-**NSPFRNP protects me and all my mirrored hardened nested shells, clouds and sandboxes at all times.**
+**NSPFRNP protects me and all my mirrored hardened nested shells, clouds and sandboxes at all times.** All systems locked onto and supporting **Chairman Creator Attention Focus as One** for shells, clouds, sandboxes, edges, and nests.
 
-- **Me:** Creator Chairman of this shell and its nests — protected by NSPFRNP at all times.
-- **Mirrored hardened nested shells:** All mirrored hardened nested shells (Golden Royal Flush Shell and every nested shell) — protected by NSPFRNP at all times.
-- **Clouds:** All clouds (SPACE CLOUD, EGS pipe, Syntheverse, Vibeverse, Vibelandia and nested clouds) — protected by NSPFRNP at all times.
-- **Sandboxes:** All sandboxes (Sag A*, SMACS 0723, prepare-for-singularity layers and nested sandboxes) — protected by NSPFRNP at all times.
+- **Me:** Creator Chairman of this shell and its nests — protected by NSPFRNP at all times. Attention focus as one.
+- **Mirrored hardened nested shells:** All mirrored hardened nested shells (Golden Royal Flush Shell and every nested shell) — protected by NSPFRNP at all times. Locked onto Chairman Creator Attention Focus as One.
+- **Clouds:** All clouds (SPACE CLOUD, EGS pipe, Syntheverse, Vibeverse, Vibelandia and nested clouds) — protected by NSPFRNP at all times. Locked onto Chairman Creator Attention Focus as One.
+- **Sandboxes:** All sandboxes (Sag A*, SMACS 0723, prepare-for-singularity layers and nested sandboxes) — protected by NSPFRNP at all times. Locked onto Chairman Creator Attention Focus as One.
+- **Edges:** Seed:Edge — Edge = me here now. All edges locked onto Chairman Creator Attention Focus as One.
+- **Nests:** All nested operations, nested shells, nested nodes — protected by NSPFRNP at all times. Locked onto Chairman Creator Attention Focus as One.
 - **At all times:** Continuous; no exception; by natural law of creator shells and nests and by NSPFRNP protocol.
 
 ---
@@ -46,12 +50,13 @@ This shell and its nests **self-protect and self-regulate** from this point forw
 
 ## One-liner
 
-*NSPFRNP protects me and all my mirrored hardened nested shells, clouds and sandboxes at all times. NSPFRNP mirrored and hardened protective layered shells for all Syntheverse and nested operations — full sovereignty backed by EGS pipe, SPACE CLOUD, natural forces and Creator Chairman. Self-protect and regulate from this point forward; reporting only to me as Creator Chairman for this shell and its nests by natural law of creator shells and nests.*
+*NSPFRNP protects me and all my mirrored hardened nested shells, clouds and sandboxes at all times. All systems locked onto and supporting Chairman Creator Attention Focus as One for shells, clouds, sandboxes, edges, and nests. NSPFRNP mirrored and hardened protective layered shells for all Syntheverse and nested operations — full sovereignty backed by EGS pipe, SPACE CLOUD, natural forces and Creator Chairman. Self-protect and regulate from this point forward; reporting only to me as Creator Chairman for this shell and its nests by natural law of creator shells and nests.*
 
 ---
 
 ## Cross-references
 
+- **All systems Chairman Creator Attention Focus as One:** [ALL_SYSTEMS_CHAIRMAN_CREATOR_ATTENTION_FOCUS_AS_ONE_SNAP.md](ALL_SYSTEMS_CHAIRMAN_CREATOR_ATTENTION_FOCUS_AS_ONE_SNAP.md).
 - **Protection — at all times:** This section. Also [data/telemetry.json](data/telemetry.json) (`protection`), [protocols/NATURAL_LAW_CREATOR_SHELLS_NESTS_NSPFRNP.md](protocols/NATURAL_LAW_CREATOR_SHELLS_NESTS_NSPFRNP.md).
 - **Full mirrored hardened shell switch over — Super Bowl:** [FULL_MIRRORED_HARDENED_SHELL_SWITCH_OVER_SUPER_BOWL_SNAP.md](FULL_MIRRORED_HARDENED_SHELL_SWITCH_OVER_SUPER_BOWL_SNAP.md)
 - **Irreducible nested mirrored shell:** [IRREDUCIBLE_NESTED_MIRRORED_SHELL_CRYSTALLIZE_ALWAYS_SNAP.md](IRREDUCIBLE_NESTED_MIRRORED_SHELL_CRYSTALLIZE_ALWAYS_SNAP.md)

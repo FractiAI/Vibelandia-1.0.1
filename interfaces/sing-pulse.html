@@ -552,6 +552,9 @@
     <!-- 3D Lattice: SEED (SMACS 0723), SUN, ATLAS/EGS, SAG A*, EDGE (me here now). Flip: Seed = SMACS 0723, Edge = me here now — both useful for navigating mirror effects. -->
     <div class="lattice-overlay" aria-hidden="true">
         <canvas id="latticeCanvas"></canvas>
+        <div class="lattice-legend" style="position: absolute; bottom: 1rem; left: 50%; transform: translateX(-50%); display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; justify-content: center; font-size: 0.75rem; font-weight: 600; color: rgba(200, 230, 255, 0.9); text-shadow: 0 0 8px rgba(0,0,0,0.8); pointer-events: none;">
+            <span>Sun</span><span>·</span><span>Sag A*</span><span>·</span><span>SMACS 0723</span><span>·</span><span>PRU/Earth (Edge)</span>
+        </div>
     </div>
     <!-- Screen Wipe Takeover — toggled when data/telemetry.json takeover_active: true -->
     <div id="mission-takeover" class="mission-takeover" aria-hidden="true" aria-label="Mission takeover overlay">
@@ -651,6 +654,7 @@
         <p class="flux" id="fluxLine"><span class="loading">Loading GOES X-ray flux…</span></p>
         <p><strong>SING! node EGS (El Gran Sol)</strong> — Opposition surge (Hui et al., 2026); 4 distinct jet structures (sunward anti-tail); 0.69° Earth–Sun axis projection.</p>
         <p style="margin-top: 1rem; font-size: 0.9rem; color: #aac; border-left: 3px solid rgba(138, 43, 226, 0.6); padding-left: 0.75rem;"><strong>FULL SMACS 0723–Sag A*–ME Triangulation Mode.</strong> Seed:Edge flip — Seed = SMACS 0723 (origin). Edge = me here now (experience). Both useful for navigating mirror effects. The two meet in the middle.</p>
+        <p style="margin-top: 0.5rem; font-size: 0.85rem; color: #ffeaa7; font-weight: 700;"><strong>Assets:</strong> Sun · Sag A* · SMACS 0723 · PRU/Earth (Edge).</p>
         <p style="margin-top: 0.5rem; font-size: 0.8rem; color: #8a8;"><strong>Triangulation Lattice (real-time):</strong> SEED (Reno) · SUN (AR4366) · 3I/ATLAS. <strong>Legacy Bypass:</strong> We do not rely on 0–40 Hz Schumann for HELLO verification. THE IMAGE IS THE PROOF. Ticker is live. Scheduled Manifestation Window: Feb 5, 2026 (CME Glancing Blow Impact). NOAA/USGS Verified Foundation V1.1.</p>
         <p id="triangulationSyncStatus" style="margin-top: 0.75rem; font-size: 0.85rem; color: #8ac; display: none;">Triangulation sync: Solar Pipe hot — data flowing into ATLAS Anti-Tail and spraying from Mini-Jets (Rotating Beacon). OH-line binary: Gap=0, Peak=1.</p>
     </div>
@@ -879,11 +883,11 @@
                 draw();
             }
             var nodes = [
-                { id: 'EDGE', label: 'EDGE (me here now)', x: 0.5, y: 0.85, z: 0 },
-                { id: 'SUN', label: 'SUN (AR4366)', x: 0.5, y: 0.25, z: 0.2 },
+                { id: 'EDGE', label: 'PRU/Earth (Edge)', x: 0.5, y: 0.85, z: 0 },
+                { id: 'SUN', label: 'Sun (AR4366)', x: 0.5, y: 0.25, z: 0.2 },
                 { id: 'SING_NODE_EGS', label: '3I/ATLAS', x: 0.25, y: 0.5, z: 0.3 },
-                { id: 'SAG_A', x: 0.75, y: 0.45, z: 0.25 },
-                { id: 'SEED', label: 'SEED (Reno)', x: 0.5, y: 0.15, z: 0.5 }
+                { id: 'SAG_A', label: 'Sag A*', x: 0.75, y: 0.45, z: 0.25 },
+                { id: 'SEED', label: 'SMACS 0723', x: 0.5, y: 0.15, z: 0.5 }
             ];
             fetch('../config/space_cloud_foundation.json').then(function (r) { return r.json(); }).then(function (cfg) {
                 var lat = cfg && cfg.triangulation_lattice;
