@@ -9,12 +9,12 @@
 
 ---
 
-## COVER + FIRST CHAPTER ONLY (public availability)
+## COVER + FIRST CHAPTER FREE SANDBOX (public availability)
 
-**Novelas are only available publicly as cover and first chapter.** Full novela text (all chapters) is **only** available **after** the user has confirmed they are 21+. Before 21+ confirmation, surfaces must show only:
+**Novel and novelas provide the 1st chapter as a free sandbox.** Cover and first chapter are free for everyone to try. Full novela text (all chapters) is **only** available **after** the user has confirmed they are 21+. Before 21+ confirmation, surfaces must show only:
 
 - **Cover** (title, byline, branding, 21+ notice)
-- **First chapter** (teaser/sample)
+- **First chapter** (free sandbox — free for everyone to try)
 
 No chapters beyond the first, and no naughty buttons (See it, Let's fuck, Jump in, Customize), until 21+ is confirmed. After confirmation (at checkout, booking request, or wallet), the user may access the full novela. Implementation: gate full novela content and buttons behind the same 21+ confirmation used for purchase/access.
 
@@ -57,7 +57,7 @@ All of the above require age confirmation before access or purchase.
 
 - **Short:** *"21+ only. Age confirmation required at checkout."*
 - **Long:** *"This product and all naughty buttons (See, fuck seen, customize story) are for adults 21 and over. You must confirm you are 21 or older before purchase or access."*
-- **Availability:** *"Novelas: cover and first chapter only until you confirm 21+. Full novela and buttons after confirmation."*
+- **Availability:** *"Novel and novelas: 1st chapter free sandbox — cover and first chapter free for everyone; full novela and buttons after 21+ confirmation."*
 
 ---
 

@@ -28,7 +28,7 @@
 ## WHERE THIS APPLIES
 
 - **Novela product:** The Golden Cage, The Golden Advantage, SINGULARITY — THE NOVELA, and any future Poly Hit Machine / Gold Heart novelas. State clearly: *Novelas free for WINK! and squeeze! members. Buttons (See, Let's fuck, Step-in, Customize) are not free — charge per edge.*
-- **Availability:** Novelas are **only** available publicly as **cover and first chapter**; full novela and all buttons **only after 21+ confirmation**. See [NOVELA_21_PLUS_AGE_CONFIRMATION_NAUGHTY_BUTTONS_SNAP.md](NOVELA_21_PLUS_AGE_CONFIRMATION_NAUGHTY_BUTTONS_SNAP.md).
+- **Availability:** Novel and novelas provide **1st chapter free sandbox** — cover and first chapter free for everyone; full novela and all buttons **only after 21+ confirmation**. See [NOVELA_21_PLUS_AGE_CONFIRMATION_NAUGHTY_BUTTONS_SNAP.md](NOVELA_21_PLUS_AGE_CONFIRMATION_NAUGHTY_BUTTONS_SNAP.md).
 - **Pricing copy:** When showing novela vs buttons: *Novela (the read) free for WINK! and squeeze! members. Buttons charged for everyone.*
 - **Interfaces:** bored-housewives-poly-hit-machine.html, bored-ballers (if present), wink-concierge-kiosk, and any novela or Book the Book surface.
 

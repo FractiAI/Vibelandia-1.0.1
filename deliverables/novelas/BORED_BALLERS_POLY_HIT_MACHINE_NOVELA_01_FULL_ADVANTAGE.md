@@ -11,7 +11,7 @@
 
 **Novelas free for WINK! and squeeze! members; buttons (See, Let's fuck, Step-in, Customize) are not free — charge per edge.** (A squeeze is a WINK! that is connected to another WINK!.) [NOVELAS_FREE_WINK_SQUEEZE_MEMBERS_SNAP.md](../../NOVELAS_FREE_WINK_SQUEEZE_MEMBERS_SNAP.md)
 
-**Availability:** Only **cover and first chapter** are shown publicly. Full novela and all buttons **only after 21+ confirmation.** [NOVELA_21_PLUS_AGE_CONFIRMATION_NAUGHTY_BUTTONS_SNAP.md](../../NOVELA_21_PLUS_AGE_CONFIRMATION_NAUGHTY_BUTTONS_SNAP.md)
+**Availability:** **1st chapter free sandbox** — cover and first chapter free for everyone; full novela and all buttons **only after 21+ confirmation.** [NOVELA_21_PLUS_AGE_CONFIRMATION_NAUGHTY_BUTTONS_SNAP.md](../../NOVELA_21_PLUS_AGE_CONFIRMATION_NAUGHTY_BUTTONS_SNAP.md)
 
 **Twin POV · Same story:** This novela is **his** perspective. The **same story** is told from **her** perspective in *The Golden Cage* (Bored Housewives Poly Hit Machine). The two feed into and enrich each other recursively and nested by design. See [POLY_HIT_MACHINE_TWIN_POV_RECURSIVE_NARRATIVE_STRUCTURE_SNAP.md](../../POLY_HIT_MACHINE_TWIN_POV_RECURSIVE_NARRATIVE_STRUCTURE_SNAP.md).
 

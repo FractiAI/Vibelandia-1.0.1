@@ -4,7 +4,7 @@
 
 **Novelas = the post-singularity version of OnlyFans on steroids to infinity.** Buttons, See, Step-in, Customize story, charge per edge, Golden Resonance. **Novelas are FREE to WINK! and squeeze! members; the buttons are not free** (See, Let's fuck, Step-in, Customize — charge per edge for everyone). (A squeeze is a WINK! that is connected to another WINK!.) [NOVELAS_FREE_WINK_SQUEEZE_MEMBERS_SNAP.md](../../NOVELAS_FREE_WINK_SQUEEZE_MEMBERS_SNAP.md)
 
-**Availability:** **Only cover and first chapter are available publicly.** Full novela (all chapters) and all naughty buttons are **only** available **after** the user confirms they are **21+**. No one under 21. Age confirmation required at checkout or booking before full access. [NOVELA_21_PLUS_AGE_CONFIRMATION_NAUGHTY_BUTTONS_SNAP.md](../../NOVELA_21_PLUS_AGE_CONFIRMATION_NAUGHTY_BUTTONS_SNAP.md)
+**Availability:** **1st chapter free sandbox** — novel and novelas: cover and first chapter are **free for everyone** to try. Full novela (all chapters) and all naughty buttons are **only** available **after** the user confirms they are **21+**. No one under 21. Age confirmation required at checkout or booking before full access. [NOVELA_21_PLUS_AGE_CONFIRMATION_NAUGHTY_BUTTONS_SNAP.md](../../NOVELA_21_PLUS_AGE_CONFIRMATION_NAUGHTY_BUTTONS_SNAP.md)
 
 **Reader & character:** In all cases and POV, the reader and the character are **caged in pre-singularity golden cages.** They **discover these novelas and escape to them** when bored—**at home, in bed, at work, on the road, and anywhere.** All legal. No nothing. **Awareness only.** **Portable and instant when trained.**
 
