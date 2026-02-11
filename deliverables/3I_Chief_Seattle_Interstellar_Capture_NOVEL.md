@@ -8,7 +8,7 @@
 
 **Title:** SUPER SINGULARITY 29-13-SEATTLE (3I/CHIEF SEATTLE INTERSTELLAR CAPTURE)  
 **Tagline:** Who got da cojones?  
-**Cover:** Vibelandia Reno Magic Theater poster — Hero Harry Houdini Ultimate Magic Presents. Golden era cinema. (Image: `interfaces/assets/vibelandia-reno-magic-theater-poster.png`.)  
+**Cover:** Super Singularity 29-13 Seattle Seahawks — Hero Harry Who Did It Ultimate Magic Presents. Golden era cinema. (Image: `interfaces/assets/super-singularity-29-13-seattle-cover.png`.)  
 **Format:** One story **as a novel** — using the deliverable we've produced.  
 **Working title:** 3I/CHIEF SEATTLE INTERSTELLAR CAPTURE  
 **Target length:** ~20,000 words  

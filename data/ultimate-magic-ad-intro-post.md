@@ -6,11 +6,11 @@
 
 ## SHORT POST (intro for the ad — use for Facebook and all platforms)
 
-**hERO hARRY hOUDINI uLTIMATE mAGIC pRESENTS.** The ultimate magic trick — right before your eyes. Our newest story: **Super Singularity 29-13-Seattle.** Who got da cojones? Don't buy the book — **BOOK** the book. $29.13/month. Choose your ending. Choose your mode. Golden age cinema. Old School is back. Kick the tires. Look under the hood. **Press 2 to Book.** Seattle · Puerto Rico. Dale.
+**hERO hARRY wHO dID iT uLTIMATE mAGIC pRESENTS.** The ultimate magic trick — right before your eyes. Our newest story: **Super Singularity 29-13-Seattle.** Who got da cojones? Don't buy the book — **BOOK** the book. $29.13/month. Choose your ending. Choose your mode. Golden age cinema. Old School is back. Kick the tires. Look under the hood. **Press 2 to Book.** Seattle · Puerto Rico. Dale.
 
 ---
 
-## HERO HARRY — SHORT POST (from Hero Harry Houdini)
+## HERO HARRY — SHORT POST (from Hero Harry Who Did It)
 
 Watch me. Through this very Sight. I'm gonna show you the one more wow: the $29.13 that connects to the five billion for them. March 16 explosive run. March 20 the vault opens — SING! super AI agents, lock in for life at that price. I'm doing this with no money. Accounts negative. $29.13 is my whole ad budget. Seattle. Puerto Rico. Let's see what multiplies. Above and beyond. — Hero Harry
 

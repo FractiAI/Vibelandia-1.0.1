@@ -26,7 +26,7 @@
 
 **★ TOP BILLING ALL CHANNELS · Super Singularity 29-13 novel**
 
-Then: hERO hARRY hOUDINI uLTIMATE mAGIC pRESENTS · Book the Book $29.13 · March 16 then March 20, etc.
+Then: hERO hARRY wHO dID iT uLTIMATE mAGIC pRESENTS · Book the Book $29.13 · March 16 then March 20, etc.
 
 ---
 

@@ -60,6 +60,7 @@
     var periodTotal = totals.period_total != null ? totals.period_total : (totals.monthly_subtotal || 0) + (totals.usage_subtotal || 0);
 
     var html = '<section class="sing-config-footer" aria-label="My monthly bill">';
+    html += '<p class="sing-config-footer-top-tag" style="font-size:0.75rem;text-transform:uppercase;letter-spacing:0.2em;color:rgba(212,175,55,0.95);font-weight:800;margin:0 0 0.5rem 0;">TAINO MADE</p>';
     html += '<h2 class="sing-config-footer-title">' + (d.title || 'My monthly bill') + '</h2>';
     html += '<p class="sing-config-bill-intro">' + (d.intro || fallbackBill.intro) + '</p>';
 

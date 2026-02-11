@@ -25,6 +25,22 @@
     color: #7fff7f;
 }
 
+/* In-flow ticker (e.g. Office Hours): above footer so it's readable, no overlay on iPhone */
+.nspfrnp-console-ticker.nspfrnp-console-ticker-in-flow {
+    position: static;
+    margin: 1rem 0 0;
+    border-radius: 0 0 8px 8px;
+}
+
+/* iPhone / small viewports: ticker in flow so footer doesn't overlay it; move ticker above footer in DOM on key pages */
+@media (max-width: 768px) {
+    .nspfrnp-console-ticker {
+        position: static;
+        margin: 1rem 0 0;
+        border-radius: 0 0 8px 8px;
+    }
+}
+
 .nspfrnp-console-ticker .ticker-scroll-wrap {
     flex: 1;
     min-width: 0;

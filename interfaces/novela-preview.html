@@ -44,6 +44,7 @@
 </head>
 <body>
     <script src="tsunami-advisory-inject.js"></script>
+    <script src="creator-read-bypass.js"></script>
     <div class="wrap">
         <p class="back"><a href="bored-housewives-poly-hit-machine.html">← Novelas</a> · <a href="book-the-book-29-13.html">Book the Book</a> · <a href="office-hours.html">Office Hours</a> · <a href="../index.html">Home</a></p>
 
@@ -111,7 +112,8 @@
         var access = params.get('access');
         var gate = document.getElementById('gate');
         var content = document.getElementById('content');
-        if (access === 'goldheart' && gate && content) {
+        var creatorRead = typeof window.isCreatorRead === 'function' && window.isCreatorRead();
+        if ((access === 'goldheart' || creatorRead) && gate && content) {
             gate.classList.add('hidden');
             content.classList.remove('hidden');
         }
