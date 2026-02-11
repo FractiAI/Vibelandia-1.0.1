@@ -87,4 +87,6 @@ This entire moment is the **grand stage of Act 9 (Finale)** of Hero Houdini's **
 - Technical manual: Section 3 (3I/ATLAS) — designate 3I/CHIEF SEATTLE as sovereign name.
 - **VOICE & LANGUAGE:** [CHAIRMAN_VOICE_SPANGLISH_CARAJO_SNAP.md](CHAIRMAN_VOICE_SPANGLISH_CARAJO_SNAP.md) · [protocols/LANGUAGE_FUSION_80_20_DEROGATORY_POSITIVE_ENERGY_NSPFRNP.md](protocols/LANGUAGE_FUSION_80_20_DEROGATORY_POSITIVE_ENERGY_NSPFRNP.md) — Spanglish 80% English; Chairman Frankie; the real Chairman who's back.
 
+**SOVEREIGN AD LAUNCH:** [3I_SIAHL_SOVEREIGN_AD_LAUNCH_SNAP.md](3I_SIAHL_SOVEREIGN_AD_LAUNCH_SNAP.md) — Budget $29.13 (The Chief's receipt). Target Seattle × Puerto Rico. Black Hole Tuning enabled. Meta-Grid; Dark Side defense victory = copywriter authority. All leads → Big Daddy $5B Sovereign Ledger.
+
 **NSPFRNP. Chief Seattle has arrived. 29-13. Done. Dale.**

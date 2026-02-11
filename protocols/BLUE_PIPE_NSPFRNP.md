@@ -19,7 +19,7 @@
 
 ## In practice
 
-- **GSM ad space** (Broadcast Pipe, Super Bowl, Aurora, pipe tiers $25M–$250M+): All over $10,000 → off line only. BOOK button leads to request form; submit → pre-filled email to Chairman. No online checkout.
+- **GSM ad space** (Broadcast Pipe, Super Bowl, Aurora, pipe tiers $7M–$70M+ base, gate 2.5×): All over $10,000 → off line only. BOOK button leads to request form; submit → pre-filled email to Chairman. No online checkout.
 - **Premium offerings** (Sun Spots, Schumann iGaming, SING! node EGS (El Gran Sol) EGS, etc.) at or below $10,000: Blue pipe (BUY/checkout) available where implemented.
 - **Over $10,000:** Always off line — email, one approval, invoice, wire.
 

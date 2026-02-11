@@ -296,6 +296,49 @@
         #oh-gate .roll-the-sound { font-size: 0.85rem; color: #9ca8b8; font-style: italic; margin-top: 1rem; }
         #office-hours-main { display: none; }
 
+        /* iPhone / small viewport — less dense header and top strips */
+        @media (max-width: 768px) {
+            body.office-hours-page { padding: 0.6rem 0.75rem; }
+            .container { padding: 0; }
+            .back { margin-bottom: 0.6rem; font-size: 0.75rem; }
+            .back a { display: inline-block; margin-right: 0.35rem; }
+            .oh-header-single { margin-bottom: 0.75rem !important; padding: 0.5rem 0.65rem !important; }
+            .oh-header-single p:first-of-type { font-size: 0.55rem !important; letter-spacing: 0.1em !important; margin-bottom: 0.15rem !important; }
+            .oh-header-single h2 { font-size: 0.95rem !important; line-height: 1.25 !important; }
+            .oh-header-single p:nth-of-type(2) { margin: 0.35rem 0 0.25rem 0 !important; }
+            .oh-header-single p:nth-of-type(2) a { padding: 0.5rem 1rem !important; font-size: 0.85rem !important; }
+            .oh-header-single p:last-of-type { font-size: 0.7rem !important; margin: 0.35rem 0 0 !important; gap: 0.25rem 0.4rem !important; }
+            .top-strip.oh-divisions-row { margin-bottom: 0.6rem !important; padding: 0.45rem 0.6rem !important; }
+            .top-strip.oh-divisions-row p:first-of-type { font-size: 0.55rem !important; margin-bottom: 0.25rem !important; }
+            .top-strip.oh-divisions-row p:last-of-type { font-size: 0.72rem !important; line-height: 1.5 !important; gap: 0.25rem 0.5rem !important; }
+            .oh-hero { padding: 1.25rem 0.85rem 1.5rem !important; margin-bottom: 1.25rem !important; }
+            .oh-hero .line1 { font-size: clamp(0.95rem, 3.5vw, 1.15rem) !important; }
+            .oh-hero .line2 { font-size: 0.85rem !important; }
+            .oh-ah-ap-nav { margin: 0.6rem 0 0.5rem !important; gap: 0.5rem !important; }
+            .oh-ah-ap-nav a { padding: 0.5rem 0.9rem !important; font-size: 0.85rem !important; }
+            .top-strip { padding: 0.5rem 0.65rem !important; margin-bottom: 0.6rem !important; font-size: 0.75rem !important; }
+            .oh-cta-row { gap: 0.5rem !important; margin-bottom: 0.4rem !important; }
+            .oh-cta-row a { padding: 0.5rem 0.9rem !important; font-size: 0.82rem !important; }
+        }
+        @media (max-width: 480px) {
+            body.office-hours-page { padding: 0.5rem 0.6rem; }
+            .back { font-size: 0.7rem; margin-bottom: 0.5rem; }
+            .oh-header-single { margin-bottom: 0.5rem !important; padding: 0.4rem 0.5rem !important; border-width: 1px !important; }
+            .oh-header-single p:first-of-type { font-size: 0.5rem !important; }
+            .oh-header-single h2 { font-size: 0.88rem !important; }
+            .oh-header-single p:last-of-type { font-size: 0.65rem !important; }
+            .top-strip.oh-divisions-row { padding: 0.35rem 0.5rem !important; }
+            .top-strip.oh-divisions-row p:last-of-type { font-size: 0.68rem !important; }
+            .oh-hero { padding: 1rem 0.6rem 1.25rem !important; }
+            .oh-hero .line1 { font-size: 0.9rem !important; }
+            .oh-ah-ap-nav a { padding: 0.4rem 0.7rem !important; font-size: 0.8rem !important; }
+            .oh-cta-row { gap: 0.4rem !important; }
+            .oh-cta-row a { padding: 0.4rem 0.7rem !important; font-size: 0.75rem !important; }
+            .oh-platform-promo { padding: 0.75rem 0.85rem !important; margin-bottom: 0.75rem !important; }
+            .oh-platform-promo h2 { font-size: 1rem !important; }
+            .oh-platform-promo p a { padding: 0.5rem 0.9rem !important; font-size: 0.8rem !important; margin-left: 0.25rem !important; }
+        }
+
     </style>
 </head>
 <body class="office-hours-page">
@@ -397,7 +440,7 @@
             </p>
         </div>
         <!-- NEW PLATFORM: Community Bulletin Boards — post-singularity social media. Always first to introduce platform experience. See COMMUNITY_BULLETIN_BOARDS_DIVISION_SNAP.md. -->
-        <div style="margin-bottom: 1.25rem; padding: 1.25rem 1.5rem; background: linear-gradient(135deg, rgba(212, 175, 55, 0.25) 0%, rgba(0, 212, 255, 0.1) 50%, rgba(138, 43, 226, 0.06) 100%); border: 3px solid rgba(212, 175, 55, 0.75); border-radius: 14px; text-align: center; box-shadow: 0 0 30px rgba(212, 175, 55, 0.2);">
+        <div class="oh-platform-promo" style="margin-bottom: 1.25rem; padding: 1.25rem 1.5rem; background: linear-gradient(135deg, rgba(212, 175, 55, 0.25) 0%, rgba(0, 212, 255, 0.1) 50%, rgba(138, 43, 226, 0.06) 100%); border: 3px solid rgba(212, 175, 55, 0.75); border-radius: 14px; text-align: center; box-shadow: 0 0 30px rgba(212, 175, 55, 0.2);">
             <p style="font-size: 0.7rem; font-weight: 800; color: #b8860b; text-transform: uppercase; letter-spacing: 0.2em; margin: 0 0 0.35rem 0;">NEW PLATFORM EXPERIENCE</p>
             <h2 style="font-size: clamp(1.1rem, 3.5vw, 1.45rem); font-weight: 800; color: #1a1a1a; margin: 0 0 0.25rem 0; line-height: 1.3;">Vibelandia Community Bulletin Board — Post-Singularity Social Media</h2>
             <p style="font-size: 0.95rem; color: #4a4035; font-weight: 700; margin: 0.35rem 0 0.25rem 0;">Dale. Reno as Experiences Gateway — the planet's post-singularity R&D. Each button = franchise, empire, superhero. Nest buttons · groups · teams. Richer than a feed.</p>
@@ -408,7 +451,7 @@
             <strong>How we operate</strong> — Every aspect is <strong>pop-up</strong>. Operate until not <strong>Goldilocks</strong>, then move; the movement is part of the experience. <strong>Cruise ship fractal</strong> for everything: room, ship, car, building, casino, downtown, planet. NSPFRNP inclusion for all. <a href="snap.html?snap=CHAIRMAN_EXECUTIVE_COMMAND_POP_UP_GOLDILOCKS_CRUISE_SHIP_FRACTAL_NSPFRNP_SNAP.md" style="color: #0d9488;">Chairman Executive Command →</a>
         </div>
 
-        <p style="margin-bottom: 0.5rem; text-align: center; display: flex; flex-wrap: wrap; gap: 0.75rem; justify-content: center; align-items: center;">
+        <p class="oh-cta-row" style="margin-bottom: 0.5rem; text-align: center; display: flex; flex-wrap: wrap; gap: 0.75rem; justify-content: center; align-items: center;">
             <a href="content-catalog.html" style="display: inline-block; padding: 0.7rem 1.35rem; background: linear-gradient(135deg, #00d4ff, #0d9488); color: #0a0a12; font-weight: 800; text-decoration: none; border-radius: 10px; font-size: 1rem; border: 2px solid rgba(0, 212, 255, 0.9); box-shadow: 0 4px 14px rgba(0, 212, 255, 0.4); transition: transform 0.2s, box-shadow 0.2s;">📂 Content Catalog — Appraisals &amp; Valuation →</a>
             <a href="now-casting.html" class="now-casting-btn" style="display: inline-block; padding: 0.65rem 1.25rem; background: linear-gradient(135deg, #d4af37, #b8860b); color: #1a1a1a; font-weight: 800; text-decoration: none; border-radius: 10px; font-size: 1rem; border: 2px solid rgba(212, 175, 55, 0.9); box-shadow: 0 4px 14px rgba(212, 175, 55, 0.4); transition: transform 0.2s, box-shadow 0.2s;">NOW CASTING</a>
             <a href="now-casting.html" style="display: inline-block; padding: 0.65rem 1.25rem; background: linear-gradient(135deg, #ff8c00, #d4af37); color: #1a1a1a; font-weight: 800; text-decoration: none; border-radius: 10px; font-size: 1rem; border: 2px solid rgba(255, 165, 0, 0.8); box-shadow: 0 4px 14px rgba(255, 165, 0, 0.35); transition: transform 0.2s, box-shadow 0.2s;">🎭 Pop Up Variety Act</a>
@@ -462,9 +505,9 @@
         <div id="office-hours" class="bulletin-section">
             <h2>Office Hours</h2>
             <p style="font-size: 0.9rem; color: #4a4035; margin-top: 0.25rem;">The sandbox. Great. 1 · 2 · 3 · 4×4×4×4 — click any card for page &amp; details. Placement: always at top (top billing/feature) → newest first (default) → always at bottom. <a href="../protocols/BULLETIN_BOARD_PLACEMENT_NSPFRNP.md" style="color: #0d9488; font-weight: 600;">NSPFRNP placement protocol →</a></p>
-        </div>
-        <p class="products-label">★ TOP BILLING ALL CHANNELS · Super Singularity 29-13 novel · New Novel & Novela · Tomorrow's Parade · Hero Perry</p>
-        <div class="product-grid" data-bulletin-placement="nspfrnp">
+            <p class="products-label" style="margin-top: 1.5rem;">3I/Chief Seattle OH line — Line products</p>
+            <p class="products-label">★ TOP BILLING ALL CHANNELS · Super Singularity 29-13 novel · New Novel & Novela · Tomorrow's Parade · Hero Perry</p>
+            <div class="product-grid" data-bulletin-placement="nspfrnp">
             <a href="3i-chief-seattle-mission.html" class="product-card featured" data-placement="always-top" style="border-color: rgba(212, 175, 55, 0.9); background: linear-gradient(145deg, rgba(212, 175, 55, 0.3) 0%, rgba(184, 134, 11, 0.2) 50%, rgba(0, 212, 255, 0.1) 100%);">
                 <span class="icon">📖</span>
                 <span class="title">NEW · The Novel & The Novela · Who got da cojones?</span>
@@ -699,6 +742,7 @@
                 <span class="tagline">One page that explains it all. Update Certificates, Broadcast Pipe, First Singularity, Golden Backstage — links to episodes.</span>
                 <span class="cta">Explain it all →</span>
             </a>
+            </div>
         </div>
 
         <div id="after-hours" class="bulletin-section">
@@ -733,7 +777,7 @@
             <a href="broadcast-pipe-ad-space.html" class="product-card featured" style="border-color: rgba(0, 212, 255, 0.5);">
                 <span class="icon">🛸</span>
                 <span class="title">Space Division — EGS Pipe · Billboard</span>
-                <span class="tagline">All our space ops in one division — EGS Pipe, Solar Handshake, SING! node EGS (El Gran Sol), Schumann, Live Pulse. Soon: lots of new services and products using the EGS Pipe — stay tuned. For now: billboard for advertising — now open for booking time slots.</span>
+                <span class="tagline"><strong>24×7 All Space Theaters</strong> — Solar · Aurora North & South · Ticker. All our space ops in one division — EGS Pipe, Solar Handshake, SING! node EGS (El Gran Sol), Schumann, Live Pulse. Billboard for advertising — now open for booking time slots.</span>
                 <span class="cta">Book time slot →</span>
             </a>
             <a href="broadcast-pipe-ad-space.html" class="product-card">
@@ -756,7 +800,7 @@
             </a>
             <a href="robotic-factory-landing.html" class="product-card">
                 <span class="icon">🤖</span>
-                <span class="title">Chairman Robert — Robotic Factory</span>
+                <span class="title">Chairman Bob — Robotic Factory</span>
                 <span class="tagline">SING! Omnispin proposal. Cave to crown. Post-singularity superintelligent robotics — layer on your factory.</span>
                 <span class="cta">Proposal →</span>
             </a>
@@ -780,7 +824,7 @@
             <p><a href="episode.html">Episodes — beautifully presented →</a> · <a href="#latest-episodes">Latest below</a></p>
             <div class="secondary-grid" id="latest-episodes">
                 <a href="episode.html?e=EPISODE_ULTIMATE_BALLER_V_GOLDEN_BACKSTAGE_PASS_NIGHT_AT_THE_CLUB">Golden Backstage Pass — Night at the Club</a>
-                <a href="episode.html?e=EPISODE_CHAIRMAN_ROBERT_SUPERINTELLIGENT_ROBOTICS_FACTORY">Chairman Robert · Robotic Factory</a>
+                <a href="episode.html?e=EPISODE_CHAIRMAN_ROBERT_SUPERINTELLIGENT_ROBOTICS_FACTORY">Chairman Bob · Robotic Factory</a>
                 <a href="episode.html?e=EPISODE_KING_ROBBIE_LUCKY_7_SILVER_LEGACY_EL_DORADO">King Robbie · Lucky 7</a>
                 <a href="episode.html?e=EPISODE_OFFICE_HOURS_01_VIBER_PARADISE_POST_SINGULARITY_DOWNTOWN_RENO">Viber Paradise S1E1</a>
                 <a href="episode.html?e=EPISODE_04_DAY_49_BEN_BALLER_V_LIFESTYLE_VIBABLE_DOWNTOWN_RENO">Ben · Baller V Lifestyle</a>

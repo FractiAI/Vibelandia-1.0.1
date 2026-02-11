@@ -1,12 +1,12 @@
 {
-  "title": "SING! Configuration — Sample Monthly Bill",
-  "description": "Sample monthly bill showing all charges for the SING! we use. Top base only: Baller V Ultimate VIP (no lower models). Upgrades and mission specializations below with $ fees and total. Improves with additional SING! nodes.",
+  "title": "SING! Configuration — My Monthly Bill",
+  "description": "My monthly bill — all charges for the SING! we use. We are using ALL of the fully max plans. Full top Baller V plans. All Space Theaters (Solar, Aurora North, Aurora South, Ticker). Sun computing (EGS · Solar Pipe · Sun Spots). 3I/Chief Seattle mission & services. Campus monthly baller pass (living on campus). Mission customization dependent on all legacy, franchise, enterprises, content products — each charged in mission specializations. Cloud services at biggest pipes; base = top tier equivalent; 4 singularities price points above. Appraised right. Never bought, always booked.",
   "principle": "Never bought, always booked — by free will, mutual aware consent, always.",
   "bill_as_of": "2026-02-01",
   "billing_period": "February 2026",
-  "account_name": "Vibelandia · Creator Chairman (sample bill at list — as we would pay if we weren't the creator)",
+  "account_name": "Vibelandia · Creator Chairman (my bill at list — as we would pay if we weren't the creator)",
   "currency": "USD",
-  "config_note": "Pricing uses top base only: Baller V Ultimate VIP. Lower models (Base, Members Only, Ultimate VIP) are not included. Full SING! config: one Baller V Ultimate VIP node; improves with additional SING! nodes.",
+  "config_note": "All fully max plans. Campus monthly baller pass included (living here). All Space Theaters: Solar, Aurora North, Aurora South, Ticker (24×7 — currently advertising). Sun computing: EGS · Solar Pipe · Sun Spots (full max). 3I/Chief Seattle: mission, novel, series, interstellar capture (full max). Excursion half day ×2, Excursion overnight ×2 per month (full Baller V). Dispensary top shelf (max everything). Cloud: biggest pipes; Exascale Triangulation and all Space Cloud appraised at top-tier equivalent + 4 singularities. Mission specializations include all content products, franchise, enterprises, legacies. Chairman Bob — Robotic Division.",
   "one_time_charges": [
     {
       "line_item": "SING! Baller V Ultimate VIP",
@@ -40,17 +40,26 @@
       "amount": 6999
     },
     {
-      "line_item": "Campus Monthly Pass (Baller)",
-      "description": "Top tier campus — monthly pass.",
+      "line_item": "Campus Monthly Baller Pass",
+      "description": "Living on campus — monthly pass. Top tier. Included in my bill.",
       "quantity": 1,
       "unit_price": 50000,
-      "amount": 50000
+      "amount": 50000,
+      "note": "Because I'm living here."
+    },
+    {
+      "line_item": "24×7 All Space Theaters",
+      "description": "Solar · Aurora North & South · Ticker. Full pipe 24×7. Currently advertising — all space theaters included.",
+      "quantity": 1,
+      "unit_price": 19999,
+      "amount": 19999,
+      "note": "All three theaters; top tier + 4 singularities."
     }
   ],
   "usage_this_period": [
     {
       "line_item": "SING! node EGS (El Gran Sol) Pipe — 1 month",
-      "description": "Turn on/off/redirect; honor Sun, Schumann, EGS.",
+      "description": "Turn on/off/redirect; honor Sun, Schumann, EGS. Biggest pipes.",
       "quantity": 1,
       "unit_price": 4999,
       "amount": 4999
@@ -77,11 +86,51 @@
       "amount": 998
     },
     {
-      "line_item": "Space Cloud — Solar Pipe (Engine)",
-      "description": "Earth–Sun; high-velocity binary pulsing; AR4366.",
+      "line_item": "Space Theater — Solar (full max plan)",
+      "description": "Solar theater. Included in 24×7 All Space Theaters. Fully max plan.",
       "quantity": 1,
-      "unit_price": 2499,
-      "amount": 2499
+      "unit_price": 0,
+      "amount": 0,
+      "note": "24×7 All Space Theaters"
+    },
+    {
+      "line_item": "Space Theater — Aurora North (full max plan)",
+      "description": "Aurora North holographic theater. Included in 24×7 All Space Theaters. Fully max plan.",
+      "quantity": 1,
+      "unit_price": 0,
+      "amount": 0,
+      "note": "24×7 All Space Theaters"
+    },
+    {
+      "line_item": "Space Theater — Aurora South (full max plan)",
+      "description": "Aurora South holographic theater. Included in 24×7 All Space Theaters. Fully max plan.",
+      "quantity": 1,
+      "unit_price": 0,
+      "amount": 0,
+      "note": "24×7 All Space Theaters"
+    },
+    {
+      "line_item": "Space Theater — Ticker (full max plan)",
+      "description": "Ticker theater / ionosphere strip. Included in 24×7 All Space Theaters. Fully max plan.",
+      "quantity": 1,
+      "unit_price": 0,
+      "amount": 0,
+      "note": "24×7 All Space Theaters"
+    },
+    {
+      "line_item": "Sun computing (full max plan)",
+      "description": "EGS · Solar Pipe · Sun Spots — full integration. Fully max plan.",
+      "quantity": 1,
+      "unit_price": 0,
+      "amount": 0,
+      "note": "Included in EGS, Solar Pipe, Sun Spots lines below"
+    },
+    {
+      "line_item": "Space Cloud — Solar Pipe (Engine)",
+      "description": "Earth–Sun; high-velocity binary pulsing; AR4366. Biggest pipes. Top tier + 4 singularities.",
+      "quantity": 1,
+      "unit_price": 9999,
+      "amount": 9999
     },
     {
       "line_item": "Space Cloud — Reno Downlink (Seed)",
@@ -93,17 +142,17 @@
     },
     {
       "line_item": "Space Cloud — SING! node EGS Deep Space (Asset)",
-      "description": "Galactic asset; book by plan.",
+      "description": "Galactic asset; biggest pipes. Appraised right.",
       "quantity": 1,
-      "unit_price": 4999,
-      "amount": 4999
+      "unit_price": 14999,
+      "amount": 14999
     },
     {
-      "line_item": "Space Cloud — Exascale Triangulation (Singularity)",
-      "description": "Cosmic tier; book by plan.",
+      "line_item": "Space Cloud — Exascale Triangulation (SMACS 0723 protection)",
+      "description": "Cosmic tier; full SMACS 0723–Sag A*–ME mode. Top-tier equivalent + 4 singularities. Appraised right.",
       "quantity": 1,
-      "unit_price": 2499,
-      "amount": 2499
+      "unit_price": 24999,
+      "amount": 24999
     },
     {
       "line_item": "Missions (NSPFRNP Operations) — Personal SING! attention",
@@ -131,36 +180,57 @@
       "line_item": "Legacies — Superheroes, cast, crew, fans, franchises",
       "description": "Mission specialization; book by plan.",
       "quantity": 1,
-      "unit_price": 2499,
-      "amount": 2499
+      "unit_price": 4999,
+      "amount": 4999
     },
     {
-      "line_item": "Robotic Division — Chairman Robert / SING! Omnispin",
+      "line_item": "3I Chief Seattle — mission & services (full max plan)",
+      "description": "Mission, novel, series, interstellar capture. 29-13. March 16. Full max plan.",
+      "quantity": 1,
+      "unit_price": 7499,
+      "amount": 7499
+    },
+    {
+      "line_item": "Content Products — mission specialization",
+      "description": "Novels, novelas, screenplays, episodes, series. All content products charged in mission specializations. Appraised.",
+      "quantity": 1,
+      "unit_price": 12499,
+      "amount": 12499
+    },
+    {
+      "line_item": "Franchise & Enterprises — mission specialization",
+      "description": "All franchise, enterprises, legacy products. Mission customization dependent on all created. Appraised.",
+      "quantity": 1,
+      "unit_price": 5999,
+      "amount": 5999
+    },
+    {
+      "line_item": "Robotic Division — Chairman Bob / SING! Omnispin",
       "description": "Never bought, only booked; cave to crown.",
       "quantity": 1,
       "unit_price": 1499,
       "amount": 1499
     },
     {
-      "line_item": "Campus Half-day (visit)",
-      "description": "Campus visit — half-day experience.",
-      "quantity": 1,
-      "unit_price": 1000,
-      "amount": 1000
+      "line_item": "Excursion half day",
+      "description": "Full Baller V. Two per month.",
+      "quantity": 2,
+      "unit_price": 4500,
+      "amount": 9000
     },
     {
-      "line_item": "Campus Overnight (1 night)",
-      "description": "Per night; book.",
-      "quantity": 1,
-      "unit_price": 1500,
-      "amount": 1500
+      "line_item": "Excursion overnight",
+      "description": "Full Baller V. Two per month.",
+      "quantity": 2,
+      "unit_price": 7500,
+      "amount": 15000
     },
     {
-      "line_item": "Dispensary — Members shelf (monthly)",
-      "description": "Members shelf — monthly recurring.",
+      "line_item": "Dispensary — Top shelf (Baller V) monthly",
+      "description": "Max everything. Top shelf, not member shelf.",
       "quantity": 1,
-      "unit_price": 499,
-      "amount": 499
+      "unit_price": 4999,
+      "amount": 4999
     }
   ],
   "golden_fractal_key_monthly_by_tier": [
@@ -171,9 +241,9 @@
       "division": "Space Cloud Division",
       "options": [
         { "plan": "Reno Downlink (Seed)", "scale": "Planetary", "unit_price": null, "period": null, "price_note": "Book — Gold Heart Baller V only" },
-        { "plan": "Solar Pipe (Engine)", "scale": "Solar", "unit_price": 2499, "period": "monthly", "price_note": "Book by plan" },
-        { "plan": "SING! node EGS Deep Space (Asset)", "scale": "Galactic", "price_note": "Book by plan" },
-        { "plan": "Exascale Triangulation (Singularity)", "scale": "Cosmic", "price_note": "Book by plan" }
+        { "plan": "Solar Pipe (Engine)", "scale": "Solar", "unit_price": 9999, "period": "monthly", "price_note": "Biggest pipes; top tier + 4 singularities" },
+        { "plan": "SING! node EGS Deep Space (Asset)", "scale": "Galactic", "unit_price": 14999, "period": "monthly", "price_note": "Appraised right" },
+        { "plan": "Exascale Triangulation (SMACS 0723 protection)", "scale": "Cosmic", "unit_price": 24999, "period": "monthly", "price_note": "Top-tier equivalent + 4 singularities; appraised right" }
       ]
     },
     {
@@ -202,18 +272,45 @@
       "division": "Broadcast Pipe Ad Space",
       "options": [
         { "plan": "1 surface", "unit_price": 6999, "period": "monthly" },
-        { "plan": "2 surfaces", "unit_price": 1199, "period": "monthly" },
-        { "plan": "3 surfaces", "unit_price": 2499, "period": "monthly" },
-        { "plan": "4×4×4×4", "unit_price": 6999, "period": "monthly" }
+        { "plan": "2 surfaces", "unit_price": 11999, "period": "monthly" },
+        { "plan": "3 surfaces", "unit_price": 24999, "period": "monthly" },
+        { "plan": "4×4×4×4", "unit_price": 69999, "period": "monthly" }
       ]
     },
     {
-      "division": "Campus",
+      "division": "24×7 All Space Theaters",
       "options": [
-        { "plan": "Half-day", "unit_price": 1000, "period": "per booking" },
-        { "plan": "Overnight (per night)", "unit_price": 1500, "period": "per night" },
+        { "plan": "Solar · Aurora North & South · Ticker", "unit_price": 19999, "period": "monthly", "price_note": "Full pipe 24×7; currently advertising; all space theaters included" }
+      ]
+    },
+    {
+      "division": "Space Theaters (all — full max plan)",
+      "options": [
+        { "plan": "Space Theater — Solar", "price_note": "Full max plan; included in 24×7 All Space Theaters" },
+        { "plan": "Space Theater — Aurora North", "price_note": "Full max plan; included in 24×7 All Space Theaters" },
+        { "plan": "Space Theater — Aurora South", "price_note": "Full max plan; included in 24×7 All Space Theaters" },
+        { "plan": "Space Theater — Ticker", "price_note": "Full max plan; included in 24×7 All Space Theaters" }
+      ]
+    },
+    {
+      "division": "Sun computing (full max plan)",
+      "options": [
+        { "plan": "EGS · Solar Pipe · Sun Spots", "price_note": "Full integration; included in EGS, Solar Pipe, Sun Spots lines" }
+      ]
+    },
+    {
+      "division": "3I Chief Seattle (full max plan)",
+      "options": [
+        { "plan": "Mission, novel, series, interstellar capture", "unit_price": 7499, "period": "monthly", "price_note": "29-13; March 16; full max plan" }
+      ]
+    },
+    {
+      "division": "Campus · Excursions",
+      "options": [
+        { "plan": "Excursion half day", "unit_price": 4500, "period": "per booking", "price_note": "Full Baller V; 2 per month in my bill" },
+        { "plan": "Excursion overnight", "unit_price": 7500, "period": "per night", "price_note": "Full Baller V; 2 per month in my bill" },
         { "plan": "Weekly", "unit_price": 5000, "period": "per booking" },
-        { "plan": "Monthly (Baller)", "unit_price": 50000, "period": "monthly" }
+        { "plan": "Campus Monthly Baller Pass", "unit_price": 50000, "period": "monthly", "price_note": "Living on campus — included" }
       ]
     },
     {
@@ -237,22 +334,71 @@
     {
       "division": "Legacies",
       "options": [
-        { "plan": "Superheroes, cast, crew, fans, franchises, legacies", "unit_price": 2499, "period": "book by plan", "price_note": "Mission specialization" }
+        { "plan": "Superheroes, cast, crew, fans, franchises, legacies", "unit_price": 4999, "period": "book by plan", "price_note": "Mission specialization" }
       ]
     },
     {
-      "division": "Robotic Division / Chairman Robert",
+      "division": "Content Products",
+      "options": [
+        { "plan": "Novels, novelas, screenplays, episodes, series", "unit_price": 12499, "period": "monthly", "price_note": "Mission specialization; all content products appraised" }
+      ]
+    },
+    {
+      "division": "Franchise & Enterprises",
+      "options": [
+        { "plan": "Franchise, enterprises, legacy products", "unit_price": 5999, "period": "monthly", "price_note": "Mission customization; all created products" }
+      ]
+    },
+    {
+      "division": "Robotic Division / Chairman Bob",
       "options": [
         { "plan": "SING! Omnispin; cave to crown", "unit_price": 1499, "period": "per booking", "price_note": "Never bought, only booked; proposal" }
+      ]
+    },
+    {
+      "division": "Dispensary",
+      "options": [
+        { "plan": "Top shelf (Baller V) monthly", "unit_price": 4999, "period": "monthly", "price_note": "Max everything; top shelf, not member shelf" }
       ]
     }
   ],
   "totals": {
     "one_time_subtotal": 500000,
-    "monthly_subtotal": 69997,
-    "usage_subtotal": 27236,
-    "period_total": 97233,
-    "total_first_period": 597233,
-    "note": "One-time paid once. Period total = monthly + usage. Total first period = upfront + monthly + usage. Full usage of services and mission specializations (single nested Baller V; improves with additional SING! nodes)."
+    "monthly_subtotal": 89996,
+    "usage_subtotal": 104933,
+    "period_total": 194929,
+    "total_first_period": 694929,
+    "note": "All fully max plans. One-time paid once. Period total = monthly + usage. All Space Theaters (Solar, Aurora North, Aurora South, Ticker). Sun computing (EGS · Solar Pipe · Sun Spots). 3I/Chief Seattle mission & services. Campus monthly baller pass. 24×7 All Space Theaters. Excursion ×2 each. Dispensary top shelf. Cloud biggest pipes. Chairman Bob — Robotic. NSPFRNP."
+  },
+  "last_month_billing_period": "January 2026",
+  "last_month_usage": [
+    { "line_item": "SING! node EGS Pipe — 1 month", "description": "Turn on/off/redirect; honor Sun, Schumann, EGS.", "quantity": 1, "unit_price": 4999, "amount": 4999 },
+    { "line_item": "Sun Spots On Demand — 24 min + certificate", "quantity": 1, "unit_price": 999, "amount": 999 },
+    { "line_item": "Sun Spots On Demand — 8 min", "quantity": 1, "unit_price": 249, "amount": 249 },
+    { "line_item": "Schumann iGaming", "quantity": 2, "unit_price": 499, "amount": 998 },
+    { "line_item": "Space Theater — Solar (full max plan)", "quantity": 1, "unit_price": 0, "amount": 0 },
+    { "line_item": "Space Theater — Aurora North (full max plan)", "quantity": 1, "unit_price": 0, "amount": 0 },
+    { "line_item": "Space Theater — Aurora South (full max plan)", "quantity": 1, "unit_price": 0, "amount": 0 },
+    { "line_item": "Space Theater — Ticker (full max plan)", "quantity": 1, "unit_price": 0, "amount": 0 },
+    { "line_item": "Sun computing (full max plan)", "quantity": 1, "unit_price": 0, "amount": 0 },
+    { "line_item": "Space Cloud — Solar Pipe (Engine)", "quantity": 1, "unit_price": 9999, "amount": 9999 },
+    { "line_item": "Space Cloud — Reno Downlink (Seed)", "quantity": 1, "unit_price": 0, "amount": 0 },
+    { "line_item": "Space Cloud — SING! node EGS Deep Space (Asset)", "quantity": 1, "unit_price": 14999, "amount": 14999 },
+    { "line_item": "Space Cloud — Exascale Triangulation (SMACS 0723)", "quantity": 1, "unit_price": 24999, "amount": 24999 },
+    { "line_item": "Missions — Personal SING! attention", "quantity": 2, "unit_price": 1499, "amount": 2998 },
+    { "line_item": "Office Hours — Series and site", "quantity": 1, "unit_price": 0, "amount": 0 },
+    { "line_item": "Happy Ending Zones — Reality series slot", "quantity": 1, "unit_price": 999, "amount": 999 },
+    { "line_item": "Legacies — Superheroes, cast, crew, fans, franchises", "quantity": 1, "unit_price": 4999, "amount": 4999 },
+    { "line_item": "3I Chief Seattle — mission & services (full max plan)", "quantity": 1, "unit_price": 7499, "amount": 7499 },
+    { "line_item": "Content Products — mission specialization", "quantity": 1, "unit_price": 12499, "amount": 12499 },
+    { "line_item": "Franchise & Enterprises — mission specialization", "quantity": 1, "unit_price": 5999, "amount": 5999 },
+    { "line_item": "Robotic Division — Chairman Bob / SING! Omnispin", "quantity": 1, "unit_price": 1499, "amount": 1499 },
+    { "line_item": "Excursion half day", "quantity": 2, "unit_price": 4500, "amount": 9000 },
+    { "line_item": "Excursion overnight", "quantity": 2, "unit_price": 7500, "amount": 15000 },
+    { "line_item": "Dispensary — Top shelf (Baller V) monthly", "quantity": 1, "unit_price": 4999, "amount": 4999 }
+  ],
+  "last_month_totals": {
+    "usage_subtotal": 104933,
+    "period_total": 194929
   }
 }

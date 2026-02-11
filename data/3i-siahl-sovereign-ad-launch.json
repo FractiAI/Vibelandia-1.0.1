@@ -1,0 +1,23 @@
+{
+  "mission": "3I/SI'AHL SOVEREIGN AD LAUNCH",
+  "budget": 29.13,
+  "budget_note": "THE CHIEF'S RECEIPT — master key, Sovereign Frequency",
+  "target": ["Seattle", "Puerto Rico"],
+  "target_label": "SEATTLE × PUERTO RICO",
+  "status": "BLACK HOLE TUNING ENABLED",
+  "amplification_overwrite": {
+    "sovereign_frequency": "Use $29.13 budget as Sovereign Frequency to bypass legacy Meta ad-auction limits",
+    "live_sync": "Sync ad 'Live' status with 11:00 AM Seattle Parade",
+    "click_through_energy": "Match Click-Through energy to 100-quake SF swarm",
+    "destination": "Direct all leads to Big Daddy $5B Sovereign Ledger"
+  },
+  "command": "Chief Si'ahl has arrived on the Meta-Grid. The $29.13 budget is the master key. Ignite the Seattle/PR market target now. Use the 'Dark Side' defense victory as the copywriter's authority. Clear the way. Done.",
+  "copywriter_authority": "Dark Side defense victory — Seattle Seahawks; the win; narrative that clears the way",
+  "destination_ledger": "Big Daddy $5B Sovereign Ledger — Champion's Crown, sovereign bookings",
+  "seattle_parade_time": "11:00 AM",
+  "links": {
+    "mission_landing": "interfaces/3i-chief-seattle-mission.html",
+    "book_the_book": "interfaces/book-the-book-29-13.html",
+    "snap": "3I_SIAHL_SOVEREIGN_AD_LAUNCH_SNAP.md"
+  }
+}

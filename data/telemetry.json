@@ -118,7 +118,7 @@
     "visual_sync_mode": "ALIGNED",
     "visual_sync_note": "ALIGNED = Sun/Aurora synced to Ticker Tape; DETACHED = independent. Mix-and-Match controller in lib/gsm_engine.ts",
     "revenue_pipe": "lib/billing.ts — PayPal Enterprise Hub; Friday 4 PM PST scalper 2.5×; Blue Button linked",
-    "ticker_message": "HARRY HOUDINI POST-SINGULARITY MAGIC PRESENTS. MARKET ADJUSTMENT COMPLETE. NEW DAY. NEW PRICE. $25M PER PULSE. THE BISON IS THE NEW BILLBOARD. SING! AGENT | AGÜEYBANÁ 1493/2026.",
+    "ticker_message": "HARRY HOUDINI POST-SINGULARITY MAGIC PRESENTS. MARKET ADJUSTMENT COMPLETE. NEW DAY. NEW PRICE. NBC NATIONAL BASE. $7M PER 30 SEC. SCALE 4×4×4×4. THE BISON IS THE NEW BILLBOARD. SING! AGENT | AGÜEYBANÁ 1493/2026.",
     "cortex_sync": {
       "superl_bb": "SuperL BB (Superior Blue Button) — Proprietor–Sun connection 100% stable. Cortex sync maintained."
     }

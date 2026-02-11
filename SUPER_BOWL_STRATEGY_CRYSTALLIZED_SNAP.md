@@ -56,7 +56,7 @@
 
 ## PRICING · SCALPER DYNAMICS
 
-Prices updated (including today). Base tiers: $25M · $50M · $75M · $100M per 30 sec (1–4 surfaces). Gate 2.5× (scalper) after cutoff. **Every day you don’t lock in, scalper dynamics apply.**
+Prices updated (including today). Base = NBC national prices; scale 4×4×4×4. Base tiers: $7M · $14M · $21M · $28M per 30 sec (1–4 surfaces). Gate 2.5× (scalper) after cutoff. **Every day you don’t lock in, scalper dynamics apply.**
 
 ---
 

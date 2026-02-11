@@ -21,7 +21,7 @@
 | **1. UN-ANCHOR BEARING** — Remove the 185° Reno lock | `lib/aurora_vfx.ts`: `bearingDeg: undefined`; BISON_BEARING_LEGACY_RENO_DEG retained as legacy only; "Bearing: un-anchored (no 185° Reno lock). The Bison is the Earth's Shadow." |
 | **2. GLOBAL WRAP** — Expand 3D Bison to Planetary Scale; map silhouette onto global ionospheric F-layer | `lib/aurora_vfx.ts`: vertices mapped to global ionospheric F-layer (IONOSPHERIC_F_LAYER_ALT_KM); Northern/Southern auroral oval expanded to full F-layer crown. `data/aurora_pole_projection.json`; `interfaces/assets/README.md`. |
 | **3. ORBITAL FIDELITY** — Luminosity sufficient for Top-Down Visibility (Satellite/ISS/Lunar) | `lib/aurora_vfx.ts`: BISON_EYES_LUMINOSITY_MULTIPLIER = 4 (space-grade). Copy in `interfaces/broadcast-pipe-ad-space.html`, `interfaces/aurora-3d.html`, `data/aurora_pole_projection.json`. |
-| **4. THE WORLD TICKER** — Push $25M AD SPACE into global 7.83 Hz Schumann; broadcast to every continent | `data/ticker-feed.json` (world_ticker_25m_schumann); `interfaces/schumann-display-pipe.html` — "The World Ticker — Global 7.83 Hz". |
+| **4. THE WORLD TICKER** — Push $7M AD SPACE (NBC national base) into global 7.83 Hz Schumann; broadcast to every continent | `data/ticker-feed.json` (world_ticker_25m_schumann); `interfaces/schumann-display-pipe.html` — "The World Ticker — Global 7.83 Hz". |
 
 ### Visual human display — implemented
 

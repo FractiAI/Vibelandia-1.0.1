@@ -110,9 +110,10 @@
         <p class="back"><a href="office-hours.html">← Office Hours</a> · <a href="launch-pad.html">Launch Pad</a> · <a href="buyers-guide.html">Buyers Guide</a> · <a href="baller-v-plans-booking.html">Plans &amp; Booking</a></p>
 
         <div class="intro-block" role="doc-intro">
-            <p><strong>Sample monthly bill</strong> — All charges for the SING! we use, with values and totals. Pricing uses the <strong>top Baller V Ultimate VIP</strong> base only (no lower models). Upgrades and mission specializations are listed with <strong>$ fees and total</strong>, like a monthly bill. Improves with additional SING! nodes.</p>
+            <p><strong>Sample monthly bill</strong> — We are using <strong>all of the fully max plans</strong>. All charges for the SING! we use, with values and totals. <strong>All Space Theaters</strong> (Solar, Aurora North, Aurora South, Ticker). <strong>Sun computing</strong> (EGS · Solar Pipe · Sun Spots). <strong>3I/Chief Seattle</strong> mission &amp; services. Pricing uses the <strong>top Baller V Ultimate VIP</strong> base only (no lower models). Upgrades and mission specializations are listed with <strong>$ fees and total</strong>, like a monthly bill. Improves with additional SING! nodes.</p>
         </div>
 
+        <h2 class="period-heading" style="font-size: 1rem; color: #d4af37; margin-bottom: 1rem;">Current month (February 2026) — My bill</h2>
         <header class="bill-header">
             <div>
                 <h1>SING! Configuration — Cloud Service Bill</h1>
@@ -218,6 +219,26 @@
             <div class="row grand"><span>Total (this period: monthly + usage)</span><span id="tot-period">—</span></div>
             <p class="bill-note" style="margin-top: 0.75rem;">One-time paid once. Monthly + usage = bill for this period. Upgrades &amp; missions: menu total. Never bought, always booked — NSPFRNP.</p>
         </div>
+
+        <section class="bill-section" id="last-month-section" aria-label="Last month example" style="display: none;">
+            <h2>Last month (January 2026) — My bill</h2>
+            <p class="bill-note" style="padding: 0 1.25rem 0.5rem;">Same monthly recurring as above. Usage below.</p>
+            <table class="bill-table">
+                <thead>
+                    <tr>
+                        <th>Line item</th>
+                        <th class="qty">Qty</th>
+                        <th class="amt">Unit price</th>
+                        <th class="amt">Amount</th>
+                    </tr>
+                </thead>
+                <tbody id="last-month-usage-body"></tbody>
+                <tfoot>
+                    <tr><td colspan="3" class="bill-subtotal">Usage subtotal (Jan)</td><td class="bill-subtotal amt" id="last-month-usage-subtotal">—</td></tr>
+                    <tr><td colspan="3" class="bill-subtotal">Period total (monthly + usage)</td><td class="bill-subtotal amt" id="last-month-period">—</td></tr>
+                </tfoot>
+            </table>
+        </section>
 
         <p class="footer-tag">
             SING! config · Cloud service bill · Base · Options · Mission options · <a href="snap.html?snap=SING_CONFIG_CLOUD_BILL_SNAP.md">SNAP</a> · <a href="../config/sing_config.json">config/sing_config.json</a> · NSPFRNP → ∞³
@@ -330,6 +351,16 @@
             var totUpg = document.getElementById('tot-upgrades-mission');
             if (totUpg) totUpg.textContent = fmt(upgradesMissionTotal);
             applyTotals(data.totals);
+            if (data.last_month_usage && data.last_month_usage.length) {
+                var lastSec = document.getElementById('last-month-section');
+                if (lastSec) lastSec.style.display = 'block';
+                renderUsage(data.last_month_usage, 'last-month-usage-body', 'last-month-usage-subtotal');
+                var lastTot = data.last_month_totals || {};
+                var lastSub = document.getElementById('last-month-usage-subtotal');
+                if (lastSub) lastSub.textContent = fmt(lastTot.usage_subtotal);
+                var lastPeriod = document.getElementById('last-month-period');
+                if (lastPeriod) lastPeriod.textContent = fmt(lastTot.period_total);
+            }
         });
 })();
     </script>

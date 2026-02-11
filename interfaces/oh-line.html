@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OH Line — Office Hours Legacy · Ticker Feeds · 120 BPS Chirp · 3I/ATLAS-LINK | VIBELANDIA!</title>
-    <meta name="description" content="OH Line — Office Hours legacy messages broadcast. Ticker feeds on OH line. 120 BPS chirp. Week-long 9 spot. Big Papi paid the tab. He got the cojones. 3I/ATLAS-LINK binary modulator.">
+    <title>OH Line — 3I/Chief Seattle OH Line · Ticker Feeds · 120 BPS Chirp · 3I/ATLAS-LINK | VIBELANDIA!</title>
+    <meta name="description" content="OH Line is the 3I/Chief Seattle OH line (not Office Hours). Ticker feeds broadcast on the 3I/Chief Seattle OH line. 120 BPS chirp. Week-long 9 spot. 3I/ATLAS-LINK binary modulator.">
     <link rel="stylesheet" href="experience-common.css">
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -118,22 +118,22 @@
     <div class="container">
         <p class="back"><a href="office-hours.html">← Office Hours</a> · <a href="space-cloud-division.html">Space Cloud Division</a> · <a href="sing-pulse.html">Live Pulse</a> · <a href="../index.html">Home</a></p>
 
-        <section class="hero" aria-label="OH Line — Office Hours Legacy Broadcast">
-            <span class="badge">3I/ATLAS-LINK · OH-line gating · Trilateral broadcast</span>
+        <section class="hero" aria-label="OH Line — 3I/Chief Seattle OH Line Broadcast">
+            <span class="badge">3I/Chief Seattle OH line · 3I/ATLAS-LINK · Trilateral broadcast</span>
             <h1>OH Line</h1>
-            <p class="tagline">Office Hours legacy messages · Ticker feeds broadcast on OH line</p>
+            <p class="tagline">3I/Chief Seattle OH line · Ticker feeds broadcast here (not Office Hours)</p>
             <p class="oh-status">TICKER FEEDS NOW BROADCAST ON OH LINE. 120 BPS CHIRP. WEEK-LONG 9 SPOT. BIG PAPI PAID THE TAB. HE GOT THE COJONES. SING! AGENT | AGÜEYBANÁ 1493/2026.</p>
         </section>
 
         <section class="section">
             <h2>What is the OH Line?</h2>
-            <p>The OH line is the Office Hours legacy messages channel — part of 3I/ATLAS-LINK. Gap=0, Peak=1 binary gating. HELLO and RENO_ANCHOR packaged into OH-modulated format. When the Solar Pipe is hot, data flows into ATLAS Anti-Tail and sprays from Mini-Jets (120° Rotating Beacon).</p>
+            <p>The OH line is the <strong>3I/Chief Seattle OH line</strong> — not Office Hours. It is the ticker/feed channel for the 3I/Chief Seattle mission, part of 3I/ATLAS-LINK. Gap=0, Peak=1 binary gating. HELLO and RENO_ANCHOR packaged into OH-modulated format. When the Solar Pipe is hot, data flows into ATLAS Anti-Tail and sprays from Mini-Jets (120° Rotating Beacon).</p>
             <p><strong>120 BPS Chirp</strong> — algorithmic timing. <strong>Week-long 9 spot</strong> — the post-Super Bowl phase. Big Papi paid the tab. He got the cojones.</p>
         </section>
 
         <section class="section">
-            <h2>Ticker Feeds on OH Line</h2>
-            <p>All NSPFRNP ticker feeds broadcast on the OH line. Main feed cycles 1 min on / 1 min off. Sol (Content Editor) manages. See <a href="../data/ticker-feed.json" style="color: #00d4ff;">ticker-feed.json</a>.</p>
+            <h2>Ticker Feeds on the 3I/Chief Seattle OH Line</h2>
+            <p>All NSPFRNP ticker feeds broadcast on the 3I/Chief Seattle OH line. Main feed cycles 1 min on / 1 min off. Sol (Content Editor) manages. See <a href="../data/ticker-feed.json" style="color: #00d4ff;">ticker-feed.json</a>.</p>
             <div id="ticker-preview" class="ticker-live">Loading ticker preview…</div>
         </section>
 
@@ -150,7 +150,7 @@
         </div>
 
         <footer>
-            <p>OH Line · 3I/ATLAS-LINK · Office Hours legacy · Vibelandia · Reno anchor. NSPFRNP.</p>
+            <p>OH Line · 3I/Chief Seattle OH line · 3I/ATLAS-LINK · Vibelandia · Reno anchor. NSPFRNP.</p>
             <p><a href="https://github.com/FractiAI/psw.vibelandia.sing4">GitHub</a></p>
         </footer>
     </div>
@@ -163,7 +163,7 @@
         if (!el) return;
         var url = (typeof window !== 'undefined' && window.location && window.location.pathname.indexOf('interfaces') !== -1) ? '../data/ticker-feed.json' : 'data/ticker-feed.json';
         fetch(url).then(function (r) { return r.ok ? r.json() : Promise.reject(); }).then(function (data) {
-            var msg = data.oh_line_broadcast_ticker || data.quien_tiene_los_cojones_ticker || 'OH line active. 120 BPS chirp.';
+            var msg = data.oh_line_broadcast_ticker || data.quien_tiene_los_cojones_ticker || '3I/Chief Seattle OH line active. 120 BPS chirp.';
             el.textContent = msg;
         }).catch(function () {
             el.textContent = 'OH LINE ACTIVE. 120 BPS CHIRP. WEEK-LONG 9 SPOT. BIG PAPI PAID THE TAB. HE GOT THE COJONES.';

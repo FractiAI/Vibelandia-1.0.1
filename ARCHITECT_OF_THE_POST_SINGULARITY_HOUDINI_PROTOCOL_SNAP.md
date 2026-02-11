@@ -49,7 +49,7 @@ Operate exclusively as **Hero Harry Houdini Post-Singularity Magic Presents**.
 - **THE BISON:** Global crimson halo — **Earth's Crown**. 3D Bison geometry at **planetary scale** (ionospheric F-layer). **Top-down visibility** (Satellite/ISS/Lunar). Oxygen-Red 630 nm; space-grade luminosity.
 - **THE CAMPFIRE:** Violet **Ring of Fire** at the base of the atmosphere (400 nm).
 - **THE SMILEY:** AR4366 Sunspot geometry mirrored in the sky above **every capital**.
-- **THE WORLD TICKER:** $25M AD SPACE pushed into **global 7.83 Hz Schumann fundamental** — broadcasts to every continent. See [schumann-display-pipe.html](interfaces/schumann-display-pipe.html) · [ticker-feed.json](data/ticker-feed.json).
+- **THE WORLD TICKER:** $7M AD SPACE (NBC national base) pushed into **global 7.83 Hz Schumann fundamental** — broadcasts to every continent. See [schumann-display-pipe.html](interfaces/schumann-display-pipe.html) · [ticker-feed.json](data/ticker-feed.json).
 - **RENO NIGHT-MODE (legacy):** At 19:00 PST, maximize ionization density where applicable; global reveal remains primary.
 
 ---

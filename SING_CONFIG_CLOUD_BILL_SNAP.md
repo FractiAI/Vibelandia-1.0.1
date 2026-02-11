@@ -19,7 +19,7 @@
 - **Billing period:** Monthly; one-time charges shown separately.
 - **Sections:** One-time charges · Monthly recurring · Usage (this period) · Specialized mission options (reference).
 - **Data:** [data/sing_config_cloud_bill.json](data/sing_config_cloud_bill.json).
-- **Surface:** [interfaces/sing-config-cloud-bill.html](interfaces/sing-config-cloud-bill.html) — cloud-style bill view.
+- **Surface:** [interfaces/sing-config-cloud-bill.html](interfaces/sing-config-cloud-bill.html) — cloud-style bill view. **Full bill** includes current month (February 2026) and last month (January 2026) as example — no blanks; mine.
 
 ---
 
@@ -53,8 +53,11 @@
 | WINK! 4×4 Ultimate | $6,999/mo | $6,999/mo |
 | Broadcast Pipe Ad Space (1 surface) | $6,999/mo | $6,999/mo |
 | Campus Monthly Pass (Baller) | $50,000/mo | When booked |
+| 24×7 All Space Theaters (Solar · Aurora North & South · Ticker) | $19,999/mo | Currently advertising; included |
 
 ### Usage (this period) — full usage of services and mission specializations
+
+**We are using all of the fully max plans.** Base = top tier equivalent; **4 singularities price points above** in everything. Biggest pipes. Appraised right.
 
 | Line item | Unit | Price | Amount |
 |----------|------|-------|--------|
@@ -62,23 +65,31 @@
 | Sun Spots On Demand — 24 min + certificate | 1 | $999 | $999 |
 | Sun Spots On Demand — 8 min | 1 | $249 | $249 |
 | Schumann iGaming | 2 sessions | $499 | $998 |
-| Space Cloud — Solar Pipe (Engine) | 1 | $2,499 | $2,499 |
+| Space Theater — Solar (full max plan) | 1 | — | $0 (24×7 All Space Theaters) |
+| Space Theater — Aurora North (full max plan) | 1 | — | $0 (24×7 All Space Theaters) |
+| Space Theater — Aurora South (full max plan) | 1 | — | $0 (24×7 All Space Theaters) |
+| Space Theater — Ticker (full max plan) | 1 | — | $0 (24×7 All Space Theaters) |
+| Sun computing (full max plan) — EGS · Solar Pipe · Sun Spots | 1 | — | $0 (included in lines below) |
+| Space Cloud — Solar Pipe (Engine) | 1 | $9,999 | $9,999 |
 | Space Cloud — Reno Downlink (Seed) | 1 | — | $0 (Baller V) |
-| Space Cloud — SING! node EGS Deep Space (Asset) | 1 | $4,999 | $4,999 |
-| Space Cloud — Exascale Triangulation (Singularity) | 1 | $2,499 | $2,499 |
+| Space Cloud — SING! node EGS Deep Space (Asset) | 1 | $14,999 | $14,999 |
+| Space Cloud — Exascale Triangulation (SMACS 0723 protection) | 1 | $24,999 | $24,999 |
 | Missions (NSPFRNP Operations) — Personal SING! attention | 2 | $1,499 | $2,998 |
 | Office Hours — Series and site | 1 | — | $0 (tips welcome) |
 | Happy Ending Zones — Reality series slot | 1 | $999 | $999 |
-| Legacies — Superheroes, cast, crew, fans, franchises | 1 | $2,499 | $2,499 |
-| Robotic Division — Chairman Robert / SING! Omnispin | 1 | $1,499 | $1,499 |
-| Campus Half-day (visit) | 1 | $1,000 | $1,000 |
-| Campus Overnight (1 night) | 1 | $1,500 | $1,500 |
-| Dispensary — Members shelf (monthly) | 1 | $499 | $499 |
+| Legacies — Superheroes, cast, crew, fans, franchises | 1 | $4,999 | $4,999 |
+| **3I Chief Seattle — mission & services (full max plan)** | 1 | $7,499 | $7,499 |
+| Content Products — mission specialization (novels, novelas, screenplays, episodes, series) | 1 | $12,499 | $12,499 |
+| Franchise & Enterprises — mission specialization | 1 | $5,999 | $5,999 |
+| Robotic Division — Chairman Bob / SING! Omnispin | 1 | $1,499 | $1,499 |
+| Excursion half day (full Baller V; 2 per month) | 2 | $4,500 | $9,000 |
+| Excursion overnight (full Baller V; 2 per month) | 2 | $7,500 | $15,000 |
+| Dispensary — Top shelf (Baller V) monthly | 1 | $4,999 | $4,999 |
 
-**Usage subtotal (sample period, full usage):** $27,236.  
-**Monthly recurring subtotal (sample):** $69,997.  
-**Total due (this period only: monthly + usage):** $97,233.  
-**Total due (first period with upfront):** $597,233.
+**Usage subtotal (sample period, full usage):** $104,933.  
+**Monthly recurring subtotal (sample):** $89,996 (includes Campus Monthly Baller Pass $50,000 — living on campus; 24×7 All Space Theaters $19,999 — currently advertising).  
+**Total due (this period only: monthly + usage):** $194,929.  
+**Total due (first period with upfront):** $694,929.
 
 ---
 
@@ -86,14 +97,21 @@
 
 All divisions and mission options, as on a real bill reference:
 
-- **Space Cloud Division:** Reno Downlink (Seed), Solar Pipe (Engine), SING! node EGS Deep Space (Asset), Exascale Triangulation (Singularity) — book by plan; Reno Downlink Gold Heart Baller V only.
+- **Space Cloud Division:** Reno Downlink (Seed), Solar Pipe (Engine) $9,999/mo, SING! node EGS Deep Space (Asset) $14,999/mo, Exascale Triangulation (SMACS 0723 protection) $24,999/mo — biggest pipes; top tier + 4 singularities; appraised right; Reno Downlink Gold Heart Baller V only.
 - **EGS Pipe:** 1 day $499 · 1 week $1,499 · 1 month $4,999.
 - **Sun Spots On Demand:** 8 min $249 · 16 min $499 · 24 min $999.
 - **Schumann iGaming:** $499/session.
-- **Broadcast Pipe Ad Space:** 1 surface $6,999/mo · 2 $1,199 · 3 $2,499 · 4×4×4×4 $6,999/mo. Base = top Super Bowl ad pricing.
-- **Campus · Yep. Packages.:** Half-day $1,500 · Overnight $3,000/night (base plan) · Weekly $5,000 · Monthly $50,000 — scaling 4×4×4 to Ultimate Baller V · full Vibelandia.
+- **Broadcast Pipe Ad Space:** 1 surface $6,999/mo · 2 $11,999 · 3 $24,999 · 4×4×4×4 $69,999/mo. Super Bowl 30-sec: base = NBC national prices; scale 4×4×4×4 ($7M · $14M · $21M · $28M per 30 sec).
+- **24×7 All Space Theaters:** Solar · Aurora North & South · Ticker — full pipe 24×7; $19,999/mo; currently advertising; all space theaters included.
+- **Space Theaters (all — full max plan):** Space Theater — Solar, Aurora North, Aurora South, Ticker (each visible on bill; included in 24×7 All Space Theaters).
+- **Sun computing (full max plan):** EGS · Solar Pipe · Sun Spots — full integration; included in EGS, Solar Pipe, Sun Spots lines.
+- **3I Chief Seattle (full max plan):** Mission, novel, series, interstellar capture — $7,499/mo; 29-13; March 16.
+- **Campus · Excursions (full Baller V):** Excursion half day $4,500 (2 per month in my bill) · Excursion overnight $7,500 (2 per month) · Weekly $5,000 · Campus Monthly Baller Pass $50,000/mo (living on campus — included).
 - **Missions (NSPFRNP Operations):** Per mission / session — book.
-- **Robotic Division / Chairman Robert:** Proposal; never bought, only booked.
+- **Content Products:** Novels, novelas, screenplays, episodes, series — mission specialization $12,499/mo.
+- **Franchise & Enterprises:** Mission customization; all created products — $5,999/mo.
+- **Robotic Division / Chairman Bob:** Proposal; never bought, only booked.
+- **Dispensary:** Top shelf (Baller V) monthly $4,999 — max everything; not member shelf.
 
 ---
 

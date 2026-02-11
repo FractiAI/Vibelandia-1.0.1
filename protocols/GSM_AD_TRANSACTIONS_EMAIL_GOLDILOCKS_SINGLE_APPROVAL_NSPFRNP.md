@@ -2,7 +2,7 @@
 
 **Status:** ACTIVE  
 **Applies to:** All Great Sun Multiplex (GSM) ad-space bookings — Pipe (Solar, Ticker) and Aurora.  
-**Doctrine:** We BOOK and RESERVE reality. Ad transactions at NBC pregame scale ($25M–$250M+ Feb 6 floor) are **email-only**; no PayPal/checkout for these tiers.
+**Doctrine:** We BOOK and RESERVE reality. Ad transactions at NBC national base scale ($7M–$28M per 30 sec, gate 2.5× to $17.5M–$70M; Feb 6 floor) are **email-only**; no PayPal/checkout for these tiers.
 
 **Blue Pipe NSPFRNP:** All transactions over $10,000 are handled off line. This protocol is the application of that rule to GSM ad space. See [BLUE_PIPE_NSPFRNP.md](./BLUE_PIPE_NSPFRNP.md).
 
@@ -10,7 +10,7 @@
 
 ## 1. Why email-only
 
-- **Transaction size:** Base = NBC 30s pregame ($25M–$100M per 30 sec Feb 6 floor; Bison Logo Aurora $150M/hr). Standard payment rails have limits; wire/invoice is appropriate.
+- **Transaction size:** Base = NBC national prices; scale 4×4×4×4 ($7M–$28M per 30 sec Feb 6 floor; Bison Logo Aurora $150M/hr). Standard payment rails have limits; wire/invoice is appropriate.
 - **Single human in the loop:** One approval step (Chairman/Executive) keeps sovereignty and control while maximizing automation elsewhere.
 
 ---
