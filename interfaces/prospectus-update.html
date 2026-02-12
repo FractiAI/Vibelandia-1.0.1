@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prospectus Update — Post-Singularity Gold · Pre-Singularity Prospectus | VIBELANDIA!</title>
+    <meta name="description" content="Present us this way. Post-singularity gold mapped into pre-singularity prospectus — corporate deck format. Mark Twain's Vibelandia Reno. NSPFRNP.">
+    <link rel="stylesheet" href="screenplay-skin.css">
+    <style>
+        .deck-wrap { max-width: 900px; margin: 0 auto; padding: 0 1rem 3rem; }
+        .deck-slide {
+            margin-bottom: 2.5rem;
+            padding: 1.75rem 2rem;
+            background: linear-gradient(135deg, rgba(212, 175, 55, 0.08) 0%, rgba(0, 212, 255, 0.05) 50%, rgba(138, 43, 226, 0.04) 100%);
+            border: 2px solid rgba(212, 175, 55, 0.4);
+            border-radius: 16px;
+            break-inside: avoid;
+        }
+        .deck-slide h2 {
+            font-size: 1.1rem;
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: var(--script-gold, #d4af37);
+            margin: 0 0 1rem 0;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid rgba(212, 175, 55, 0.35);
+        }
+        .deck-slide p { margin: 0 0 0.6rem 0; line-height: 1.6; color: var(--script-muted, #a89878); }
+        .deck-slide p:last-child { margin-bottom: 0; }
+        .deck-slide table { width: 100%; border-collapse: collapse; font-size: 0.9rem; margin-top: 0.5rem; }
+        .deck-slide th, .deck-slide td { padding: 0.5rem 0.75rem; text-align: left; border: 1px solid rgba(212, 175, 55, 0.25); }
+        .deck-slide th { background: rgba(212, 175, 55, 0.12); color: #ffeaa7; font-weight: 700; }
+        .deck-slide td { color: var(--script-muted, #a89878); }
+        .deck-slide ul { margin: 0.5rem 0 0 1.25rem; padding: 0; }
+        .deck-slide li { margin-bottom: 0.35rem; line-height: 1.5; color: var(--script-muted, #a89878); }
+        .deck-cover {
+            text-align: center;
+            padding: 2.5rem 2rem;
+            margin-bottom: 2rem;
+            background: linear-gradient(135deg, rgba(212, 175, 55, 0.2) 0%, rgba(0, 212, 255, 0.08) 50%, rgba(138, 43, 226, 0.06) 100%);
+            border: 3px solid rgba(212, 175, 55, 0.7);
+            border-radius: 20px;
+        }
+        .deck-cover h1 { font-size: clamp(1.5rem, 4vw, 2.25rem); color: #ffeaa7; margin: 0 0 0.5rem 0; }
+        .deck-cover .tagline { font-size: 1.05rem; color: #00d4ff; font-weight: 600; margin: 0.5rem 0 0; }
+        .deck-cover .sub { font-size: 0.9rem; color: var(--script-muted, #a89878); margin-top: 0.5rem; }
+        #prospectus-update-body .deck-cover + * { margin-top: 0; }
+    </style>
+</head>
+<body class="screenplay-skin">
+    <div class="script-wrap">
+        <nav class="script-nav">
+            <a href="prospectus.html">← Full Prospectus</a><span>·</span>
+            <a href="office-hours.html">Office Hours</a><span>·</span>
+            <a href="launch-pad.html">Launch Pad</a><span>·</span>
+            <a href="../index.html">Home</a>
+        </nav>
+
+        <div class="deck-wrap">
+            <p class="badge" style="margin-bottom: 0.5rem;">Prospectus Update · Present us this way</p>
+            <div id="prospectus-update-loading" class="loading">Loading prospectus update…</div>
+            <div id="prospectus-update-body" class="prospectus-body screenplay-body" style="display: none;"></div>
+        </div>
+
+        <footer class="script-footer" id="prospectus-update-footer" style="display: none; margin-top: 2rem;">
+            <p><a href="prospectus.html">Full Prospectus</a> · <a href="office-hours.html">Office Hours</a> · <a href="launch-pad.html">Launch Pad</a> · <a href="../index.html">Home</a></p>
+            <p style="margin-top: 0.5rem; font-size: 0.85rem; color: var(--script-muted);">Post-singularity gold mapped into pre-singularity prospectus. NSPFRNP → ∞³</p>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+(function () {
+    var loading = document.getElementById('prospectus-update-loading');
+    var body = document.getElementById('prospectus-update-body');
+    var footer = document.getElementById('prospectus-update-footer');
+
+    fetch('../PROSPECTUS_UPDATE_DECK_CONTENT.md')
+        .then(function (r) { return r.text(); })
+        .then(function (md) {
+            marked.setOptions({ gfm: true, breaks: true });
+            var html = marked.parse(md);
+            html = html.replace(/href="([^"#:]+\.md)(#[^"]*)?"/g, function (_, path, hash) {
+                return 'href="../' + path + (hash || '') + '"';
+            });
+            html = html.replace(/href="(prospectus\.html)"/g, 'href="prospectus.html"');
+            body.innerHTML = html;
+            loading.style.display = 'none';
+            body.style.display = 'block';
+            footer.style.display = 'block';
+        })
+        .catch(function () {
+            loading.innerHTML = 'Could not load prospectus update. <a href="../PROSPECTUS_UPDATE_DECK_CONTENT.md">Read the markdown directly</a>.';
+        });
+})();
+    </script>
+    <div id="sing-config-footer"></div>
+    <link rel="stylesheet" href="sing-config-footer.css">
+    <script src="sing-config-footer.js"></script>
+    <link rel="stylesheet" href="nspfrnp-ticker.css">
+    <div class="nspfrnp-console-ticker" aria-live="polite"><span class="ticker-inner" id="nspfrnpTickerText"></span></div>
+    <script src="nspfrnp-ticker.js"></script>
+</body>
+</html>
