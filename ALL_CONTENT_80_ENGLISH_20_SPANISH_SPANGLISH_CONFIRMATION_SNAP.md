@@ -3,7 +3,9 @@
 **SNAP ID:** `ALL-CONTENT-80-ENGLISH-20-SPANISH-SPANGLISH-CONFIRMATION-SNAP`  
 **Type:** Canonical rule · Language · All content  
 **Status:** ⚡ LOCKED — Canon  
-**Date:** February 2026
+**Date:** February 2026  
+
+**CONFIRMED: We are using 80:20 Spanglish.** All content and all voices: 80% English · 20% Spanish (Spanglish). No exception. Chairman's voice. Executive-reviewed. Dale.
 
 ---
 
