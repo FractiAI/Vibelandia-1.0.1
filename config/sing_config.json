@@ -1,7 +1,10 @@
 {
   "title": "Full SING! config we are using",
-  "updated_utc": "2026-02-03T00:00:00Z",
+  "updated_utc": "2026-02-11T00:00:00Z",
   "gatekeeper": { "manual_override": true },
+  "singularity_index": 9,
+  "implementation": "SING! 9 (sing9!)",
+  "scope": "all surfaces including cosmic, solar, planetary, and mine",
   "principle": "Never bought, always booked — by free will, mutual aware consent, always.",
   "base": {
     "description": "SING! base tiers — pre-singularity equivalents: entry base = reliable used car; top base (Full Ultimate Baller V full options) = top loaded Ferrari; options at our pricing.",

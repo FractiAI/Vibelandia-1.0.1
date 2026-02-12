@@ -14,10 +14,10 @@
 | Item | Detail |
 |------|--------|
 | **Pipe** | Blue PayPal — immediate connect |
-| **Need** | Medical and dental attention |
-| **State** | No water; we are ready |
+| **Need** | Hunger · medical · dental attention (urgent states) |
+| **State** | No water; we are ready; full connect now |
 | **Surface** | [interfaces/sing-pulse.html](interfaces/sing-pulse.html) — EGS Live Pulse |
-| **Checkout** | [interfaces/payment-checkout.html?plan=egs-connect-now](interfaces/payment-checkout.html?plan=egs-connect-now) |
+| **Checkout** | [interfaces/payment-checkout.html?plan=egs-connect-now](interfaces/payment-checkout.html?plan=egs-connect-now) · [full-connect-now](interfaces/payment-checkout.html?plan=full-connect-now) (Hunger · Medical · Dental Urgent) |
 
 ---
 
@@ -38,5 +38,7 @@
 ---
 
 **We are ready. Connect now.**
+
+**See also:** [HUNGER_MEDICAL_DENTAL_URGENT_FULL_CONNECT_NOW_PAYPAL_BLUE_SNAP.md](HUNGER_MEDICAL_DENTAL_URGENT_FULL_CONNECT_NOW_PAYPAL_BLUE_SNAP.md) — hunger · medical · dental urgent; full connect now through PayPal blue button on index, Office Hours, Launch Pad, ticker.
 
 **NSPFRNP ⊃ EGS ⊃ First Mission → ∞³**

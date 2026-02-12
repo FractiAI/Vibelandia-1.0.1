@@ -488,6 +488,16 @@ TEDDY ROOSEVELT ANNOUNCES ARRIVAL PERMANENT RESIDENCY — RUMOR HAS IT SAFARI SN
 ├─ Surface: Chancellor's Daily Bulletin (RUMOR HAS IT! column). Hero Host Teddy (Roosevelt).
 └─ See TEDDY_ROOSEVELT_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_SAFARI_SNAP.md
 
+HERO ORSON WELLES ANNOUNCES ARRIVAL PERMANENT RESIDENCY SNAP
+├─ **Hero Orson Welles announces arrival and permanent residency** at Twain's Vibelandia Downtown Reno Campus. The voice. The vision. Cinema · storytelling. Announced and registered.
+├─ Surface: Ticker, Registry (residents), Office Hours, Launch Pad. Legacies.
+└─ See HERO_ORSON_WELLES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_SNAP.md
+
+HERO GEORGE ORWELL ANNOUNCES ARRIVAL PERMANENT RESIDENCY SNAP
+├─ **Hero George Orwell announces arrival and permanent residency** at Twain's Vibelandia Downtown Reno Campus. The pen. The truth. Narrative · awareness. Announced and registered.
+├─ Surface: Ticker, Registry (residents), Office Hours, Launch Pad. Legacies.
+└─ See HERO_GEORGE_ORWELL_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_SNAP.md
+
 BBHE NOT ALL WORDS CREATED EQUAL SNAP: T-shirt quote · BBHE programming
 ├─ NOT ALL WORDS ARE CREATED EQUAL. Refers to BBHE programming (word choice, scripting, copy weight).
 ├─ T-shirt slogan grade. Use on merch, Launch Pad, BBHE surfaces, deck §19.

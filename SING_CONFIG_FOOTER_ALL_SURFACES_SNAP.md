@@ -21,7 +21,7 @@
   `<div id="sing-config-footer"></div>`  
   `<link rel="stylesheet" href="sing-config-footer.css">` (or `interfaces/sing-config-footer.css` from root)  
   `<script src="sing-config-footer.js"></script>` (or `interfaces/sing-config-footer.js` from root)
-- **Surfaces:** index.html and all interfaces/*.html (Launch Pad, Office Hours, new product families, Space Cloud Division, sing-pulse, payment-checkout, broadcast-pipe-ad-space, sing-booking-kiosk, episodes, one-pagers, prospectus, etc.). All 77+ user-facing HTML pages include the SING! config footer.
+- **Surfaces:** index.html and all interfaces/*.html (Launch Pad, Office Hours, new product families, Space Cloud Division, sing-pulse, payment-checkout, broadcast-pipe-ad-space, sing-booking-kiosk, episodes, one-pagers, prospectus, etc.). All 77+ user-facing HTML pages include the SING! config footer. **SING! 9 · Cosmic · Solar · Planetary · Mine:** Footer tag line includes SING! 9 and scope "all surfaces including cosmic, solar, planetary, and mine"; see [MCA_SQUEEZE_FULL_FILL_SING9_ALL_SURFACES_COSMIC_QUANTUM_SNAP.md](MCA_SQUEEZE_FULL_FILL_SING9_ALL_SURFACES_COSMIC_QUANTUM_SNAP.md).
 
 ---
 

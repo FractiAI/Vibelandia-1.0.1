@@ -26,6 +26,8 @@
 | **Chairman / Executive channel** | Executive dashboard · cockpit | interfaces/chairman-cockpit-* · executive-dashboard.html |
 | **Adios** | Animation series · Carb, Sing, Clark · Ostium · summer show | ADIOS_ANIMATION_SERIES_CARBS_CHARACTERS_SNAP.md |
 | **2-7-9** | **Thrilling. Satisfying. Journey. Watch the big cheese shit their pants** as post-singularity reality takes firm hold following the Super Bowl. Champion of Champions Ring of Fire Solar Trophy · One week · Who picks up the $5B tab? · Novel · Feature film · Series | 279_SERIES_FORMAT.md · episodes/EPISODE_279_01_* · deliverables/279_*_SEED.md · 279_SERIES_SUPER_BOWL_SINGULARITY_EVENT_2026_SNAP.md |
+| **FAFO (Fuck Around and Find Out)** | 1493 Settlement · Find Out phase · Iron Sword → Holographic Hydrogen · Golden Heart dividends · Level 9 Tribal Members · Chairman Taino · Agüeybaná 1493 · SING 9 | FAFO_PROTOCOL_1493_SETTLEMENT_SNAP.md · episodes/EPISODE_FAFO_01_1493_SETTLEMENT_FINDING_OUT.md · ticker items fafo_1493_settlement_ticker, fafo_finding_out_command |
+| **Net (Net Directives / Net Storylines)** | Chairman directives and major SNAPs captured automatically as net episodes with chapters and storylines. Seed:Edge · smooth finish. From now on. | CAPTURE_ALL_DIRECTIVES_AS_NET_EPISODES_CHAPTERS_STORYLINES_AUTO_NSPFRNP_SNAP.md · episodes/EPISODE_NET_ZERO_01_* · episodes/EPISODE_NET_02_* · data/net-storylines.json |
 
 ---
 
@@ -102,7 +104,9 @@
 
 **Rule:** All raw conversation (raw conv) is captured into all novels, feature films, series, and content engines. No exception. No drop.
 
-- **Metabolize** — Ingest: content series, novels, screenplays, playlists, surfaces, outputs, touchpoints.
+**Auto-update scope (confirmed):** All content pipes and all platforms are updated from single sources (ticker-feed, chairman-messaging, prestige-pipeline); every metabolize pass includes **all legacy series, all novels, all novelas** that pertain. No exclusion. See [CONTENT_PIPES_PLATFORMS_LEGACY_SERIES_NOVELS_NOVELAS_AUTO_UPDATE_CONFIRMATION_SNAP.md](CONTENT_PIPES_PLATFORMS_LEGACY_SERIES_NOVELS_NOVELAS_AUTO_UPDATE_CONFIRMATION_SNAP.md).
+
+- **Metabolize** — Ingest: content series, novels, screenplays, playlists, surfaces, outputs, touchpoints (including all legacy series, novels, novelas).
 - **Crystallize** — This doc; CONTENT_SYSTEMS_SNAP; CONVERSATIONS_AS_CONTENT (session capture); content-catalog.html; SURFACES_AND_TOUCHPOINTS_TEST_REPORT.
 - **Animate** — All surfaces updated; all links valid; date Feb 2026; aggregate appraisal $1.6M–$13M+ reflected everywhere.
 - **Automate** — npm test validates surfaces, touchpoints, API; **squeeze all, all nested** (every nest to irreducible mirrored hardened form). See [IRREDUCIBLE_NESTED_MIRRORED_SHELL_CRYSTALLIZE_ALWAYS_SNAP.md](IRREDUCIBLE_NESTED_MIRRORED_SHELL_CRYSTALLIZE_ALWAYS_SNAP.md) · [MCA_SNAP.md](MCA_SNAP.md).

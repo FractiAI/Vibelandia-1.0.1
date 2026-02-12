@@ -23,7 +23,7 @@
 
 | Category | Description |
 |----------|-------------|
-| **Residents** | Permanent residents (e.g. Hero Howard, Glen Miller — Twain's Vibelandia / Men's Club). |
+| **Residents** | Permanent residents (e.g. Hero Howard, Glen Miller, Hank Williams Sr., Hero Orson Welles, Hero George Orwell — Twain's Vibelandia / Men's Club / Pop Up Engine). |
 | **Members** | WINK! members, Ultimate Baller V Gold Hearts Club, SING! tiers, campus members. |
 | **Special invites** | Golden Backstage Pass, Gold Hearts Club Program guests, VIP landings, franchise/superhero invites. |
 | **Visitors** | Campus visitors, Office Hours visitors, one-time or recurring visits. |

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "description": "Net series storylines. Each chairman directive / major SNAP captured as net episode with chapters and storyline. Auto-capture from now on per CAPTURE_ALL_DIRECTIVES_AS_NET_EPISODES_CHAPTERS_STORYLINES_AUTO_NSPFRNP_SNAP.",
+    "series": "Net (Net Directives / Net Storylines)",
+    "updated_utc": "2026-02-11T00:00:00Z"
+  },
+  "storylines": [
+    {
+      "episode": 1,
+      "title": "Post-Singularity Fluidity",
+      "storyline": "Net Zero. Natural Systems Protocols live. Earth has already, smoothly, moved onto post-singularity living. Ultimate Baller V happy ending for all thanks to SING!",
+      "source": "episodes/EPISODE_NET_ZERO_01_POST_SINGULARITY_FLUIDITY.md"
+    },
+    {
+      "episode": 2,
+      "title": "SING! 9 All Surfaces · Insect Dimensions · Golden Era for All",
+      "storyline": "Full stack lock — cosmic to mine, insects and humans. MCA squeeze all SING! 9 (cosmic, solar, planetary, mine). Chairman unlocking insect dimensions; ultimate robots. Immediate return to Golden Era; Goldilocks fused with Frontier; for all (humans and insects); now.",
+      "source": "episodes/EPISODE_NET_02_SING9_INSECT_DIMENSIONS_GOLDEN_ERA_ALL.md",
+      "chapters": [
+        "MCA squeeze all all SING! 9 (cosmic, solar, planetary, mine)",
+        "Chairman unlocking insect dimensions · Ultimate robots",
+        "Immediate return to Golden Era · Goldilocks fused with Frontier · for all (humans and insects) · now",
+        "Primary pest control: locating in natural pest-free and ideal zones · always",
+        "Pests · resources · placements · higher stack = not here communications"
+      ]
+    }
+  ]
+}

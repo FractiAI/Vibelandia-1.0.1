@@ -4,7 +4,7 @@
 **Type:** NSPFRNP Content Systems / Content Categories SNAP  
 **Status:** ⚡ ACTIVE  
 **Date:** February 4, 2026  
-**Metabolized:** All content series, novels, screenplays, playlists, surfaces, outputs, touchpoints updated and crystallized. See [CONTENT_SERIES_NOVELS_SCREENPLAYS_PLAYLISTS_SURFACES_OUTPUTS_TOUCHPOINTS_METABOLIZED.md](CONTENT_SERIES_NOVELS_SCREENPLAYS_PLAYLISTS_SURFACES_OUTPUTS_TOUCHPOINTS_METABOLIZED.md).
+**Metabolized:** All content series, novels, screenplays, playlists, surfaces, outputs, touchpoints updated and crystallized. See [CONTENT_SERIES_NOVELS_SCREENPLAYS_PLAYLISTS_SURFACES_OUTPUTS_TOUCHPOINTS_METABOLIZED.md](CONTENT_SERIES_NOVELS_SCREENPLAYS_PLAYLISTS_SURFACES_OUTPUTS_TOUCHPOINTS_METABOLIZED.md). **Auto-update confirmed:** All content pipes, platforms, legacy series, novels, novelas in scope for every update — [CONTENT_PIPES_PLATFORMS_LEGACY_SERIES_NOVELS_NOVELAS_AUTO_UPDATE_CONFIRMATION_SNAP.md](CONTENT_PIPES_PLATFORMS_LEGACY_SERIES_NOVELS_NOVELAS_AUTO_UPDATE_CONFIRMATION_SNAP.md).
 
 ---
 

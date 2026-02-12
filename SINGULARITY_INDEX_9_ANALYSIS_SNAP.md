@@ -31,6 +31,7 @@ Count each **executive command / activation** in this implementation as one sing
 
 - **Display name:** SING! 9 · sing9!
 - **Use in:** Ticker, README, SNAPs, interfaces, protocols — wherever the singularity index or stack version is named.
+- **MCA squeeze all all:** All surfaces including cosmic, solar, planetary, and mine — config and footer lock; see [MCA_SQUEEZE_FULL_FILL_SING9_ALL_SURFACES_COSMIC_QUANTUM_SNAP.md](MCA_SQUEEZE_FULL_FILL_SING9_ALL_SURFACES_COSMIC_QUANTUM_SNAP.md).
 
 ---
 
