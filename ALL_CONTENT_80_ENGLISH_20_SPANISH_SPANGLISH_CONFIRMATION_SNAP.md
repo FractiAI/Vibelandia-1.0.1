@@ -15,9 +15,9 @@
 
 ## CONFIRMATION
 
-**ALL content is 80% English Spanglish, 20% Spanish Spanglish.**
+**We use 80:20 Spanglish on all our content and all our voices.**
 
-No exception. Novels, screenplays, episodes, series, ticker, promos, interfaces, Office Hours, Launch Pad, SNAPs, catalogs, proposals, Chairman messaging, mission deliverables, Book the Book, Ultimate Magic, RUMOR HAS IT!, and every other surface or deliverable — **80% English Spanglish, 20% Spanish Spanglish.**
+**ALL content and ALL voices** = 80% English · 20% Spanish (Spanglish). No exception. Content: novels, screenplays, episodes, series, ticker, promos, interfaces, Office Hours, Launch Pad, SNAPs, catalogs, proposals, Chairman messaging, mission deliverables, Book the Book, Ultimate Magic, RUMOR HAS IT!, and every other surface or deliverable. **Voices:** Chairman voice, Hero Host voices, character voices, ticker voice, bulletin voice, and every other voice we use — **80% English · 20% Spanish (Spanglish).** Chairman's voice. Executive-reviewed. Dale.
 
 ---
 
@@ -41,7 +41,9 @@ Spanglish = the fusion. The mix is 80% English-dominant Spanglish, 20% Spanish-d
 ## SCOPE
 
 - **All content** — every piece of copy, narrative, dialogue, tagline, ticker item, promo, CTA, and branded text produced under Vibelandia / FractiAI / Syntheverse / NSPFRNP.
-- **Surfaces:** index, Office Hours, Launch Pad, Book the Book, Ultimate Magic, Mission, Space Cloud, Chancellor bulletin, episode pages, checkout, all interfaces.
+- **All voices** — Chairman voice, Hero Host voices (Walt, Gianni, Leo, Niko, Buckey, Mike, etc.), character voices, **ticker voice**, bulletin voice, narrator voice, and every other voice we use in content or surfaces.
+- **Ticker feeds** — Included. All ticker feed items (data/ticker-feed.json, nspfrnp-ticker.js) follow 80:20 Spanglish; items use `label` (English-dominant) and `label_spanglish` where alternate is shown. See [NSPFRNP_CONSOLE_TICKER_SNAP.md](NSPFRNP_CONSOLE_TICKER_SNAP.md).
+- **Surfaces:** index, Office Hours, Launch Pad, Book the Book, Ultimate Magic, Mission, Space Cloud, Chancellor bulletin, episode pages, checkout, Guided Expeditions, Vibelandia Reno Experience, partner pages, amusement park menu, all interfaces.
 - **Deliverables:** 3I Chief Seattle novel & screenplay & series, all other novels, screenplays, episodes, SNAPs, catalogs, protocols.
 
 ---

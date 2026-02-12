@@ -10,7 +10,7 @@
 
 **Streaming ticker at bottom of chairman consoles.** Feed important messages and key values in streaming ticker format. Very cool and effective NSPFRNP. Same pattern as Live Pulse legacy stream ticker — reused across all chairman consoles so we can stream messages and key values consistently. **Calming trickle pace** — there's no rush, it's all flow. Slowed to a gentle stream, not a strong rush.
 
-**Feeds:** Packaged as **cycling 1 min feeds** with **1 min breaks** between feed cycles; updated naturally as pushes trigger push to ticker feed cycles.
+**Feeds:** Packaged as **cycling 1 min feeds** with **1 min breaks** between feed cycles; updated naturally as pushes trigger push to ticker feed cycles. **Ticker feeds are included in all content and all voices:** 80% English · 20% Spanish (Spanglish). Chairman's voice. Executive-reviewed. See [ALL_CONTENT_80_ENGLISH_20_SPANISH_SPANGLISH_CONFIRMATION_SNAP.md](ALL_CONTENT_80_ENGLISH_20_SPANISH_SPANGLISH_CONFIRMATION_SNAP.md). Data: [data/ticker-feed.json](data/ticker-feed.json); items may include `label` and `label_spanglish` for 80:20 display.
 
 **First feed of the ticker cycles:** The **announcement of the ticker** is the **first feed** of the ticker cycles — NSPFRNP TICKER SNAP. Every cycle leads with the ticker announcement, then the rest of the messages.
 

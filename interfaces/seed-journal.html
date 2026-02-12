@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seed Journal — 2012 → Now · From the vault | VIBELANDIA!</title>
+    <meta name="description" content="Seed journal. Your Facebook and Instagram posts — raw text preserved for genuine dialogs and scenes. Consume and metabolize. Beautiful skin.">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700&family=Inter:wght@400;500;600;700&display=swap">
+    <link rel="stylesheet" href="experience-common.css">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Inter', 'Segoe UI', sans-serif;
+            background: linear-gradient(165deg, #0a0812 0%, #0f0a14 25%, #12101a 50%, #0d0a12 100%);
+            color: #e8e6e3;
+            min-height: 100vh;
+            line-height: 1.65;
+        }
+        .wrap { max-width: 800px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
+        .back { margin-bottom: 1.5rem; }
+        .back a { color: #00d4ff; text-decoration: none; }
+        .back a:hover { text-decoration: underline; }
+        .hero {
+            padding: 2.5rem 1.5rem 3rem;
+            margin-bottom: 2rem;
+            background: linear-gradient(145deg, rgba(212, 175, 55, 0.12) 0%, rgba(0, 212, 255, 0.08) 40%, rgba(138, 43, 226, 0.06) 100%);
+            border: 2px solid rgba(212, 175, 55, 0.5);
+            border-radius: 20px;
+            box-shadow: 0 0 60px rgba(212, 175, 55, 0.1);
+        }
+        .hero .badge { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.22em; color: rgba(212, 175, 55, 0.95); margin-bottom: 0.5rem; }
+        .hero h1 { font-family: 'Cormorant Garamond', Georgia, serif; font-size: clamp(1.5rem, 4vw, 2.25rem); font-weight: 700; color: #d4af37; margin-bottom: 0.5rem; }
+        .hero .tagline { font-size: 0.95rem; color: #b0b8c0; }
+        #timeline { margin-top: 1.5rem; }
+        #timeline .year { margin-bottom: 1.5rem; }
+        #timeline .year h2 { font-size: 1.1rem; color: #00d4ff; margin-bottom: 0.75rem; font-weight: 700; }
+        #timeline .months { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+        #timeline .months a {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            background: rgba(212, 175, 55, 0.15);
+            color: #ffeaa7;
+            text-decoration: none;
+            border-radius: 8px;
+            border: 1px solid rgba(212, 175, 55, 0.4);
+            font-size: 0.9rem;
+        }
+        #timeline .months a:hover { background: rgba(212, 175, 55, 0.25); }
+        #journal-body {
+            padding: 0;
+            color: #c8d0d8;
+            font-size: 0.98rem;
+        }
+        #journal-body h2 { font-size: 1rem; text-transform: uppercase; letter-spacing: 0.12em; color: #d4af37; margin: 2rem 0 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid rgba(212, 175, 55, 0.3); }
+        #journal-body h2:first-of-type { margin-top: 0; }
+        #journal-body p { margin-bottom: 0.75rem; }
+        #journal-body a { color: #00d4ff; }
+        .loading { padding: 2rem; text-align: center; color: #888; }
+        .empty-state { padding: 2rem; text-align: center; background: rgba(0,0,0,0.2); border-radius: 14px; border: 2px dashed rgba(212, 175, 55, 0.3); color: #9ca3af; }
+        .empty-state a { color: #00d4ff; }
+        .nav-journal { margin-top: 1.5rem; }
+        .nav-journal a { color: #d4af37; font-weight: 600; margin-right: 1rem; }
+    </style>
+</head>
+<body>
+    <script src="tsunami-advisory-inject.js"></script>
+    <div class="wrap">
+        <p class="back">
+            <a href="office-hours.html">← Office Hours</a>
+            <span style="color: rgba(255,255,255,0.3); margin: 0 0.5rem;">·</span>
+            <a href="launch-pad.html">Launch Pad</a>
+            <span style="color: rgba(255,255,255,0.3); margin: 0 0.5rem;">·</span>
+            <a href="index.html">Home</a>
+        </p>
+
+        <section class="hero">
+            <p class="badge">Seed journal · Beautiful skin</p>
+            <h1>Seed Journal — From the vault</h1>
+            <p class="tagline">2012 → now. Your Facebook and Instagram — raw text preserved for genuine dialogs and scenes. Consume and metabolize.</p>
+            <p style="font-size: 0.85rem; color: #d4af37; font-weight: 700; margin-top: 0.75rem;">Only awareness liberates!</p>
+        </section>
+
+        <div id="timeline" style="display: none;"></div>
+        <div id="journal-body" style="display: none;"></div>
+        <div id="loading" class="loading">Loading…</div>
+        <div id="empty" class="empty-state" style="display: none;">
+            <p><strong>No journal data yet.</strong></p>
+            <p style="margin-top: 0.75rem;">Request your <strong>Facebook</strong> and <strong>Instagram</strong> data exports (Settings → Download your information), then put <code>facebook.zip</code> and <code>instagram.zip</code> in <code>data/social-journal/incoming/</code> and run <code>npm run ingest-social-journal</code>. See <a href="../TURNKEY_SOCIAL_JOURNAL_EXPORT_GUIDE.md">Turnkey guide</a>.</p>
+        </div>
+
+        <p class="nav-journal" id="nav-back" style="display: none;"><a href="seed-journal.html">← All months</a></p>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+(function () {
+    var params = new URLSearchParams(window.location.search);
+    var month = params.get('month');
+    var base = '../data/social-journal';
+
+    function showEmpty() {
+        document.getElementById('loading').style.display = 'none';
+        document.getElementById('empty').style.display = 'block';
+    }
+
+    function showMonthView(html) {
+        document.getElementById('loading').style.display = 'none';
+        document.getElementById('timeline').style.display = 'none';
+        document.getElementById('journal-body').innerHTML = html;
+        document.getElementById('journal-body').style.display = 'block';
+        document.getElementById('nav-back').style.display = 'block';
+    }
+
+    function showTimeline(index) {
+        document.getElementById('loading').style.display = 'none';
+        document.getElementById('journal-body').style.display = 'none';
+        document.getElementById('nav-back').style.display = 'none';
+        var tl = document.getElementById('timeline');
+        tl.style.display = 'block';
+        tl.innerHTML = '';
+        var byYear = index.byYear || {};
+        var years = Object.keys(byYear).sort().reverse();
+        years.forEach(function (y) {
+            var div = document.createElement('div');
+            div.className = 'year';
+            var h2 = document.createElement('h2');
+            h2.textContent = y;
+            div.appendChild(h2);
+            var monthsDiv = document.createElement('div');
+            monthsDiv.className = 'months';
+            (byYear[y] || []).forEach(function (m) {
+                var a = document.createElement('a');
+                a.href = 'seed-journal.html?month=' + encodeURIComponent(m);
+                a.textContent = m;
+                monthsDiv.appendChild(a);
+            });
+            div.appendChild(monthsDiv);
+            tl.appendChild(div);
+        });
+    }
+
+    if (month) {
+        var url = base + '/' + month.slice(0, 4) + '/' + month + '.md';
+        fetch(url)
+            .then(function (r) {
+                if (!r.ok) throw new Error('Not found');
+                return r.text();
+            })
+            .then(function (md) {
+                if (typeof marked !== 'undefined') {
+                    marked.setOptions({ gfm: true, breaks: true });
+                    showMonthView(marked.parse(md));
+                } else {
+                    showMonthView('<pre style="white-space: pre-wrap;">' + md.replace(/</g, '&lt;') + '</pre>');
+                }
+            })
+            .catch(function () { showMonthView('<p>Month not found. <a href="seed-journal.html">← All months</a></p>'); });
+        return;
+    }
+
+    fetch(base + '/index.json')
+        .then(function (r) {
+            if (!r.ok) throw new Error('No index');
+            return r.json();
+        })
+        .then(function (index) {
+            if (!index.months || index.months.length === 0) showEmpty();
+            else showTimeline(index);
+        })
+        .catch(function () { showEmpty(); });
+})();
+    </script>
+    <link rel="stylesheet" href="nspfrnp-ticker.css">
+    <div class="nspfrnp-console-ticker" aria-live="polite"><span class="ticker-inner" id="nspfrnpTickerText"></span></div>
+    <script src="nspfrnp-ticker.js"></script>
+</body>
+</html>

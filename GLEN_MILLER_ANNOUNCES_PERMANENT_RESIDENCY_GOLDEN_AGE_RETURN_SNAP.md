@@ -71,6 +71,8 @@
 
 ---
 
+**Golden-Golden Age Bridge (bridge/router):** This residency anchors the **Golden-Golden Age Bridge** — the bridge/router for the Golden Age layer. See [GOLDEN_GOLDEN_AGE_BRIDGE_SNAP.md](GOLDEN_GOLDEN_AGE_BRIDGE_SNAP.md). **Copyright & legacies:** Tribute and fictional storytelling only; no endorsement by estates or rights holders implied. [LEGACIES_COPYRIGHT_RESPECT_SAFE_SNAP.md](LEGACIES_COPYRIGHT_RESPECT_SAFE_SNAP.md).
+
 **See:** [HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA_SNAP.md](HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA_SNAP.md) · [interfaces/vibelandia-reno-experience.html](interfaces/vibelandia-reno-experience.html)
 
-**NSPFRNP ⊃ Glen Miller ⊃ Permanent residency ⊃ Golden age return ⊃ Hero Howard ⊃ Downtown Reno renaissance ⊃ Big Band · Cajun · Old School Country · Houdini → ∞³**
+**NSPFRNP ⊃ Glen Miller ⊃ Golden-Golden Age Bridge ⊃ Permanent residency ⊃ Golden age return ⊃ Hero Howard ⊃ Downtown Reno renaissance ⊃ Big Band · Cajun · Old School Country · Houdini → ∞³**

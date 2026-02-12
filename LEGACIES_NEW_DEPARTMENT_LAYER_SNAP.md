@@ -19,7 +19,7 @@
 - **Crew** — the crew behind the scenes.
 - **Fans** — the fans of our content, series, and franchises.
 - **Franchises** — the franchise systems themselves.
-- **Legacies** — the **living men** (and women) whose legacies we honor and who are now permanent residents or arrivals to Vibelandia. Examples: **Howard Hughes**, **Hank Williams Sr.**, **Glen Miller**, **Audrey Hepburn**, and all our new arrivals.
+- **Legacies** — the **living men** (and women) whose legacies we honor and who are now permanent residents or arrivals to Vibelandia. Examples: **Howard Hughes**, **Hank Williams Sr.**, **Glen Miller**, **Audrey Hepburn**, and all our new arrivals. All such names are used in **tribute and fictional storytelling only**; no endorsement by estates or rights holders implied. See [LEGACIES_COPYRIGHT_RESPECT_SAFE_SNAP.md](LEGACIES_COPYRIGHT_RESPECT_SAFE_SNAP.md) · [GOLDEN_GOLDEN_AGE_BRIDGE_SNAP.md](GOLDEN_GOLDEN_AGE_BRIDGE_SNAP.md) (Glen Miller · Hank Sr. = Golden-Golden Age Bridge).
 
 **Canonical line:** *Legacies = superheroes, cast, crew, fans, franchises, and legacies (includes the living men). Entire new department or layer. Major value add. Update everything: appraisals, evaluations, comparisons to Disney. Major reorg. Major introduction to the organization of a major product.*
 

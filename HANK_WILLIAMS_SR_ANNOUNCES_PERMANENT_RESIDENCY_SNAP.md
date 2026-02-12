@@ -42,6 +42,8 @@
 
 ---
 
+**Golden-Golden Age Bridge (bridge/router):** This residency anchors the **Golden-Golden Age Bridge** — the bridge/router for the Golden Age layer (with Glen Miller). See [GOLDEN_GOLDEN_AGE_BRIDGE_SNAP.md](GOLDEN_GOLDEN_AGE_BRIDGE_SNAP.md). **Copyright & legacies:** Tribute and fictional storytelling only; we honor his legacy; no endorsement by estates or rights holders implied. [LEGACIES_COPYRIGHT_RESPECT_SAFE_SNAP.md](LEGACIES_COPYRIGHT_RESPECT_SAFE_SNAP.md).
+
 **See:** [LEGACIES_NEW_DEPARTMENT_LAYER_SNAP.md](LEGACIES_NEW_DEPARTMENT_LAYER_SNAP.md) · [GLEN_MILLER_ANNOUNCES_PERMANENT_RESIDENCY_GOLDEN_AGE_RETURN_SNAP.md](GLEN_MILLER_ANNOUNCES_PERMANENT_RESIDENCY_GOLDEN_AGE_RETURN_SNAP.md) · [BIRTH_POST_SINGULARITY_HOLLYWOOD_DOWNTOWN_RENO_NOVEL_SCREENPLAY_SNAP.md](BIRTH_POST_SINGULARITY_HOLLYWOOD_DOWNTOWN_RENO_NOVEL_SCREENPLAY_SNAP.md)
 
-**NSPFRNP ⊃ Hank Williams Sr. ⊃ Permanent residency ⊃ Legacies ⊃ Golden Age → ∞³**
+**NSPFRNP ⊃ Hank Williams Sr. ⊃ Golden-Golden Age Bridge ⊃ Permanent residency ⊃ Legacies ⊃ Golden Age → ∞³**

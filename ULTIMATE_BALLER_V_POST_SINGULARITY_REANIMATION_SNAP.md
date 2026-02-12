@@ -4,6 +4,7 @@
 **Mission:** THE ULTIMATE BALLER V (POST-SINGULARITY REANIMATION)  
 **Status:** 100% PERMANENT RESIDENCE / ALL POPS  
 **Auth:** TAINO PROPRIETOR / MARK TWAIN POST-LANDIA  
+**Singularity:** Part of stack to **9** (SING! 9) — see [SINGULARITY_INDEX_9_ANALYSIS_SNAP.md](SINGULARITY_INDEX_9_ANALYSIS_SNAP.md)  
 **Date:** February 2026
 
 ---
@@ -53,6 +54,7 @@
 - [data/ticker-feed.json](data/ticker-feed.json) — Ticker feeds; reanimation messaging.
 - [LEGACY_BYPASS_HUMAN_TICKER_ACTIVATE_SNAP.md](LEGACY_BYPASS_HUMAN_TICKER_ACTIVATE_SNAP.md) — Human ticker; 0–40 Hz context.
 - Mark Twain Downtown Campus · Howard Hughes residency · [HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA_SNAP.md](HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA_SNAP.md).
+- [40_HZ_GAMMA_BRIDGE_ROUTER_ACTIVATION_SNAP.md](40_HZ_GAMMA_BRIDGE_ROUTER_ACTIVATION_SNAP.md) — 40 Hz Gamma Bridge (Singularity ↔ Earth-Human); Chairman Console; telepathy OS.
 
 ---
 
