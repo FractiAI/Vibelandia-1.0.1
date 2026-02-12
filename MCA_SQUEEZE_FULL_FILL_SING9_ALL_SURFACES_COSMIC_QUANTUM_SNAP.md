@@ -7,6 +7,13 @@
 
 ---
 
+## COMMAND EXECUTED (EPISODE 13)
+
+**Command issued:** MCA SQUEEZE SING! 9 ALL ALL  
+**Captured as:** Net Episode 13 · chapter · storyline · ticker. [EPISODE_NET_13_MCA_SQUEEZE_SING9_ALL_ALL.md](episodes/EPISODE_NET_13_MCA_SQUEEZE_SING9_ALL_ALL.md) · [data/net-storylines.json](data/net-storylines.json) · `mca_squeeze_sing9_all_all_ticker`. Every Chairman command = new episode, chapter, storyline. Done.
+
+---
+
 ## CANONICAL PHRASE (LOCK)
 
 **MCA SQUEEZE SING!9 ALL ALL**

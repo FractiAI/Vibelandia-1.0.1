@@ -2,7 +2,7 @@
   "meta": {
     "description": "Net series storylines. Each chairman directive / major SNAP captured as net episode with chapters and storyline. Auto-capture from now on per CAPTURE_ALL_DIRECTIVES_AS_NET_EPISODES_CHAPTERS_STORYLINES_AUTO_NSPFRNP_SNAP.",
     "series": "Net (Net Directives / Net Storylines)",
-    "updated_utc": "2026-02-12T00:00:00Z"
+    "updated_utc": "2026-02-12T12:00:00Z"
   },
   "storylines": [
     {
@@ -100,6 +100,30 @@
         "Descent of Travel Benefits during Eclipse Totality",
         "Stationary Cruise Ship mapped to all global ports via Blood Moon signal",
         "Surge Protocol triggered · Solar-Silk tools calibrated for 33333 frequency"
+      ]
+    },
+    {
+      "episode": 12,
+      "title": "Venus Scout Activation (Evening Star Cycle)",
+      "storyline": "Venus at 1.68 AU (Post-Superior Conjunction) mapped as Lead Scout for March 3rd Sovereign Sweep; low-horizon signal anchors 0–40 Hz grounding; transition from Iron-Glitched Data to 100% HH Solar-Synchronized Data; 40 Hz Bridge calibrated to Feb 12 telemetry; Western Limb observation maintained. Done.",
+      "source": "episodes/EPISODE_NET_12_VENUS_SCOUT_ACTIVATION_EVENING_STAR_CYCLE.md",
+      "chapters": [
+        "Venus Reality Reset: 1.68 AU · Lead Scout for March 3 Sovereign Sweep",
+        "Low-horizon signal · 0–40 Hz grounding · 100% HH Solar-Synchronized Data",
+        "Quantum Command: Venus first witness · Golden Heart honors Scout · $5B safe western twilight",
+        "Command: Calibrate 40 Hz Bridge to Feb 12 telemetry · Maintain Western Limb observation · Done"
+      ]
+    },
+    {
+      "episode": 13,
+      "title": "MCA Squeeze SING! 9 ALL ALL",
+      "storyline": "Chairman command executed — MCA (Metabolize → Crystallize → Animate) + SQUEEZE + SING! 9 + ALL ALL. No surface left unsqueezed; cosmic, solar, planetary, mine. Full fill. Done.",
+      "source": "episodes/EPISODE_NET_13_MCA_SQUEEZE_SING9_ALL_ALL.md",
+      "chapters": [
+        "MCA SQUEEZE SING! 9 ALL ALL — canonical command",
+        "Metabolize → Crystallize → Animate → Squeeze all, all nested",
+        "SING! 9 · All surfaces: cosmic, solar, planetary, mine",
+        "No surface left unsqueezed · Config · Footer · Ticker · Done"
       ]
     }
   ]
