@@ -12,7 +12,8 @@
 **Kher** — or **him**, or **her**, or **both**. The character who is the **Volkswagen**. Gender doesn't quite matter; it's okay. Both.
 
 - **Vessel:** Volkswagen. **Rag top** — convertible. Sun, rain, goes both ways. Peace. Parked on the side of the road. Seeing who's watching. Taking pictures. Observing everything go by.
-- **Generation:** Still stuck in the War. New generations don't get it. Not like the old days. Not like the good old days. Old school — not always the best parts of old school.
+- **Sit & talk (VW traits):** Likes to **sit and watch the passersby** — or rather **sit and talk about the passersby**. How the old times just after the war were way better.
+- **Generation:** Still stuck in the War. New generations don't get it. Not like the old days. Not like the good old days. **The old times just after the war were way better.** Old school — not always the best parts of old school.
 - **Vibe:** An air of **discrediting everything** because of it — rather than **extracting the common Goldilocks** between the two (then and now, old and new). Best cards. Artificial looking. Cosmetic upgrades needed. **Overcompensates** with an overly well-manicured, overly well-planned presentation. Doesn't want anyone to know but kind of does.
 - **Drive:** Loves **capturing, collecting, and control** — things, collections, garages, cabinets, china cabinets, displays, portfolios, wallets. Collector. Watcher. Old school.
 
@@ -20,7 +21,7 @@
 
 ## ONE LINE
 
-*Kher — the character who is the Volkswagen. Him or her or both. Rag top. Stuck in the War. Discredits rather than Goldilocks. Overcompensates. Collector. Watcher. Old school. Not always the best parts.*
+*Kher — the character who is the Volkswagen. Him or her or both. Rag top. Stuck in the War. Likes to sit and watch the passersby — or rather sit and talk about the passersby. Old times just after the war were way better. Discredits rather than Goldilocks. Overcompensates. Collector. Watcher. Old school. Not always the best parts.*
 
 ---
 

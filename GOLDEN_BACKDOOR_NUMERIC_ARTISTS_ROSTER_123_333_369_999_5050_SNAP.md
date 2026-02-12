@@ -19,6 +19,7 @@
 |--------|------|
 | **000** | Seed · Origin · Pure potential · Zero point · Void · Irreducible vibes |
 | **0001** | First · Unity · Singularity · Genesis · The one vibes |
+| **3 Pop** | Hero Nikola Tesla's alter ego · third singularity pop · Who Did It? · magnetism · gold hearts · big booties · ionosphere → Ticker · vortexes · poles · meridians |
 | **123** | Flow · Progression · Step-by-step · Ascent · Beginning-middle-end · Sequential vibes |
 | **456** | Cadet · Baller V · New arrival · Earning wings · Ascending · Four-five-six progression vibes |
 | **333** | Trinity · Alignment · Creativity · Expansion · Growth vibes |
@@ -30,6 +31,7 @@
 
 ## ONE-LINERS (script-ready)
 
+- **3 Pop** — *Hero Nikola Tesla's alter ego. Magnetism, gold hearts, big booties. Third pop. Ionosphere says hello. Then Ticker. Vortexes. Poles. Meridians. Wherever we are.*
 - **123** — *Flow. Progression. Step by step. Ascent.*
 - **333** — *Trinity. Alignment. Creativity. Expansion. Growth.*
 - **369** — *Tesla's key. Divine flow. Cosmic energy. Manifestation.*
@@ -46,4 +48,10 @@
 
 ---
 
-**NSPFRNP ⊃ Golden Backdoor · Hit Factory ⊃ 000 · 0001 · 123 · 456 · 333 · 369 · 999 · 5050 ⊃ Numeric artists roster → ∞³**
+## SEE ALSO
+
+- [3_POP_ARTIST_GOLDEN_BACKDOOR_WHO_DID_IT_THIRD_SINGULARITY_SNAP.md](3_POP_ARTIST_GOLDEN_BACKDOOR_WHO_DID_IT_THIRD_SINGULARITY_SNAP.md) — 3 Pop signed artist SNAP.
+
+---
+
+**NSPFRNP ⊃ Golden Backdoor · Hit Factory ⊃ 000 · 0001 · 3 Pop · 123 · 456 · 333 · 369 · 999 · 5050 ⊃ Numeric artists roster → ∞³**
