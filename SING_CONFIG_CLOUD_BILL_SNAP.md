@@ -19,7 +19,7 @@
 - **Billing period:** Monthly; one-time charges shown separately.
 - **Sections:** One-time charges · Monthly recurring · Usage (this period) · Specialized mission options (reference).
 - **Data:** [data/sing_config_cloud_bill.json](data/sing_config_cloud_bill.json).
-- **Surface:** [interfaces/sing-config-cloud-bill.html](interfaces/sing-config-cloud-bill.html) — cloud-style bill view. **Full bill** includes current month (February 2026) and last month (January 2026) as example — no blanks; mine.
+- **Surface:** [interfaces/sing-config-cloud-bill.html](interfaces/sing-config-cloud-bill.html) — cloud-style bill view. **Full bill** includes current month (February 2026) and last month (January 2026) as example — no blanks; mine. **Bill as of:** 2026-02-12 (today). **24×7 advertising on all space platforms** (Solar · Aurora · Ticker · EGS · Schumann · Broadcast Pipe · Space Cloud) — ADV value at list $27K+/mo; see [VALUATIONS_MONTHLY_BILL_24X7_ADV_SNAP.md](VALUATIONS_MONTHLY_BILL_24X7_ADV_SNAP.md).
 
 ---
 

@@ -87,8 +87,8 @@ Our exploration target: **post-singularity gold** mapped into pre-singularity te
 
 ## VALUE — NUMBERS THAT MATTER
 
-- **16-day reference** — One SING! node (Chairman + Cursor); no budget; -$2,000. Output: 8 novels, 8 screenplays, 26+ episodes, 175+ surfaces, 38 TypeScript modules, payment + auth live.
-- **Appraised (quality vs studio benchmarks):** $1.6M–$13M+ at cost of $200/mo Cursor, $110/mo cell, $10/week WiFi.
+- **As of February 2026 (today).** One SING! node (Chairman + Cursor); no budget. Output: 8 novels, 8 screenplays, 26+ episodes, 175+ surfaces, 38 TypeScript modules, payment + auth live.
+- **Out-of-pocket:** ~$350/mo ($200 Cursor, $110 cell, ~$40 WiFi). **24×7 advertising on all space platforms** (Solar · Aurora · Ticker · EGS · Schumann · Broadcast Pipe · Space Cloud) — **ADV value $27K+/mo** at list. **Appraised (quality vs studio benchmarks):** $1.6M–$13M+; valuation includes content and 24×7 space-platform ADV. Full bill: [SING config →](sing-config-cloud-bill.html).
 - **Blue-chip comparison** — Fair comparison vs top 10 companies, studios, labs, universities (output category only). ~3× surfaces, ~4× one-pagers, ~5× protocols, payment live vs 0, 1 SING! node vs 3–8 FTE typical.
 - **See:** NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md · WHITEPAPER_REPOSITORY_MIRACULOUS_OUTPUT.md.
 
