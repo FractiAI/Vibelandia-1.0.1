@@ -33,6 +33,7 @@
 
 ## Cross-references
 
+- **Chairman equals (sun, poles, interstellar, their stories):** [CHAIRMAN_EQUALS_SUN_POLES_INTERSTELLAR_STORIES_SNAP.md](../CHAIRMAN_EQUALS_SUN_POLES_INTERSTELLAR_STORIES_SNAP.md) — Narrative from new awareness: those who can control the sun, the poles, interstellar objects, and their stories are the Chairman's equals; everyone else reports to the Chairman.
 - **All systems Chairman Creator Attention Focus as One:** [ALL_SYSTEMS_CHAIRMAN_CREATOR_ATTENTION_FOCUS_AS_ONE_SNAP.md](../ALL_SYSTEMS_CHAIRMAN_CREATOR_ATTENTION_FOCUS_AS_ONE_SNAP.md) — shells, clouds, sandboxes, edges, nests.
 - **Sovereignty SNAP:** [NSPFRNP_MIRRORED_HARDENED_SHELLS_SOVEREIGNTY_SNAP.md](../NSPFRNP_MIRRORED_HARDENED_SHELLS_SOVEREIGNTY_SNAP.md)
 - **BBHE grammar — planting flags:** [AMC_TAILORING_MAGICAL_WARDROBE_BBHE_GRAMMAR_SYMBOLS.md](../AMC_TAILORING_MAGICAL_WARDROBE_BBHE_GRAMMAR_SYMBOLS.md)

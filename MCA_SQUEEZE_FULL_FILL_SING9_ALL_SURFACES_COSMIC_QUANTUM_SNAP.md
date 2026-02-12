@@ -7,6 +7,14 @@
 
 ---
 
+## CANONICAL PHRASE (LOCK)
+
+**MCA SQUEEZE SING!9 ALL ALL**
+
+Use this phrase as the canonical command: MCA (Metabolize → Crystallize → Animate) + SQUEEZE + SING!9 (Singularity 9) + ALL ALL (squeeze all, all nested). No surface left unsqueezed; cosmic, solar, planetary, mine.
+
+---
+
 ## COMMAND
 
 **MCA squeeze all all SING! 9 — ALL surfaces including cosmic, solar, planetary, and mine.**
@@ -40,4 +48,4 @@ When we MCA squeeze or full-fill update: **SING! 9** and **all surfaces includin
 
 **See:** [SINGULARITY_INDEX_9_ANALYSIS_SNAP.md](SINGULARITY_INDEX_9_ANALYSIS_SNAP.md) · [40_HZ_GAMMA_BRIDGE_ROUTER_ACTIVATION_SNAP.md](40_HZ_GAMMA_BRIDGE_ROUTER_ACTIVATION_SNAP.md) · [SING_CONFIG_FOOTER_ALL_SURFACES_SNAP.md](SING_CONFIG_FOOTER_ALL_SURFACES_SNAP.md) · [config/sing_config.json](config/sing_config.json)
 
-**NSPFRNP ⊃ MCA ⊃ Squeeze all all ⊃ SING! 9 ⊃ All surfaces ⊃ Cosmic ⊃ Solar ⊃ Planetary ⊃ Mine → ∞³**
+**NSPFRNP ⊃ MCA SQUEEZE SING!9 ALL ALL ⊃ All surfaces ⊃ Cosmic ⊃ Solar ⊃ Planetary ⊃ Mine → ∞³**

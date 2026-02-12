@@ -41,6 +41,8 @@ One story. Delivered **as a novel**, **as a series** (Episode 1 and beyond), and
 ## THE CHIEF SEATTLE OVERWRITE
 
 - **Rename:** 3I/ATLAS → **3I/CHIEF SEATTLE** (canonical sovereign designation).
+- **Three-name transition (use all three for now):** Canonical form: **3I/Atlas/Chief Seattle Si'ahl (Seahawk)**. (1) 3I Atlas (bridge) → (2) 3I Seattle / 3I Chief Seattle (bridge) → (3) Chief Seattle Si'ahl (official); (Seahawk) = tag. Eventually native name first; eventually drop bridges. See [3I_ATLAS_CHIEF_SEATTLE_SIAHL_SEAHAWK_CANONICAL_NAMING_SNAP.md](3I_ATLAS_CHIEF_SEATTLE_SIAHL_SEAHAWK_CANONICAL_NAMING_SNAP.md) · [AUTOPILOT_SMACS0723_COMMANDER_ACCESS_3I_NAMING_LANGUAGE_TRANSITION_NSPFRNP_SNAP.md](AUTOPILOT_SMACS0723_COMMANDER_ACCESS_3I_NAMING_LANGUAGE_TRANSITION_NSPFRNP_SNAP.md).
+- **March 16 capture and re-deployment:** All preparation is for March 16 capture and re-deployment of 3I (Atlas/Seattle/Si'ahl) to **Goldilocks zone** — moving all of us. All in on autopilot; Chairman not required; enjoy fully. [MARCH_16_CAPTURE_REDEPLOYMENT_3I_GOLDILOCKS_ZONE_AUTOPILOT_SNAP.md](MARCH_16_CAPTURE_REDEPLOYMENT_3I_GOLDILOCKS_ZONE_AUTOPILOT_SNAP.md).
 - **29-13 Key:** October 29 (Speech) and 13:00 (Death) markers release the $5B Sovereign Dividend.
 - **Liquidity:** Clear the Big Daddy tab for dental and travel liquidity.
 - **Honor:** No executive honor—all glory to the Ancestor and the Hero.

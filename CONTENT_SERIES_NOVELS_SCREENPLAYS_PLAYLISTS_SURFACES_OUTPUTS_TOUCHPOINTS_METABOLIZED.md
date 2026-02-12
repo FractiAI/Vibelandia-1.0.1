@@ -27,11 +27,14 @@
 | **Adios** | Animation series · Carb, Sing, Clark · Ostium · summer show | ADIOS_ANIMATION_SERIES_CARBS_CHARACTERS_SNAP.md |
 | **2-7-9** | **Thrilling. Satisfying. Journey. Watch the big cheese shit their pants** as post-singularity reality takes firm hold following the Super Bowl. Champion of Champions Ring of Fire Solar Trophy · One week · Who picks up the $5B tab? · Novel · Feature film · Series | 279_SERIES_FORMAT.md · episodes/EPISODE_279_01_* · deliverables/279_*_SEED.md · 279_SERIES_SUPER_BOWL_SINGULARITY_EVENT_2026_SNAP.md |
 | **FAFO (Fuck Around and Find Out)** | 1493 Settlement · Find Out phase · Iron Sword → Holographic Hydrogen · Golden Heart dividends · Level 9 Tribal Members · Chairman Taino · Agüeybaná 1493 · SING 9 | FAFO_PROTOCOL_1493_SETTLEMENT_SNAP.md · episodes/EPISODE_FAFO_01_1493_SETTLEMENT_FINDING_OUT.md · ticker items fafo_1493_settlement_ticker, fafo_finding_out_command |
-| **Net (Net Directives / Net Storylines)** | Chairman directives and major SNAPs captured automatically as net episodes with chapters and storylines. Seed:Edge · smooth finish. From now on. | CAPTURE_ALL_DIRECTIVES_AS_NET_EPISODES_CHAPTERS_STORYLINES_AUTO_NSPFRNP_SNAP.md · episodes/EPISODE_NET_ZERO_01_* · episodes/EPISODE_NET_02_* · data/net-storylines.json |
+| **Net (Net Directives / Net Storylines)** | **New singularity:** Every Chairman command = new episode, chapter, storyline. Chairman directives and major SNAPs captured automatically. Seed:Edge · smooth finish. | EVERY_COMMAND_NEW_EPISODE_CHAPTER_STORYLINE_SINGULARITY_SNAP.md · CAPTURE_ALL_DIRECTIVES_AS_NET_EPISODES_CHAPTERS_STORYLINES_AUTO_NSPFRNP_SNAP.md · episodes/EPISODE_NET_ZERO_01_* · episodes/EPISODE_NET_02_* · episodes/EPISODE_NET_03_* (Cosmic Efficiency Audit) · episodes/EPISODE_NET_04_* (Home Base Syntheverse Genesis all nests) · episodes/EPISODE_NET_05_* (Infinity 9 not 3) · episodes/EPISODE_NET_06_* (98.7% nucleus beekeeper) · episodes/EPISODE_NET_07_* (autopilot commander 3I naming language) · episodes/EPISODE_NET_08_* (March 16 Goldilocks autopilot) · episodes/EPISODE_NET_09_* (Betelgeuse Goose Galactic Router) · episodes/EPISODE_NET_10_* (EL APAGÓN MARZO 333 POLE SHIFT) · data/net-storylines.json |
+| **EL APAGÓN · MARZO 333 · POLE SHIFT** | **New series start.** The Blackout · March 333 · Pole Shift. Series · Feature movie · Novel · Novela — Seed:Edge only for now. 333333333333333. | EL_APAGON_MARZO_333_POLE_SHIFT_SNAP.md · episodes/EPISODE_NET_10_EL_APAGON_MARZO_333_POLE_SHIFT.md · deliverables/EL_APAGON_MARZO_333_POLE_SHIFT_SERIES_SEED.md · deliverables/EL_APAGON_MARZO_333_POLE_SHIFT_FEATURE_MOVIE_SEED.md · deliverables/EL_APAGON_MARZO_333_POLE_SHIFT_NOVEL_SEED.md · deliverables/EL_APAGON_MARZO_333_POLE_SHIFT_NOVELA_SEED.md · ticker el_apagon_marzo_333_pole_shift_ticker |
 
 ---
 
 ## 2. NOVELS
+
+**Platform (lock):** All novels, series, feature movies — **PG-13 base** (general audiences **13+ with parental control**); **optional 21+ Gold Heart** upgrade to novela versions with **masculine POV** and **feminine POV** options. Pricing: add a 0 to the base for the 21+ option, then 4×4×4×4. [NEW_PLATFORM_NOVELS_SERIES_FEATURE_PG13_BASE_21_GOLD_HEART_UPGRADE_SNAP.md](NEW_PLATFORM_NOVELS_SERIES_FEATURE_PG13_BASE_21_GOLD_HEART_UPGRADE_SNAP.md) · [NOVELS_ALWAYS_GENERAL_AUDIENCES_SNAP.md](NOVELS_ALWAYS_GENERAL_AUDIENCES_SNAP.md) · [NOVELA_21_GOLD_HEART_CHAIRMAN_APPROVAL_SNAP.md](NOVELA_21_GOLD_HEART_CHAIRMAN_APPROVAL_SNAP.md).
 
 | Novel | Words | Deliverable | Surface |
 |-------|-------|-------------|---------|
@@ -39,6 +42,7 @@
 | **Birth of the New Post-Singularity Hollywood in Downtown Reno** | ~20.8k | deliverables/Birth_Post_Singularity_Hollywood_Downtown_Reno_NOVEL.md | interfaces/birth-post-singularity-novel.html · return-to-golden-era.html |
 | **The EGS Run** | L'Amour-length | deliverables/The_EGS_Run_NOVEL.md | interfaces/the-egs-run-novel.html · space-cloud-egs-series.html |
 | **2-7-9 — Super Bowl Singularity Event 2026** | Seed | deliverables/279_SUPER_BOWL_SINGULARITY_EVENT_2026_NOVEL_SEED.md | 279_SERIES_SUPER_BOWL_SINGULARITY_EVENT_2026_SNAP.md |
+| **EL APAGÓN · MARZO 333 · POLE SHIFT** | Seed:Edge only | deliverables/EL_APAGON_MARZO_333_POLE_SHIFT_NOVEL_SEED.md | EL_APAGON_MARZO_333_POLE_SHIFT_SNAP.md |
 
 **Irreducible Crystal** (companion): IRREDUCIBLE_CRYSTAL_BIRTH_POST_SINGULARITY_* · IRREDUCIBLE_CRYSTAL_FIRST_SINGULARITY_* · IRREDUCIBLE_CRYSTAL_THE_EGS_RUN.md
 
@@ -52,6 +56,7 @@
 | **Birth Post Singularity Hollywood Downtown Reno** | ~8.2k | deliverables/Birth_Post_Singularity_Hollywood_Downtown_Reno_SCREENPLAY.md | interfaces/birth-post-singularity-screenplay.html (Golden Era Cinema skin) |
 | **The EGS Run** | 2-hour feature | deliverables/The_EGS_Run_SCREENPLAY.md | interfaces/the-egs-run-screenplay.html |
 | **2-7-9 — Super Bowl Singularity Event 2026** | Seed | deliverables/279_SUPER_BOWL_SINGULARITY_EVENT_2026_SCREENPLAY_SEED.md | 279_SERIES_SUPER_BOWL_SINGULARITY_EVENT_2026_SNAP.md |
+| **EL APAGÓN · MARZO 333 · POLE SHIFT** | Seed:Edge only | deliverables/EL_APAGON_MARZO_333_POLE_SHIFT_FEATURE_MOVIE_SEED.md | EL_APAGON_MARZO_333_POLE_SHIFT_SNAP.md |
 
 **Beautiful skins:** SCREENPLAY_BEAUTIFUL_SKINS_SNAP.md
 

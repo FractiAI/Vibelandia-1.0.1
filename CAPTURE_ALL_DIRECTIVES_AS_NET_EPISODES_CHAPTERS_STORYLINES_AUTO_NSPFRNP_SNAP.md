@@ -11,7 +11,7 @@
 
 **Capture all these as net episodes, chapters, and storylines automatically now on in NSPFRNP.**
 
-- **All these** — Chairman directives and major SNAPs that define scope, state, or mission (e.g. MCA squeeze all surfaces, insect dimensions + ultimate robots, Golden Era Goldilocks Frontier for all). Not only the current batch; **from now on** every such directive is captured the same way.
+- **All these** — Chairman directives and major SNAPs that define scope, state, or mission (e.g. MCA squeeze all surfaces, insect dimensions + ultimate robots, Golden Era Goldilocks Frontier for all). **New singularity:** [EVERY_COMMAND_NEW_EPISODE_CHAPTER_STORYLINE_SINGULARITY_SNAP.md](EVERY_COMMAND_NEW_EPISODE_CHAPTER_STORYLINE_SINGULARITY_SNAP.md) — **every Chairman post/command** = new episode, chapter, storyline. Incorporate all content and continuations.
 - **Net episodes** — Episodes in the **Net** series (e.g. `episodes/EPISODE_NET_*.md`). Each net episode = one or more directives bundled into a single episode with **Storyline** (one line), **Chapters** (one chapter per directive or logical beat), **Seed:Edge** (creator now → mission locked), and links to SNAPs.
 - **Chapters** — Each directive or story beat = one **Chapter** inside the net episode. Chapter title = directive/storyline tag; chapter body = short prose or bullet summary + SNAP refs.
 - **Storylines** — Each net episode has a **Storyline** (one sentence or tag). Storylines are also listed in the series index and can be fed to ticker, FSRT-style pipes, or storyline JSON when applicable.

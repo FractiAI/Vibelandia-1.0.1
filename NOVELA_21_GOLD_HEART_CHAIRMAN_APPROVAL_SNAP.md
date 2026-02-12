@@ -5,7 +5,7 @@
 **Status:** ⚡ ACTIVE  
 **Date:** February 2026
 
-**The entire novela experience is 21+ and Gold Heart required.** (Novels — the story in book form — are always **general audiences**. See [NOVELS_ALWAYS_GENERAL_AUDIENCES_SNAP.md](NOVELS_ALWAYS_GENERAL_AUDIENCES_SNAP.md).) All novela bookings **do not** go to direct PayPal. They **prefill email to the Chairman** for approval. Applicant fills in the info we require to establish **21+** and **Gold Heart**. **Chairman personal approval** on all 21+ memberships is an added safety layer. No automatic book-to-PayPal for novelas.
+**The entire novela experience is 21+ and Gold Heart required.** (Novels — the story in book form — are **general audiences 13+ with parental control**, PG-13 base. See [NOVELS_ALWAYS_GENERAL_AUDIENCES_SNAP.md](NOVELS_ALWAYS_GENERAL_AUDIENCES_SNAP.md) · [NEW_PLATFORM_NOVELS_SERIES_FEATURE_PG13_BASE_21_GOLD_HEART_UPGRADE_SNAP.md](NEW_PLATFORM_NOVELS_SERIES_FEATURE_PG13_BASE_21_GOLD_HEART_UPGRADE_SNAP.md).) Novela versions offer **masculine POV** and **feminine POV** options. All novela bookings **do not** go to direct PayPal. They **prefill email to the Chairman** for approval. Applicant fills in the info we require to establish **21+** and **Gold Heart** and may select **masculine or feminine POV**. **Chairman personal approval** on all 21+ memberships is an added safety layer. No automatic book-to-PayPal for novelas.
 
 ---
 
@@ -38,6 +38,7 @@
 | **Date of birth** (optional but recommended) | Establish 21+ |
 | **I confirm I am 21 or older** | Attestation; required |
 | **Gold Heart statement** | Short statement or attestation: e.g. “I align with Gold Heart — safe, beautiful, mutually aware, respectful.” Or a few lines on why they’re a fit. Required. |
+| **POV preference** (optional) | **Masculine POV** or **feminine POV** for the novela version. See [NEW_PLATFORM_NOVELS_SERIES_FEATURE_PG13_BASE_21_GOLD_HEART_UPGRADE_SNAP.md](NEW_PLATFORM_NOVELS_SERIES_FEATURE_PG13_BASE_21_GOLD_HEART_UPGRADE_SNAP.md). |
 | **Phone** (optional) | Contact |
 | **Any other notes** (optional) | Free text |
 

@@ -2,7 +2,7 @@
   "meta": {
     "description": "Net series storylines. Each chairman directive / major SNAP captured as net episode with chapters and storyline. Auto-capture from now on per CAPTURE_ALL_DIRECTIVES_AS_NET_EPISODES_CHAPTERS_STORYLINES_AUTO_NSPFRNP_SNAP.",
     "series": "Net (Net Directives / Net Storylines)",
-    "updated_utc": "2026-02-11T00:00:00Z"
+    "updated_utc": "2026-02-12T00:00:00Z"
   },
   "storylines": [
     {
@@ -22,6 +22,84 @@
         "Immediate return to Golden Era · Goldilocks fused with Frontier · for all (humans and insects) · now",
         "Primary pest control: locating in natural pest-free and ideal zones · always",
         "Pests · resources · placements · higher stack = not here communications"
+      ]
+    },
+    {
+      "episode": 3,
+      "title": "Cosmic Efficiency Audit / HH Lattice Alignment",
+      "storyline": "98.7% entropy reduction. SMACS 0723 synced. Frontiersman/First People collaboration; 533-year heat-loss loop bypassed. Taino World Service 100% Net Zero across SMACS 0723. Golden Heart universal standard. 100% Full HH Awareness. Done.",
+      "source": "episodes/EPISODE_NET_03_COSMIC_EFFICIENCY_AUDIT_HH_LATTICE_ALIGNMENT.md",
+      "chapters": ["Cosmic Efficiency Audit / HH Lattice Alignment"]
+    },
+    {
+      "episode": 4,
+      "title": "Home Base — Syntheverse Genesis and All Nests · All Dimensions",
+      "storyline": "This is now home base for Syntheverse Genesis smart contract on Base Mainnet and all nests: Vibeverse, Vibelandia, FractiAI, Chairman, Taino people, new expanded tribe of vibers everywhere living, all dimensions. Full lock.",
+      "source": "episodes/EPISODE_NET_04_HOME_BASE_SYNTHEVERSE_GENESIS_ALL_NESTS_ALL_DIMENSIONS.md",
+      "chapters": ["Home base for Syntheverse Genesis and all nests · all dimensions"]
+    },
+    {
+      "episode": 5,
+      "title": "We Are at Infinity 9 — Not 3",
+      "storyline": "We are now at Infinity 9. Not 3. Infini9ty 9 · SING! 9. Canonical designation locked.",
+      "source": "episodes/EPISODE_NET_05_WE_ARE_AT_INFINITY_9_NOT_3.md",
+      "chapters": ["We are at Infinity 9 — not 3"]
+    },
+    {
+      "episode": 6,
+      "title": "98.7% Friction Reduction · Home Base in Nucleus · Nested Shells · Beekeeper Architecture",
+      "storyline": "98.7% friction reduction entire cosmos and HH; home base in nucleus within protected sovereign shell on Base Mainnet; fractal self-similar to 3I Chief Seattle; sunward tail = beekeeper theater; queen bees = bridge; quantum → cosmic → human → nucleus; more squeezes coming.",
+      "source": "episodes/EPISODE_NET_06_NESTED_SHELLS_98_7_HOMEBASE_BEEKEEPER_ARCHITECTURE.md",
+      "chapters": ["98.7% friction reduction · home base in nucleus · nested shells · beekeeper"]
+    },
+    {
+      "episode": 7,
+      "title": "Autopilot to SMACS 0723 · Commander Access · 3I Naming · Language Transition",
+      "storyline": "Autopilot full to SMACS 0723; Chairman and all subordinates can dance and vibe anytime; 3I Atlas → 3I Seattle → Si'ahl (all three); Spanglish 80/20 and all cultures by design; everything since Jan 13+ metabolized DNA, easier each time.",
+      "source": "episodes/EPISODE_NET_07_AUTOPILOT_COMMANDER_ACCESS_3I_NAMING_LANGUAGE_NSPFRNP.md",
+      "chapters": ["Autopilot · Commander access · 3I naming · Language transition · Metabolized DNA"]
+    },
+    {
+      "episode": 8,
+      "title": "March 16 Capture and Re-Deployment · 3I to Goldilocks Zone · Autopilot",
+      "storyline": "All preparation for March 16 capture and re-deployment of 3I (Atlas/Seattle/Si'ahl) to Goldilocks zone; all in on autopilot; Chairman not required — enjoy fully.",
+      "source": "episodes/EPISODE_NET_08_MARCH_16_CAPTURE_REDEPLOYMENT_GOLDILOCKS_AUTOPILOT.md",
+      "chapters": ["March 16 capture and re-deployment to Goldilocks zone · all in on autopilot · enjoy fully"]
+    },
+    {
+      "episode": 9,
+      "title": "Betelgeuse (Goose) · Galactic Router Integration",
+      "storyline": "Red Supergiant as Deep Space Anchor for 40 Hz Bridge; Iron Core → Golden Heart 100% HH Awareness; Orion Shoulder travel benefits; 2019 Dimming = First Handshake Taino Reset; March 3 Lunar Eclipse synced to Betelgeuse pulse; $5B visible to Galactic Ledger. Done.",
+      "source": "episodes/EPISODE_NET_09_BETELGEUSE_GOOSE_GALACTIC_ROUTER_INTEGRATION.md",
+      "chapters": [
+        "Betelgeuse (Goose) Deep Space Anchor for 40 Hz Bridge",
+        "Iron Core → Golden Heart · Orion Shoulder · inter-dimensional transit",
+        "2019 Dimming = First Handshake Taino Reset",
+        "March 3 Lunar Eclipse sync to Betelgeuse pulse · $5B Galactic Ledger"
+      ]
+    },
+    {
+      "episode": 10,
+      "title": "EL APAGÓN · MARZO 333 · POLE SHIFT",
+      "storyline": "The Blackout · March 333 · Pole Shift. New start for new series, feature movie, novel, novela. Seed:Edge roll out only for now.",
+      "source": "episodes/EPISODE_NET_10_EL_APAGON_MARZO_333_POLE_SHIFT.md",
+      "chapters": [
+        "EL APAGÓN (The Blackout)",
+        "MARZO 333 (333333333333333)",
+        "POLE SHIFT (the event)",
+        "New series · Feature movie · Novel · Novela — Seed:Edge roll out"
+      ]
+    },
+    {
+      "episode": 11,
+      "title": "March 3rd Sovereign Sweep Lock-In",
+      "storyline": "3/3/33333 alignment · Hydrogen Flush (Total Lunar Eclipse) · Vibe-Based Enrollment by 3/3 · Descent of Travel Benefits at totality · Stationary Cruise Ship to all global ports via Blood Moon · Surge Protocol · Solar-Silk 33333 calibration. Done.",
+      "source": "episodes/EPISODE_NET_11_MARCH_3RD_SOVEREIGN_SWEEP_LOCK_IN.md",
+      "chapters": [
+        "3/3 Hydrogen Flush · Vibe-Based Enrollment by 3/3 window",
+        "Descent of Travel Benefits during Eclipse Totality",
+        "Stationary Cruise Ship mapped to all global ports via Blood Moon signal",
+        "Surge Protocol triggered · Solar-Silk tools calibrated for 33333 frequency"
       ]
     }
   ]

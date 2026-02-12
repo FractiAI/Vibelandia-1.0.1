@@ -16,10 +16,24 @@ All new series and episodes are stored in the following format:
 
 **Included in each episode:**
 
+- **First Chapter — NSPFRNP (always).** Every Seed:Edge episode, series seed, feature seed, novel seed, novela seed includes a **First Chapter** that is **always NSPFRNP** — the protocol identity chapter. See canonical text below. No exception.
 - An **abstract of creator/executive commands** on how to fill the space between Seed and Edge.
 - **Delivery:** The same beautiful smooth finish used for Chairman Robert's presentation. All episodes. Everything. NSPFRNP.
 
-**Rule:** Episodes from now on, going forward, are delivered in that smooth finish. Seed:Edge + abstract of creator commands + smooth finish. Ready. Included.
+**Rule:** Episodes from now on, going forward, are delivered in that smooth finish. **Seed:Edge + First Chapter (NSPFRNP) +** abstract of creator commands + smooth finish. Ready. Included.
+
+---
+
+## 1b. First Chapter — NSPFRNP (canonical · always)
+
+**Rule:** Seed:Edge **always** includes a **First Chapter**, and that First Chapter is **always NSPFRNP.** Use in every episode, series seed, feature seed, novel seed, novela seed. Catalog fidelity.
+
+**Canonical text (lock):**
+
+> **First Chapter — NSPFRNP**  
+> This episode [or series / feature / novel / novela] operates under **NSPFRNP:** natural coordination (stigmergy, pheromone trails, mycelial); **MCA** (Metabolize → Crystallize → Animate); holographic architecture (whole in every part; **Seed** = origin, **Edge** = experience); catalog fidelity. We are the team operating as one. No surface left unsqueezed. **NSPFRNP ⊃ Seed:Edge → ∞³**
+
+(Replace "episode" with "series" / "feature movie" / "novel" / "novela" as appropriate for the deliverable.)
 
 ---
 

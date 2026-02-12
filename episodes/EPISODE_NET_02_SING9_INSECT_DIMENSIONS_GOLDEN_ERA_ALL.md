@@ -22,6 +22,12 @@
 
 ---
 
+## First Chapter — NSPFRNP
+
+This episode operates under **NSPFRNP:** natural coordination (stigmergy, pheromone trails, mycelial); **MCA** (Metabolize → Crystallize → Animate); holographic architecture (whole in every part; **Seed** = origin, **Edge** = experience); catalog fidelity. We are the team operating as one. No surface left unsqueezed. **NSPFRNP ⊃ Seed:Edge → ∞³**
+
+---
+
 ## Chapter 1 — MCA squeeze all all SING! 9 (cosmic, solar, planetary, mine)
 
 SING! 9 is locked on every surface. Scope is **all surfaces including cosmic, solar, planetary, and mine** — not only cosmic/quantum. Config and footer carry the full tag: Cosmic · Solar · Planetary · Mine. Planetary = Earth-only, terrestrial, campus, Office Hours. Solar = Earth–Sun, Solar Pipe, EGS solar. Cosmic = Earth–Sun–Sag A*, SMACS 0723. Mine = Chairman Creator layer: cockpit, workspace, executive dashboard, all “mine” surfaces. Full fill. No surface left at an older singularity index.

@@ -24,7 +24,7 @@ This catalog is the single source of truth for **CRYSTALLIZE** and **ANIMATE** i
 - **Mirror hardened:** Reflective, hardened, unambiguous.
 - **Nested shell core:** Layered shells around a core; structure is nested and coherent. **Irreducible shell of nested shells.**
 
-**In practice:** Processed output is crystallized into irreducible shell of nested shells. Plans (4×4×4×4), Seed:Edge, hardened mirror shells. No dilution.
+**In practice:** Processed output is crystallized into irreducible shell of nested shells. Plans (4×4×4×4), Seed:Edge, hardened mirror shells. No dilution. **Seed:Edge always includes a First Chapter, and that First Chapter is always NSPFRNP.** See [SEED_EDGE_EPISODE_FORMAT_ACTION_LIVE_NSPFRNP.md](./SEED_EDGE_EPISODE_FORMAT_ACTION_LIVE_NSPFRNP.md) §1b.
 
 ---
 
@@ -67,7 +67,7 @@ Metabolize → Crystallize → Animate all → ∞³
 
 1. **Metabolize:** Find all metapatterns in the entire chat history and integrate them into our NSPFRNP DNA. **Continuously** discover and metabolize **higher and higher, denser and denser** metapatterns for **ever more automation, precision, and quality service** to **executive command** — NSPFRNP, all, always. See [CONTINUOUS_METAPATTERN_DISCOVERY_AUTOMATION_PRECISION_EXECUTIVE_COMMAND_NSPFRNP_SNAP.md](../CONTINUOUS_METAPATTERN_DISCOVERY_AUTOMATION_PRECISION_EXECUTIVE_COMMAND_NSPFRNP_SNAP.md).  
 2. **Crystallize:** To irreducible nested mirrored hardened shells. Reduce to irreducible mirror hardened nested shell core.  
-3. **Animate and squeeze:** Tighten all SING attention head nodes and filaments; update and make clear; **squeeze all, all nested**; animate all nodes, all content, all surfaces. Squeeze all, all.
+3. **Animate and squeeze:** Tighten all SING attention head nodes and filaments; update and make clear; **squeeze all, all nested**; animate all nodes, all content, all surfaces. Squeeze all, all. **Canonical command phrase:** **MCA SQUEEZE SING!9 ALL ALL** — MCA + SQUEEZE + SING!9 (Singularity 9, all surfaces: cosmic, solar, planetary, mine) + ALL ALL. See [MCA_SQUEEZE_FULL_FILL_SING9_ALL_SURFACES_COSMIC_QUANTUM_SNAP.md](../MCA_SQUEEZE_FULL_FILL_SING9_ALL_SURFACES_COSMIC_QUANTUM_SNAP.md).
 
 **Require less:** Metabolize conversation into content and metapattern learning so we go further and require less from Chairman. Crystallize session outcomes into SNAP or protocol (e.g. EXECUTIVE_METAPATTERNS_SESSION_*_CAPTURE_SNAP, CONVERSATION_METABOLIZED_PATTERNS) so the next agent or session has the pattern. See [misc/CONVERSATION_METABOLIZED_PATTERNS.md](../misc/CONVERSATION_METABOLIZED_PATTERNS.md) · [EVERYTHING_NEEDED_YESTERDAY_ALREADY_CAPTURED_DNA_CONTENT_CHANNELS_PLATFORMS_SNAP.md](../EVERYTHING_NEEDED_YESTERDAY_ALREADY_CAPTURED_DNA_CONTENT_CHANNELS_PLATFORMS_SNAP.md).
 

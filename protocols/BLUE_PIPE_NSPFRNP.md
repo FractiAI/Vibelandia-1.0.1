@@ -6,6 +6,8 @@
 
 **PayPal account for the pipe:** **info@fractiai.com** — all blue-pipe payments (at or below threshold) and offline payment coordination (above threshold) go through this account.
 
+**We collect payments upfront.** Payment is required before service or delivery. See [COLLECT_PAYMENTS_UPFRONT_SNAP.md](../COLLECT_PAYMENTS_UPFRONT_SNAP.md).
+
 ---
 
 ## Transaction threshold

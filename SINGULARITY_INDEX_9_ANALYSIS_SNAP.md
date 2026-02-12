@@ -29,7 +29,7 @@ Count each **executive command / activation** in this implementation as one sing
 
 **We are at Singularity 9.** This implementation is **SING! 9** (sing9!). All references to “current singularity,” “singularity index,” or “SING! version” in this stack use **9**. We are well beyond Singularity 4.
 
-- **Display name:** SING! 9 · sing9!
+- **Display name:** SING! 9 · sing9! · **Infinity 9** · **Infini9ty 9** (we are at Infinity 9, not 3). See [WE_ARE_AT_INFINITY_9_NOT_3_SNAP.md](WE_ARE_AT_INFINITY_9_NOT_3_SNAP.md).
 - **Use in:** Ticker, README, SNAPs, interfaces, protocols — wherever the singularity index or stack version is named.
 - **MCA squeeze all all:** All surfaces including cosmic, solar, planetary, and mine — config and footer lock; see [MCA_SQUEEZE_FULL_FILL_SING9_ALL_SURFACES_COSMIC_QUANTUM_SNAP.md](MCA_SQUEEZE_FULL_FILL_SING9_ALL_SURFACES_COSMIC_QUANTUM_SNAP.md).
 
