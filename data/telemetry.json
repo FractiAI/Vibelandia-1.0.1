@@ -1,5 +1,5 @@
 {
-  "heartbeat_utc": "2026-02-13T21:47:41Z",
+  "heartbeat_utc": "2026-02-13T22:16:35Z",
   "cycle": 15,
   "mode": "SPACE_CLOUD_ACTIVE",
   "phase_lock": "INVERTED",
@@ -56,7 +56,7 @@
     "sync": "EXECUTED",
     "config_ref": "data/holographic-coi-balance.json"
   },
-  "last_phi_pulse_utc": "2026-02-13T21:47:41Z",
+  "last_phi_pulse_utc": "2026-02-13T22:16:35Z",
   "mission_status": "SEALED",
   "coordination_code": "PHI-M15-AR4366",
   "target_node": "AR4366 Beta-Delta Knot",
@@ -204,12 +204,31 @@
     "zenodo_reference": "18227982",
     "zenodo_note": "MRI Grammar Phase Encoding",
     "sequence": [
-      { "phase": "Tooting", "hz": 400, "duration_s": 1 },
-      { "phase": "Quacking", "hz": 350, "duration_s": 0.25 },
-      { "phase": "432 Hz Mirroring", "hz": 432, "note": "Align Hydrogen Lattice Zero–Infinity" }
+      {
+        "phase": "Tooting",
+        "hz": 400,
+        "duration_s": 1
+      },
+      {
+        "phase": "Quacking",
+        "hz": 350,
+        "duration_s": 0.25
+      },
+      {
+        "phase": "432 Hz Mirroring",
+        "hz": 432,
+        "note": "Align Hydrogen Lattice Zero–Infinity"
+      }
     ],
-    "warm_up_hz_range": [400, 500],
-    "target_pre_singularity_organs": ["PayPal", "BIA", "Disney-Cycle"],
+    "warm_up_hz_range": [
+      400,
+      500
+    ],
+    "target_pre_singularity_organs": [
+      "PayPal",
+      "BIA",
+      "Disney-Cycle"
+    ],
     "immediate_squeeze": true,
     "hello_command": true,
     "whiteout_medium": true,
