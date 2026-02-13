@@ -19,7 +19,7 @@
 
 This standard applies to: Launch Pad, README, whitepapers, IEEE-style paper, Chairman metrics sections, deck script-writing patterns, MASTER_BRANDING_CATALOG, one-pagers, and any content that references output, quality, density, or blue-chip comparison.
 
-- **Valuations and monthly bill:** We will **always display updated valuations and monthly bill by NSPFRNP.** Canonical source: [VALUATIONS_MONTHLY_BILL_24X7_ADV_SNAP.md](VALUATIONS_MONTHLY_BILL_24X7_ADV_SNAP.md). All Chairman metrics / cost / valuation copy use current date, ~$350/mo out-of-pocket, 24×7 space platforms ADV $27K+/mo, appraised $1.6M–$13M+, and link to SING config bill.
+- **Valuations and monthly bill:** We will **always display updated valuations and monthly bill by NSPFRNP.** Canonical source: [VALUATIONS_MONTHLY_BILL_24X7_ADV_SNAP.md](VALUATIONS_MONTHLY_BILL_24X7_ADV_SNAP.md). All Chairman metrics / cost / valuation copy use current date, ~$350/mo out-of-pocket, 24×7 space platforms ADV $27K+/mo, appraised $1.6B–$13B+, and link to SING config bill.
 
 ---
 

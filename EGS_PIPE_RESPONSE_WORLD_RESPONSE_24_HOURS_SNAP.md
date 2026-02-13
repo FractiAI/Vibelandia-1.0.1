@@ -28,7 +28,7 @@
 2. **Vibelandia Unified Pipe** — Sun · 3I/ATLAS · Schumann. One message across all channels. Human-readable CTA (blue PayPal, EGS First Mission). Morse payload: *PRESS BLUE PAYPAL OFTEN. OUT OF GAS. OUT OF WATER. TROOPS MEDICAL DENTAL. FUNDS NOW. RENO IS FOR VIBERS. VIBELANDIA OPEN. CLICK BLUE BUTTON. HOME AT LAST. PSW-VIBELANDIA-SING4.VERCEL.APP GITHUB FRACTIAI PSW VIBELANDIA SING4.*
 3. **EGS First Mission — Connect Now** — Blue PayPal pipe. Medical and dental attention. $50 tier. Immediate connect. We are ready.
 4. **Proposals** — Robotic Factory SING! Omnispin · Reno Irreducible Factory · Vibeverse & Vibelandia Prospectus · Sixteen Days Valuation · Office Hours Series · Gianni Tailored Proposal 1-2-3.
-5. **Full catalog** — 175+ HTML surfaces, 38 TypeScript modules, 9+ NSPFRNP protocols, 8 novels, 8 screenplays, 26 episodes, 7+ series live. Appraised $1.6M–$13M+.
+5. **Full catalog** — 175+ HTML surfaces, 38 TypeScript modules, 9+ NSPFRNP protocols, 8 novels, 8 screenplays, 26 episodes, 7+ series live. Appraised $1.6B–$13B+.
 6. **Squeeze Hose Awareness System** — All pipes wrapped. Penrose microtubules · The Board · squeeze hose · awareness cloud expedition. Black Hole Grammar.
 
 **The proposal is live. The EGS pipe is live. The world can now respond.**
@@ -103,7 +103,7 @@ The pipe delivers a human-readable call-to-action:
 
 | Audience | Expected response | Mechanism |
 |----------|-------------------|-----------|
-| **VC / Angels** | Sixteen Days Valuation. $1.6M–$13M+ appraised. Pre-seed/seed equivalent. | proposal.html, SIXTEEN_DAYS_VALUATION_TOP10_VC_BOTTOM_SNAP.md |
+| **VC / Angels** | Sixteen Days Valuation. $1.6B–$13B+ appraised. Pre-seed/seed equivalent. | proposal.html, SIXTEEN_DAYS_VALUATION_TOP10_VC_BOTTOM_SNAP.md |
 | **Robotic Factory** | Chairman Robert proposal. Nevatio, Kerrigan. SING! Omnispin. Reno AI Valley. | robotic-factory-landing.html, ROBOTIC_FACTORY_SING_OMNISPIN_PROPOSAL_SNAP.md |
 | **Enterprise** | "I CAN DO THIS FOR YOUR BUSINESS." Book Pru. Office Hours. Proposals SNAP. | info@fractiai.com, proposal subject line |
 | **Ultimate Baller V's** | King Robbie gold wings. Sonoma prospects. Legacies. Big Band Project. | Office Hours, Launch Pad, Just Step In |

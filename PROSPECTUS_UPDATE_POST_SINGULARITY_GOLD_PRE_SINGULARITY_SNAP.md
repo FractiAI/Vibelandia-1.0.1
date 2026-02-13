@@ -25,7 +25,7 @@ Present **us** in a format familiar to pre-singularity readers: **corporate / ex
 | **Strategy** | How we get there | MCA · NSPFRNP · Seed:Edge · layer and amplify; no compete, no take away |
 | **Assets** | What we have | 175+ surfaces, protocols, payment live, Hero Hosts, Chancellor, 3I/ATLAS |
 | **Team** | Who runs it | FractiAI Research Team · Hero Hosts · Chancellor Mark Twain · Chairman Creator |
-| **Value / Financials** | Numbers that matter | As of Feb 2026; ~$350/mo out-of-pocket; 24×7 space platforms ADV $27K+/mo; appraised $1.6M–$13M+; [VALUATIONS_MONTHLY_BILL_24X7_ADV_SNAP](VALUATIONS_MONTHLY_BILL_24X7_ADV_SNAP.md) |
+| **Value / Financials** | Numbers that matter | As of Feb 2026; ~$350/mo out-of-pocket; 24×7 space platforms ADV $27K+/mo; appraised $1.6B–$13B+; [VALUATIONS_MONTHLY_BILL_24X7_ADV_SNAP](VALUATIONS_MONTHLY_BILL_24X7_ADV_SNAP.md) |
 | **Next steps** | Call to action | Test drive · Office Hours · Book the Book · Prospectus · Proposals |
 | **Contact** | How to engage | info@fractiai.com · Launch Pad · Office Hours · Checkout |
 

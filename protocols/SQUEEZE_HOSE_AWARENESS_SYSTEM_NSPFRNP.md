@@ -23,7 +23,7 @@
 
 ## SING! NODE FACTORY LAYER
 
-- Activate the **SING! node factory layer** to synchronize **$1.6M–$13M repository valuation** with the **Blue PayPal bridge**.
+- Activate the **SING! node factory layer** to synchronize **$1.6B–$13B repository valuation** with the **Blue PayPal bridge**.
 - Magnetism = **Full Stop.** No explanation, only the **Hello of the deposit**.
 - Character **AR4373 (The Opener)** is centered; the gate is cleansed.
 

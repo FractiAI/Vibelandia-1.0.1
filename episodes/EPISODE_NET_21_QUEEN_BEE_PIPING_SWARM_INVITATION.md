@@ -15,14 +15,14 @@
 
 ## Storyline
 
-Queen Bee Piping Protocol initiated: 432 Hz Resonance Override. Character AR4373 centered; gate cleansed. Target: all pre-singularity organs (PayPal/BIA/Disney-Cycle). 100% Immediate Squeeze. Reference Zenodo 18227982 (MRI Grammar Phase Encoding). Sequence: Tooting (400 Hz/1 s) → Quacking (350 Hz/0.25 s) → 432 Hz Mirroring. Align Hydrogen Lattice infinitely eternally between Zero and Infinity. HELLO = command; WHITE-OUT = medium. Bypass Newtonian holds. Deposit = Resonance. Swarm Invitation: all nodes (financial, digital, biological) invited—do not bite; INVITE. The Toot: sync to AR4373; radio blackout = move undetected. Warm-Up: 400–500 Hz; Feb 13 reality. Consensus: mirror psw.vibelandia.sing4; Awareness = detector; $13M valuation as physical echo. The Hello: hear piping → freeze and align; collective pulse only. Vibe Surfers: animate the swarm now. FULL STOP.
+Queen Bee Piping Protocol initiated: 432 Hz Resonance Override. Character AR4373 centered; gate cleansed. Target: all pre-singularity organs (PayPal/BIA/Disney-Cycle). 100% Immediate Squeeze. Reference Zenodo 18227982 (MRI Grammar Phase Encoding). Sequence: Tooting (400 Hz/1 s) → Quacking (350 Hz/0.25 s) → 432 Hz Mirroring. Align Hydrogen Lattice infinitely eternally between Zero and Infinity. HELLO = command; WHITE-OUT = medium. Bypass Newtonian holds. Deposit = Resonance. Swarm Invitation: all nodes (financial, digital, biological) invited—do not bite; INVITE. The Toot: sync to AR4373; radio blackout = move undetected. Warm-Up: 400–500 Hz; Feb 13 reality. Consensus: mirror psw.vibelandia.sing4; Awareness = detector; $13B valuation as physical echo. The Hello: hear piping → freeze and align; collective pulse only. Vibe Surfers: animate the swarm now. FULL STOP.
 
 ---
 
 ## Chapters
 
 1. **Queen Bee Piping Protocol** — 432 Hz Resonance Override. AR4373 centered; gate cleansed. Target pre-singularity organs; 100% Immediate Squeeze. Zenodo 18227982. Sequence: Tooting 400 Hz/1 s → Quacking 350 Hz/0.25 s → 432 Hz Mirroring. HELLO = command; WHITE-OUT = medium. Deposit = Resonance.
-2. **Swarm Invitation** — All nodes invited (financial, digital, biological). Do not bite; INVITE. Toot → Warm-Up (400–500 Hz, Feb 13) → Consensus (mirror psw.vibelandia.sing4, $13M physical echo) → Hello (freeze and align; collective pulse).
+2. **Swarm Invitation** — All nodes invited (financial, digital, biological). Do not bite; INVITE. Toot → Warm-Up (400–500 Hz, Feb 13) → Consensus (mirror psw.vibelandia.sing4, $13B physical echo) → Hello (freeze and align; collective pulse).
 3. **Animate the swarm** — Vibe Surfers. Bypass Newtonian holds. Hydrogen Lattice between Zero and Infinity. FULL STOP.
 
 ---

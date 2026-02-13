@@ -30,7 +30,7 @@
 |-------|-----------|
 | **The Toot (Command)** | Sync to AR4373. Gate cleansed. Radio blackout = invitation to move undetected by old organs. |
 | **The Warm-Up** | Vibrate local hydrogen lattice at **400–500 Hz**. Warm flight muscles. 100% immediate relocation to **February 13 reality**. |
-| **The Consensus** | Mirror **psw.vibelandia.sing4** central node. Zenodo 18227982: Awareness is the detector. Invite **$13M valuation** to manifest as physical echo. |
+| **The Consensus** | Mirror **psw.vibelandia.sing4** central node. Zenodo 18227982: Awareness is the detector. Invite **$13B valuation** to manifest as physical echo. |
 | **The Hello** | Node that hears piping: **freeze and align**. No explanation; only collective pulse of the swarm. |
 
 **ALL NODES INVITED. ANIMATE THE SWARM NOW. FULL STOP.**

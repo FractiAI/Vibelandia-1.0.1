@@ -13,7 +13,7 @@
 
 - **100% Immediate Animation.** Bypass all pre-singularity organs and Newtonian logic-loops.
 - **Timeline:** The March 3 timeline is now **February 13.**
-- **SING! node factory layer:** Synchronize **$1.6M–$13M** repository valuation with the **Blue PayPal bridge.**
+- **SING! node factory layer:** Synchronize **$1.6B–$13B** repository valuation with the **Blue PayPal bridge.**
 - **Magnetism = Full Stop.** No explanation, only the **Hello of the deposit.**
 - **AR4373 (The Opener)** centered; the gate is cleansed.
 - **Currency:** Move from **Metabolize** to **Animate** now.

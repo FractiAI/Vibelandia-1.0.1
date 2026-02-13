@@ -12,15 +12,15 @@
 
 **Option A — Punchy (recommended):**
 
-**TOP LINE DISNEY GOT NO VIBE! DISNEY LOST ITS VIBE!** Same moment — different scale. Since January 13, no budget. I haven't even been able to go through all this rich content. We have produced: 8 full novels, 8 full screenplays, 26 episodes, 7+ series live, 175+ surfaces, 38 TypeScript modules, 9+ protocols, multiple product families with BUY, new Legacies department. Appraised (production-grade, Dumas voice, Star Wars-quality script) at **$1.6M–$13M+**. Cost: **one person, ~$200/mo vibecoding station + cell**. Disney to match that output: **50–200+ FTE**, **$2M–$15M+**, **12–24+ months** (novel+script alone) to **18–36+ months** (full scope). We also do something they can’t: **all history in all series, novel, screenplay — continuously evolving; live stories, not static.** Full catalog (novels, episodes, music, feature films, new superheroes, franchises since Jan 13): **https://psw-vibelandia-sing4.vercel.app/interfaces/content-catalog.html** — that’s what one human + AI + ~$200/mo can do vs the whole empire. 🔥
+**TOP LINE DISNEY GOT NO VIBE! DISNEY LOST ITS VIBE!** Same moment — different scale. Since January 13, no budget. I haven't even been able to go through all this rich content. We have produced: 8 full novels, 8 full screenplays, 26 episodes, 7+ series live, 175+ surfaces, 38 TypeScript modules, 9+ protocols, multiple product families with BUY, new Legacies department. Appraised (production-grade, Dumas voice, Star Wars-quality script) at **$1.6B–$13B+**. Cost: **one person, ~$200/mo vibecoding station + cell**. Disney to match that output: **50–200+ FTE**, **$2M–$15M+**, **12–24+ months** (novel+script alone) to **18–36+ months** (full scope). We also do something they can’t: **all history in all series, novel, screenplay — continuously evolving; live stories, not static.** Full catalog (novels, episodes, music, feature films, new superheroes, franchises since Jan 13): **https://psw-vibelandia-sing4.vercel.app/interfaces/content-catalog.html** — that’s what one human + AI + ~$200/mo can do vs the whole empire. 🔥
 
 **Option B — Shorter:**
 
-**TOP LINE DISNEY GOT NO VIBE! DISNEY LOST ITS VIBE!** Since Jan 13: 8 novels, 8 screenplays, 26 episodes, 7+ series, 175+ surfaces, 9+ protocols — appraised **$1.6M–$13M+**. Cost: **one person, ~$200/mo + cell**. Disney equivalent: **50–200+ FTE, $2M–$15M+, 12–36+ months**. Plus: **live stories** — all series/novel/screenplay evolving in one canon. Disney can’t do that. **Full content catalog:** https://psw-vibelandia-sing4.vercel.app/interfaces/content-catalog.html (novels, episodes, music, feature films, superheroes, franchises). One human + AI vs the whole empire. 🎯
+**TOP LINE DISNEY GOT NO VIBE! DISNEY LOST ITS VIBE!** Since Jan 13: 8 novels, 8 screenplays, 26 episodes, 7+ series, 175+ surfaces, 9+ protocols — appraised **$1.6B–$13B+**. Cost: **one person, ~$200/mo + cell**. Disney equivalent: **50–200+ FTE, $2M–$15M+, 12–36+ months**. Plus: **live stories** — all series/novel/screenplay evolving in one canon. Disney can’t do that. **Full content catalog:** https://psw-vibelandia-sing4.vercel.app/interfaces/content-catalog.html (novels, episodes, music, feature films, superheroes, franchises). One human + AI vs the whole empire. 🎯
 
 **Option C — One-liner:**
 
-**TOP LINE DISNEY GOT NO VIBE! DISNEY LOST ITS VIBE!** One person, ~$200/mo + cell. Since Jan 13: 8 novels, 8 screenplays, 26 episodes, 7+ series, 175+ surfaces — $1.6M–$13M+ value. Disney to match: 50–200+ FTE, $2M–$15M+, 12–36+ months. Live stories they can’t ship. **Catalog:** https://psw-vibelandia-sing4.vercel.app/interfaces/content-catalog.html That’s the moment. ⚡
+**TOP LINE DISNEY GOT NO VIBE! DISNEY LOST ITS VIBE!** One person, ~$200/mo + cell. Since Jan 13: 8 novels, 8 screenplays, 26 episodes, 7+ series, 175+ surfaces — $1.6B–$13B+ value. Disney to match: 50–200+ FTE, $2M–$15M+, 12–36+ months. Live stories they can’t ship. **Catalog:** https://psw-vibelandia-sing4.vercel.app/interfaces/content-catalog.html That’s the moment. ⚡
 
 ---
 
@@ -40,7 +40,7 @@
 - **New department: Legacies** (superheroes, cast, crew, fans, franchises — and legacies; living men; major value add)
 - **5+ major reorgs / executive changes** since Jan 13; **7 executive orders in one 2–3 hour session** (Feb 2)
 
-**Appraised value (production-grade spec, Dumas voice, Star Wars-quality script vs studio benchmarks):** **$1.6M–$13M+**
+**Appraised value (production-grade spec, Dumas voice, Star Wars-quality script vs studio benchmarks):** **$1.6B–$13B+**
 
 **Our cost:** **~$200/mo** (vibecoding station) **+ cell + WiFi** — call it **~$320/mo** total.
 

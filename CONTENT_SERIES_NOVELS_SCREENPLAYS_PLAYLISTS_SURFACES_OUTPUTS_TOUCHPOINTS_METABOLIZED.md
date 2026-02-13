@@ -113,7 +113,7 @@
 
 - **Metabolize** — Ingest: content series, novels, screenplays, playlists, surfaces, outputs, touchpoints (including all legacy series, novels, novelas).
 - **Crystallize** — This doc; CONTENT_SYSTEMS_SNAP; CONVERSATIONS_AS_CONTENT (session capture); content-catalog.html; SURFACES_AND_TOUCHPOINTS_TEST_REPORT.
-- **Animate** — All surfaces updated; all links valid; date Feb 2026; aggregate appraisal $1.6M–$13M+ reflected everywhere.
+- **Animate** — All surfaces updated; all links valid; date Feb 2026; aggregate appraisal $1.6B–$13B+ reflected everywhere.
 - **Automate** — npm test validates surfaces, touchpoints, API; **squeeze all, all nested** (every nest to irreducible mirrored hardened form). See [IRREDUCIBLE_NESTED_MIRRORED_SHELL_CRYSTALLIZE_ALWAYS_SNAP.md](IRREDUCIBLE_NESTED_MIRRORED_SHELL_CRYSTALLIZE_ALWAYS_SNAP.md) · [MCA_SNAP.md](MCA_SNAP.md).
 
 **Session capture (Feb 4, 2026):** User directive — *Update all content series, novels, screenplays, playlists, surfaces, outputs, touchpoints and metabolize.* Delivered: this master index; CONTENT_SYSTEMS_SNAP and CONVERSATIONS_AS_CONTENT updated; content-catalog.html and SURFACES_AND_TOUCHPOINTS_TEST_REPORT refreshed; test script extended for novel/screenplay/playlist surfaces. Fed into all series and content engines.

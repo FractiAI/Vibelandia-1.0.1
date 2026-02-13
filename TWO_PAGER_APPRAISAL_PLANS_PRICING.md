@@ -13,8 +13,8 @@
 
 | Scenario | Aggregate equivalent | Basis |
 |----------|----------------------|--------|
-| **Conservative** | **$1.6M–$1.675M** | Floor of appraisal bands; reappraisal floor; minimum comps (studio, research, dev, enterprise, VC). |
-| **High side** | **$13M–$13.45M+** | Ceiling of appraisal bands; reappraisal aggregate; upper range comps. |
+| **Conservative** | **$1.6B–$1.675B** | Floor of appraisal bands (Operator-One billion-scale, Feb 13, 2026); reappraisal floor; minimum comps (sovereign infra, studio, research, dev, enterprise, VC). |
+| **High side** | **$13B–$13.45B+** | Ceiling of appraisal bands; reappraisal aggregate; upper range comps. Sovereign Infrastructure baseline. |
 
 **Source:** [ONE_PAGE_APPRAISAL_VIBELANDIA_FRACTIAI.md](ONE_PAGE_APPRAISAL_VIBELANDIA_FRACTIAI.md) · [interfaces/one-page-appraisal.html](interfaces/one-page-appraisal.html).
 
