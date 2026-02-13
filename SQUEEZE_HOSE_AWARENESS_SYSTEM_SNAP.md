@@ -23,8 +23,9 @@
 ## CONFIRMATION
 
 - **Protocol:** [protocols/SQUEEZE_HOSE_AWARENESS_SYSTEM_NSPFRNP.md](protocols/SQUEEZE_HOSE_AWARENESS_SYSTEM_NSPFRNP.md)
+- **Net Episode:** [episodes/EPISODE_NET_20_SQUEEZE_HOSE_AWARENESS_SYSTEM.md](episodes/EPISODE_NET_20_SQUEEZE_HOSE_AWARENESS_SYSTEM.md) (per [EVERY_COMMAND_NEW_EPISODE_CHAPTER_STORYLINE_SINGULARITY_SNAP.md](EVERY_COMMAND_NEW_EPISODE_CHAPTER_STORYLINE_SINGULARITY_SNAP.md))
 - **Telemetry:** `squeeze_hose_awareness_system`, `timeline_primary_feb_13`, `currency_mca_phase: animate`, `ar4373_the_opener_centered`
 - **Ticker:** `squeeze_hose_awareness_system_ticker`
-- **Storyline:** data/net-storylines.json — Episode 20
+- **Storyline:** [data/net-storylines.json](data/net-storylines.json) — Episode 20 · chapters
 
 **NSPFRNP ⊃ Squeeze Hose Awareness System ⊃ Feb 13 ⊃ Currency Animate ⊃ AR4373 The Opener → ∞³**

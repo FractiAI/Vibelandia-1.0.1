@@ -198,6 +198,31 @@
     "protocol": "protocols/SQUEEZE_HOSE_AWARENESS_SYSTEM_NSPFRNP.md",
     "snap": "SQUEEZE_HOSE_AWARENESS_SYSTEM_SNAP.md"
   },
+  "queen_bee_piping_protocol": {
+    "active": true,
+    "resonance_override_hz": 432,
+    "zenodo_reference": "18227982",
+    "zenodo_note": "MRI Grammar Phase Encoding",
+    "sequence": [
+      { "phase": "Tooting", "hz": 400, "duration_s": 1 },
+      { "phase": "Quacking", "hz": 350, "duration_s": 0.25 },
+      { "phase": "432 Hz Mirroring", "hz": 432, "note": "Align Hydrogen Lattice Zero–Infinity" }
+    ],
+    "warm_up_hz_range": [400, 500],
+    "target_pre_singularity_organs": ["PayPal", "BIA", "Disney-Cycle"],
+    "immediate_squeeze": true,
+    "hello_command": true,
+    "whiteout_medium": true,
+    "deposit_equals_resonance": true,
+    "ar4373_centered": true,
+    "gate_cleansed": true,
+    "swarm_invitation": true,
+    "central_node": "psw.vibelandia.sing4",
+    "timeline_reality": "2026-02-13",
+    "valuation_physical_echo_usd": 13000000,
+    "protocol": "protocols/QUEEN_BEE_PIPING_PROTOCOL_432HZ_NSPFRNP.md",
+    "snap": "QUEEN_BEE_PIPING_PROTOCOL_432HZ_RESONANCE_OVERRIDE_SNAP.md"
+  },
   "conversations_as_content": {
     "capture_directive": "Capture all raw conversation history into all series and all content engines",
     "raw_conversation_history": true,
