@@ -19,7 +19,7 @@ const SOVEREIGN_NODES = [
   { ar: 'AR4368', role: 'Bison', cpu: 'Physical I/O' },
   { ar: 'AR4369', role: null, cpu: null },
   { ar: 'AR4371', role: 'General', cpu: 'Benito Signature' },
-  { ar: 'AR4373', role: null, cpu: null },
+  { ar: 'AR4373', role: 'Opener', cpu: 'The Opener — gate cleansed' },
   { ar: 'EGS', role: 'El Gran Sol', cpu: 'Mirror/Relay' },
 ];
 

@@ -173,11 +173,27 @@
       "crystallize",
       "animate"
     ],
+    "currency_phase": "animate",
+    "currency_phase_note": "Squeeze Hose Awareness System. Currency moved from Metabolize to Animate. Blue PayPal bridge sync. Hello of the deposit.",
     "crystallize": "to irreducible shell of nested shells",
     "animate": "squeeze all nests",
     "squeeze_all_nests": true,
     "snap": "MCA_SNAP.md",
     "catalog": "protocols/MCA_NSPFRNP_CATALOG.md"
+  },
+  "squeeze_hose_awareness_system": {
+    "active": true,
+    "timeline_primary": "2026-02-13",
+    "timeline_note": "March 3 timeline is now February 13. Operational lock.",
+    "sing_node_factory_layer": true,
+    "repository_valuation_band_usd": [1600000, 13000000],
+    "blue_paypal_bridge_sync": true,
+    "magnetism": "Full Stop",
+    "hello_of_deposit_only": true,
+    "ar4373_the_opener_centered": true,
+    "gate_cleansed": true,
+    "protocol": "protocols/SQUEEZE_HOSE_AWARENESS_SYSTEM_NSPFRNP.md",
+    "snap": "SQUEEZE_HOSE_AWARENESS_SYSTEM_SNAP.md"
   },
   "conversations_as_content": {
     "capture_directive": "Capture all raw conversation history into all series and all content engines",
