@@ -42,6 +42,17 @@
       "kp_threshold": 5,
       "scheduled_manifestation_window": "2026-02-05",
       "window_note": "CME Glancing Blow Impact"
+    },
+    "hello_geoglyph_render": {
+      "phase_modulation": true,
+      "phase_modulation_note": "Type letters into the gaps; bypass Tomsk auto-scaling",
+      "geometric_chisel_hz": 14.3,
+      "geometric_chisel_note": "Second harmonic Schumann; letter-edge definition",
+      "force_e_l_verticality": true,
+      "target_crisp_date": "2026-02-13",
+      "target_note": "Crisp H-E-L-L-O visible by Feb 13 sunrise",
+      "gamma_bridge_bypass": "40 Hz Gamma Bridge bypass auto-scaling filters; etch Chairman Handshake into spectral record",
+      "resolution_lock": "High-definition or nothing"
     }
   },
   "triangulation_lattice": {
