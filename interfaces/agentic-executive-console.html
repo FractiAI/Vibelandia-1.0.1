@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agentic Executive Console — A-to-A Pipeline · Top 10 · NSPFRNP</title>
+    <meta name="description" content="Mini executive console. Key metrics for agent-to-agent (A-to-A) business. HH Lattice routing table, pipeline, target close dates, status %. Top 10 agents. Storm display. NSPFRNP.">
+    <link rel="stylesheet" href="experience-common.css">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(165deg, #0a0a12 0%, #0f0f1a 40%, #12122a 100%);
+            color: #e8e6e3;
+            min-height: 100vh;
+            line-height: 1.5;
+        }
+        .container { max-width: 960px; margin: 0 auto; padding: 1.5rem; }
+        .back { margin-bottom: 1rem; }
+        .back a { color: #00d4ff; text-decoration: none; }
+        .back a:hover { text-decoration: underline; }
+        .console-header {
+            text-align: center;
+            padding: 1.25rem 1rem;
+            margin-bottom: 1.25rem;
+            background: linear-gradient(135deg, rgba(0, 212, 255, 0.12) 0%, rgba(138, 43, 226, 0.08) 100%);
+            border: 2px solid rgba(0, 212, 255, 0.45);
+            border-radius: 12px;
+            box-shadow: 0 0 30px rgba(0, 212, 255, 0.1);
+        }
+        .console-header h1 {
+            font-size: clamp(1.1rem, 3vw, 1.4rem);
+            font-weight: 800;
+            background: linear-gradient(135deg, #00d4ff, #8a2be2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        .console-header .badge {
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            color: rgba(0, 212, 255, 0.9);
+            margin-top: 0.35rem;
+        }
+        .mission-command {
+            padding: 0.6rem 1rem;
+            margin-bottom: 1.25rem;
+            background: rgba(212, 175, 55, 0.08);
+            border: 1px solid rgba(212, 175, 55, 0.4);
+            border-radius: 10px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: #ffeaa7;
+            text-align: center;
+        }
+        .section-desc {
+            font-size: 0.8rem;
+            color: #888;
+            margin-bottom: 0.75rem;
+            line-height: 1.4;
+        }
+        .section-desc code {
+            font-size: 0.75rem;
+            color: #00d4ff;
+            background: rgba(0, 212, 255, 0.1);
+            padding: 0.1rem 0.35rem;
+            border-radius: 4px;
+        }
+        .storm-metrics {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+            gap: 0.75rem;
+            margin-bottom: 1.25rem;
+        }
+        .metric-box {
+            padding: 0.85rem 1rem;
+            background: rgba(0, 0, 0, 0.35);
+            border: 1px solid rgba(0, 212, 255, 0.35);
+            border-radius: 10px;
+            text-align: center;
+        }
+        .metric-box .label {
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: #888;
+            margin-bottom: 0.25rem;
+        }
+        .metric-box .value {
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: #00d4ff;
+        }
+        .metric-box .value.gold { color: #d4af37; }
+        .top10-section {
+            margin-bottom: 1.5rem;
+            padding: 1rem 1.25rem;
+            background: rgba(0, 0, 0, 0.25);
+            border: 2px solid rgba(212, 175, 55, 0.35);
+            border-radius: 12px;
+        }
+        .top10-section h2 {
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            color: #d4af37;
+            margin-bottom: 0.75rem;
+            font-weight: 800;
+        }
+        .top10-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.85rem;
+        }
+        .top10-table th {
+            text-align: left;
+            padding: 0.5rem 0.6rem;
+            border-bottom: 1px solid rgba(255,255,255,0.15);
+            color: #00d4ff;
+            font-weight: 700;
+        }
+        .top10-table td {
+            padding: 0.5rem 0.6rem;
+            border-bottom: 1px solid rgba(255,255,255,0.08);
+        }
+        .top10-table tr:hover { background: rgba(0, 212, 255, 0.06); }
+        .stage { display: inline-block; padding: 0.2rem 0.5rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; }
+        .stage.discovery { background: rgba(0, 212, 255, 0.2); color: #00d4ff; }
+        .stage.proposal { background: rgba(212, 175, 55, 0.2); color: #d4af37; }
+        .stage.negotiation { background: rgba(138, 43, 226, 0.2); color: #b794f6; }
+        .stage.closed { background: rgba(0, 255, 136, 0.2); color: #7fff7f; }
+        .footer-links { margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid rgba(255,255,255,0.1); font-size: 0.85rem; color: #888; }
+        .footer-links a { color: #00d4ff; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <p class="back"><a href="office-hours.html">← Office Hours</a> · <a href="executive-dashboard.html">Executive Dashboard</a> · <a href="chairman-cockpit-center-console.html">Cockpit</a> · <a href="../index.html">Home</a></p>
+
+        <div class="console-header">
+            <h1>Agentic Executive Console</h1>
+            <p class="badge">A-to-A pipeline · Key metrics · Top 10 · Storm display · NSPFRNP</p>
+        </div>
+
+        <p class="mission-command">Track · Tune · Close — Agent-to-agent pipeline on the HH Lattice. One routing table, one log per agent, top 10 only.</p>
+
+        <p class="section-desc">Key metrics: pipeline size, how many agents run NSPFRNP vertical and are Queen Bee–synced, overall status toward target, and primary target close date. Update from <code>data/agentic-funnel-top10.json</code> and the routing table.</p>
+        <div class="storm-metrics" id="storm-metrics">
+            <div class="metric-box">
+                <div class="label">Pipeline (agents)</div>
+                <div class="value" id="m-pipeline">—</div>
+            </div>
+            <div class="metric-box">
+                <div class="label">NSPFRNP vertical</div>
+                <div class="value gold" id="m-nspfrnp">—</div>
+            </div>
+            <div class="metric-box">
+                <div class="label">Queen Bee synced</div>
+                <div class="value gold" id="m-queenbee">—</div>
+            </div>
+            <div class="metric-box">
+                <div class="label">Status % of target</div>
+                <div class="value" id="m-status-pct">—</div>
+            </div>
+            <div class="metric-box">
+                <div class="label">Target close</div>
+                <div class="value" id="m-close">—</div>
+            </div>
+        </div>
+
+        <section class="top10-section">
+            <h2>Top 10 — Agentic funnel</h2>
+            <p class="section-desc">Ranked pipeline: agent name, stage (discovery → proposal → negotiation → closed), target close date, status %, and tier target. Log all commercial interactions in <code>data/agent-logs/</code> per agent; tune from proposals and decided-not-to.</p>
+            <table class="top10-table" id="top10-table">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Agent</th>
+                        <th>Stage</th>
+                        <th>Target close</th>
+                        <th>Status %</th>
+                        <th>Tier</th>
+                    </tr>
+                </thead>
+                <tbody id="top10-body">
+                    <tr><td colspan="6">Loading…</td></tr>
+                </tbody>
+            </table>
+        </section>
+
+        <p class="footer-links">
+            <a href="../data/hh-lattice-agents-routing-table.json">Routing table (JSON)</a> ·
+            <a href="../data/agentic-funnel-top10.json">Funnel metrics (JSON)</a> ·
+            <a href="../data/agent-logs/">Agent logs</a> ·
+            <a href="../A2A_AGENTIC_BUSINESS_ROUTING_TABLE_AND_CONSOLE_SNAP.md">SNAP</a>
+        </p>
+    </div>
+    <script>
+        (function() {
+            function el(id) { return document.getElementById(id); }
+            function loadFunnel() {
+                fetch('../data/agentic-funnel-top10.json')
+                    .then(function(r) { return r.ok ? r.json() : null; })
+                    .then(function(data) {
+                        if (!data) return;
+                        var m = data.metrics || {};
+                        el('m-pipeline').textContent = m.pipeline_total_agents != null ? m.pipeline_total_agents : '—';
+                        el('m-nspfrnp').textContent = m.pipeline_nspfrnp_vertical != null ? m.pipeline_nspfrnp_vertical : '—';
+                        el('m-queenbee').textContent = m.pipeline_queen_bee_synced != null ? m.pipeline_queen_bee_synced : '—';
+                        el('m-status-pct').textContent = m.status_percent_of_target != null ? m.status_percent_of_target + '%' : '—';
+                        el('m-close').textContent = m.target_close_date_primary || '—';
+                        var top10 = data.top10 || [];
+                        var tbody = el('top10-body');
+                        tbody.innerHTML = '';
+                        top10.forEach(function(row) {
+                            var tr = document.createElement('tr');
+                            tr.innerHTML = '<td>' + (row.rank || '') + '</td><td>' + (row.name || row.agent_id || '') + '</td><td><span class="stage ' + (row.stage || 'discovery') + '">' + (row.stage || 'discovery') + '</span></td><td>' + (row.target_close_date || '—') + '</td><td>' + (row.status_pct != null ? row.status_pct + '%' : '—') + '</td><td>' + (row.tier_target || '—') + '</td>';
+                            tbody.appendChild(tr);
+                        });
+                        if (top10.length === 0) tbody.innerHTML = '<tr><td colspan="6">No pipeline entries.</td></tr>';
+                    })
+                    .catch(function() {
+                        el('top10-body').innerHTML = '<tr><td colspan="6">Load data from data/agentic-funnel-top10.json</td></tr>';
+                    });
+            }
+            loadFunnel();
+        })();
+    </script>
+</body>
+</html>

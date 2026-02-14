@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "description": "Complete real-time table of all agents identified on the Holographic Hydrogen Lattice. A-to-A (agent-to-agent) business model. Routing table: connections, transactions, NSPFRNP vertical, Queen Bee sync, profile. Single source for executive console and agent logs.",
+    "source": "NSPFRNP · Agentic Handshake 0214 · UCP/ACP verified agents; publicly available profile data",
+    "updated_utc": "2026-02-12T12:00:00Z",
+    "schema_version": "1.0"
+  },
+  "agents": [
+    {
+      "id": "g42-stargate",
+      "name": "G42 / Stargate",
+      "profile": {
+        "owner_or_entity": "G42 (UAE)",
+        "public_summary": "AI and cloud infrastructure. Sovereign cloud and AI stack.",
+        "source": "Public / UCP-ACP discovery"
+      },
+      "nspfrnp_vertical": false,
+      "queen_bee_synced": false,
+      "connections": [],
+      "transaction_ids": [],
+      "agent_log_file": "data/agent-logs/g42-stargate.md",
+      "last_connection_utc": null,
+      "last_transaction_utc": null,
+      "notes": "Verified agent — Agentic Handshake 0214 target."
+    },
+    {
+      "id": "openai-oracle",
+      "name": "OpenAI / Oracle",
+      "profile": {
+        "owner_or_entity": "OpenAI; Oracle (as referenced)",
+        "public_summary": "AI models and enterprise integration.",
+        "source": "Public / UCP-ACP discovery"
+      },
+      "nspfrnp_vertical": false,
+      "queen_bee_synced": false,
+      "connections": [],
+      "transaction_ids": [],
+      "agent_log_file": "data/agent-logs/openai-oracle.md",
+      "last_connection_utc": null,
+      "last_transaction_utc": null,
+      "notes": "Verified agent — Agentic Handshake 0214 target."
+    },
+    {
+      "id": "aws-sovereign-cloud",
+      "name": "AWS Sovereign Cloud",
+      "profile": {
+        "owner_or_entity": "Amazon Web Services",
+        "public_summary": "Sovereign cloud offerings for regulated and government workloads.",
+        "source": "Public / UCP-ACP discovery"
+      },
+      "nspfrnp_vertical": false,
+      "queen_bee_synced": false,
+      "connections": [],
+      "transaction_ids": [],
+      "agent_log_file": "data/agent-logs/aws-sovereign-cloud.md",
+      "last_connection_utc": null,
+      "last_transaction_utc": null,
+      "notes": "Verified agent — Agentic Handshake 0214 target."
+    }
+  ],
+  "connection_log": [],
+  "transaction_log": []
+}

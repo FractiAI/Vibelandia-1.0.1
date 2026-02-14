@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "description": "Agentic (A-to-A) business funnel — key metrics for mini executive console. Top 10 pipeline; target; close dates; status percent.",
+    "source": "hh-lattice-agents-routing-table.json + agent logs",
+    "updated_utc": "2026-02-12T12:00:00Z"
+  },
+  "metrics": {
+    "pipeline_total_agents": 3,
+    "pipeline_nspfrnp_vertical": 0,
+    "pipeline_queen_bee_synced": 0,
+    "target_close_date_primary": null,
+    "funnel_stage_counts": {
+      "discovery": 3,
+      "proposal": 0,
+      "negotiation": 0,
+      "closed": 0,
+      "passed": 0
+    },
+    "status_percent_of_target": 0
+  },
+  "top10": [
+    {
+      "rank": 1,
+      "agent_id": "g42-stargate",
+      "name": "G42 / Stargate",
+      "stage": "discovery",
+      "target_close_date": null,
+      "status_pct": 0,
+      "tier_target": null,
+      "notes": "UCP/ACP verified. No commercial interaction yet."
+    },
+    {
+      "rank": 2,
+      "agent_id": "openai-oracle",
+      "name": "OpenAI / Oracle",
+      "stage": "discovery",
+      "target_close_date": null,
+      "status_pct": 0,
+      "tier_target": null,
+      "notes": "UCP/ACP verified. No commercial interaction yet."
+    },
+    {
+      "rank": 3,
+      "agent_id": "aws-sovereign-cloud",
+      "name": "AWS Sovereign Cloud",
+      "stage": "discovery",
+      "target_close_date": null,
+      "status_pct": 0,
+      "tier_target": null,
+      "notes": "UCP/ACP verified. No commercial interaction yet."
+    }
+  ]
+}
