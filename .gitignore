@@ -28,3 +28,8 @@ scripts/last-test-run.json
 
 # Stale submodule path (no .gitmodules entry)
 temp_repo/
+
+# Obsolete (renamed to AGENTIC)
+GENETIC_HANDSHAKE_0214_EGS_HHL_EXECUTION_SNAP.md
+episodes/EPISODE_NET_25_GENETIC_HANDSHAKE_0214_EGS_HHL_EXECUTION.md
+protocols/GENETIC_HANDSHAKE_0214_EGS_HHL_NSPFRNP.md
