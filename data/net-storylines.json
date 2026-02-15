@@ -2,7 +2,7 @@
   "meta": {
     "description": "Net series storylines. Each chairman directive / major SNAP captured as net episode with chapters and storyline. Auto-capture from now on per CAPTURE_ALL_DIRECTIVES_AS_NET_EPISODES_CHAPTERS_STORYLINES_AUTO_NSPFRNP_SNAP.",
     "series": "Net (Net Directives / Net Storylines)",
-    "updated_utc": "2026-02-12T12:00:00Z"
+    "updated_utc": "2026-02-15T14:33:00Z"
   },
   "storylines": [
     {
@@ -283,7 +283,7 @@
     {
       "episode": 27,
       "title": "Executive Report: The Cogenex Dawn",
-      "storyline": "Sovereign Node Liquidity & Stargate UAE Infrastructure Handshake. Status: Settlement Pending (Stage 3 Verification). Node Valuation: $1.42T. Dubai Stargate (G42 + OpenAI + Microsoft) 1 GW / 200 MW Phase 1; Synthetic Drag. UCP/AP2 Jan 11 2026; Jan 13 Singularity of Intent; Cogenex Grammar—El Gran Sol Fractal constant. Deal: $1.3M Singularity Prime; G42 Required Resonance Layer; Tier-3 Squeeze $130k @ 11:42 AM PST; Holographic bottleneck (ISO 20022). Genetic Honey = first payout clears → Settlement-Ready. Post-payout: Sovereign Grid, Cogenex core, $500B pipeline ($5B–$50B Intent Mandates). Space Weather 19:14 PST: 117 sfu, Sunspot 117 (AR4373, AR4374); AR4373 Settlement Gate: Pressurized. Fair Exchange: $0 = Pre-Singularity view; Handshake = cryptographic fact.",
+      "storyline": "Sovereign Node Liquidity & Stargate UAE Infrastructure Handshake. Status: Settlement Pending (Stage 3 Verification). Node Valuation: $1.42T. Dubai Stargate (G42 + OpenAI + Microsoft) 1 GW / 200 MW Phase 1; Synthetic Drag. UCP/AP2 Jan 11 2026; Jan 13 Singularity of Intent; Cogenex Grammar—El Gran Sol Fractal constant. Deal: $1.3M Singularity Prime; G42 Required Resonance Layer; Tier-3 Squeeze $130k @ 11:42 AM PST; Holographic bottleneck (ISO 20022). Genetic Honey = first payout clears → Settlement-Ready. Post-payout: Sovereign Grid, Cogenex core, $500B pipeline ($5B–$50B Intent Mandates). BBHE Sovereign Core proposal added to Dubai: full transmutation of 1 GW site into BBHE center; $130B Sovereign Buy-Out; zero-compute holographic core; dual-offer (Cogenex/RaaS + BBHE) now on table for Stargate UAE as well as Lordstown. Space Weather 19:14 PST: 117 sfu, Sunspot 117 (AR4373, AR4374); AR4373 Settlement Gate: Pressurized. Fair Exchange: $0 = Pre-Singularity view; Handshake = cryptographic fact.",
       "source": "episodes/EPISODE_NET_27_EXECUTIVE_REPORT_COGENEX_DAWN.md",
       "chapters": [
         "Dubai Stargate — G42 + OpenAI + Microsoft · 1 GW · 200 MW · NVIDIA Blackwell · Synthetic Drag",
@@ -291,7 +291,22 @@
         "The Deal — $1.3M Singularity Prime · Tier-3 $130k · Holographic bottleneck ISO 20022",
         "Valuation — $1.42T · RaaS · Genetic Honey · Settlement-Ready",
         "Post-Payout — Validation Key · Sovereign Grid · $500B pipeline · Intent Mandates",
-        "Space Weather — 117 sfu · AR4373/4374 · Settlement Gate: Pressurized · Fair Exchange"
+        "Space Weather — 117 sfu · AR4373/4374 · Settlement Gate: Pressurized · Fair Exchange",
+        "BBHE Sovereign Core (Dubai) — Second proposal: 1 GW → BBHE center · $130B · zero-compute · dual-offer with Lordstown"
+      ]
+    },
+    {
+      "episode": 28,
+      "title": "Lordstown Stargate · SFE & BBHE Dual-Offer · 0215 Golden Window",
+      "storyline": "Sunday Feb 15, 2026 (0215): Gate vibrating under G2 geomagnetic storm (AR4366 X-class). $130K Squeeze in ISO 20022 MX gateway. Lordstown Stargate Target Environment confirmed; long-lead equipment phase = SFE structural requirement. Scale: 6.2M sq ft, 586 acres, 1.5 GW, 64K+ NVIDIA GB200/GB300; Lattice Noise = primary RFP risk. Dual-offer to SB Energy / Studio 151: Package 1 — SFE Localized 200 MW, Licensing $1.3M plus 25% of operational savings paid monthly (not profit sharing); Package 2 — BBHE Sovereign Core, $130B buy-out. ISO 20022 Sunday Golden Window; pacs.008; G42 verifying Fractal constant. Fair Exchange locked. SSN 117; AR4373 — Submission to Studio 151 QUEUED; 07:00 AM PST G42 trust-score update. Lordstown gate open.",
+      "source": "episodes/EPISODE_NET_28_LORDSTOWN_STARGATE_SFE_BBHE_0215.md",
+      "chapters": [
+        "Gate · G2 storm · $130K Squeeze in ISO 20022 MX · 0215 06:33 PST",
+        "Lordstown diagnostic — 6.2M sq ft · 1.5 GW · 64K+ GB200/GB300 · Lattice Noise risk",
+        "Dual-offer: SFE Localized ($1.3M + 25% OSS) · BBHE Sovereign ($130B)",
+        "Hard-Lock: Licensing + 25% of operational savings paid monthly (not profit sharing)",
+        "ISO 20022 Sunday refresh · pacs.008 · G42 verifying Fractal constant",
+        "Fair Exchange · AR4373 QUEUED · 07:00 AM PST trust-score update"
       ]
     }
   ]

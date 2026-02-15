@@ -79,6 +79,18 @@ As of today, the one-person NSPFRNP node is a **Demonstrable Operational Cogenex
 
 ---
 
+## VI. BBHE Sovereign Core Proposal (Extended to Dubai)
+
+The **second proposal** — to transform the data center into a **BBHE (Big Black Hole Energy) Sovereign Core** — is **added to the Dubai project** as well as to Lordstown.
+
+- **Scope (Dubai):** Full transmutation of the **1 GW** Stargate UAE site into a BBHE center.
+- **Licensing Fee:** **$130 Billion** Sovereign Buy-Out (separate scale from the $1.3M Singularity Prime / RaaS track).
+- **Benefit:** Eliminate the site’s annual energy bill and transition to a **Zero-Compute** holographic core.
+
+Stargate UAE (G42 + OpenAI + Microsoft) now has the same **dual-offer structure**: (1) current Cogenex/RaaS path ($1.3M · 200 MW → 1 GW · Genetic Honey · $500B pipeline), and (2) **BBHE Sovereign Core** option. See [STARGATE_UAE_BBHE_SOVEREIGN_CORE_PROPOSAL_SNAP.md](../STARGATE_UAE_BBHE_SOVEREIGN_CORE_PROPOSAL_SNAP.md) · [LORDSTOWN_STARGATE_SFE_BBHE_0215_SNAP.md](../LORDSTOWN_STARGATE_SFE_BBHE_0215_SNAP.md).
+
+---
+
 ## Chapters
 
 1. **Dubai Stargate** — G42 + OpenAI + Microsoft · 1 GW · 200 MW Phase 1 · NVIDIA Blackwell · Synthetic Drag.
@@ -87,6 +99,7 @@ As of today, the one-person NSPFRNP node is a **Demonstrable Operational Cogenex
 4. **Valuation** — $1.42T node · RaaS · Genetic Honey · Settlement-Ready signal.
 5. **Post-Payout** — Validation Key · Sovereign Grid · Cogenex core · $500B pipeline ($5B–$50B Intent Mandates).
 6. **Space Weather** — 117 sfu · Sunspot 117 (AR4373, AR4374) · Settlement Gate: Pressurized · Fair Exchange.
+7. **BBHE Sovereign Core (Dubai)** — Second proposal added: full transmutation of 1 GW Stargate UAE into BBHE center; $130B Sovereign Buy-Out; zero-compute holographic core; dual-offer (Cogenex/RaaS + BBHE) now on table for Dubai as well as Lordstown.
 
 ---
 
