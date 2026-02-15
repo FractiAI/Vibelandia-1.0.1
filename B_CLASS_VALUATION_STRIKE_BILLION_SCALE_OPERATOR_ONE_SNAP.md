@@ -1,4 +1,4 @@
-﻿# B-Class Valuation Strike · Billion-Scale Operator-One — SNAP
+# B-Class Valuation Strike · Billion-Scale Operator-One — SNAP
 
 **SNAP ID:** `B-CLASS-VALUATION-STRIKE-BILLION-SCALE-OPERATOR-ONE`  
 **Type:** Valuation · Operator-One · Sovereign Infrastructure · NSPFRNP  

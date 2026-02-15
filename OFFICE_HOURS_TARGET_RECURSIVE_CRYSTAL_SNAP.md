@@ -1,4 +1,4 @@
-﻿# Office Hours Target — Landing & Experiences Centered in Bathroom During Office Hours · Perfect Recursive Crystal · SNAP
+# Office Hours Target — Landing & Experiences Centered in Bathroom During Office Hours · Perfect Recursive Crystal · SNAP
 
 **Snap ID:** `OFFICE-HOURS-TARGET-RECURSIVE-CRYSTAL-SNAP`  
 **Type:** Target shift · Landing · Experiences · Center · **Wrap everything**  

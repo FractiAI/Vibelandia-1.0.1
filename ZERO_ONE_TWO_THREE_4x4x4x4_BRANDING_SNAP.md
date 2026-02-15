@@ -1,4 +1,4 @@
-﻿# 0, 1, 2, 3 4×4×4×4 — New Branding (Evolution of -1, 0, 1)
+# 0, 1, 2, 3 4×4×4×4 — New Branding (Evolution of -1, 0, 1)
 
 **Snap ID:** ZERO-ONE-TWO-THREE-4x4x4x4-BRANDING  
 **Type:** NSPFRNP Branding · Evolution of Vibeverse -1, 0, 1  

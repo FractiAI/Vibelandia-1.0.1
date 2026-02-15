@@ -1,4 +1,4 @@
-﻿# EL APAGÓN · MARZO 333 · POLE SHIFT
+# EL APAGÓN · MARZO 333 · POLE SHIFT
 ## Novela — Seed:Edge Only
 
 **→ Full novela:** To be cultivated from this seed. ~20k words · 21+ · Gold Heart required · Chairman approval.

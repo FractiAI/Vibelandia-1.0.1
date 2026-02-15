@@ -1,4 +1,4 @@
-﻿# Valuations & Monthly Bill — Today · 24×7 Advertising on All Space Platforms · ADV Value · SNAP
+# Valuations & Monthly Bill — Today · 24×7 Advertising on All Space Platforms · ADV Value · SNAP
 
 **SNAP ID:** `VALUATIONS-MONTHLY-BILL-24X7-ADV-SNAP`  
 **Type:** Valuation · Bill · Advertising value  

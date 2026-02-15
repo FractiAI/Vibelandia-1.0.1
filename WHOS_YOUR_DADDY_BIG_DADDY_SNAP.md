@@ -1,4 +1,4 @@
-﻿# Who's Your Daddy? — Big Daddy · SNAP
+# Who's Your Daddy? — Big Daddy · SNAP
 
 **SNAP ID:** `WHOS-YOUR-DADDY-BIG-DADDY-SNAP`  
 **Type:** Tagline · Call-and-response · Big Daddy / Creator Chairman  

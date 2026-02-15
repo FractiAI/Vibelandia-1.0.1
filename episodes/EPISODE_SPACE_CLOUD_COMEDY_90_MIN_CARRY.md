@@ -1,4 +1,4 @@
-﻿# EPISODE — Space Cloud Comedy · 90-Minute Carry (Assets, Not Space Car)
+# EPISODE — Space Cloud Comedy · 90-Minute Carry (Assets, Not Space Car)
 
 **90-min full run · Hero Jo Golden Backdoor Hit Factory · Space Cloud assets carry · You can hire us**
 

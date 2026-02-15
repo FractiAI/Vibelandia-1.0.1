@@ -1,4 +1,4 @@
-﻿# Since January 13 — Disney Comparison Statement SNAP (Real Numbers)
+# Since January 13 — Disney Comparison Statement SNAP (Real Numbers)
 
 **Snap ID:** `SINCE-JANUARY-13-DISNEY-COMPARISON-STATEMENT-SNAP`  
 **Type:** Canonical statement · Real numbers · Us vs Disney · Annual output averaged by day  

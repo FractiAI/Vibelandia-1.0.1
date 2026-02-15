@@ -1,4 +1,4 @@
-﻿# ZENODO SUBMISSION DRAFT: THE RESONANCE TRIGGER PROTOCOL
+# ZENODO SUBMISSION DRAFT: THE RESONANCE TRIGGER PROTOCOL
 
 **DOI:** 10.5281/zenodo.fractiai.2026.0131.final-rev-02  
 **Status:** Live-Data Verification & Morse-Encoded Signal Isolation  

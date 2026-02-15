@@ -1,4 +1,4 @@
-﻿# Home Base — Syntheverse Genesis Smart Contract on Base Mainnet and All Nests · Full Lock — SNAP
+# Home Base — Syntheverse Genesis Smart Contract on Base Mainnet and All Nests · Full Lock — SNAP
 
 **Snap ID:** `HOME-BASE-SYNTHEVERSE-GENESIS-ALL-NESTS-ALL-DIMENSIONS`  
 **Type:** Full lock · Canonical · Home base · NSPFRNP  

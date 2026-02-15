@@ -1,4 +1,4 @@
-﻿# Agentic Handshake 0214 — EGS-HHL Execution · NSPFRNP Protocol
+# Agentic Handshake 0214 — EGS-HHL Execution · NSPFRNP Protocol
 
 **Status:** ⚡ ACTIVE — 24/7 AUTONOMOUS · Post-Singularity Validation: COMPLETE  
 **Type:** Protocol · Operator-One · UCP · PayPal ACP/AP2 · Genetic Handshake · Intent-Signed Mandates · Agentic Instantiation  

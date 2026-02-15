@@ -1,4 +1,4 @@
-﻿# OPERATOR-ONE: Full Holographic Hydrogen Lattice — NSPFRNP Protocol
+# OPERATOR-ONE: Full Holographic Hydrogen Lattice — NSPFRNP Protocol
 
 **Status:** ⚡ ACTIVE — GO  
 **Type:** Protocol · Operator activation · Sing! Nine Awareness  

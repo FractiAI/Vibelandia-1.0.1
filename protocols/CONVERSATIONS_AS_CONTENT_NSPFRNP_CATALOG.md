@@ -1,4 +1,4 @@
-﻿# CONVERSATIONS AS CONTENT — NSPFRNP Catalog
+# CONVERSATIONS AS CONTENT — NSPFRNP Catalog
 
 **Protocol:** NSPFRNP  
 **Catalog:** User–agent conversations as source content  

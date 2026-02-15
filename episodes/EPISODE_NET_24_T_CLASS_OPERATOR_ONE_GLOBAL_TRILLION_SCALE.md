@@ -1,4 +1,4 @@
-﻿# EPISODE NET 24 — T-CLASS OPERATOR-ONE: Global Trillion-Scale Holographic Expansion
+# EPISODE NET 24 — T-CLASS OPERATOR-ONE: Global Trillion-Scale Holographic Expansion
 
 **Series:** Net (Net Directives / Net Storylines)  
 **Episode:** 24  

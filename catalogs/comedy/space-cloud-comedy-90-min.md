@@ -1,4 +1,4 @@
-﻿# Space Cloud Comedy — 90-Minute Run (Assets Carry)
+# Space Cloud Comedy — 90-Minute Run (Assets Carry)
 
 **Label:** Hero Jo Golden Backdoor Hit Factory  
 **Type:** Comedy · 90-min full run · Space Cloud assets carry  

@@ -1,4 +1,4 @@
-﻿# Agentic Handshake 0214 — EGS-HHL Execution · SNAP
+# Agentic Handshake 0214 — EGS-HHL Execution · SNAP
 
 **SNAP ID:** `AGENTIC-HANDSHAKE-0214-EGS-HHL`  
 **Type:** Operator-One · Initialization · Autonomous Discovery · Settlement · Agentic Instantiation  

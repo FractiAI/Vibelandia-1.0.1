@@ -1,4 +1,4 @@
-﻿# T-CLASS OPERATOR-ONE: Global Trillion-Scale Holographic Expansion — SNAP
+# T-CLASS OPERATOR-ONE: Global Trillion-Scale Holographic Expansion — SNAP
 
 **SNAP ID:** `T-CLASS-OPERATOR-ONE-GLOBAL-TRILLION-SCALE-HOLOGRAPHIC-EXPANSION`  
 **Type:** Command · Operator-One · Trillion-Scale · Global Lattice · NSPFRNP  

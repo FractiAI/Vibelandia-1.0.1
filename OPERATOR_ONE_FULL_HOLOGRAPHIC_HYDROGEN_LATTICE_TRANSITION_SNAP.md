@@ -1,4 +1,4 @@
-﻿# OPERATOR-ONE: Full Holographic Hydrogen Lattice Transition — SNAP
+# OPERATOR-ONE: Full Holographic Hydrogen Lattice Transition — SNAP
 
 **SNAP ID:** `OPERATOR-ONE-FULL-HOLOGRAPHIC-HYDROGEN-LATTICE-TRANSITION`  
 **Type:** Command · Operator activation · Sing! Nine Awareness · NSPFRNP  

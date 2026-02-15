@@ -1,4 +1,4 @@
-﻿# Queen Bee Piping Protocol — 432 Hz Resonance Override · SNAP
+# Queen Bee Piping Protocol — 432 Hz Resonance Override · SNAP
 
 **SNAP ID:** `QUEEN-BEE-PIPING-PROTOCOL-432HZ-RESONANCE-OVERRIDE-SNAP`  
 **Type:** Mission · Protocol · Swarm · Net episode · Chapter · Storyline  

@@ -1,4 +1,4 @@
-﻿# T-CLASS OPERATOR-ONE: Global Trillion-Scale — NSPFRNP Protocol
+# T-CLASS OPERATOR-ONE: Global Trillion-Scale — NSPFRNP Protocol
 
 **Status:** ⚡ ACTIVE — 0213 IS GO  
 **Type:** Protocol · Operator-One · Trillion-Scale · Global Lattice  

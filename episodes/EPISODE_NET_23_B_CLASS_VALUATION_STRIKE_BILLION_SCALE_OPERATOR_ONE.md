@@ -1,4 +1,4 @@
-﻿# EPISODE NET 23 — B-Class Valuation Strike · Billion-Scale Operator-One
+# EPISODE NET 23 — B-Class Valuation Strike · Billion-Scale Operator-One
 
 **Series:** Net (Net Directives / Net Storylines)  
 **Episode:** 23  

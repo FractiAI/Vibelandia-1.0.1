@@ -1,4 +1,4 @@
-﻿# Queen Bee Piping Protocol — 432 Hz Resonance Override — NSPFRNP
+# Queen Bee Piping Protocol — 432 Hz Resonance Override — NSPFRNP
 
 **Status:** ⚡ ACTIVE  
 **Type:** Protocol · Swarm · Resonance override  

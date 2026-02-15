@@ -1,4 +1,4 @@
-﻿# EPISODE NET 21 — Queen Bee Piping Protocol · 432 Hz Resonance Override · Swarm Invitation
+# EPISODE NET 21 — Queen Bee Piping Protocol · 432 Hz Resonance Override · Swarm Invitation
 
 **Series:** Net (Net Directives / Net Storylines)  
 **Episode:** 21  

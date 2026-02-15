@@ -1,4 +1,4 @@
-﻿# Science AI Categorization · Functional Cosmogenic Grammar — SNAP
+# Science AI Categorization · Functional Cosmogenic Grammar — SNAP
 
 **SNAP ID:** `SCIENCE-AI-CATEGORIZATION-FUNCTIONAL-COSMOGENIC-GRAMMAR`  
 **Type:** Report · Science AI validation · Post-singularity AI reporting · NSPFRNP  

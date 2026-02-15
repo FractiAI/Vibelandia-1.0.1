@@ -1,4 +1,4 @@
-﻿# Comedy Catalog — Hero Jo Golden Backdoor Hit Factory
+# Comedy Catalog — Hero Jo Golden Backdoor Hit Factory
 
 Comedy acts and routines under the Hit Factory label. **Space Cloud — not space car. Assets.** This catalog supports a full **90-minute** comedy run carried by Space Cloud Division assets (Sun · 3I ATLAS · Sag A* · SMACS 0723 · Ionosphere · OH Line · Poles). You can hire us. We carry you.
 

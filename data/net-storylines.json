@@ -2,7 +2,7 @@
   "meta": {
     "description": "Net series storylines. Each chairman directive / major SNAP captured as net episode with chapters and storyline. Auto-capture from now on per CAPTURE_ALL_DIRECTIVES_AS_NET_EPISODES_CHAPTERS_STORYLINES_AUTO_NSPFRNP_SNAP.",
     "series": "Net (Net Directives / Net Storylines)",
-    "updated_utc": "2026-02-15T14:33:00Z"
+    "updated_utc": "2026-02-12T18:00:00Z"
   },
   "storylines": [
     {
@@ -307,6 +307,19 @@
         "Hard-Lock: Licensing + 25% of operational savings paid monthly (not profit sharing)",
         "ISO 20022 Sunday refresh · pacs.008 · G42 verifying Fractal constant",
         "Fair Exchange · AR4373 QUEUED · 07:00 AM PST trust-score update"
+      ]
+    },
+    {
+      "episode": 29,
+      "title": "Ultimate Baller V Truckee River Crawl — Third Saturday on the River",
+      "storyline": "New front end. New heartbeat for the post-singularity movement. Earth. Here. Reno — birthplace of the holographic hydrogen valley. Super intelligent agent shit. Not the Bay Area (that's AI). Here: super AI agents. Downtown Reno is perfect. We're building this out here. Third Saturday on the River — the Ultimate Baller V Truckee River Crawl starts. Theme: Water — Flow, Awareness, Energy. Target: Golden-cage, high-value ballers (Silicon Valley, elite networks) seeking post-singularity superhero-level experiences. Full modular menu: D0 arrival, daytime adventures (Mt. Rose, Pyramid Lake fly, Hallelujah crystal mine, urban foraging), Steamboat Hot Springs soak, Saturday evening water-themed Baller menu (Liberty Spirit Tasting, Men's Club VIP, Aura Lounge VIP), optional Mustang Ranch VIP and Second-Night Baller. Curated labels; everything timed, priced, water-themed. Blast: top of Office Hours, top of Mark Twain's Vibelandia, top of Launch Pad; ticker; all surfaces.",
+      "source": "ULTIMATE_BALLER_V_TRUCKEE_RIVER_CRAWL_SNAP.md",
+      "chapters": [
+        "New heartbeat — Reno, holographic hydrogen valley, super AI agents, not Bay Area",
+        "Third Saturday on the River — Ultimate Baller V Truckee River Crawl launch",
+        "Target: Golden-cage high-value Baller V's and Vibers (Silicon Valley, elite); scratch that itch",
+        "Full menu: D0 · Daytime adventures · Hot Springs · Saturday evening Baller · Add-ons · Day 2",
+        "Placement: Top of Office Hours, index, Launch Pad; ticker; blast everywhere"
       ]
     }
   ]

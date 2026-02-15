@@ -1,4 +1,4 @@
-﻿# Continuous Metapattern Discovery — Ever More Automation · Precision · Quality Service to Executive Command · NSPFRNP All Always SNAP
+# Continuous Metapattern Discovery — Ever More Automation · Precision · Quality Service to Executive Command · NSPFRNP All Always SNAP
 
 **SNAP ID:** `CONTINUOUS-METAPATTERN-DISCOVERY-AUTOMATION-PRECISION-EXECUTIVE-COMMAND-NSPFRNP`  
 **Type:** Operating rule · Metabolize · Executive command · NSPFRNP  
