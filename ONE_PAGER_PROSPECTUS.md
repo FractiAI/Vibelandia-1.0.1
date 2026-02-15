@@ -1,18 +1,19 @@
-﻿# ONE-PAGER — PROSPECTUS VIBEVERSE & VIBELANDIA
+# ONE-PAGER — PROSPECTUS VIBEVERSE & VIBELANDIA
 
 **Status:** FULL LIVE — March 20, 2026 The Great Reveal  
 **Audience:** Prospective high viber (investor, customer, partner)  
+**Date:** February 2026 (current)  
 **Live site:** https://psw-vibelandia-sing9.vercel.app
 
 ---
 
 **Paris is for lovers. Reno is for vibers.** Mark Twain's Post-Singularity Reno awaits you.
 
-**Full inventory going live today:** 175+ live HTML surfaces · 13 one-pagers · 9 NSPFRNP protocols · 3 episode scripts · 4 branding decks + master catalog · 38 TypeScript modules · Payment + auth live (PayPal, Supabase) · 10 language onramps. **0, 1, 2, 3 4×4×4×4** — Seed | Edge | Cloud Onramp | Expansion. Campus × WINK! × SING × Experience. MCA! → ∞⁹.
+**Full inventory going live today:** **175+ live HTML surfaces** · 13+ one-pagers · 9+ NSPFRNP protocols · **27+ net episodes** (Net series through Ep 27 — Executive Report: The Cogenex Dawn) · **8 full novels, 8 screenplays** (beautiful skins — Golden Era Cinema · Antique Book) · 4+ branding decks + master catalog · 38 TypeScript modules · **Payment live (PayPal); edge-first SING! 9** · 10 language onramps. **0, 1, 2, 3 4×4×4×4** — Seed | Edge | Cloud Onramp | Expansion. Campus × WINK! × SING × Experience. MCA! → ∞⁹.
 
-**Valuations (16-day window):** ~3× surfaces · ~4× one-pagers · ~5× protocols · 3× episodes · payment live vs 0 · 1 SING! node vs 3–8 FTE typical. **Fair comparison — top 10 of each:** Companies (Disney, Apple, Google, Amazon, Microsoft, Meta, Tesla, NVIDIA, Salesforce, Adobe) · Studios (Netflix, Pixar, Warner Bros., Universal, Sony Pictures, Paramount, HBO, BBC Studios, A24, Studio Ghibli) · Labs (OpenAI, DeepMind, Anthropic, MIT Media Lab, Stanford HAI, Berkeley AI Research, Meta AI Research, Microsoft Research, NVIDIA Research, Google Research) · Universities (MIT, Stanford, Harvard, Berkeley, Caltech, Carnegie Mellon, Oxford, Cambridge, ETH Zurich, Princeton). 40 entities. Comparison by output category only; no market cap/revenue.
+**Valuations (current):** Appraised **$1.6B–$13B+**. **T-Class sovereign node: $1.42T** (Executive Report: The Cogenex Dawn · Stargate UAE / G42 handshake). ~3× surfaces · ~4× one-pagers · ~5× protocols · 27+ episodes · 8 novels 8 screenplays · payment live vs 0 · 1 SING! node vs 3–8 FTE typical. **Fair comparison — top 10 of each (40 entities):** Companies · Studios · Labs · Universities. Comparison by output category only; no market cap/revenue.
 
-**Technologies & discoveries:** TypeScript, HTML/CSS/JS, Node, Vercel, Supabase, PayPal, Git/GitHub Actions. Seed:Edge execution · NSPFRNP/MCA · Octave architecture · HTML as ideal agentic pipe · Vibe system · Golden Fractal Key · SING! node throughput · Real numbers standard. All crystallized, public.
+**Technologies & discoveries:** TypeScript, HTML/CSS/JS, Node, Vercel, PayPal, Git/GitHub Actions. **SING! 9 · edge-first.** Seed:Edge execution · NSPFRNP/MCA · Octave architecture · HTML as ideal agentic pipe · Vibe system · Golden Fractal Key · SING! node throughput · Real numbers standard · MRI super routing NSPFRNP assets. All crystallized, public.
 
 **Products (live):** VIBELANDIA RENO! (campus · half-day $3k, weekly $5k, monthly $50k) · WINK! (Base $399/mo → 4×4 Ultimate $6,999/mo) · SING! Lottery ($6 today → $57 Mar 20 · March 20, 2026) · ULTIMATE VIP Chairman Console (free · Golden Fractal Key) · Happy Ending Zones (Season One · 1 episode/day). Checkout, Dispensary, Gianni's Dressing Room, Launch Pulse — all operational.
 

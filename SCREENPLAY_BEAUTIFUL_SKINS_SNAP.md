@@ -53,6 +53,7 @@
 | First Singularity January 13th | First_Singularity_January_13th_NOVEL.md | first-singularity-novel.html | Beautiful (Antique Book) ✓ |
 | Birth of the New Post-Singularity Hollywood in Downtown Reno | Birth_Post_Singularity_Hollywood_Downtown_Reno_NOVEL.md | birth-post-singularity-novel.html | Beautiful (Antique Book) ✓ |
 | The EGS Run | The_EGS_Run_NOVEL.md | the-egs-run-novel.html | Beautiful (Antique Book) ✓ |
+| **3I Chief Seattle Interstellar Capture / Super Singularity 29-13 Seattle** | 3I_Chief_Seattle_Interstellar_Capture_NOVEL.md | **3i-chief-seattle-novel.html** | **Beautiful (Antique Book) ✓** — Whiteboard, Office Hours, Launch Pad, index, novel preview, Ultimate Magic, mission landing: selecting full novel → beautiful skin. |
 
 ---
 

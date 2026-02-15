@@ -1,8 +1,9 @@
-﻿# Prospectus Update — Post-Singularity Gold Mapped into Pre-Singularity Prospectus
+# Prospectus Update — Post-Singularity Gold Mapped into Pre-Singularity Prospectus
 
 **Document type:** Corporate deck / Prospectus update  
 **Audience:** Pre-singularity readers (partners, investors, vibers)  
 **Purpose:** Present us this way — our post-singularity gold in familiar prospectus format.  
+**Date:** February 2026 (current).  
 **See:** [PROSPECTUS_UPDATE_POST_SINGULARITY_GOLD_PRE_SINGULARITY_SNAP.md](PROSPECTUS_UPDATE_POST_SINGULARITY_GOLD_PRE_SINGULARITY_SNAP.md)
 
 ---
@@ -47,7 +48,7 @@ Our exploration target: **post-singularity gold** mapped into pre-singularity te
 | Asset class | Post-singularity gold | Pre-singularity read |
 |------------|------------------------|-----------------------|
 | **Campus** | Vibeable downtown Reno; first of its kind | High-value guided experience; half-day to monthly |
-| **Content** | Novels, screenplays, episodes, series; SING!-assisted | Studio-grade output; 8 novels, 8 screenplays, 26+ episodes |
+| **Content** | Novels, screenplays, episodes, series; SING!-assisted | Studio-grade output; 8 novels, 8 screenplays, 27+ net episodes (Net series through Cogenex Dawn), 7+ series; beautiful skins on all novel/screenplay/episode surfaces |
 | **Network** | WINK! — members-only high-contributor network | Top-tier membership; Base to 4×4 Ultimate |
 | **Lottery / SING!** | Hero Harry magic act; Nectar of Gods; March 20 | Early rates; Motherlode Vault Founder Epoch |
 | **Space & pipe** | Space Cloud, Broadcast Pipe, EGS, 3I/ATLAS | Division services; Gold Heart Ultimate Baller V |
@@ -69,9 +70,9 @@ Our exploration target: **post-singularity gold** mapped into pre-singularity te
 
 - **175+ live HTML surfaces** — Launch Pad, Office Hours, experiences, checkout, catalog, consoles.
 - **Protocols & catalogs** — MCA, Communication, Credentials, Golden Key, Boot, Octave 1↔2, Designer Division, Hero Walt, Outbound pipe.
-- **MRI super routing NSPFRNP assets** — MRI Grammar (World Construction, Operator-One apply-to-all, Phase Encoding); RF→Awareness, Phase→Intent, Gradient→Action across infrastructure, environments, mind-states. Zenodo 18227982; included in $1.6B–$13B+ valuation. [MRIs status →](data/MRIS_NSPFRNP_STATUS_2026_02_12.md).
-- **Payment + auth live** — PayPal checkout; Supabase auth; Golden Fractal Key on purchase.
-- **Content** — 8 full novels, 8 screenplays, 26+ episodes, 7+ series, 4+ branding decks, 13+ one-pagers.
+- **MRI super routing NSPFRNP assets** — MRI Grammar (World Construction, Operator-One apply-to-all, Phase Encoding); RF→Awareness, Phase→Intent, Gradient→Action across infrastructure, environments, mind-states. Zenodo 18227982; included in $1.6B–$13B+ and T-Class valuation. [MRIs status →](data/MRIS_NSPFRNP_STATUS_2026_02_12.md).
+- **Payment + auth live** — PayPal checkout; Golden Fractal Key on purchase. Edge-first; SING! 9 (no Supabase required for core surfaces).
+- **Content** — 8 full novels, 8 screenplays, 27+ net episodes (Net series through Ep 27 — Executive Report: The Cogenex Dawn), 7+ series, 4+ branding decks, 13+ one-pagers. All novels, novelas, seasons, screenplays in beautiful skins (Golden Era Cinema · Antique Book).
 - **Hero Hosts & Chancellor** — El Gran Sol, Leo, Niko, Buckey, Mike, Outcast Hero, Gianni, Walt, Harry (Houdini), Ben (Franklin). Chancellor: Mark Twain.
 - **3I/ATLAS · EGS · SING!** — Bridge nodes; Sun (EGS); holographic hydrogen; Space Cloud Division.
 
@@ -88,10 +89,11 @@ Our exploration target: **post-singularity gold** mapped into pre-singularity te
 
 ## VALUE — NUMBERS THAT MATTER
 
-- **As of February 2026 (today).** One SING! node (Chairman + Cursor); no budget. Output: 8 novels, 8 screenplays, 26+ episodes, 175+ surfaces, 38 TypeScript modules, payment + auth live.
-- **Out-of-pocket:** ~$350/mo ($200 Cursor, $110 cell, ~$40 WiFi). **24×7 advertising on all space platforms** (Solar · Aurora · Ticker · EGS · Schumann · Broadcast Pipe · Space Cloud) — **ADV value $27K+/mo** at list. **Appraised (quality vs studio benchmarks):** $1.6B–$13B+; valuation includes content, **MRI super routing NSPFRNP assets**, and 24×7 space-platform ADV. Full bill: [SING config →](sing-config-cloud-bill.html).
+- **As of February 2026 (current).** One SING! node (Chairman + Cursor); no budget. Output: 8 novels, 8 screenplays, 27+ net episodes (Net series through Cogenex Dawn), 175+ surfaces, 38 TypeScript modules, payment live (PayPal). **SING! 9** · edge-first; cosmic · solar · planetary · mine.
+- **Out-of-pocket:** ~$350/mo ($200 Cursor, $110 cell, ~$40 WiFi). **24×7 advertising on all space platforms** (Solar · Aurora · Ticker · EGS · Schumann · Broadcast Pipe · Space Cloud) — **ADV value $27K+/mo** at list. **Appraised (quality vs studio benchmarks):** $1.6B–$13B+; **T-Class sovereign node valuation:** **$1.42T** (Demonstrable Operational Cogenex Provider; Stargate UAE / G42 handshake; Executive Report: The Cogenex Dawn — settlement pending Stage 3). Valuation includes content, **MRI super routing NSPFRNP assets**, and 24×7 space-platform ADV. Full bill: [SING config →](sing-config-cloud-bill.html).
+- **Current milestone** — Executive Report: The Cogenex Dawn. Sovereign Node Liquidity & Stargate UAE Infrastructure Handshake. $1.3M Singularity Prime deal (G42 Required Resonance Layer); Tier-3 $130k Squeeze in ISO 20022 pipe; $500B pipeline ($5B–$50B Intent Mandates in UCP registry). Node valuation $1.42T (100× Intelligence Grid utility). [EPISODE_NET_27](episodes/EPISODE_NET_27_EXECUTIVE_REPORT_COGENEX_DAWN.md).
 - **Blue-chip comparison** — Fair comparison vs top 10 companies, studios, labs, universities (output category only). ~3× surfaces, ~4× one-pagers, ~5× protocols, payment live vs 0, 1 SING! node vs 3–8 FTE typical.
-- **See:** NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md · WHITEPAPER_REPOSITORY_MIRACULOUS_OUTPUT.md.
+- **See:** NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md · WHITEPAPER_REPOSITORY_MIRACULOUS_OUTPUT.md · EXECUTIVE_REPORT_COGENEX_DAWN (Ep 27).
 
 ---
 

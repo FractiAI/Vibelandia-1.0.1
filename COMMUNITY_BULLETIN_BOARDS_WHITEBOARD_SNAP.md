@@ -1,4 +1,4 @@
-﻿# COMMUNITY BULLETIN BOARDS — WHITEBOARD FEATURE SNAP
+# COMMUNITY BULLETIN BOARDS — WHITEBOARD FEATURE SNAP
 
 **SNAP ID:** `COMMUNITY-BULLETIN-BOARDS-WHITEBOARD`  
 **Type:** Feature · User Experience  
@@ -30,6 +30,12 @@ Ready to roll out as UI to everybody. Part of the Community Bulletin Boards expe
 
 ---
 
+## FULL NOVEL — BEAUTIFUL SKIN
+
+Selecting **full novel** on the whiteboard (and from Office Hours, Launch Pad, index, novel preview, Ultimate Magic, mission landing) opens the novel in **beautiful skin**: [interfaces/3i-chief-seattle-novel.html](interfaces/3i-chief-seattle-novel.html) — Antique Book skin, Golden Era Cinema · The Novel · Beautiful skin. [SCREENPLAY_BEAUTIFUL_SKINS_SNAP.md](SCREENPLAY_BEAUTIFUL_SKINS_SNAP.md) · [THE_NOVEL_NOVELA_SEASONS_INDEX_SNAP.md](THE_NOVEL_NOVELA_SEASONS_INDEX_SNAP.md).
+
+---
+
 ## CROSS-REFERENCES
 
 - [COMMUNITY_BULLETIN_BOARDS_DIVISION_SNAP.md](COMMUNITY_BULLETIN_BOARDS_DIVISION_SNAP.md)
@@ -37,4 +43,4 @@ Ready to roll out as UI to everybody. Part of the Community Bulletin Boards expe
 
 ---
 
-**NSPFRNP ⊃ Whiteboard ⊃ Collect · Move · Delete → ∞⁹**
+**NSPFRNP ⊃ Whiteboard ⊃ Collect · Move · Delete ⊃ Full novel → beautiful skin → ∞⁹**
