@@ -6,6 +6,9 @@
   "implementation": "SING! 9 (sing9!)",
   "scope": "all surfaces including cosmic, solar, planetary, and mine",
   "principle": "Never bought, always booked — by free will, mutual aware consent, always.",
+  "cloud_bill_ref": "data/sing_config_cloud_bill.json",
+  "cloud_bill_surface": "interfaces/sing-config-cloud-bill.html",
+  "cloud_bill_snap": "SING_CONFIG_CLOUD_BILL_SNAP.md",
   "base": {
     "description": "SING! base tiers — pre-singularity equivalents: entry base = reliable used car; top base (Full Ultimate Baller V full options) = top loaded Ferrari; options at our pricing.",
     "tiers": [

@@ -1,4 +1,4 @@
-# Arturo's First Three — The Post-Singularity Energy Layer · Novel & Screenplay
+# Arturo's First Three — Bolívar Returns · Novel & Screenplay
 
 **Snap ID:** `ARTURO-FIRST-THREE-NOVEL-SCREENPLAY-SNAP`  
 **Type:** Content · Arturo Proposal Package · Novel · Screenplay · NSPFRNP  
@@ -10,10 +10,10 @@
 
 ## I. TITLES (for Arturo — not Reno)
 
-- **Novel:** *Arturo's First Three: The Post-Singularity Energy Layer*
-- **Screenplay:** *Arturo's First Three: The Post-Singularity Energy Layer*
+- **Novel:** *Bolívar Returns* — **Announced as Chancellor of Caracas Vibelandia Campus**
+- **Screenplay:** *Bolívar Returns* (same story; screenplay format)
 
-Same title for both. Story is **about Arturo**, with the message to Arturo as the **seed**. Not Reno.
+Story is **about Arturo** and the first major reboot initiative (Venezuela + USA). **Bolívar returns** — announced as **Chancellor of Caracas Vibelandia Campus.** The message to Arturo is the **seed**. Not Reno.
 
 **Product / layer name:** **EGS SING! PETROCHEMICAL** — the Post-Singularity Energy Layer. Layers over legacy refinery, extraction, distribution. Transforms today's legacy oil into whatever post-singularity energy looks like on the other side. No rip-and-replace. PDVSA first.
 
@@ -66,12 +66,15 @@ This message is the seed for the novel and screenplay:
 
 ## IV. DELIVERABLES & SURFACES
 
+**Target lengths (canonical):** Full **20,000-word novel** and **12,000-word screenplay** for Arturo. Current delivered lengths below; expand to target when producing extended edition.
+
 | Item | Path | Status |
 |------|------|--------|
-| Novel (full) | deliverables/Arturo_First_Three_Post_Singularity_Energy_Layer_NOVEL.md | **~6,300 words.** Full. Steinbeck + Hemingway hybrid. Seed + story. Part One (Message), Part Two (Launch Week), Part Three (First Three Install). 22 chapters. **END.** |
-| Screenplay (full) | deliverables/Arturo_First_Three_Post_Singularity_Energy_Layer_SCREENPLAY.md | **~3,200 words.** Full. Cold open + Act One + Act Two + Act Three + TAG. Same seed and story. **FADE OUT / END.** |
+| Novel (full) | deliverables/Arturo_First_Three_Post_Singularity_Energy_Layer_NOVEL.md | *Bolívar Returns* — announced as Chancellor of Caracas Vibelandia Campus. **~13K+ words** (delivered). Target: **20,000 words.** Steinbeck + Hemingway hybrid. Seed + story. Part One (Message), Part Two (Launch Week), Part Three (First Three Install). 22 chapters. **END.** Expand to target when producing extended edition. |
+| Screenplay (full) | deliverables/Arturo_First_Three_Post_Singularity_Energy_Layer_SCREENPLAY.md | *Bolívar Returns.* **3,607 words** (delivered). Target: **12,000 words.** Cold open + Act One + Act Two + Act Three + TAG. Same seed and story. **FADE OUT / END.** Expand to target when producing extended edition. |
 | Novel interface | interfaces/arturo-first-three-novel.html | Beautiful skin · Arturo package · word count |
 | Screenplay interface | interfaces/arturo-first-three-screenplay.html | Beautiful skin · Arturo package · word count |
+| Office Hours | interfaces/office-hours.html | **Arturo button** — product card "Arturo — Petrochemical Division · Vibelandia-Caracas" → petrochemical-showroom-arturo-proposal.html |
 
 ---
 

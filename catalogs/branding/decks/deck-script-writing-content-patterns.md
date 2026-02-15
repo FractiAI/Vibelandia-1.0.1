@@ -61,7 +61,7 @@ USE FOR:
 - **BALLER VC** — Top-tier guided, all-inclusive, extended stays (weekly/monthly)
 
 **Tagline:** *Vibeable campus. Guided. All inclusive. BASIC → MEMBERS ONLY → VIP → BALLER VC. Half-day, overnight, weekly, monthly.*
-**Pricing equivalence:** VIBELANDIA RENO! campus is priced like a top guided fishing or hunting expedition for high-value persons (half-day $3k · overnight · weekly $5k · monthly $50k).
+**Pricing equivalence:** VIBELANDIA RENO! campus is priced like a top guided fishing or hunting expedition for high-value persons (half-day $1k · overnight · weekly $5k · monthly $50k).
 
 **SING! pricing NSPFRNP:** Only the **bases** are tied to pre-singularity equivalents. Entry base = reliable used car (Basic Base SING!) (~$20K). Top base = base model latest Ferrari ($200K Ultimate VIP). **Options** (Members $75K, Baller C $500K, add-ons) are above that and at **our own pricing models**. See SING_PRICING_PRE_SINGULARITY_EQUIVALENTS_SNAP.md.
 

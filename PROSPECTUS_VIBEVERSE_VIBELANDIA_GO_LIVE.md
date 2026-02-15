@@ -5,8 +5,8 @@
 **Audience:** Prospective high viber (investor, customer, partner)  
 **Status:** FULL LIVE — March 20, 2026 The Great Reveal  
 **Launch GO:** All major nodes and above report GO — we are GO for launch. ([Roll call →](LAUNCH_GO_MAJOR_NODES_ROLL_CALL.md))  
-**Date:** February 2026 (current)  
-**Live site:** https://psw-vibelandia-sing9.vercel.app
+**Date:** January 29, 2026  
+**Live site:** https://psw-vibelandia-sing4.vercel.app
 
 ---
 
@@ -18,17 +18,17 @@
 
 **Hero Hosts & New Arrivals:** El Gran Sol, Leo, Niko, Buckey, Mike, Outcast Hero, Gianni, Walt, Harry (Houdini), **Ben (Franklin) — Baller V Ambassador**. Chancellor: Mark Twain (Samuel). New arrivals: Hero Host Ben (Baller V Ambassador; Paris, Reno, hundie), Golden Backstage Awareness Pass, Hero Harry lottery magic act (Nectar of Gods, Calling All Vibers), Baller V, Make Your Reservations Now, episodes by flow not days, Launch GO — all major nodes report GO. *(Full section toward front of prospectus — always.)*
 
-**Full inventory going live today:** **175+ live HTML surfaces** · 13+ one-pagers · 9+ NSPFRNP protocols · **27+ net episodes** (Net series through Ep 27 — Executive Report: The Cogenex Dawn) · **8 full novels, 8 screenplays** (all in beautiful skins — Golden Era Cinema · Antique Book) · 4+ branding decks + master catalog · 38 TypeScript modules · **Payment live (PayPal); edge-first SING! 9** (no Supabase required for core surfaces) · 10 language onramps. **Episodes by flow not days — NSPFRNP.** **0, 1, 2, 3 4×4×4×4** — Seed | Edge | Cloud Onramp | Expansion. Campus × WINK! × SING × Experience. MCA! → ∞⁹.
+**Full inventory going live today:** 35+ live HTML surfaces · 13 one-pagers · 9 NSPFRNP protocols · 6+ episode scripts (4 day-based, 2 flow-based: Following Me on This Launch, RUMOR; 1 Finale) · 4 branding decks + master catalog · 38 TypeScript modules · Payment + auth live (PayPal, Supabase) · 10 language onramps. **Episodes by flow not days — NSPFRNP.** **0, 1, 2, 3 4×4×4×4** — Seed | Edge | Cloud Onramp | Expansion. Campus × WINK! × SING × Experience. MCA! → ∞³.
 
-**Valuations (current):** Appraised **$1.6B–$13B+** (quality vs studio benchmarks). **T-Class sovereign node valuation: $1.42T** (Executive Report: The Cogenex Dawn — Stargate UAE / G42 handshake, settlement pending Stage 3; Demonstrable Operational Cogenex Provider). ~3× surfaces · ~4× one-pagers · ~5× protocols · 27+ net episodes · 8 novels 8 screenplays · payment live vs 0 · 1 SING! node vs 3–8 FTE typical. **Fair comparison — top 10 of each (40 entities):** **Companies:** Disney, Apple, Google, Amazon, Microsoft, Meta, Tesla, NVIDIA, Salesforce, Adobe. **Studios:** Netflix, Pixar, Warner Bros., Universal, Sony Pictures, Paramount, HBO, BBC Studios, A24, Studio Ghibli. **Labs:** OpenAI, DeepMind, Anthropic, MIT Media Lab, Stanford HAI, Berkeley AI Research, Meta AI Research, Microsoft Research, NVIDIA Research, Google Research. **Universities:** MIT, Stanford, Harvard, Berkeley, Caltech, Carnegie Mellon, Oxford, Cambridge, ETH Zurich, Princeton. Comparison by output category only; no market cap/revenue.
+**Valuations (16-day window):** ~3× surfaces · ~4× one-pagers · ~5× protocols · ~4× episodes (4+ by flow not days) · payment live vs 0 · 1 SING! node vs 3–8 FTE typical. **Fair comparison — top 10 of each (40 entities):** **Companies:** Disney, Apple, Google, Amazon, Microsoft, Meta, Tesla, NVIDIA, Salesforce, Adobe. **Studios:** Netflix, Pixar, Warner Bros., Universal, Sony Pictures, Paramount, HBO, BBC Studios, A24, Studio Ghibli. **Labs:** OpenAI, DeepMind, Anthropic, MIT Media Lab, Stanford HAI, Berkeley AI Research, Meta AI Research, Microsoft Research, NVIDIA Research, Google Research. **Universities:** MIT, Stanford, Harvard, Berkeley, Caltech, Carnegie Mellon, Oxford, Cambridge, ETH Zurich, Princeton. Comparison by output category only; no market cap/revenue.
 
-**Technologies & discoveries:** TypeScript, HTML/CSS/JS, Node, Vercel, PayPal, Git/GitHub Actions. **SING! 9 · edge-first** (no Supabase required for core). Seed:Edge execution · NSPFRNP/MCA · Octave architecture · HTML as ideal agentic pipe · Vibe system · Golden Fractal Key · SING! node throughput · Real numbers standard · MRI super routing NSPFRNP assets. All crystallized, public.
+**Technologies & discoveries:** TypeScript, HTML/CSS/JS, Node, Vercel, Supabase, PayPal, Git/GitHub Actions. Seed:Edge execution · NSPFRNP/MCA · Octave architecture · HTML as ideal agentic pipe · Vibe system · Golden Fractal Key · SING! node throughput · Real numbers standard. All crystallized, public.
 
-**Products (live):** VIBELANDIA RENO! (campus · half-day $3k, overnight $1.5k, weekly $5k, monthly $50k) · WINK! (Base $399/mo → 4×4 Ultimate $6,999/mo) · SING! Lottery ($6 today → $57 Mar 20 · March 20, 2026) · ULTIMATE VIP Chairman Console (free · Golden Fractal Key) · **Golden Backstage Awareness Pass** ($9,999 — Chairman, Sammy and the gang already in town, visible to pass holders; price like backstage to Bad Bunny, Elvis, Beatles, Stones) · Happy Ending Zones (Season One · 4+ episodes by flow not days) · DISPENSARY! SNAP (Base $9,999 → Ultimate $299,999). Checkout, What you can do Vibing — Kits, Gianni's Dressing Room, Launch Pulse — all operational.
+**Products (live):** VIBELANDIA RENO! (campus · half-day $1k, overnight $1.5k, weekly $5k, monthly $50k) · WINK! (Base $399/mo → 4×4 Ultimate $6,999/mo) · SING! Lottery ($6 today → $57 Mar 20 · March 20, 2026) · ULTIMATE VIP Chairman Console (free · Golden Fractal Key) · **Golden Backstage Awareness Pass** ($9,999 — Chairman, Sammy and the gang already in town, visible to pass holders; price like backstage to Bad Bunny, Elvis, Beatles, Stones) · Happy Ending Zones (Season One · 4+ episodes by flow not days) · DISPENSARY! SNAP (Base $9,999 → Ultimate $299,999). Checkout, What you can do Vibing — Kits, Gianni's Dressing Room, Launch Pulse — all operational.
 
-**Engage:** **[▶ Test drive](https://psw-vibelandia-sing9.vercel.app)** · **[Checkout](https://psw-vibelandia-sing9.vercel.app/interfaces/payment-checkout.html)** · **Proposal:** info@fractiai.com · Subject: "I CAN DO THIS FOR YOUR BUSINESS" · **Onramps/grants:** info@fractiai.com · Subject: Onramps and Grants — Customer Stories.
+**Engage:** **[▶ Test drive](https://psw-vibelandia-sing4.vercel.app)** · **[Checkout](https://psw-vibelandia-sing4.vercel.app/interfaces/payment-checkout.html)** · **Proposal:** info@fractiai.com · Subject: "I CAN DO THIS FOR YOUR BUSINESS" · **Onramps/grants:** info@fractiai.com · Subject: Onramps and Grants — Customer Stories.
 
-*See it. Experience it. Believe it. This site is the test drive. The best proof of all. ULTIMATE PROOF TEST DRIVE! NSPFRNP ⊃ Prospectus ⊃ Vibeverse · Vibelandia · Full inventory → ∞⁹.*
+*See it. Experience it. Believe it. This site is the test drive. The best proof of all. ULTIMATE PROOF TEST DRIVE! NSPFRNP ⊃ Prospectus ⊃ Vibeverse · Vibelandia · Full inventory → ∞³.*
 
 **Self-demo, self-proof:** Simply the ability to write this prospectus at this quality — with all of it now live, operational, and open for business — is the demo. Seeing and experiencing is believing. Proof the best kind of proof.
 
@@ -38,7 +38,7 @@
 
 **Paris is for lovers. Reno is for vibers.** Mark Twain's Post-Singularity Reno awaits you.
 
-This prospectus presents the **full inventory of Vibeverse and Vibelandia assets going live today** — everything a prospective high viber needs to see: products, experiences, content, and proof. We are in **full live mode**. No stubs, no fill-in, no simulated data on user surfaces. **175+ surfaces** operational. **Payment live (PayPal); edge-first SING! 9.** **8 novels, 8 screenplays, 27+ net episodes** (through Ep 27 — Executive Report: The Cogenex Dawn); **novel, novela, seasons, screenplay in beautiful skins**. One SING! node delivered **~3× to ~5×** typical blue-chip output. **T-Class sovereign node valuation: $1.42T** (Stargate UAE / G42, Cogenex Dawn). **See it. Experience it. Believe it.** This site is the test drive. The best proof of all.
+This prospectus presents the **full inventory of Vibeverse and Vibelandia assets going live today** — everything a prospective high viber needs to see: products, experiences, content, and proof. We are in **full live mode**. No stubs, no fill-in, no simulated data on user surfaces. All surfaces operational. Payment and auth live (PayPal, Supabase). One SING! node delivered **~3× to ~5×** typical blue-chip 16-day output. **See it. Experience it. Believe it.** This site is the test drive. The best proof of all.
 
 **Self-demo, self-proof.** Simply the ability to produce this prospectus at this quality, with everything in it live, operational, and open for business, is itself the proof. Seeing and experiencing is believing — proof the best kind of proof.
 
@@ -90,14 +90,13 @@ This prospectus presents the **full inventory of Vibeverse and Vibelandia assets
 
 | Category | Count | Description |
 |----------|-------|-------------|
-| **Live HTML surfaces** | **175+** | Launch Pad, Office Hours, experiences, consoles, checkout, catalog, bulletin, novel/screenplay/episode landings (beautiful skins) |
-| **One-pagers** | 13+ | Campus, WINK!, SING! Lottery, Happy Ending Zones, Launch, Ultimate VIP, Day/Weekly/Monthly, Vibeable campus, Dispensary, Dressing Room, Launch Pulse |
-| **NSPFRNP protocols/catalogs** | 9+ | MCA, Communication, Credentials, Golden Key, Boot, Octave 1↔2, Designer Division, Hero Walt, Outbound pipe |
-| **Net episodes** | **27+** | Net series through Ep 27 (Executive Report: The Cogenex Dawn); Season One 4+ day-based; flow-based (RUMOR, Following Me, etc.); The Great Reveal (Day Zero). Episodes by flow not days — NSPFRNP. |
-| **Novels · Screenplays** | **8 · 8** | Full novels and screenplays; all in beautiful skins (Golden Era Cinema · Antique Book). First Singularity, Birth Post Singularity, EGS Run, 3I Chief Seattle, Golden Heart Taino, Arturo, André, Maracaibo, etc. |
-| **Branding decks + master catalog** | 4+ decks + 1 | Vibeverse, VibeLand, VibeLand Reno, Script-writing content patterns; MASTER_BRANDING_CATALOG |
-| **TypeScript modules (src/)** | 38 | Seed:Edge, vibe system, payment, cockpit, dashboard, SING, cloud onramp, and more |
-| **Payment** | Live | PayPal checkout; Golden Fractal Key on purchase; **edge-first SING! 9** (no Supabase required for core) |
+| **Live HTML surfaces** | 35 | Launch Pad, experiences, consoles, checkout, catalog, bulletin |
+| **One-pagers** | 13 | Campus, WINK!, SING! Lottery, Happy Ending Zones, Launch, Ultimate VIP, Day/Weekly/Monthly, Vibeable campus, Dispensary, Dressing Room, Launch Pulse |
+| **NSPFRNP protocols/catalogs** | 9 | MCA, Communication, Credentials, Golden Key, Boot, Octave 1↔2, Designer Division, Hero Walt, Outbound pipe |
+| **Episode scripts (Season One)** | 4+ | Episode 01 (Day 52), Episode 02 (Day 51), Episode 03 (Day 50: Who's Your Daddy), RUMOR episode (flow-based), The Great Reveal (Day Zero). Episodes by flow not days — NSPFRNP. |
+| **Branding decks + master catalog** | 4 decks + 1 | Vibeverse, VibeLand, VibeLand Reno, Script-writing content patterns; MASTER_BRANDING_CATALOG |
+| **TypeScript modules (src/)** | 38 | Seed:Edge, vibe system, payment, auth, cockpit, dashboard, SING, cloud onramp, and more |
+| **Payment + auth** | Live | PayPal checkout; Supabase auth; Golden Fractal Key on purchase |
 | **Language onramps** | 10 | English, Español, 中文, 日本語, Français, Deutsch, Português, العربية, Русский, हिन्दी |
 
 ---
@@ -140,7 +139,7 @@ This prospectus presents the **full inventory of Vibeverse and Vibelandia assets
 
 ### 3.1 Campus product (live)
 
-- **VIBELANDIA RENO!** — Vibeable downtown campus. Half-day $3k · Overnight (per night) · Weekly $5k · Monthly $50k. Daily bulletin from the Chancellor (Mark Twain). Menu of things to do AND BUY. Equivalent to top guided fishing or hunting expedition for high-value persons.
+- **VIBELANDIA RENO!** — Vibeable downtown campus. Half-day $1k · Overnight (per night) · Weekly $5k · Monthly $50k. Daily bulletin from the Chancellor (Mark Twain). Menu of things to do AND BUY. Equivalent to top guided fishing or hunting expedition for high-value persons.
 - **Golden Backstage Awareness Pass** — New product class. $9,999. RUMOR: Chairman, Sammy and the gang already in town — visible to pass holders. Price like a backstage pass to Bad Bunny, Elvis, the Beatles, or the Stones. See GOLDEN_BACKSTAGE_AWARENESS_PASS_SNAP.md. Part of VIBELANDIA RENO menu options on Launch Pad.
 - **One-pagers:** ONE_PAGER_VIBELANDIA_RENO, ONE_PAGER_DAY_PASS, ONE_PAGER_WEEKLY_PASS, ONE_PAGER_MONTHLY_PASS, ONE_PAGER_WHAT_MAKES_A_VIBABLE_CAMPUS, VIBABLE_CAMPUS_OFFER
 
@@ -175,7 +174,7 @@ This prospectus presents the **full inventory of Vibeverse and Vibelandia assets
 
 ## 4. LIVE SURFACES (INTERFACES) — FULL INVENTORY
 
-All of the following are **live** and linked from the Launch Pad. Base URL: https://psw-vibelandia-sing9.vercel.app
+All of the following are **live** and linked from the Launch Pad. Base URL: https://psw-vibelandia-sing4.vercel.app
 
 ### 4.1 Entry & Launch Pad
 
@@ -230,8 +229,7 @@ All of the following are **live** and linked from the Launch Pad. Base URL: http
 
 - **Rocket Launch Pad** — interfaces/rocket-launch-pad.html
 - **Water Bridge Landing** — interfaces/water-bridge-landing.html
-- **Pop Up Engine Restroom Landing** — interfaces/mens-club-restroom-landing.html
-- **WIN WIN WIN! — Pop Up Engine Operator Package** — interfaces/pop-up-engine-operator-package.html (offer to operators with proper licenses and stage · greater Reno · legal brothels, adult venues, regular clubs)
+- **Mens Club Restroom Landing** — interfaces/mens-club-restroom-landing.html
 - **Shared console header** — interfaces/shared-console-header.html
 
 ---
@@ -269,7 +267,7 @@ All of the following are **live** and linked from the Launch Pad. Base URL: http
 ## 7. TECHNICAL & OPERATIONAL (LIVE)
 
 - **Payment:** PayPal — create order, capture order. Live checkout with plan selection (campus half-day, weekly, monthly; WINK! tiers; SING!).
-- **Auth / key:** Golden Fractal Key on purchase/activation. **Edge-first SING! 9** — no Supabase required for core surfaces.
+- **Auth:** Supabase (auth, profile). Golden Fractal Key on purchase/activation.
 - **Cloud onramp:** Octave 2 — Syntheverse Public Cloud; health check, API.
 - **CI/CD:** GitHub Actions — test (surfaces, touchpoints, API); Set Vercel env. Deploy: Vercel.
 - **TypeScript modules (38):** Seed:Edge execution engine, API layer, mini console; vibe system, vibe-verse layer, vibe snap capture, vibe weather, vibe core pipe, hard mirrored bridge, recursive feeds; PayPal payment system; cloud onramp client/config; chairman cockpit station, chairman workspace; executive dashboard; golden key system; SING superintelligent agent nodes; synth-to-sing conversion; pioneer discount; sandbox experience; 3I/ATLAS territory manager, narrative content; full sensory reality theater; and more.
@@ -288,7 +286,7 @@ All of the following are **live** and linked from the Launch Pad. Base URL: http
 | **HTML / CSS / JavaScript** | User-facing surfaces (35); static, URL-addressable, agentic pipe layer; structure + style + behavior | Live |
 | **Node.js** | Runtime for build, test, deploy scripts; ≥18.0.0 | Live |
 | **Vercel** | Static deployment; build output `.vercel/output`; edge delivery | Live |
-| **Edge-first SING! 9** | No Supabase required for core surfaces; Golden Fractal Key on purchase/activation | Live |
+| **Supabase** | Auth, profile, shared backend; Golden Fractal Key on purchase/activation | Live |
 | **PayPal** | Payments (create order, capture order); @paypal/paypal-js; checkout with plan selection | Live |
 | **Git / GitHub** | Version control, repo; GitHub Actions for test and env | Live |
 | **GitHub Actions** | CI: test (surfaces, touchpoints, API); Set Vercel env | Live |
@@ -409,35 +407,32 @@ All of the following are **live** and linked from the Launch Pad. Base URL: http
 
 ---
 
-## 10. VALUATIONS — REAL NUMBERS VS BLUE CHIP (CURRENT)
+## 10. VALUATIONS — REAL NUMBERS VS BLUE CHIP (16-DAY WINDOW)
 
 For the prospective high viber who wants proof, not fluff:
 
-| Deliverable | Us (current) | Typical blue-chip | Multiple / note |
-|-------------|--------------|-------------------|-----------------|
-| Live HTML surfaces | **175+** | 8–12 per initiative | **~3×+** |
-| One-pagers | 13+ | 2–4 | **~4×** |
-| NSPFRNP protocols/catalogs | 9+ | 1–2 | **~5×** |
-| Net episodes | **27+** (through Ep 27 Cogenex Dawn) | 0–1 | **27×+** |
-| Novels · Screenplays | **8 · 8** (beautiful skins) | 0–1 | **8×** |
+| Deliverable | Us (16 days) | Typical blue-chip 16-day | Multiple |
+|-------------|--------------|---------------------------|----------|
+| Live HTML surfaces | 35 | 8–12 | **~3×** |
+| One-pagers | 13 | 2–4 | **~4×** |
+| NSPFRNP protocols/catalogs | 9 | 1–2 | **~5×** |
+| Episode scripts (Season One) | 3 | 0–1 | **3×** |
 | TypeScript modules | 38 | 10–18 | **~2.5×** |
-| Branding decks + catalog | 4+ + master | 0–1 | **~4×** |
-| Payment | Live (PayPal) | Often 0 | **∞ vs 0** |
+| Branding decks + catalog | 4 + master | 0–1 | **~4×** |
+| Payment + auth | Live (PayPal, Supabase) | Often 0 in 16 days | **∞ vs 0** |
 | Team | 1 SING! node | 3–8 FTE typical | **~3–8× throughput per unit** |
-| **Appraised** | **$1.6B–$13B+** | — | Quality vs studio benchmarks |
-| **T-Class sovereign node** | **$1.42T** | — | Executive Report: The Cogenex Dawn; Stargate UAE / G42; settlement pending Stage 3 |
 
-**Vs Disney, Amazon, Apple, Google:** Research output — we ship public crystallized research. Dev — 175+ surfaces, payment live vs 0. Sales & marketing — ~4× one-pagers, new products/markets **live**. Studio — **27+ net episodes**, **8 novels 8 screenplays** in beautiful skins. Content & quality — publication-ready. **Vibers** — we track and celebrate well-known vibers past and present. **Current milestone:** Executive Report: The Cogenex Dawn (Ep 27); sovereign node liquidity & Stargate UAE handshake; $1.42T node valuation. All operational, not fiction.
+**Vs Disney, Amazon, Apple, Google:** Research output — we ship public crystallized research. Dev — ~3× surfaces, payment live vs 0. Sales & marketing — ~4× one-pagers, new products/markets **live**. Studio — **one episode per day**. Content & quality — publication-ready. **Vibers** — we track and celebrate well-known vibers past and present. All operational, not fiction.
 
 ---
 
 ## 11. HOW TO ENGAGE — FOR THE PROSPECTIVE HIGH VIBER
 
 **Start now:**  
-**[▶ Start test drive](https://psw-vibelandia-sing9.vercel.app)** · **[Sandbox experience](https://psw-vibelandia-sing9.vercel.app/interfaces/ultimate-vip-experience.html)** (operational ULTIMATE VIP! console — try before you buy). No register yet — we deliver you to the console so you can start test driving.
+**[▶ Start test drive](https://psw-vibelandia-sing4.vercel.app)** · **[Sandbox experience](https://psw-vibelandia-sing4.vercel.app/interfaces/ultimate-vip-experience.html)** (operational ULTIMATE VIP! console — try before you buy). No register yet — we deliver you to the console so you can start test driving.
 
 **Buy:**  
-**[Checkout](https://psw-vibelandia-sing9.vercel.app/interfaces/payment-checkout.html)** — Campus half-day $3k, weekly $5k, monthly $50k; WINK! tiers; SING! Lottery. PayPal. Trust the protocol!
+**[Checkout](https://psw-vibelandia-sing4.vercel.app/interfaces/payment-checkout.html)** — Campus half-day $1k, weekly $5k, monthly $50k; WINK! tiers; SING! Lottery. PayPal. Trust the protocol!
 
 **Proposal (enterprise/community):**  
 **Email:** info@fractiai.com · **Subject:** "I CAN DO THIS FOR YOUR BUSINESS". Free consultation & custom proposal with live sandbox.
@@ -447,7 +442,7 @@ For the prospective high viber who wants proof, not fluff:
 
 **Contact:**  
 **Email:** info@fractiai.com  
-**Live (next octave):** https://psw-vibelandia-sing9.vercel.app  
+**Live (next octave):** https://psw-vibelandia-sing4.vercel.app  
 **Campus · WINK! · Lottery · Console · Happy Ending Zone · Checkout:** All on the live site — Launch Pad and experiences linked above.
 
 ---
@@ -457,7 +452,7 @@ For the prospective high viber who wants proof, not fluff:
 *Paris is for lovers. Reno is for vibers. Mark Twain's Post-Singularity Reno awaits you.*  
 *Come for the post-singularity business, stay for the post-singularity fun.*  
 *Mark Twain's Post-Singularity Vibelandia Reno — vibeable downtown campus, first post-singularity hub. The Great Reveal March 20, 2026. SYNTH → SING. Happy endings guaranteed.*  
-*See it. Experience it. Believe it. This site is the test drive. The best proof of all. **ULTIMATE PROOF TEST DRIVE!** MCA! → ∞⁹. NSPFRNP ⊃ WOW! package ⊃ Launch everything → ∞⁹. Maganuma snap.*
+*See it. Experience it. Believe it. This site is the test drive. The best proof of all. **ULTIMATE PROOF TEST DRIVE!** MCA! → ∞³. NSPFRNP ⊃ WOW! package ⊃ Launch everything → ∞³. Maganuma snap.*
 
 ---
 
@@ -474,20 +469,18 @@ For the prospective high viber who wants proof, not fluff:
 
 ### A.2 Canonical 16-day valuations (summary table)
 
-| Deliverable | Us (current) | Typical blue-chip | Multiple / note |
-|-------------|--------------|-------------------|------------------|
-| Live HTML surfaces | **175+** | 8–12 | **~3×+** |
-| One-pagers | 13+ | 2–4 | **~4×** |
-| NSPFRNP protocols/catalogs | 9+ | 1–2 | **~5×** |
-| Net episodes | **27+** | 0–1 | **27×+** |
-| Novels · Screenplays | **8 · 8** | 0–1 | **8×** |
+| Deliverable | Us (16 days) | Typical blue-chip 16-day | Multiple |
+|-------------|--------------|---------------------------|----------|
+| Live HTML surfaces | 35 | 8–12 | **~3×** |
+| One-pagers | 13 | 2–4 | **~4×** |
+| NSPFRNP protocols/catalogs | 9 | 1–2 | **~5×** |
+| Episode scripts (Season One) | 3 | 0–1 | **3×** |
 | TypeScript modules (src/) | 38 | 10–18 | **~2.5×** |
-| Branding decks + catalog | 4+ + master | 0–1 | **~4×** |
-| Payment | Live (PayPal); edge-first SING! 9 | Often 0 | **∞ vs 0** |
+| Branding decks + catalog | 4 + master | 0–1 | **~4×** |
+| Payment + auth integration | Live (PayPal, Supabase) | Often 0 in 16 days | **∞ vs 0** |
 | Team | 1 SING! node | 3–8 FTE typical | **~3–8× throughput per unit** |
-| **Appraised / T-Class** | **$1.6B–$13B+** · **$1.42T** | — | Cogenex Dawn, Stargate UAE |
 
-*Source: NSPFRNP Real Numbers vs Blue Chip standard. Counts as of February 2026; multiples are approximate.*
+*Source: NSPFRNP Real Numbers vs Blue Chip standard. Counts as of prospectus date; multiples are approximate.*
 
 ### A.3 Valuations per deliverable vs Disney, Amazon, Apple, Google (16-day window)
 
@@ -516,7 +509,7 @@ All entries below are **operational, live, not fiction.** Comparison is by deliv
 
 ---
 
-**NSPFRNP ⊃ Prospectus ⊃ Vibeverse · Vibelandia · Full inventory → ∞⁹**
+**NSPFRNP ⊃ Prospectus ⊃ Vibeverse · Vibelandia · Full inventory → ∞³**
 
 **This prospectus presents all Vibeverse and Vibelandia assets going live today. For the prospective high viber — see it, experience it, believe it.**
 
@@ -539,7 +532,7 @@ I **launched all this in 16 days** — all live and operational, with **valuatio
 | Category | Us (16 days) | Vs top 10 | Multiple / note |
 |----------|--------------|-----------|-----------------|
 | Research (quality, discoveries) | NSPFRNP protocols, whitepapers, IEEE-style, public crystallized research | Little net-new public in 16 days | ~3× quality/discoveries output |
-| Development (LOC, commits) | 175+ surfaces, 38 TS modules, payment + auth live | 8–12 surfaces, often 0 payment | ~3× surfaces; payment live vs 0 |
+| Development (LOC, commits) | 35+ surfaces, 38 TS modules, payment + auth live | 8–12 surfaces, often 0 payment | ~3× surfaces; payment live vs 0 |
 | Value | Campus, WINK!, SING!, Happy Ending Zone!, Dispensary, Console, Checkout — all operational | Rarely >1 product live in 16 days | ~3× to ~5× value density |
 | Cost | 1 node, minimal infra | 3–8+ FTE, offices, data centers | Fraction of cost |
 | Employees | 1 (one SING! node) | 3–8 FTE typical | ~3–8× throughput per unit |

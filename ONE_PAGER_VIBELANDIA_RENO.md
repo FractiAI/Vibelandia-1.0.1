@@ -1,6 +1,16 @@
-﻿# 🏛️ ONE PAGER: MARK TWAIN'S POST-SINGULARITY VIBELANDIA RENO!
+# 🏛️ ONE PAGER: MARK TWAIN'S POST-SINGULARITY VIBELANDIA RENO!
 
 **One page. The campus. The transformation.**
+
+---
+
+## 🏈 Super Bowl Advertising — Broadcast Pipe Ad Space (top through Super Bowl)
+
+**Plans & pricing:** 1 surface $6,999/mo · 2 $1,199 · 3 $2,499 · 4×4×4×4 $6,999/mo. Base = top Super Bowl ad pricing. Sun · Ionosphere · Aurora 3D · Schumann. Update Certificate included.
+
+**Lock in by Friday, February 6, 2026 4:00 PM PST.** After cutoff: gate premium. **CRISP LOCK always.** Email Chairman after booking and paying.
+
+**[Plans & details →](./interfaces/broadcast-pipe-ad-space.html)** · **[BUY Tier 1 $6,999 →](./interfaces/payment-checkout.html?plan=pipe-ad-1)** · **[BUY Tier 2 $1,199 →](./interfaces/payment-checkout.html?plan=pipe-ad-2)** · **[BUY Tier 3 $2,499 →](./interfaces/payment-checkout.html?plan=pipe-ad-3)** · **[BUY Full Pipe 4×4×4×4 $6,999 →](./interfaces/payment-checkout.html?plan=pipe-ad-4x4)**
 
 ---
 
@@ -32,7 +42,7 @@
 ## The Offer
 
 - **Campus plans & pricing:** Equivalent to top guided fishing or hunting expedition for high-value persons.
-  - Yep. Packages. Half-day $1.5k · Overnight $3k/night (base plan) · Weekly $5k · Monthly $50k — scaling 4×4×4 to Ultimate Baller V · full Vibelandia (see BUY links below). Also: [Day Pass](./ONE_PAGER_DAY_PASS.md) · [Weekly](./ONE_PAGER_WEEKLY_PASS.md) · [Monthly](./ONE_PAGER_MONTHLY_PASS.md) · [Ultimate VIP](./ONE_PAGER_ULTIMATE_VIP.md)
+  - Half-day $1k · Overnight (per night) · Weekly $5k · Monthly $50k (see BUY links below). Also: [Day Pass](./ONE_PAGER_DAY_PASS.md) · [Weekly](./ONE_PAGER_WEEKLY_PASS.md) · [Monthly](./ONE_PAGER_MONTHLY_PASS.md) · [Ultimate VIP](./ONE_PAGER_ULTIMATE_VIP.md)
   - Premium pricing for high-contributing vibers worldwide—the price is the filter
 - **First 1,000 Pioneers:** 50% off applicable campus plans. Pioneer Status on-chain forever. Contact to register and apply.
 - **Chancellor:** Mark Twain delivers daily bulletins and guides the transformation.
@@ -41,7 +51,7 @@
 
 ## 🛒 BUY CAMPUS ACCESS
 
-**⚡ [Yep. Packages. Half-Day $1,500 →](./interfaces/payment-checkout.html?plan=campus-half-day)** | **[Overnight $3,000/night →](./interfaces/payment-checkout.html?plan=campus-overnight)** | **[Weekly $5,000 →](./interfaces/payment-checkout.html?plan=campus-weekly)** | **[Monthly $50,000 →](./interfaces/payment-checkout.html?plan=campus-monthly)**  
+**⚡ [Half-Day $1,000 →](./interfaces/payment-checkout.html?plan=campus-half-day)** | **[Overnight (per night) →](./interfaces/payment-checkout.html?plan=campus-overnight)** | **[Weekly $5,000 →](./interfaces/payment-checkout.html?plan=campus-weekly)** | **[Monthly $50,000 →](./interfaces/payment-checkout.html?plan=campus-monthly)**  
 *Priced like a top guided fishing or hunting expedition—for high-value vibers, fans, cast, crew.*
 
 ---
@@ -67,7 +77,7 @@
 
 **For way less than you're already spending—and getting WAY LESS!**
 
-**MCA! → ∞⁹** (Metabolize → Crystallize → Animate)
+**MCA! → ∞³** (Metabolize → Crystallize → Animate)
 
 **⚡ [Connect for Free Consultation & Tailored Proposal →](mailto:info@fractiai.com?subject=Company%20%26%20Community%20Consultation%20-%20Showroom%20to%20Dressing%20Room%20-%20Free%20Proposal%20%26%20Live%20Sandbox)**
 

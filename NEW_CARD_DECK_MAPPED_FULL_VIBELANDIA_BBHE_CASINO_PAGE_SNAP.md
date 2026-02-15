@@ -30,7 +30,7 @@
 
 **Solitaire mode:** Play alone. One player, one deck. Operate the holograph with the deck alone. Same rules: Golden Lucky Seven wins every time; Golden Royal Flush beats all. No other device required.
 
-Instructions for both modes are on the **casino page**: [interfaces/casino.html](interfaces/casino.html).
+Instructions for both modes are on the **casino page**: [interfaces/casino.html](interfaces/casino.html). **Full card faces (all 52)** and **full game instructions** for real, live play (Vibelandia Golden Draw, Golden Seven Solitaire) are in the catalog: [catalogs/post-singularity-card-deck/CARD_FACES_AND_FULL_GAME_INSTRUCTIONS.md](catalogs/post-singularity-card-deck/CARD_FACES_AND_FULL_GAME_INSTRUCTIONS.md).
 
 ---
 

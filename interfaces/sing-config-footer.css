@@ -1,120 +1,82 @@
-/* SING! config footer — My monthly bill. Full contrast, mobile-safe. NSPFRNP. */
+/* SING! config footer — full config at bottom of all user-facing surfaces. NSPFRNP. */
 .sing-config-footer {
-  box-sizing: border-box;
-  width: 100%;
-  max-width: 100%;
   margin-top: 2.5rem;
   padding: 1.25rem 1rem;
-  border-top: 2px solid rgba(212, 175, 55, 0.5);
-  background: #1a1a1a;
-  color: #e6e0d8;
+  border-top: 2px solid rgba(212, 175, 55, 0.4);
+  background: rgba(0, 0, 0, 0.25);
+  border-radius: 0 0 12px 12px;
   font-size: 0.85rem;
   line-height: 1.5;
-  border-radius: 0 0 12px 12px;
-  overflow-x: auto;
-}
-.sing-config-footer * {
-  box-sizing: border-box;
+  color: #c9b896;
 }
 .sing-config-footer-title {
-  font-size: 1rem;
-  font-weight: 700;
+  font-size: 1.1rem;
   color: #ffeaa7;
-  margin-bottom: 0.75rem;
+  margin-bottom: 1rem;
   text-transform: uppercase;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.08em;
 }
-.sing-config-bill-intro {
-  font-size: 0.8rem;
-  color: #b8b0a0;
-  margin-bottom: 1rem;
-  max-width: 100%;
+.sing-config-footer-block {
+  margin-bottom: 1.25rem;
 }
-.sing-config-bill-base {
-  margin-bottom: 1rem;
-  padding-bottom: 0.75rem;
-  border-bottom: 1px solid rgba(212, 175, 55, 0.25);
-}
-.sing-config-bill-base .base-name {
-  font-weight: 700;
+.sing-config-footer-block h3 {
+  font-size: 0.95rem;
   color: #d4af37;
+  margin-bottom: 0.5rem;
 }
-.sing-config-bill-base .base-one-time {
-  font-weight: 700;
-  color: #ffeaa7;
-}
-.sing-config-bill-table-wrap {
+.sing-config-table {
   width: 100%;
-  max-width: 100%;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-}
-.sing-config-bill-table {
-  width: 100%;
-  min-width: 280px;
   border-collapse: collapse;
   font-size: 0.8rem;
 }
-.sing-config-bill-table th,
-.sing-config-bill-table td {
-  padding: 0.4rem 0.5rem;
+.sing-config-table th,
+.sing-config-table td {
+  padding: 0.35rem 0.5rem;
   text-align: left;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  border-bottom: 1px solid rgba(212, 175, 55, 0.2);
 }
-.sing-config-bill-table th {
+.sing-config-table th {
   color: #b8860b;
   font-weight: 600;
-  font-size: 0.75rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
 }
-.sing-config-bill-table .amt {
-  text-align: right;
-  white-space: nowrap;
-  color: #e6e0d8;
+.sing-config-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
 }
-.sing-config-bill-table .line-item {
-  color: #e6e0d8;
-  word-break: break-word;
+.sing-config-list li {
+  padding: 0.35rem 0;
+  border-bottom: 1px solid rgba(212, 175, 55, 0.15);
 }
-.sing-config-bill-subhead {
-  font-size: 0.75rem;
-  font-weight: 700;
-  color: #b8860b;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  padding-top: 0.5rem;
-}
-.sing-config-bill-total {
-  margin-top: 0.75rem;
-  padding-top: 0.75rem;
-  border-top: 2px solid rgba(212, 175, 55, 0.4);
-  text-align: right;
-  font-weight: 700;
-  font-size: 1rem;
-  color: #ffeaa7;
-}
-.sing-config-bill-total .total-label {
-  margin-right: 0.5rem;
+.sing-config-pricing p {
+  margin-bottom: 0.5rem;
 }
 .sing-config-footer-tag {
   margin-top: 1rem;
-  font-size: 0.7rem;
+  font-size: 0.75rem;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: rgba(212, 175, 55, 0.8);
+  letter-spacing: 0.12em;
+  color: rgba(212, 175, 55, 0.7);
   font-weight: 600;
 }
-.sing-config-bill-link {
-  display: inline-block;
-  margin-top: 0.75rem;
-  font-size: 0.85rem;
+
+/* Cloud Service Bill format */
+.sing-config-bill .sing-config-bill-meta {
+  font-size: 0.8rem;
+  color: rgba(201, 184, 150, 0.9);
+  margin-bottom: 1rem;
 }
-.sing-config-bill-link a {
-  color: #0d9488;
-  font-weight: 600;
-  text-decoration: none;
+.sing-config-bill-table .sing-config-amt { text-align: right; white-space: nowrap; }
+.sing-config-bill-table .sing-config-subtotal {
+  font-weight: 700;
+  color: #ffeaa7;
+  border-top: 2px solid rgba(212, 175, 55, 0.35);
 }
-.sing-config-bill-link a:hover {
-  text-decoration: underline;
+.sing-config-bill-totals .sing-config-grand td {
+  font-weight: 800;
+  color: #d4af37;
+  border-top: 2px solid rgba(212, 175, 55, 0.4);
+  padding-top: 0.5rem;
 }
+.sing-config-bill-note { margin-top: 0.5rem; font-size: 0.8rem; }
+.sing-config-bill-note a { color: #00d4ff; }

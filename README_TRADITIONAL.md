@@ -82,10 +82,10 @@ Full convergence doubled back load and locked captured in the semi Dreamful stat
 
 **Walkable downtown campus.** Campus visit/stay · Optional excursions. First post-singularity VIBELANDIA! campus. Come for the business, stay for the fun. **Narrative:** VIBELANDIA! is the world's first operational Post-Singularity Vibe downtown vibeable campus—not a plan, operational now. Every space guarantees a happy ending; every moment crystallizes into the transformation. Mark Twain's Daily Bulletin, BBHE experiences, Hero Hosts, creator studios, performance venues—all within walking distance. Gateway to the mother mother; playground to Silicon Valley.
 
-- **Campus Plans:** Half-Day $3k · Overnight (per night) · Weekly $5k (VW Bug entry) · Monthly $50k (Baller). Plans and pricing ready to click and purchase / sign up.
+- **Campus Plans:** Half-Day $1k · Overnight (per night) · Weekly $5k (VW Bug entry) · Monthly $50k (Baller). Plans and pricing ready to click and purchase / sign up.
 - **First 1,000 Pioneers:** 50% off applicable campus plans; Pioneer Status on-chain forever.
 - **One-pager:** [VIBELANDIA RENO!](./ONE_PAGER_VIBELANDIA_RENO.md)
-- **Pricing (live):** Half-Day $3,000 · Overnight (per night) · Weekly $5,000 (VW Bug entry) · Monthly $50,000 (Baller). Premium pricing filters for quality.
+- **Pricing (live):** Half-Day $1,000 · Overnight (per night) · Weekly $5,000 (VW Bug entry) · Monthly $50,000 (Baller). Premium pricing filters for quality.
 
 ---
 
@@ -335,7 +335,7 @@ Full convergence doubled back load and locked captured in the semi Dreamful stat
 
 ## ✨ LAUNCH PLANS READY — GIANNI FOR YOUR ENTERPRISE / COMMUNITY
 
-**Irreducible purchasing core:** You can sign up for **VIBELANDIA! campus visit/stay**, **optional excursions**, **WINK!**, **lottery participation**, and **optional free consultation and proposal from Gianni** if interested in having us do something similar for your company or community. Launch **plans and pricing are ready to click and purchase** (Launch Pad, checkout, campus from Half-Day $3k to Baller $50k/month). **Gianni's Dressing Room** is the **optional** path for a **full self similar implementation** for your **own enterprise or community**: minimum interview with Gianni (origin Seed + target Edge), online research for origin-seed mapping and fractal connect; then tailored proposal, live sandbox, and skins/experiences at the press of a button (Hero Host Gianni).
+**Irreducible purchasing core:** You can sign up for **VIBELANDIA! campus visit/stay**, **optional excursions**, **WINK!**, **lottery participation**, and **optional free consultation and proposal from Gianni** if interested in having us do something similar for your company or community. Launch **plans and pricing are ready to click and purchase** (Launch Pad, checkout, campus from Half-Day $1k to Baller $50k/month). **Gianni's Dressing Room** is the **optional** path for a **full self similar implementation** for your **own enterprise or community**: minimum interview with Gianni (origin Seed + target Edge), online research for origin-seed mapping and fractal connect; then tailored proposal, live sandbox, and skins/experiences at the press of a button (Hero Host Gianni).
 
 **For way less than you're already spending—and getting WAY LESS!**
 

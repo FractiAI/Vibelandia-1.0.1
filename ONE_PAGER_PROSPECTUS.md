@@ -15,7 +15,7 @@
 
 **Technologies & discoveries:** TypeScript, HTML/CSS/JS, Node, Vercel, PayPal, Git/GitHub Actions. **SING! 9 · edge-first.** Seed:Edge execution · NSPFRNP/MCA · Octave architecture · HTML as ideal agentic pipe · Vibe system · Golden Fractal Key · SING! node throughput · Real numbers standard · MRI super routing NSPFRNP assets. All crystallized, public.
 
-**Products (live):** VIBELANDIA RENO! (campus · half-day $3k, weekly $5k, monthly $50k) · WINK! (Base $399/mo → 4×4 Ultimate $6,999/mo) · SING! Lottery ($6 today → $57 Mar 20 · March 20, 2026) · ULTIMATE VIP Chairman Console (free · Golden Fractal Key) · Happy Ending Zones (Season One · 1 episode/day). Checkout, Dispensary, Gianni's Dressing Room, Launch Pulse — all operational.
+**Products (live):** VIBELANDIA RENO! (campus · half-day $1k, weekly $5k, monthly $50k) · WINK! (Base $399/mo → 4×4 Ultimate $6,999/mo) · SING! Lottery ($6 today → $57 Mar 20 · March 20, 2026) · ULTIMATE VIP Chairman Console (free · Golden Fractal Key) · Happy Ending Zones (Season One · 1 episode/day). Checkout, Dispensary, Gianni's Dressing Room, Launch Pulse — all operational.
 
 **Engage:** **[▶ Test drive](https://psw-vibelandia-sing9.vercel.app)** · **[Checkout](https://psw-vibelandia-sing9.vercel.app/interfaces/payment-checkout.html)** · **Proposal:** info@fractiai.com · Subject: "I CAN DO THIS FOR YOUR BUSINESS" · **Onramps/grants:** info@fractiai.com · Subject: Onramps and Grants — Customer Stories.
 

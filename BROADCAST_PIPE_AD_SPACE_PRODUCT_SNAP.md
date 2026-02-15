@@ -31,7 +31,7 @@
 | **Surfaces** | 4 main POPs today (index, office-hours, launch-pad, README); expandable to Live Pulse, social, outbound. |
 | **Comparables** | Premium gateway ad placement; high-intent niche; post-singularity / hydrogen holograph / Vibelandia alignment. Order of magnitude: premium niche CPM or flat monthly sponsor tier. |
 
-**Valuation:** Ad space on a single-surface broadcast strip (one POP) appraised at **$499/mo** base. Full pipe (all surfaces) at **$6,999/mo** (4×4×4×4 tier). Tiers 2 and 3 scale accordingly.
+**Valuation:** Base pricing matches top Super Bowl ad pricing. Ad space on a single-surface broadcast strip (one POP) at **$6,999/mo** (base = top). Full pipe (all surfaces) at **$6,999/mo** (4×4×4×4 tier). Tiers 2 and 3 scale accordingly.
 
 ---
 
@@ -39,7 +39,7 @@
 
 | Tier | Name | Surfaces | What you get | Price (per month) |
 |------|------|----------|--------------|--------------------|
-| **1** | **One surface** | 1 POP | Your message/link on one surface (index **or** office-hours **or** launch-pad). 30 days. | **$499/mo** |
+| **1** | **One surface** | 1 POP | Your message/link on one surface (index **or** office-hours **or** launch-pad). 30 days. Base = top Super Bowl ad pricing. | **$6,999/mo** |
 | **2** | **Two surfaces** | 2 POPs | Your message/link on two surfaces (e.g. index + office-hours). 30 days. | **$1,199/mo** |
 | **3** | **Three surfaces** | 3 POPs | Your message/link on three surfaces (index + office-hours + launch-pad). 30 days. | **$2,499/mo** |
 | **4×4×4×4** | **Full pipe** | All surfaces | Your message/link on all broadcast pipe surfaces (index, office-hours, launch-pad, README; future POPs as added). Four dimensions × four onramps. 30 days. | **$6,999/mo** |

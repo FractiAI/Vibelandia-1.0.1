@@ -148,10 +148,10 @@
   "vibelandia_rj_campus": {
     "label": "Vibelandia-RJ Campus",
     "description": "Rio Iate Club = bridge. Vibelandia-RJ = HQ. Angra dos Reis = outpost. Vibelandia-RJ Campus is a fractal of Vibelandia Reno Campus — same vibeable model.",
-    "full_product_description_captain_level": "Vibelandia-RJ Campus is the Rio de Janeiro fractal of Vibelandia Reno. Rio Iate Club = bridge (entry and connection); Vibelandia-RJ = HQ; Angra dos Reis = outpost. Same vibeable model as Reno: campus access, experiences, and offerings scaled 1, 2, 3, 4×4×4×4. Yep. Packages. Tiers: Half-day $1,500; Overnight $3,000/night; Weekly $5,000; Monthly $50,000 (Ultimate Baller V · full Vibelandia). Use cases: crew shore leave, owner/guest experiences, partner and reseller events (e.g. André Ambassador). Not a substitute for vessel operations; additive to Marine Division product set for commanders and their networks.",
+    "full_product_description_captain_level": "Vibelandia-RJ Campus is the Rio de Janeiro fractal of Vibelandia Reno. Rio Iate Club = bridge (entry and connection); Vibelandia-RJ = HQ; Angra dos Reis = outpost. Same vibeable model as Reno: campus access, experiences, and offerings scaled 1, 2, 3, 4×4×4×4. Tiers: Half-day $1,000; Overnight $1,500/night; Weekly $5,000; Monthly $50,000. Use cases: crew shore leave, owner/guest experiences, partner and reseller events (e.g. André Ambassador). Not a substitute for vessel operations; additive to Marine Division product set for commanders and their networks.",
     "tiers": [
-      { "id": "campus-half-day", "name": "Half-day", "fee_usd": 1500 },
-      { "id": "campus-overnight", "name": "Overnight", "fee_usd": 3000, "per": "night" },
+      { "id": "campus-rj-half-day", "name": "Half-day", "fee_usd": 1000 },
+      { "id": "campus-overnight", "name": "Overnight", "fee_usd": 1500, "per": "night" },
       { "id": "campus-weekly", "name": "Weekly", "fee_usd": 5000 },
       { "id": "campus-monthly", "name": "Monthly", "fee_usd": 50000 }
     ]

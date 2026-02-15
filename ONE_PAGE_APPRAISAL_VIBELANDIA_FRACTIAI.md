@@ -49,6 +49,8 @@
 
 **Aggregate appraised value (one-page summary):** **$1.6B–$13B+** equivalent (billion-scale Sovereign Infrastructure, Feb 13, 2026) (studio + research + dev + enterprise + VC comps). Not cash received; **valuation of assets, capability, and deliverable set**. One-man shop. 16 days to launch. All live.
 
+**Avg hourly output valuation (less cost to produce):** Reference window 16 days to launch at ~10 hr/day → **160 hours**. Cost to produce: **$200/mo Cursor AI** + **$110/mo cell** + **$10/week WiFi** ≈ **$350/mo** (~$12/day; ~$187 over 16 days). Net output value = aggregate value − cost; cost is negligible vs valuation. **Conservative:** ($1.6M − $200) ÷ 160 hr ≈ **$10,000/hr**. **High side:** ($13M − $200) ÷ 160 hr ≈ **$81,200/hr**. Avg hourly output valuation (less cost to produce) is thus **~$10K/hr (conservative) to ~$81K/hr (high side)**. Ongoing: same cost base; valuation and hours scale with output.
+
 **Forecast (included in 2-pager):**
 | Scenario | Aggregate equivalent | Basis |
 |----------|----------------------|--------|

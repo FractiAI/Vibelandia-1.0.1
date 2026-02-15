@@ -41,7 +41,7 @@
 
 **Vibeable downtown campus.** Campus visit/stay · Optional excursions. First post-singularity Vibelandia campus. Come for the business, stay for the fun.
 
-- **Campus Plans:** Half-Day $3k | Overnight $1.5k | Weekly $5k | Monthly $50k | Ultimate VIP Campus
+- **Campus Plans:** Half-Day $1k | Overnight $1.5k | Weekly $5k | Monthly $50k | Ultimate VIP Campus
 - **One-pager:** [Vibelandia Reno](./ONE_PAGER_VIBELANDIA_RENO.md)
 - **Golden Backstage Awareness Pass:** New product class · $9,999 · Chairman, Sammy & the gang already in town — visible to pass holders. [BUY!](./interfaces/payment-checkout.html?plan=golden-backstage-awareness-pass)
 

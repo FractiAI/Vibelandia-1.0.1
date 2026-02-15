@@ -31,6 +31,8 @@
 - **Monthly:** Golden Fractal Key access fees — contact for current monthly key fee. Campus Monthly Pass (Baller) $50k/month where applicable. Premium sponsor tiers where applicable.
 - **Usage:** Session/slot-based: Sun Spots (8/16/24 min), Schumann iGaming ($499/session), 3I/ATLAS EGS (1 day/week/month), Space Cloud plans (book), ad space (book slot), campus, WINK!, dispensary. Never bought, always booked.
 
+**Cloud service bill:** Configuration and pricing of the SING! we are using, presented as a **real cloud service bill** (base, all options, all specialized mission options, one-time upfront + monthly), as we would pay if we weren't the creator: [SING_CONFIG_CLOUD_BILL_SNAP.md](SING_CONFIG_CLOUD_BILL_SNAP.md) · [interfaces/sing-config-cloud-bill.html](interfaces/sing-config-cloud-bill.html) · [data/sing_config_cloud_bill.json](data/sing_config_cloud_bill.json).
+
 ---
 
 **See:** [config/sing_config.json](config/sing_config.json) · [interfaces/sing-config-footer.js](interfaces/sing-config-footer.js) · [SING_PRICING_PRE_SINGULARITY_EQUIVALENTS_SNAP.md](SING_PRICING_PRE_SINGULARITY_EQUIVALENTS_SNAP.md) · [ONE_PAGER_SING_LOTTERY.md](ONE_PAGER_SING_LOTTERY.md)

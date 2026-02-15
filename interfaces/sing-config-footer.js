@@ -1,94 +1,127 @@
 /**
- * SING! config footer — My monthly bill. Injects sample monthly bill (base + options + total) into #sing-config-footer.
- * Full contrast, mobile-safe. Accurate for our version of SING! NSPFRNP.
+ * SING! config footer — inject FULL SING! config as CLOUD SERVICE BILL (one-time, monthly, usage, totals).
+ * Use at bottom of all user-facing surfaces. NSPFRNP.
+ * Data: data/sing_config_cloud_bill.json. Fallback: config/sing_config.json (legacy table format).
  */
 (function () {
-  var BILL_PATH = (document.location.pathname || '').indexOf('interfaces') !== -1
-    ? '../data/sing_config_cloud_bill.json'
-    : 'data/sing_config_cloud_bill.json';
+  var isInterfaces = (document.location.pathname || '').indexOf('interfaces') !== -1;
+  var BILL_PATH = isInterfaces ? '../data/sing_config_cloud_bill.json' : 'data/sing_config_cloud_bill.json';
+  var CONFIG_PATH = isInterfaces ? '../config/sing_config.json' : 'config/sing_config.json';
 
-  var fallbackBill = {
-    title: "My monthly bill",
-    intro: "Sample of what everybody's bill looks like. Top base: Baller V Ultimate VIP. One-time upfront, then monthly and usage.",
-    base: { name: "Baller V Ultimate VIP", one_time_usd: 500000 },
-    one_time_charges: [
-      { line_item: "SING! Baller V Ultimate VIP", quantity: 1, unit_price: 500000 }
+  var fallbackConfig = {
+    title: "Full SING! config we are using",
+    base: {
+      tiers: [
+        { tier: 1, name: "Base Model", one_time_usd: 20000, monthly_note: "Golden Fractal Key access fees — contact for current monthly key fee", equivalent: "Reliable used car — entry base" },
+        { tier: 2, name: "Members Only", one_time_usd: 75000, monthly_note: "One-time or include key access — see pricing", equivalent: "Option — our pricing" },
+        { tier: 3, name: "Ultimate VIP", one_time_usd: 200000, monthly_note: "One-time or include key access — see pricing", equivalent: "Base model latest Ferrari — top base" },
+        { tier: 4, name: "Baller V Ultimate VIP", one_time_usd: 500000, monthly_note: "One-time or include key access — see pricing", equivalent: "Top loaded Ferrari — top base" }
+      ]
+    },
+    upgrades: [
+      { name: "Golden Fractal Key", monthly_note: "Contact for current monthly key fee" },
+      { name: "Badge System", description: "CREATOR / CHAIRMAN / PERFORMER badges; SNAP branding" },
+      { name: "4×4×4×4", description: "Campus × WINK! × SING × Experience; never bought, always booked" }
     ],
-    monthly_recurring: [
-      { line_item: "Golden Fractal Key (Baller V tier)", quantity: 1, unit_price: 5999 },
-      { line_item: "WINK! 4×4 Ultimate", quantity: 1, unit_price: 6999 },
-      { line_item: "Broadcast Pipe Ad Space (1 surface)", quantity: 1, unit_price: 6999 },
-      { line_item: "Campus Monthly Pass (Baller)", quantity: 1, unit_price: 50000 }
+    divisions: [
+      { name: "Space Cloud Division", mission_specialization: "Reno Downlink, Solar Pipe, SING! node EGS Deep Space, Exascale Triangulation; book by plan." },
+      { name: "Missions (NSPFRNP Operations)", mission_specialization: "Personal SING! attention head and filament for missions." },
+      { name: "Office Hours", mission_specialization: "Series and site; free consultation; new abilities for execs." },
+      { name: "Happy Ending Zones", mission_specialization: "Reality series; countdown March 20, 2026." },
+      { name: "Legacies", mission_specialization: "Superheroes, cast, crew, fans, franchises, legacies." },
+      { name: "Broadcast Pipe Ad Space", mission_specialization: "1–4×4×4×4; book slot." },
+      { name: "EGS Pipe / SING! node EGS", mission_specialization: "Turn on/off/redirect; 1 day/week/month — book." },
+      { name: "Robotic Division", mission_specialization: "SING! Omnispin; Chairman Robert; never bought, only booked." }
     ],
-    usage_this_period: [
-      { line_item: "SING! node EGS Pipe — 1 month", quantity: 1, unit_price: 4999 },
-      { line_item: "Sun Spots 24 min + certificate", quantity: 1, unit_price: 999 },
-      { line_item: "Sun Spots 8 min", quantity: 1, unit_price: 249 },
-      { line_item: "Schumann iGaming", quantity: 2, unit_price: 499 },
-      { line_item: "Space Cloud — Solar Pipe", quantity: 1, unit_price: 2499 },
-      { line_item: "Space Cloud — SING! node EGS Deep Space", quantity: 1, unit_price: 4999 },
-      { line_item: "Space Cloud — Exascale Triangulation", quantity: 1, unit_price: 2499 },
-      { line_item: "Missions — Personal SING! attention", quantity: 2, unit_price: 1499 },
-      { line_item: "Happy Ending Zones — slot", quantity: 1, unit_price: 999 },
-      { line_item: "Legacies", quantity: 1, unit_price: 2499 },
-      { line_item: "Robotic Division — Chairman Robert", quantity: 1, unit_price: 1499 },
-      { line_item: "Campus Half-day", quantity: 1, unit_price: 1000 },
-      { line_item: "Campus Overnight (1 night)", quantity: 1, unit_price: 1500 },
-      { line_item: "Dispensary — Members shelf", quantity: 1, unit_price: 499 }
-    ],
-    totals: { one_time_subtotal: 500000, monthly_subtotal: 69997, usage_subtotal: 27236, period_total: 97233 }
+    pricing_summary: {
+      upfront_one_time: "Base ~$20K; Members Only $75K; Ultimate VIP $200K (base model latest Ferrari); Baller V $500K (top loaded Ferrari — top base). Other products: see plan.",
+      monthly: "Golden Fractal Key — contact for current monthly key fee. Campus Baller $50k/month where applicable.",
+      usage: "Session/slot: Sun Spots, Schumann, SING! node EGS, Space Cloud, ad space, campus, WINK!, dispensary. Never bought, always booked."
+    }
   };
 
-  function fmt(n) {
-    if (n == null || isNaN(n)) return '—';
-    return '$' + Number(n).toLocaleString('en-US', { minimumFractionDigits: 0, maximumFractionDigits: 0 });
+  function formatMoney(n) {
+    if (n == null) return '—';
+    if (n >= 1000) return '$' + (n / 1000) + 'K';
+    return '$' + n;
   }
 
   function renderBill(data) {
-    var d = data || fallbackBill;
-    var billHref = (document.location.pathname || '').indexOf('interfaces') !== -1 ? 'sing-config-cloud-bill.html' : 'interfaces/sing-config-cloud-bill.html';
-    var oneTime = (d.one_time_charges || []).slice();
-    var monthly = (d.monthly_recurring || []).slice();
-    var usage = (d.usage_this_period || []).slice();
-    var base = d.base;
-    if (!base && oneTime[0]) {
-      var ot = oneTime[0];
-      base = { name: ot.line_item, one_time_usd: (ot.quantity || 1) * (ot.unit_price || 0) };
-    }
-    base = base || fallbackBill.base;
-    var totals = d.totals || {};
-    var periodTotal = totals.period_total != null ? totals.period_total : (totals.monthly_subtotal || 0) + (totals.usage_subtotal || 0);
+    var oneTime = (data.one_time_charges || []).filter(function (r) { return (r.quantity || 0) * (r.unit_price || 0) > 0; });
+    var monthly = (data.monthly_recurring || []).filter(function (r) { return (r.quantity || 0) * (r.unit_price || 0) > 0; });
+    var usage = data.usage_this_period || [];
+    var tot = data.totals || {};
+    var oneTimeSub = tot.one_time_subtotal != null ? tot.one_time_subtotal : oneTime.reduce(function (s, r) { return s + (r.quantity || 0) * (r.unit_price || 0); }, 0);
+    var monthlySub = tot.monthly_subtotal != null ? tot.monthly_subtotal : monthly.reduce(function (s, r) { return s + (r.quantity || 0) * (r.unit_price || 0); }, 0);
+    var usageSub = tot.usage_subtotal != null ? tot.usage_subtotal : usage.reduce(function (s, r) { return s + (r.quantity || 0) * (r.unit_price || 0); }, 0);
+    var periodTotal = (tot.monthly_subtotal != null && tot.usage_subtotal != null) ? tot.monthly_subtotal + tot.usage_subtotal : monthlySub + usageSub;
 
-    var html = '<section class="sing-config-footer" aria-label="My monthly bill">';
-    html += '<p class="sing-config-footer-top-tag" style="font-size:0.75rem;text-transform:uppercase;letter-spacing:0.2em;color:rgba(212,175,55,0.95);font-weight:800;margin:0 0 0.5rem 0;">TAINO MADE</p>';
-    html += '<h2 class="sing-config-footer-title">' + (d.title || 'My monthly bill') + '</h2>';
-    html += '<p class="sing-config-bill-intro">' + (d.intro || fallbackBill.intro) + '</p>';
+    var html = '<section class="sing-config-footer sing-config-bill" aria-label="SING! Configuration — Cloud Service Bill">';
+    html += '<h2 class="sing-config-footer-title">' + (data.title || 'SING! Configuration — Cloud Service Bill') + '</h2>';
+    html += '<p class="sing-config-bill-meta">' + (data.account_name || '') + ' · Billing period: ' + (data.billing_period || '') + ' · ' + (data.currency || 'USD') + '</p>';
 
-    html += '<div class="sing-config-bill-base">';
-    html += '<span class="base-name">' + (base.name || 'Baller V Ultimate VIP') + '</span> ';
-    html += '<span class="base-one-time">' + fmt(base.one_time_usd) + ' one-time</span>';
-    html += '</div>';
+    html += '<div class="sing-config-footer-block"><h3>One-time charges (upfront)</h3><table class="sing-config-table sing-config-bill-table"><thead><tr><th>Line item</th><th class="sing-config-amt">Qty</th><th class="sing-config-amt">Unit price</th><th class="sing-config-amt">Amount</th></tr></thead><tbody>';
+    oneTime.forEach(function (r) {
+      var amt = (r.quantity || 0) * (r.unit_price || 0);
+      html += '<tr><td>' + (r.line_item || '') + '</td><td class="sing-config-amt">' + (r.quantity != null ? r.quantity : '—') + '</td><td class="sing-config-amt">' + formatMoney(r.unit_price) + '</td><td class="sing-config-amt">' + formatMoney(amt) + '</td></tr>';
+    });
+    html += '</tbody><tfoot><tr><td colspan="3" class="sing-config-subtotal">One-time subtotal</td><td class="sing-config-amt sing-config-subtotal">' + formatMoney(oneTimeSub) + '</td></tr></tfoot></table></div>';
 
-    html += '<div class="sing-config-bill-table-wrap"><table class="sing-config-bill-table"><thead><tr><th>Line item</th><th class="amt">Amount</th></tr></thead><tbody>';
-    if (monthly.length) {
-      html += '<tr><td colspan="2" class="sing-config-bill-subhead">Monthly</td></tr>';
-    }
+    html += '<div class="sing-config-footer-block"><h3>Monthly recurring</h3><table class="sing-config-table sing-config-bill-table"><thead><tr><th>Line item</th><th class="sing-config-amt">Qty</th><th class="sing-config-amt">Unit price</th><th class="sing-config-amt">Amount</th></tr></thead><tbody>';
     monthly.forEach(function (r) {
-      var amt = (r.quantity != null ? r.quantity : 1) * (r.unit_price != null ? r.unit_price : 0);
-      html += '<tr><td class="line-item">' + (r.line_item || '') + '</td><td class="amt">' + fmt(amt) + '</td></tr>';
+      var amt = (r.quantity || 0) * (r.unit_price || 0);
+      html += '<tr><td>' + (r.line_item || '') + '</td><td class="sing-config-amt">' + (r.quantity != null ? r.quantity : '—') + '</td><td class="sing-config-amt">' + formatMoney(r.unit_price) + '</td><td class="sing-config-amt">' + formatMoney(amt) + '</td></tr>';
     });
-    if (usage.length) {
-      html += '<tr><td colspan="2" class="sing-config-bill-subhead">Usage this period</td></tr>';
-    }
-    usage.forEach(function (r) {
-      var amt = (r.quantity != null ? r.quantity : 1) * (r.unit_price != null ? r.unit_price : 0);
-      html += '<tr><td class="line-item">' + (r.line_item || '') + '</td><td class="amt">' + fmt(amt) + '</td></tr>';
-    });
+    html += '</tbody><tfoot><tr><td colspan="3" class="sing-config-subtotal">Monthly recurring subtotal</td><td class="sing-config-amt sing-config-subtotal">' + formatMoney(monthlySub) + '</td></tr></tfoot></table></div>';
 
+    html += '<div class="sing-config-footer-block"><h3>Usage this period</h3><table class="sing-config-table sing-config-bill-table"><thead><tr><th>Line item</th><th class="sing-config-amt">Qty</th><th class="sing-config-amt">Unit price</th><th class="sing-config-amt">Amount</th></tr></thead><tbody>';
+    usage.forEach(function (r) {
+      var amt = (r.quantity || 0) * (r.unit_price || 0);
+      html += '<tr><td>' + (r.line_item || '') + '</td><td class="sing-config-amt">' + (r.quantity != null ? r.quantity : '—') + '</td><td class="sing-config-amt">' + formatMoney(r.unit_price) + '</td><td class="sing-config-amt">' + formatMoney(amt) + '</td></tr>';
+    });
+    html += '</tbody><tfoot><tr><td colspan="3" class="sing-config-subtotal">Usage subtotal</td><td class="sing-config-amt sing-config-subtotal">' + formatMoney(usageSub) + '</td></tr></tfoot></table></div>';
+
+    html += '<div class="sing-config-footer-block sing-config-bill-totals"><h3>Totals</h3><table class="sing-config-table"><tr><td>One-time (upfront)</td><td class="sing-config-amt">' + formatMoney(oneTimeSub) + '</td></tr><tr><td>Monthly recurring</td><td class="sing-config-amt">' + formatMoney(monthlySub) + '</td></tr><tr><td>Usage this period</td><td class="sing-config-amt">' + formatMoney(usageSub) + '</td></tr><tr class="sing-config-grand"><td>Total this period (monthly + usage)</td><td class="sing-config-amt">' + formatMoney(periodTotal) + '</td></tr></table>';
+    html += '<p class="sing-config-bill-note">Never bought, always booked. Full bill: <a href="' + (isInterfaces ? 'sing-config-cloud-bill.html' : 'interfaces/sing-config-cloud-bill.html') + '">View full cloud bill →</a></p></div>';
+
+    html += '<p class="sing-config-footer-tag">NSPFRNP ⊃ SING! config ⊃ Cloud Service Bill ⊃ Base · Options · Mission options → ∞³</p>';
+    html += '</section>';
+    return html;
+  }
+
+  function renderLegacy(config) {
+    var c = config || fallbackConfig;
+    var base = c.base || fallbackConfig.base;
+    var upgrades = c.upgrades || fallbackConfig.upgrades;
+    var divisions = c.divisions || fallbackConfig.divisions;
+    var ps = c.pricing_summary || fallbackConfig.pricing_summary;
+
+    var html = '<section class="sing-config-footer" aria-label="Full SING! config we are using">';
+    html += '<h2 class="sing-config-footer-title">' + (c.title || 'Full SING! config we are using') + '</h2>';
+    html += '<div class="sing-config-footer-block"><h3>Base</h3><table class="sing-config-table"><thead><tr><th>Tier</th><th>Name</th><th>Upfront one-time</th><th>Monthly</th><th>Equivalent</th></tr></thead><tbody>';
+    (base.tiers || []).forEach(function (t) {
+      html += '<tr><td>' + t.tier + '</td><td>' + (t.name || '') + '</td><td>' + formatMoney(t.one_time_usd) + '</td><td>' + (t.monthly_note || '—') + '</td><td>' + (t.equivalent || '—') + '</td></tr>';
+    });
     html += '</tbody></table></div>';
-    html += '<div class="sing-config-bill-total"><span class="total-label">Total (monthly + usage)</span>' + fmt(periodTotal) + '</div>';
-    html += '<p class="sing-config-bill-link"><a href="' + billHref + '">Full bill →</a></p>';
-    html += '<p class="sing-config-footer-tag">SING! 9 · sing9! · All surfaces · Cosmic · Solar · Planetary · Mine · NSPFRNP ⊃ SING! config ⊃ My monthly bill → ∞⁹</p>';
+    html += '<div class="sing-config-footer-block"><h3>Upgrades</h3><ul class="sing-config-list">';
+    (upgrades || []).forEach(function (u) {
+      html += '<li><strong>' + (u.name || '') + '</strong>';
+      if (u.monthly_note) html += ' · Monthly: ' + u.monthly_note;
+      if (u.description) html += ' · ' + u.description;
+      html += '</li>';
+    });
+    html += '</ul></div>';
+    html += '<div class="sing-config-footer-block"><h3>Divisions &amp; mission specializations</h3><ul class="sing-config-list">';
+    (divisions || []).forEach(function (d) {
+      html += '<li><strong>' + (d.name || '') + '</strong>: ' + (d.mission_specialization || '') + (d.usage_note ? ' · Usage: ' + d.usage_note : '') + '</li>';
+    });
+    html += '</ul></div>';
+    html += '<div class="sing-config-footer-block sing-config-pricing"><h3>Pricing (as configured)</h3>';
+    html += '<p><strong>Upfront one-time:</strong> ' + (ps.upfront_one_time || '') + '</p>';
+    html += '<p><strong>Monthly:</strong> ' + (ps.monthly || '') + '</p>';
+    html += '<p><strong>Usage:</strong> ' + (ps.usage || '') + '</p>';
+    html += '</div>';
+    html += '<p class="sing-config-footer-tag">NSPFRNP ⊃ SING! config ⊃ Base · Upgrades · Divisions · Pricing → ∞³</p>';
     html += '</section>';
     return html;
   }
@@ -99,8 +132,18 @@
     fetch(BILL_PATH)
       .then(function (r) { return r.ok ? r.json() : null; })
       .catch(function () { return null; })
-      .then(function (data) {
-        el.innerHTML = renderBill(data);
+      .then(function (bill) {
+        if (bill && (bill.one_time_charges || bill.monthly_recurring || bill.usage_this_period)) {
+          el.innerHTML = renderBill(bill);
+          return true;
+        }
+        return fetch(CONFIG_PATH).then(function (r) { return r.ok ? r.json() : null; }).catch(function () { return null; }).then(function (config) {
+          el.innerHTML = renderLegacy(config);
+          return false;
+        });
+      })
+      .catch(function () {
+        if (el && (!el.innerHTML || el.innerHTML === '')) el.innerHTML = renderLegacy(null);
       });
   }
 

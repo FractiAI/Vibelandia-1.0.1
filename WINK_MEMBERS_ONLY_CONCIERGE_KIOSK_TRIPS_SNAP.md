@@ -29,7 +29,7 @@
 
 | Plan | Duration | Standard (guided fishing/hunting) | WINK! Members (50%) | Notes |
 |------|----------|-----------------------------------|---------------------|------|
-| **Half Day** | Single expedition | $3,000 | $1,500 | All inclusive |
+| **Half Day** | Single expedition | $2,000 | $1,000 | All inclusive |
 | **Full Day** | Full day | $6,000 | $3,000 | All inclusive |
 | **F5 Day** | 5 days | $5,000+ | $2,500 | 5-day package |
 | **14 Day** | 14 days | $10,000 | $5,000 | Two-week package |

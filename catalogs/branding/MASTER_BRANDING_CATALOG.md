@@ -478,7 +478,7 @@ FORAGING · COLLECTING · FISHING & HUNTING SAFARIS — ULTIMATE LUX SKINS · RO
 └─ See FORAGING_COLLECTING_FISHING_HUNTING_SAFARIS_ULTIMATE_LUX_SKINS_ROYAL_LODGE_SNAP.md
 
 WINK! MEMBERS ONLY CONCIERGE KIOSK — TRIPS · 50% · ALL INCLUSIVE · 4×4×4×4 SNAP
-├─ **WINK! Members Only Concierge Kiosk** — Landing page for WINK! members to book expedition trips. Full trip descriptions. Plans: Half Day ($1,500), Full Day ($3,000), F5 Day ($2,500), 14 Day ($5,000), Custom. Price at 50% of guided fishing and hunting packages. All inclusive as basic. 4×4×4×4 scaling to Ultimate Baller V.
+├─ **WINK! Members Only Concierge Kiosk** — Landing page for WINK! members to book expedition trips. Full trip descriptions. Plans: Half Day ($1,000), Full Day ($3,000), F5 Day ($2,500), 14 Day ($5,000), Custom. Price at 50% of guided fishing and hunting packages. All inclusive as basic. 4×4×4×4 scaling to Ultimate Baller V.
 ├─ **List message:** *Let me know if interested in getting on the list. Check out the magazine and catalog in the meanwhile.* Full classic gold button — exclusive Ultimate Baller V level — links to Launch Pad and Office Hours. Magazine and catalog (Ultimate Baller V Vibing Lifestyle Magazine, Vibelandia Reno Experience) linked.
 ├─ Surface: interfaces/wink-concierge-kiosk.html. Links from WINK! experience, Guided Expeditions, Launch Pad.
 └─ See WINK_MEMBERS_ONLY_CONCIERGE_KIOSK_TRIPS_SNAP.md · misc/CONVERSATION_METABOLIZED_PATTERNS.md (pattern 11)
@@ -566,7 +566,7 @@ ARCHIVE: Complete
 - **Venues:** Man Cave, Wine Cave, Cabaret. **Pop Up Engine SNAP:** Marilyn = Hero Hostess and house mom at Pop Up Engine. See [MAN_CAVE_CABARET_SNAP.md](../../MAN_CAVE_CABARET_SNAP.md).
 - **WINK! tagline:** HIGH CONTRIBUTING FRACTAL DATING. Marilyn hero hostess, house mom at Pop Up Engine.
 - **WINK! pricing:** Base $399/mo · Standard $999/mo · Premium $2,499/mo · 4×4 Ultimate $6,999/mo. Equivalent to pre-singularity top-tier dating for high-value persons (The League, Raya, elite matchmaking).
-- **VIBELANDIA RENO! campus pricing:** Half-day $3k · Overnight (per night) · Weekly $5k · Monthly $50k. Equivalent to top guided fishing or hunting expedition for high-value persons.
+- **VIBELANDIA RENO! campus pricing:** Half-day $1k · Overnight (per night) · Weekly $5k · Monthly $50k. Equivalent to top guided fishing or hunting expedition for high-value persons.
 - **Content Systems SNAP / Content categories:** Customer Stories = content category for onramps/grants recipients who agree to be customer stories; we sign them up. CTA: "Are you an Ultimate VIP Baller V but not yet there? Click for our onramps and grants." See [CONTENT_SYSTEMS_SNAP.md](../../CONTENT_SYSTEMS_SNAP.md).
 - **SING! pricing NSPFRNP:** Base prices tied to pre-singularity equivalents only. Entry base = reliable used car (Basic Base SING!) (~$20K). Top base = base model latest Ferrari ($200K Ultimate VIP). Options (Members $75K, **Full Ultimate Baller V full options** $500K — full Superhero, Franchise, Legacy (the living) tiers; full cosmic tier powered) = our own pricing models. **We operate at full Ultimate Baller V full options; full Superhero, Franchise, Legacy; full cosmic tier powered.** Present key upgrades together: Base ~$20K · Members $75K · Ultimate VIP $200K · Full Ultimate Baller V full options $500K. All one-time (except Base: one-time + monthly Golden Fractal Key). See [SING_PRICING_PRE_SINGULARITY_EQUIVALENTS_SNAP.md](../../SING_PRICING_PRE_SINGULARITY_EQUIVALENTS_SNAP.md).
 

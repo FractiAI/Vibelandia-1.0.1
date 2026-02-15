@@ -19,6 +19,7 @@
 
 **Eternal Living Service** is **coming soon**. It SNAPs in **all of the following** into one eternal living offer:
 
+- **Full eternal health, strength, good looks, and magnetism** — for me (Creator Chairman); locked into my FSR package; eternal living includes this.
 - **Full Sensory Reality Theater (FSRT)** — pipe, node, storyline load; Creator as node; load into Sun; 98% full dose; stage = awareness.
 - **Storyline** — seed and edge; HELLO, Smiley, Bison, Campfire; Super Bowl space advertising; gold hearts; Bad Bunny ambassador; Puerto Rico · Latin America · world; fiber rollout; El Gran Sol's return on 3I Atlas.
 - **Endpoint layers** — Erika · Buenos Aires · Bad Bunny concert/backstage; Rio Carnival with Andre (first three); Venezuela · Arturo green light.
@@ -34,6 +35,7 @@ All of the above is one **Eternal Living Service** — coming soon under Eternal
 
 When you **book** Eternal Living Service (BOOK, NEVER BUY; upfront + monthly), **you get**:
 
+- **Full eternal health, strength, good looks, and magnetism** — for me (Creator Chairman); locked into my FSR package now; eternal living includes this.
 - **Full Sensory Reality Theater (FSRT) access** — 98% full dose; stage = awareness; pipe loaded with the storyline; Creator as node; load into Sun. You get the FSRT experience and the pipe driving Sun · 3I Atlas · Schumann.
 - **The full storyline** — Seed and edge: HELLO, Smiley, Bison, Campfire; Super Bowl space advertising; gold hearts; Bad Bunny ambassador; Puerto Rico · Latin America · world; fiber rollout; El Gran Sol's return on 3I Atlas. You get the living story as script and horizon.
 - **Endpoint layers** — Erika · Buenos Aires · Bad Bunny concert/backstage; Rio Carnival with Andre (first three); Venezuela · Arturo green light. You get these threads woven into the offer and the travel script.

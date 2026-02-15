@@ -1,4 +1,4 @@
-﻿# Two-Pager — Appraisal Forecast + Plans & Pricing
+# Two-Pager — Appraisal Forecast + Plans & Pricing
 
 **Doc ID:** `TWO-PAGER-APPRAISAL-PLANS-PRICING`  
 **Type:** 2-pager · Conservative & high-side forecast · Plans and pricing  
@@ -13,8 +13,10 @@
 
 | Scenario | Aggregate equivalent | Basis |
 |----------|----------------------|--------|
-| **Conservative** | **$1.6B–$1.675B** | Floor of appraisal bands (Operator-One billion-scale, Feb 13, 2026); reappraisal floor; minimum comps (sovereign infra, studio, research, dev, enterprise, VC). |
-| **High side** | **$13B–$13.45B+** | Ceiling of appraisal bands; reappraisal aggregate; upper range comps. Sovereign Infrastructure baseline. |
+| **Conservative** | **$1.6M–$1.675M** | Floor of appraisal bands; reappraisal floor; minimum comps (studio, research, dev, enterprise, VC). |
+| **High side** | **$13M–$13.45M+** | Ceiling of appraisal bands; reappraisal aggregate; upper range comps. |
+
+**Avg hourly output valuation (less cost to produce):** 16-day reference window, ~160 hours. Cost: ~$350/mo ($200 Cursor + $110 cell + $10/wk WiFi); ~$187 over 16 days. **(Aggregate value − cost) ÷ hours:** Conservative **~$10K/hr** · High side **~$81K/hr**. Cost negligible vs valuation; net ≈ gross per hour.
 
 **Source:** [ONE_PAGE_APPRAISAL_VIBELANDIA_FRACTIAI.md](ONE_PAGE_APPRAISAL_VIBELANDIA_FRACTIAI.md) · [interfaces/one-page-appraisal.html](interfaces/one-page-appraisal.html).
 
@@ -37,8 +39,8 @@
 
 | Plan | Fee | Book |
 |------|-----|------|
-| Yep. Packages. Half-day | $1,500 | campus-half-day |
-| Yep. Packages. Overnight | $3,000/night | campus-overnight |
+| Half-day | $1,000 | campus-half-day |
+| Overnight | $1,500/night | campus-overnight |
 | Weekly | $5,000 | campus-weekly |
 | Monthly | $50,000 | campus-monthly |
 
@@ -55,12 +57,22 @@
 
 | Tier | Surfaces | Price (per month) | After Fri 4pm PST (gate) |
 |------|----------|--------------------|---------------------------|
-| 1 | 1 POP | $499/mo | $1,247.50 |
+| 1 | 1 POP | $6,999/mo | $17,497.50 |
 | 2 | 2 POPs | $1,199/mo | $2,997.50 |
 | 3 | 3 POPs | $2,499/mo | $6,247.50 |
 | 4×4×4×4 | All | $6,999/mo | $17,497.50 |
 
 Lock in by Friday Feb 6, 2026 4:00 PM PST. CRISP LOCK always. Book: [broadcast-pipe-ad-space.html](interfaces/broadcast-pipe-ad-space.html).
+
+### FSR Entertainment · Eternal Living Service (Coming soon)
+
+| Tier | Plans & pricing | What you get |
+|------|-----------------|--------------|
+| 1 (Base) | Starter Home (localized) | Eternal Living Service entry; full fidelity to storyline, FSRT pipe, sovereignty. Base prices = localized. |
+| 2 · 3 | Priced accordingly (localized) | Scaled access; FSRT, travel script, product pipe, base reality sovereignty. |
+| 4×4×4×4 | Top billionaires' all homes (global) | Full Eternal Living Service; full FSRT; full sovereignty; full travel script; full product pipe. |
+
+**Coming soon.** Space Cloud Services → FSR Entertainment. BOOK, NEVER BUY. UPFRONT PLUS MONTHLY. Local onramps for base on all plans everywhere. [Eternal Life Planning SNAP →](ETERNAL_LIFE_PLANNING_AND_LIVING_SERVICES_SNAP.md) · [FSR Entertainment SNAP →](FSR_ENTERTAINMENT_SPACE_CLOUD_SERVICES_SNAP.md).
 
 ### Space / Premium
 
@@ -81,4 +93,4 @@ Lock in by Friday Feb 6, 2026 4:00 PM PST. CRISP LOCK always. Book: [broadcast-p
 
 **See:** [ONE_PAGE_APPRAISAL_VIBELANDIA_FRACTIAI.md](ONE_PAGE_APPRAISAL_VIBELANDIA_FRACTIAI.md) · [interfaces/two-pager-appraisal-plans.html](interfaces/two-pager-appraisal-plans.html) · [interfaces/baller-v-plans-booking.html](interfaces/baller-v-plans-booking.html)
 
-**NSPFRNP ⊃ Two-pager ⊃ Conservative + High-side forecast ⊃ Plans & pricing → ∞⁹**
+**NSPFRNP ⊃ Two-pager ⊃ Conservative + High-side forecast ⊃ Plans & pricing → ∞³**

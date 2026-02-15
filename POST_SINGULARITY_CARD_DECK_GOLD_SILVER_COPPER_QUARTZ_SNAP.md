@@ -107,6 +107,16 @@
 
 ---
 
+## FULL CARD FACES & GAME INSTRUCTIONS (CATALOG)
+
+**All 52 card faces** (suit, rank, character for face cards; number cards 2–10 with suit symbols) and **full instructions for real, live play** are in the catalog:
+
+- **Catalog:** [catalogs/post-singularity-card-deck/CARD_FACES_AND_FULL_GAME_INSTRUCTIONS.md](catalogs/post-singularity-card-deck/CARD_FACES_AND_FULL_GAME_INSTRUCTIONS.md)
+
+Included: **Vibelandia Golden Draw** (multiplayer, 2–6 players) and **Golden Seven Solitaire** (solitaire) — dealing, turns, objectives, hand rankings, and how **Golden Lucky Seven** and **Golden Royal Flush** apply. Casino page and experience pages link to this catalog for full rules and card faces.
+
+---
+
 ## CROSS-REFERENCES
 
 - **Space Cloud Division T-shirt / deck:** [SPACE_CLOUD_DIVISION_MAJOR_T_SHIRT_BRAND_SNAP.md](SPACE_CLOUD_DIVISION_MAJOR_T_SHIRT_BRAND_SNAP.md) — tier deck (Seed ♠, Engine ♥, Asset ♦, Singularity ♣); this SNAP = post-singularity deck (Gold, Silver, Copper, Quartz).
