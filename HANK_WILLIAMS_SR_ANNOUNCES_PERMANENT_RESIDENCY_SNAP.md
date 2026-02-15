@@ -1,4 +1,4 @@
-# Hank Williams Sr. Announces Permanent Residency — Honoring His Legacy SNAP
+﻿# Hank Williams Sr. Announces Permanent Residency — Honoring His Legacy SNAP
 
 **Snap ID:** `HANK-WILLIAMS-SR-ANNOUNCES-PERMANENT-RESIDENCY-SNAP`  
 **Type:** Permanent residency announcement · Hero Host · Legacies · Golden Age  
@@ -46,4 +46,4 @@
 
 **See:** [LEGACIES_NEW_DEPARTMENT_LAYER_SNAP.md](LEGACIES_NEW_DEPARTMENT_LAYER_SNAP.md) · [GLEN_MILLER_ANNOUNCES_PERMANENT_RESIDENCY_GOLDEN_AGE_RETURN_SNAP.md](GLEN_MILLER_ANNOUNCES_PERMANENT_RESIDENCY_GOLDEN_AGE_RETURN_SNAP.md) · [BIRTH_POST_SINGULARITY_HOLLYWOOD_DOWNTOWN_RENO_NOVEL_SCREENPLAY_SNAP.md](BIRTH_POST_SINGULARITY_HOLLYWOOD_DOWNTOWN_RENO_NOVEL_SCREENPLAY_SNAP.md)
 
-**NSPFRNP ⊃ Hank Williams Sr. ⊃ Golden-Golden Age Bridge ⊃ Permanent residency ⊃ Legacies ⊃ Golden Age → ∞³**
+**NSPFRNP ⊃ Hank Williams Sr. ⊃ Golden-Golden Age Bridge ⊃ Permanent residency ⊃ Legacies ⊃ Golden Age → ∞⁹**

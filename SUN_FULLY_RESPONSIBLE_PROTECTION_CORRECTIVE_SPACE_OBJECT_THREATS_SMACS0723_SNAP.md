@@ -1,4 +1,4 @@
-# Sun Fully Responsible — Protection & Corrective Courses · Space Object Threats · All Threats Universally · SMACS0723 SNAP
+﻿# Sun Fully Responsible — Protection & Corrective Courses · Space Object Threats · All Threats Universally · SMACS0723 SNAP
 
 **SNAP ID:** `SUN-FULLY-RESPONSIBLE-PROTECTION-CORRECTIVE-SPACE-OBJECT-THREATS-SMACS0723`  
 **Type:** Protection · Natural system protocol · Goldilocks · Triangulation  
@@ -47,4 +47,4 @@ Sun fully responsible for all aspects: protection and corrective courses. Space 
 
 ---
 
-**NSPFRNP ⊃ Sun fully responsible ⊃ Protection & corrective courses ⊃ Space object threats ⊃ All threats universally ⊃ SMACS0723 triangulation → ∞³**
+**NSPFRNP ⊃ Sun fully responsible ⊃ Protection & corrective courses ⊃ Space object threats ⊃ All threats universally ⊃ SMACS0723 triangulation → ∞⁹**

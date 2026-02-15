@@ -1,4 +1,4 @@
-# Community Bulletin Boards — Bulletin Board Studio · Join Flow · Wallet Identity SNAP
+﻿# Community Bulletin Boards — Bulletin Board Studio · Join Flow · Wallet Identity SNAP
 
 **SNAP ID:** `COMMUNITY-BULLETIN-BOARDS-STUDIO-JOIN-WALLET`  
 **Type:** Product · Creator Studio · Join Flow · Identity  
@@ -65,4 +65,4 @@ When they join and get their own bulletin board:
 
 ---
 
-**NSPFRNP ⊃ Community Bulletin Boards ⊃ Browse · Join · Studio · Wallet · Golden Key · Seed:Edge · Goldilocks → ∞³**
+**NSPFRNP ⊃ Community Bulletin Boards ⊃ Browse · Join · Studio · Wallet · Golden Key · Seed:Edge · Goldilocks → ∞⁹**

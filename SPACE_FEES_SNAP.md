@@ -1,4 +1,4 @@
-# Space fees · SNAP
+﻿# Space fees · SNAP
 
 **SNAP ID:** SPACE-FEES  
 **Type:** Space fees · Space Cloud · Sun Spots · Schumann · EGS Pipe  
@@ -47,4 +47,4 @@
 
 ---
 
-**NSPFRNP ⊃ Space fees ⊃ Space Cloud · Sun Spots · Schumann · EGS Pipe → ∞³**
+**NSPFRNP ⊃ Space fees ⊃ Space Cloud · Sun Spots · Schumann · EGS Pipe → ∞⁹**

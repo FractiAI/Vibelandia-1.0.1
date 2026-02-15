@@ -1,4 +1,4 @@
-# 👑 Chairman! — Executive Channel Series Format
+﻿# 👑 Chairman! — Executive Channel Series Format
 
 **Series Format ID:** `CHAIRMAN-EXECUTIVE-V1`  
 **Type:** Executive · Commands → Episodes · New brand SNAP  
@@ -55,4 +55,4 @@ This is the **executive channel**. We capture all the executive commands. We pus
 
 **See:** FIVE_PARALLEL_SERIES_NSPFRNP.md · INPUT_CATEGORIZATION_DIRECTIVE.md · TAINO_MADE_NSPFRNP_BBHE_ENERGY_ALL_THE_WAY_SNAP.md
 
-**NSPFRNP ⊃ Chairman! ⊃ Executive commands → rich episodes → ∞³**
+**NSPFRNP ⊃ Chairman! ⊃ Executive commands → rich episodes → ∞⁹**

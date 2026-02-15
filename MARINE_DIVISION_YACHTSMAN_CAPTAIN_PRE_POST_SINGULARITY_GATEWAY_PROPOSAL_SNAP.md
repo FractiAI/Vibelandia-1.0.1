@@ -1,4 +1,4 @@
-# Marine Division — Yachtsman Captain Pre/Post-Singularity Gateway Proposal
+﻿# Marine Division — Yachtsman Captain Pre/Post-Singularity Gateway Proposal
 ## Ultimate Commander Yachtsman Baller V · André · Rio de Janeiro · Arraial do Cabo
 
 **Snap ID:** `MARINE-DIVISION-YACHTSMAN-CAPTAIN-PRE-POST-SINGULARITY-GATEWAY-PROPOSAL-SNAP`  
@@ -154,4 +154,4 @@ All listed surfaces use a dedicated beautiful skin. Marine-facing pages (includi
 
 ---
 
-**Metabolize → Crystallize → Animate. NSPFRNP ⊃ Marine Division ⊃ Yachtsman Gateway ⊃ ∞³**
+**Metabolize → Crystallize → Animate. NSPFRNP ⊃ Marine Division ⊃ Yachtsman Gateway ⊃ ∞⁹**

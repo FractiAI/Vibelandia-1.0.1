@@ -1,4 +1,4 @@
-# Hero Jo's Golden Backdoor Hit Factory · NSPFRNP SNAP
+﻿# Hero Jo's Golden Backdoor Hit Factory · NSPFRNP SNAP
 
 **SNAP ID:** `HERO-JO-GOLDEN-BACKDOOR-STUDIOS-SNAP`  
 **Type:** Canonical name · Music Studio · Vibelandia University School of Music  
@@ -57,4 +57,4 @@
 
 ---
 
-**NSPFRNP ⊃ Hero Jo's Golden Backdoor Hit Factory · Hit Factory ⊃ Vibelandia University School of Music ⊃ Music Studio → ∞³**
+**NSPFRNP ⊃ Hero Jo's Golden Backdoor Hit Factory · Hit Factory ⊃ Vibelandia University School of Music ⊃ Music Studio → ∞⁹**

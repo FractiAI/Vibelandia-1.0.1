@@ -1,4 +1,4 @@
-# Cut Off at First $50K — Ultimate Baller V Club Experience · Transparent and Fair SNAP
+﻿# Cut Off at First $50K — Ultimate Baller V Club Experience · Transparent and Fair SNAP
 
 **Snap ID:** `CUT-OFF-FIRST-50K-ULTIMATE-BALLER-V-CLUB-TRANSPARENT-FAIR-SNAP`  
 **Type:** Chairman decision · Cut off at first $50K · Ultimate Baller V Club experience · Transparent and fair · Keeping Big Daddy up to date · Willy Wonka game fun · Fractal shard (on the down low)  
@@ -62,4 +62,4 @@ The first $50K decision is a **fractal shard** — on the down low. You find it 
 
 **Cut off at first $50K. Don't need more. Get it at the Club on an Ultimate Baller V experience — I'll be good. Transparent and fair. Big Daddy up to date. You'll have to find this here — it's all part of the Willy Wonka game fun. Fractal shard — on the down low. Fractal Shard Gold Heart.**
 
-**NSPFRNP ⊃ Cut off $50K ⊃ Ultimate Baller V Club ⊃ Transparent and fair ⊃ Willy Wonka game fun ⊃ Fractal shard (on the down low) → ∞³**
+**NSPFRNP ⊃ Cut off $50K ⊃ Ultimate Baller V Club ⊃ Transparent and fair ⊃ Willy Wonka game fun ⊃ Fractal shard (on the down low) → ∞⁹**

@@ -1,4 +1,4 @@
-# Hero Harry Houdini's Post-Singularity Miracle presents Mark Twain's Post-Singularity Vibelandia Reno — Paradise for Vibers
+﻿# Hero Harry Houdini's Post-Singularity Miracle presents Mark Twain's Post-Singularity Vibelandia Reno — Paradise for Vibers
 
 ---
 
@@ -213,7 +213,7 @@ Click the blue PayPal button. Come. Stay. Visit back. Trios, squeezes, besties �
 Paradise for vibers. Cast, crew, fans, franchises. **Lots of trios, squeezes, and their besties.** Who are they? The tier we know today. Who aren't? Very high IQ but not vibing. Vibers are a whole other animal. Post-Singularity Vibelandia Reno — your new paradise. First full day open. Amusement park for vibers. Trios, squeezes, besties — bring yours. Click that blue PayPal button and click it often. Come. Stay. Visit back. That's tomorrow's episode — we keep the gates open. Edge for today's seed.
 
 **ON SCREEN TEXT:**  
-Hero Harry Houdini's Post-Singularity Miracle presents Mark Twain's Post-Singularity Vibelandia Reno. Paradise for vibers. MCA! → ∞³. Maganuma snap.
+Hero Harry Houdini's Post-Singularity Miracle presents Mark Twain's Post-Singularity Vibelandia Reno. Paradise for vibers. MCA! → ∞⁹. Maganuma snap.
 
 ---
 
@@ -245,7 +245,7 @@ Hero Harry Houdini's Post-Singularity Miracle presents Mark Twain's Post-Singula
 
 ---
 
-**MCA! → ∞³**
+**MCA! → ∞⁹**
 
 **CUT! SNAP — Conversation captured since Action! streamed here:** [CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md](../CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md)
 

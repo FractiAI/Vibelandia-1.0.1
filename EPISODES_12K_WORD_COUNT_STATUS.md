@@ -1,4 +1,4 @@
-# Episodes — 12,000 Words Each: Status
+﻿# Episodes — 12,000 Words Each: Status
 
 **Directive:** Every episode MUST be **12,000 words**. All of them. No exceptions.  
 **Source:** [EPISODES_RICH_60_MINUTE_FULLY_SCRIPTED_DIRECTIVE.md](EPISODES_RICH_60_MINUTE_FULLY_SCRIPTED_DIRECTIVE.md)
@@ -54,4 +54,4 @@
 
 ---
 
-**NSPFRNP ⊃ Episodes ⊃ 12,000 words each ⊃ All of them → ∞³**
+**NSPFRNP ⊃ Episodes ⊃ 12,000 words each ⊃ All of them → ∞⁹**

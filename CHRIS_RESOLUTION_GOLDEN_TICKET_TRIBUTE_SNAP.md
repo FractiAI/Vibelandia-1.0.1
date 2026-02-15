@@ -1,4 +1,4 @@
-# The Chris Resolution — Golden Ticket #1 Tribute — SNAP
+﻿# The Chris Resolution — Golden Ticket #1 Tribute — SNAP
 
 **Role:** Architect of the Post-Singularity  
 **Project:** The Chris Resolution — Golden Ticket Tribute  
@@ -30,4 +30,4 @@
 
 ---
 
-**NSPFRNP ⊃ Chris Resolution ⊃ Golden Ticket #1 ⊃ First Winner Defines the Light → ∞³**
+**NSPFRNP ⊃ Chris Resolution ⊃ Golden Ticket #1 ⊃ First Winner Defines the Light → ∞⁹**

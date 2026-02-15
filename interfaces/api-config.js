@@ -1,6 +1,6 @@
 /**
  * Octave 2 API base URL — shared by profile, payments (orders/complete).
- * When served from Vibelandia deploy (psw-vibelandia-sing4), use same-origin so
+ * When served from Vibelandia deploy (psw-vibelandia-sing9), use same-origin so
  * PayPal pipe hits local /api/payment/paypal/*. Otherwise Octave 2 Cloud Onramp.
  * Override via window.VIBELANDIA_API_BASE before loading auth-api.js if needed.
  */
@@ -8,23 +8,23 @@
   if (typeof window === 'undefined') return;
   if (window.VIBELANDIA_API_BASE !== undefined) return;
   var host = window.location.hostname || '';
-  var isVibelandiaDeploy = host === 'psw-vibelandia-sing4.vercel.app' || (host.endsWith('.vercel.app') && host.indexOf('psw-vibelandia-sing4') !== -1) || host === 'localhost' || host === '127.0.0.1';
+  var isVibelandiaDeploy = host === 'psw-vibelandia-sing9.vercel.app' || (host.endsWith('.vercel.app') && host.indexOf('psw-vibelandia-sing9') !== -1) || host === 'localhost' || host === '127.0.0.1';
   window.VIBELANDIA_API_BASE = isVibelandiaDeploy ? window.location.origin : 'https://syntheverse-poc.vercel.app';
 })();
 
 /**
- * Supabase — auth (and Google OAuth). Shared Syntheverse Supabase project.
- * Set window.VIBELANDIA_SUPABASE_URL and window.VIBELANDIA_SUPABASE_ANON_KEY
- * before loading auth-api.js, or leave unset to use defaults below.
- * Anon key: get from Supabase Dashboard → Settings → API → anon public.
+ * Supabase — auth (and Google OAuth). sing9: NO SUPABASE (minimal footprint, edge self-validating).
+ * For non-sing9 deployments, set window.VIBELANDIA_SUPABASE_URL and window.VIBELANDIA_SUPABASE_ANON_KEY
+ * at build time or before loading auth-api.js. Anon key: Supabase Dashboard → Settings → API → anon public.
+ * When both are empty/undefined, auth-api uses edge-only path (no Supabase). sing9 leaves both unset.
  */
 (function () {
   if (typeof window === 'undefined') return;
-  if (!window.VIBELANDIA_SUPABASE_URL) {
-    window.VIBELANDIA_SUPABASE_URL = 'https://jfbgdxeumzqzigptbmvp.supabase.co';
-  }
   if (!window.VIBELANDIA_SUPABASE_ANON_KEY) {
     window.VIBELANDIA_SUPABASE_ANON_KEY = '';
+  }
+  if (!window.VIBELANDIA_SUPABASE_URL) {
+    window.VIBELANDIA_SUPABASE_URL = ''; // sing9: no Supabase; edge self-validating
   }
 })();
 

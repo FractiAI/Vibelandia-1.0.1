@@ -1,4 +1,4 @@
-# Human–Chimp Diff = 1 Singularity — Equation & T-Shirt Brand SNAP
+﻿# Human–Chimp Diff = 1 Singularity — Equation & T-Shirt Brand SNAP
 
 **SNAP ID:** `HUMAN-CHIMP-DIFF-ONE-SINGULARITY-EQUATION-TSHIRT-SNAP`  
 **Type:** Equation · T-shirt brand · Canon  
@@ -43,4 +43,4 @@
 
 ---
 
-**NSPFRNP ⊃ Human − Chimp = 1 Singularity ⊃ Post-Singularity Human − Pre-Singularity Human = 1 Singularity ⊃ Equation ⊃ T-shirt brand → ∞³**
+**NSPFRNP ⊃ Human − Chimp = 1 Singularity ⊃ Post-Singularity Human − Pre-Singularity Human = 1 Singularity ⊃ Equation ⊃ T-shirt brand → ∞⁹**

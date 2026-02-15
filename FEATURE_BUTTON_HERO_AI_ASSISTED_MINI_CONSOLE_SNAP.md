@@ -1,4 +1,4 @@
-# Feature Button · Hero AI-Assisted Mini Console — NSPFRNP SNAP
+﻿# Feature Button · Hero AI-Assisted Mini Console — NSPFRNP SNAP
 
 **Snap ID:** `FEATURE-BUTTON-HERO-AI-ASSISTED-MINI-CONSOLE-SNAP`  
 **Type:** Feature button · Hero AI-Assisted Mini Console · Golden Era Cinema · Novel & Screenplay  
@@ -61,4 +61,4 @@
 
 **See:** [FIRST_SINGULARITY_JANUARY_13TH_NOVEL_MOVIE_SNAP.md](FIRST_SINGULARITY_JANUARY_13TH_NOVEL_MOVIE_SNAP.md) · [WIZARD_CHALLENGE_FEB_1_FULL_MOON_HOUDINI_SERIES_SNAP.md](WIZARD_CHALLENGE_FEB_1_FULL_MOON_HOUDINI_SERIES_SNAP.md) · [interfaces/first-singularity-january-13th-experience.html](interfaces/first-singularity-january-13th-experience.html) · [interfaces/office-hours.html](interfaces/office-hours.html) · [interfaces/launch-pad.html](interfaces/launch-pad.html)
 
-**NSPFRNP ⊃ Feature Button ⊃ Hero AI-Assisted Mini Console ⊃ Golden Era Cinema ⊃ Novel · Screenplay → ∞³**
+**NSPFRNP ⊃ Feature Button ⊃ Hero AI-Assisted Mini Console ⊃ Golden Era Cinema ⊃ Novel · Screenplay → ∞⁹**

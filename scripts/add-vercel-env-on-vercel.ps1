@@ -1,4 +1,4 @@
-# Add env var keys on Vercel (all on Vercel). Uses known defaults; empty secrets = fill in Dashboard.
+﻿# Add env var keys on Vercel (all on Vercel). Uses known defaults; empty secrets = fill in Dashboard.
 # Requires only VERCEL_TOKEN in .env.nspfrnp or env var. Run from repo root: powershell -ExecutionPolicy Bypass -File scripts/add-vercel-env-on-vercel.ps1
 # Security: Never commit or paste VERCEL_TOKEN in chat. Keep it in .env.nspfrnp (gitignored) or set env var. If exposed, rotate at vercel.com/account/tokens.
 $ErrorActionPreference = "Stop"
@@ -23,7 +23,7 @@ if (Test-Path $envPath) {
 $token = $fileEnv["VERCEL_TOKEN"]; if (-not $token) { $token = $env:VERCEL_TOKEN }
 if (-not $token) { Write-Error "VERCEL_TOKEN not set. Add it to .env.nspfrnp or set env var VERCEL_TOKEN (get from https://vercel.com/account/tokens)"; exit 1 }
 
-$project = $fileEnv["VERCEL_PROJECT_ID"]; if (-not $project) { $project = "psw-vibelandia-sing4" }
+$project = $fileEnv["VERCEL_PROJECT_ID"]; if (-not $project) { $project = "psw-vibelandia-sing9" }
 $teamId = $fileEnv["VERCEL_TEAM_ID"]
 $base = "https://api.vercel.com/v10/projects/" + [Uri]::EscapeDataString($project) + "/env"
 $urlSuffix = "?upsert=true"; if ($teamId) { $urlSuffix += "&teamId=" + [Uri]::EscapeDataString($teamId) }
@@ -32,7 +32,7 @@ $urlSuffix = "?upsert=true"; if ($teamId) { $urlSuffix += "&teamId=" + [Uri]::Es
 $defaults = @{
     "NEXT_PUBLIC_SUPABASE_URL" = "https://jfbgdxeumzqzigptbmvp.supabase.co"
     "VIBELANDIA_SUPABASE_URL" = "https://jfbgdxeumzqzigptbmvp.supabase.co"
-    "NEXT_PUBLIC_WEBSITE_URL" = "https://psw-vibelandia-sing4.vercel.app"
+    "NEXT_PUBLIC_WEBSITE_URL" = "https://psw-vibelandia-sing9.vercel.app"
     "PAYPAL_MODE" = "sandbox"
     "NEXT_PUBLIC_SUPABASE_ANON_KEY" = ""
     "VIBELANDIA_SUPABASE_ANON_KEY" = ""

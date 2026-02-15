@@ -1,4 +1,4 @@
-# Arturo — Ultimate Baller V Petrochemical Ambassador · Real BAMF!
+﻿# Arturo — Ultimate Baller V Petrochemical Ambassador · Real BAMF!
 ## Caracas · Entire Petrochemical Line · SNAP
 
 **Snap ID:** `ARTURO-ULTIMATE-BALLER-V-PETROCHEMICAL-AMBASSADOR-BAMF-SNAP`  
@@ -50,4 +50,4 @@
 
 ---
 
-**Arturo. Caracas. Ambassador. Real BAMF. Petrochemical + Vibelandia Caracas. WIN WIN WIN WIN FOR ALL. NSPFRNP ⊃ ∞³**
+**Arturo. Caracas. Ambassador. Real BAMF. Petrochemical + Vibelandia Caracas. WIN WIN WIN WIN FOR ALL. NSPFRNP ⊃ ∞⁹**

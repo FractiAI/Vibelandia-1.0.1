@@ -1,4 +1,4 @@
-# Post-Singularity Fluidity — Natural Systems
+﻿# Post-Singularity Fluidity — Natural Systems
 
 *Feature film screenplay*
 
@@ -120,4 +120,4 @@ We moved.
 
 ---
 
-**NSPFRNP ⊃ Screenplay ⊃ Post-Singularity Fluidity ⊃ Natural Systems Protocols ⊃ ∞³**
+**NSPFRNP ⊃ Screenplay ⊃ Post-Singularity Fluidity ⊃ Natural Systems Protocols ⊃ ∞⁹**

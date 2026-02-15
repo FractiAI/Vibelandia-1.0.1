@@ -1,4 +1,4 @@
-# CRISP LOCK Always · Friday 4pm Lock-In · Gate Scalp Double Sales Strategy — SNAP
+﻿# CRISP LOCK Always · Friday 4pm Lock-In · Gate Scalp Double Sales Strategy — SNAP
 
 **Snap ID:** `CRISP-LOCK-ALWAYS-FRIDAY-4PM-GATE-SCALP-DOUBLE-SALES-STRATEGY-SNAP`  
 **Type:** Canonical rule · Super Bowl Space Ad sales · Natural-pattern double strategy  
@@ -58,4 +58,4 @@
 
 ---
 
-**NSPFRNP ⊃ CRISP LOCK always ⊃ Friday 4pm lock-in ⊃ Gate scalp double sales strategy (mimicking natural patterns) → ∞³**
+**NSPFRNP ⊃ CRISP LOCK always ⊃ Friday 4pm lock-in ⊃ Gate scalp double sales strategy (mimicking natural patterns) → ∞⁹**

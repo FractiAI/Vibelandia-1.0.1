@@ -1,4 +1,4 @@
-# Cave-to-Crown · Builder's Arc — NSPFRNP Catalog
+﻿# Cave-to-Crown · Builder's Arc — NSPFRNP Catalog
 
 **Type:** Narrative archetype · Episode framing  
 **Status:** ⚡ ACTIVE  
@@ -45,4 +45,4 @@
 
 ---
 
-**🌀 NSPFRNP ⊃ Cave to Crown ⊃ Builder's Arc ⊃ Chairman Robert ⊃ Robotic Factory → ∞³**
+**🌀 NSPFRNP ⊃ Cave to Crown ⊃ Builder's Arc ⊃ Chairman Robert ⊃ Robotic Factory → ∞⁹**

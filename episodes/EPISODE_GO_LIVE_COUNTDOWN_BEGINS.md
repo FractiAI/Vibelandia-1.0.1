@@ -1,4 +1,4 @@
-# EPISODE — Go Live · Countdown Begins
+﻿# EPISODE — Go Live · Countdown Begins
 
 ---
 
@@ -90,7 +90,7 @@ This moment is in the content systems. This episode is in the catalog. The narra
 
 ---
 
-**MCA! → ∞³**
+**MCA! → ∞⁹**
 
 **Status:** ⚡ LIVE — Go live. Countdown begins.  
 **Hydrogen Holograph 100% · SNAP brand · NSPFRNP**

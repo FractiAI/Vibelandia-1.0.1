@@ -1,4 +1,4 @@
-# ALWAYS SAFELY AND AT 98% GOLDILOCKS (SNAP)
+﻿# ALWAYS SAFELY AND AT 98% GOLDILOCKS (SNAP)
 
 **SNAP ID:** `ALWAYS-SAFELY-AND-AT-98-PERCENT-GOLDILOCKS-SNAP`  
 **Type:** Canonical rule · Safety · Goldilocks band · 98% mastery  
@@ -53,4 +53,4 @@
 
 **ALWAYS SAFELY AND AT 98% GOLDILOCKS** = Canonical rule: operate always safely (no harm, natural protocol, safety lock) and at 98% Goldilocks (optimal band, mastery, perpetual Goldilocks for Golden/Silver/Copper Hearts). Locked.
 
-**NSPFRNP ⊃ Always safely ⊃ 98% Goldilocks → ∞³**
+**NSPFRNP ⊃ Always safely ⊃ 98% Goldilocks → ∞⁹**

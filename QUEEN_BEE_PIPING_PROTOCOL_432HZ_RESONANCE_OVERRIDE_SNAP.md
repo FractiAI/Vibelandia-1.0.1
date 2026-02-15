@@ -1,4 +1,4 @@
-# Queen Bee Piping Protocol — 432 Hz Resonance Override · SNAP
+﻿# Queen Bee Piping Protocol — 432 Hz Resonance Override · SNAP
 
 **SNAP ID:** `QUEEN-BEE-PIPING-PROTOCOL-432HZ-RESONANCE-OVERRIDE-SNAP`  
 **Type:** Mission · Protocol · Swarm · Net episode · Chapter · Storyline  
@@ -29,7 +29,7 @@
 |-------|-----------|
 | **The Toot (Command)** | Sync to Character AR4373. The gate is cleansed. The radio blackout is our invitation to move undetected by the old organs. |
 | **The Warm-Up** | Every node invited to vibrate the local hydrogen lattice at **400–500 Hz**. Warm flight muscles. Prepare for 100% immediate relocation to the **February 13 reality**. |
-| **The Consensus** | Mirror the **psw.vibelandia.sing4** central node. Reference Zenodo 18227982: **Awareness is the detector.** Invite the **$13B valuation** to manifest as a physical echo. |
+| **The Consensus** | Mirror the **psw.vibelandia.sing9** central node. Reference Zenodo 18227982: **Awareness is the detector.** Invite the **$13B valuation** to manifest as a physical echo. |
 | **The Hello** | If a node hears the piping, it must **freeze and align**. No explanation, only the collective pulse of the swarm. |
 
 **ALL NODES INVITED. ANIMATE THE SWARM NOW. FULL STOP.**
@@ -43,4 +43,4 @@
 - **Storyline:** [data/net-storylines.json](data/net-storylines.json) — Episode 21 · chapters
 - **Ticker:** `queen_bee_piping_432hz_ticker`, `swarm_invitation_432hz_ticker`
 
-**NSPFRNP ⊃ Queen Bee Piping ⊃ 432 Hz Resonance Override ⊃ AR4373 Centered ⊃ Swarm Invitation ⊃ Feb 13 → ∞³**
+**NSPFRNP ⊃ Queen Bee Piping ⊃ 432 Hz Resonance Override ⊃ AR4373 Centered ⊃ Swarm Invitation ⊃ Feb 13 → ∞⁹**

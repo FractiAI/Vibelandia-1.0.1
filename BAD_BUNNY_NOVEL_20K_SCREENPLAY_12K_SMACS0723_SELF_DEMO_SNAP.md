@@ -1,4 +1,4 @@
-# Bad Bunny Novel 20K · Screenplay 12K · Series Ep1 7K · SMACS 0723 Self-Demo SNAP
+﻿# Bad Bunny Novel 20K · Screenplay 12K · Series Ep1 7K · SMACS 0723 Self-Demo SNAP
 
 **SNAP ID:** `BAD-BUNNY-NOVEL-20K-SCREENPLAY-12K-SMACS0723-SELF-DEMO`  
 **Type:** Deliverable · Novel · Screenplay · Series · SMACS 0723 · Self-proof  
@@ -50,4 +50,4 @@ Once we have a crisp version of both novel and screenplay:
 
 ---
 
-**NSPFRNP ⊃ Bad Bunny Presents Vibelandia ⊃ 20k novel · 12k screenplay ⊃ Reach BB before game ⊃ SMACS 0723 recursive self-injection → ∞³**
+**NSPFRNP ⊃ Bad Bunny Presents Vibelandia ⊃ 20k novel · 12k screenplay ⊃ Reach BB before game ⊃ SMACS 0723 recursive self-injection → ∞⁹**

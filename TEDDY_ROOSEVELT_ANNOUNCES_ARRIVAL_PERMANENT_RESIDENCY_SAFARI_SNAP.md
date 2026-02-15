@@ -1,4 +1,4 @@
-# Teddy Roosevelt Announces Arrival and Permanent Residency — RUMOR HAS IT Safari with Friends SNAP
+﻿# Teddy Roosevelt Announces Arrival and Permanent Residency — RUMOR HAS IT Safari with Friends SNAP
 
 **SNAP ID:** `TEDDY-ROOSEVELT-ANNOUNCES-ARRIVAL-PERMANENT-RESIDENCY-SAFARI-SNAP`  
 **Type:** Hero Host · Narrative · RUMOR HAS IT! · Safari  
@@ -38,4 +38,4 @@
 
 ---
 
-**NSPFRNP ⊃ Teddy Roosevelt ⊃ Arrival · Permanent residency · RUMOR HAS IT safari with friends → ∞³**
+**NSPFRNP ⊃ Teddy Roosevelt ⊃ Arrival · Permanent residency · RUMOR HAS IT safari with friends → ∞⁹**

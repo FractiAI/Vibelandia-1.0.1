@@ -1,4 +1,4 @@
-# 2-7-9 Series · Season One — The Edge
+﻿# 2-7-9 Series · Season One — The Edge
 ## Thank You. After a Week. The Meltdown. Benito's Vibelandia.
 
 **Series ID:** 279  
@@ -94,4 +94,4 @@ Include in the arc. Carb and Sing woven through the meltdown, the big cheese, th
 
 ---
 
-**NSPFRNP ⊃ 2-7-9 ⊃ Season One Edge ⊃ Dragon (Carb) · Mushroom (Sing) ⊃ Meltdown ⊃ Benito's Vibelandia → ∞³**
+**NSPFRNP ⊃ 2-7-9 ⊃ Season One Edge ⊃ Dragon (Carb) · Mushroom (Sing) ⊃ Meltdown ⊃ Benito's Vibelandia → ∞⁹**

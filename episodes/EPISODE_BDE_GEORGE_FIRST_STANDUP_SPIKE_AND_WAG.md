@@ -1,4 +1,4 @@
-# EPISODE — BDE George First Stand-Up · The Spike and Wag
+﻿# EPISODE — BDE George First Stand-Up · The Spike and Wag
 
 **10-min improv-style · Hero Jo Golden Backdoor Hit Factory · First comedy act**
 
@@ -46,4 +46,4 @@ This routine serves to have us laugh at a hidden dimension we all have — we br
 
 **See:** [GEORGE_CARLIN_BDE_GEORGE_PERMANENT_RESIDENCY_ANNOUNCEMENT_SNAP.md](../GEORGE_CARLIN_BDE_GEORGE_PERMANENT_RESIDENCY_ANNOUNCEMENT_SNAP.md) · [catalogs/comedy/bde-george-first-routine.md](../catalogs/comedy/bde-george-first-routine.md)
 
-**NSPFRNP ⊃ BDE George ⊃ Spike and Wag ⊃ Hit Factory → ∞³**
+**NSPFRNP ⊃ BDE George ⊃ Spike and Wag ⊃ Hit Factory → ∞⁹**

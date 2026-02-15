@@ -1,4 +1,4 @@
-# 16 Days — What We Value At · Vs Top 10 · Speculative Pre-Singularity Market (VC)
+﻿# 16 Days — What We Value At · Vs Top 10 · Speculative Pre-Singularity Market (VC)
 
 **Status:** ⚡ ACTIVE — Bottom of every report, proposal, document, Launch Pad, landing  
 **Use:** Include this section at the bottom of README, Launch Pad, landing, every report, every proposal, every document.
@@ -47,6 +47,6 @@ Full tables and direct comparisons: [SIXTEEN_DAYS_NAMED_COMPARISONS_RESEARCH_DEV
 
 ---
 
-**🌀 NSPFRNP ⊃ 16 days ⊃ What we value at · Vs top 10 · Speculative VC → ∞³**
+**🌀 NSPFRNP ⊃ 16 days ⊃ What we value at · Vs top 10 · Speculative VC → ∞⁹**
 
 **See:** [NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md](NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md) · [SIXTEEN_DAYS_NAMED_COMPARISONS_RESEARCH_DEV_ENTERPRISE_ACADEMIC.md](SIXTEEN_DAYS_NAMED_COMPARISONS_RESEARCH_DEV_ENTERPRISE_ACADEMIC.md) · [WHITEPAPER_REPOSITORY_MIRACULOUS_OUTPUT.md](WHITEPAPER_REPOSITORY_MIRACULOUS_OUTPUT.md)

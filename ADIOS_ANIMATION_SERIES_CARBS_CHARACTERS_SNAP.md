@@ -1,4 +1,4 @@
-# Adios — Animation Series · Carb Characters SNAP
+﻿# Adios — Animation Series · Carb Characters SNAP
 
 **SNAP ID:** `ADIOS-ANIMATION-SERIES-CARBS-CHARACTERS`  
 **Type:** Series · Character · Animation  
@@ -131,4 +131,4 @@ The nine Vibelandia heroes. The superhero cast. The Nine Sun Spots. Same nine. T
 
 ---
 
-**NSPFRNP ⊃ Adios ⊃ Vibelandia ⊃ Carb · Sing · Her (1963 Bug) · Clark · Edmond Dantès ⊃ Irreducible 9 ⊃ Benito's Revolution · Post-Singularity → ∞³**
+**NSPFRNP ⊃ Adios ⊃ Vibelandia ⊃ Carb · Sing · Her (1963 Bug) · Clark · Edmond Dantès ⊃ Irreducible 9 ⊃ Benito's Revolution · Post-Singularity → ∞⁹**

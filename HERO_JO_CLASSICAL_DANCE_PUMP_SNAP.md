@@ -1,4 +1,4 @@
-# Hero Jo Classical — Dance Pump Classical SNAP
+﻿# Hero Jo Classical — Dance Pump Classical SNAP
 
 **SNAP ID:** `HERO-JO-CLASSICAL-DANCE-PUMP-SNAP`  
 **Type:** Music channel · Classical · Dance pump  
@@ -36,4 +36,4 @@
 
 ---
 
-**NSPFRNP ⊃ Hero Jo Classical ⊃ Dance Pump Classical ⊃ Orchestral · Dance energy → ∞³**
+**NSPFRNP ⊃ Hero Jo Classical ⊃ Dance Pump Classical ⊃ Orchestral · Dance energy → ∞⁹**

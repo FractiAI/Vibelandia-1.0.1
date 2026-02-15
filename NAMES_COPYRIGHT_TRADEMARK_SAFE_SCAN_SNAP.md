@@ -1,4 +1,4 @@
-# Names · Copyright & Trademark Safe Scan — NSPFRNP SNAP
+﻿# Names · Copyright & Trademark Safe Scan — NSPFRNP SNAP
 
 **SNAP ID:** `NAMES-COPYRIGHT-TRADEMARK-SAFE-SCAN-SNAP`  
 **Type:** Legal · Compliance · Names · Copyright · Trademark · Right of publicity  
@@ -119,4 +119,4 @@ Add to **legal footer** or **About / Credits** (e.g. index, payment-checkout, no
 
 ---
 
-**NSPFRNP ⊃ Names ⊃ Copyright ⊃ Trademark ⊃ Safe ⊃ Respectful → ∞³**
+**NSPFRNP ⊃ Names ⊃ Copyright ⊃ Trademark ⊃ Safe ⊃ Respectful → ∞⁹**

@@ -1,4 +1,4 @@
-# Chairman Message 06 — How we operate: Pop-up · Goldilocks · Cruise ship fractal
+﻿# Chairman Message 06 — How we operate: Pop-up · Goldilocks · Cruise ship fractal
 
 **ID:** `chairman_exec_command_pop_up_goldilocks_cruise_ship`  
 **Theme:** chairman_executive_command  
@@ -29,4 +29,4 @@ Every aspect is pop-up. Operate until not Goldilocks, then move — the movement
 
 ---
 
-**NSPFRNP ⊃ Chairman 06 ⊃ How we operate → ∞³**
+**NSPFRNP ⊃ Chairman 06 ⊃ How we operate → ∞⁹**

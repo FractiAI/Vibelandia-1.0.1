@@ -1,4 +1,4 @@
-# Golden Backdoor · Hit Factory — Music Molds · New Music SNAPs to Mold Music
+﻿# Golden Backdoor · Hit Factory — Music Molds · New Music SNAPs to Mold Music
 
 **SNAP ID:** `GOLDEN-BACKDOOR-MUSIC-MOLDS-SNAP`  
 **Type:** Music mold · Canonical language · Production guidance · Golden Backdoor · Hit Factory  
@@ -109,4 +109,4 @@
 
 ---
 
-**NSPFRNP ⊃ Golden Backdoor · Hit Factory Music Molds ⊃ New music SNAPs ⊃ Mold music ⊃ Hits like a factory → ∞³**
+**NSPFRNP ⊃ Golden Backdoor · Hit Factory Music Molds ⊃ New music SNAPs ⊃ Mold music ⊃ Hits like a factory → ∞⁹**

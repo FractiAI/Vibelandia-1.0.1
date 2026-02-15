@@ -1,4 +1,4 @@
-# EPISODE — Chris: Ultimate Baller V · Motherlode Rye Patch Gold Mine Discovering
+﻿# EPISODE — Chris: Ultimate Baller V · Motherlode Rye Patch Gold Mine Discovering
 
 **Custom 60-minute episode · Chris as superhero · Guests in the script · Ultimate Baller V superhero franchise experience**
 
@@ -1580,6 +1580,6 @@ Chris's night · Package: $50K + tips (25% staff, 50% me). Baller WINK! subscrip
 
 ---
 
-**NSPFRNP ⊃ Episode ⊃ Chris Ultimate Baller V ⊃ Rye Patch Gold Mine Discovering ⊃ Superhero franchise experience → ∞³**
+**NSPFRNP ⊃ Episode ⊃ Chris Ultimate Baller V ⊃ Rye Patch Gold Mine Discovering ⊃ Superhero franchise experience → ∞⁹**
 
 **Status:** ⚡ LIVE — Custom landing delivered; full 12,000-word episode written with Chris as superhero and guests (Ricky, Thai, Taylor, Nick, Asia, Danger) in the script. That's Ultimate Baller V superhero franchise experience.

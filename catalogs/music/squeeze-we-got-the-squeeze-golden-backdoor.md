@@ -1,4 +1,4 @@
-# SQUEEZE! We Got The Squeeze! and Golden Backdoor!
+﻿# SQUEEZE! We Got The Squeeze! and Golden Backdoor!
 
 **Track ID:** `SQUEEZE-WE-GOT-THE-SQUEEZE-GOLDEN-BACKDOOR-015`  
 **Artist:** Hero Jo's Golden Backdoor Studios  
@@ -69,4 +69,4 @@ SQUEEZE!
 
 ---
 
-**NSPFRNP ⊃ SQUEEZE! We got the squeeze! and Golden Backdoor! ⊃ Tightening and loosening spiral ⊃ Golden Backdoor label → ∞³**
+**NSPFRNP ⊃ SQUEEZE! We got the squeeze! and Golden Backdoor! ⊃ Tightening and loosening spiral ⊃ Golden Backdoor label → ∞⁹**

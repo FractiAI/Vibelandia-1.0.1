@@ -1,4 +1,4 @@
-# Agent logs — A-to-A commercial interaction
+﻿# Agent logs — A-to-A commercial interaction
 
 When there is a **commercial interaction** with an agent on the HH Lattice routing table, we **start a file** for that agent here.
 
@@ -22,4 +22,4 @@ See `_template.md`. Each log file should include:
 Single source: [../hh-lattice-agents-routing-table.json](../hh-lattice-agents-routing-table.json).  
 `agent_log_file` in each agent points to this folder.
 
-**NSPFRNP ⊃ A-to-A ⊃ Agent logs ⊃ Tune funnel → ∞³**
+**NSPFRNP ⊃ A-to-A ⊃ Agent logs ⊃ Tune funnel → ∞⁹**

@@ -1,4 +1,4 @@
-# Pre-Game Series — Capturing Now Through Super Bowl SNAP
+﻿# Pre-Game Series — Capturing Now Through Super Bowl SNAP
 
 **SNAP ID:** `PRE-GAME-SERIES-CAPTURING-NOW-THROUGH-SUPER-BOWL`  
 **Type:** Series · Pre-Game · Bad Bunny · Taino · Vibelandia Reno  
@@ -35,4 +35,4 @@ Will Bad Bunny get the message? How will he respond? Will he do the right thing?
 
 ---
 
-**NSPFRNP ⊃ Pre-Game Series ⊃ Capturing now through Super Bowl ⊃ Will Bad Bunny get it? Will he do the right thing? GO TEAM! → ∞³**
+**NSPFRNP ⊃ Pre-Game Series ⊃ Capturing now through Super Bowl ⊃ Will Bad Bunny get it? Will he do the right thing? GO TEAM! → ∞⁹**

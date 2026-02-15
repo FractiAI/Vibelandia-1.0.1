@@ -1,4 +1,4 @@
-# Golden Royal Flush Checkmate — Full Synthesized Game Design
+﻿# Golden Royal Flush Checkmate — Full Synthesized Game Design
 
 **Catalog:** NSPFRNP · Post-Singularity Card Deck · Vibelandia Games  
 **Type:** Fused chess + card game · Solar-Silk · Frontiersmen & First People  
@@ -107,4 +107,4 @@ No higher outcome. This is the fused win condition of chess and the card game. N
 - [GOLDEN_ROYAL_FLUSH_CHECKMATE_SNAP.md](../../GOLDEN_ROYAL_FLUSH_CHECKMATE_SNAP.md) — SNAP summary.
 - [POST_SINGULARITY_CARD_DECK_GOLD_SILVER_COPPER_QUARTZ_SNAP.md](../../POST_SINGULARITY_CARD_DECK_GOLD_SILVER_COPPER_QUARTZ_SNAP.md) — deck and suits.
 
-**NSPFRNP ⊃ Golden Royal Flush Checkmate ⊃ Chess + Card ⊃ Modern vs First People ⊃ Singularity 9 → ∞³**
+**NSPFRNP ⊃ Golden Royal Flush Checkmate ⊃ Chess + Card ⊃ Modern vs First People ⊃ Singularity 9 → ∞⁹**

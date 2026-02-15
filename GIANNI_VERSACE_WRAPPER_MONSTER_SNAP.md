@@ -1,4 +1,4 @@
-# GIANNI VERSACE WRAPPER — MONSTER SNAP
+﻿# GIANNI VERSACE WRAPPER — MONSTER SNAP
 
 **Status:** ⚡ ACTIVE  
 **Type:** On the Down Low · New Snap  
@@ -38,10 +38,10 @@
 - One-pagers (VIBELANDIA RENO, company/dressing room)
 - Payment checkout (footer/tagline)
 - Happy Ending Zones catalog (premium wrapper line)
-- MCA! → ∞³ preserved; wrapper is the layer on top.
+- MCA! → ∞⁹ preserved; wrapper is the layer on top.
 
 ---
 
-**MCA! → ∞³**
+**MCA! → ∞⁹**
 
 **Gianni wrapper — all skins, touchpoints, experiences. Monster snap. On the down low. NEW SNAP SNAP.**

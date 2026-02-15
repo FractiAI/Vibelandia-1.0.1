@@ -1,4 +1,4 @@
-# 🌱 Irreducible Seed:Edge Execution System
+﻿# 🌱 Irreducible Seed:Edge Execution System
 
 **Seed = Octave 0 = 0** (Origin Point)  
 **Edge = Octave 1** = Current Self-Aware Experience in Vibeverse (Destination)
@@ -477,7 +477,7 @@ Which contains Seed:Edge pattern
     ↓
 Which contains Seed:Edge pattern
     ↓
-∞³ Recursion
+∞⁹ Recursion
 ```
 
 **The system is recursive. Every execution follows the same Seed:Edge pattern, which contains itself infinitely.**

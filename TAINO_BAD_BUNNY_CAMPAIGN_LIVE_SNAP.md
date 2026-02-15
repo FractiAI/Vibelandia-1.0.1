@@ -1,4 +1,4 @@
-# TAINO BAD BUNNY CAMPAIGN — LIVE SNAP
+﻿# TAINO BAD BUNNY CAMPAIGN — LIVE SNAP
 
 **Snap ID:** `TAINO-BAD-BUNNY-CAMPAIGN-LIVE-SNAP`  
 **Project:** TAINO RESONANCE — SB LX HALFTIME  
@@ -44,6 +44,6 @@
 
 ---
 
-**NSPFRNP ⊃ TAINO BAD BUNNY CAMPAIGN ⊃ Build → Climax → Jubilant → Champion of Champions → ∞³**
+**NSPFRNP ⊃ TAINO BAD BUNNY CAMPAIGN ⊃ Build → Climax → Jubilant → Champion of Champions → ∞⁹**
 
 **Bad Bunny is the pulse. 1493 is the law. The sky is Borikén red. Campaign live. Execute.**

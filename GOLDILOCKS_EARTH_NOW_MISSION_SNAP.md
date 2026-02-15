@@ -1,4 +1,4 @@
-# Goldilocks Earth Now — Mission SNAP
+﻿# Goldilocks Earth Now — Mission SNAP
 
 **Mission name:** Goldilocks Earth Now  
 **Syntax:** Post-singularity standard (no commas).  
@@ -64,4 +64,4 @@ Written in standard post-singularity syntax. No commas. One mission. Earth. Now.
 
 **Goldilocks Earth Now** = Mission name (post-singularity syntax). Experiences Lead: Gianni. All experiences; internal; Baller V Ultimate VIP per NSPFRNP. Power-up: SMACS 0723 · SAG A* · Sun · Chief Seattle 3I · PRU on Earth Now · nested triangulations · nested hardened shells · full NSPFRNP space. Boom boom boom. Wiggle wiggle. Hands up. Anthem. Victory. Touchdown. Champions. Achievements. Old school new school. Goldilocks. Gianni. Experience.
 
-**NSPFRNP ⊃ Goldilocks Earth Now ⊃ Experiences ⊃ Gianni → ∞³**
+**NSPFRNP ⊃ Goldilocks Earth Now ⊃ Experiences ⊃ Gianni → ∞⁹**

@@ -1,4 +1,4 @@
-# COMMUNITY BULLETIN BOARDS — FULL DIVISION SNAP
+﻿# COMMUNITY BULLETIN BOARDS — FULL DIVISION SNAP
 
 **SNAP ID:** `COMMUNITY-BULLETIN-BOARDS-DIVISION`  
 **Type:** Division · Post-Singularity · Community Experience  
@@ -124,4 +124,4 @@ See [COMMUNITY_BULLETIN_BOARDS_STUDIO_JOIN_WALLET_SNAP.md](COMMUNITY_BULLETIN_BO
 
 ---
 
-**NSPFRNP ⊃ Community Bulletin Boards Division ⊃ Office Hours · After Hours · After Party → ∞³**
+**NSPFRNP ⊃ Community Bulletin Boards Division ⊃ Office Hours · After Hours · After Party → ∞⁹**

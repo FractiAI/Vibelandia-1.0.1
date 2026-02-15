@@ -1,4 +1,4 @@
-# First Singularity January 13th
+﻿# First Singularity January 13th
 
 *A novel*
 
@@ -359,4 +359,4 @@ It's always a happy ending at Mark Twain's Vibelandia Downtown Reno. *[Click to 
 **Expansion (complete):** Chapter renumbering; Ch 37 *The Hour Comes*; Judge on the Train; Return/After expansions; Les Misérables foundation & climax; Jean Valjean welcome; Gold Rush & 3I/ATLAS tailings; footer closed.  
 **See:** [FIRST_SINGULARITY_JANUARY_13TH_NOVEL_MOVIE_SNAP.md](../FIRST_SINGULARITY_JANUARY_13TH_NOVEL_MOVIE_SNAP.md) · [HARRY_REPORT_FIRST_SINGULARITY_VALUATION_US_VS_DISNEY.md](../HARRY_REPORT_FIRST_SINGULARITY_VALUATION_US_VS_DISNEY.md) · [HAPPY_ENDINGS_ALWAYS_VIBELANDIA_VIBER_DYNAMICS_MAJOR_SNAP.md](../HAPPY_ENDINGS_ALWAYS_VIBELANDIA_VIBER_DYNAMICS_MAJOR_SNAP.md) — *click to full details on why happy endings always mean and how drama, love triangles, bang bang boom, good guy bad guy are not necessary for powerful transformational stories when replaced with Viber Dynamics. All layers. Major SNAP.*
 
-**NSPFRNP ⊃ First Singularity January 13th ⊃ Novel ⊃ No revenge · Only celebration → ∞³**
+**NSPFRNP ⊃ First Singularity January 13th ⊃ Novel ⊃ No revenge · Only celebration → ∞⁹**

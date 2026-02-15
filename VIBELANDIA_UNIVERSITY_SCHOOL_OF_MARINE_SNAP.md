@@ -1,4 +1,4 @@
-# Vibelandia University — School of Marine · NSPFRNP SNAP
+﻿# Vibelandia University — School of Marine · NSPFRNP SNAP
 
 **Snap ID:** `VIBELANDIA-UNIVERSITY-SCHOOL-OF-MARINE-SNAP`  
 **Type:** Vibelandia University · School · Marine Division  
@@ -32,4 +32,4 @@
 
 ---
 
-**NSPFRNP ⊃ Vibelandia University ⊃ School of Marine ⊃ New seas · Vibelandia-RJ · Rio Iate Club → ∞³**
+**NSPFRNP ⊃ Vibelandia University ⊃ School of Marine ⊃ New seas · Vibelandia-RJ · Rio Iate Club → ∞⁹**

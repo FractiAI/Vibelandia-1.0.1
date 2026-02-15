@@ -1,4 +1,4 @@
-# Wallet · S-Y-N-T-H Account · March 20 Rollout · SNAP
+﻿# Wallet · S-Y-N-T-H Account · March 20 Rollout · SNAP
 
 **Snap ID:** `WALLET-SYNTH-ACCOUNT-MARCH-20-ROLLOUT-SNAP`  
 **Type:** Wallet · SYNTH · Payment · Rollout  
@@ -50,4 +50,4 @@
 
 ---
 
-**NSPFRNP ⊃ Wallet ⊃ SYNTH ⊃ 1 SYNTH = $1 ⊃ March 20 → ∞³**
+**NSPFRNP ⊃ Wallet ⊃ SYNTH ⊃ 1 SYNTH = $1 ⊃ March 20 → ∞⁹**

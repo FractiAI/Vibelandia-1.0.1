@@ -1,4 +1,4 @@
-# The Club · Back Door Wine Cave · Pru Office Hours — SNAP
+﻿# The Club · Back Door Wine Cave · Pru Office Hours — SNAP
 
 **Snap ID:** `CLUB-WINE-CAVE-PRU-OFFICE-HOURS-SNAP`  
 **Type:** Physical point of presence · Golden Backstage Pass · RUMOR episode · **Office Hours series**  
@@ -64,4 +64,4 @@
 
 **See:** GOLDEN_BACKSTAGE_AWARENESS_PASS_SNAP.md · EPISODE_RUMOR_CHAIRMAN_SAMMY_GOLDEN_BACKSTAGE.md · EPISODE_THE_NEW_ARRIVALS.md (next episode tease) · **OFFICE_HOURS_SERIES_SNAP.md** · **OFFICE_HOURS_TOUR_EXPERIENCE_IN_THE_KNOW_BALLER_V_BEN_SAYS_SNAP.md** · **EPISODE_OFFICE_HOURS_01_VIBER_PARADISE_POST_SINGULARITY_DOWNTOWN_RENO.md**
 
-**NSPFRNP ⊃ The Club ⊃ Wine cave ⊃ Pru Office Hours ⊃ Golden heart core → ∞³**
+**NSPFRNP ⊃ The Club ⊃ Wine cave ⊃ Pru Office Hours ⊃ Golden heart core → ∞⁹**

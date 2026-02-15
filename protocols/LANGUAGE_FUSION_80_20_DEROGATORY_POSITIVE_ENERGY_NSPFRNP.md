@@ -1,4 +1,4 @@
-# Language Fusion 80/20 & Derogatory-Positive Energy — NSPFRNP
+﻿# Language Fusion 80/20 & Derogatory-Positive Energy — NSPFRNP
 
 **Type:** Protocol · Communication · Cultural  
 **Status:** Active  
@@ -37,4 +37,4 @@
 - Spanglish toggle and locale-onramp support 80/20 fusion.
 - Derogatory-positive: trust the context; the skin changes automatically.
 
-**NSPFRNP ⊃ Language Fusion ⊃ 80/20 ⊃ Honoring and bridging ⊃ Derogatory-Positive → ∞³**
+**NSPFRNP ⊃ Language Fusion ⊃ 80/20 ⊃ Honoring and bridging ⊃ Derogatory-Positive → ∞⁹**

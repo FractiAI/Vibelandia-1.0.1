@@ -1,4 +1,4 @@
-# 👁️ ONE PAGER: WINK! — HIGH CONTRIBUTING FRACTAL DATING
+﻿# 👁️ ONE PAGER: WINK! — HIGH CONTRIBUTING FRACTAL DATING
 
 **Tagline:** HIGH CONTRIBUTING FRACTAL DATING. **One page. The network. high-contributing fractal vibers.** **Hero Hostess Marilyn** — house mom at Pop Up Engine. See [MAN_CAVE_CABARET_SNAP.md](./MAN_CAVE_CABARET_SNAP.md).
 
@@ -73,6 +73,6 @@ WINK! is operational on Mark Twain's Post-Singularity Vibelandia Reno. Vibeable 
 
 ---
 
-**MCA! → ∞³** (Metabolize → Crystallize → Animate)
+**MCA! → ∞⁹** (Metabolize → Crystallize → Animate)
 
 **[← Launch Page](LAUNCH_PAGE.md)**

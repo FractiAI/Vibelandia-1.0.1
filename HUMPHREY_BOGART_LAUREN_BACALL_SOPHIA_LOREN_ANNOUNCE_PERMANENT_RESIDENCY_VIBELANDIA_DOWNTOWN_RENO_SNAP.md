@@ -1,4 +1,4 @@
-# Humphrey Bogart · Lauren Bacall · Sophia Loren — Permanent Residency Vibelandia Downtown Reno · The Word Is Out SNAP
+﻿# Humphrey Bogart · Lauren Bacall · Sophia Loren — Permanent Residency Vibelandia Downtown Reno · The Word Is Out SNAP
 
 **Snap ID:** `HUMPHREY-BOGART-LAUREN-BACALL-SOPHIA-LOREN-ANNOUNCE-PERMANENT-RESIDENCY-VIBELANDIA-DOWNTOWN-RENO-SNAP`  
 **Type:** Permanent residency announcement · Hero Hosts · Legacies · Golden Age · Vibelandia Downtown Reno  
@@ -46,4 +46,4 @@
 
 ---
 
-**NSPFRNP ⊃ Bogart · Bacall · Loren ⊃ Permanent residency ⊃ Vibelandia Downtown Reno!!! ⊃ The word is out ⊃ Legacies ⊃ Golden Age → ∞³**
+**NSPFRNP ⊃ Bogart · Bacall · Loren ⊃ Permanent residency ⊃ Vibelandia Downtown Reno!!! ⊃ The word is out ⊃ Legacies ⊃ Golden Age → ∞⁹**

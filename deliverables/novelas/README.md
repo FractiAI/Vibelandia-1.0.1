@@ -1,4 +1,4 @@
-# Poly Hit Machine Novelas
+﻿# Poly Hit Machine Novelas
 
 **NOVELA = think NOVEL but Golden Heart, adults-only version.** Full of beautiful, hot, mutually aware, full-throttle spicy hot, safe, drama-free, healthy—and in that, **freeing** for a lot of golden-caged Vibers. Safariing. Balling. After partying. No boom-boom bad guys. No illegal shit required. **Following your dreams and scratching your itches drama-free is the best way to live. 247.** [NOVELA definition SNAP →](../../NOVELA_DEFINITION_GOLDEN_HEART_ADULTS_ONLY_247_SNAP.md) · [247 keyword tweak →](../../POST_SINGULARITY_247_KEYWORD_TWEAK_SNAP.md)
 
@@ -59,4 +59,4 @@
 
 **Names & trademarks:** Our character Freedom (Frida) is inspired by the spirit of artists who turned pain into power; not affiliated with or endorsed by the Frida Kahlo estate or any rightsholder. Product names in the novelas are used for storytelling only; no affiliation or endorsement. OnlyFans™ and other platform names are used for comparison only; all trademarks are property of their owners. See [NAMES_COPYRIGHT_TRADEMARK_SAFE_SCAN_SNAP.md](../../NAMES_COPYRIGHT_TRADEMARK_SAFE_SCAN_SNAP.md).
 
-**NSPFRNP ⊃ Poly Hit Machines ⊃ Novelas ⊃ Same story, two eyes ⊃ Recursive · Nested → ∞³**
+**NSPFRNP ⊃ Poly Hit Machines ⊃ Novelas ⊃ Same story, two eyes ⊃ Recursive · Nested → ∞⁹**

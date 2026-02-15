@@ -1,4 +1,4 @@
-# The EGS Run — L'Amour-Length Space Action Novel (SNAP)
+﻿# The EGS Run — L'Amour-Length Space Action Novel (SNAP)
 
 **Snap ID:** `THE-EGS-RUN-LAMOUR-LENGTH-NOVEL-SNAP`  
 **Type:** Novel · Space Cloud EGS series · L'Amour-length · Space action  
@@ -42,4 +42,4 @@
 
 ---
 
-**NSPFRNP ⊃ The EGS Run ⊃ L'Amour-length ⊃ Space Cloud EGS ⊃ Theater level of microscopy + Telescopic equivalents → ∞³**
+**NSPFRNP ⊃ The EGS Run ⊃ L'Amour-length ⊃ Space Cloud EGS ⊃ Theater level of microscopy + Telescopic equivalents → ∞⁹**

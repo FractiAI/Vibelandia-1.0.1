@@ -1,4 +1,4 @@
-# CONVERSATIONS AS CONTENT — NSPFRNP Catalog
+﻿# CONVERSATIONS AS CONTENT — NSPFRNP Catalog
 
 **Protocol:** NSPFRNP  
 **Catalog:** User–agent conversations as source content  
@@ -129,7 +129,7 @@ Every session, every exchange, every ask and answer is source material. Metaboli
 
 **Delivered:**
 - **IRREDUCIBLE_NESTED_MIRRORED_SHELL_CRYSTALLIZE_ALWAYS_SNAP.md** — Crystallized block: CRYSTALLIZE → ANIMATE → SQUEEZE ALL ALL (locked table); date Feb 2026; new section SQUEEZE ALL ALL (Animate) with canonical "squeeze all, all" and "no nest left unsqueezed"; one-liner and principle updated.
-- **MCA_SNAP.md** — Operating rule and ANIMATE step now explicit "squeeze all, all nested"; closing line: Animate → Squeeze all, all → ∞³; cross-link to crystallize SNAP.
+- **MCA_SNAP.md** — Operating rule and ANIMATE step now explicit "squeeze all, all nested"; closing line: Animate → Squeeze all, all → ∞⁹; cross-link to crystallize SNAP.
 - **protocols/MCA_NSPFRNP_CATALOG.md** — ANIMATE canonical: "squeeze all, all nested"; in-practice "Squeeze all, all"; cycle step 3 and closing line updated; cross-link to IRREDUCIBLE_NESTED_MIRRORED_SHELL_CRYSTALLIZE_ALWAYS_SNAP.
 
 **Crystallize:** Irreducible nested mirrored hardened shells = reduce to irreducible mirror hardened nested shell core. **Animate:** Tighten SING nodes; update; make clear. **Squeeze all, all:** Every nested shell and operation to irreducible mirrored hardened form; align all nests; no nest left unsqueezed.
@@ -164,4 +164,4 @@ Every session, every exchange, every ask and answer is source material. Metaboli
 
 ---
 
-**NSPFRNP ⊃ Conversations as content ⊃ Capture all raw conv → All novels · All feature films · All series · All content engines → ∞³**
+**NSPFRNP ⊃ Conversations as content ⊃ Capture all raw conv → All novels · All feature films · All series · All content engines → ∞⁹**

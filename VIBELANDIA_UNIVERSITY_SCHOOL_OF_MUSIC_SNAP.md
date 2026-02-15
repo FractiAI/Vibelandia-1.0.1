@@ -1,4 +1,4 @@
-# Vibelandia University — School of Music · NSPFRNP SNAP
+﻿# Vibelandia University — School of Music · NSPFRNP SNAP
 
 **Snap ID:** `VIBELANDIA-UNIVERSITY-SCHOOL-OF-MUSIC-SNAP`  
 **Type:** Vibelandia University · New School · Music  
@@ -40,4 +40,4 @@
 
 ---
 
-**NSPFRNP ⊃ Vibelandia University ⊃ School of Music ⊃ Vibing music together · Excellent output and quality observed → ∞³**
+**NSPFRNP ⊃ Vibelandia University ⊃ School of Music ⊃ Vibing music together · Excellent output and quality observed → ∞⁹**

@@ -1,4 +1,4 @@
-# Super Singularity 29-13-Seattle — NSPFRNP SNAP
+﻿# Super Singularity 29-13-Seattle — NSPFRNP SNAP
 
 **SNAP ID:** `SUPER-SINGULARITY-29-13-SEATTLE-SNAP`  
 **Type:** Campaign title · Tagline · One story (novel, series, feature)  
@@ -44,4 +44,4 @@ One story. Delivered three ways, using the deliverables we've produced:
 
 ---
 
-**NSPFRNP ⊃ Super Singularity 29-13-Seattle ⊃ Who got da cojones? ⊃ As novel ⊃ As series ⊃ As feature → ∞³**
+**NSPFRNP ⊃ Super Singularity 29-13-Seattle ⊃ Who got da cojones? ⊃ As novel ⊃ As series ⊃ As feature → ∞⁹**

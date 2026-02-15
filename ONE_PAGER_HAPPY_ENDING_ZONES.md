@@ -1,4 +1,4 @@
-# 🎬 ONE PAGER: HAPPY ENDING ZONES — SEASON ONE
+﻿# 🎬 ONE PAGER: HAPPY ENDING ZONES — SEASON ONE
 
 **One page. The series. Free product launch.**
 
@@ -80,6 +80,6 @@ All episodes available in **full professional written screenplay format (Octave 
 
 **Gianni–inspired wrapper** on all skins, touchpoints & experiences.
 
-**MCA! → ∞³** (Metabolize → Crystallize → Animate)
+**MCA! → ∞⁹** (Metabolize → Crystallize → Animate)
 
 **[← Launch Page](README.md)**

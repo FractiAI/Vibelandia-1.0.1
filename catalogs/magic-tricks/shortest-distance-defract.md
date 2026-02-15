@@ -1,4 +1,4 @@
-# The Shortest Distance — Hero Harry Houdini · Magic Trick
+﻿# The Shortest Distance — Hero Harry Houdini · Magic Trick
 
 **Trick ID:** `HOUDINI-SHORTEST-DISTANCE-DEFRACT`  
 **Type:** Stage magic · Vegas · Reveal  
@@ -145,4 +145,4 @@ You will never be able to see it differently again.
 
 ---
 
-**NSPFRNP ⊃ Harry Houdini ⊃ The Shortest Distance ⊃ Defract → ∞³**
+**NSPFRNP ⊃ Harry Houdini ⊃ The Shortest Distance ⊃ Defract → ∞⁹**

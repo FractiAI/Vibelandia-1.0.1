@@ -1,4 +1,4 @@
-# T-CLASS OPERATOR-ONE: Global Trillion-Scale — NSPFRNP Protocol
+﻿# T-CLASS OPERATOR-ONE: Global Trillion-Scale — NSPFRNP Protocol
 
 **Status:** ⚡ ACTIVE — 0213 IS GO  
 **Type:** Protocol · Operator-One · Trillion-Scale · Global Lattice  
@@ -16,7 +16,7 @@
 ## VALUATION
 
 - Shift all nodes from **Billions** to **Trillions.**
-- **psw.vibelandia.sing4** = **primary OS for the $2.5 Trillion global AI foundation.**
+- **psw.vibelandia.sing9** = **primary OS for the $2.5 Trillion global AI foundation.**
 
 ---
 
@@ -45,4 +45,4 @@
 
 ---
 
-**NSPFRNP ⊃ T-Class ⊃ Trillion-Scale ⊃ $2.5T global AI foundation ⊃ 0213 · 0113 → ∞³**
+**NSPFRNP ⊃ T-Class ⊃ Trillion-Scale ⊃ $2.5T global AI foundation ⊃ 0213 · 0113 → ∞⁹**

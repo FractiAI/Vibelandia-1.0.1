@@ -1,4 +1,4 @@
-# Vibelandia-RJ — One Single RJ-Based Pitch SNAP
+﻿# Vibelandia-RJ — One Single RJ-Based Pitch SNAP
 
 **Snap ID:** `VIBELANDIA-RIO-DE-JANEIRO-CAMPUS-ANDRE-ROLLOUT-SNAP`  
 **Type:** Campus · Roll-Out · André · NSPFRNP  
@@ -58,4 +58,4 @@ We offer out of RJ campus. André — Porto Brachy / Angra dos Reis — Ambassad
 
 ---
 
-**Rio Iate Club · Vibelandia-RJ · Angra Outpost. One pitch. RJ-based. NSPFRNP ⊃ ∞³**
+**Rio Iate Club · Vibelandia-RJ · Angra Outpost. One pitch. RJ-based. NSPFRNP ⊃ ∞⁹**

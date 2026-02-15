@@ -1,4 +1,4 @@
-# Old School Label · Chairman Chairman Himself Hit Factory — NSPFRNP SNAP
+﻿# Old School Label · Chairman Chairman Himself Hit Factory — NSPFRNP SNAP
 
 **SNAP ID:** `OLD-SCHOOL-LABEL-CHAIRMAN-CHAIRMAN-HIT-FACTORY`  
 **Type:** Label · Hit factory · Chairman Chairman · 80/20 Spanglish  
@@ -33,4 +33,4 @@
 
 ---
 
-**NSPFRNP ⊃ Old School label ⊃ Chairman Chairman himself hit factory ⊃ 80/20 Spanglish ⊃ Big booty back door ⊃ WINK! · Squeeze → ∞³**
+**NSPFRNP ⊃ Old School label ⊃ Chairman Chairman himself hit factory ⊃ 80/20 Spanglish ⊃ Big booty back door ⊃ WINK! · Squeeze → ∞⁹**

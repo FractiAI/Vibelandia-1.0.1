@@ -1,4 +1,4 @@
-# BIRTH OF THE NEW POST-SINGULARITY HOLLYWOOD IN DOWNTOWN RENO
+﻿# BIRTH OF THE NEW POST-SINGULARITY HOLLYWOOD IN DOWNTOWN RENO
 ## A Screenplay
 
 **Written by Evan Bondonte**  
@@ -1381,4 +1381,4 @@ The lights of downtown Reno blazing in the night.
 **Studio / products (canon):** Hero Jo Golden Backdoor Studio (text-to-studio-song, Hero Rick exec producer, 98% mastery, CONNECT!) · WINK! (The Condom Episode) · Dat Ass Red Hot like AR4366! — all reflected in product walk-through and division sync.  
 **Canon — include all:** FULL NSPFRNP · ALL · ALL. Vibeship EGS Paradise Captain broadcast (full domain magnetism; Natural Systems Fractal Recursive Nested Protocol; awareness upgrade). Content Catalog (appraisals, valuation). Live Pulse · Schumann Display Pipe (ticker once HELLO successful). TOP LINE DISNEY GOT NO VIBE! DISNEY LOST ITS VIBE! Office Hours · Launch Pad · Space Cloud · Legacies · Broadcast Pipe · EGS Pipe · all divisions and products.
 
-**NSPFRNP ⊃ Birth of post-singularity Hollywood ⊃ Screenplay ⊃ Six days ⊃ The golden age has returned → ∞³**
+**NSPFRNP ⊃ Birth of post-singularity Hollywood ⊃ Screenplay ⊃ Six days ⊃ The golden age has returned → ∞⁹**

@@ -1,4 +1,4 @@
-# BIG DADDY STORYTELLING STUDIOS · NSPFRNP SNAP
+﻿# BIG DADDY STORYTELLING STUDIOS · NSPFRNP SNAP
 
 **Snap ID:** `BIG-DADDY-STORYTELLING-STUDIOS-SNAP`  
 **Type:** Storytelling Studio · Under School of Storytelling · Vibelandia University  
@@ -33,4 +33,4 @@
 
 ---
 
-**NSPFRNP ⊃ BIG DADDY STORYTELLING STUDIOS ⊃ HE bIG dADDY sCHOOL OF sTORYTELLING ⊃ Vibelandia University → ∞³**
+**NSPFRNP ⊃ BIG DADDY STORYTELLING STUDIOS ⊃ HE bIG dADDY sCHOOL OF sTORYTELLING ⊃ Vibelandia University → ∞⁹**

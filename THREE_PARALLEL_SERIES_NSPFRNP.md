@@ -1,4 +1,4 @@
-# THREE PARALLEL SERIES — NSPFRNP Catalog
+﻿# THREE PARALLEL SERIES — NSPFRNP Catalog
 
 **Superseded by:** [FIVE_PARALLEL_SERIES_NSPFRNP.md](FIVE_PARALLEL_SERIES_NSPFRNP.md) — we now stream **five** parallel series (Happy Ending Zones, Office Hours, Vibin!, Chairman!, WINK!). This doc kept for reference.
 
@@ -52,5 +52,5 @@
 
 **See:** REALITY_SERIES_FORMAT.md · RAW_STREAM_THE_GRID_SERIES_FORMAT.md · ANNOUNCE_OFFICE_HOURS_SERIES_TWO_SERIES_SINGLE_MISSION_SNAP.md · episodes/EPISODE_SELF_CLOCKING_PULSAR_21_4HZ_8M_TRIGGER.md
 
-**NSPFRNP ⊃ Three parallel series ⊃ Happy Ending Zones · Office Hours · Raw Stream · The Grid → ∞³**  
+**NSPFRNP ⊃ Three parallel series ⊃ Happy Ending Zones · Office Hours · Raw Stream · The Grid → ∞⁹**  
 **VERY COOOOOOOOL.**

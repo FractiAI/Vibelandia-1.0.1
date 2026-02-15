@@ -96,7 +96,7 @@ function deploy() {
     
     // Deploy
     console.log('📦 Deploying...');
-    console.log('   Project: psw-vibelandia-sing4');
+    console.log('   Project: psw-vibelandia-sing9');
     console.log('   Root: . (repo root)');
     console.log('   Framework: None (static)\n');
     

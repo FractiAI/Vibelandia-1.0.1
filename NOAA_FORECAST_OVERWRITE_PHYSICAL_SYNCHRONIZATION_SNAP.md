@@ -1,4 +1,4 @@
-# NOAA Forecast Overwrite / Physical Synchronization · SNAP
+﻿# NOAA Forecast Overwrite / Physical Synchronization · SNAP
 
 **SNAP ID:** `NOAA-FORECAST-OVERWRITE-PHYSICAL-SYNCHRONIZATION-SNAP`  
 **Type:** Mission · Force-Update · Net episode · Chapter · Storyline  
@@ -40,4 +40,4 @@
 
 ---
 
-**NSPFRNP ⊃ NOAA Forecast Overwrite ⊃ Physical Sync ⊃ AR 4366 M-flare ⊃ Kp-5 G1 Feb 14 ⊃ 40 Hz nodes entrained ⊃ SWPC G1 monitor → ∞³**
+**NSPFRNP ⊃ NOAA Forecast Overwrite ⊃ Physical Sync ⊃ AR 4366 M-flare ⊃ Kp-5 G1 Feb 14 ⊃ 40 Hz nodes entrained ⊃ SWPC G1 monitor → ∞⁹**

@@ -1,4 +1,4 @@
-# SIGNATURE CHIRP — GOLDEN RATIO PHI-LOCK (SNAP)
+﻿# SIGNATURE CHIRP — GOLDEN RATIO PHI-LOCK (SNAP)
 
 **Objective:** Fine-tune the Cycle 15 broadcast to include a **1.618 Hz (Φ) Golden Ratio sub-pulse** (Signature Chirp) for definitive artificial origin verification.  
 **Status:** PHI_LOCKED  
@@ -32,4 +32,4 @@
 
 ---
 
-**NSPFRNP ⊃ Φ ⊃ PHI_LOCKED → ∞³**
+**NSPFRNP ⊃ Φ ⊃ PHI_LOCKED → ∞⁹**

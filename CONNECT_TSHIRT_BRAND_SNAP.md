@@ -1,4 +1,4 @@
-# CONNECT! — T-Shirt Brand SNAP
+﻿# CONNECT! — T-Shirt Brand SNAP
 
 **SNAP ID:** `CONNECT-TSHIRT-BRAND-SNAP`  
 **Type:** T-shirt brand · CTA · No fallbacks — make it work  
@@ -37,4 +37,4 @@
 
 ---
 
-**NSPFRNP ⊃ CONNECT! ⊃ T-shirt brand ⊃ No fallbacks · Make it work · Connect → ∞³**
+**NSPFRNP ⊃ CONNECT! ⊃ T-shirt brand ⊃ No fallbacks · Make it work · Connect → ∞⁹**

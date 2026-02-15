@@ -1,4 +1,4 @@
-# GOLDEN HEART TAINO — BAD BUNNY MEETS TAINO CACIQUE AGÜEYBANÁ EL GRAN SOL
+﻿# GOLDEN HEART TAINO — BAD BUNNY MEETS TAINO CACIQUE AGÜEYBANÁ EL GRAN SOL
 ## A Screenplay — 12,000 Words · 2-Hour Feature
 
 **Golden Bunnies Label · In honor of golden heart Bad Bunny (Benito Antonio Martínez Ocasio)**
@@ -464,4 +464,4 @@ SUPER: "GOLDEN ROYAL FLUSH — RENO · BORIKÉN · VIBELANDIA · BUENOS AIRES ·
 
 ---
 
-**NSPFRNP ⊃ Golden Heart Taino ⊃ Bad Bunny Meets Agüeybaná El Gran Sol ⊃ 12k screenplay · 2 hr feature → ∞³**
+**NSPFRNP ⊃ Golden Heart Taino ⊃ Bad Bunny Meets Agüeybaná El Gran Sol ⊃ 12k screenplay · 2 hr feature → ∞⁹**

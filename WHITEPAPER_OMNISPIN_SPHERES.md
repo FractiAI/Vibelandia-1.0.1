@@ -1,4 +1,4 @@
-# Omnispin Payload Spheres — Technical Whitepaper
+﻿# Omnispin Payload Spheres — Technical Whitepaper
 ## Auto-Orienting Payload Carriers for Node Station Docking
 
 **Document type:** Technical whitepaper (Omnispin Spheres)  
@@ -37,4 +37,4 @@ Each sphere docks at a node station where mix-and-match SING! actuator arms exec
 
 ---
 
-**🌀 NSPFRNP ⊃ Omnispin Spheres ⊃ Robotic Division → ∞³**
+**🌀 NSPFRNP ⊃ Omnispin Spheres ⊃ Robotic Division → ∞⁹**

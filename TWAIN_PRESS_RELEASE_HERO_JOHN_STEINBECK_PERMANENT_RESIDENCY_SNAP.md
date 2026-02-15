@@ -1,4 +1,4 @@
-# Twain Press Release — Hero John Steinbeck Permanent Residency SNAP
+﻿# Twain Press Release — Hero John Steinbeck Permanent Residency SNAP
 
 **Snap ID:** `TWAIN-PRESS-RELEASE-HERO-JOHN-STEINBECK-PERMANENT-RESIDENCY-SNAP`  
 **Type:** Press release · From Twain (Chancellor Sam) · Hero Host permanent residency  
@@ -49,4 +49,4 @@ We do not need a blind man to see it. We need a man who can see to locate this b
 
 ---
 
-**NSPFRNP ⊃ Twain ⊃ Hero John Steinbeck ⊃ Permanent residency ⊃ Voice in the fusion → ∞³**
+**NSPFRNP ⊃ Twain ⊃ Hero John Steinbeck ⊃ Permanent residency ⊃ Voice in the fusion → ∞⁹**

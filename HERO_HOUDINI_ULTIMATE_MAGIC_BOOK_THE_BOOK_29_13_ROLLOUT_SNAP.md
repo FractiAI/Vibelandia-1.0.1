@@ -1,4 +1,4 @@
-# Hero Houdini · Ultimate Magic Presents · Book the Book $29.13 — Full Rollout SNAP
+﻿# Hero Houdini · Ultimate Magic Presents · Book the Book $29.13 — Full Rollout SNAP
 
 **SNAP ID:** `HERO-HOUDINI-ULTIMATE-MAGIC-BOOK-THE-BOOK-29-13-ROLLOUT`  
 **Type:** Product · Campaign · Landing · Booking · Gamified story experience  
@@ -105,4 +105,4 @@ This rollout is published **live without prior review** — in typical Hero Harr
 
 ---
 
-**NSPFRNP ⊃ Hero Houdini ⊃ Ultimate Magic ⊃ Book the Book $29.13 ⊃ Old School label ⊃ Chairman Chairman ⊃ Gamified · Simulated reality → ∞³**
+**NSPFRNP ⊃ Hero Houdini ⊃ Ultimate Magic ⊃ Book the Book $29.13 ⊃ Old School label ⊃ Chairman Chairman ⊃ Gamified · Simulated reality → ∞⁹**

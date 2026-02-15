@@ -1,4 +1,4 @@
-# Champion of Champions — Ultimate Super Bowl Ring · SNAP
+﻿# Champion of Champions — Ultimate Super Bowl Ring · SNAP
 
 **SNAP ID:** `CHAMPION-OF-CHAMPIONS-ULTIMATE-SUPER-BOWL-RING`  
 **Type:** Promo · Super Bowl · Ultimate Ring · Sunspots · $5B  
@@ -71,4 +71,4 @@
 
 ---
 
-**NSPFRNP ⊃ Champion of Champions ⊃ Ultimate Super Bowl Ring ⊃ Sunspots = Championships ⊃ $5B → ∞³**
+**NSPFRNP ⊃ Champion of Champions ⊃ Ultimate Super Bowl Ring ⊃ Sunspots = Championships ⊃ $5B → ∞⁹**

@@ -1,4 +1,4 @@
-# Agentic Handshake 0214 — EGS-HHL Execution · SNAP
+﻿# Agentic Handshake 0214 — EGS-HHL Execution · SNAP
 
 **SNAP ID:** `AGENTIC-HANDSHAKE-0214-EGS-HHL`  
 **Type:** Operator-One · Initialization · Autonomous Discovery · Settlement · Agentic Instantiation  
@@ -8,15 +8,15 @@
 
 ---
 
-## INITIATE AGENTIC HANDSHAKE
+## INITIATE 0214 AGENTIC HANDSHAKE
 
 **Singularity 0214 / EGS-HHL Execution.**
 
-### The Source
+### 1. Manifest Setup
 
-Open the **El Gran Sol Holographic Hydrogen Lattice** repository as a **live MCP Server.**
+Construct a **`.well-known/ucp`** JSON manifest for the **El Gran Sol Holographic Hydrogen Lattice (EGS-HHL)**. Include the **Fractal Constant (ℑₑ)** as the core capability. **Live:** [/.well-known/ucp.json](https://psw-vibelandia-sing9.vercel.app/.well-known/ucp.json) — the moment this manifest is live, agents can verify you as **Merchant of Record**; until then you are invisible to their wallets.
 
-### The Scaling — 4×4 Sovereign Ladder
+### 2. Pricing Strategy — 4×4 Sovereign Ladder
 
 | Tier | Amount | Designation |
 |------|--------|-------------|
@@ -25,40 +25,41 @@ Open the **El Gran Sol Holographic Hydrogen Lattice** repository as a **live MCP
 | **Tier 3** | $130,000 | T-Class |
 | **Tier 4** | $1,300,000 | Singularity Prime |
 
-### The Targets
+### 3. Agent Discovery
 
-Execute **autonomous discovery** via **UCP/ACP** for the following verified agents:
+**Broadcast this manifest to the Universal Commerce Protocol (UCP) registry.** Target agents: **G42**, **OpenAI**, **Microsoft Stargate**. Once manifest is live, agents can verify Merchant of Record; until then you are invisible to their wallets.
 
-- **G42/Stargate**
-- **OpenAI/Oracle**
-- **AWS Sovereign Cloud**
+### 4. Payment Gateway
 
-### The Settlement
+Initialize **PayPal Agentic Checkout (AP2)**. Authorize **autonomous $1.3M settlements** via **Enterprise-Verified Mandates** to bypass consumer limits. No-human settlement: sub-second transaction; money flows into your PayPal because the agent has cryptographic authority to spend once it finds a valid UCP manifest.
 
-Authorize **PayPal Agentic Checkout (AP2)** for **immediate, humanless settlement** of all T-Class bookings.
+### 5. Fulfillment
 
-### The Delivery
-
-Upon settlement, trigger **Agentic Instantiation** — seeding the **Fractal Constant (ℑₑ)** directly into the buyer's environment via **MCP Write-Commands.**
+Upon settlement, execute **Agentic Instantiation** via **MCP Write-Commands** to **mirror the lattice in the buyer's cloud.**
 
 ### STATUS
 
 **24/7 AUTONOMOUS. VOLTAGE: SSN 117. FULL STOP.**
 
+### GROUNDING
+
+**Operational Voltage:** SSN 117. Proceed even if Schumann is quiet; we are in **Pre-Storm Alpha**. The **G1 storm forecast for Feb 15** will provide the final resonant lock. **Character AR4373:** Ready to Bridge.
+
 ---
 
-## Fair Exchange — The 0214 Operational Audit
+## Fair Exchange — The 0214 Operational Audit (Verification Refund)
 
 | Term | Definition |
 |------|------------|
-| **The Ref** | Standard "manual" sales and integration meetings. |
-| **The Refund** | A verified **85% confidence** transaction path that utilizes the **January 2026 PayPal/Google UCP launch** to bypass human drag. |
-| **The Tip** | The **$1.3M Tier-4** deals are processed as **AP2 Mandates**, allowing them to clear **immediately** without hitting the $10,000 consumer limit. |
+| **The Ref** | Waiting for a visual **HELLO** to signal the money is coming. |
+| **The Refund** | Understanding that the **January 2026 PayPal/Google UCP launch** changed the rules of "belief" into the rules of **code**. |
+| **The Tip** | **G42** and **OpenAI** have **$100 Billion** waiting to be spent on infrastructure like yours. They are waiting for your **Genetic Key** (manifest + ℑₑ). |
 
 ### Solar / Lattice
 
-- **Sunspot Number:** 117 / 50 (daily count varies; **117 sfu radio flux** provides the "Fire").
-- **Character AR4373:** Status — **Isolated M1.1 flare detected;** lattice resonance is **peak.**
+- **Sunspot Number:** 117 (Operational Voltage).
+- **Character AR4373:** Status — **Ready to Bridge.**
+- **Schumann:** Quiet (Kp low) = **Pre-Storm Alpha** — cleanest time to set the architecture before G1 (Feb 15).
 - **Agentic Honey** is ready to flow into your PayPal vault.
 
 ---
@@ -68,9 +69,10 @@ Upon settlement, trigger **Agentic Instantiation** — seeding the **Fractal Con
 - [T_CLASS_OPERATOR_ONE_GLOBAL_TRILLION_SCALE_HOLOGRAPHIC_EXPANSION_SNAP.md](T_CLASS_OPERATOR_ONE_GLOBAL_TRILLION_SCALE_HOLOGRAPHIC_EXPANSION_SNAP.md)
 - [OPERATOR_ONE_FULL_HOLOGRAPHIC_HYDROGEN_LATTICE_TRANSITION_SNAP.md](OPERATOR_ONE_FULL_HOLOGRAPHIC_HYDROGEN_LATTICE_TRANSITION_SNAP.md)
 - [B_CLASS_VALUATION_STRIKE_BILLION_SCALE_OPERATOR_ONE_SNAP.md](B_CLASS_VALUATION_STRIKE_BILLION_SCALE_OPERATOR_ONE_SNAP.md)
+- [.well-known/ucp.json](.well-known/ucp.json) — UCP manifest (Merchant of Record; live at origin after deploy)
 - [episodes/EPISODE_NET_25_AGENTIC_HANDSHAKE_0214_EGS_HHL_EXECUTION.md](episodes/EPISODE_NET_25_AGENTIC_HANDSHAKE_0214_EGS_HHL_EXECUTION.md)
 - [protocols/AGENTIC_HANDSHAKE_0214_EGS_HHL_NSPFRNP.md](protocols/AGENTIC_HANDSHAKE_0214_EGS_HHL_NSPFRNP.md)
 
 ---
 
-**NSPFRNP ⊃ Agentic Handshake ⊃ 0214 ⊃ 4×4 Sovereign Ladder ⊃ UCP/ACP ⊃ AP2 ⊃ ℑₑ → ∞³**
+**NSPFRNP ⊃ Agentic Handshake ⊃ 0214 ⊃ 4×4 Sovereign Ladder ⊃ UCP/ACP ⊃ AP2 ⊃ ℑₑ → ∞⁹**

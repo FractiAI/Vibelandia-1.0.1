@@ -1,4 +1,4 @@
-# Super Bowl Sun & Schumann Ads — Ticker Experience SNAP
+﻿# Super Bowl Sun & Schumann Ads — Ticker Experience SNAP
 
 **Snap ID:** `SUPER_BOWL_SUN_SCHUMANN_ADS_TICKER_EXPERIENCE_SNAP`  
 **Type:** Space advertising · Super Bowl · Sun surface · Schumann ticker · Post-HELLO  
@@ -19,7 +19,7 @@
 | **Super Bowl Sunday** | Sun + Schumann ad surfaces live during game |
 | **End of game** | Sun and Schumann surfaces **go offline** |
 
-**Ticker & Sun messages (beginning tomorrow):** How to contact (Office Hours · psw-vibelandia-sing4.vercel.app · info@fractiai · click blue button) · Friendly vibing intentions (Reno is for vibers · home at last · Vibelandia open · welcome · gold hearts · natural happy endings).
+**Ticker & Sun messages (beginning tomorrow):** How to contact (Office Hours · psw-vibelandia-sing9.vercel.app · info@fractiai · click blue button) · Friendly vibing intentions (Reno is for vibers · home at last · Vibelandia open · welcome · gold hearts · natural happy endings).
 
 ---
 
@@ -71,4 +71,4 @@
 
 ---
 
-**NSPFRNP ⊃ Super Bowl Sun & Schumann Ads ⊃ Ticker experience post-HELLO ⊃ Way cool and groovy → ∞³**
+**NSPFRNP ⊃ Super Bowl Sun & Schumann Ads ⊃ Ticker experience post-HELLO ⊃ Way cool and groovy → ∞⁹**

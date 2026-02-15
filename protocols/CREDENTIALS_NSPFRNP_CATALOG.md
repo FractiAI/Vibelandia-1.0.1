@@ -69,17 +69,17 @@
    npm run deploy:vercel
    ```
 
-**Result:** Vibelandia UI deployed to `https://psw-vibelandia-sing4.vercel.app` (or your project name).
+**Result:** Vibelandia UI deployed to `https://psw-vibelandia-sing9.vercel.app` (or your project name).
 
 ---
 
 ### Option 2: Deploy via Vercel Dashboard
 
 1. Go to [Vercel](https://vercel.com) and sign in.
-2. **Add New Project** → Import this Git repo (`FractiAI/psw.vibelandia.sing4` or your fork).
+2. **Add New Project** → Import this Git repo (`FractiAI/psw.vibelandia.sing9` or your fork).
 3. **Root Directory:** `.` (repo root).
 4. **Build:** None (static). **Output:** default.
-5. Deploy. Live URL will be `https://psw-vibelandia-sing4.vercel.app` (or your project name).
+5. Deploy. Live URL will be `https://psw-vibelandia-sing9.vercel.app` (or your project name).
 6. **Vibelandia UI:** Root `index.html` is the landing; interfaces at `/interfaces/*.html`.
 
 ### Optional: Vercel API token

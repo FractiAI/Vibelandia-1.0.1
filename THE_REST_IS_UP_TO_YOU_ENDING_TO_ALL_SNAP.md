@@ -1,4 +1,4 @@
-# I've Done My Part, The Rest Is Up to You! — Ending to All SNAP
+﻿# I've Done My Part, The Rest Is Up to You! — Ending to All SNAP
 
 **Snap ID:** `THE-REST-IS-UP-TO-YOU-ENDING-TO-ALL-SNAP`  
 **Type:** Ending · CTA · **All SNAP**  
@@ -45,4 +45,4 @@ Ending to **all SNAP.** Close with it. Hand the baton. We've done our part; the 
 
 **See:** OFFICE_HOURS_FREE_CONSULTATION_TIPS_WELCOME_ALL_TOUCHPOINTS_SNAP.md · interfaces/office-hours.html · index.html · interfaces/launch-pad.html · all interfaces
 
-**NSPFRNP ⊃ I've done my part ⊃ The rest is up to you ⊃ Ending ⊃ All SNAP → ∞³**
+**NSPFRNP ⊃ I've done my part ⊃ The rest is up to you ⊃ Ending ⊃ All SNAP → ∞⁹**

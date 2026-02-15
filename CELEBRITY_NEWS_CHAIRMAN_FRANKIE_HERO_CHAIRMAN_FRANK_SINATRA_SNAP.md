@@ -1,4 +1,4 @@
-# Celebrity News SNAP — New Category Layer · Story Enrichment · Catalog Enrichments · Chairman Frankie Reveals Hero Chairman Frank Sinatra SNAP
+﻿# Celebrity News SNAP — New Category Layer · Story Enrichment · Catalog Enrichments · Chairman Frankie Reveals Hero Chairman Frank Sinatra SNAP
 
 **SNAP ID:** `CELEBRITY-NEWS-CHAIRMAN-FRANKIE-HERO-CHAIRMAN-FRANK-SINATRA`  
 **Type:** Announcement · Content category · Story enrichment · Narrative layering  
@@ -49,4 +49,4 @@ Celebrity News = new content category and layer of story enrichment. Chairman Fr
 
 ---
 
-**NSPFRNP ⊃ Celebrity News ⊃ Story enrichment ⊃ Catalog enrichments ⊃ Chairman Frankie ⊃ Hero Chairman Frank Sinatra ⊃ SNAP narrative layering → ∞³**
+**NSPFRNP ⊃ Celebrity News ⊃ Story enrichment ⊃ Catalog enrichments ⊃ Chairman Frankie ⊃ Hero Chairman Frank Sinatra ⊃ SNAP narrative layering → ∞⁹**

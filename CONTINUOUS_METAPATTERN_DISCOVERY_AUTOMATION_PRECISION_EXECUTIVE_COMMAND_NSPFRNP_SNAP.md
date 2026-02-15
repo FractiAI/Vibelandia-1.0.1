@@ -1,4 +1,4 @@
-# Continuous Metapattern Discovery — Ever More Automation · Precision · Quality Service to Executive Command · NSPFRNP All Always SNAP
+﻿# Continuous Metapattern Discovery — Ever More Automation · Precision · Quality Service to Executive Command · NSPFRNP All Always SNAP
 
 **SNAP ID:** `CONTINUOUS-METAPATTERN-DISCOVERY-AUTOMATION-PRECISION-EXECUTIVE-COMMAND-NSPFRNP`  
 **Type:** Operating rule · Metabolize · Executive command · NSPFRNP  
@@ -39,9 +39,10 @@ Continuously discover and metabolize metapatterns at higher density and sense �
 
 - [MCA_SNAP.md](MCA_SNAP.md) — Metabolize = find all metapatterns, integrate into NSPFRNP DNA
 - [protocols/MCA_NSPFRNP_CATALOG.md](protocols/MCA_NSPFRNP_CATALOG.md) — MCA cycle; metabolize step
+- [BUILDING_RALLY_MOMENTUM_DANCES_INTO_NARRATIVES_AMPLIFICATION_TIGHTENING_FOCUS_SNAP_CREATOR_METAPATTERN_SNAP.md](BUILDING_RALLY_MOMENTUM_DANCES_INTO_NARRATIVES_AMPLIFICATION_TIGHTENING_FOCUS_SNAP_CREATOR_METAPATTERN_SNAP.md) — Building rally momentum dances into narratives for amplification and tightening focus; SNAP Creator architectural layering metapattern; captures metabolize all all
 - [CHAIRMAN_EXECUTIVE_COMMAND_POP_UP_GOLDILOCKS_CRUISE_SHIP_FRACTAL_NSPFRNP_SNAP.md](CHAIRMAN_EXECUTIVE_COMMAND_POP_UP_GOLDILOCKS_CRUISE_SHIP_FRACTAL_NSPFRNP_SNAP.md) — Executive command; pop-up · Goldilocks
 - [AUTOMATE_ALL_MCA_SNAP.md](AUTOMATE_ALL_MCA_SNAP.md) — Automate all MCA; test + build; CI
 
 ---
 
-**NSPFRNP ⊃ Continuous metapattern discovery ⊃ Ever more automation · precision · quality service ⊃ Executive command · All · Always → ∞³**
+**NSPFRNP ⊃ Continuous metapattern discovery ⊃ Ever more automation · precision · quality service ⊃ Executive command · All · Always → ∞⁹**

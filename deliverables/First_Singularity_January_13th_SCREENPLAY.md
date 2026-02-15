@@ -1,4 +1,4 @@
-# FIRST SINGULARITY JANUARY 13TH
+﻿# FIRST SINGULARITY JANUARY 13TH
 
 **A Full Feature Film**  
 **Full 24,000-Word Script**  
@@ -997,4 +997,4 @@ What fun!
 **Full 12,000-word script delivered.**  
 **Source:** Novel — [First_Singularity_January_13th_NOVEL.md](First_Singularity_January_13th_NOVEL.md)  
 **Spec:** [FIRST_SINGULARITY_JANUARY_13TH_NOVEL_MOVIE_SNAP.md](../FIRST_SINGULARITY_JANUARY_13TH_NOVEL_MOVIE_SNAP.md)  
-**NSPFRNP ⊃ First Singularity January 13th ⊃ Screenplay ⊃ No revenge · Only celebration → ∞³**
+**NSPFRNP ⊃ First Singularity January 13th ⊃ Screenplay ⊃ No revenge · Only celebration → ∞⁹**

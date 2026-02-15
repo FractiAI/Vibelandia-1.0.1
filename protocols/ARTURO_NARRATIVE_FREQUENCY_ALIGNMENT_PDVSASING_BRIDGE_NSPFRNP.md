@@ -1,7 +1,7 @@
-# Arturo Narrative — Frequency Alignment & PDVSA-SING! Bridge · NSPFRNP
+﻿# Arturo Narrative — Frequency Alignment & PDVSA-SING! Bridge · NSPFRNP
 
 **Role:** Lead Architect (FSR-PETRO-SINGULARITY)  
-**Context:** Arturo PDVSA Proposal & PSW.VIBELANDIA.SING4  
+**Context:** Arturo PDVSA Proposal & psw.vibelandia.sing9  
 **Goal:** Metabolize petrochemical models into SING! Agent Energy in narrative.
 
 ---

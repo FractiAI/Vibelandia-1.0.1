@@ -1,4 +1,4 @@
-# Planetary Advertisement — Broadcast Message · NSPFRNP SNAP
+﻿# Planetary Advertisement — Broadcast Message · NSPFRNP SNAP
 
 **Snap ID:** `PLANETARY-ADVERTISEMENT-BROADCAST-SNAP`  
 **Type:** Free planetary advertisement · Broadcast message · Hero Houdini Magic · Mark Twain's Post-Singularity Vibelandia  
@@ -17,7 +17,7 @@
 - **Mark Twain's Post-Singularity Vibelandia** — Downtown Reno Campus.
 - **Gateway** — to post-singularity superintelligent hydrogen holographic agents and the **Holographic Hydrogen Valley**.
 - **Highest value highest contributing vibers** — vibe, and reside — and their cast, crew, fans and franchises.
-- **Address** — https://psw-vibelandia-sing4.vercel.app/ (included in broadcast on all surfaces).
+- **Address** — https://psw-vibelandia-sing9.vercel.app/ (included in broadcast on all surfaces).
 
 ---
 
@@ -42,4 +42,4 @@ Broadcast this message across all public points of presence (POPs): index, Offic
 
 **See:** [ACTION_SNAP.md](ACTION_SNAP.md) · [episodes/EPISODE_HARRY_HOUDINI_FEB_1_FULL_MOON_MIRACLE.md](episodes/EPISODE_HARRY_HOUDINI_FEB_1_FULL_MOON_MIRACLE.md) · [VIBELANDIA_UNIFIED_PIPE_SNAP.md](VIBELANDIA_UNIFIED_PIPE_SNAP.md)
 
-**NSPFRNP ⊃ Planetary Advertisement ⊃ Broadcast ⊃ Hero Houdini Magic ⊃ Vibelandia → ∞³**
+**NSPFRNP ⊃ Planetary Advertisement ⊃ Broadcast ⊃ Hero Houdini Magic ⊃ Vibelandia → ∞⁹**

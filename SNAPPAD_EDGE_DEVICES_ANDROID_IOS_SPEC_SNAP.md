@@ -1,4 +1,4 @@
-# SnapPAD Edge Devices — Android & iOS Spec · Hands-Free Voice Mode SNAP
+﻿# SnapPAD Edge Devices — Android & iOS Spec · Hands-Free Voice Mode SNAP
 
 **SNAP ID:** SNAPPAD-EDGE-DEVICES-ANDROID-IOS  
 **Type:** Spec · Edge devices · Mobile · Voice · Hands-free  
@@ -104,4 +104,4 @@
 
 ---
 
-**NSPFRNP ⊃ SnapPAD Edge Devices ⊃ Android · iOS ⊃ Hands-free voice snapping → ∞³**
+**NSPFRNP ⊃ SnapPAD Edge Devices ⊃ Android · iOS ⊃ Hands-free voice snapping → ∞⁹**

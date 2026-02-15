@@ -1,4 +1,4 @@
-# Node Stations & Sphere Cradle System
+﻿# Node Stations & Sphere Cradle System
 ## Specialized Docking for Multiarm SING! Actuator Arms
 
 **Document type:** Technical whitepaper (Node Stations)  
@@ -36,4 +36,4 @@ Nodes form a wrapper over the sphere at each station. Arms reach in; sphere stay
 
 ---
 
-**🌀 NSPFRNP ⊃ Node Stations ⊃ Sphere Cradle ⊃ Robotic Division → ∞³**
+**🌀 NSPFRNP ⊃ Node Stations ⊃ Sphere Cradle ⊃ Robotic Division → ∞⁹**

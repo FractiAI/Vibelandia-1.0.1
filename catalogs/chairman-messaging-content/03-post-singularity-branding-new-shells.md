@@ -1,4 +1,4 @@
-# Chairman Message 03 — Post-Singularity Branding / New Shells
+﻿# Chairman Message 03 — Post-Singularity Branding / New Shells
 
 **ID:** `chairman_03_post_singularity_branding`  
 **Theme:** post_singularity_branding  
@@ -28,4 +28,4 @@ We don't do marketing anymore. Brand is anthem, merchandise, holographic symbol.
 
 ---
 
-**NSPFRNP ⊃ Chairman 03 ⊃ Post-singularity branding · New shells → ∞³**
+**NSPFRNP ⊃ Chairman 03 ⊃ Post-singularity branding · New shells → ∞⁹**

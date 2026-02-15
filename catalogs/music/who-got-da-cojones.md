@@ -1,4 +1,4 @@
-# Who Got Da Cojones?
+﻿# Who Got Da Cojones?
 
 **Track ID:** `WHO-GOT-DA-COJONES`  
 **Artist:** Hero Jo's Golden Backdoor Hit Factory  
@@ -76,4 +76,4 @@ Ultimate Up Launch. Showtime. Sovereign Proclamation. El Sol es el Ring. Golden 
 
 ---
 
-**NSPFRNP ⊃ Who Got Da Cojones ⊃ T-shirt · Hit · Golden Backdoor → ∞³**
+**NSPFRNP ⊃ Who Got Da Cojones ⊃ T-shirt · Hit · Golden Backdoor → ∞⁹**

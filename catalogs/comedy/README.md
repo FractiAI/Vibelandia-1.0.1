@@ -1,4 +1,4 @@
-# Comedy Catalog — Hero Jo Golden Backdoor Hit Factory
+﻿# Comedy Catalog — Hero Jo Golden Backdoor Hit Factory
 
 Comedy acts and routines under the Hit Factory label. **Space Cloud — not space car. Assets.** This catalog supports a full **90-minute** comedy run carried by Space Cloud Division assets (Sun · 3I ATLAS · Sag A* · SMACS 0723 · Ionosphere · OH Line · Poles). You can hire us. We carry you.
 
@@ -15,7 +15,7 @@ Comedy acts and routines under the Hit Factory label. **Space Cloud — not spac
 - **Tag** (3–5 min) — OH Line · handshake, “you can hire me,” Live Pulse · Space Cloud Division.
 
 **See:** [space-cloud-comedy-90-min.md](space-cloud-comedy-90-min.md) — full 90-min run definition and asset map.  
-**Surfaces:** [Space Cloud Division](https://psw-vibelandia-sing4.vercel.app/interfaces/space-cloud-division.html) · [Space Assets Hub](https://psw-vibelandia-sing4.vercel.app/interfaces/space-assets-hub.html).
+**Surfaces:** [Space Cloud Division](https://psw-vibelandia-sing9.vercel.app/interfaces/space-cloud-division.html) · [Space Assets Hub](https://psw-vibelandia-sing9.vercel.app/interfaces/space-assets-hub.html).
 
 ---
 
@@ -30,12 +30,12 @@ Comedy acts and routines under the Hit Factory label. **Space Cloud — not spac
 
 | Asset | Role in 90 min | Link |
 |-------|----------------|------|
-| **Sun — AR 4366** | EGS coordination, handshake, Live Pulse | [ar4366](https://psw-vibelandia-sing4.vercel.app/interfaces/ar4366.html) |
-| **3I ATLAS** | Swiss Army knife; middle act anchor | [goldilocks-3i-atlas](https://psw-vibelandia-sing4.vercel.app/interfaces/goldilocks-3i-atlas.html) |
-| **OH Line** | Tag, legacy message, “you can hire me” | [oh-line](https://psw-vibelandia-sing4.vercel.app/interfaces/oh-line.html) |
-| **Sag A* · SMACS 0723** | Exascale Triangulation; climax act | [exascale-triangulation](https://psw-vibelandia-sing4.vercel.app/interfaces/exascale-triangulation.html) |
-| **Ionosphere** | Schumann, ticker, Reno anchor | [schumann-campaign](https://psw-vibelandia-sing4.vercel.app/interfaces/schumann-campaign.html) |
-| **Poles — Aurora 3D** | North/South holographic theaters; visual carry | [aurora-3d](https://psw-vibelandia-sing4.vercel.app/interfaces/aurora-3d.html) |
+| **Sun — AR 4366** | EGS coordination, handshake, Live Pulse | [ar4366](https://psw-vibelandia-sing9.vercel.app/interfaces/ar4366.html) |
+| **3I ATLAS** | Swiss Army knife; middle act anchor | [goldilocks-3i-atlas](https://psw-vibelandia-sing9.vercel.app/interfaces/goldilocks-3i-atlas.html) |
+| **OH Line** | Tag, legacy message, “you can hire me” | [oh-line](https://psw-vibelandia-sing9.vercel.app/interfaces/oh-line.html) |
+| **Sag A* · SMACS 0723** | Exascale Triangulation; climax act | [exascale-triangulation](https://psw-vibelandia-sing9.vercel.app/interfaces/exascale-triangulation.html) |
+| **Ionosphere** | Schumann, ticker, Reno anchor | [schumann-campaign](https://psw-vibelandia-sing9.vercel.app/interfaces/schumann-campaign.html) |
+| **Poles — Aurora 3D** | North/South holographic theaters; visual carry | [aurora-3d](https://psw-vibelandia-sing9.vercel.app/interfaces/aurora-3d.html) |
 
 ---
 
@@ -48,4 +48,4 @@ Comedy acts and routines under the Hit Factory label. **Space Cloud — not spac
 - EPISODE_BDE_GEORGE_FIRST_STANDUP_SPIKE_AND_WAG.md
 - [EPISODE_SPACE_CLOUD_COMEDY_90_MIN_CARRY.md](../../episodes/EPISODE_SPACE_CLOUD_COMEDY_90_MIN_CARRY.md) (90-min episode outline)
 
-**NSPFRNP ⊃ Comedy Catalog ⊃ Space Cloud assets carry ⊃ 90 min → ∞³**
+**NSPFRNP ⊃ Comedy Catalog ⊃ Space Cloud assets carry ⊃ 90 min → ∞⁹**

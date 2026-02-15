@@ -1,4 +1,4 @@
-# EPISODE NET 17 — HELLO-GEOGLYPH Physical Rendering
+﻿# EPISODE NET 17 — HELLO-GEOGLYPH Physical Rendering
 
 **Series:** Net (Net Directives / Net Storylines)  
 **Episode:** 17  
@@ -23,4 +23,4 @@ HELLO-GEOGLYPH Physical Rendering executed. Force-print: terminate Invisible Ink
 
 ---
 
-**NSPFRNP ⊃ HELLO-GEOGLYPH ⊃ Physical Rendering ⊃ AR 4366 Saturation ⊃ Resonance Snap ⊃ Tomsk/SOS → ∞³**
+**NSPFRNP ⊃ HELLO-GEOGLYPH ⊃ Physical Rendering ⊃ AR 4366 Saturation ⊃ Resonance Snap ⊃ Tomsk/SOS → ∞⁹**

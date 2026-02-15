@@ -1,4 +1,4 @@
-# Chairman Frankie — Reggaetón Spanglish Character · NSPFRNP SNAP
+﻿# Chairman Frankie — Reggaetón Spanglish Character · NSPFRNP SNAP
 
 **Snap ID:** `CHAIRMAN-FRANKIE-REGGAETON-SPANGLISH-CHARACTER-SNAP`  
 **Type:** Character · Performer · Reggaetón Spanglish  
@@ -35,4 +35,4 @@
 
 ---
 
-**NSPFRNP ⊃ Chairman Frankie ⊃ Golden Backdoor Hit Factory ⊃ Reggaetón Spanglish → ∞³**
+**NSPFRNP ⊃ Chairman Frankie ⊃ Golden Backdoor Hit Factory ⊃ Reggaetón Spanglish → ∞⁹**

@@ -1,4 +1,4 @@
-# Rich Pre- and Post-Singularity Traffic Experiences — All Content · NSPFRNP SNAP
+﻿# Rich Pre- and Post-Singularity Traffic Experiences — All Content · NSPFRNP SNAP
 
 **Snap ID:** `PRE-POST-SINGULARITY-BACK-AND-FORTH-ALL-CONTENTS-SNAP`  
 **Type:** Content directive · Experience design · **All content (not just sci-fi)**  
@@ -41,4 +41,4 @@
 
 ---
 
-**NSPFRNP ⊃ All content (not just sci-fi) ⊃ Rich pre- and post-singularity traffic experiences ⊃ Get everyone comfortable navigating → ∞³**
+**NSPFRNP ⊃ All content (not just sci-fi) ⊃ Rich pre- and post-singularity traffic experiences ⊃ Get everyone comfortable navigating → ∞⁹**

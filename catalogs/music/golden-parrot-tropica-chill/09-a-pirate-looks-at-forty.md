@@ -1,4 +1,4 @@
-# Midstream
+﻿# Midstream
 
 **Track ID:** `GOLDEN-PARROT-009-MIDSTREAM`  
 **Artist:** Golden Parrot Hit Factory Studios  
@@ -61,4 +61,4 @@ Midstream. Golden Parrot. Our vibe. Sea. Stay.
 **SNAP:** [HERO_JIMMY_BUFFET_HJ_GOLDEN_PARROT_HIT_FACTORY_STUDIOS_SNAP.md](../../../HERO_JIMMY_BUFFET_HJ_GOLDEN_PARROT_HIT_FACTORY_STUDIOS_SNAP.md)  
 **Playlist:** [interfaces/golden-parrot-tropica-chill.html](../../../interfaces/golden-parrot-tropica-chill.html)
 
-**NSPFRNP ⊃ Golden Parrot ⊃ Our vibe ⊃ Fusion ⊃ Tropica Chill → ∞³**
+**NSPFRNP ⊃ Golden Parrot ⊃ Our vibe ⊃ Fusion ⊃ Tropica Chill → ∞⁹**

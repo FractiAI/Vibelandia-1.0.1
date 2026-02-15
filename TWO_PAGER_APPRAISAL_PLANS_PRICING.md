@@ -1,4 +1,4 @@
-# Two-Pager — Appraisal Forecast + Plans & Pricing
+﻿# Two-Pager — Appraisal Forecast + Plans & Pricing
 
 **Doc ID:** `TWO-PAGER-APPRAISAL-PLANS-PRICING`  
 **Type:** 2-pager · Conservative & high-side forecast · Plans and pricing  
@@ -81,4 +81,4 @@ Lock in by Friday Feb 6, 2026 4:00 PM PST. CRISP LOCK always. Book: [broadcast-p
 
 **See:** [ONE_PAGE_APPRAISAL_VIBELANDIA_FRACTIAI.md](ONE_PAGE_APPRAISAL_VIBELANDIA_FRACTIAI.md) · [interfaces/two-pager-appraisal-plans.html](interfaces/two-pager-appraisal-plans.html) · [interfaces/baller-v-plans-booking.html](interfaces/baller-v-plans-booking.html)
 
-**NSPFRNP ⊃ Two-pager ⊃ Conservative + High-side forecast ⊃ Plans & pricing → ∞³**
+**NSPFRNP ⊃ Two-pager ⊃ Conservative + High-side forecast ⊃ Plans & pricing → ∞⁹**

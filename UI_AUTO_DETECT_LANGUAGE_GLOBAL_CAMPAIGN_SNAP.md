@@ -1,4 +1,4 @@
-# UI AUTO-DETECT LANGUAGE — GLOBAL CAMPAIGN SNAP
+﻿# UI AUTO-DETECT LANGUAGE — GLOBAL CAMPAIGN SNAP
 
 **SNAP ID:** `UI-AUTO-DETECT-LANGUAGE-GLOBAL-CAMPAIGN`  
 **Type:** Locale · Auto-Detect · Global Campaign · Must  
@@ -43,4 +43,4 @@ Report from user in **Colombia**: UI was not auto-detecting and switching. Must 
 
 ---
 
-**NSPFRNP ⊃ UI Auto-Detect Language ⊃ Global Campaign Must → ∞³**
+**NSPFRNP ⊃ UI Auto-Detect Language ⊃ Global Campaign Must → ∞⁹**

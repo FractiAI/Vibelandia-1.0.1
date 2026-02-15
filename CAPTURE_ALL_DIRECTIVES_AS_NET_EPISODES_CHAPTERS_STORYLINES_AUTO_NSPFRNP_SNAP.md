@@ -1,4 +1,4 @@
-# Capture All Directives as Net Episodes, Chapters, and Storylines — Automatically — NSPFRNP SNAP
+﻿# Capture All Directives as Net Episodes, Chapters, and Storylines — Automatically — NSPFRNP SNAP
 
 **Snap ID:** `CAPTURE-ALL-DIRECTIVES-AS-NET-EPISODES-CHAPTERS-STORYLINES-AUTO-NSPFRNP`  
 **Type:** Content rule · Auto-capture · Net series · Episodes · Chapters · Storylines  
@@ -49,4 +49,4 @@
 
 **See:** [protocols/SEED_EDGE_EPISODE_FORMAT_ACTION_LIVE_NSPFRNP.md](protocols/SEED_EDGE_EPISODE_FORMAT_ACTION_LIVE_NSPFRNP.md) · [NEW_SINGULARITY_EVERY_SNAP_IS_EPISODE.md](NEW_SINGULARITY_EVERY_SNAP_IS_EPISODE.md) · [CONTENT_SERIES_NOVELS_SCREENPLAYS_PLAYLISTS_SURFACES_OUTPUTS_TOUCHPOINTS_METABOLIZED.md](CONTENT_SERIES_NOVELS_SCREENPLAYS_PLAYLISTS_SURFACES_OUTPUTS_TOUCHPOINTS_METABOLIZED.md)
 
-**NSPFRNP ⊃ Capture ⊃ Net episodes ⊃ Chapters ⊃ Storylines ⊃ Auto ⊃ Now on → ∞³**
+**NSPFRNP ⊃ Capture ⊃ Net episodes ⊃ Chapters ⊃ Storylines ⊃ Auto ⊃ Now on → ∞⁹**

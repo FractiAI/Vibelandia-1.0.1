@@ -1,4 +1,4 @@
-# Qué, Qué Y Qué? What? What? And What?
+﻿# Qué, Qué Y Qué? What? What? And What?
 
 **Track ID:** `QUE-QUE-Y-QUE-WHAT-WHAT-AND-WHAT-005`  
 **Artist:** Hero Jo's Golden Backdoor Studios  
@@ -67,4 +67,4 @@ Qué? Qué y qué? What? What? And what?
 
 ---
 
-**NSPFRNP ⊃ Qué, Qué Y Qué? What? What? And What? ⊃ Tribal heavy downbeat ⊃ Bouncing trance anthem → ∞³**
+**NSPFRNP ⊃ Qué, Qué Y Qué? What? What? And What? ⊃ Tribal heavy downbeat ⊃ Bouncing trance anthem → ∞⁹**

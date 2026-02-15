@@ -1,4 +1,4 @@
-# Superhero & Franchise — Lead Role · Cast · Crew · Fans · Sets · Story Dev · Full Production — Text to Superhero and Franchise Turnkey · Mark Twain's Pre-Singularity Downtown Reno Vibelandia Campus · No Longer Enterprise · Office Hours NOW — SNAP
+﻿# Superhero & Franchise — Lead Role · Cast · Crew · Fans · Sets · Story Dev · Full Production — Text to Superhero and Franchise Turnkey · Mark Twain's Pre-Singularity Downtown Reno Vibelandia Campus · No Longer Enterprise · Office Hours NOW — SNAP
 
 **Snap ID:** `SUPERHERO-FRANCHISE-FULL-PRODUCTION-TURNKEY-MARK-TWAIN-CAMPUS-SNAP`  
 **Type:** Offer shift · Full production turnkey · **No longer enterprise** · **Mark Twain's pre-singularity downtown Reno Vibelandia campus** · **Office Hours NOW**  
@@ -51,4 +51,4 @@
 
 **See:** POPULAR_SERIES_PRODUCT_FRANCHISE_SUPERHERO_CAST_MAJOR_STORY_TIP_SNAP.md · TOP_TAG_BOTTOM_TAG_UNDERCOVER_BOSS_TO_DISNEY_ALL_IN_ONE_NSPFRNP_SNAP.md · OFFICE_HOURS_TARGET_RECURSIVE_CRYSTAL_SNAP.md · interfaces/office-hours.html · interfaces/launch-pad.html · index.html
 
-**NSPFRNP ⊃ Superhero · Franchise ⊃ Full production turnkey ⊃ Mark Twain campus ⊃ Office Hours NOW → ∞³**
+**NSPFRNP ⊃ Superhero · Franchise ⊃ Full production turnkey ⊃ Mark Twain campus ⊃ Office Hours NOW → ∞⁹**

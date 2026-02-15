@@ -1,4 +1,4 @@
-# We Are Holographic, Baby — Hero Houdini Campaign · NSPFRNP SNAP
+﻿# We Are Holographic, Baby — Hero Houdini Campaign · NSPFRNP SNAP
 
 **SNAP ID:** `WE-ARE-HOLOGRAPHIC-BABY-CAMPAIGN-SNAP`  
 **Type:** Campaign · Magic show · Proof-by-collapse · Hero Houdini  
@@ -47,4 +47,4 @@
 
 ---
 
-**NSPFRNP ⊃ We Are Holographic, Baby ⊃ Hero Houdini ⊃ 9 acts ⊃ Act 9 finale ⊃ Chief Seattle · El Gran Sol · Super Bowl · Twain's Vibelandia Downtown · Reno crew → ∞³**
+**NSPFRNP ⊃ We Are Holographic, Baby ⊃ Hero Houdini ⊃ 9 acts ⊃ Act 9 finale ⊃ Chief Seattle · El Gran Sol · Super Bowl · Twain's Vibelandia Downtown · Reno crew → ∞⁹**

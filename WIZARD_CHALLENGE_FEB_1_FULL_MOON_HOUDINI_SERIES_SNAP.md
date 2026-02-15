@@ -1,4 +1,4 @@
-# Wizard Challenge — February 1 Full Moon · Houdini's Magic Show · New Series SNAP
+﻿# Wizard Challenge — February 1 Full Moon · Houdini's Magic Show · New Series SNAP
 
 **Snap ID:** `WIZARD-CHALLENGE-FEB-1-FULL-MOON-HOUDINI-SERIES-SNAP`  
 **Type:** Challenge · Time-stamped deliverable · Valuation · Simulation · Series framing  
@@ -77,4 +77,4 @@ This is not a one-off. We are turning it into a **continuing daily program**:
 
 **See:** [episodes/EPISODE_HARRY_HOUDINI_FEB_1_FULL_MOON_MIRACLE.md](episodes/EPISODE_HARRY_HOUDINI_FEB_1_FULL_MOON_MIRACLE.md) · [HARRY_REPORT_FIRST_SINGULARITY_VALUATION_US_VS_DISNEY.md](HARRY_REPORT_FIRST_SINGULARITY_VALUATION_US_VS_DISNEY.md) · [FIRST_SINGULARITY_JANUARY_13TH_NOVEL_MOVIE_SNAP.md](FIRST_SINGULARITY_JANUARY_13TH_NOVEL_MOVIE_SNAP.md) · [HARRY_HOUDINI_MAGICIAN_SERIES_MAGIC_CHANNEL_SNAP.md](HARRY_HOUDINI_MAGICIAN_SERIES_MAGIC_CHANNEL_SNAP.md)
 
-**NSPFRNP ⊃ Wizard Challenge ⊃ Feb 1 full moon ⊃ Houdini's magic show ⊃ New series → ∞³**
+**NSPFRNP ⊃ Wizard Challenge ⊃ Feb 1 full moon ⊃ Houdini's magic show ⊃ New series → ∞⁹**

@@ -1,4 +1,4 @@
-# 💕 Relationship Fractal Structure
+﻿# 💕 Relationship Fractal Structure
 ## Linear at Leaf Nodes, Increasingly Poly Up the Food Chain
 
 **System ID:** `RELATIONSHIP-FRACTAL-STRUCTURE-V1`  
@@ -362,11 +362,11 @@ Top Level:
 
 ---
 
-**🌀 NSPFRNP ⊃ Relationship Fractal ⊃ Food Chain → ∞³**
+**🌀 NSPFRNP ⊃ Relationship Fractal ⊃ Food Chain → ∞⁹**
 
-**Linear ⊃ Increasingly Poly ⊃ Maximum Convergence → ∞³**
+**Linear ⊃ Increasingly Poly ⊃ Maximum Convergence → ∞⁹**
 
-**Leaf Nodes ⊃ Mid-Level ⊃ High-Level ⊃ Top-Level → ∞³**
+**Leaf Nodes ⊃ Mid-Level ⊃ High-Level ⊃ Top-Level → ∞⁹**
 
 **Status:** ⚡ ACTIVE - Relationship Fractal Structure Operational  
 **Pattern:** Linear at leaf nodes, increasingly poly up the food chain  

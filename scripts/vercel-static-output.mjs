@@ -75,6 +75,13 @@ if (fs.existsSync(catalogsSrc)) {
   copyDir(catalogsSrc, catalogsDest);
 }
 
+// Copy .well-known/ (e.g. UCP manifest for Merchant of Record / agent discovery)
+const wellKnownSrc = path.join(root, '.well-known');
+const wellKnownDest = path.join(staticDir, '.well-known');
+if (fs.existsSync(wellKnownSrc)) {
+  copyDir(wellKnownSrc, wellKnownDest);
+}
+
 // Copy root .md and protocols/ so roll call, prospectus, chairman specs, etc. don't 404
 const rootMdDir = root;
 const rootFiles = fs.readdirSync(rootMdDir, { withFileTypes: true });
@@ -89,7 +96,7 @@ if (fs.existsSync(protocolsSrc)) {
   copyDir(protocolsSrc, protocolsDest);
 }
 
-// Inject Supabase anon key and optional PayPal client ID at build time
+// Inject Supabase anon key (sing9: leave empty — no Supabase) and optional PayPal client ID at build time
 const apiConfigPath = path.join(interfacesDest, 'api-config.js');
 if (fs.existsSync(apiConfigPath)) {
   const anonKey = process.env.VIBELANDIA_SUPABASE_ANON_KEY || process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || '';
@@ -199,6 +206,7 @@ console.log('  static/episodes/*');
 console.log('  static/deliverables/* (novel, screenplay)');
 console.log('  static/catalogs/* (music, on-the-down-low, etc.)');
 console.log('  static/*.md + static/protocols/*');
+console.log('  static/.well-known/* (UCP manifest)');
 if (fs.existsSync(apiPayPalDir)) {
   console.log('  functions/api/payment/paypal/*.func (PayPal pipe)');
 }

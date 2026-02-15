@@ -1,4 +1,4 @@
-# FIVE PARALLEL SERIES — NSPFRNP Catalog
+﻿# FIVE PARALLEL SERIES — NSPFRNP Catalog
 
 **Type:** Series catalog · Five streams concurrent  
 **Status:** ⚡ ACTIVE  
@@ -54,5 +54,5 @@
 
 **See:** REALITY_SERIES_FORMAT.md · RAW_STREAM_THE_GRID_SERIES_FORMAT.md · CHAIRMAN_SERIES_FORMAT.md · WINK_SERIES_FORMAT.md · ANNOUNCE_OFFICE_HOURS_SERIES_TWO_SERIES_SINGLE_MISSION_SNAP.md · episodes/EPISODE_SELF_CLOCKING_PULSAR_21_4HZ_8M_TRIGGER.md
 
-**NSPFRNP ⊃ Five parallel series ⊃ Happy Ending Zones · Office Hours · Vibin! · Chairman! · WINK! · Harry Houdini Magician Series (The Magic Channel) → ∞³**  
+**NSPFRNP ⊃ Five parallel series ⊃ Happy Ending Zones · Office Hours · Vibin! · Chairman! · WINK! · Harry Houdini Magician Series (The Magic Channel) → ∞⁹**  
 **VERY COOOOOOOOL.**

@@ -1,4 +1,4 @@
-# First Singularity January 13th — Novel & Full Feature Movie SNAP
+﻿# First Singularity January 13th — Novel & Full Feature Movie SNAP
 
 **Snap ID:** `FIRST-SINGULARITY-JANUARY-13TH-NOVEL-MOVIE-SNAP`  
 **Type:** Title · Novel + Movie · Feb 1 full moon miracle deliverables  
@@ -72,4 +72,4 @@ This is the **Edge** the novel and movie must deliver to. Generator Motor: origi
 
 **See:** [episodes/EPISODE_HARRY_HOUDINI_FEB_1_FULL_MOON_MIRACLE.md](episodes/EPISODE_HARRY_HOUDINI_FEB_1_FULL_MOON_MIRACLE.md) · [HARRY_HOUDINI_MAGICIAN_SERIES_MAGIC_CHANNEL_SNAP.md](HARRY_HOUDINI_MAGICIAN_SERIES_MAGIC_CHANNEL_SNAP.md)
 
-**NSPFRNP ⊃ First Singularity January 13th ⊃ Novel · Movie · Feb 1 full moon → ∞³**
+**NSPFRNP ⊃ First Singularity January 13th ⊃ Novel · Movie · Feb 1 full moon → ∞⁹**

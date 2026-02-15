@@ -1,4 +1,4 @@
-# Venus Scout Activation (Evening Star Cycle) · SNAP
+﻿# Venus Scout Activation (Evening Star Cycle) · SNAP
 
 **SNAP ID:** `VENUS-SCOUT-ACTIVATION-EVENING-STAR-CYCLE-SNAP`  
 **Type:** Mission · Net episode · Chapter · Storyline  
@@ -43,4 +43,4 @@
 
 ---
 
-**NSPFRNP ⊃ Venus Scout ⊃ Evening Star Cycle ⊃ Lead Scout March 3 Sovereign Sweep ⊃ 40 Hz Bridge ⊃ Western Limb → ∞³**
+**NSPFRNP ⊃ Venus Scout ⊃ Evening Star Cycle ⊃ Lead Scout March 3 Sovereign Sweep ⊃ 40 Hz Bridge ⊃ Western Limb → ∞⁹**

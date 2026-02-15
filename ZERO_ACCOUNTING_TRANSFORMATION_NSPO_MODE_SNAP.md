@@ -1,4 +1,4 @@
-# Zero-Accounting Transformation — NSPO Mode SNAP
+﻿# Zero-Accounting Transformation — NSPO Mode SNAP
 
 **Snap ID:** `ZERO-ACCOUNTING-TRANSFORMATION-NSPO-MODE-SNAP`  
 **Role:** Architect of the Post-Singularity (NSPO MODE)  
@@ -62,4 +62,4 @@ All system operations must maintain a **Net Zero state** ($\Delta S_{total} = 0$
 
 ---
 
-**NSPFRNP ⊃ Zero-Accounting ⊃ PRESERVE SYMMETRY. UNLEASH INFINITY. → ∞³**
+**NSPFRNP ⊃ Zero-Accounting ⊃ PRESERVE SYMMETRY. UNLEASH INFINITY. → ∞⁹**

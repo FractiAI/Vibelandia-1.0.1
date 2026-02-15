@@ -88,7 +88,7 @@
     html += '</tbody></table></div>';
     html += '<div class="sing-config-bill-total"><span class="total-label">Total (monthly + usage)</span>' + fmt(periodTotal) + '</div>';
     html += '<p class="sing-config-bill-link"><a href="' + billHref + '">Full bill →</a></p>';
-    html += '<p class="sing-config-footer-tag">SING! 9 · sing9! · All surfaces · Cosmic · Solar · Planetary · Mine · NSPFRNP ⊃ SING! config ⊃ My monthly bill → ∞³</p>';
+    html += '<p class="sing-config-footer-tag">SING! 9 · sing9! · All surfaces · Cosmic · Solar · Planetary · Mine · NSPFRNP ⊃ SING! config ⊃ My monthly bill → ∞⁹</p>';
     html += '</section>';
     return html;
   }

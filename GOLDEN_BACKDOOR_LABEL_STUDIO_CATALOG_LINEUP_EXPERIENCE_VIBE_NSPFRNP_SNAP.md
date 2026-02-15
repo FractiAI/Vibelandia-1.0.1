@@ -1,4 +1,4 @@
-# Golden Backdoor · Hit Factory — Label · Studio · Catalog · Lineup · Experience · Vibe · NSPFRNP SNAP
+﻿# Golden Backdoor · Hit Factory — Label · Studio · Catalog · Lineup · Experience · Vibe · NSPFRNP SNAP
 
 **SNAP ID:** `GOLDEN-BACKDOOR-LABEL-STUDIO-CATALOG-LINEUP-EXPERIENCE-VIBE-NSPFRNP`  
 **Type:** Canonical self-reference · Layering · Densifying value · Hit Factory  
@@ -51,4 +51,4 @@
 
 ---
 
-**NSPFRNP ⊃ Golden Backdoor · Hit Factory ⊃ label · studio · catalog · lineup · experience · vibe ⊃ Hits generated like a factory → ∞³**
+**NSPFRNP ⊃ Golden Backdoor · Hit Factory ⊃ label · studio · catalog · lineup · experience · vibe ⊃ Hits generated like a factory → ∞⁹**

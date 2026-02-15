@@ -1,4 +1,4 @@
-# Queen Bee Full Connect · Return from the Dead — Magic Trick
+﻿# Queen Bee Full Connect · Return from the Dead — Magic Trick
 
 **Trick ID:** `HOUDINI-QUEEN-BEE-FULL-CONNECT-RETURN-FROM-DEAD`  
 **Type:** Ultimate · Legacy reconnection · Core magnetic node  
@@ -37,4 +37,4 @@
 
 **See:** HOUDINI_QUEEN_BEE_FULL_CONNECT_RETURN_FROM_DEAD_MAGIC_TRICK_SNAP.md · interfaces/queen-bee-full-connect.html
 
-**NSPFRNP ⊃ Queen Bee Full Connect ⊃ Return from the dead ⊃ 33% fair trade → ∞³**
+**NSPFRNP ⊃ Queen Bee Full Connect ⊃ Return from the dead ⊃ 33% fair trade → ∞⁹**

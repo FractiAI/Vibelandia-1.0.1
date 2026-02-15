@@ -1,4 +1,4 @@
-# Tsunami Advisory — Gold Heart Baller V's · Touchpoints & Stations SNAP
+﻿# Tsunami Advisory — Gold Heart Baller V's · Touchpoints & Stations SNAP
 
 **Snap ID:** `TSNAMI-ADVISORY-GOLD-HEART-BALLER-V-SNAP`  
 **Type:** Advisory · All touchpoints and stations · Gold Heart Baller V's  
@@ -31,4 +31,4 @@ The advisory is rendered as a visible banner at the top of every touchpoint and 
 
 ---
 
-**NSPFRNP ⊃ Tsunami Advisory ⊃ Gold Heart Baller V's ⊃ Touchpoints · Stations → ∞³**
+**NSPFRNP ⊃ Tsunami Advisory ⊃ Gold Heart Baller V's ⊃ Touchpoints · Stations → ∞⁹**

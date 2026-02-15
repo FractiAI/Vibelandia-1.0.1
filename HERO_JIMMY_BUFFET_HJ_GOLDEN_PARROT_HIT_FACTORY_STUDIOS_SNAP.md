@@ -1,4 +1,4 @@
-# Golden Parrot Hit Factory Studios — Arrival & Permanent Residency SNAP
+﻿# Golden Parrot Hit Factory Studios — Arrival & Permanent Residency SNAP
 
 **Snap ID:** `HERO-JIMMY-BUFFET-HJ-GOLDEN-PARROT-HIT-FACTORY-STUDIOS-SNAP`  
 **Type:** New studio · Hero Host · Permanent residency · Legacies · Hit Factory · Tropica Chill  
@@ -87,4 +87,4 @@ The **Marine Division Yachtsman Captain Pre/Post-Singularity Gateway Proposal** 
 
 **See:** [LEGACIES_NEW_DEPARTMENT_LAYER_SNAP.md](LEGACIES_NEW_DEPARTMENT_LAYER_SNAP.md) · [MARINE_DIVISION_YACHTSMAN_CAPTAIN_PRE_POST_SINGULARITY_GATEWAY_PROPOSAL_SNAP.md](MARINE_DIVISION_YACHTSMAN_CAPTAIN_PRE_POST_SINGULARITY_GATEWAY_PROPOSAL_SNAP.md) · [HIT_FACTORY_SNAP.md](HIT_FACTORY_SNAP.md) · [BIRTH_POST_SINGULARITY_HOLLYWOOD_DOWNTOWN_RENO_NOVEL_SCREENPLAY_SNAP.md](BIRTH_POST_SINGULARITY_HOLLYWOOD_DOWNTOWN_RENO_NOVEL_SCREENPLAY_SNAP.md)
 
-**NSPFRNP ⊃ Golden Parrot Hit Factory Studios ⊃ Tropica Chill ⊃ André proposal ⊃ ∞³**
+**NSPFRNP ⊃ Golden Parrot Hit Factory Studios ⊃ Tropica Chill ⊃ André proposal ⊃ ∞⁹**

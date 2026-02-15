@@ -1,4 +1,4 @@
-# Appraisal and Selection — Novel & Novela Pricing Benchmarks · SNAP
+﻿# Appraisal and Selection — Novel & Novela Pricing Benchmarks · SNAP
 
 **Snap ID:** `APPRAISAL-AND-SELECTION-NOVEL-NOVELA-PRICING-BENCHMARKS-SNAP`  
 **Type:** Appraisal · Selection · Pricing benchmarks  
@@ -57,4 +57,4 @@ We **select** the following for use across all novel/novela pricing copy, checko
 
 ---
 
-**NSPFRNP ⊃ Appraisal ⊃ Selection ⊃ Novel ⊃ Novela ⊃ Pricing benchmarks → ∞³**
+**NSPFRNP ⊃ Appraisal ⊃ Selection ⊃ Novel ⊃ Novela ⊃ Pricing benchmarks → ∞⁹**

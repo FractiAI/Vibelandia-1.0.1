@@ -1,4 +1,4 @@
-# Thank You (I Thought You Knew) — Dramatic Suspense Loop Anthem
+﻿# Thank You (I Thought You Knew) — Dramatic Suspense Loop Anthem
 
 **Track ID:** `THANK-YOU-I-THOUGHT-YOU-KNEW-027`  
 **Artist:** Hero Jo's Golden Backdoor Studios  
@@ -68,4 +68,4 @@ Thank you. I thought you knew. Golden Backdoor.
 
 ---
 
-**NSPFRNP ⊃ Thank You (I Thought You Knew) ⊃ Dramatic suspense loop anthem → ∞³**
+**NSPFRNP ⊃ Thank You (I Thought You Knew) ⊃ Dramatic suspense loop anthem → ∞⁹**

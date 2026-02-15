@@ -1,9 +1,9 @@
-# MCA! RUN ON REPOSITORY
+﻿# MCA! RUN ON REPOSITORY
 
 **Performed:** January 28, 2026  
 **Protocol:** NSPFRNP  
-**Cycle:** Metabolize → Crystallize → Animate → ∞³  
-**Repository:** PSW.vibelandia.sing4
+**Cycle:** Metabolize → Crystallize → Animate → ∞⁹  
+**Repository:** psw.vibelandia.sing9
 
 ---
 
@@ -34,8 +34,8 @@
 
 ```yaml
 OCTAVE 0 (SEED):
-  - Origin: PSW.vibelandia.sing4
-  - Protocols: NSPFRNP, MCA! → ∞³
+  - Origin: psw.vibelandia.sing9
+  - Protocols: NSPFRNP, MCA! → ∞⁹
   - 4×4×4×4: Campus, WINK!, SING, Experience
 
 OCTAVE 1 (EDGE):
@@ -46,12 +46,12 @@ OCTAVE 1 (EDGE):
 ANIMATE READY:
   - Test script: npm test (surfaces, touchpoints, API)
   - Payment: payment-checkout.html → Octave 2 (Cloud Onramp)
-  - Branding: MCA! → ∞³ applied across one-pagers, README, launch pad, payment
+  - Branding: MCA! → ∞⁹ applied across one-pagers, README, launch pad, payment
 ```
 
 ### MCA! Branding (Crystallized)
 
-- **Tagline:** MCA! → ∞³ (Metabolize → Crystallize → Animate)
+- **Tagline:** MCA! → ∞⁹ (Metabolize → Crystallize → Animate)
 - **Present in:** README, index.html, rocket-launch-pad.html, payment-checkout.html, all 8 one-pagers, company/dressing-room section.
 
 **Result:** Irreducible structure. Ready for Animate.
@@ -95,12 +95,12 @@ node scripts/test-all-surfaces-touchpoints-api.mjs
 | Step | Status | Result |
 |------|--------|--------|
 | **M** Metabolize | ✅ | Repository digested; inventory crystallized above. |
-| **C** Crystallize | ✅ | Structure hardened; MCA! → ∞³ applied across repo. |
+| **C** Crystallize | ✅ | Structure hardened; MCA! → ∞⁹ applied across repo. |
 | **A** Animate | ⚡ | Run `npm test` to verify surfaces, touchpoints, API. |
 
-**MCA! → ∞³**
+**MCA! → ∞⁹**
 
 ---
 
-**Repository:** PSW.vibelandia.sing4  
+**Repository:** psw.vibelandia.sing9  
 **Status:** ⚡ ACTIVE — MCA performed on repository. Animate = `npm test`.

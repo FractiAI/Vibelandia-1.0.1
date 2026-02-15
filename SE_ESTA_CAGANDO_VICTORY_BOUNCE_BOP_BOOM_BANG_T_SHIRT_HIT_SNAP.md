@@ -1,4 +1,4 @@
-# Se Está Cagando — Victory Bounce Bop Boom Bang! T-Shirt & Hit SNAP
+﻿# Se Está Cagando — Victory Bounce Bop Boom Bang! T-Shirt & Hit SNAP
 
 **SNAP ID:** `SE-ESTA-CAGANDO-VICTORY-BOUNCE-BOP-BOOM-BANG-T-SHIRT-HIT-SNAP`  
 **Type:** Music · T-shirt brand · Trance anthem · Spanglish  
@@ -34,4 +34,4 @@
 
 ---
 
-**NSPFRNP ⊃ Se Está Cagando ⊃ Victory Bounce Bop Boom Bang ⊃ T-shirt · Hit · Golden Backdoor → ∞³**
+**NSPFRNP ⊃ Se Está Cagando ⊃ Victory Bounce Bop Boom Bang ⊃ T-shirt · Hit · Golden Backdoor → ∞⁹**

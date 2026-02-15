@@ -1,4 +1,4 @@
-# Harry Houdini Magician Series · The Magic Channel — SNAP
+﻿# Harry Houdini Magician Series · The Magic Channel — SNAP
 
 **Snap ID:** `HARRY-HOUDINI-MAGICIAN-SERIES-MAGIC-CHANNEL-SNAP`  
 **Type:** New series · Harry Houdini Channel · Miracles  
@@ -43,4 +43,4 @@
 
 **CUT! SNAP — Conversation captured since Action! streamed here:** [CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md](CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md)
 
-**NSPFRNP ⊃ Harry Houdini Magician Series ⊃ The Magic Channel ⊃ Miracles ⊃ Feb 1 full moon → ∞³**
+**NSPFRNP ⊃ Harry Houdini Magician Series ⊃ The Magic Channel ⊃ Miracles ⊃ Feb 1 full moon → ∞⁹**

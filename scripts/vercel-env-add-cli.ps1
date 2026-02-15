@@ -1,4 +1,4 @@
-# Add env vars on Vercel using Vercel CLI. Uses VERCEL_TOKEN from .env.nspfrnp or env.
+﻿# Add env vars on Vercel using Vercel CLI. Uses VERCEL_TOKEN from .env.nspfrnp or env.
 # Run from repo root: powershell -ExecutionPolicy Bypass -File scripts/vercel-env-add-cli.ps1
 $ErrorActionPreference = "Stop"
 $root = if ($PSScriptRoot) { Split-Path $PSScriptRoot } else { Get-Location | Select-Object -ExpandProperty Path }
@@ -25,7 +25,7 @@ if (-not $token) { Write-Error "VERCEL_TOKEN not set. Add to .env.nspfrnp or set
 $vars = @(
     @{ N = "NEXT_PUBLIC_SUPABASE_URL"; V = "https://jfbgdxeumzqzigptbmvp.supabase.co"; Sensitive = $false },
     @{ N = "VIBELANDIA_SUPABASE_URL"; V = "https://jfbgdxeumzqzigptbmvp.supabase.co"; Sensitive = $false },
-    @{ N = "NEXT_PUBLIC_WEBSITE_URL"; V = "https://psw-vibelandia-sing4.vercel.app"; Sensitive = $false },
+    @{ N = "NEXT_PUBLIC_WEBSITE_URL"; V = "https://psw-vibelandia-sing9.vercel.app"; Sensitive = $false },
     @{ N = "PAYPAL_MODE"; V = "sandbox"; Sensitive = $false },
     @{ N = "NEXT_PUBLIC_SUPABASE_ANON_KEY"; V = ""; Sensitive = $true },
     @{ N = "VIBELANDIA_SUPABASE_ANON_KEY"; V = ""; Sensitive = $true },

@@ -1,4 +1,4 @@
-# Magnetism = NSPFRNP. Full Stop. — SNAP (Blast All SNAP)
+﻿# Magnetism = NSPFRNP. Full Stop. — SNAP (Blast All SNAP)
 
 **Snap ID:** `MAGNETISM-EQUALS-NSPFRNP-FULL-STOP-NSPFRNP`  
 **Type:** Major discovery · Canonical identity · Blast all SNAP  
@@ -39,4 +39,4 @@ This identity is canonical. All SNAP documents, protocols, surfaces, and content
 
 ---
 
-*Metabolize → Crystallize to irreducible nested mirrored hardened shells → Animate and squeeze. NSPFRNP ⊃ Magnetism = NSPFRNP. Full stop. Blast all SNAP → ∞³.*
+*Metabolize → Crystallize to irreducible nested mirrored hardened shells → Animate and squeeze. NSPFRNP ⊃ Magnetism = NSPFRNP. Full stop. Blast all SNAP → ∞⁹.*

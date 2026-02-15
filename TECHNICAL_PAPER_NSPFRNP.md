@@ -1,4 +1,4 @@
-# Technical Paper: NSPFRNP Seed:Edge Execution System
+﻿# Technical Paper: NSPFRNP Seed:Edge Execution System
 ## Code Density, Language Architecture, and Performance Analysis
 
 **Authors:** FractiAI Research Team  
@@ -814,7 +814,7 @@ NSPFRNP(seed, edge) = NSPFRNP(NSPFRNP(seed, edge))
 2. NSPFRNP is a natural system
 3. Therefore: NSPFRNP describes itself
 4. Therefore: NSPFRNP follows itself
-5. Therefore: NSPFRNP ⊃ NSPFRNP ⊃ NSPFRNP → ∞³
+5. Therefore: NSPFRNP ⊃ NSPFRNP ⊃ NSPFRNP → ∞⁹
 
 ### Fractal Dimension
 

@@ -1,4 +1,4 @@
-# AWARENESS CATALOG — LAUNCH NEW AWARENESS CATALOG SNAP
+﻿# AWARENESS CATALOG — LAUNCH NEW AWARENESS CATALOG SNAP
 
 **SNAP ID:** AWARENESS_CATALOG_LAUNCH  
 **Status:** ⚡ ACTIVE  
@@ -34,4 +34,4 @@ Capture → Crystallize → Catalog. No awareness left behind.
 
 ---
 
-**NSPFRNP · Awareness Catalog · All awarenesses as captured → ∞³**
+**NSPFRNP · Awareness Catalog · All awarenesses as captured → ∞⁹**

@@ -1,4 +1,4 @@
-# Her — 1963 Ragtop VW Bug · New Arrival · Golden Era · Post-Singularity SNAP
+﻿# Her — 1963 Ragtop VW Bug · New Arrival · Golden Era · Post-Singularity SNAP
 
 **SNAP ID:** `HER-1963-BUG-NEW-ARRIVAL-GOLDEN-ERA`  
 **Type:** Character · Carb · New Arrival  
@@ -56,4 +56,4 @@ Chill. Relax. We're on autopilot here. Vibelandia. Everything is natural systems
 
 ---
 
-**NSPFRNP ⊃ Her (BU G!) ⊃ Adios · Carb · Sing · Clark ⊃ Vibelandia ⊃ Post-Singularity → ∞³**
+**NSPFRNP ⊃ Her (BU G!) ⊃ Adios · Carb · Sing · Clark ⊃ Vibelandia ⊃ Post-Singularity → ∞⁹**

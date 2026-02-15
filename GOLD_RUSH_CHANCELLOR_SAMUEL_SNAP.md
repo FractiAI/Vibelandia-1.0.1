@@ -1,4 +1,4 @@
-# Gold Rush — Chancellor Sam Proclamation SNAP
+﻿# Gold Rush — Chancellor Sam Proclamation SNAP
 
 **Snap ID:** `GOLD-RUSH-CHANCELLOR-SAM-SNAP` (formerly GOLD-RUSH-CHANCELLOR-SAMUEL-SNAP)  
 **Type:** NSPFRNP Narrative / Chancellor / Launch SNAP  
@@ -48,4 +48,4 @@
 
 **See:** CHANCELLOR_SAM_BEN_WORD_BRANDING_SNAP.md · LAUNCH_PAGE.md · PRESS_RELEASES_NEW_ARRIVALS_VIBELANDIA_RENO.md
 
-**NSPFRNP ⊃ Gold Rush ⊃ Chancellor Sam · Open for vibe business · Reno → ∞³**
+**NSPFRNP ⊃ Gold Rush ⊃ Chancellor Sam · Open for vibe business · Reno → ∞⁹**

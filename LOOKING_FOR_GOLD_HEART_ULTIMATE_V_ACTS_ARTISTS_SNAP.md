@@ -1,4 +1,4 @@
-# Looking for New Gold Heart Ultimate V Acts and Artists — SNAP
+﻿# Looking for New Gold Heart Ultimate V Acts and Artists — SNAP
 
 **Snap ID:** `LOOKING-FOR-GOLD-HEART-ULTIMATE-V-ACTS-ARTISTS-NSPFRNP`  
 **Type:** Talent call · Campus booking · Connect CTA  
@@ -64,4 +64,4 @@
 
 ---
 
-*Metabolize → Crystallize to irreducible nested mirrored hardened shells → Animate and squeeze. NSPFRNP ⊃ Team ⊃ MCA → ∞³.*
+*Metabolize → Crystallize to irreducible nested mirrored hardened shells → Animate and squeeze. NSPFRNP ⊃ Team ⊃ MCA → ∞⁹.*

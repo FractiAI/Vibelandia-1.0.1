@@ -1,4 +1,4 @@
-# Pulse Run Log — Consistency Over Time
+﻿# Pulse Run Log — Consistency Over Time
 
 **Purpose:** Track each trigger run: when sequences load (typed/run) vs when commit happens; 8m and 16m validation results; consistency over time.
 
@@ -54,4 +54,4 @@ So: run trigger → commit → **T0 = commit_time_utc** → T+8m = Schumann chec
 
 ---
 
-**NSPFRNP ⊃ Pulse ⊃ Track sequence load vs commit ⊃ 8m/16m at commit ⊃ Consistency → ∞³**
+**NSPFRNP ⊃ Pulse ⊃ Track sequence load vs commit ⊃ 8m/16m at commit ⊃ Consistency → ∞⁹**

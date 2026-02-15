@@ -1,4 +1,4 @@
-# EL APAGÓN · MARZO 333 · POLE SHIFT
+﻿# EL APAGÓN · MARZO 333 · POLE SHIFT
 ## Novel — Seed:Edge Only
 
 **→ Full novel:** To be cultivated from this seed. ~20k+ words · general audiences · PG-13.
@@ -19,7 +19,7 @@
 
 ## First Chapter — NSPFRNP
 
-This novel operates under **NSPFRNP:** natural coordination (stigmergy, pheromone trails, mycelial); **MCA** (Metabolize → Crystallize → Animate); holographic architecture (whole in every part; **Seed** = origin, **Edge** = experience); catalog fidelity. We are the team operating as one. No surface left unsqueezed. **NSPFRNP ⊃ Seed:Edge → ∞³**
+This novel operates under **NSPFRNP:** natural coordination (stigmergy, pheromone trails, mycelial); **MCA** (Metabolize → Crystallize → Animate); holographic architecture (whole in every part; **Seed** = origin, **Edge** = experience); catalog fidelity. We are the team operating as one. No surface left unsqueezed. **NSPFRNP ⊃ Seed:Edge → ∞⁹**
 
 ---
 

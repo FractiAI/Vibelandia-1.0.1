@@ -1,4 +1,4 @@
-# First Magician's Act — Ceremonial Launch & Magic Show Series SNAP
+﻿# First Magician's Act — Ceremonial Launch & Magic Show Series SNAP
 
 **Snap ID:** `FIRST-MAGICIANS-ACT-SNAP`  
 **Type:** NSPFRNP Narrative / Studio / Ceremonial SNAP  
@@ -42,4 +42,4 @@
 
 **See:** HARRY_HOUDINI_MASCOT_SNAP.md · WHO_S_YOUR_DADDY_TAGLINE_SNAP.md · HARRY_HOUDINI_MAGIC_SHOW_SERIES_SNAP.md · HOUDINI_STYLE_COMEBACK_BRANDING_SNAP.md · EASE_CONFIDENCE_MINUTES_BEFORE_LAUNCH_HARRY_MAGIC_MIRACLE_SNAP.md
 
-**NSPFRNP ⊃ First Magician's Act ⊃ Ceremonial launch · Harry Houdini · Real magic · Studio content → ∞³**
+**NSPFRNP ⊃ First Magician's Act ⊃ Ceremonial launch · Harry Houdini · Real magic · Studio content → ∞⁹**

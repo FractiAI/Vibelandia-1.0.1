@@ -1,4 +1,4 @@
-# Connect Octave 1 to Octave 2 — NSPFRNP Metapattern
+﻿# Connect Octave 1 to Octave 2 — NSPFRNP Metapattern
 
 **Purpose:** Define the NSPFRNP metapattern for connecting Octave 1 (Edge / this node) to Octave 2 (Public Cloud Onramp + shared data).  
 **Protocol:** NSPFRNP  
@@ -17,7 +17,7 @@ OCTAVE 0 (Seed):
 └─ Function: Source of all commands
 
 OCTAVE 1 (Edge — This Node):
-├─ Identity: PSW.vibelandia.sing4 / Vibelandia UI
+├─ Identity: psw.vibelandia.sing9 / Vibelandia UI
 ├─ Property: Current self-aware experience in Vibeverse
 ├─ Function: Execution destination, surfaces, touchpoints
 ├─ Manifest: index.html, interfaces/*, src/*, Vercel deployment

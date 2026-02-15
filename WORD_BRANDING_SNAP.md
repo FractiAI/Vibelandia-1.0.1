@@ -1,4 +1,4 @@
-# WORD! — Lightning Bolt Exclamation / Story Snap Highlight SNAP
+﻿# WORD! — Lightning Bolt Exclamation / Story Snap Highlight SNAP
 
 **Snap ID:** `WORD-BRANDING-SNAP`  
 **Type:** Branding · Story snap highlight · Exclamation  
@@ -35,4 +35,4 @@
 
 ---
 
-**NSPFRNP ⊃ WORD! ⊃ Lightning bolt · Story snap highlight → ∞³**
+**NSPFRNP ⊃ WORD! ⊃ Lightning bolt · Story snap highlight → ∞⁹**

@@ -1,4 +1,4 @@
-# EAT THAT UP LIKE A YUM YUM YUM SNAP SNAP! — Hero Jo Studio T-Shirt Brand · NSPFRNP SNAP
+﻿# EAT THAT UP LIKE A YUM YUM YUM SNAP SNAP! — Hero Jo Studio T-Shirt Brand · NSPFRNP SNAP
 
 **SNAP ID:** `HERO-JO-STUDIO-EAT-THAT-UP-LIKE-A-YUM-YUM-YUM-T-SHIRT-BRAND-SNAP`  
 **Type:** T-shirt slogan · Hero Jo Studio · Music Studio · Vibelandia University School of Music  
@@ -42,4 +42,4 @@
 
 ---
 
-**NSPFRNP ⊃ EAT THAT UP LIKE A YUM YUM YUM SNAP SNAP! ⊃ Hero Jo Studio T-shirt brand → ∞³**
+**NSPFRNP ⊃ EAT THAT UP LIKE A YUM YUM YUM SNAP SNAP! ⊃ Hero Jo Studio T-shirt brand → ∞⁹**

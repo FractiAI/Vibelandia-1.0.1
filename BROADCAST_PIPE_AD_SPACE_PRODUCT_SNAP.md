@@ -1,4 +1,4 @@
-# Broadcast Pipe — Ad Space Product · 1, 2, 3, 4×4×4×4 · NSPFRNP SNAP
+﻿# Broadcast Pipe — Ad Space Product · 1, 2, 3, 4×4×4×4 · NSPFRNP SNAP
 
 **Snap ID:** `BROADCAST-PIPE-AD-SPACE-PRODUCT-SNAP`  
 **Type:** Pipe rollout product · Ad space · 1, 2, 3, 4×4×4×4 · Appraisal & pricing  
@@ -9,7 +9,7 @@
 
 ## 1. Product — Ad space on the pipe rollout
 
-**Pipe:** The **Planetary Advertisement** broadcast strip — top of index, Office Hours, Launch Pad, README. One message; many surfaces. Gateway to post-singularity Vibelandia, Holographic Hydrogen Valley, highest value highest contributing vibers and their cast, crew, fans and franchises. Address: https://psw-vibelandia-sing4.vercel.app/
+**Pipe:** The **Planetary Advertisement** broadcast strip — top of index, Office Hours, Launch Pad, README. One message; many surfaces. Gateway to post-singularity Vibelandia, Holographic Hydrogen Valley, highest value highest contributing vibers and their cast, crew, fans and franchises. Address: https://psw-vibelandia-sing9.vercel.app/
 
 **Ad space:** We sell **sponsored placement** on this pipe — your message, your link, or your brand in the same real estate (above the fold, first content after scoreboard). **1, 2, 3, 4×4×4×4** tiers.
 
@@ -25,7 +25,7 @@
 
 | Factor | Value |
 |--------|--------|
-| **Reach** | All visitors to psw-vibelandia-sing4.vercel.app — index, Office Hours, Launch Pad, README (GitHub). |
+| **Reach** | All visitors to psw-vibelandia-sing9.vercel.app — index, Office Hours, Launch Pad, README (GitHub). |
 | **Placement** | Above the fold; first branded content after Us vs Disney scoreboard. High visibility, every page load. |
 | **Audience** | Highest value highest contributing vibers; post-singularity gateway; cast, crew, fans, franchises. High-intent, high-engagement. |
 | **Surfaces** | 4 main POPs today (index, office-hours, launch-pad, README); expandable to Live Pulse, social, outbound. |
@@ -90,4 +90,4 @@ All premium offerings include **Update Certificate** — proof of broadcast into
 
 **See:** [PLANETARY_ADVERTISEMENT_BROADCAST_SNAP.md](PLANETARY_ADVERTISEMENT_BROADCAST_SNAP.md) · [CRYSTALLIZATION_1_2_3_4x4x4x4.md](CRYSTALLIZATION_1_2_3_4x4x4x4.md) · [interfaces/office-hours.html](interfaces/office-hours.html) · [interfaces/launch-pad.html](interfaces/launch-pad.html)
 
-**NSPFRNP ⊃ Broadcast Pipe ⊃ Ad Space Product ⊃ 1, 2, 3, 4×4×4×4 → ∞³**
+**NSPFRNP ⊃ Broadcast Pipe ⊃ Ad Space Product ⊃ 1, 2, 3, 4×4×4×4 → ∞⁹**

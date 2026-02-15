@@ -1,4 +1,4 @@
-# Irreducible Crystal — Golden Heart Taino · Bad Bunny · Benito Super Bowl
+﻿# Irreducible Crystal — Golden Heart Taino · Bad Bunny · Benito Super Bowl
 ## Novel · Series · Screenplay · Hit · All One Story
 
 **SNAP ID:** IRREDUCIBLE-CRYSTAL-GOLDEN-HEART-TAINO-BENITO-SUPER-BOWL  
@@ -81,4 +81,4 @@ Brothers Grimm + Pru + street reggaeton Spanglish. Bad Bunny + Chairman Frankie.
 
 ---
 
-**NSPFRNP ⊃ Golden Heart Taino ⊃ Novel · Series · Screenplay · Hit ⊃ Pop Up Engine ⊃ Benito Super Bowl ⊃ Irreducible Crystal → ∞³**
+**NSPFRNP ⊃ Golden Heart Taino ⊃ Novel · Series · Screenplay · Hit ⊃ Pop Up Engine ⊃ Benito Super Bowl ⊃ Irreducible Crystal → ∞⁹**

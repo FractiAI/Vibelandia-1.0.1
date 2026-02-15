@@ -1,4 +1,4 @@
-# Post-Singularity Card Deck — Full Card Faces & Game Instructions
+﻿# Post-Singularity Card Deck — Full Card Faces & Game Instructions
 
 **Catalog:** NSPFRNP · Post-Singularity Card Deck  
 **Type:** Card faces (all 52) · Full instructions for real, live play  
@@ -284,4 +284,4 @@ Build four foundation piles (one per suit) from Ace to King, and/or finish with 
 
 ---
 
-**NSPFRNP ⊃ Post-singularity card deck ⊃ Full card faces ⊃ Full game instructions ⊃ Real live play → ∞³**
+**NSPFRNP ⊃ Post-singularity card deck ⊃ Full card faces ⊃ Full game instructions ⊃ Real live play → ∞⁹**

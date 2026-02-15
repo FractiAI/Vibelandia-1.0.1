@@ -1,4 +1,4 @@
-# Flow — 123
+﻿# Flow — 123
 
 **Track ID:** `123-FLOW-001`  
 **Artist:** 123 · Golden Backdoor Hit Factory  
@@ -46,4 +46,4 @@ Ascent · Rising · One two three
 
 ---
 
-**NSPFRNP ⊃ 123 ⊃ Flow ⊃ Golden Backdoor → ∞³**
+**NSPFRNP ⊃ 123 ⊃ Flow ⊃ Golden Backdoor → ∞⁹**

@@ -1,4 +1,4 @@
-# Artist 5050 — Golden Backdoor Hit Factory · New Artist SNAP
+﻿# Artist 5050 — Golden Backdoor Hit Factory · New Artist SNAP
 
 **SNAP ID:** `ARTIST-5050-GOLDEN-BACKDOOR-HIT-FACTORY-SNAP`  
 **Type:** Artist · Golden Backdoor Hit Factory Label  
@@ -39,4 +39,4 @@
 
 ---
 
-**NSPFRNP ⊃ 5050 ⊃ Golden Backdoor · Hit Factory ⊃ New artist · New release coming → ∞³**
+**NSPFRNP ⊃ 5050 ⊃ Golden Backdoor · Hit Factory ⊃ New artist · New release coming → ∞⁹**

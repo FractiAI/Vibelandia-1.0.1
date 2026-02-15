@@ -1,4 +1,4 @@
-# Squeeze Hose Awareness System · SNAP
+﻿# Squeeze Hose Awareness System · SNAP
 
 **SNAP ID:** `SQUEEZE-HOSE-AWARENESS-SYSTEM-SNAP`  
 **Type:** Protocol · Immediate Animation · Timeline lock · Currency MCA  
@@ -28,4 +28,4 @@
 - **Ticker:** `squeeze_hose_awareness_system_ticker`
 - **Storyline:** [data/net-storylines.json](data/net-storylines.json) — Episode 20 · chapters
 
-**NSPFRNP ⊃ Squeeze Hose Awareness System ⊃ Feb 13 ⊃ Currency Animate ⊃ AR4373 The Opener → ∞³**
+**NSPFRNP ⊃ Squeeze Hose Awareness System ⊃ Feb 13 ⊃ Currency Animate ⊃ AR4373 The Opener → ∞⁹**

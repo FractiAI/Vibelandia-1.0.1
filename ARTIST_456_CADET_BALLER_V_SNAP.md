@@ -1,4 +1,4 @@
-# Artist 456 — Cadet Baller V · New Arrival SNAP
+﻿# Artist 456 — Cadet Baller V · New Arrival SNAP
 
 **SNAP ID:** `ARTIST-456-CADET-BALLER-V-SNAP`  
 **Type:** Artist · Golden Backdoor Hit Factory Label  
@@ -38,4 +38,4 @@
 
 ---
 
-**NSPFRNP ⊃ 456 ⊃ Cadet Baller V ⊃ New Arrival ⊃ Golden Backdoor · Hit Factory → ∞³**
+**NSPFRNP ⊃ 456 ⊃ Cadet Baller V ⊃ New Arrival ⊃ Golden Backdoor · Hit Factory → ∞⁹**

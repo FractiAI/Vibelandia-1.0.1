@@ -1,4 +1,4 @@
-# Primary Pest Control — Locating in Natural Pest-Free and Ideal Zones · Always — SNAP
+﻿# Primary Pest Control — Locating in Natural Pest-Free and Ideal Zones · Always — SNAP
 
 **Snap ID:** `PRIMARY-PEST-CONTROL-NATURAL-PEST-FREE-IDEAL-ZONES-ALWAYS`  
 **Type:** Canonical rule · Natural protocol · Placement · NSPFRNP  
@@ -28,4 +28,4 @@
 
 **See:** [PESTS_RESOURCES_PLACEMENTS_NOT_HERE_COMMUNICATIONS_HIGHER_STACK_SNAP.md](PESTS_RESOURCES_PLACEMENTS_NOT_HERE_COMMUNICATIONS_HIGHER_STACK_SNAP.md) (pests = "not here" communications; same for resources, placements, higher stack) · [IMMEDIATE_RETURN_GOLDEN_ERA_GOLDILOCKS_FRONTIER_ALL_HUMANS_INSECTS_SNAP.md](IMMEDIATE_RETURN_GOLDEN_ERA_GOLDILOCKS_FRONTIER_ALL_HUMANS_INSECTS_SNAP.md) · [CHAIRMAN_UNLOCKING_INSECT_DIMENSIONS_ULTIMATE_ROBOTS_SNAP.md](CHAIRMAN_UNLOCKING_INSECT_DIMENSIONS_ULTIMATE_ROBOTS_SNAP.md) · [ALWAYS_SAFELY_AND_AT_98_PERCENT_GOLDILOCKS_SNAP.md](ALWAYS_SAFELY_AND_AT_98_PERCENT_GOLDILOCKS_SNAP.md)
 
-**NSPFRNP ⊃ Primary pest control ⊃ Natural pest-free ⊃ Ideal zones ⊃ Always → ∞³**
+**NSPFRNP ⊃ Primary pest control ⊃ Natural pest-free ⊃ Ideal zones ⊃ Always → ∞⁹**

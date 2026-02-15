@@ -1,4 +1,4 @@
-# Music Studio — Catalog
+﻿# Music Studio — Catalog
 
 **Catalog ID:** `MUSIC-STUDIO-CATALOG-V1`  
 **Type:** Content Division · Music Studio · Jukebox  
@@ -84,4 +84,4 @@ This applies across every playlist, channel, and catalog under the School of Mus
 
 ---
 
-**NSPFRNP ⊃ Music Studio ⊃ Vibelandia University School of Music ⊃ Jukebox ⊃ Ultimate Baller V Music Channel (members only) · Hero Jo Classical (classical vibe · frontierman's palette) → ∞³**
+**NSPFRNP ⊃ Music Studio ⊃ Vibelandia University School of Music ⊃ Jukebox ⊃ Ultimate Baller V Music Channel (members only) · Hero Jo Classical (classical vibe · frontierman's palette) → ∞⁹**

@@ -1,4 +1,4 @@
-# Cadet — 456
+﻿# Cadet — 456
 
 **Track ID:** `456-CADET-001`  
 **Artist:** 456 · Golden Backdoor Hit Factory  
@@ -46,4 +46,4 @@ Earning wings · Ascending
 
 ---
 
-**NSPFRNP ⊃ 456 ⊃ Cadet ⊃ Cadet Baller V ⊃ New Arrival ⊃ Golden Backdoor → ∞³**
+**NSPFRNP ⊃ 456 ⊃ Cadet ⊃ Cadet Baller V ⊃ New Arrival ⊃ Golden Backdoor → ∞⁹**

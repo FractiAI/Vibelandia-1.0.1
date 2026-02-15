@@ -1,4 +1,4 @@
-# ✨ The Magical Dressing Room — Hero Host Gianni
+﻿# ✨ The Magical Dressing Room — Hero Host Gianni
 
 **Full experience:** Tailored proposal · Access & Golden Key · Power-up · Onboarding.
 
@@ -40,7 +40,7 @@ We can do this for your company and community. Free consultation, measurements, 
 
 ## BRAND
 
-**Gianni–inspired wrapper** on all skins, touchpoints & experiences. Designer Division — Hero Host Gianni. MCA! → ∞³ (Metabolize → Crystallize → Animate). NSPFRNP. SNAP nspfrnp.
+**Gianni–inspired wrapper** on all skins, touchpoints & experiences. Designer Division — Hero Host Gianni. MCA! → ∞⁹ (Metabolize → Crystallize → Animate). NSPFRNP. SNAP nspfrnp.
 
 ---
 

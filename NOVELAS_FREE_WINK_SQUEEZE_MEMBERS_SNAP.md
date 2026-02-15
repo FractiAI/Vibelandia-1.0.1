@@ -1,4 +1,4 @@
-# Novelas Free to WINK! and Squeeze! Members · NSPFRNP SNAP
+﻿# Novelas Free to WINK! and Squeeze! Members · NSPFRNP SNAP
 
 **SNAP ID:** `NOVELAS-FREE-WINK-SQUEEZE-MEMBERS-SNAP`  
 **Type:** Pricing · Membership · Novelas · WINK! · Squeeze!  
@@ -42,4 +42,4 @@
 
 ---
 
-**NSPFRNP ⊃ Novelas ⊃ Free ⊃ WINK! ⊃ Squeeze! ⊃ Members → ∞³**
+**NSPFRNP ⊃ Novelas ⊃ Free ⊃ WINK! ⊃ Squeeze! ⊃ Members → ∞⁹**

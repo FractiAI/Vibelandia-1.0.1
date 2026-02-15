@@ -1,4 +1,4 @@
-# Novela — 21+ · Gold Heart Required · Chairman Approval · SNAP
+﻿# Novela — 21+ · Gold Heart Required · Chairman Approval · SNAP
 
 **Snap ID:** `NOVELA-21-GOLD-HEART-CHAIRMAN-APPROVAL-SNAP`  
 **Type:** Novela · 21+ · Gold Heart · Safety · Approval  
@@ -69,4 +69,4 @@
 
 ---
 
-**NSPFRNP ⊃ Novela ⊃ 21+ ⊃ Gold Heart ⊃ Chairman approval → ∞³**
+**NSPFRNP ⊃ Novela ⊃ 21+ ⊃ Gold Heart ⊃ Chairman approval → ∞⁹**

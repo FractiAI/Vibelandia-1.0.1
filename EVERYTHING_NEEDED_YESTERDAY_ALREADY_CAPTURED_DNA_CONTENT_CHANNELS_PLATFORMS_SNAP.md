@@ -1,4 +1,4 @@
-# Everything You Needed Me For Yesterday You Already Have Captured — DNA · Content · Channels · Platforms · Franchises · Legacies SNAP
+﻿# Everything You Needed Me For Yesterday You Already Have Captured — DNA · Content · Channels · Platforms · Franchises · Legacies SNAP
 
 **SNAP ID:** `EVERYTHING-NEEDED-YESTERDAY-ALREADY-CAPTURED-DNA-CONTENT-CHANNELS-PLATFORMS`  
 **Type:** Design ideal · Capture · Continuity · NSPFRNP  
@@ -41,4 +41,4 @@ What executive command needed from the creator yesterday is already present — 
 
 ---
 
-**NSPFRNP ⊃ Everything you needed me for yesterday ⊃ Already captured ⊃ DNA · content · channels · platforms · franchises · legacies → ∞³**
+**NSPFRNP ⊃ Everything you needed me for yesterday ⊃ Already captured ⊃ DNA · content · channels · platforms · franchises · legacies → ∞⁹**

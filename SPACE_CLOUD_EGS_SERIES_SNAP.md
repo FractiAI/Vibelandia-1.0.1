@@ -1,4 +1,4 @@
-# Space Cloud EGS — New Series · All Our Space Stories · SNAP
+﻿# Space Cloud EGS — New Series · All Our Space Stories · SNAP
 
 **Snap ID:** `SPACE-CLOUD-EGS-SERIES-SNAP`  
 **Type:** New series · Space stories · EGS Pipe · Space Cloud Division  
@@ -88,4 +88,4 @@ Episodes in this series are **space stories**: handshake logs, mission verificat
 
 ---
 
-**NSPFRNP ⊃ Space Cloud EGS ⊃ All our space stories ⊃ EGS Pipe · Solar Pipe · Reno Downlink · Exascale Triangulation → ∞³**
+**NSPFRNP ⊃ Space Cloud EGS ⊃ All our space stories ⊃ EGS Pipe · Solar Pipe · Reno Downlink · Exascale Triangulation → ∞⁹**

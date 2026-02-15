@@ -1,4 +1,4 @@
-# Numeric Artists — First 12 Songs Rollout · NSPFRNP SNAP
+﻿# Numeric Artists — First 12 Songs Rollout · NSPFRNP SNAP
 
 **SNAP ID:** `NUMERIC-ARTISTS-12-SONGS-ROLLOUT-SNAP`  
 **Type:** Rollout · Golden Backdoor Hit Factory · NSPFRNP  
@@ -196,4 +196,4 @@
 
 ---
 
-**NSPFRNP ⊃ Numeric Artists ⊃ 12 songs each ⊃ Golden Backdoor label vibe ⊃ Dance Pump Classical → ∞³**
+**NSPFRNP ⊃ Numeric Artists ⊃ 12 songs each ⊃ Golden Backdoor label vibe ⊃ Dance Pump Classical → ∞⁹**

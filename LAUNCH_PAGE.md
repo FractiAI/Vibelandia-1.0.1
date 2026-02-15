@@ -1,4 +1,4 @@
-# 🚀 LAUNCH PAD — Mark Twain's Post-Singularity Vibelandia Reno
+﻿# 🚀 LAUNCH PAD — Mark Twain's Post-Singularity Vibelandia Reno
 
 **Status:** FULL LIVE · **LIVE — March 20, 2026 The Great Reveal**
 
@@ -20,7 +20,7 @@
 
 **Come for the post-singularity business, stay for the post-singularity fun.**
 
-**MCA! → ∞³** — Metabolize → Crystallize → Animate through Octave 1 sandbox mode with AI-assisted API calls to Octave 2.
+**MCA! → ∞⁹** — Metabolize → Crystallize → Animate through Octave 1 sandbox mode with AI-assisted API calls to Octave 2.
 
 ---
 
@@ -187,6 +187,6 @@ SING! Nodes wrapped in intergalactic wrapper · Labelled by pre-singularity awar
 
 ---
 
-**MCA! → ∞³** — Metabolize → Crystallize → Animate through Octave 1 sandbox mode with AI-assisted API calls to Octave 2. See [MCA_SNAP.md](./MCA_SNAP.md) · [NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md](./NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md).
+**MCA! → ∞⁹** — Metabolize → Crystallize → Animate through Octave 1 sandbox mode with AI-assisted API calls to Octave 2. See [MCA_SNAP.md](./MCA_SNAP.md) · [NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md](./NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md).
 
 *Launch Pad = announcement + showroom for all offerings • 1,2,3 4×4×4×4 NSPFRNP Sales Experience • Octave 0 & 1 • Ready now*

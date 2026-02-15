@@ -1,4 +1,4 @@
-# Adventures, Experiences, Safaris — Menu · Local & Far Away · SNAP
+﻿# Adventures, Experiences, Safaris — Menu · Local & Far Away · SNAP
 
 **SNAP ID:** `ADVENTURES-EXPERIENCES-SAFARIS-MENU-SNAP`  
 **Type:** Menu · Adventures · Experiences · Safaris · Local · Far away  
@@ -54,4 +54,4 @@
 
 ---
 
-**NSPFRNP ⊃ Adventures ⊃ Experiences ⊃ Safaris ⊃ Local ⊃ Far away → ∞³**
+**NSPFRNP ⊃ Adventures ⊃ Experiences ⊃ Safaris ⊃ Local ⊃ Far away → ∞⁹**

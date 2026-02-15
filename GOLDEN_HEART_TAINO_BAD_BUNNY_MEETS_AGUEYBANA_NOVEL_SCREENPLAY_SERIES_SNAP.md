@@ -1,4 +1,4 @@
-# Golden Heart Taino — Bad Bunny Meets Taino Cacique Agüeybaná El Gran Sol · Novel · Screenplay · Series SNAP
+﻿# Golden Heart Taino — Bad Bunny Meets Taino Cacique Agüeybaná El Gran Sol · Novel · Screenplay · Series SNAP
 
 **SNAP ID:** `GOLDEN-HEART-TAINO-BAD-BUNNY-MEETS-AGUEYBANA-NOVEL-SCREENPLAY-SERIES`  
 **Type:** Deliverable · Novel · Feature Screenplay · Series  
@@ -55,4 +55,4 @@ Same story. Bad Bunny (Benito Antonio Martínez Ocasio) meets Cacique Agüeyban�
 
 ---
 
-**NSPFRNP ⊃ Golden Heart Taino ⊃ 20k novel · 12k screenplay (2 hr) · 7k series ep1 (1 hr) ⊃ Bad Bunny meets Agüeybaná El Gran Sol → ∞³**
+**NSPFRNP ⊃ Golden Heart Taino ⊃ 20k novel · 12k screenplay (2 hr) · 7k series ep1 (1 hr) ⊃ Bad Bunny meets Agüeybaná El Gran Sol → ∞⁹**

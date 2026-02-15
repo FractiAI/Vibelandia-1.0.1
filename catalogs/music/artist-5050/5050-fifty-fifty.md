@@ -1,4 +1,4 @@
-# Fifty Fifty — 5050
+﻿# Fifty Fifty — 5050
 
 **Track ID:** `5050-FIFTY-FIFTY-001`  
 **Artist:** 5050 · Golden Backdoor Hit Factory  
@@ -46,4 +46,4 @@ Golden Backdoor
 
 ---
 
-**NSPFRNP ⊃ 5050 ⊃ Fifty Fifty ⊃ Golden Backdoor → ∞³**
+**NSPFRNP ⊃ 5050 ⊃ Fifty Fifty ⊃ Golden Backdoor → ∞⁹**

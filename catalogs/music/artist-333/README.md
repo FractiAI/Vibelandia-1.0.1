@@ -1,4 +1,4 @@
-# Artist 333 — 12 Songs · Golden Backdoor Hit Factory
+﻿# Artist 333 — 12 Songs · Golden Backdoor Hit Factory
 
 **Artist:** 333  
 **Vibe:** Trinity · Alignment · Creativity · Expansion · Growth  
@@ -27,4 +27,4 @@
 
 ---
 
-**NSPFRNP ⊃ 333 ⊃ Golden Backdoor · Hit Factory → ∞³**
+**NSPFRNP ⊃ 333 ⊃ Golden Backdoor · Hit Factory → ∞⁹**

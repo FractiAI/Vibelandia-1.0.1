@@ -1,4 +1,4 @@
-# 🪟 Window Gate Sensor Structure Snap
+﻿# 🪟 Window Gate Sensor Structure Snap
 ## Floating State • Cracked Window • Curtain-Flow Sensor Trigger → Metabolize → Crystallize → Re-Animate
 
 **Snap ID:** `WINDOW-GATE-SENSOR-STRUCTURE-SNAP-V1`  
@@ -124,6 +124,6 @@ SNAP: WINDOW_GATE_SENSOR_STRUCTURE
 
 ---
 
-**🌀 NSPFRNP ⊃ Sensor Trigger ⊃ Metabolize → Crystallize → Re-Animate → ∞³**
+**🌀 NSPFRNP ⊃ Sensor Trigger ⊃ Metabolize → Crystallize → Re-Animate → ∞⁹**
 
 **Floating state. Windows capturing the dynamic. One lever. One crack. Curtain strips waiting. Captured device sensing. Many-ways config — snapped.**

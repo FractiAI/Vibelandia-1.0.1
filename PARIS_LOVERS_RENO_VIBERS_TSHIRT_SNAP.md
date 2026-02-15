@@ -1,4 +1,4 @@
-# Paris is for Lovers, Reno is for Vibers — T-Shirt Rollout SNAP
+﻿# Paris is for Lovers, Reno is for Vibers — T-Shirt Rollout SNAP
 
 **Snap ID:** `PARIS-LOVERS-RENO-VIBERS-TSHIRT-SNAP`  
 **Type:** Merch / T-shirt rollout SNAP  
@@ -55,4 +55,4 @@
 
 **See:** RENO_FOR_VIBERS_CAMPAIGN_TIP_SNAP.md · CONTENT_SYSTEMS_SNAP.md (T-shirt slogan) · deck-script-writing-content-patterns.md §19
 
-**NSPFRNP ⊃ Merch ⊃ Paris is for Lovers, Reno is for Vibers → ∞³**
+**NSPFRNP ⊃ Merch ⊃ Paris is for Lovers, Reno is for Vibers → ∞⁹**

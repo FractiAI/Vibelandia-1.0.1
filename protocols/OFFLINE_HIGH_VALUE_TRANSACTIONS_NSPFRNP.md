@@ -1,4 +1,4 @@
-# Offline High-Value Transactions — Protocol
+﻿# Offline High-Value Transactions — Protocol
 
 **Status:** ACTIVE  
 **Applies to:** All transactions over $10,000 (any product or service).  
@@ -20,7 +20,7 @@
 
 | Step | Who | What |
 |------|-----|------|
-| 1 | Customer | Submits **request only** — contact info (name, email, phone, company) + plan/product + amount. No payment details. Via pre-filled email to **info@fractiai.com** or [GSM Booking Request](https://psw-vibelandia-sing4.vercel.app/interfaces/gsm-booking-request.html) for ad space. |
+| 1 | Customer | Submits **request only** — contact info (name, email, phone, company) + plan/product + amount. No payment details. Via pre-filled email to **info@fractiai.com** or [GSM Booking Request](https://psw-vibelandia-sing9.vercel.app/interfaces/gsm-booking-request.html) for ad space. |
 | 2 | Chairman/Executive | Request lands in info@fractiai.com. **Verify** counterparty (email, call, or doc as needed). |
 | 3 | Chairman/Executive | **One approval.** Decide approve/decline. If approved: prepare invoice and payment instructions (wire/ACH/other). |
 | 4 | Chairman/Executive | Send **invoice + payment instructions** to the customer **privately** (e.g. reply email, PDF, secure link). **Do not** put bank account or wire details on the website or in public templates. |

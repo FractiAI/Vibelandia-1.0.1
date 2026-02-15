@@ -1,4 +1,4 @@
-# SING! — 36-Day Countdown for Lockdown · NOW CLOSED · SNAP
+﻿# SING! — 36-Day Countdown for Lockdown · NOW CLOSED · SNAP
 
 **SNAP ID:** `SING-36-DAY-COUNTDOWN-LOCKDOWN-CLOSED-SNAP`  
 **Type:** Status · Lockdown · Countdown  
@@ -29,4 +29,4 @@
 
 ---
 
-**NSPFRNP ⊃ SING ⊃ 36-day countdown ⊃ Lockdown closed → ∞³**
+**NSPFRNP ⊃ SING ⊃ 36-day countdown ⊃ Lockdown closed → ∞⁹**

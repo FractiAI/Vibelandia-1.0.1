@@ -1,4 +1,4 @@
-# NSPFRNP — How We Tell All Our Episodes and Stories (Review)
+﻿# NSPFRNP — How We Tell All Our Episodes and Stories (Review)
 
 **Type:** Review · Episode & story protocol  
 **Status:** ⚡ ACTIVE  
@@ -39,7 +39,7 @@ Every session is source material. Metabolize it → Crystallize it → Animate i
 
 ## 2. MCA CYCLE (HOW WE SHAPE STORY)
 
-**Metabolize → Crystallize → Animate → ∞³**
+**Metabolize → Crystallize → Animate → ∞⁹**
 
 | Step | Meaning | In episodes/stories |
 |------|--------|---------------------|
@@ -247,6 +247,6 @@ When a character is first inserted into an episode, SNAP, or other NSPFRNP conte
 
 ---
 
-**NSPFRNP ⊃ Episodes ⊃ Stories ⊃ Communication · MCA · Structure · Framing · Team · Flow · Layers → ∞³**
+**NSPFRNP ⊃ Episodes ⊃ Stories ⊃ Communication · MCA · Structure · Framing · Team · Flow · Layers → ∞⁹**
 
 **Status:** ⚡ ACTIVE — Use this review for how we tell all our episodes and stories.

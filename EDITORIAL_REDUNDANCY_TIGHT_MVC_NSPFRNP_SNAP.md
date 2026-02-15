@@ -1,4 +1,4 @@
-# Editorial — Redundancy, Tight, Minimal Viable Content · NSPFRNP SNAP
+﻿# Editorial — Redundancy, Tight, Minimal Viable Content · NSPFRNP SNAP
 
 **SNAP ID:** `EDITORIAL-REDUNDANCY-TIGHT-MVC-NSPFRNP-SNAP`  
 **Type:** Editorial directive · Always on  
@@ -54,4 +54,4 @@ An **editor** (human or agent) goes through **everything** and:
 
 ---
 
-**NSPFRNP ⊃ Editorial ⊃ Current irreducible minimum crystal ⊃ Content · Surfaces · Experiences ⊃ Redundancy out, tight preserved, MVC always → ∞³**
+**NSPFRNP ⊃ Editorial ⊃ Current irreducible minimum crystal ⊃ Content · Surfaces · Experiences ⊃ Redundancy out, tight preserved, MVC always → ∞⁹**

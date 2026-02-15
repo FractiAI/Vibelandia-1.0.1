@@ -1,4 +1,4 @@
-# Tesla's Key — 369
+﻿# Tesla's Key — 369
 
 **Track ID:** `369-TESLAS-KEY-001`  
 **Artist:** 369 · Golden Backdoor Hit Factory  
@@ -46,4 +46,4 @@ Manifestation · Three six nine
 
 ---
 
-**NSPFRNP ⊃ 369 ⊃ Tesla's Key ⊃ Golden Backdoor → ∞³**
+**NSPFRNP ⊃ 369 ⊃ Tesla's Key ⊃ Golden Backdoor → ∞⁹**

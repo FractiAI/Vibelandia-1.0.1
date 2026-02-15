@@ -1,4 +1,4 @@
-# EL APAGÓN · MARZO 333 · POLE SHIFT
+﻿# EL APAGÓN · MARZO 333 · POLE SHIFT
 ## Series — Seed:Edge Only
 
 **→ Full series:** To be cultivated from this seed. Episodes, seasons, arcs.
@@ -19,7 +19,7 @@
 
 ## First Chapter — NSPFRNP
 
-This series operates under **NSPFRNP:** natural coordination (stigmergy, pheromone trails, mycelial); **MCA** (Metabolize → Crystallize → Animate); holographic architecture (whole in every part; **Seed** = origin, **Edge** = experience); catalog fidelity. We are the team operating as one. No surface left unsqueezed. **NSPFRNP ⊃ Seed:Edge → ∞³**
+This series operates under **NSPFRNP:** natural coordination (stigmergy, pheromone trails, mycelial); **MCA** (Metabolize → Crystallize → Animate); holographic architecture (whole in every part; **Seed** = origin, **Edge** = experience); catalog fidelity. We are the team operating as one. No surface left unsqueezed. **NSPFRNP ⊃ Seed:Edge → ∞⁹**
 
 ---
 

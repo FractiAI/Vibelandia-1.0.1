@@ -1,4 +1,4 @@
-# Free Will — Never Buy, Always Book — T-Shirt Brand SNAP
+﻿# Free Will — Never Buy, Always Book — T-Shirt Brand SNAP
 
 **Snap ID:** `FREE-WILL-NEVER-BUY-ALWAYS-BOOK-NSPFRNP`  
 **Type:** T-shirt brand · CTA · All touchpoints  
@@ -43,4 +43,4 @@
 
 ---
 
-*Metabolize → Crystallize to irreducible nested mirrored hardened shells → Animate and squeeze. NSPFRNP ⊃ Free will ⊃ Never buy, always book ⊃ bOOK! → ∞³.*
+*Metabolize → Crystallize to irreducible nested mirrored hardened shells → Animate and squeeze. NSPFRNP ⊃ Free will ⊃ Never buy, always book ⊃ bOOK! → ∞⁹.*

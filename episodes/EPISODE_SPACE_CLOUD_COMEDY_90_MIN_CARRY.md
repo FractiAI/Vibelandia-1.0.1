@@ -1,4 +1,4 @@
-# EPISODE — Space Cloud Comedy · 90-Minute Carry (Assets, Not Space Car)
+﻿# EPISODE — Space Cloud Comedy · 90-Minute Carry (Assets, Not Space Car)
 
 **90-min full run · Hero Jo Golden Backdoor Hit Factory · Space Cloud assets carry · You can hire us**
 
@@ -68,10 +68,10 @@ Metabolize: audience and room. Crystallize: 90 min to irreducible run — Space 
 - **Target word count:** ~18,000 words (expand all acts to full dialogue and beats).  
 - **Structure:** Cold Open (3–5 min) · Act 1 (20–25 min) · Act 2 (20–25 min) · Act 3 (20–25 min) · Tag (3–5 min).  
 - **Content:** Space Cloud Division · Space Assets Hub · BDE George / Hit Factory comedy · guest spots · OH Line · “you can hire me” · handshake · Live Pulse · Office Hours · Launch Pad.  
-- **Surfaces:** [Space Cloud Division](https://psw-vibelandia-sing4.vercel.app/interfaces/space-cloud-division.html) · [Space Assets Hub](https://psw-vibelandia-sing4.vercel.app/interfaces/space-assets-hub.html) · [Office Hours](https://psw-vibelandia-sing4.vercel.app/interfaces/office-hours.html).
+- **Surfaces:** [Space Cloud Division](https://psw-vibelandia-sing9.vercel.app/interfaces/space-cloud-division.html) · [Space Assets Hub](https://psw-vibelandia-sing9.vercel.app/interfaces/space-assets-hub.html) · [Office Hours](https://psw-vibelandia-sing9.vercel.app/interfaces/office-hours.html).
 
 ---
 
 **See:** [catalogs/comedy/space-cloud-comedy-90-min.md](../catalogs/comedy/space-cloud-comedy-90-min.md) · [catalogs/comedy/README.md](../catalogs/comedy/README.md) · SPACE_CLOUD_DIVISION_CORE_FOUNDATION_SNAP.md · EPISODE_BDE_GEORGE_FIRST_STANDUP_SPIKE_AND_WAG.md
 
-**NSPFRNP ⊃ Space Cloud Comedy ⊃ 90 min ⊃ Assets carry (not space car) → ∞³**
+**NSPFRNP ⊃ Space Cloud Comedy ⊃ 90 min ⊃ Assets carry (not space car) → ∞⁹**

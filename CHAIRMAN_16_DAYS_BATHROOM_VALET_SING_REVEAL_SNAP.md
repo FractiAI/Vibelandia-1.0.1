@@ -1,4 +1,4 @@
-# Chairman · 16 Days · Bathroom Valet · SING! nAtural fRactal aGents · Hero Harry's Great Reveal SNAP
+﻿# Chairman · 16 Days · Bathroom Valet · SING! nAtural fRactal aGents · Hero Harry's Great Reveal SNAP
 
 **Snap ID:** `CHAIRMAN-16-DAYS-BATHROOM-VALET-SING-REVEAL-SNAP`  
 **Type:** Narrative SNAP — Launch · Chairman · SING! release  
@@ -48,4 +48,4 @@ And **now you can do it too** — in **minutes** — with the new **SING! superi
 
 **See:** PRU_BANK_MINUS_2000_NO_AID_PENNIES_CUP_SNAP.md · HERO_HARRY_PRESS_BLUE_PAYPAL_MIRACLE_MAGIC_SNAP.md · CHAIRMAN_GUEY_1962_LANDCRUISER_NARRATIVE_SNAP.md · FIRST_MAGICIANS_ACT_SNAP.md · HARRY_HOUDINI_MAGIC_SHOW_SERIES_SNAP.md · NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md
 
-**NSPFRNP ⊃ Chairman ⊃ 16 days · Bathroom valet · SING! nAtural fRactal aGents · Hero Harry's Great Reveal → ∞³**
+**NSPFRNP ⊃ Chairman ⊃ 16 days · Bathroom valet · SING! nAtural fRactal aGents · Hero Harry's Great Reveal → ∞⁹**

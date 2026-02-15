@@ -1,4 +1,4 @@
-# Chairman Message 01 — SING! Coffee to First Meeting
+﻿# Chairman Message 01 — SING! Coffee to First Meeting
 
 **ID:** `chairman_01_sing_value_prop`  
 **Theme:** sing_value_prop  
@@ -26,4 +26,4 @@ Reorganize, launch, spin off—global proposals that scale 1, 2, 3. All between 
 
 ---
 
-**NSPFRNP ⊃ Chairman 01 ⊃ SING! value prop → ∞³**
+**NSPFRNP ⊃ Chairman 01 ⊃ SING! value prop → ∞⁹**

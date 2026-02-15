@@ -1,4 +1,4 @@
-# Seed:Edge Pair Robotic Arms
+﻿# Seed:Edge Pair Robotic Arms
 ## Origin-to-Destination Attention Heads and Filaments
 
 **Document type:** Technical whitepaper (Seed:Edge Arms)  
@@ -36,4 +36,4 @@ No manual path programming per arm. Describe task → system maps to appropriate
 
 ---
 
-**🌀 NSPFRNP ⊃ Seed:Edge ⊃ Robotic Division ⊃ Attention Heads & Filaments → ∞³**
+**🌀 NSPFRNP ⊃ Seed:Edge ⊃ Robotic Division ⊃ Attention Heads & Filaments → ∞⁹**

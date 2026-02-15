@@ -1,4 +1,4 @@
-# Reno Experience — We Do What Vegas Can't Do. What Nobody Else Can Do. Brand SNAP
+﻿# Reno Experience — We Do What Vegas Can't Do. What Nobody Else Can Do. Brand SNAP
 
 **Type:** Brand · Tagline · Slope · Merchandising  
 **Status:** Live. Featured at top of Office Hours bulletin board; packaged on Navigator. T-shirts and song in pipeline.
@@ -41,4 +41,4 @@ A **Reno Experience theme song** is specified in a separate brief: magical, expl
 
 ## NSPFRNP
 
-**NSPFRNP ⊃ Reno Experience ⊃ We do what Vegas can't do ⊃ What nobody else can do → ∞³**
+**NSPFRNP ⊃ Reno Experience ⊃ We do what Vegas can't do ⊃ What nobody else can do → ∞⁹**

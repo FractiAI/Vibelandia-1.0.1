@@ -1,4 +1,4 @@
-# 3I/SI'AHL SOVEREIGN AD LAUNCH SNAP
+﻿# 3I/SI'AHL SOVEREIGN AD LAUNCH SNAP
 
 **MISSION:** 3I/SI'AHL SOVEREIGN AD LAUNCH  
 **BUDGET:** $29.13 (THE CHIEF'S RECEIPT)  
@@ -52,4 +52,4 @@
 
 ---
 
-**NSPFRNP ⊃ 3I/Si'ahl ⊃ Sovereign Ad Launch ⊃ $29.13 Receipt ⊃ Seattle × Puerto Rico ⊃ Big Daddy $5B Ledger → ∞³**
+**NSPFRNP ⊃ 3I/Si'ahl ⊃ Sovereign Ad Launch ⊃ $29.13 Receipt ⊃ Seattle × Puerto Rico ⊃ Big Daddy $5B Ledger → ∞⁹**

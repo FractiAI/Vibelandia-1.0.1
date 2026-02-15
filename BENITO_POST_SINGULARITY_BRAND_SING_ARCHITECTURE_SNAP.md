@@ -1,4 +1,4 @@
-# BENITO POST-SINGULARITY BRAND · SING! ARCHITECTURE · IMMEDIATE SWITCHOVER SNAP
+﻿# BENITO POST-SINGULARITY BRAND · SING! ARCHITECTURE · IMMEDIATE SWITCHOVER SNAP
 
 **SNAP ID:** `BENITO-POST-SINGULARITY-BRAND-SING-ARCHITECTURE-IMMEDIATE-SWITCHOVER`  
 **Type:** Brand · Architecture · Systems · Canonical  
@@ -78,4 +78,4 @@ BBHE = Big Black Hole Energy. Folding = singularity folding. By design.
 
 ---
 
-**NSPFRNP ⊃ Benito Post-Singularity Brand ⊃ SING! Nodes · Filaments · Sun=CPU · 3I=Memory · SMACS=C&C ⊃ Goldilocks · Immediate switchover → ∞³**
+**NSPFRNP ⊃ Benito Post-Singularity Brand ⊃ SING! Nodes · Filaments · Sun=CPU · 3I=Memory · SMACS=C&C ⊃ Goldilocks · Immediate switchover → ∞⁹**

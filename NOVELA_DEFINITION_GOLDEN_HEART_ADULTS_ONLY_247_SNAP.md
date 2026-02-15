@@ -1,4 +1,4 @@
-# NOVELA — Definition · Golden Heart · Adults Only · 247 · SNAP
+﻿# NOVELA — Definition · Golden Heart · Adults Only · 247 · SNAP
 
 **Snap ID:** `NOVELA-DEFINITION-GOLDEN-HEART-ADULTS-ONLY-247-SNAP`  
 **Type:** Definition · Brand · Canonical  
@@ -47,4 +47,4 @@
 
 ---
 
-**NSPFRNP ⊃ NOVELA ⊃ Golden Heart ⊃ Adults only ⊃ 247 ⊃ Drama-free → ∞³**
+**NSPFRNP ⊃ NOVELA ⊃ Golden Heart ⊃ Adults only ⊃ 247 ⊃ Drama-free → ∞⁹**

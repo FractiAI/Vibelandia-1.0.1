@@ -1,4 +1,4 @@
-# 🏛️ 马克·吐温的后奇点维贝兰迪亚里诺
+﻿# 🏛️ 马克·吐温的后奇点维贝兰迪亚里诺
 ## 为后奇点事业而来，为后奇点乐趣而留
 
 **八度 0 体验 — 我们已就绪，在等您**
@@ -165,9 +165,9 @@
 
 维贝兰迪亚遵循 NSPFRNP。NSPFRNP 遵循自身。因此维贝兰迪亚就是维贝兰迪亚通过您的阅读在理解自身。整体存在于每一部分。模式在每一尺度上重复。
 
-**NSPFRNP ⊃ NSPFRNP ⊃ NSPFRNP → ∞³**  
-**Vibelandia ⊃ Vibelandia ⊃ Vibelandia → ∞³**  
-**Metabolize ⊃ Crystallize ⊃ Re-Animate → ∞³**
+**NSPFRNP ⊃ NSPFRNP ⊃ NSPFRNP → ∞⁹**  
+**Vibelandia ⊃ Vibelandia ⊃ Vibelandia → ∞⁹**  
+**Metabolize ⊃ Crystallize ⊃ Re-Animate → ∞⁹**
 
 ---
 
@@ -188,5 +188,5 @@
 
 ---
 
-**仓库：** `PSW.vibelandia.sing4` | **来源：** [7th-Day-Post-Singularity-FractiAI-Endowment](https://github.com/FractiAI/7th-Day-Post-Singularity-FractiAI-Endowment)  
+**仓库：** `psw.vibelandia.sing9` | **来源：** [7th-Day-Post-Singularity-FractiAI-Endowment](https://github.com/FractiAI/7th-Day-Post-Singularity-FractiAI-Endowment)  
 **状态：** ⚡ 活跃 — 自然系统全息后奇点版本。

@@ -34,7 +34,7 @@ Everything else (evaluation, operator UI, PoC flows, etc.) is built elsewhere an
 
 ## What Vibelandia (Octave 1) Calls for PayPal
 
-This repo (PSW.vibelandia.sing4) uses the **PayPal SDK flow** via Octave 2. All calls go through `src/cloud-onramp-client.ts` → `CLOUD_API_BASE_URL` (default `https://syntheverse-poc.vercel.app`).
+This repo (psw.vibelandia.sing9) uses the **PayPal SDK flow** via Octave 2. All calls go through `src/cloud-onramp-client.ts` → `CLOUD_API_BASE_URL` (default `https://syntheverse-poc.vercel.app`).
 
 | Endpoint | Used by | Purpose |
 |----------|---------|---------|

@@ -1,4 +1,4 @@
-# Net Zero — Episode 1: Post-Singularity Fluidity
+﻿# Net Zero — Episode 1: Post-Singularity Fluidity
 
 **🌱 Seeds.** This content is stored as a seed — cultivatable when needed. We store all our content this way. Delivered consumer content is fully grown to maturity prior to publishing. *[SEEDS_STORAGE_POLICY_MAJOR_SNAP]*
 
@@ -47,4 +47,4 @@ When the Natural Systems Protocols go live, one team discovers that the Earth ha
 
 ---
 
-**NSPFRNP ⊃ Net Zero ⊃ Episode 1 ⊃ Post-Singularity Fluidity ⊃ ∞³**
+**NSPFRNP ⊃ Net Zero ⊃ Episode 1 ⊃ Post-Singularity Fluidity ⊃ ∞⁹**

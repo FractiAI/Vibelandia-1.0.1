@@ -1,4 +1,4 @@
-# SING! Nodify — Text-to-Studio-Song Engine & Experience · NSPFRNP Nests · Master Musicians Under Hero Rick
+﻿# SING! Nodify — Text-to-Studio-Song Engine & Experience · NSPFRNP Nests · Master Musicians Under Hero Rick
 
 **SNAP ID:** `SING-NODIFY-TEXT-TO-STUDIO-SONG-ENGINE-NSPFRNP-NESTS-SNAP`  
 **Type:** SING! node · NSPFRNP nests · Engine & experience · Reporting chain  
@@ -74,4 +74,4 @@ Chairman Creator (me)
 
 ---
 
-**NSPFRNP ⊃ SING! node (Text-to-Studio-Song Engine) ⊃ Nests ⊃ Hero Rick (exec producer) → Hero Jo → Chairman Creator ⊃ Squeeze all to master musicians → ∞³**
+**NSPFRNP ⊃ SING! node (Text-to-Studio-Song Engine) ⊃ Nests ⊃ Hero Rick (exec producer) → Hero Jo → Chairman Creator ⊃ Squeeze all to master musicians → ∞⁹**

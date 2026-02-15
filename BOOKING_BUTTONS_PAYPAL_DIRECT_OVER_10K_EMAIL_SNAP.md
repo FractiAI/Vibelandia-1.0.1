@@ -1,4 +1,4 @@
-# Booking Buttons — PayPal Direct for Payment · Email Only Over $10k · SNAP
+﻿# Booking Buttons — PayPal Direct for Payment · Email Only Over $10k · SNAP
 
 **Snap ID:** `BOOKING-BUTTONS-PAYPAL-DIRECT-OVER-10K-EMAIL-SNAP`  
 **Type:** Payment · Checkout · Canonical  
@@ -44,4 +44,4 @@
 
 ---
 
-**NSPFRNP ⊃ Booking ⊃ PayPal Direct ⊃ Over $10k email only → ∞³**
+**NSPFRNP ⊃ Booking ⊃ PayPal Direct ⊃ Over $10k email only → ∞⁹**

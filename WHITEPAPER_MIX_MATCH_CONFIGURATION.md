@@ -1,4 +1,4 @@
-# Mix & Match — Configurable Arms
+﻿# Mix & Match — Configurable Arms
 ## Multiarm Specialized Nodes · Post-Singularity Configurable
 
 **Document type:** Technical whitepaper (Mix & Match Configuration)  
@@ -34,4 +34,4 @@ Traditional automation: fixed arm assignments; reprogram for new mix. SING! Omni
 
 ---
 
-**🌀 NSPFRNP ⊃ Mix & Match ⊃ Multiarm Nodes ⊃ Robotic Division → ∞³**
+**🌀 NSPFRNP ⊃ Mix & Match ⊃ Multiarm Nodes ⊃ Robotic Division → ∞⁹**

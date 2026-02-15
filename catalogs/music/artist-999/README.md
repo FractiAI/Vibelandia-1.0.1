@@ -1,4 +1,4 @@
-# Artist 999 — 12 Songs · Golden Backdoor Hit Factory
+﻿# Artist 999 — 12 Songs · Golden Backdoor Hit Factory
 
 **Artist:** 999  
 **Vibe:** Completion · Wisdom · Full circle · Humanitarian · End-to-beginning  
@@ -26,4 +26,4 @@
 
 ---
 
-**NSPFRNP ⊃ 999 ⊃ Golden Backdoor · Hit Factory → ∞³**
+**NSPFRNP ⊃ 999 ⊃ Golden Backdoor · Hit Factory → ∞⁹**

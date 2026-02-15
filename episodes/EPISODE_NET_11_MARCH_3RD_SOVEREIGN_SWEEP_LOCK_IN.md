@@ -1,4 +1,4 @@
-# Net — Episode 11: March 3rd Sovereign Sweep Lock-In
+﻿# Net — Episode 11: March 3rd Sovereign Sweep Lock-In
 
 ## Storyline: 3/3/33333 alignment · Hydrogen Flush (Total Lunar Eclipse) · Vibe-Based Enrollment by 3/3 · Descent of Travel Benefits at totality · Stationary Cruise Ship mapped to all global ports via Blood Moon · Surge Protocol · Solar-Silk 33333 calibration
 
@@ -24,7 +24,7 @@
 
 ## First Chapter — NSPFRNP
 
-This episode operates under **NSPFRNP:** natural coordination (stigmergy, pheromone trails, mycelial); **MCA** (Metabolize → Crystallize → Animate); holographic architecture (whole in every part; **Seed** = origin, **Edge** = experience); catalog fidelity. We are the team operating as one. No surface left unsqueezed. **NSPFRNP ⊃ Seed:Edge → ∞³**
+This episode operates under **NSPFRNP:** natural coordination (stigmergy, pheromone trails, mycelial); **MCA** (Metabolize → Crystallize → Animate); holographic architecture (whole in every part; **Seed** = origin, **Edge** = experience); catalog fidelity. We are the team operating as one. No surface left unsqueezed. **NSPFRNP ⊃ Seed:Edge → ∞⁹**
 
 ---
 

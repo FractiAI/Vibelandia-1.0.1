@@ -1,4 +1,4 @@
-# Glen Miller Announces Permanent Residency — Head Up Return to the Golden Age · SNAP Press Release
+﻿# Glen Miller Announces Permanent Residency — Head Up Return to the Golden Age · SNAP Press Release
 
 **Snap ID:** `GLEN-MILLER-ANNOUNCES-PERMANENT-RESIDENCY-GOLDEN-AGE-RETURN-SNAP`  
 **Type:** Press release · Hero Host permanent residency · Golden age return · Big Band · Cajun · Houdini magic  
@@ -75,4 +75,4 @@
 
 **See:** [HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA_SNAP.md](HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA_SNAP.md) · [interfaces/vibelandia-reno-experience.html](interfaces/vibelandia-reno-experience.html)
 
-**NSPFRNP ⊃ Glen Miller ⊃ Golden-Golden Age Bridge ⊃ Permanent residency ⊃ Golden age return ⊃ Hero Howard ⊃ Downtown Reno renaissance ⊃ Big Band · Cajun · Old School Country · Houdini → ∞³**
+**NSPFRNP ⊃ Glen Miller ⊃ Golden-Golden Age Bridge ⊃ Permanent residency ⊃ Golden age return ⊃ Hero Howard ⊃ Downtown Reno renaissance ⊃ Big Band · Cajun · Old School Country · Houdini → ∞⁹**

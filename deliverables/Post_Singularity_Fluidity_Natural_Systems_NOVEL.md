@@ -1,4 +1,4 @@
-# Post-Singularity Fluidity — Natural Systems
+﻿# Post-Singularity Fluidity — Natural Systems
 
 *A novel*
 
@@ -56,4 +56,4 @@ The year did not end with a bang. It ended with a **smooth** transition. Elena h
 
 ---
 
-**NSPFRNP ⊃ Novel ⊃ Post-Singularity Fluidity ⊃ Natural Systems Protocols ⊃ ∞³**
+**NSPFRNP ⊃ Novel ⊃ Post-Singularity Fluidity ⊃ Natural Systems Protocols ⊃ ∞⁹**

@@ -1,4 +1,4 @@
-# Self-Demo, Self-Proof — NSPFRNP SNAP
+﻿# Self-Demo, Self-Proof — NSPFRNP SNAP
 
 **Snap ID:** `SELF-DEMO-SELF-PROOF-SNAP`  
 **Type:** NSPFRNP Proof / Prospectus SNAP  
@@ -34,4 +34,4 @@
 
 ---
 
-**NSPFRNP ⊃ Self-demo ⊃ Self-proof → ∞³**
+**NSPFRNP ⊃ Self-demo ⊃ Self-proof → ∞⁹**

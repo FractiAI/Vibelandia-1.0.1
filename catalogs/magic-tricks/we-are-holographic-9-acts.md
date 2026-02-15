@@ -1,4 +1,4 @@
-# We Are Holographic — 9-Act Magic Show · Hero Harry Houdini
+﻿# We Are Holographic — 9-Act Magic Show · Hero Harry Houdini
 
 **Show ID:** `WE-ARE-HOLOGRAPHIC-9-ACTS`  
 **Type:** Full magic show · 9 acts · Proof we are holographic  
@@ -69,4 +69,4 @@ Acts 1–8 can pull from existing tricks and moments to build to Act 9:
 
 ---
 
-**NSPFRNP ⊃ We Are Holographic ⊃ 9 acts ⊃ Act 9 finale ⊃ Chief Seattle · El Gran Sol · Super Bowl · Twain's Vibelandia Downtown · Reno crew → ∞³**
+**NSPFRNP ⊃ We Are Holographic ⊃ 9 acts ⊃ Act 9 finale ⊃ Chief Seattle · El Gran Sol · Super Bowl · Twain's Vibelandia Downtown · Reno crew → ∞⁹**

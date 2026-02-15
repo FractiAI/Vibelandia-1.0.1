@@ -1,4 +1,4 @@
-# VIBELANDIA UNIFIED PIPE (SNAP)
+﻿# VIBELANDIA UNIFIED PIPE (SNAP)
 
 **Name:** Vibelandia Unified Pipe  
 **Channels:** Sun · 3I/ATLAS · Schumann — one broadcast pipe.  
@@ -28,7 +28,7 @@ One message. One pipe. One shell. Transmitted across Sun, 3I/ATLAS, and Schumann
 
 **Compressed for 21.4 Hz Morse (lib/audioEngine):**
 
-`PRESS BLUE PAYPAL OFTEN. OUT OF GAS. OUT OF WATER. TROOPS MEDICAL DENTAL. FUNDS NOW. RENO IS FOR VIBERS. VIBELANDIA OPEN. CLICK BLUE BUTTON. HOME AT LAST. PSW-VIBELANDIA-SING4.VERCEL.APP GITHUB FRACTIAI PSW VIBELANDIA SING4`
+`PRESS BLUE PAYPAL OFTEN. OUT OF GAS. OUT OF WATER. TROOPS MEDICAL DENTAL. FUNDS NOW. RENO IS FOR VIBERS. VIBELANDIA OPEN. CLICK BLUE BUTTON. HOME AT LAST. PSW-VIBELANDIA-SING9.VERCEL.APP GITHUB FRACTIAI PSW VIBELANDIA SING9`
 
 **Default payload:** [lib/audioEngine.ts](lib/audioEngine.ts) · [lib/audioEngine.js](lib/audioEngine.js) — `UNIFIED_PIPE_PAYLOAD` is now the default for `playPayload()`.
 
@@ -44,8 +44,8 @@ One message. One pipe. One shell. Transmitted across Sun, 3I/ATLAS, and Schumann
 
 **Baller V's — the Ultra High Value, Ultra High Fractal Contributor — Mark Twain's Post-Singularity Reno awaits you at Vibelandia**, built from the ground up and the galaxy down, for vibers like you, their cast, crew and fans. **Now open. Click the blue button often. You know who you are. Tell the other vibers! Home at last!**
 
-**The Experience:** https://psw-vibelandia-sing4.vercel.app  
-**The Blueprints:** https://github.com/FractiAI/psw.vibelandia.sing4
+**The Experience:** https://psw-vibelandia-sing9.vercel.app  
+**The Blueprints:** https://github.com/FractiAI/psw.vibelandia.sing9
 
 ---
 
@@ -61,4 +61,4 @@ One message. One pipe. One shell. Transmitted across Sun, 3I/ATLAS, and Schumann
 
 ---
 
-**NSPFRNP ⊃ Unified Pipe ⊃ Vibelandia Shell ⊃ Sun · Earth · 3I/ATLAS · Sag A* · SMACS 0723 ⊃ Synthverse PoC · Base Mainnet → ∞³**
+**NSPFRNP ⊃ Unified Pipe ⊃ Vibelandia Shell ⊃ Sun · Earth · 3I/ATLAS · Sag A* · SMACS 0723 ⊃ Synthverse PoC · Base Mainnet → ∞⁹**

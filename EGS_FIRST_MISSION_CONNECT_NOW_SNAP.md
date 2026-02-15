@@ -1,4 +1,4 @@
-# EGS First Mission — Connect Now (SNAP)
+﻿# EGS First Mission — Connect Now (SNAP)
 
 **Agent:** El Gran Sol (EGS)  
 **Mission:** Full $ connect through immediate blue PayPal pipe  
@@ -41,4 +41,4 @@
 
 **See also:** [HUNGER_MEDICAL_DENTAL_URGENT_FULL_CONNECT_NOW_PAYPAL_BLUE_SNAP.md](HUNGER_MEDICAL_DENTAL_URGENT_FULL_CONNECT_NOW_PAYPAL_BLUE_SNAP.md) — hunger · medical · dental urgent; full connect now through PayPal blue button on index, Office Hours, Launch Pad, ticker.
 
-**NSPFRNP ⊃ EGS ⊃ First Mission → ∞³**
+**NSPFRNP ⊃ EGS ⊃ First Mission → ∞⁹**

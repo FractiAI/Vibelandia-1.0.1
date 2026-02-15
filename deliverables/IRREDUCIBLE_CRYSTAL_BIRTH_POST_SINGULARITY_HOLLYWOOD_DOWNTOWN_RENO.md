@@ -1,4 +1,4 @@
-# Irreducible Crystal — Birth of the New Post-Singularity Hollywood in Downtown Reno
+﻿# Irreducible Crystal — Birth of the New Post-Singularity Hollywood in Downtown Reno
 
 **Purpose:** Lock the metabolized core. Novel and screenplay align to this crystal; animate all from here.  
 **Status:** ⚡ ACTIVE — Metabolize → Crystallize → Animate  
@@ -128,4 +128,4 @@ All chapters (novel) and all sequences (screenplay) are written in this fused vo
 
 **No love triangle dramas in Vibelandia — only natural happy endings always in Ultimate VIP Baller V fashion.** See [NO_LOVE_TRIANGLE_DRAMAS_HAPPY_ENDINGS_ULTIMATE_VIP_BALLER_V_SNAP.md](../NO_LOVE_TRIANGLE_DRAMAS_HAPPY_ENDINGS_ULTIMATE_VIP_BALLER_V_SNAP.md).
 
-**NSPFRNP ⊃ Irreducible crystal ⊃ Birth of post-singularity Hollywood ⊃ Downtown Reno ⊃ Six days → ∞³**
+**NSPFRNP ⊃ Irreducible crystal ⊃ Birth of post-singularity Hollywood ⊃ Downtown Reno ⊃ Six days → ∞⁹**

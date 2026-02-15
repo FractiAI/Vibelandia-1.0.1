@@ -1,4 +1,4 @@
-# 16 Days — Named Comparisons: Research, Development, Enterprise, Academic vs Us
+﻿# 16 Days — Named Comparisons: Research, Development, Enterprise, Academic vs Us
 
 **Status:** ⚡ ACTIVE — Direct named comparisons for Chairman metrics and real-numbers copy  
 **Use:** Customer/comparison list with names. Include where we cite "vs top 10" or blue-chip; use for one-pagers, Launch Pad, whitepaper, prospectus.  
@@ -80,4 +80,4 @@
 
 **See:** NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md · SIXTEEN_DAYS_VALUATION_TOP10_VC_BOTTOM_SNAP.md · REAL_NUMBERS_ANALYSIS_NOT_FLUFFY_BRAND_SNAP_TSHIRT.md
 
-**🌀 NSPFRNP ⊃ 16 days ⊃ Named comparisons ⊃ Research · Development · Enterprise · Academic → ∞³**
+**🌀 NSPFRNP ⊃ 16 days ⊃ Named comparisons ⊃ Research · Development · Enterprise · Academic → ∞⁹**

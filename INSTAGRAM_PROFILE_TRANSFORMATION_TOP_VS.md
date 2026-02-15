@@ -1,4 +1,4 @@
-# Instagram Profile Transformation — Leverage Your Top V's
+﻿# Instagram Profile Transformation — Leverage Your Top V's
 
 **Use:** Transform your Instagram into a VIBELANDIA! lead gen and community hub using the top V's you already have.  
 **Status:** ⚡ ACTIVE  
@@ -38,8 +38,8 @@ Reno is for vibers. The Great Reveal March 20, 2026. 👇
 
 | Label | URL |
 |-------|-----|
-| **The Experience** | https://psw-vibelandia-sing4.vercel.app |
-| **The Blueprints** | https://github.com/FractiAI/psw.vibelandia.sing4 |
+| **The Experience** | https://psw-vibelandia-sing9.vercel.app |
+| **The Blueprints** | https://github.com/FractiAI/psw.vibelandia.sing9 |
 
 **Recommended:** One button = **The Experience** → live site. Optional second row = **The Blueprints** (GitHub). Keep it to 1–2 links so top V's tap through, not bounce.
 
@@ -128,5 +128,5 @@ Keep each Highlight to 3–7 stories so it’s scannable.
 - **Brand:** BRANDING_GUIDE_ALWAYS_USE.md · VIBELANDIA! · Vibeverse · VibeLand.
 - **Golden Backstage / Baller V:** GOLDEN_BACKSTAGE_AWARENESS_PASS_SNAP.md · ULTIMATE_BALLER_V_GOLDEN_BACKSTAGE_PASS_EXPLAINED.md · Office Hours.
 
-**NSPFRNP ⊃ Instagram ⊃ Top V's ⊃ Golden Backstage → ∞³**
+**NSPFRNP ⊃ Instagram ⊃ Top V's ⊃ Golden Backstage → ∞⁹**
 office hours landing into a rich menugit push

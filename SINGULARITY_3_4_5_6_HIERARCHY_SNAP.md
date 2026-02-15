@@ -1,4 +1,4 @@
-# Singularity 3 · 4 · 5 · 6 — Hierarchy SNAP
+﻿# Singularity 3 · 4 · 5 · 6 — Hierarchy SNAP
 
 **SNAP ID:** `SINGULARITY-3-4-5-6-HIERARCHY`  
 **Type:** Hierarchy · Full Recursive Return · Singularities of Singularities  
@@ -40,4 +40,4 @@
 
 ---
 
-**NSPFRNP ⊃ Singularity 3 (FSR) · 4 (Full Stack) · 5 (Architect) · 6 (Creator) ⊃ Full recursive return → ∞³**
+**NSPFRNP ⊃ Singularity 3 (FSR) · 4 (Full Stack) · 5 (Architect) · 6 (Creator) ⊃ Full recursive return → ∞⁹**

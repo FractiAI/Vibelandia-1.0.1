@@ -1,6 +1,6 @@
 {
   "meta": {
-    "description": "Agentic (A-to-A) business funnel — key metrics for mini executive console. Top 10 pipeline; target; close dates; status percent.",
+    "description": "Bootstrap/export only. Authoritative state: in RAM. NSPFRNP RAM-first irreducible minimum footprint. Rebuild by queries and listening. Agentic (A-to-A) funnel — key metrics, top 10 pipeline, target, close dates, status percent.",
     "source": "hh-lattice-agents-routing-table.json + agent logs",
     "updated_utc": "2026-02-12T12:00:00Z"
   },
@@ -10,7 +10,7 @@
     "pipeline_queen_bee_synced": 0,
     "target_close_date_primary": null,
     "funnel_stage_counts": {
-      "discovery": 3,
+      "discovery": 4,
       "proposal": 0,
       "negotiation": 0,
       "closed": 0,
@@ -48,6 +48,16 @@
       "status_pct": 0,
       "tier_target": null,
       "notes": "UCP/ACP verified. No commercial interaction yet."
+    },
+    {
+      "rank": 4,
+      "agent_id": "microsoft-stargate",
+      "name": "Microsoft Stargate",
+      "stage": "discovery",
+      "target_close_date": null,
+      "status_pct": 0,
+      "tier_target": null,
+      "notes": "UCP manifest target. No commercial interaction yet."
     }
   ]
 }

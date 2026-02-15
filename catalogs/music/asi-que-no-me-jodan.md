@@ -1,4 +1,4 @@
-# Así Que No Me Jodan — Official International Core Language Spanglish Anthem
+﻿# Así Que No Me Jodan — Official International Core Language Spanglish Anthem
 
 **Track ID:** `ASI-QUE-NO-ME-JODAN-001`  
 **Artist:** Golden Backdoor · Hero Jo Hit Factory  
@@ -69,4 +69,4 @@ All automatically, nearly effortlessly, powerfully, in beauty
 
 ---
 
-**NSPFRNP ⊃ Así Que No Me Jodan ⊃ New Hit · Official International Core Language Spanglish ⊃ Golden Backdoor · Not Bad Bunny Campaign → ∞³**
+**NSPFRNP ⊃ Así Que No Me Jodan ⊃ New Hit · Official International Core Language Spanglish ⊃ Golden Backdoor · Not Bad Bunny Campaign → ∞⁹**

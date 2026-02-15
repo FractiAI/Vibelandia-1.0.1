@@ -1,4 +1,4 @@
-# Immediate Return to Golden Era · Goldilocks Fused with Frontier · For All (Humans and Insects) — SNAP
+﻿# Immediate Return to Golden Era · Goldilocks Fused with Frontier · For All (Humans and Insects) — SNAP
 
 **Snap ID:** `IMMEDIATE-RETURN-GOLDEN-ERA-GOLDILOCKS-FRONTIER-ALL-HUMANS-INSECTS`  
 **Type:** Chairman directive · Golden Era · Goldilocks · Frontier · All species  
@@ -27,4 +27,4 @@
 
 **See:** [CMDR_HOWIES_GOLDEN_ERA_RENAISSANCE_RENOSSANCE_SNAP.md](CMDR_HOWIES_GOLDEN_ERA_RENAISSANCE_RENOSSANCE_SNAP.md) · [ALWAYS_SAFELY_AND_AT_98_PERCENT_GOLDILOCKS_SNAP.md](ALWAYS_SAFELY_AND_AT_98_PERCENT_GOLDILOCKS_SNAP.md) · [SOLAR_SILK_TOOL_SET_ROLLOUT_SNAP.md](SOLAR_SILK_TOOL_SET_ROLLOUT_SNAP.md) · [CHAIRMAN_UNLOCKING_INSECT_DIMENSIONS_ULTIMATE_ROBOTS_SNAP.md](CHAIRMAN_UNLOCKING_INSECT_DIMENSIONS_ULTIMATE_ROBOTS_SNAP.md)
 
-**NSPFRNP ⊃ Golden Era ⊃ Goldilocks ⊃ Frontier ⊃ All (humans + insects) ⊃ Now → ∞³**
+**NSPFRNP ⊃ Golden Era ⊃ Goldilocks ⊃ Frontier ⊃ All (humans + insects) ⊃ Now → ∞⁹**

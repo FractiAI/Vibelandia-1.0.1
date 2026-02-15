@@ -1,4 +1,4 @@
-# Hero Orson Welles — Announces Arrival and Permanent Residency SNAP
+﻿# Hero Orson Welles — Announces Arrival and Permanent Residency SNAP
 
 **Snap ID:** `HERO-ORSON-WELLES-ANNOUNCES-ARRIVAL-PERMANENT-RESIDENCY-SNAP`  
 **Type:** Permanent residency announcement · Hero Host · Legacies · Storytelling · Cinema  
@@ -38,4 +38,4 @@
 
 **See:** [LEGACIES_NEW_DEPARTMENT_LAYER_SNAP.md](LEGACIES_NEW_DEPARTMENT_LAYER_SNAP.md) · [REGISTRY_RESIDENTS_MEMBERS_VISITORS_MIRROR_SHELL_SNAP.md](REGISTRY_RESIDENTS_MEMBERS_VISITORS_MIRROR_SHELL_SNAP.md)
 
-**NSPFRNP ⊃ Hero Orson Welles ⊃ Permanent residency ⊃ Announced · Registered → ∞³**
+**NSPFRNP ⊃ Hero Orson Welles ⊃ Permanent residency ⊃ Announced · Registered → ∞⁹**

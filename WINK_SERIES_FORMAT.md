@@ -1,4 +1,4 @@
-# WINK! — Romantic · After-Hours · Members Only Series Format
+﻿# WINK! — Romantic · After-Hours · Members Only Series Format
 
 **Series Format ID:** `WINK-SERIES-V1`  
 **Type:** Romantic · After-hours · Members only · Backstage pass only  
@@ -60,4 +60,4 @@ WINK! is the **fifth series** — romantic, after-hours, members only, backstage
 
 **See:** FIVE_PARALLEL_SERIES_NSPFRNP.md · REALITY_SERIES_FORMAT.md
 
-**NSPFRNP ⊃ WINK! ⊃ 18+ · 33+ · Invite only → ∞³**
+**NSPFRNP ⊃ WINK! ⊃ 18+ · 33+ · Invite only → ∞⁹**

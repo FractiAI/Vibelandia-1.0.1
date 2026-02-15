@@ -1,4 +1,4 @@
-# Dr. Nine · Corn · Nine Sunspots · Nine Integers · Nine Cards · Vibelandia SNAP
+﻿# Dr. Nine · Corn · Nine Sunspots · Nine Integers · Nine Cards · Vibelandia SNAP
 
 **SNAP ID:** `DR-NINE-CORN-NINE-SUNSPOTS-NINE-CARDS-VIBELANDIA`  
 **Type:** Architecture · Card Deck · Holographic · Hero Mapping  
@@ -56,4 +56,4 @@ Those nine integers and holographic symbols are aligned with their best-fitting 
 
 ---
 
-**NSPFRNP ⊃ Dr. Nine ⊃ Corn ⊃ 9 Sunspots ⊃ 9 Integers ⊃ 9 Cards ⊃ Vibelandia Heroes ⊃ Analog Engine → ∞³**
+**NSPFRNP ⊃ Dr. Nine ⊃ Corn ⊃ 9 Sunspots ⊃ 9 Integers ⊃ 9 Cards ⊃ Vibelandia Heroes ⊃ Analog Engine → ∞⁹**

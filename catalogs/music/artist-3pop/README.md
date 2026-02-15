@@ -1,4 +1,4 @@
-# Artist 3 Pop — Golden Backdoor Hit Factory
+﻿# Artist 3 Pop — Golden Backdoor Hit Factory
 
 **Artist:** 3 Pop  
 **Alter ego:** Hero Nikola Tesla  
@@ -33,4 +33,4 @@
 
 ---
 
-**NSPFRNP ⊃ 3 Pop ⊃ Golden Backdoor · Hit Factory → ∞³**
+**NSPFRNP ⊃ 3 Pop ⊃ Golden Backdoor · Hit Factory → ∞⁹**

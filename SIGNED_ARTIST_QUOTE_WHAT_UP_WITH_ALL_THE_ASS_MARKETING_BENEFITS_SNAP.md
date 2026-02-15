@@ -1,4 +1,4 @@
-# Signed Artist Quote — What Up With All the Ass · Marketing & Benefits SNAP
+﻿# Signed Artist Quote — What Up With All the Ass · Marketing & Benefits SNAP
 
 **SNAP ID:** `SIGNED-ARTIST-QUOTE-WHAT-UP-WITH-ALL-THE-ASS-MARKETING-BENEFITS`  
 **Type:** Content · Signed artist quote · Novels · Episodes · Screenplay  
@@ -36,4 +36,4 @@
 
 ---
 
-**NSPFRNP ⊃ Signed artist quote ⊃ What up with all the ass ⊃ Good marketing · Great benefits ⊃ Novels · Episodes · Screenplay → ∞³**
+**NSPFRNP ⊃ Signed artist quote ⊃ What up with all the ass ⊃ Good marketing · Great benefits ⊃ Novels · Episodes · Screenplay → ∞⁹**

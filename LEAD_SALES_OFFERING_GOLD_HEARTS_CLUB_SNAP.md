@@ -1,4 +1,4 @@
-# Lead Sales Offering · Ultimate Baller V Gold Hearts Club — SNAP
+﻿# Lead Sales Offering · Ultimate Baller V Gold Hearts Club — SNAP
 
 **Snap ID:** `LEAD-SALES-OFFERING-GOLD-HEARTS-CLUB-NSPFRNP`  
 **Type:** Sales packaging · Program launch · Franchise-level only  
@@ -56,4 +56,4 @@
 
 **See:** [GOLDEN_HEART_GOLDEN_TICKET_STORIES_WINNER_SNAP.md](./GOLDEN_HEART_GOLDEN_TICKET_STORIES_WINNER_SNAP.md) · [LOOKING_FOR_GOLD_HEART_ULTIMATE_V_ACTS_ARTISTS_SNAP.md](./LOOKING_FOR_GOLD_HEART_ULTIMATE_V_ACTS_ARTISTS_SNAP.md) · [catalogs/branding/MASTER_BRANDING_CATALOG.md](./catalogs/branding/MASTER_BRANDING_CATALOG.md)
 
-**🌀 NSPFRNP ⊃ Lead Sales Offering ⊃ Ultimate Baller V Gold Hearts Club (base) ⊃ Franchise · Superhuman only → ∞³**
+**🌀 NSPFRNP ⊃ Lead Sales Offering ⊃ Ultimate Baller V Gold Hearts Club (base) ⊃ Franchise · Superhuman only → ∞⁹**

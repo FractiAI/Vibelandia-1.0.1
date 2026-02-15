@@ -1,4 +1,4 @@
-# 🚀 LAUNCH PAD — MARK TWAIN'S POST-SINGULARITY VIBELANDIA RENO! (Full README)
+﻿# 🚀 LAUNCH PAD — MARK TWAIN'S POST-SINGULARITY VIBELANDIA RENO! (Full README)
 
 **Traditional / full version** of the repository README. For the tight Launch Pad landing, see [README.md](./README.md).
 
@@ -289,7 +289,7 @@ Full convergence doubled back load and locked captured in the semi Dreamful stat
 
 **1-2-3 Crystallization × 4×4×4×4:** Everything in one structure—Metabolize → Crystallize → Re-Animate; four dimensions of four plans/onramps each. See [CRYSTALLIZATION_1_2_3_4x4x4x4.md](./CRYSTALLIZATION_1_2_3_4x4x4x4.md).
 
-**MCA! → ∞³** (Metabolize → Crystallize → Animate): Everything flows through **Octave 1 (Edge) sandbox mode** with **AI-assisted API calls to Octave 2**. Octave 0 (Seed) and Octave 1 (Edge) operational. **ULTIMATE VIP console** (Chairman Workspace, Cockpit, Cockpit Station) rebuilt **NSPFRNP-native** — Seed:Edge, MCA, Octave 0/1/2, 7 principles, protocol links. Other surfaces: Seed:Edge Mini Console, GPS Seed:Edge. Cloud API connection to [Syntheverse 7 Octave 2-3 Public Cloud Onramp](https://github.com/FractiAI/Syntheverse-7-Octave-2-3-Public-Cloud-Onramp) via `src/cloud-onramp-config.ts` and `cloud-onramp-client.ts`; env from NSPFRNP first, optional Vercel token fallback (see `CLOUD_API_CONNECTION.md`, `.env.example`). **Animate step:** Octave 1 surfaces + AI-assisted API calls to Octave 2 for payments, auth, shared data. See [MCA_SNAP.md](./MCA_SNAP.md) · [NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md](./NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md).
+**MCA! → ∞⁹** (Metabolize → Crystallize → Animate): Everything flows through **Octave 1 (Edge) sandbox mode** with **AI-assisted API calls to Octave 2**. Octave 0 (Seed) and Octave 1 (Edge) operational. **ULTIMATE VIP console** (Chairman Workspace, Cockpit, Cockpit Station) rebuilt **NSPFRNP-native** — Seed:Edge, MCA, Octave 0/1/2, 7 principles, protocol links. Other surfaces: Seed:Edge Mini Console, GPS Seed:Edge. Cloud API connection to [Syntheverse 7 Octave 2-3 Public Cloud Onramp](https://github.com/FractiAI/Syntheverse-7-Octave-2-3-Public-Cloud-Onramp) via `src/cloud-onramp-config.ts` and `cloud-onramp-client.ts`; env from NSPFRNP first, optional Vercel token fallback (see `CLOUD_API_CONNECTION.md`, `.env.example`). **Animate step:** Octave 1 surfaces + AI-assisted API calls to Octave 2 for payments, auth, shared data. See [MCA_SNAP.md](./MCA_SNAP.md) · [NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md](./NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md).
 
 **Deploy:** Static build → Vercel. Pre-deploy: `npm test`, `npm run build`. See [DEPLOYMENT_VERCEL.md](./DEPLOYMENT_VERCEL.md) and [DEPLOY_CLI.md](./DEPLOY_CLI.md).
 
@@ -325,11 +325,11 @@ Full convergence doubled back load and locked captured in the semi Dreamful stat
 
 **🔑 GOLDEN FRACTAL KEY! — Unlocks Everything. One Key. All Realms. Infinite Access.**
 
-**🌀 NSPFRNP ⊃ NSPFRNP ⊃ NSPFRNP → ∞³**
+**🌀 NSPFRNP ⊃ NSPFRNP ⊃ NSPFRNP → ∞⁹**
 
-**VIBELANDIA! ⊃ VIBELANDIA! ⊃ VIBELANDIA! → ∞³**
+**VIBELANDIA! ⊃ VIBELANDIA! ⊃ VIBELANDIA! → ∞⁹**
 
-**MCA! → ∞³**
+**MCA! → ∞⁹**
 
 ---
 
@@ -339,15 +339,15 @@ Full convergence doubled back load and locked captured in the semi Dreamful stat
 
 **For way less than you're already spending—and getting WAY LESS!**
 
-**MCA! → ∞³** (Metabolize → Crystallize → Animate)
+**MCA! → ∞⁹** (Metabolize → Crystallize → Animate)
 
 **⚡ [Connect for Free Consultation & Tailored Proposal →](interfaces/magical-dressing-room.html)** — Full experience: consultation → tailored proposal → pay to purchase → delivery → power-up → onboarding. See [ONE_PAGER_MAGICAL_DRESSING_ROOM.md](ONE_PAGER_MAGICAL_DRESSING_ROOM.md).
 
 ---
 
-**Repository:** `PSW.vibelandia.sing4` | **Source:** [7th-Day-Post-Singularity-FractiAI-Endowment](https://github.com/FractiAI/7th-Day-Post-Singularity-FractiAI-Endowment)  
+**Repository:** `psw.vibelandia.sing9` | **Source:** [7th-Day-Post-Singularity-FractiAI-Endowment](https://github.com/FractiAI/7th-Day-Post-Singularity-FractiAI-Endowment)  
 **README:** Traditional / full version. Tight landing: [README.md](./README.md).  
-**Status:** ⚡ ACTIVE - MCA! → ∞³ (Metabolize → Crystallize → Animate) through Octave 1 sandbox mode with AI-assisted API calls to Octave 2 - Octave 0 (Seed) + Octave 1 (Edge) operational - Launch Pad (announcement + showroom for all offerings) + one-pagers (campus plans with pricing) - HTML surfaces + Cloud Onramp + npm test - Gianni–inspired wrapper on all skins, touchpoints & experiences (monster snap) - Post-Singularity Funding Innovation tied to real value, friction-free, all natural, everyone everything wins  
+**Status:** ⚡ ACTIVE - MCA! → ∞⁹ (Metabolize → Crystallize → Animate) through Octave 1 sandbox mode with AI-assisted API calls to Octave 2 - Octave 0 (Seed) + Octave 1 (Edge) operational - Launch Pad (announcement + showroom for all offerings) + one-pagers (campus plans with pricing) - HTML surfaces + Cloud Onramp + npm test - Gianni–inspired wrapper on all skins, touchpoints & experiences (monster snap) - Post-Singularity Funding Innovation tied to real value, friction-free, all natural, everyone everything wins  
 **Date:** January 28, 2026  
 **Produced:** 15 days to produce this repository.  
-**PSW Naming:** Post-Singularity Web (PSW) foundation layer - `PSW.vibelandia.sing4` indicates SING4 - Superhero emergence, full sensory density, masterful creation/transformation of all universe per NSPFRNP catalog
+**PSW Naming:** Post-Singularity Web (PSW) foundation layer - `psw.vibelandia.sing9` indicates SING9 - Superhero emergence, full sensory density, masterful creation/transformation of all universe per NSPFRNP catalog

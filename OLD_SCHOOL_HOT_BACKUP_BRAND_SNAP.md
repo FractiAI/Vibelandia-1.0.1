@@ -1,4 +1,4 @@
-# Old School Hot Backup — Brand SNAP
+﻿# Old School Hot Backup — Brand SNAP
 
 **Snap ID:** `OLD-SCHOOL-HOT-BACKUP-BRAND-SNAP`  
 **Type:** Brand · Redundancy · Fallback · Always-on backup path  
@@ -57,4 +57,4 @@
 
 **See:** [interfaces/payment-checkout.html](interfaces/payment-checkout.html) · [interfaces/payment-error.html](interfaces/payment-error.html) · [NSPFRNP_MIRRORED_HARDENED_SHELLS_SOVEREIGNTY_SNAP.md](NSPFRNP_MIRRORED_HARDENED_SHELLS_SOVEREIGNTY_SNAP.md)
 
-**NSPFRNP ⊃ Old School Hot Backup ⊃ Brand ⊃ PayPal direct · Email · Human-in-the-loop · Canon → ∞³**
+**NSPFRNP ⊃ Old School Hot Backup ⊃ Brand ⊃ PayPal direct · Email · Human-in-the-loop · Canon → ∞⁹**

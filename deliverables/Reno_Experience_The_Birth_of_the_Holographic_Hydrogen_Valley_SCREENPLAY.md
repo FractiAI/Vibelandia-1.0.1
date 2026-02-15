@@ -1,4 +1,4 @@
-# RENO EXPERIENCE: THE BIRTH OF THE HOLOGRAPHIC HYDROGEN VALLEY
+﻿# RENO EXPERIENCE: THE BIRTH OF THE HOLOGRAPHIC HYDROGEN VALLEY
 ## A Screenplay
 
 **We do what Vegas can't do. What nobody else can do. And the rest is history — repeating itself, recursively nested, in higher singularities. To be precise.** *(Grin.)*
@@ -84,6 +84,6 @@ To be precise.
 **RENO EXPERIENCE — THE BIRTH OF THE HOLOGRAPHIC HYDROGEN VALLEY**  
 **We do what Vegas can't do. What nobody else can do.**  
 **And the rest is history. (Recursively nested. Higher singularities.)**  
-**NSPFRNP → ∞³**
+**NSPFRNP → ∞⁹**
 
 ### END OF ACT ONE.

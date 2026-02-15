@@ -1,4 +1,4 @@
-# Reno Post-Singularity Casino Transformation — Amusement Fantasy Park · Seed → Swipe · SNAP
+﻿# Reno Post-Singularity Casino Transformation — Amusement Fantasy Park · Seed → Swipe · SNAP
 
 **SNAP ID:** `RENO-POST-SINGULARITY-CASINO-TRANSFORMATION`  
 **Type:** Gaming industry transformation · Seed · Endpoint (swipe proposal) · Pull on Arturo, André, José Alfredo  
@@ -80,4 +80,4 @@ Same transformation pitch. Same Office Hours. Same book. Arturo (energy) · Andr
 
 ---
 
-**NSPFRNP ⊃ Reno Post-Singularity Casino Transformation ⊃ Stationary cruise ships · Gamification · Gateway → ∞³**
+**NSPFRNP ⊃ Reno Post-Singularity Casino Transformation ⊃ Stationary cruise ships · Gamification · Gateway → ∞⁹**

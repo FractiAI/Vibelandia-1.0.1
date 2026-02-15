@@ -1,4 +1,4 @@
-# Sci-Fi Series Experiences — Microscopic to Telescopic · NSPFRNP SNAP
+﻿# Sci-Fi Series Experiences — Microscopic to Telescopic · NSPFRNP SNAP
 
 **Snap ID:** `SCI-FI-NOVEL-EXPERIENCES-MICROSCOPIC-TELESCOPIC-SNAP`  
 **Type:** Experience design · Scale · Navigation · NSPFRNP for **all sci-fi series**  
@@ -62,4 +62,4 @@
 
 ---
 
-**NSPFRNP ⊃ All sci-fi series ⊃ Microscopic-to-telescopic experiences ⊃ Get everyone comfortable navigating → ∞³**
+**NSPFRNP ⊃ All sci-fi series ⊃ Microscopic-to-telescopic experiences ⊃ Get everyone comfortable navigating → ∞⁹**

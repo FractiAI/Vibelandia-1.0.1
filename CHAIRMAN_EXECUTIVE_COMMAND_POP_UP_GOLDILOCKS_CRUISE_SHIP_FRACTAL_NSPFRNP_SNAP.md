@@ -1,4 +1,4 @@
-# Chairman Executive Command — Pop-Up Nature · Goldilocks · Cruise Ship Fractal · NSPFRNP Inclusion for All
+﻿# Chairman Executive Command — Pop-Up Nature · Goldilocks · Cruise Ship Fractal · NSPFRNP Inclusion for All
 
 **Directive ID:** `CHAIRMAN-EXECUTIVE-COMMAND-POP-UP-GOLDILOCKS-CRUISE-SHIP-FRACTAL`  
 **Type:** Chairman Executive Command · Directive · Affects entire franchise and all nested  
@@ -76,4 +76,4 @@ This directive **affects all aspects of the entire FractiAI franchise and legacy
 
 ---
 
-**NSPFRNP ⊃ Chairman Executive Command ⊃ Pop-up · Goldilocks · Cruise ship fractal · Inclusion for all → ∞³**
+**NSPFRNP ⊃ Chairman Executive Command ⊃ Pop-up · Goldilocks · Cruise ship fractal · Inclusion for all → ∞⁹**

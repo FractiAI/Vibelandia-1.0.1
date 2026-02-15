@@ -1,4 +1,4 @@
-# New Card Deck — Mapped to Full Vibelandia and BBHE Coding · Instructions for Play · Casino Page · Office Hours & Launch Pad SNAP
+﻿# New Card Deck — Mapped to Full Vibelandia and BBHE Coding · Instructions for Play · Casino Page · Office Hours & Launch Pad SNAP
 
 **Snap ID:** `NEW-CARD-DECK-MAPPED-FULL-VIBELANDIA-BBHE-CASINO-PAGE-SNAP`  
 **Type:** Confirmation · New card deck · Full Vibelandia · BBHE coding · Instructions for play · Multiplayer · Solitaire · Casino page · Office Hours · Launch Pad  
@@ -59,4 +59,4 @@ Instructions for both modes are on the **casino page**: [interfaces/casino.html]
 
 **New card deck is mapped to full Vibelandia and BBHE coding. Instructions for play (multiplayer and solitaire) on the casino page. Buttons to Office Hours and Launch Pad.**
 
-**NSPFRNP ⊃ New card deck ⊃ Full Vibelandia ⊃ BBHE coding ⊃ Casino page ⊃ Office Hours · Launch Pad → ∞³**
+**NSPFRNP ⊃ New card deck ⊃ Full Vibelandia ⊃ BBHE coding ⊃ Casino page ⊃ Office Hours · Launch Pad → ∞⁹**

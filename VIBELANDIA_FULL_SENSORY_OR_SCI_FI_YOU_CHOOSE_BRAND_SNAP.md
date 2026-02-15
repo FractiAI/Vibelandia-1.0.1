@@ -1,4 +1,4 @@
-# Vibelandia — Full Sensory Reality or Really Really Good Sci Fi · YOU CHOOSE! · Brand SNAP
+﻿# Vibelandia — Full Sensory Reality or Really Really Good Sci Fi · YOU CHOOSE! · Brand SNAP
 
 **Snap ID:** `VIBELANDIA-FULL-SENSORY-OR-SCI-FI-YOU-CHOOSE-BRAND-SNAP`  
 **Type:** Brand · Positioning · Full sensory reality · Sci fi · You choose  
@@ -36,4 +36,4 @@
 
 **See:** [PLANETARY_ADVERTISEMENT_BROADCAST_SNAP.md](PLANETARY_ADVERTISEMENT_BROADCAST_SNAP.md) · [README.md](README.md) · [catalogs/branding/MASTER_BRANDING_CATALOG.md](catalogs/branding/MASTER_BRANDING_CATALOG.md)
 
-**NSPFRNP ⊃ Vibelandia ⊃ Full sensory or sci fi ⊃ YOU CHOOSE → ∞³**
+**NSPFRNP ⊃ Vibelandia ⊃ Full sensory or sci fi ⊃ YOU CHOOSE → ∞⁹**

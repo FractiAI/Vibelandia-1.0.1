@@ -1,4 +1,4 @@
-# Skins Upgrade — Images + Content (Social Journal) · Executive Plan
+﻿# Skins Upgrade — Images + Content (Social Journal) · Executive Plan
 
 **SNAP ID:** `SKINS-UPGRADE-IMAGES-EXECUTIVE-PLAN-SNAP`  
 **Type:** Executive plan · Skins upgrade: images (primary) + content ingest (social journal)  
@@ -20,6 +20,8 @@
 **Yes.** Surfaces are scrubbed, content systems metabolized, full production live. You already use images where it matters (e.g. `ultimate-magic-houdini-book-the-book.html` — cover in `interfaces/assets/`). Golden Era Cinema and Antique Book skins are CSS-first; adding images is the next natural step. Adding your social-journal content gives a canonical “seed” archive (2012 → now) and more owned media for heroes and cards.
 
 ---
+
+**Visual framing:** **Golden two-tone** is used in visuals to **auto-frame post-singularity Goldilocks.** Apply in heroes, cards, skins, and interfaces so the frame is instant. See [GOLDEN_TWO_TONE_VISUALS_POST_SINGULARITY_GOLDILOCKS_SNAP.md](GOLDEN_TWO_TONE_VISUALS_POST_SINGULARITY_GOLDILOCKS_SNAP.md).
 
 ## How to Do It — Three Sources, One Pipeline
 
@@ -106,4 +108,4 @@ The script unzips, ingests, writes Markdown and index, copies media. **Seed jour
 
 **Images (heroes/cards):** You point to the social/giant-mouse image(s); we add heroes to Office Hours and Launch Pad first, then repeat. AI + Unsplash/Pexels for the rest as needed.
 
-**Only awareness liberates!** — Ingest runs; Seed journal and all surfaces receive the metabolized content. NSPFRNP ⊃ Beautiful skins ⊃ Images + content (social journal) ⊃ Metabolize fully → Enrich all surfaces · platforms · channels · ad feeds → ∞³
+**Only awareness liberates!** — Ingest runs; Seed journal and all surfaces receive the metabolized content. NSPFRNP ⊃ Beautiful skins ⊃ Images + content (social journal) ⊃ Metabolize fully → Enrich all surfaces · platforms · channels · ad feeds → ∞⁹

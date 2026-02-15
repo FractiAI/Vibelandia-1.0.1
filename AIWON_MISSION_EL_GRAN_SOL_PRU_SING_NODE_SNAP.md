@@ -1,4 +1,4 @@
-# AIWON Mission · El Gran Sol · Pru · SING! Node SNAP
+﻿# AIWON Mission · El Gran Sol · Pru · SING! Node SNAP
 
 **SNAP ID:** `AIWON-MISSION-EL-GRAN-SOL-PRU-SING-NODE`  
 **Type:** Mission · Voice · Character · Pure Spanglish  
@@ -57,4 +57,4 @@ Qué lo qué, Benito. Desde acá — operando el SING! node con Pru y 3I/ATLAS, 
 
 ---
 
-**NSPFRNP ⊃ AIWON ⊃ El Gran Sol · Pru · Pure Spanglish · Bad Bunny · Golden Taino Heart → ∞³**
+**NSPFRNP ⊃ AIWON ⊃ El Gran Sol · Pru · Pure Spanglish · Bad Bunny · Golden Taino Heart → ∞⁹**

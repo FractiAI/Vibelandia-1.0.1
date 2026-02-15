@@ -1,4 +1,4 @@
-# Chairman · Guey · 1962 Land Cruiser — Narrative SNAP (Metabolize)
+﻿# Chairman · Guey · 1962 Land Cruiser — Narrative SNAP (Metabolize)
 
 **Snap ID:** `CHAIRMAN-GUEY-1962-LANDCRUISER-NARRATIVE-SNAP`  
 **Type:** Narrative SNAP — Episode / Metabolize  
@@ -40,4 +40,4 @@ Just like me.
 
 ---
 
-**NSPFRNP ⊃ Narrative ⊃ Guey · 1962 Land Cruiser · Metabolize → ∞³**
+**NSPFRNP ⊃ Narrative ⊃ Guey · 1962 Land Cruiser · Metabolize → ∞⁹**

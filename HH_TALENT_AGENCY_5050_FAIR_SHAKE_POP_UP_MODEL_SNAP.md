@@ -1,4 +1,4 @@
-# HH Superhero Franchise Legacy Talent Agency — 50:50 Fair Shake Always · Pop-up Model · NSPFRNP SNAP
+﻿# HH Superhero Franchise Legacy Talent Agency — 50:50 Fair Shake Always · Pop-up Model · NSPFRNP SNAP
 
 **Snap ID:** `HH-TALENT-AGENCY-5050-FAIR-SHAKE-POP-UP-MODEL-SNAP`  
 **Type:** Talent Agency · Canonical rule · Now Casting  
@@ -34,4 +34,4 @@ Use on talent-management-service.html, now-casting.html, Office Hours, Launch Pa
 
 ---
 
-**NSPFRNP ⊃ HH Talent Agency ⊃ 50:50 for their billing portion · Pop-up model · Catalog of talent · Golden Baller V Ultimate VIP → ∞³**
+**NSPFRNP ⊃ HH Talent Agency ⊃ 50:50 for their billing portion · Pop-up model · Catalog of talent · Golden Baller V Ultimate VIP → ∞⁹**

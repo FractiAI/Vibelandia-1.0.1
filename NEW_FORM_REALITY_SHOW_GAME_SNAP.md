@@ -1,4 +1,4 @@
-# New Form of Reality Show Game — Happy Ending Zones SNAP
+﻿# New Form of Reality Show Game — Happy Ending Zones SNAP
 
 **Snap ID:** `NEW-FORM-REALITY-SHOW-GAME-SNAP`  
 **Type:** NSPFRNP Series / Format SNAP  
@@ -39,4 +39,4 @@
 
 **See:** REALITY_SERIES_FORMAT.md · episodes/EPISODE_03_DAY_50_HERO_BEN_PARIS_HUNDIE.md · FIRST_MAGICIANS_ACT_SNAP.md · HARRY_HOUDINI_MAGIC_SHOW_SERIES_SNAP.md
 
-**NSPFRNP ⊃ New form of reality show game ⊃ Happy Ending Zones · Today's episode · Studio content → ∞³**
+**NSPFRNP ⊃ New form of reality show game ⊃ Happy Ending Zones · Today's episode · Studio content → ∞⁹**

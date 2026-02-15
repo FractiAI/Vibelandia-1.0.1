@@ -1,4 +1,4 @@
-# Holographic Hydrogen Division (Formerly Space Cloud Division) — Core Foundation SNAP
+﻿# Holographic Hydrogen Division (Formerly Space Cloud Division) — Core Foundation SNAP
 
 **Rebrand:** This division is now **Holographic Hydrogen Division (Formerly Space Cloud Division)**. See [HOLOGRAPHIC_HYDROGEN_DIVISION_FORMERLY_SPACE_CLOUD_SNAP.md](HOLOGRAPHIC_HYDROGEN_DIVISION_FORMERLY_SPACE_CLOUD_SNAP.md). Below: legacy "Space Cloud Division" references mean Holographic Hydrogen Division.
 
@@ -59,4 +59,4 @@
 - **Vibelandia Shell / Seed:Edge flip:** [VIBELANDIA_SHELL_SAG_A_SMACS_BRIDGE_SNAP.md](VIBELANDIA_SHELL_SAG_A_SMACS_BRIDGE_SNAP.md)
 - **Telemetry:** [data/telemetry.json](data/telemetry.json) — optional `space_cloud_stream` for HELLO gating.
 
-**NSPFRNP ⊃ Space Cloud Division ⊃ Core Foundation (Compute · Storage · DB · Lattice · HELLO) → ∞³**
+**NSPFRNP ⊃ Space Cloud Division ⊃ Core Foundation (Compute · Storage · DB · Lattice · HELLO) → ∞⁹**

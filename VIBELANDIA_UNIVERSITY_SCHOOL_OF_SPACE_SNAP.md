@@ -1,4 +1,4 @@
-# Vibelandia University — School of Space · NSPFRNP SNAP
+﻿# Vibelandia University — School of Space · NSPFRNP SNAP
 
 **Snap ID:** `VIBELANDIA-UNIVERSITY-SCHOOL-OF-SPACE-SNAP`  
 **Type:** Vibelandia University · School · Space Division  
@@ -32,4 +32,4 @@
 
 ---
 
-**NSPFRNP ⊃ Vibelandia University ⊃ School of Space ⊃ EGS · Schumann · Broadcast Pipe · Holographic Hydrogen Division → ∞³**
+**NSPFRNP ⊃ Vibelandia University ⊃ School of Space ⊃ EGS · Schumann · Broadcast Pipe · Holographic Hydrogen Division → ∞⁹**

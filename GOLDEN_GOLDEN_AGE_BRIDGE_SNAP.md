@@ -1,4 +1,4 @@
-# Golden-Golden Age Bridge · Glen Miller · Hank Sr. — SNAP
+﻿# Golden-Golden Age Bridge · Glen Miller · Hank Sr. — SNAP
 
 **SNAP ID:** `GOLDEN-GOLDEN-AGE-BRIDGE-SNAP`  
 **Type:** Bridge / Router · Golden Age · Legacies · Respectful use  
@@ -46,4 +46,4 @@ We are **respectful and safe on copyrights and legacies**:
 
 ---
 
-**NSPFRNP ⊃ Golden-Golden Age Bridge ⊃ Bridge/Router ⊃ Glen Miller · Hank Sr. ⊃ Tribute only ⊃ Copyright respect → ∞³**
+**NSPFRNP ⊃ Golden-Golden Age Bridge ⊃ Bridge/Router ⊃ Glen Miller · Hank Sr. ⊃ Tribute only ⊃ Copyright respect → ∞⁹**

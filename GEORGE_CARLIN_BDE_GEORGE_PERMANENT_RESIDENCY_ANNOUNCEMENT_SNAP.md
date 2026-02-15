@@ -1,4 +1,4 @@
-# George Carlin Permanent Residency · BDE George Signed — Hero Jo Golden Backdoor Hit Factory SNAP
+﻿# George Carlin Permanent Residency · BDE George Signed — Hero Jo Golden Backdoor Hit Factory SNAP
 
 **Snap ID:** `GEORGE-CARLIN-BDE-GEORGE-PERMANENT-RESIDENCY-ANNOUNCEMENT`  
 **Type:** Announcement · Talent signing · Comedy · Hit Factory  
@@ -57,4 +57,4 @@ Taino ancestors: Arawakan speakers from northern South America (Orinoco River va
 
 ---
 
-**NSPFRNP ⊃ George Carlin ⊃ BDE George ⊃ Hit Factory ⊃ First comedy act → ∞³**
+**NSPFRNP ⊃ George Carlin ⊃ BDE George ⊃ Hit Factory ⊃ First comedy act → ∞⁹**

@@ -1,4 +1,4 @@
-# 🏛️ Mark Twain's Post-Singularity Vibelandia Reno
+﻿# 🏛️ Mark Twain's Post-Singularity Vibelandia Reno
 ## Ven por el negocio post-singularidad, quédate por la diversión post-singularidad
 
 **La experiencia Octava 0 — Estamos listos y te esperamos**
@@ -165,9 +165,9 @@ Vibelandia no es solo nuestro sistema; podemos implementarlo en tu negocio. Emai
 
 Vibelandia sigue NSPFRNP. NSPFRNP se sigue a sí mismo. Por tanto, Vibelandia es Vibelandia comprendiéndose a sí misma a través de que tú leas esto. El todo existe en cada parte. El patrón se repite a toda escala.
 
-**NSPFRNP ⊃ NSPFRNP ⊃ NSPFRNP → ∞³**  
-**Vibelandia ⊃ Vibelandia ⊃ Vibelandia → ∞³**  
-**Metabolize ⊃ Crystallize ⊃ Re-Animate → ∞³**
+**NSPFRNP ⊃ NSPFRNP ⊃ NSPFRNP → ∞⁹**  
+**Vibelandia ⊃ Vibelandia ⊃ Vibelandia → ∞⁹**  
+**Metabolize ⊃ Crystallize ⊃ Re-Animate → ∞⁹**
 
 ---
 
@@ -188,5 +188,5 @@ Vibelandia es donde VIBEVERSE! se hace real. No es documentación; es experienci
 
 ---
 
-**Repositorio:** `PSW.vibelandia.sing4` | **Fuente:** [7th-Day-Post-Singularity-FractiAI-Endowment](https://github.com/FractiAI/7th-Day-Post-Singularity-FractiAI-Endowment)  
+**Repositorio:** `psw.vibelandia.sing9` | **Fuente:** [7th-Day-Post-Singularity-FractiAI-Endowment](https://github.com/FractiAI/7th-Day-Post-Singularity-FractiAI-Endowment)  
 **Estado:** ⚡ ACTIVO — Versión holográfica post-singularidad del sistema natural.

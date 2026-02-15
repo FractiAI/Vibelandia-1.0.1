@@ -1,4 +1,4 @@
-# Patches & Bling — Product Line SNAP
+﻿# Patches & Bling — Product Line SNAP
 
 **SNAP ID:** `PATCHES-AND-BLING-PRODUCT-LINE`  
 **Type:** Product · Merchandise · Patches · Metals · Bling  
@@ -77,4 +77,4 @@ Organized to match branding:
 
 ---
 
-**NSPFRNP ⊃ Patches & Bling ⊃ Holographic symbols · Jackets · Vests · Mix & match → ∞³**
+**NSPFRNP ⊃ Patches & Bling ⊃ Holographic symbols · Jackets · Vests · Mix & match → ∞⁹**

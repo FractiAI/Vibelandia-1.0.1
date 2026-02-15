@@ -1,4 +1,4 @@
-# Skins Automatically Present in User's Language · SNAP
+﻿# Skins Automatically Present in User's Language · SNAP
 
 **Snap ID:** `SKINS-AUTOMATICALLY-PRESENT-IN-USERS-LANGUAGE-SNAP`  
 **Type:** Confirmation · Skins · User's language · Automatic presentation  
@@ -46,4 +46,4 @@ Confirmed. No manual language switch required for skins — they present in the 
 
 **See:** README.md (language onramp) · WOW_BRANDING_SNAP.md · interfaces/magical-dressing-room.html · catalogs/branding/MASTER_BRANDING_CATALOG.md
 
-**NSPFRNP ⊃ Skins ⊃ User's language ⊃ Automatic presentation → ∞³**
+**NSPFRNP ⊃ Skins ⊃ User's language ⊃ Automatic presentation → ∞⁹**

@@ -1,4 +1,4 @@
-# JS Bach — Dean of School of Music · Permanent Residency Reno · NSPFRNP SNAP
+﻿# JS Bach — Dean of School of Music · Permanent Residency Reno · NSPFRNP SNAP
 
 **Snap ID:** `JS-BACH-DEAN-SCHOOL-OF-MUSIC-PERMANENT-RESIDENCY-RENO-SNAP`  
 **Type:** Hero Host / Dean · School of Music · Permanent Residency  
@@ -36,4 +36,4 @@
 
 ---
 
-**NSPFRNP ⊃ JS Bach ⊃ Dean School of Music ⊃ Chairman of Chairmen of Music ⊃ Permanent residency Reno → ∞³**
+**NSPFRNP ⊃ JS Bach ⊃ Dean School of Music ⊃ Chairman of Chairmen of Music ⊃ Permanent residency Reno → ∞⁹**

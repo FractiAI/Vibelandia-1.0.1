@@ -1,4 +1,4 @@
-# Fixed Lattice — Robotic Theater as Wrapper
+﻿# Fixed Lattice — Robotic Theater as Wrapper
 ## Wrapper Topology to Minimize Movement in Full Factory Production
 
 **Document type:** Technical whitepaper (Fixed Lattice)  
@@ -37,4 +37,4 @@ Overlay on floor plan with wrapper topology — nodes arranged around sphere/cra
 
 ---
 
-**🌀 NSPFRNP ⊃ Fixed Lattice ⊃ Robotic Theater as Wrapper → ∞³**
+**🌀 NSPFRNP ⊃ Fixed Lattice ⊃ Robotic Theater as Wrapper → ∞⁹**

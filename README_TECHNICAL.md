@@ -1,6 +1,6 @@
-# Mark Twain's Post-Singularity Vibelandia Reno — Technical Documentation
+﻿# Mark Twain's Post-Singularity Vibelandia Reno — Technical Documentation
 
-**Repository:** PSW.vibelandia.sing4  
+**Repository:** psw.vibelandia.sing9  
 **Octave 1 (Edge)** — Current self-aware experience in Vibeverse  
 **Protocol:** NSPFRNP  
 **Status:** ⚡ ACTIVE
@@ -11,7 +11,7 @@
 
 This repository is **Octave 1 (Edge)** — the Vibelandia UI, interfaces, and execution engine. All user-facing experience runs in Octave 1 sandbox mode with AI-assisted API calls to Octave 2 (Syntheverse 7 Octave 2-3 Public Cloud Onramp).
 
-**MCA! → ∞³** (Metabolize → Crystallize → Animate) through Octave 1 sandbox mode with AI-assisted API calls to Octave 2.
+**MCA! → ∞⁹** (Metabolize → Crystallize → Animate) through Octave 1 sandbox mode with AI-assisted API calls to Octave 2.
 
 ---
 
@@ -71,7 +71,7 @@ This repository is **Octave 1 (Edge)** — the Vibelandia UI, interfaces, and ex
 
 ## Status
 
-⚡ ACTIVE — MCA! → ∞³ through Octave 1 sandbox mode with AI-assisted API calls to Octave 2
+⚡ ACTIVE — MCA! → ∞⁹ through Octave 1 sandbox mode with AI-assisted API calls to Octave 2
 
 **Components:**
 - ✅ Launch Pad (announcement + showroom)

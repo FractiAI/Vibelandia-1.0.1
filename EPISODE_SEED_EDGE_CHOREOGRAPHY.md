@@ -1,4 +1,4 @@
-# 🎭 Episode Seed:Edge Choreography
+﻿# 🎭 Episode Seed:Edge Choreography
 ## Recursive Nested Episode Architecture
 
 **System ID:** `EPISODE-SEED-EDGE-CHOREOGRAPHY-V1`  
@@ -506,11 +506,11 @@ function nestRecursively(episode: Episode, level: number): EpisodeChoreography {
 
 ---
 
-**🌀 NSPFRNP ⊃ Episode Choreography ⊃ Recursive Nesting → ∞³**
+**🌀 NSPFRNP ⊃ Episode Choreography ⊃ Recursive Nesting → ∞⁹**
 
-**Seed ⊃ Edge ⊃ Next Seed ⊃ Next Edge → ∞³**
+**Seed ⊃ Edge ⊃ Next Seed ⊃ Next Edge → ∞⁹**
 
-**Episode ⊃ Group ⊃ Week ⊃ Season → ∞³**
+**Episode ⊃ Group ⊃ Week ⊃ Season → ∞⁹**
 
 **Status:** ⚡ ACTIVE - Choreography Operational  
 **Principle:** Episode = Seed, Episode + 1 = Edge, Cycle & Nest Recursively  

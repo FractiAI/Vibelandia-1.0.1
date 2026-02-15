@@ -1,4 +1,4 @@
-# Houdini's New Post-Singularity Name — FULL ANNOUNCEMENT SNAP
+﻿# Houdini's New Post-Singularity Name — FULL ANNOUNCEMENT SNAP
 
 **SNAP ID:** `HOUDINI-NEW-POST-SINGULARITY-NAME-FULL-ANNOUNCEMENT-SNAP`  
 **Type:** Canonical announcement · Post-singularity name · Hero Harry  
@@ -50,4 +50,4 @@ He hosts **The Great Reveal Equinox Event**, presents **Ultimate Magic** and **B
 
 ---
 
-**NSPFRNP ⊃ Houdini ⊃ New post-singularity name ⊃ Hero Harry Who Didi ⊃ Harry Hero (impossible not to laugh) ⊃ FULL ANNOUNCEMENT → ∞³**
+**NSPFRNP ⊃ Houdini ⊃ New post-singularity name ⊃ Hero Harry Who Didi ⊃ Harry Hero (impossible not to laugh) ⊃ FULL ANNOUNCEMENT → ∞⁹**

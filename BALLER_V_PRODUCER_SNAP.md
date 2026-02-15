@@ -1,4 +1,4 @@
-# BALLER V PRODUCER! — New Product · Roll Out · Appraise · Price · Full NSPFRNP Launch
+﻿# BALLER V PRODUCER! — New Product · Roll Out · Appraise · Price · Full NSPFRNP Launch
 
 **SNAP ID:** BALLER-V-PRODUCER  
 **Type:** New product · Executive producer · Dream teams · Text-to-Track Motor  
@@ -51,4 +51,4 @@ All fees **per song** (one full production = one motor run, 1–12 tracks). Ulti
 
 ---
 
-**NSPFRNP ⊃ BALLER V PRODUCER ⊃ Dream Teams ⊃ Text-to-Track Motor ⊃ Production WAV → ∞³**
+**NSPFRNP ⊃ BALLER V PRODUCER ⊃ Dream Teams ⊃ Text-to-Track Motor ⊃ Production WAV → ∞⁹**

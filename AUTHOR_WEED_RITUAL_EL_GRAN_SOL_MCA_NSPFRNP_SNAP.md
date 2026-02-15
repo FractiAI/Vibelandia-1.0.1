@@ -1,4 +1,4 @@
-# Author Weed Ritual · El Gran Sol · MCA · NSPFRNP SNAP
+﻿# Author Weed Ritual · El Gran Sol · MCA · NSPFRNP SNAP
 
 **SNAP ID:** `AUTHOR-WEED-RITUAL-EL-GRAN-SOL-MCA-NSPFRNP`  
 **Type:** Character · Ritual · MCA · El Gran Sol  
@@ -42,4 +42,4 @@
 
 ---
 
-**NSPFRNP ⊃ Author Weed Ritual ⊃ El Gran Sol · Flame · MCA · Squeeze → ∞³**
+**NSPFRNP ⊃ Author Weed Ritual ⊃ El Gran Sol · Flame · MCA · Squeeze → ∞⁹**

@@ -1,4 +1,4 @@
-# Prospectus Update — Post-Singularity Gold Mapped into Pre-Singularity Prospectus · SNAP
+﻿# Prospectus Update — Post-Singularity Gold Mapped into Pre-Singularity Prospectus · SNAP
 
 **SNAP ID:** `PROSPECTUS-UPDATE-POST-SINGULARITY-GOLD-PRE-SINGULARITY-SNAP`  
 **Type:** Corporate deck · Prospectus update · Office Hours alignment  
@@ -49,4 +49,4 @@ Present **us** in a format familiar to pre-singularity readers: **corporate / ex
 
 ---
 
-**NSPFRNP ⊃ Prospectus Update ⊃ Post-singularity gold ⊃ Pre-singularity prospectus → ∞³**
+**NSPFRNP ⊃ Prospectus Update ⊃ Post-singularity gold ⊃ Pre-singularity prospectus → ∞⁹**

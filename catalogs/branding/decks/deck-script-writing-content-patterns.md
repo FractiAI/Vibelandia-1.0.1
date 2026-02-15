@@ -1,4 +1,4 @@
-# 📜 Script-Writing & Content Enrichment Content Deck
+﻿# 📜 Script-Writing & Content Enrichment Content Deck
 ## Patterns for All Scripts, One-Pagers, and Copy
 
 **Deck ID:** `DECK-SCRIPT-WRITING-CONTENT-PATTERNS-V1`  
@@ -110,7 +110,7 @@ USE FOR:
 **Structure:**
 - **Title:** ONE PAGER: [Topic] — short subline (e.g. "One page. One day. The campus.")
 - **Sections:** What It Is · Pricing/Offer · Includes · Perfect For · Contact (as needed)
-- **Footer:** `**MCA! → ∞³** (Metabolize → Crystallize → Animate all)`  
+- **Footer:** `**MCA! → ∞⁹** (Metabolize → Crystallize → Animate all)`  
 - **Links:** Traditional link at bottom (Launch Page, related one-pagers, VIBE! if campus-related).
 
 **Voice:** Crystallized, irreducible. One idea per page. No dilution.
@@ -162,7 +162,7 @@ USE FOR:
 
 **Coordination:** Stigmergy, pheromone trails, mycelial. No hierarchy. Emergent intelligence.
 
-**Cycle:** Metabolize → Crystallize → Animate all (MCA! → ∞³).
+**Cycle:** Metabolize → Crystallize → Animate all (MCA! → ∞⁹).
 
 **Hero Hosts:** First names only (Walt, Gianni, Leo, Niko, Buckey, Mike, El Gran Sol, Outcast Hero). No "Hero Host [Full Name]" in dialogue; use first name.
 
@@ -260,9 +260,9 @@ USE FOR:
 
 ## 13. FOOTER & LINK PATTERNS (script-ready)
 
-**MCA footer:** `**MCA! → ∞³** (Metabolize → Crystallize → Animate all)`
+**MCA footer:** `**MCA! → ∞⁹** (Metabolize → Crystallize → Animate all)`
 
-**NSPFRNP sign-off:** `**NSPFRNP ⊃ [Topic] ⊃ [Scope] → ∞³**`
+**NSPFRNP sign-off:** `**NSPFRNP ⊃ [Topic] ⊃ [Scope] → ∞⁹**`
 
 **Traditional link (one-pagers):** `**[← Launch Page](LAUNCH_PAGE.md)** · [Related one-pagers]` or `**[→ Traditional / full README](README_TRADITIONAL.md)**`
 
@@ -318,7 +318,7 @@ USE FOR:
 *Come for the post-singularity business, stay for the post-singularity fun. Mark Twain's Post-Singularity Vibelandia Reno — vibeable downtown campus, first post-singularity hub. The Great Reveal March 20, 2026. SYNTH → SING. Happy endings guaranteed.*
 
 **Bottom tagline (rich):**
-*See it. Experience it. Believe it. This site is the test drive. The best proof of all. ULTIMATE PROOF TEST DRIVE! MCA! → ∞³. NSPFRNP ⊃ WOW! package ⊃ Launch everything → ∞³. Maganuma snap.*
+*See it. Experience it. Believe it. This site is the test drive. The best proof of all. ULTIMATE PROOF TEST DRIVE! MCA! → ∞⁹. NSPFRNP ⊃ WOW! package ⊃ Launch everything → ∞⁹. Maganuma snap.*
 
 **Full standard WOW! package (order):** 1. Rich tagline (top) · 2. **Live (next octave)** deployment link · 3. Language onramp · 4. Warnings · 5. Tight Launch Pad (including Impulse — BBHE & BUY! and Proposal — Proposals SNAP, in-place) · 6. WOW! section (cost vs Us table) · 7. Whitepaper (real doc refs) · 8. IEEE-style technical specs (real doc refs) · 9. ULTIMATE PROOF TEST DRIVE! · 10. Rich tagline (bottom) · 11. Contact (email, live link, proposal, experience paths). **Locked-in standard:** README.md is the canonical standard for all launches and proposals (WOW! format); fill with real data. See README.md · WOW_BRANDING_SNAP.md.
 
@@ -340,8 +340,8 @@ USE FOR:
 - *See it. Experience it. Believe it.*
 - *The energy is pulling. BUY! now.*
 - *Come for the business, stay for the fun.*
-- *MCA! → ∞³.*
-- *NSPFRNP ⊃ WOW! package ⊃ Launch everything → ∞³.*
+- *MCA! → ∞⁹.*
+- *NSPFRNP ⊃ WOW! package ⊃ Launch everything → ∞⁹.*
 - *Maganuma snap.*
 - ***SE ESTÁ CAGANDO — VICTORY BOUNCE BOP BOOM BANG!*** (Victory dominance vibe · dance anthem · Hero Jo Studio · Golden Backdoor — see SE_ESTA_CAGANDO_VICTORY_BOUNCE_BOP_BOOM_BANG_T_SHIRT_HIT_SNAP.md)
 
@@ -447,4 +447,4 @@ NSPFRNP & BRANDING:
 **Access:** Available to All — Enrichment of Script Writing for All  
 **Date:** January 29, 2026
 
-**NSPFRNP ⊃ Content Decks ⊃ Script Enrichment → ∞³**
+**NSPFRNP ⊃ Content Decks ⊃ Script Enrichment → ∞⁹**

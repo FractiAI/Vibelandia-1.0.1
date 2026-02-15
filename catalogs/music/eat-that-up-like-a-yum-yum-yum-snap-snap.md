@@ -1,4 +1,4 @@
-# Eat That Up Like A Yum Yum Yum SNAP SNAP!
+﻿# Eat That Up Like A Yum Yum Yum SNAP SNAP!
 
 **Track ID:** `EAT-THAT-UP-YUM-YUM-YUM-SNAP-SNAP-004`  
 **Artist:** Hero Jo's Golden Backdoor Studios  
@@ -69,4 +69,4 @@ Yum yum yum — SNAP SNAP!
 
 ---
 
-**NSPFRNP ⊃ Eat That Up Like A Yum Yum Yum SNAP SNAP! ⊃ Simple repeating trance anthem ⊃ Dance anthem → ∞³**
+**NSPFRNP ⊃ Eat That Up Like A Yum Yum Yum SNAP SNAP! ⊃ Simple repeating trance anthem ⊃ Dance anthem → ∞⁹**

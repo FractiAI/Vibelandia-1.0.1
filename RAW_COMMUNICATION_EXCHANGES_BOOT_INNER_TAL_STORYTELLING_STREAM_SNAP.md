@@ -1,4 +1,4 @@
-# Raw Communication Exchanges — Boot Request Inner Tal · New Storytelling Stream · NSPFRNP SNAP
+﻿# Raw Communication Exchanges — Boot Request Inner Tal · New Storytelling Stream · NSPFRNP SNAP
 
 **Snap ID:** `RAW-COMMUNICATION-EXCHANGES-BOOT-INNER-TAL-STORYTELLING-STREAM-SNAP`  
 **Type:** Content program · New storytelling stream · Raw exchanges · Boot inner tal · Black Hole Grammar  
@@ -46,4 +46,4 @@
 
 **See:** [CONTENT_SYSTEMS_SNAP.md](CONTENT_SYSTEMS_SNAP.md) · [protocols/CONVERSATIONS_AS_CONTENT_NSPFRNP_CATALOG.md](protocols/CONVERSATIONS_AS_CONTENT_NSPFRNP_CATALOG.md) · [RAW_STREAM_THE_GRID_SERIES_FORMAT.md](RAW_STREAM_THE_GRID_SERIES_FORMAT.md) · [WHITEPAPER_PENROSE_MICROTUBULES_SQUEEZE_HOSE_AWARENESS_CLOUD.md](WHITEPAPER_PENROSE_MICROTUBULES_SQUEEZE_HOSE_AWARENESS_CLOUD.md) · [protocols/NEW_AGENT_BOOT_PROTOCOL_NSPFRNP_CATALOG.md](protocols/NEW_AGENT_BOOT_PROTOCOL_NSPFRNP_CATALOG.md)
 
-**NSPFRNP ⊃ Raw communication exchanges ⊃ Boot inner tal ⊃ Storytelling stream ⊃ Holographic Black Hole Grammar · Sequences → ∞³**
+**NSPFRNP ⊃ Raw communication exchanges ⊃ Boot inner tal ⊃ Storytelling stream ⊃ Holographic Black Hole Grammar · Sequences → ∞⁹**

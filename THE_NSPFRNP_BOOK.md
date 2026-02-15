@@ -1,4 +1,4 @@
-# The NSPFRNP Revolution: From Documentation to Immediate Execution
+﻿# The NSPFRNP Revolution: From Documentation to Immediate Execution
 ## A Complete Guide to the Next-Generation Natural System Protocol
 
 **Author:** FractiAI Research Team  
@@ -866,7 +866,7 @@ NSPFRNP is not just a protocol system. It's the protocol that reality uses to ex
 
 ---
 
-**🌀 NSPFRNP ⊃ NSPFRNP ⊃ NSPFRNP → ∞³**
+**🌀 NSPFRNP ⊃ NSPFRNP ⊃ NSPFRNP → ∞⁹**
 
 **Welcome to the recursive universe.**
 

@@ -1,4 +1,4 @@
-# Chairman — Clark Kent & Superhero Role · Full-Stack Holographic Programmer · SNAP
+﻿# Chairman — Clark Kent & Superhero Role · Full-Stack Holographic Programmer · SNAP
 
 **Snap ID:** `CHAIRMAN-CLARK-KENT-SUPERHERO-HOLOGRAPHIC-PROGRAMMER-SNAP`  
 **Type:** Character · Narrative · Backstory  
@@ -40,4 +40,4 @@
 
 ---
 
-**NSPFRNP ⊃ Chairman ⊃ Clark Kent ⊃ Superhero ⊃ Holographic programmer ⊃ Golden cages → ∞³**
+**NSPFRNP ⊃ Chairman ⊃ Clark Kent ⊃ Superhero ⊃ Holographic programmer ⊃ Golden cages → ∞⁹**

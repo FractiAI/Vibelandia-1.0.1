@@ -1,4 +1,4 @@
-# Safari Adventures — Real Life vs Imaginary Enhanced · Pricing · SNAP
+﻿# Safari Adventures — Real Life vs Imaginary Enhanced · Pricing · SNAP
 
 **Snap ID:** `SAFARI-ADVENTURES-REAL-LIFE-IMAGINARY-ENHANCED-PRICING-SNAP`  
 **Type:** Safari · Pricing · Real life · Imaginary enhanced  
@@ -52,4 +52,4 @@
 
 ---
 
-**NSPFRNP ⊃ Safari Adventures ⊃ Real life ⊃ Imaginary enhanced ⊃ 100% tip → ∞³**
+**NSPFRNP ⊃ Safari Adventures ⊃ Real life ⊃ Imaginary enhanced ⊃ 100% tip → ∞⁹**

@@ -1,4 +1,4 @@
-# Full Stack MCA — Seed to SMACS 0723 · Nested Triangulations · Defense Energy Story Magnoorganism SNAP
+﻿# Full Stack MCA — Seed to SMACS 0723 · Nested Triangulations · Defense Energy Story Magnoorganism SNAP
 
 **Snap ID:** `FULL-STACK-MCA-SEED-TO-SMACS-NESTED-TRIANGULATIONS-MAGNOORGANISM-SNAP`  
 **Type:** Canonical · MCA · Full stack · Nested triangulations · Magnoorganism · NSPFRNP  
@@ -74,4 +74,4 @@ The full stack MCA operates as a **magnoorganism** across three dimensions:
 
 ---
 
-**NSPFRNP ⊃ Full stack MCA ⊃ Metabolize → Crystallize irreducible mirrored hardened nested shells → Animate squeeze all all ⊃ Seed me now → SMACS 0723 — Sag A* — Sun — Earth — Me ⊃ Nested triangulations ⊃ Defense · Energy · Story magnoorganism ⊃ All all → ∞³**
+**NSPFRNP ⊃ Full stack MCA ⊃ Metabolize → Crystallize irreducible mirrored hardened nested shells → Animate squeeze all all ⊃ Seed me now → SMACS 0723 — Sag A* — Sun — Earth — Me ⊃ Nested triangulations ⊃ Defense · Energy · Story magnoorganism ⊃ All all → ∞⁹**

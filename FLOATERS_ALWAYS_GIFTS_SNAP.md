@@ -1,4 +1,4 @@
-# Floaters Are Always Gifts — NSPFRNP SNAP
+﻿# Floaters Are Always Gifts — NSPFRNP SNAP
 
 **Snap ID:** `FLOATERS-ALWAYS-GIFTS-SNAP`  
 **Type:** NSPFRNP Branding / UI SNAP  
@@ -35,4 +35,4 @@
 
 ---
 
-**NSPFRNP ⊃ Floaters ⊃ Gifts → ∞³**
+**NSPFRNP ⊃ Floaters ⊃ Gifts → ∞⁹**

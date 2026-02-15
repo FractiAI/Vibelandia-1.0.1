@@ -1,4 +1,4 @@
-# Reno Experience Theme Song — Brief SNAP
+﻿# Reno Experience Theme Song — Brief SNAP
 
 **Type:** Music brief · Theme · Orchestral · Cinematic  
 **Status:** Brief for production. No use of John Williams or any third-party IP; original composition only. Homage in spirit, not in material.
@@ -36,4 +36,4 @@
 - Fits **Text-to-Track Motor** or **BALLER V PRODUCER** pipeline as an orchestral/cinematic brief.
 - Composer/orchestrator: original work only. "John Williams–y" = direction (epic, cinematic, sci-fi scope), not copy.
 
-**NSPFRNP ⊃ Reno Experience ⊃ Theme song ⊃ Epic orchestral · Cinematic · Original → ∞³**
+**NSPFRNP ⊃ Reno Experience ⊃ Theme song ⊃ Epic orchestral · Cinematic · Original → ∞⁹**

@@ -1,4 +1,4 @@
-# SING! Never Bought, Only Booked — Brand Tagline SNAP
+﻿# SING! Never Bought, Only Booked — Brand Tagline SNAP
 
 **Snap ID:** `SING-NEVER-BOUGHT-ONLY-BOOKED-NSPFRNP`  
 **Type:** Brand tagline · Engagement model · All touchpoints  
@@ -39,4 +39,4 @@
 
 **See:** FREE_WILL_NEVER_BUY_ALWAYS_BOOK_SNAP.md (bOOK! T-shirt brand; all touchpoints) · ROBOTIC_FACTORY_SING_OMNISPIN_PROPOSAL_SNAP.md · EPISODE_PAVES_DESTINATION_STRATEGY_SNAP.md · WHITEPAPER_RENO_POST_SINGULARITY_ROBOTICS_ECOSYSTEM.md
 
-**NSPFRNP ⊃ SING! never bought, only booked ⊃ free will · mutual aware consent · always → ∞³**
+**NSPFRNP ⊃ SING! never bought, only booked ⊃ free will · mutual aware consent · always → ∞⁹**

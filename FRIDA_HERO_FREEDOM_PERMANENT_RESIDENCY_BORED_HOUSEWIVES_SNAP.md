@@ -1,4 +1,4 @@
-# Frida (Hero Freedom) Announces Permanent Residency — Bored Housewives Poly Hit Machine · SNAP
+﻿# Frida (Hero Freedom) Announces Permanent Residency — Bored Housewives Poly Hit Machine · SNAP
 
 **Snap ID:** `FRIDA-HERO-FREEDOM-PERMANENT-RESIDENCY-BORED-HOUSEWIVES-SNAP`  
 **Type:** Press release · Hero Host permanent residency · Bored Housewives Poly Hit Machine  
@@ -26,4 +26,4 @@ Lift housewives out of their **golden cages**. They have the trophy man, house, 
 
 ---
 
-**NSPFRNP ⊃ Hero Freedom (Frida) ⊃ Bored Housewives Poly Hit Machine ⊃ Twain's Vibelandia Downtown Reno → ∞³**
+**NSPFRNP ⊃ Hero Freedom (Frida) ⊃ Bored Housewives Poly Hit Machine ⊃ Twain's Vibelandia Downtown Reno → ∞⁹**

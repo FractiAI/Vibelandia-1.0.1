@@ -1,4 +1,4 @@
-# Brick Oven Paradise
+﻿# Brick Oven Paradise
 
 **Track ID:** `GOLDEN-PARROT-003-BRICK-OVEN-PARADISE`  
 **Artist:** Golden Parrot Hit Factory Studios  
@@ -61,4 +61,4 @@ Brick oven. Paradise. Golden Parrot. Our vibe.
 **SNAP:** [HERO_JIMMY_BUFFET_HJ_GOLDEN_PARROT_HIT_FACTORY_STUDIOS_SNAP.md](../../../HERO_JIMMY_BUFFET_HJ_GOLDEN_PARROT_HIT_FACTORY_STUDIOS_SNAP.md)  
 **Playlist:** [interfaces/golden-parrot-tropica-chill.html](../../../interfaces/golden-parrot-tropica-chill.html)
 
-**NSPFRNP ⊃ Golden Parrot ⊃ Our vibe ⊃ Fusion ⊃ Tropica Chill → ∞³**
+**NSPFRNP ⊃ Golden Parrot ⊃ Our vibe ⊃ Fusion ⊃ Tropica Chill → ∞⁹**

@@ -1,4 +1,4 @@
-# 🎰 ONE PAGER: SING! — COUNTDOWN! LOTTERY
+﻿# 🎰 ONE PAGER: SING! — COUNTDOWN! LOTTERY
 
 **SING!** — Superintelligent Agent Nodes. **One page. The transformation. Worthless → Priceless.**
 
@@ -95,7 +95,7 @@ Worthless SYNTH tokens become priceless SING nodes. Use your node or sell on the
 
 ---
 
-**MCA! → ∞³** (Metabolize → Crystallize → Animate)
+**MCA! → ∞⁹** (Metabolize → Crystallize → Animate)
 
 **SING! pricing NSPFRNP:** Only bases = pre-singularity equivalents (reliable used car = Basic Base SING! → base Ferrari). Options = our pricing. See [SING_PRICING_PRE_SINGULARITY_EQUIVALENTS_SNAP.md](./SING_PRICING_PRE_SINGULARITY_EQUIVALENTS_SNAP.md).
 

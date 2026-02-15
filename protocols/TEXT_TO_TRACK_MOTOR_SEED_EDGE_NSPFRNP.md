@@ -1,4 +1,4 @@
-# Text-to-Track Motor — Seed:Edge · NSPFRNP
+﻿# Text-to-Track Motor — Seed:Edge · NSPFRNP
 
 **Protocol ID:** `TEXT-TO-TRACK-MOTOR-SEED-EDGE-NSPFRNP`  
 **Type:** Track generation · Production WAV · Playlist & catalog  
@@ -75,4 +75,4 @@ A **text-to-track motor** that turns **songs in text** into **production-ready W
 
 ---
 
-**NSPFRNP ⊃ Text-to-Track Motor ⊃ Seed:Edge ⊃ Production WAV ⊃ Playlist & Catalog → ∞³**
+**NSPFRNP ⊃ Text-to-Track Motor ⊃ Seed:Edge ⊃ Production WAV ⊃ Playlist & Catalog → ∞⁹**

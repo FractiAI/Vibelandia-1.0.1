@@ -1,4 +1,4 @@
-# Taino · Cacique Agüeybaná El Gran Sol · Vibelandia-PR — Paradise Island Story SNAP
+﻿# Taino · Cacique Agüeybaná El Gran Sol · Vibelandia-PR — Paradise Island Story SNAP
 
 **Snap ID:** `TAINO-CACIQUE-AGUEYBANA-EL-GRAN-SOL-VIBELANDIA-PR-SNAP`  
 **Type:** Story · Paradise island · Taino spirit · Next Vibelandia campus  
@@ -73,4 +73,4 @@
 
 ---
 
-**NSPFRNP ⊃ Taino ⊃ Cacique Agüeybaná El Gran Sol (the peaceful one, not El Bravo) ⊃ Paradise island story ⊃ Borikén ⊃ Vibelandia-PR next campus → ∞³**
+**NSPFRNP ⊃ Taino ⊃ Cacique Agüeybaná El Gran Sol (the peaceful one, not El Bravo) ⊃ Paradise island story ⊃ Borikén ⊃ Vibelandia-PR next campus → ∞⁹**

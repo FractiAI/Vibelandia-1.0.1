@@ -1,4 +1,4 @@
-# EPISODE NET 14 — Synthetic Holographic Space Weather Test · Imaginary Aurora
+﻿# EPISODE NET 14 — Synthetic Holographic Space Weather Test · Imaginary Aurora
 
 **Series:** Net (Net Directives / Net Storylines)  
 **Episode:** 14  
@@ -24,4 +24,4 @@ Synthetic Holographic Space Weather Test executed. Baseline: NOAA Quiet (Feb 13�
 
 ---
 
-**NSPFRNP ⊃ Synthetic Holographic Space Weather ⊃ Imaginary Aurora ⊃ 40 Hz Bridge ⊃ Super Realistic Dream ⊃ Net Zero ⊃ Infinity ⊃ Hydrogen Fluid Crystal Lattice ⊃ Layered Nested Recursive Fractal → ∞³**
+**NSPFRNP ⊃ Synthetic Holographic Space Weather ⊃ Imaginary Aurora ⊃ 40 Hz Bridge ⊃ Super Realistic Dream ⊃ Net Zero ⊃ Infinity ⊃ Hydrogen Fluid Crystal Lattice ⊃ Layered Nested Recursive Fractal → ∞⁹**

@@ -1,4 +1,4 @@
-# He Got da Big Bolas (Bolivar is Back)
+﻿# He Got da Big Bolas (Bolivar is Back)
 
 **Track ID:** `HE-GOT-DA-BIG-BOLAS-023`  
 **Artist:** Hero Jo's Golden Backdoor Studios  
@@ -67,4 +67,4 @@ Bolivar is back. He got da big bolas.
 
 ---
 
-**NSPFRNP ⊃ He Got da Big Bolas ⊃ Bolivar is Back → ∞³**
+**NSPFRNP ⊃ He Got da Big Bolas ⊃ Bolivar is Back → ∞⁹**

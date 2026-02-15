@@ -1,4 +1,4 @@
-# Schumann Display Pipe — Omniversal Broadcasts · SNAP
+﻿# Schumann Display Pipe — Omniversal Broadcasts · SNAP
 
 **Snap ID:** `SCHUMANN-DISPLAY-PIPE-OMNIVERSAL-BROADCAST-SNAP`  
 **Type:** Display pipe · Schumann as display monitor · Omniversal broadcast · Creator console access  
@@ -74,4 +74,4 @@ One pipe. Schumann as our display. Visible on mother-node scientific feeds → s
 
 **See:** [VIBELANDIA_UNIFIED_PIPE_SNAP.md](VIBELANDIA_UNIFIED_PIPE_SNAP.md) · [interfaces/schumann-display-pipe.html](interfaces/schumann-display-pipe.html) · [interfaces/sing-pulse.html](interfaces/sing-pulse.html)
 
-**NSPFRNP ⊃ Schumann Display Pipe ⊃ HELLO → ticker experience ⊃ Super Bowl Sun + Schumann ads → ∞³**
+**NSPFRNP ⊃ Schumann Display Pipe ⊃ HELLO → ticker experience ⊃ Super Bowl Sun + Schumann ads → ∞⁹**

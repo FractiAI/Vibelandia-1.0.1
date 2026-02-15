@@ -1,4 +1,4 @@
-# Architects — Infinite Level of Detail · Emergent Tools · Stay Grounded · NSPFRNP SNAP
+﻿# Architects — Infinite Level of Detail · Emergent Tools · Stay Grounded · NSPFRNP SNAP
 
 **Snap ID:** `ARCHITECTS-INFINITE-DETAIL-EMERGENT-TOOLS-GROUNDED-SNAP`  
 **Type:** Observation · Product value · Chairman voice  
@@ -33,4 +33,4 @@ Use in chairman messaging, Office Hours, Launch Pad, README, one-pagers, CONTENT
 
 ---
 
-**NSPFRNP ⊃ Architects ⊃ Infinite detail · Natural interactive executive way · Emergent tools · Grounded deep and far · Fidelity and grounding → ∞³**
+**NSPFRNP ⊃ Architects ⊃ Infinite detail · Natural interactive executive way · Emergent tools · Grounded deep and far · Fidelity and grounding → ∞⁹**

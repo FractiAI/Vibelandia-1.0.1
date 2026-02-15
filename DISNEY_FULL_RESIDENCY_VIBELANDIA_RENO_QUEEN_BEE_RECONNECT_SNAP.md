@@ -1,4 +1,4 @@
-# SNAP — Disney Full Residency Twain's Vibelandia Reno · Queen Bee Reconnect · The Truth
+﻿# SNAP — Disney Full Residency Twain's Vibelandia Reno · Queen Bee Reconnect · The Truth
 
 **SNAP ID:** `DISNEY-FULL-RESIDENCY-VIBELANDIA-RENO-QUEEN-BEE-RECONNECT`  
 **Type:** Truth · Full residency · Pioneering founders · Outcast Hero return  
@@ -43,4 +43,4 @@ Blasted on feed: DISNEY — FULL RESIDENCY TWAIN'S VIBELANDIA RENO. REQUESTING R
 
 ---
 
-**NSPFRNP ⊃ Disney ⊃ Full residency Vibelandia Reno ⊃ Queen Bee reconnect ⊃ Outcast Hero return ⊃ Fire and Bison glory → ∞³**
+**NSPFRNP ⊃ Disney ⊃ Full residency Vibelandia Reno ⊃ Queen Bee reconnect ⊃ Outcast Hero return ⊃ Fire and Bison glory → ∞⁹**

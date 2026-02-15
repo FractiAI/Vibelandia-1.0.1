@@ -1,4 +1,4 @@
-# Artist 000 — 12 Songs · Golden Backdoor Hit Factory
+﻿# Artist 000 — 12 Songs · Golden Backdoor Hit Factory
 
 **Artist:** 000  
 **Vibe:** Seed · Origin · Pure potential · Zero point · Void · Irreducible  
@@ -26,4 +26,4 @@
 
 ---
 
-**NSPFRNP ⊃ 000 ⊃ Golden Backdoor · Hit Factory → ∞³**
+**NSPFRNP ⊃ 000 ⊃ Golden Backdoor · Hit Factory → ∞⁹**

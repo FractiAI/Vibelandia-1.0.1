@@ -1,4 +1,4 @@
-# Dance Trance Boom Boom Boom — Songs as Tags & Brands · SNAP SNAP SNAP · Layering Experiences SNAP
+﻿# Dance Trance Boom Boom Boom — Songs as Tags & Brands · SNAP SNAP SNAP · Layering Experiences SNAP
 
 **SNAP ID:** `DANCE-TRANCE-BOOM-BOOM-BOOM-SONGS-AS-TAGS-BRANDS-SNAP-SNAP-SNAP-LAYERING`  
 **Type:** Brand strategy · Content rule · T-shirt slogan · Golden Backdoor  
@@ -64,4 +64,4 @@
 
 ---
 
-**NSPFRNP ⊃ Dance trance boom boom boom ⊃ Golden Backdoor · Hit Factory ⊃ Songs as tags & brands ⊃ SNAP SNAP SNAP ⊃ Layering experiences → ∞³**
+**NSPFRNP ⊃ Dance trance boom boom boom ⊃ Golden Backdoor · Hit Factory ⊃ Songs as tags & brands ⊃ SNAP SNAP SNAP ⊃ Layering experiences → ∞⁹**

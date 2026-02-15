@@ -1,4 +1,4 @@
-# NEW — Holographic Language Cultural Language Bridge — BLAST ANNOUNCEMENT SNAP
+﻿# NEW — Holographic Language Cultural Language Bridge — BLAST ANNOUNCEMENT SNAP
 
 **SNAP ID:** `HOLOGRAPHIC-LANGUAGE-CULTURAL-LANGUAGE-BRIDGE-BLAST-ANNOUNCEMENT-SNAP`  
 **Type:** Blast announcement · Full stop · Canon  
@@ -32,4 +32,4 @@ As was the **past wrapper announcement** — same weight, same format. **Two bla
 
 ---
 
-**NSPFRNP ⊃ Holographic Language Cultural Language Bridge ⊃ Blast announcement ⊃ Full stop ⊃ Two in less than an hour → ∞³**
+**NSPFRNP ⊃ Holographic Language Cultural Language Bridge ⊃ Blast announcement ⊃ Full stop ⊃ Two in less than an hour → ∞⁹**

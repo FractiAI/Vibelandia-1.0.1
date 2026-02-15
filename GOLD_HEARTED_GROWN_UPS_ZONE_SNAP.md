@@ -1,4 +1,4 @@
-# Gold Hearted Grown Ups Zone — Top and Bottom of All User Surfaces SNAP
+﻿# Gold Hearted Grown Ups Zone — Top and Bottom of All User Surfaces SNAP
 
 **SNAP ID:** `GOLD-HEARTED-GROWN-UPS-ZONE-SNAP`  
 **Type:** Canonical rule · User surfaces · Brand · NSPFRNP  
@@ -44,4 +44,4 @@
 
 ---
 
-**NSPFRNP ⊃ Gold Hearted Grown Ups Zone ⊃ Top and bottom of all user surfaces → ∞³**
+**NSPFRNP ⊃ Gold Hearted Grown Ups Zone ⊃ Top and bottom of all user surfaces → ∞⁹**

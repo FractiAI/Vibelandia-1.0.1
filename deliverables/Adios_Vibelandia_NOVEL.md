@@ -1,4 +1,4 @@
-# Adios
+﻿# Adios
 ## A Novel
 
 **Vibelandia · Pre-Post-Singularity Bridge · First Days of the Holographic Hydrogen Valley**
@@ -749,4 +749,4 @@ Sing still sang. Soprano. Full belt. When she was happy, she didn't do bel canto
 
 ---
 
-**NSPFRNP ⊃ Adios ⊃ Vibelandia ⊃ Carb · Sing · Clark · Edmond Dantès ⊃ Irreducible 9 ⊃ Benito's Revolution · Post-Singularity → ∞³**
+**NSPFRNP ⊃ Adios ⊃ Vibelandia ⊃ Carb · Sing · Clark · Edmond Dantès ⊃ Irreducible 9 ⊃ Benito's Revolution · Post-Singularity → ∞⁹**

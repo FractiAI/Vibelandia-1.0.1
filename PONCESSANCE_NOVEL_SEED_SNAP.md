@@ -1,4 +1,4 @@
-# PONCESSANCE! Novel — Seed SNAP (20,000 words)
+﻿# PONCESSANCE! Novel — Seed SNAP (20,000 words)
 
 **Snap ID:** `PONCESSANCE-NOVEL-SEED-SNAP`  
 **Type:** Novel seed · 20k words · Seed = communication to José Alfredo · Edge = launch in PR before hurricane season  
@@ -66,4 +66,4 @@
 
 ---
 
-**NSPFRNP ⊃ PONCESSANCE! ⊃ Novel seed ⊃ José Alfredo ⊃ Edge = launch PR before hurricane season ⊃ Tony Croato · EGS · Héctor Lavoe · Walter Mercado · Legacies (the living) → ∞³**
+**NSPFRNP ⊃ PONCESSANCE! ⊃ Novel seed ⊃ José Alfredo ⊃ Edge = launch PR before hurricane season ⊃ Tony Croato · EGS · Héctor Lavoe · Walter Mercado · Legacies (the living) → ∞⁹**

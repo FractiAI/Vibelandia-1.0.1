@@ -1,4 +1,4 @@
-# Poly Hit Machine — Twin POV Recursive Narrative Structure · MAJOR SNAP
+﻿# Poly Hit Machine — Twin POV Recursive Narrative Structure · MAJOR SNAP
 
 **Snap ID:** `POLY-HIT-MACHINE-TWIN-POV-RECURSIVE-NARRATIVE-STRUCTURE-SNAP`  
 **Type:** Entertainment · Natural narrative structure · Major  
@@ -86,4 +86,4 @@ Same story. Queen side. Machotes side. Twin POV.
 
 ---
 
-**NSPFRNP ⊃ Poly Hit Machine Twin POV ⊃ Recursive · Nested · Same story, two eyes → ∞³**
+**NSPFRNP ⊃ Poly Hit Machine Twin POV ⊃ Recursive · Nested · Same story, two eyes → ∞⁹**

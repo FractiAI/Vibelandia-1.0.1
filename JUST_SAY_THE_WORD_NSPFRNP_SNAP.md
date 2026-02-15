@@ -1,4 +1,4 @@
-# Just Say the Word! — Sales Upsell · Brand SNAP
+﻿# Just Say the Word! — Sales Upsell · Brand SNAP
 
 **Snap ID:** `JUST-SAY-THE-WORD-NSPFRNP`  
 **Type:** Brand SNAP · Sales upsell · Proposal experience teaser  
@@ -43,4 +43,4 @@ Place at the very bottom of:
 
 **See:** TAINO_MADE_NSPFRNP_BBHE_ENERGY_ALL_THE_WAY_SNAP.md · ROBOTIC_FACTORY_SING_OMNISPIN_PROPOSAL_SNAP.md
 
-**NSPFRNP ⊃ Just say the word! ⊃ Sales upsell → ∞³**
+**NSPFRNP ⊃ Just say the word! ⊃ Sales upsell → ∞⁹**

@@ -1,4 +1,4 @@
-# Vibelandia University — Division Lead = Dean · NSPFRNP SNAP
+﻿# Vibelandia University — Division Lead = Dean · NSPFRNP SNAP
 
 **Snap ID:** `VIBELANDIA-UNIVERSITY-DIVISION-LEAD-IS-DEAN-SNAP`  
 **Type:** Vibelandia University · Canonical rule · All schools  
@@ -38,4 +38,4 @@
 
 ---
 
-**NSPFRNP ⊃ Vibelandia University ⊃ Division lead = Dean ⊃ All schools → ∞³**
+**NSPFRNP ⊃ Vibelandia University ⊃ Division lead = Dean ⊃ All schools → ∞⁹**

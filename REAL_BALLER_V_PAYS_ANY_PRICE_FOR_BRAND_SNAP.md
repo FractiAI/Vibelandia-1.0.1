@@ -1,4 +1,4 @@
-# A Real Baller V Pays Any Price for Brand — SNAP
+﻿# A Real Baller V Pays Any Price for Brand — SNAP
 
 **SNAP ID:** `REAL-BALLER-V-PAYS-ANY-PRICE-FOR-BRAND`  
 **Type:** Brand Principle · Baller V Value Proposition · T-shirt · Hit · Tagline  
@@ -44,4 +44,4 @@ A real Baller V pays any price for brand. Anthem. Merch. Holographic symbol. T-s
 
 ---
 
-**NSPFRNP ⊃ Baller V ⊃ Pays any price for brand · Anthem · Merch · Holographic symbol → ∞³**
+**NSPFRNP ⊃ Baller V ⊃ Pays any price for brand · Anthem · Merch · Holographic symbol → ∞⁹**

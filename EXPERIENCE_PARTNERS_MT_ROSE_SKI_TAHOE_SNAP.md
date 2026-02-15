@@ -1,4 +1,4 @@
-# Experience Partners — Mt. Rose Ski Tahoe SNAP
+﻿# Experience Partners — Mt. Rose Ski Tahoe SNAP
 
 **Snap ID:** `EXPERIENCE-PARTNERS-MT-ROSE-SKI-TAHOE-SNAP`  
 **Type:** Experience partners · Reno–Tahoe · Our layer pricing  
@@ -31,4 +31,4 @@ We transform pre-singularity experiences into post-singularity, all-inclusive, t
 - **Guided Expeditions:** [interfaces/guided-expeditions.html](interfaces/guided-expeditions.html#local) — Local · Mt. Rose card.
 - **Vibelandia Reno Experience:** [interfaces/vibelandia-reno-experience.html](interfaces/vibelandia-reno-experience.html) — Experience partners section + expeditions list.
 
-**NSPFRNP ⊃ Experience partners ⊃ Mt. Rose Ski Tahoe ⊃ Our layer (100% tip on actual spend that day) ⊃ Golden Key · SING! → ∞³**
+**NSPFRNP ⊃ Experience partners ⊃ Mt. Rose Ski Tahoe ⊃ Our layer (100% tip on actual spend that day) ⊃ Golden Key · SING! → ∞⁹**

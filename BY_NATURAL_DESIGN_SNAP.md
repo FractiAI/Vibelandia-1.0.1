@@ -1,4 +1,4 @@
-# BY NATURAL DESIGN — NSPFRNP SNAP
+﻿# BY NATURAL DESIGN — NSPFRNP SNAP
 
 **Snap ID:** `BY-NATURAL-DESIGN-SNAP`  
 **Type:** Canonical principle · Tagline · Natural System Protocol  
@@ -43,4 +43,4 @@ The system follows **natural system protocol** — emergent, not forced; designe
 
 ---
 
-**NSPFRNP ⊃ BY NATURAL DESIGN ⊃ Natural System Protocol ⊃ ∞³**
+**NSPFRNP ⊃ BY NATURAL DESIGN ⊃ Natural System Protocol ⊃ ∞⁹**

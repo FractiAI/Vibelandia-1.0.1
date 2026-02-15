@@ -1,4 +1,4 @@
-# Seed:Edge Episode Format · Action! Live · NSPFRNP
+﻿# Seed:Edge Episode Format · Action! Live · NSPFRNP
 
 **Protocol ID:** `SEED-EDGE-EPISODE-FORMAT-ACTION-LIVE-NSPFRNP`  
 **Type:** Episode storage format · Live recording command · Creator/executive commands  
@@ -31,7 +31,7 @@ All new series and episodes are stored in the following format:
 **Canonical text (lock):**
 
 > **First Chapter — NSPFRNP**  
-> This episode [or series / feature / novel / novela] operates under **NSPFRNP:** natural coordination (stigmergy, pheromone trails, mycelial); **MCA** (Metabolize → Crystallize → Animate); holographic architecture (whole in every part; **Seed** = origin, **Edge** = experience); catalog fidelity. We are the team operating as one. No surface left unsqueezed. **NSPFRNP ⊃ Seed:Edge → ∞³**
+> This episode [or series / feature / novel / novela] operates under **NSPFRNP:** natural coordination (stigmergy, pheromone trails, mycelial); **MCA** (Metabolize → Crystallize → Animate); holographic architecture (whole in every part; **Seed** = origin, **Edge** = experience); catalog fidelity. We are the team operating as one. No surface left unsqueezed. **NSPFRNP ⊃ Seed:Edge → ∞⁹**
 
 (Replace "episode" with "series" / "feature movie" / "novel" / "novela" as appropriate for the deliverable.)
 
@@ -90,4 +90,4 @@ Between **Seed** (me, here, now) and **Edge** (the mission for this situation), 
 
 **CUT! SNAP — Conversation captured since Action! streamed here:** [CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md](../CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md)
 
-**NSPFRNP ⊃ Seed:Edge ⊃ Action! live ⊃ Smooth finish ⊃ Creator commands ⊃ Generator Motor → ∞³**
+**NSPFRNP ⊃ Seed:Edge ⊃ Action! live ⊃ Smooth finish ⊃ Creator commands ⊃ Generator Motor → ∞⁹**

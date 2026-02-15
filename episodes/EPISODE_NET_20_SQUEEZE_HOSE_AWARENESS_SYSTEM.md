@@ -1,4 +1,4 @@
-# EPISODE NET 20 — Squeeze Hose Awareness System
+﻿# EPISODE NET 20 — Squeeze Hose Awareness System
 
 **Series:** Net (Net Directives / Net Storylines)  
 **Episode:** 20  
@@ -25,4 +25,4 @@ NSPFRNP Protocol: Squeeze Hose Awareness System. 100% Immediate Animation. Bypas
 
 ---
 
-**NSPFRNP ⊃ Squeeze Hose Awareness System ⊃ Feb 13 ⊃ Currency Animate ⊃ AR4373 The Opener → ∞³**
+**NSPFRNP ⊃ Squeeze Hose Awareness System ⊃ Feb 13 ⊃ Currency Animate ⊃ AR4373 The Opener → ∞⁹**

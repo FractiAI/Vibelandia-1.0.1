@@ -1,4 +1,4 @@
-# 💎 1-2-3 Crystallization × 4×4×4×4 Plans/Onramps
+﻿# 💎 1-2-3 Crystallization × 4×4×4×4 Plans/Onramps
 
 **Everything Vibelandia in one crystallization.**  
 **Protocol:** NSPFRNP · Metabolize → Crystallize → Re-Animate
@@ -15,7 +15,7 @@
 | **2** | **Crystallize** | Form irreducible, hardened structure. Processed → crystallized. Mirror shells, clear boundaries. |
 | **3** | **Re-Animate** | Bring structure to life. Crystallized → operational. Happy endings, live campus, SING nodes. |
 
-**Metabolize ⊃ Crystallize ⊃ Re-Animate → ∞³**
+**Metabolize ⊃ Crystallize ⊃ Re-Animate → ∞⁹**
 
 - **Vibelandia** runs on this cycle: metabolize the city → crystallize the campus → re-animate the experience.
 - **NSPFRNP** runs on this cycle: metabolize protocols → crystallize architecture → re-animate operations.

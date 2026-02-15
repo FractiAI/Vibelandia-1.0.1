@@ -127,7 +127,7 @@ if (-not $tokenFound) {
 
 # Deploy
 Write-Host "[*] Deploying Vibelandia UI to Vercel..." -ForegroundColor Cyan
-Write-Host "   Project: psw-vibelandia-sing4" -ForegroundColor Gray
+Write-Host "   Project: psw-vibelandia-sing9" -ForegroundColor Gray
 Write-Host "   Root: . (repo root)" -ForegroundColor Gray
 Write-Host "   Framework: None (static)" -ForegroundColor Gray
 Write-Host ""

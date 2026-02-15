@@ -111,7 +111,7 @@ function captureTakeoverSnapshot() {
       mission_status: telemetry.mission_status || null,
       cycle: telemetry.cycle || null,
       note: 'For cloud-to-social broadcast. Screen state: HELLO takeover active.',
-      lets_vibe_url: 'https://psw-vibelandia-sing4.vercel.app/index.html',
+      lets_vibe_url: 'https://psw-vibelandia-sing9.vercel.app/index.html',
     };
     writeFileSync(TAKEOVER_SNAPSHOT_PATH, JSON.stringify(snapshot, null, 2), 'utf8');
     console.log('Takeover snapshot written to deliverables/mission-takeover-snapshot.json');

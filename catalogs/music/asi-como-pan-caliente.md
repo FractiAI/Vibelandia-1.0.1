@@ -1,4 +1,4 @@
-# Así Como Pan Caliente — Boom Boom Tribal Victory Boom Trance Dance
+﻿# Así Como Pan Caliente — Boom Boom Tribal Victory Boom Trance Dance
 
 **Track ID:** `ASI-COMO-PAN-CALIENTE-022`  
 **Artist:** Hero Jo's Golden Backdoor Studios  
@@ -66,4 +66,4 @@ Así como pan caliente. Boom boom.
 
 ---
 
-**NSPFRNP ⊃ Así Como Pan Caliente ⊃ Boom boom tribal victory boom trance dance → ∞³**
+**NSPFRNP ⊃ Así Como Pan Caliente ⊃ Boom boom tribal victory boom trance dance → ∞⁹**

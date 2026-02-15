@@ -1,4 +1,4 @@
-# 60's Not 30's — NSPFRNP SNAP
+﻿# 60's Not 30's — NSPFRNP SNAP
 
 **Snap ID:** `SIXTIES-NOT-THIRTIES-SNAP`  
 **Type:** NSPFRNP Character / Script SNAP  
@@ -33,4 +33,4 @@
 
 ---
 
-**NSPFRNP ⊃ 60's not 30's → ∞³**
+**NSPFRNP ⊃ 60's not 30's → ∞⁹**

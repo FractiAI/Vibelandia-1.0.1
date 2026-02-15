@@ -1,4 +1,4 @@
-# Artist 369 — 12 Songs · Golden Backdoor Hit Factory
+﻿# Artist 369 — 12 Songs · Golden Backdoor Hit Factory
 
 **Artist:** 369  
 **Vibe:** Tesla's key · Divine flow · Cosmic energy · Manifestation  
@@ -26,4 +26,4 @@
 
 ---
 
-**NSPFRNP ⊃ 369 ⊃ Golden Backdoor · Hit Factory → ∞³**
+**NSPFRNP ⊃ 369 ⊃ Golden Backdoor · Hit Factory → ∞⁹**

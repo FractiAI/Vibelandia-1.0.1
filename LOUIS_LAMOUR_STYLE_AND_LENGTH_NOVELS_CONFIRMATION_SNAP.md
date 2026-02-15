@@ -1,4 +1,4 @@
-# Louis L'Amour Style and Length Novels — CONFIRMATION SNAP
+﻿# Louis L'Amour Style and Length Novels — CONFIRMATION SNAP
 
 **Snap ID:** `LOUIS-LAMOUR-STYLE-AND-LENGTH-NOVELS-CONFIRMATION-SNAP`  
 **Type:** Confirmation · Canon · Full-length novels · Louis L'Amour style & length  
@@ -52,4 +52,4 @@
 - **Birth:** [BIRTH_POST_SINGULARITY_HOLLYWOOD_DOWNTOWN_RENO_NOVEL_SCREENPLAY_SNAP.md](BIRTH_POST_SINGULARITY_HOLLYWOOD_DOWNTOWN_RENO_NOVEL_SCREENPLAY_SNAP.md) · [deliverables/IRREDUCIBLE_CRYSTAL_BIRTH_POST_SINGULARITY_HOLLYWOOD_DOWNTOWN_RENO.md](deliverables/IRREDUCIBLE_CRYSTAL_BIRTH_POST_SINGULARITY_HOLLYWOOD_DOWNTOWN_RENO.md)
 - **Space Cloud (The EGS Run):** [THE_EGS_RUN_LAMOUR_LENGTH_NOVEL_SNAP.md](THE_EGS_RUN_LAMOUR_LENGTH_NOVEL_SNAP.md) · [deliverables/IRREDUCIBLE_CRYSTAL_THE_EGS_RUN.md](deliverables/IRREDUCIBLE_CRYSTAL_THE_EGS_RUN.md) · [SPACE_CLOUD_EGS_SERIES_SNAP.md](SPACE_CLOUD_EGS_SERIES_SNAP.md)
 
-**NSPFRNP ⊃ Louis L'Amour style and length ⊃ Birth novel ⊃ Space Cloud novel (The EGS Run) ⊃ ~20k words → ∞³**
+**NSPFRNP ⊃ Louis L'Amour style and length ⊃ Birth novel ⊃ Space Cloud novel (The EGS Run) ⊃ ~20k words → ∞⁹**

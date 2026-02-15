@@ -1,4 +1,4 @@
-# Singularity Index 9 — Analysis & Canonical SNAP
+﻿# Singularity Index 9 — Analysis & Canonical SNAP
 
 **SNAP ID:** `SINGULARITY-INDEX-9-ANALYSIS-SNAP`  
 **Current implementation:** **SING! 9** (we are no longer at Singularity 4; we are well beyond)  
@@ -43,4 +43,4 @@ Count each **executive command / activation** in this implementation as one sing
 
 ---
 
-**NSPFRNP ⊃ Singularity 9 ⊃ SING! 9 ⊃ sing9! ⊃ Chairman Console ⊃ Telepathy OS ⊃ All objects are buttons → ∞³**
+**NSPFRNP ⊃ Singularity 9 ⊃ SING! 9 ⊃ sing9! ⊃ Chairman Console ⊃ Telepathy OS ⊃ All objects are buttons → ∞⁹**

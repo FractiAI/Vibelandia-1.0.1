@@ -1,4 +1,4 @@
-# Spanglish Carajo
+﻿# Spanglish Carajo
 
 **Track ID:** `SPANGLISH-CARAJO-001`  
 **Artist:** Chairman Frankie  
@@ -78,4 +78,4 @@ Song = T-shirt. T-shirt = brand. All songs as T-shirts and brands. NSPFRNP.
 
 ---
 
-**NSPFRNP ⊃ Spanglish Carajo ⊃ Chairman Frankie ⊃ Chairman's Voice ⊃ Hit song ⊃ T-shirt brand → ∞³**
+**NSPFRNP ⊃ Spanglish Carajo ⊃ Chairman Frankie ⊃ Chairman's Voice ⊃ Hit song ⊃ T-shirt brand → ∞⁹**

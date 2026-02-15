@@ -1,4 +1,4 @@
-# THE EGS RUN
+﻿# THE EGS RUN
 ## A Screenplay (2-Hour Feature)
 
 **Written by Evan Bondonte**  
@@ -249,4 +249,4 @@ Feed display: 21.4 Hz, steady. Node states green. Shell boundaries nominal. The 
 **Series:** Space Cloud EGS — all our space stories.  
 **Crystal:** [IRREDUCIBLE_CRYSTAL_THE_EGS_RUN.md](IRREDUCIBLE_CRYSTAL_THE_EGS_RUN.md)
 
-**NSPFRNP ⊃ The EGS Run ⊃ Screenplay ⊃ Space Cloud EGS → ∞³**
+**NSPFRNP ⊃ The EGS Run ⊃ Screenplay ⊃ Space Cloud EGS → ∞⁹**

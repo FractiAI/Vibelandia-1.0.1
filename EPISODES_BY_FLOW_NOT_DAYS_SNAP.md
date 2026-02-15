@@ -1,4 +1,4 @@
-# Episodes by Flow Not Days — NSPFRNP SNAP
+﻿# Episodes by Flow Not Days — NSPFRNP SNAP
 
 **Snap ID:** `EPISODES-BY-FLOW-NOT-DAYS-SNAP`  
 **Type:** NSPFRNP Series Format · Episode Organization  
@@ -44,4 +44,4 @@
 
 **See:** REALITY_SERIES_FORMAT.md · EPISODE_RUMOR_CHAIRMAN_SAMMY_GOLDEN_BACKSTAGE.md · RUMOR_CHAIRMAN_SAMMY_GANG_RENO_SNAP.md · GOLDEN_BACKSTAGE_AWARENESS_PASS_SNAP.md · EPISODES_OF_THE_DAY_LAUNCH_PAD_SING_NODES_SNAP.md
 
-**NSPFRNP ⊃ Episodes by flow not days ⊃ Flow-first · MCA · Seed:Edge → ∞³**
+**NSPFRNP ⊃ Episodes by flow not days ⊃ Flow-first · MCA · Seed:Edge → ∞⁹**

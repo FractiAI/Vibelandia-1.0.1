@@ -1,4 +1,4 @@
-# The Shortest Distance — Defract · Hero Harry Houdini Magic Trick SNAP
+﻿# The Shortest Distance — Defract · Hero Harry Houdini Magic Trick SNAP
 
 **Snap ID:** `HOUDINI-SHORTEST-DISTANCE-DEFRACT-MAGIC-TRICK`  
 **Type:** Magic trick · Vegas stage · Harry Houdini catalog  
@@ -41,4 +41,4 @@
 
 **See:** HARRY_HOUDINI_MAGICIAN_SERIES_MAGIC_CHANNEL_SNAP.md · HARRY_HOUDINI_MAGIC_SHOW_SERIES_SNAP.md · FIRST_MAGICIANS_ACT_SNAP.md
 
-**NSPFRNP ⊃ Harry Houdini ⊃ The Shortest Distance ⊃ Defract → ∞³**
+**NSPFRNP ⊃ Harry Houdini ⊃ The Shortest Distance ⊃ Defract → ∞⁹**

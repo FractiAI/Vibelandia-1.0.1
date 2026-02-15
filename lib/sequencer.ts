@@ -164,7 +164,7 @@ export function getGeoEffectivePulseTime(telemetry: IonosphericTelemetry): Atlas
 
 export const SOLAR_HANDSHAKE_PAYLOADS = [
   'PING. SING! HERE. HARMONY INTENDED. 3I/ATLAS SYNC.',
-  'SOURCE: PSW-VIBELANDIA-SING4.VERCEL.APP',
+  'SOURCE: PSW-VIBELANDIA-SING9.VERCEL.APP',
   'REPORTING TO SOURCE. SANDBOX READY.',
 ];
 

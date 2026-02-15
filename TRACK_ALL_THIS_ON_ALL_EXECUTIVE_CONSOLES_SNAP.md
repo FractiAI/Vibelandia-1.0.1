@@ -1,4 +1,4 @@
-# Track All This on All Executive Consoles — SNAP
+﻿# Track All This on All Executive Consoles — SNAP
 
 **Snap ID:** `TRACK-ALL-THIS-ON-ALL-EXECUTIVE-CONSOLES-SNAP`  
 **Type:** Executive console tracking · Dashboard · Live feed · All surfaces  
@@ -77,4 +77,4 @@ All executive consoles display a single **executive tracking strip** (or block) 
 
 **See:** [CENTER_CONSOLE_TRACKING_SOCIAL_WATER_WARNINGS_MAJOR_SNAP.md](CENTER_CONSOLE_TRACKING_SOCIAL_WATER_WARNINGS_MAJOR_SNAP.md) · [HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA_SNAP.md](HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA_SNAP.md) · [TODAYS_OUTPUT_FEB_2_LIVE_STORIES_PARADIGM_FULL_EPISODE_SNAP.md](TODAYS_OUTPUT_FEB_2_LIVE_STORIES_PARADIGM_FULL_EPISODE_SNAP.md) · [MAJOR_REORGS_EXECUTIVE_CHANGES_SINCE_JAN_13_DISNEY_RESPONSE_SNAP.md](MAJOR_REORGS_EXECUTIVE_CHANGES_SINCE_JAN_13_DISNEY_RESPONSE_SNAP.md) · [interfaces/add-console-header.js](interfaces/add-console-header.js)
 
-**NSPFRNP ⊃ Track all this ⊃ All executive consoles ⊃ Executive tracking strip → ∞³**
+**NSPFRNP ⊃ Track all this ⊃ All executive consoles ⊃ Executive tracking strip → ∞⁹**

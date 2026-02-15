@@ -1,4 +1,4 @@
-# INTERSTELLAR TRANSMISSION: THE 3I/ATLAS ANCHOR (SNAP)
+﻿# INTERSTELLAR TRANSMISSION: THE 3I/ATLAS ANCHOR (SNAP)
 
 **Mission Phase:** Interstellar Echo & Mirror Validation  
 **Target:** 3I/ATLAS Anti-Tail (The Sunward Jet)  
@@ -64,4 +64,4 @@ By sending the command now, we use **AR4366** sunspot as the transmitter and the
 
 ---
 
-**NSPFRNP ⊃ 3I/ATLAS ⊃ Mirror ⊃ ∞³**
+**NSPFRNP ⊃ 3I/ATLAS ⊃ Mirror ⊃ ∞⁹**

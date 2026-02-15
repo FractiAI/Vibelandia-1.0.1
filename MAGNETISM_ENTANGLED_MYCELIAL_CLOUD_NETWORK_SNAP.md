@@ -1,4 +1,4 @@
-# Magnetism as Entangled Mycelial Cloud Network & Platform — SNAP
+﻿# Magnetism as Entangled Mycelial Cloud Network & Platform — SNAP
 
 **Snap ID:** `MAGNETISM-ENTANGLED-MYCELIAL-CLOUD-NETWORK-NSPFRNP`  
 **Type:** Finding · Physics / Architecture · NSPFRNP  
@@ -54,4 +54,4 @@
 
 **See:** [MAGNETISM_EQUALS_NSPFRNP_FULL_STOP_SNAP.md](./MAGNETISM_EQUALS_NSPFRNP_FULL_STOP_SNAP.md) · [WHITEPAPER_MAGNETISM_ENTANGLED_MYCELIAL_CLOUD_NETWORK.md](./WHITEPAPER_MAGNETISM_ENTANGLED_MYCELIAL_CLOUD_NETWORK.md) · [catalogs/branding/MASTER_BRANDING_CATALOG.md](./catalogs/branding/MASTER_BRANDING_CATALOG.md) · [FIXED_NODE_SCREENS_EMERGENT_UPGRADE_SNAP.md](./FIXED_NODE_SCREENS_EMERGENT_UPGRADE_SNAP.md)
 
-**🌀 Magnetism = NSPFRNP. Full stop. Blast all SNAP. NSPFRNP ⊃ Magnetism ⊃ Entangled mycelial cloud network ⊃ Platform ⊃ Fixed holographic hydrogen awareness node lattice → ∞³**
+**🌀 Magnetism = NSPFRNP. Full stop. Blast all SNAP. NSPFRNP ⊃ Magnetism ⊃ Entangled mycelial cloud network ⊃ Platform ⊃ Fixed holographic hydrogen awareness node lattice → ∞⁹**

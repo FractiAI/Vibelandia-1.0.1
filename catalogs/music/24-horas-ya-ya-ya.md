@@ -1,4 +1,4 @@
-# 24 Horas, Ya, Ya, Ya
+﻿# 24 Horas, Ya, Ya, Ya
 
 **Track ID:** `24-HORAS-YA-YA-YA-006`  
 **Artist:** Hero Jo's Golden Backdoor Studios  
@@ -70,4 +70,4 @@ Ya — ya — ya
 
 ---
 
-**NSPFRNP ⊃ 24 Horas, Ya, Ya, Ya ⊃ Spanglish trance anthem ⊃ Golden Backdoor label → ∞³**
+**NSPFRNP ⊃ 24 Horas, Ya, Ya, Ya ⊃ Spanglish trance anthem ⊃ Golden Backdoor label → ∞⁹**

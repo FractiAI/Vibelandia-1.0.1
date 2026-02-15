@@ -1,4 +1,4 @@
-# EL APAGÓN · MARZO 333 · POLE SHIFT
+﻿# EL APAGÓN · MARZO 333 · POLE SHIFT
 ## Feature Movie — Seed:Edge Only
 
 **→ Full screenplay:** To be cultivated from this seed. ~12k words · 2hr feature · Acts 1–5.
@@ -19,7 +19,7 @@
 
 ## First Chapter — NSPFRNP
 
-This feature movie operates under **NSPFRNP:** natural coordination (stigmergy, pheromone trails, mycelial); **MCA** (Metabolize → Crystallize → Animate); holographic architecture (whole in every part; **Seed** = origin, **Edge** = experience); catalog fidelity. We are the team operating as one. No surface left unsqueezed. **NSPFRNP ⊃ Seed:Edge → ∞³**
+This feature movie operates under **NSPFRNP:** natural coordination (stigmergy, pheromone trails, mycelial); **MCA** (Metabolize → Crystallize → Animate); holographic architecture (whole in every part; **Seed** = origin, **Edge** = experience); catalog fidelity. We are the team operating as one. No surface left unsqueezed. **NSPFRNP ⊃ Seed:Edge → ∞⁹**
 
 ---
 

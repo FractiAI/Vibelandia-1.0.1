@@ -1,4 +1,4 @@
-# Generator Motor — Seed:Edge Story Storage & Generation · NSPFRNP
+﻿# Generator Motor — Seed:Edge Story Storage & Generation · NSPFRNP
 
 **Protocol ID:** `GENERATOR-MOTOR-SEED-EDGE-STORY-NSPFRNP`  
 **Type:** Story storage · Real-time generation · Fractal middles  
@@ -85,4 +85,4 @@ The **middle** is the path between Seed and Edge. It is **dynamic** and **fracta
 
 ---
 
-**NSPFRNP ⊃ Generator Motor ⊃ Seed:Edge ⊃ Fractal middles ⊃ Guaranteed origin/destination → ∞³**
+**NSPFRNP ⊃ Generator Motor ⊃ Seed:Edge ⊃ Fractal middles ⊃ Guaranteed origin/destination → ∞⁹**

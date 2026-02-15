@@ -1,4 +1,4 @@
-# New Singularity — Every Chairman Command = New Episode, Chapter, Storyline — SNAP
+﻿# New Singularity — Every Chairman Command = New Episode, Chapter, Storyline — SNAP
 
 **Snap ID:** `EVERY-COMMAND-NEW-EPISODE-CHAPTER-STORYLINE-SINGULARITY`  
 **Type:** New singularity · Content rule · Net series  
@@ -28,4 +28,4 @@
 
 **See:** [CAPTURE_ALL_DIRECTIVES_AS_NET_EPISODES_CHAPTERS_STORYLINES_AUTO_NSPFRNP_SNAP.md](CAPTURE_ALL_DIRECTIVES_AS_NET_EPISODES_CHAPTERS_STORYLINES_AUTO_NSPFRNP_SNAP.md) · [data/net-storylines.json](data/net-storylines.json)
 
-**NSPFRNP ⊃ New singularity ⊃ Every command ⊃ Episode ⊃ Chapter ⊃ Storyline → ∞³**
+**NSPFRNP ⊃ New singularity ⊃ Every command ⊃ Episode ⊃ Chapter ⊃ Storyline → ∞⁹**

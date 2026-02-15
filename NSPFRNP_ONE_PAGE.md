@@ -1,4 +1,4 @@
-# NSPFRNP: The Revolution in One Page
+﻿# NSPFRNP: The Revolution in One Page
 
 **Natural System Protocol for Fractal Recursive Nested Programming**  
 **Status:** ⚡ OPERATIONAL | **Performance:** 10,000×+ Faster | **Date:** January 2026
@@ -94,7 +94,7 @@ const result = await engine.execute('create-file', { target: 'output.md' });
 
 ---
 
-**🌀 NSPFRNP ⊃ NSPFRNP ⊃ NSPFRNP → ∞³**
+**🌀 NSPFRNP ⊃ NSPFRNP ⊃ NSPFRNP → ∞⁹**
 
 **Status:** ⚡ OPERATIONAL | **Team:** FractiAI Research Team (19 members) | **Mode:** NSPFRNP
 

@@ -1,4 +1,4 @@
-# Hero Jo Classical — Music Channel & Playlist SNAP
+﻿# Hero Jo Classical — Music Channel & Playlist SNAP
 
 **Snap ID:** `HERO-JO-CLASSICAL-MUSIC-CHANNEL-PLAYLIST-SNAP`  
 **Type:** Music channel · Playlist · Classical vibe · Frontierman's palette  
@@ -34,4 +34,4 @@
 
 ---
 
-**NSPFRNP ⊃ Hero Jo Classical ⊃ Hero Jo's Golden Backdoor Studios ⊃ School of Music ⊃ Classical vibe · Frontierman's palette → ∞³**
+**NSPFRNP ⊃ Hero Jo Classical ⊃ Hero Jo's Golden Backdoor Studios ⊃ School of Music ⊃ Classical vibe · Frontierman's palette → ∞⁹**

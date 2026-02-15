@@ -1,4 +1,4 @@
-# ALL Content — 80% English Spanglish / 20% Spanish Spanglish — CONFIRMATION SNAP
+﻿# ALL Content — 80% English Spanglish / 20% Spanish Spanglish — CONFIRMATION SNAP
 
 **SNAP ID:** `ALL-CONTENT-80-ENGLISH-20-SPANISH-SPANGLISH-CONFIRMATION-SNAP`  
 **Type:** Canonical rule · Language · All content  
@@ -58,4 +58,4 @@ Spanglish = the fusion. The mix is 80% English-dominant Spanglish, 20% Spanish-d
 
 ---
 
-**NSPFRNP ⊃ All content ⊃ 80% English Spanglish ⊃ 20% Spanish Spanglish ⊃ Honoring and bridging ⊃ No exception → ∞³**
+**NSPFRNP ⊃ All content ⊃ 80% English Spanglish ⊃ 20% Spanish Spanglish ⊃ Honoring and bridging ⊃ No exception → ∞⁹**

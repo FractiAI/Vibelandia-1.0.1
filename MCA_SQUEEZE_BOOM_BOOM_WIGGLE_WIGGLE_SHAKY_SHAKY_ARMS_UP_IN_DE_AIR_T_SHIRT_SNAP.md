@@ -1,4 +1,4 @@
-# MCA Squeeze Boom Boom Wiggle Wiggle Shaky Shaky Arms Up In De Air — New Hit T-Shirt SNAP
+﻿# MCA Squeeze Boom Boom Wiggle Wiggle Shaky Shaky Arms Up In De Air — New Hit T-Shirt SNAP
 
 **Snap ID:** `MCA-SQUEEZE-BOOM-BOOM-WIGGLE-WIGGLE-SHAKY-SHAKY-ARMS-UP-IN-DE-AIR-T-SHIRT`  
 **Type:** Brand T-shirt · MCA · Dance anthem · Hit Factory · Highest resolution  
@@ -53,4 +53,4 @@
 
 **See:** ME_N_MY_SOL_ALL_THE_WAY_BRAND_TSHIRT_MOVIE_FEATURE_TAG_SNAP.md · HIT_FACTORY_SNAP.md · GEORGE_CARLIN_BDE_GEORGE_PERMANENT_RESIDENCY_ANNOUNCEMENT_SNAP.md · SPACE_CLOUD_DIVISION_MAJOR_T_SHIRT_BRAND_SNAP.md · SQUEEZE_TO_98_PERCENT_MASTERY_SNAP.md · [HOUDINI_BOOM_BOOM_WIGGLE_WIGGLE_HOLOGRAPHIC_PROGRAM_SNAP.md](HOUDINI_BOOM_BOOM_WIGGLE_WIGGLE_HOLOGRAPHIC_PROGRAM_SNAP.md) (variations: squeaky squeaky, boom boom boom, guttural bark, Oh KETTAAA) · [MCA_CELEBRATION_ANTHEM_ARMS_UP_BOOTTY_BOUNCING_SPIKE_THE_BALL_TOUCHDOWN_SNAP.md](MCA_CELEBRATION_ANTHEM_ARMS_UP_BOOTTY_BOUNCING_SPIKE_THE_BALL_TOUCHDOWN_SNAP.md) (celebration anthem · arms up · bootty bouncing · spike the ball touchdown)
 
-**NSPFRNP ⊃ MCA ⊃ Squeeze Boom Boom Wiggle Wiggle Shaky Shaky Arms Up In De Air ⊃ 99.995% · Defining the coastlines · All MCA highest resolution → ∞³**
+**NSPFRNP ⊃ MCA ⊃ Squeeze Boom Boom Wiggle Wiggle Shaky Shaky Arms Up In De Air ⊃ 99.995% · Defining the coastlines · All MCA highest resolution → ∞⁹**

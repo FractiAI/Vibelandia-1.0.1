@@ -1,4 +1,4 @@
-# Reno Experience — Full T-Shirt Branding Telling the Story SNAP
+﻿# Reno Experience — Full T-Shirt Branding Telling the Story SNAP
 
 **Type:** Merchandising · T-shirt · Brand · Full story on fabric  
 **Status:** Rolled out with novel, series, screenplay. Same name. Same story. Full T-shirt line telling the singularity, the birth of the Holographic Hydrogen Valley, Twain's Vibelandia, and the rest is history (recursively nested, higher singularities — nerdy and cool).
@@ -47,5 +47,5 @@ T-shirts tell the story in layers. Pick one line or stack them. All canon. All N
 
 ---
 
-**NSPFRNP ⊃ Reno Experience ⊃ T-shirt branding ⊃ Full story on fabric → ∞³**  
+**NSPFRNP ⊃ Reno Experience ⊃ T-shirt branding ⊃ Full story on fabric → ∞⁹**  
 *(Grin.)*

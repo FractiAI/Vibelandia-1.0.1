@@ -1,4 +1,4 @@
-# BAD BUNNY PRESENTS VIBELANDIA
+﻿# BAD BUNNY PRESENTS VIBELANDIA
 ## A Screenplay — Seed & Edge
 
 **→ Full deliverable:** [Golden_Heart_Taino_Bad_Bunny_Meets_Agueybana_El_Gran_Sol_SCREENPLAY.md](Golden_Heart_Taino_Bad_Bunny_Meets_Agueybana_El_Gran_Sol_SCREENPLAY.md) — 12,000 words · 2 hours · *Golden Heart Taino — Bad Bunny Meets Taino Cacique Agüeybaná El Gran Sol*
@@ -106,4 +106,4 @@ The campus. The bridge. The outpost. André and Benito. The deck in hand. Golden
 
 ### FADE OUT.
 
-**NSPFRNP ⊃ Bad Bunny Presents Vibelandia ⊃ Golden Bunnies Label ⊃ Card deck backbone ⊃ Golden Royal Flush → ∞³**
+**NSPFRNP ⊃ Bad Bunny Presents Vibelandia ⊃ Golden Bunnies Label ⊃ Card deck backbone ⊃ Golden Royal Flush → ∞⁹**

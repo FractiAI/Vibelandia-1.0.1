@@ -1,4 +1,4 @@
-# Queen of Sheba — Label · Refined · Mature
+﻿# Queen of Sheba — Label · Refined · Mature
 
 **Label:** Queen of Sheba  
 **Vibe:** Sexy spoon. Melt your pants off. Blame it. Classy. Golden. Refined treasure — not urban.  
@@ -25,4 +25,4 @@
 **SNAP:** [QUEEN_OF_SHEBA_LABEL_SNAP.md](../../../QUEEN_OF_SHEBA_LABEL_SNAP.md)  
 **Interface:** [interfaces/queen-of-sheba.html](../../../interfaces/queen-of-sheba.html)
 
-**NSPFRNP ⊃ Queen of Sheba ⊃ Refined · Like hot bread with butter → ∞³**
+**NSPFRNP ⊃ Queen of Sheba ⊃ Refined · Like hot bread with butter → ∞⁹**

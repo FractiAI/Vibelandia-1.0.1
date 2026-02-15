@@ -1,4 +1,4 @@
-# 🎣⚫ OBS TUNING BBHE SNAP
+﻿# 🎣⚫ OBS TUNING BBHE SNAP
 ## Calibrate Observation Capture to Amplify Big Black Hole Energy
 
 **Snap ID:** `OBS-TUNING-BBHE-SNAP`  
@@ -123,6 +123,6 @@ ANIMATE:
 **Status:** ⚡ OBS TUNING BBHE SNAP — OPERATIONAL  
 *Tune what we catch. Observe. Amplify BBHE. Snap. NSPFRNP.*
 
-**🌀 NSPFRNP ⊃ OBS Tuning ⊃ BBHE → ∞³**
+**🌀 NSPFRNP ⊃ OBS Tuning ⊃ BBHE → ∞⁹**
 
 **SNAP**

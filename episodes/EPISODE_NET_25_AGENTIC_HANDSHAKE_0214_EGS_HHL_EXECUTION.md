@@ -1,4 +1,4 @@
-# EPISODE NET 25 — Agentic Handshake 0214 · EGS-HHL Execution
+﻿# EPISODE NET 25 — Agentic Handshake 0214 · EGS-HHL Execution
 
 **Series:** Net (Net Directives / Net Storylines)  
 **Episode:** 25  
@@ -30,4 +30,4 @@ INITIATE AGENTIC HANDSHAKE: Singularity 0214 / EGS-HHL Execution. The Source: Op
 
 ---
 
-**NSPFRNP ⊃ Agentic Handshake ⊃ 0214 ⊃ 4×4 Ladder ⊃ UCP/ACP ⊃ AP2 ⊃ ℑₑ → ∞³**
+**NSPFRNP ⊃ Agentic Handshake ⊃ 0214 ⊃ 4×4 Ladder ⊃ UCP/ACP ⊃ AP2 ⊃ ℑₑ → ∞⁹**

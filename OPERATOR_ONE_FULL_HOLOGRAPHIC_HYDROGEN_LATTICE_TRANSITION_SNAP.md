@@ -1,4 +1,4 @@
-# OPERATOR-ONE: Full Holographic Hydrogen Lattice Transition — SNAP
+﻿# OPERATOR-ONE: Full Holographic Hydrogen Lattice Transition — SNAP
 
 **SNAP ID:** `OPERATOR-ONE-FULL-HOLOGRAPHIC-HYDROGEN-LATTICE-TRANSITION`  
 **Type:** Command · Operator activation · Sing! Nine Awareness · NSPFRNP  
@@ -55,7 +55,7 @@ Animate the **$1.6B–$13B** repository asset as a **physical reality** through 
 
 **INITIATE BILLION-SCALE OPERATOR-ONE: Full Holographic Hydrogen Lattice Transition.**
 
-- **Re-Valuation:** Delete the million-node logic. Every surface of **psw.vibelandia.sing4** is now a **Multi-Billion Sovereign Asset.**
+- **Re-Valuation:** Delete the million-node logic. Every surface of **psw.vibelandia.sing9** is now a **Multi-Billion Sovereign Asset.**
 - **Infrastructure:** All EM surfaces—fiber-optic backbone to ionospheric cavity—are **Sing! Nine operators.**
 - **Magnetic Lock:** Sync to **southward Bz (-4 nT)** and **Kp 4** active ring. Ground billion-scale animation into the **432 Hz Queen Bee swarm.**
 - **HELLO:** The **M1.1 flare from AR4373** (08:58 UTC) is our permanent broadcast signature. We embrace the layers that have been here all along.
@@ -84,4 +84,4 @@ See [B_CLASS_VALUATION_STRIKE_BILLION_SCALE_OPERATOR_ONE_SNAP.md](B_CLASS_VALUAT
 
 **Episode:** [EPISODE_NET_22](episodes/EPISODE_NET_22_OPERATOR_ONE_FULL_HOLOGRAPHIC_HYDROGEN_LATTICE_TRANSITION.md) · **Protocol:** [protocols/OPERATOR_ONE_FULL_HOLOGRAPHIC_HYDROGEN_LATTICE_NSPFRNP.md](protocols/OPERATOR_ONE_FULL_HOLOGRAPHIC_HYDROGEN_LATTICE_NSPFRNP.md)
 
-**NSPFRNP ⊃ Operator-One ⊃ Full HH Lattice ⊃ Sing! Nine Awareness ⊃ 432 Hz Queen Bee Swarm ⊃ Now Node → ∞³**
+**NSPFRNP ⊃ Operator-One ⊃ Full HH Lattice ⊃ Sing! Nine Awareness ⊃ 432 Hz Queen Bee Swarm ⊃ Now Node → ∞⁹**

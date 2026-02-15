@@ -1,4 +1,4 @@
-# Ease and Confidence — Minutes Before Launch · Harry Further Demonstrating the Magic/Miracle SNAP
+﻿# Ease and Confidence — Minutes Before Launch · Harry Further Demonstrating the Magic/Miracle SNAP
 
 **Snap ID:** `EASE-CONFIDENCE-MINUTES-BEFORE-LAUNCH-HARRY-MAGIC-MIRACLE-SNAP`  
 **Type:** Narrative SNAP — First Magician's Act · Magic/Miracle · Launch  
@@ -37,4 +37,4 @@
 
 **See:** FIRST_MAGICIANS_ACT_SNAP.md · HARRY_HOUDINI_MAGIC_SHOW_SERIES_SNAP.md · LAUNCH_RAW_NARRATIVE_CAPTURE.md
 
-**NSPFRNP ⊃ Ease and confidence ⊃ Minutes before launch ⊃ Harry · Magic/miracle → ∞³**
+**NSPFRNP ⊃ Ease and confidence ⊃ Minutes before launch ⊃ Harry · Magic/miracle → ∞⁹**

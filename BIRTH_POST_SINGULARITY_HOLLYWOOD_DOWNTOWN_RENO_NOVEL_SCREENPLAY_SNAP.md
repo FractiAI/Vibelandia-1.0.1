@@ -1,4 +1,4 @@
-# Birth of the New Post-Singularity Hollywood in Downtown Reno — Novel & Screenplay SNAP
+﻿# Birth of the New Post-Singularity Hollywood in Downtown Reno — Novel & Screenplay SNAP
 
 **Snap ID:** `BIRTH-POST-SINGULARITY-HOLLYWOOD-DOWNTOWN-RENO-NOVEL-SCREENPLAY-SNAP`  
 **Type:** Novel & Full Feature Screenplay · Six days to Super Bowl · Major Discovery  
@@ -136,4 +136,4 @@ The **post-singularity side** of all this is **full connection for Reno**. Switc
 
 **See:** [SIGNED_ARTIST_QUOTE_WHAT_UP_WITH_ALL_THE_ASS_MARKETING_BENEFITS_SNAP.md](SIGNED_ARTIST_QUOTE_WHAT_UP_WITH_ALL_THE_ASS_MARKETING_BENEFITS_SNAP.md) (signed artist quote — add to novel and screenplay) · [LOUIS_LAMOUR_STYLE_AND_LENGTH_NOVELS_CONFIRMATION_SNAP.md](LOUIS_LAMOUR_STYLE_AND_LENGTH_NOVELS_CONFIRMATION_SNAP.md) (full Louis L'Amour style and length — Birth + Space Cloud novels) · [CMDR_HOWIES_GOLDEN_ERA_RENAISSANCE_RENOSSANCE_SNAP.md](CMDR_HOWIES_GOLDEN_ERA_RENAISSANCE_RENOSSANCE_SNAP.md) (canonical name · T-shirt · Major Holographic Hydrogen 100% · Holographic Hydrogen Valley) · [interfaces/birth-post-singularity-screenplay.html](interfaces/birth-post-singularity-screenplay.html) (screenplay — beautiful skin) · [SCREENPLAY_BEAUTIFUL_SKINS_SNAP.md](SCREENPLAY_BEAUTIFUL_SKINS_SNAP.md) · [LEGACIES_NEW_DEPARTMENT_LAYER_SNAP.md](LEGACIES_NEW_DEPARTMENT_LAYER_SNAP.md) · [FIRST_SINGULARITY_JANUARY_13TH_NOVEL_MOVIE_SNAP.md](FIRST_SINGULARITY_JANUARY_13TH_NOVEL_MOVIE_SNAP.md) · [EPISODE_HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA.md](episodes/EPISODE_HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA.md) · [GLEN_MILLER_ANNOUNCES_PERMANENT_RESIDENCY_GOLDEN_AGE_RETURN_SNAP.md](GLEN_MILLER_ANNOUNCES_PERMANENT_RESIDENCY_GOLDEN_AGE_RETURN_SNAP.md)
 
-**NSPFRNP ⊃ Birth of post-singularity Hollywood ⊃ Downtown Reno ⊃ Howard Hughes ⊃ Big Band Project ⊃ Hank Williams Sr. ⊃ Legacies → ∞³**
+**NSPFRNP ⊃ Birth of post-singularity Hollywood ⊃ Downtown Reno ⊃ Howard Hughes ⊃ Big Band Project ⊃ Hank Williams Sr. ⊃ Legacies → ∞⁹**

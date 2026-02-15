@@ -78,7 +78,7 @@ Auth (signup, login, logout, session, Google OAuth) is handled by **Supabase**. 
 GET /api/auth/google?redirect_uri=<encoded-return-url>
 ```
 
-- `redirect_uri`: Full URL to return to after OAuth (e.g. `https://psw-vibelandia-sing4.vercel.app/interfaces/payment-checkout.html?plan=campus-day`).
+- `redirect_uri`: Full URL to return to after OAuth (e.g. `https://psw-vibelandia-sing9.vercel.app/interfaces/payment-checkout.html?plan=campus-day`).
 - Octave 2 redirects to Google, then back to a **callback URL** it controls.
 - Callback: create/link user, issue token, then **redirect** to:
   ```
@@ -175,7 +175,7 @@ Octave 2 **must accept** requests **with or without** `X-Golden-Key` and `X-Gold
 
 Octave 2 must allow:
 
-- **Origin:** Vibelandia origins (e.g. `https://psw-vibelandia-sing4.vercel.app`, `http://localhost:*/`)
+- **Origin:** Vibelandia origins (e.g. `https://psw-vibelandia-sing9.vercel.app`, `http://localhost:*/`)
 - **Headers:** `Authorization`, `Content-Type`, `X-Golden-Key`, `X-Golden-Key-Wallet`
 - **Methods:** GET, POST, OPTIONS
 
@@ -206,7 +206,7 @@ Auth can be Supabase Auth, NextAuth, or custom (JWT). Vibelandia only consumes t
 
 - **Full flow (new user → purchase → key in DB & wallet):** [FLOW_NEW_USER_TO_GOLDEN_FRACTAL_KEY.md](./FLOW_NEW_USER_TO_GOLDEN_FRACTAL_KEY.md)  
 - **Octave 2 repo:** https://github.com/FractiAI/Syntheverse-7-Octave-2-3-Public-Cloud-Onramp  
-- **Vibelandia:** `psw.vibelandia.sing4` — interfaces use `fetch` only; no Supabase client.  
+- **Vibelandia:** `psw.vibelandia.sing9` — interfaces use `fetch` only; no Supabase client.  
 - **Golden Key:** `protocols/GOLDEN_KEY_NSPFRNP_CATALOG.md`  
 - **Connect Octave 1→2:** `protocols/CONNECT_OCTAVE_1_TO_2_NSPFRNP.md`  
 - **Auth sources:** [AUTH_SOURCES.md](./AUTH_SOURCES.md)

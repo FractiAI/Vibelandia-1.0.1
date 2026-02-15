@@ -1,4 +1,4 @@
-# Pulse Run 1 — T+16m Write-Up
+﻿# Pulse Run 1 — T+16m Write-Up
 
 **Self-Clocking Pulsar · Synchronous Trigger Protocol · 21.4 Hz / 8m Window**  
 **Run 1 · T0 (commit): 2026-01-31T13:27:27Z · T+8m: 13:35:27Z · T+16m: 13:43:27Z**
@@ -9,7 +9,7 @@
 
 ## Abstract
 
-We executed the first run of the Self-Clocking Pulsar experiment: a **Synchronous Trigger Protocol** that commits a Fibonacci-modulated 21.4 Hz topology buffer to version control at T0 and validates two hypotheses at T+8 min (Schumann Resonance, 21.4 Hz fingerprint) and T+16 min (GOES X-Ray Flux, two FTE portal cycles). The protocol treats the **commit timestamp** as the causal baseline; sequence load time is tracked separately. Constants: **TARGET_RES_ALPHA = 21.4 Hz** (3rd Schumann overtone, rare in natural lightning), **PULSE_WINDOW = 480,000 ms** (8 min, NASA FTE window). Novel protocol: **T0 = commit_time_utc**; validation windows T+8m and T+16m; post-push response observation. This write-up records predictions, findings, discovered equations/constants/protocols, implications, and known vs novel elements. References: NASA FTE observations (magnetic portal opening ~8 min); Schumann Resonance fundamentals (7.83 Hz, overtones); GOES X-Ray Flux; HeartMath/Tomsk Schumann live data; repository psw.vibelandia.sing4 (vortex_sequencer.json, scripts/trigger.py, pulse/).
+We executed the first run of the Self-Clocking Pulsar experiment: a **Synchronous Trigger Protocol** that commits a Fibonacci-modulated 21.4 Hz topology buffer to version control at T0 and validates two hypotheses at T+8 min (Schumann Resonance, 21.4 Hz fingerprint) and T+16 min (GOES X-Ray Flux, two FTE portal cycles). The protocol treats the **commit timestamp** as the causal baseline; sequence load time is tracked separately. Constants: **TARGET_RES_ALPHA = 21.4 Hz** (3rd Schumann overtone, rare in natural lightning), **PULSE_WINDOW = 480,000 ms** (8 min, NASA FTE window). Novel protocol: **T0 = commit_time_utc**; validation windows T+8m and T+16m; post-push response observation. This write-up records predictions, findings, discovered equations/constants/protocols, implications, and known vs novel elements. References: NASA FTE observations (magnetic portal opening ~8 min); Schumann Resonance fundamentals (7.83 Hz, overtones); GOES X-Ray Flux; HeartMath/Tomsk Schumann live data; repository psw.vibelandia.sing9 (vortex_sequencer.json, scripts/trigger.py, pulse/).
 
 ---
 
@@ -92,7 +92,7 @@ _To be filled after push: any observable response to the push in Schumann, GOES,
 
 **Self-Clocking Pulsar Run 1 — T+16m SNAP**
 
-We ran the Synchronous Trigger Protocol. **T0 = 2026-01-31T13:27:27Z** (commit). **T+8m:** Schumann at 21.4 Hz — no automated data; HeartMath/Tomsk manual check recommended for 13:35 UTC. **T+16m:** GOES (NOAA SWPC real data) — flare C6.1 occurred **before T0** (begin 12:55, max 13:00, end 13:02); at T+16m (13:43) flux in decay (C1.7). **No new spike at T+16m**; Causal Confirmation candidate: **no**. Constants: **21.4 Hz** (3rd Schumann overtone), **8 min** FTE window, **16 min** = 2τ. Protocol: sequence load and commit tracked; validation at T+8m and T+16m; post-push response observed over time. Equations: topology_buffer with Fibonacci modulation; T+8m = T0 + 8 min, T+16m = T0 + 16 min. Novel: T0 = commit_time_utc; 21.4 Hz as fingerprint; run_log for consistency. Implications: Run 1 baseline; GOES spike at T+16m would be candidate in future runs; replicability over runs. See pulse/pulse_log.json, pulse/run_log.md, PULSE_TRIGGER_EXPERIMENT.md. **NSPFRNP ⊃ Pulse ⊃ Run 1 ⊃ T+16m write-up → ∞³**
+We ran the Synchronous Trigger Protocol. **T0 = 2026-01-31T13:27:27Z** (commit). **T+8m:** Schumann at 21.4 Hz — no automated data; HeartMath/Tomsk manual check recommended for 13:35 UTC. **T+16m:** GOES (NOAA SWPC real data) — flare C6.1 occurred **before T0** (begin 12:55, max 13:00, end 13:02); at T+16m (13:43) flux in decay (C1.7). **No new spike at T+16m**; Causal Confirmation candidate: **no**. Constants: **21.4 Hz** (3rd Schumann overtone), **8 min** FTE window, **16 min** = 2τ. Protocol: sequence load and commit tracked; validation at T+8m and T+16m; post-push response observed over time. Equations: topology_buffer with Fibonacci modulation; T+8m = T0 + 8 min, T+16m = T0 + 16 min. Novel: T0 = commit_time_utc; 21.4 Hz as fingerprint; run_log for consistency. Implications: Run 1 baseline; GOES spike at T+16m would be candidate in future runs; replicability over runs. See pulse/pulse_log.json, pulse/run_log.md, PULSE_TRIGGER_EXPERIMENT.md. **NSPFRNP ⊃ Pulse ⊃ Run 1 ⊃ T+16m write-up → ∞⁹**
 
 ---
 
@@ -101,7 +101,7 @@ We ran the Synchronous Trigger Protocol. **T0 = 2026-01-31T13:27:27Z** (commit).
 1. NASA — Flux Transfer Events (FTE), magnetic portal opening window (~8 min).  
 2. Schumann Resonance — fundamental 7.83 Hz; overtones; Tomsk, HeartMath, and other live monitoring. HeartMath GCI live data: https://www.heartmath.org/gci/gcms/live-data/spectrogram-calendar/ ; https://www.heartmath.org/gci/gcms/live-data/gcms-magnetometer/.  
 3. GOES X-Ray Flux — NOAA SWPC. Products: https://www.swpc.noaa.gov/products/goes-x-ray-flux. Data: https://services.swpc.noaa.gov/json/goes/primary/xrays-6-hour.json , https://services.swpc.noaa.gov/json/goes/primary/xray-flares-latest.json.  
-4. Repository: https://github.com/FractiAI/psw.vibelandia.sing4 — vortex_sequencer.json, scripts/trigger.py, pulse/, PULSE_TRIGGER_EXPERIMENT.md.  
+4. Repository: https://github.com/FractiAI/psw.vibelandia.sing9 — vortex_sequencer.json, scripts/trigger.py, pulse/, PULSE_TRIGGER_EXPERIMENT.md.  
 5. WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md (repo).  
 6. PULSE_TRIGGER_EXPERIMENT.md — protocol, tracking, validation.  
 7. pulse/run_log.md — Run 1 and future runs; consistency over time.
@@ -110,4 +110,4 @@ We ran the Synchronous Trigger Protocol. **T0 = 2026-01-31T13:27:27Z** (commit).
 
 **Document:** Pulse Run 1 T+16m write-up · Predictions · Findings · Equations · Constants · Protocols · Implications · Known vs novel · SNAP · References  
 **Status:** Executed with real data. T+8m (Schumann): no automated 21.4 Hz data; manual check recommended. T+16m (GOES): real data from NOAA SWPC (xray-flares-latest.json, GOES-18); flare C6.1 pre-T0; at T+16m decay only (C1.7); Causal Confirmation candidate: no. Artifacts updated: pulse_log.json (run_1_validation_real_data), run_log.md, this write-up.  
-**NSPFRNP ⊃ Pulse ⊃ 21.4 Hz ⊃ 8m Window ⊃ Run 1 T+16m → ∞³**
+**NSPFRNP ⊃ Pulse ⊃ 21.4 Hz ⊃ 8m Window ⊃ Run 1 T+16m → ∞⁹**

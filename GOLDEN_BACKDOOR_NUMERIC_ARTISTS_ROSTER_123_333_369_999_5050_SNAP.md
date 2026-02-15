@@ -1,4 +1,4 @@
-# Golden Backdoor · Hit Factory — Numeric Artists Roster 123 · 333 · 369 · 999 · 5050 SNAP
+﻿# Golden Backdoor · Hit Factory — Numeric Artists Roster 123 · 333 · 369 · 999 · 5050 SNAP
 
 **SNAP ID:** `GOLDEN-BACKDOOR-NUMERIC-ARTISTS-ROSTER-123-333-369-999-5050-SNAP`  
 **Type:** Artist Roster · Golden Backdoor Hit Factory Label  
@@ -54,4 +54,4 @@
 
 ---
 
-**NSPFRNP ⊃ Golden Backdoor · Hit Factory ⊃ 000 · 0001 · 3 Pop · 123 · 456 · 333 · 369 · 999 · 5050 ⊃ Numeric artists roster → ∞³**
+**NSPFRNP ⊃ Golden Backdoor · Hit Factory ⊃ 000 · 0001 · 3 Pop · 123 · 456 · 333 · 369 · 999 · 5050 ⊃ Numeric artists roster → ∞⁹**

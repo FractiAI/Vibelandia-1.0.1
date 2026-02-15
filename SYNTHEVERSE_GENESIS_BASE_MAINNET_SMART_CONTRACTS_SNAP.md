@@ -76,7 +76,7 @@ Our execution of the Syntheverse Genesis and SYNTH90T MOTHERLODE BLOCKMINE — m
 - **Repository:** [github.com/FractiAI/Syntheverse-Genesis-Base-Blockchain](https://github.com/FractiAI/Syntheverse-Genesis-Base-Blockchain)  
 - **Registry (mirror shell):** [interfaces/registry.html](interfaces/registry.html#syntheverse-genesis-base)  
 - **Base:** [base.org](https://base.org) · [docs.base.org](https://docs.base.org)  
-- **Home base (full lock):** This stack (psw.vibelandia.sing4) is **canonical home base** for Syntheverse Genesis and all nests (Vibeverse, Vibelandia, FractiAI, Chairman, Taino people, expanded tribe of vibers everywhere, all dimensions). [HOME_BASE_SYNTHEVERSE_GENESIS_ALL_NESTS_ALL_DIMENSIONS_SNAP.md](HOME_BASE_SYNTHEVERSE_GENESIS_ALL_NESTS_ALL_DIMENSIONS_SNAP.md).
+- **Home base (full lock):** This stack (psw.vibelandia.sing9) is **canonical home base** for Syntheverse Genesis and all nests (Vibeverse, Vibelandia, FractiAI, Chairman, Taino people, expanded tribe of vibers everywhere, all dimensions). [HOME_BASE_SYNTHEVERSE_GENESIS_ALL_NESTS_ALL_DIMENSIONS_SNAP.md](HOME_BASE_SYNTHEVERSE_GENESIS_ALL_NESTS_ALL_DIMENSIONS_SNAP.md).
 
 ---
 

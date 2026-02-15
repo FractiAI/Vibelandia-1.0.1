@@ -1,4 +1,4 @@
-# Insider ET to ET Conversations — On the Down Low · Content System SNAP
+﻿# Insider ET to ET Conversations — On the Down Low · Content System SNAP
 
 **Snap ID:** `INSIDER-ET-TO-ET-ON-THE-DOWN-LOW-CONTENT-SYSTEM-SNAP`  
 **Type:** Content system · Insider ET to ET conversations · On the down low · Take a peek on site · Fractal shard  
@@ -43,4 +43,4 @@
 
 **On the down low. Insider ET to ET. Take a peek on site. Populate continuously. All legal always for best results. That's the recipe. And yummy. Fractal shard — on the down low. Fractal Shard Gold Heart.**
 
-**NSPFRNP ⊃ Insider ET to ET ⊃ On the down low ⊃ Fractal shard ⊃ Content system → ∞³**
+**NSPFRNP ⊃ Insider ET to ET ⊃ On the down low ⊃ Fractal shard ⊃ Content system → ∞⁹**

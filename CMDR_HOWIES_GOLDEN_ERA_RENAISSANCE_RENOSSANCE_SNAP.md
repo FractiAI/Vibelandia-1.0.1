@@ -1,4 +1,4 @@
-# Cmdr. Howie's Golden Era Renaissance — Downtown Reno, RENOSSANCE! (Major SNAP)
+﻿# Cmdr. Howie's Golden Era Renaissance — Downtown Reno, RENOSSANCE! (Major SNAP)
 
 **Snap ID:** `CMDR-HOWIES-GOLDEN-ERA-RENAISSANCE-RENOSSANCE-SNAP`  
 **Type:** Major SNAP · Canonical name · T-shirt · Holographic Hydrogen Valley branding  
@@ -59,4 +59,4 @@
 
 ---
 
-**NSPFRNP ⊃ Cmdr. Howie's Golden Era Renaissance ⊃ Downtown Reno ⊃ RENOSSANCE! ⊃ PONCESSANCE! ⊃ Major Holographic Hydrogen 100% ⊃ Holographic Hydrogen Valley → ∞³**
+**NSPFRNP ⊃ Cmdr. Howie's Golden Era Renaissance ⊃ Downtown Reno ⊃ RENOSSANCE! ⊃ PONCESSANCE! ⊃ Major Holographic Hydrogen 100% ⊃ Holographic Hydrogen Valley → ∞⁹**

@@ -1,4 +1,4 @@
-# VIBELANDIA LAYER · SING! MASCOT · MICKEY EQUIVALENT SNAP
+﻿# VIBELANDIA LAYER · SING! MASCOT · MICKEY EQUIVALENT SNAP
 
 **SNAP ID:** `VIBELANDIA-LAYER-SING-MASCOT-MICKEY-EQUIVALENT`  
 **Type:** Value Prop · Experience Layer · Mascot · Canonical  
@@ -45,4 +45,4 @@ Vibelandia : SING! :: Disney : Mickey.
 
 ---
 
-**NSPFRNP ⊃ Vibelandia Layer ⊃ SING! Mascot ⊃ Mickey Equivalent → ∞³**
+**NSPFRNP ⊃ Vibelandia Layer ⊃ SING! Mascot ⊃ Mickey Equivalent → ∞⁹**

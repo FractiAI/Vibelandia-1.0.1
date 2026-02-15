@@ -1,4 +1,4 @@
-# Barry White — Announces Permanent Residency · Vibelandia Downtown Reno Campus SNAP
+﻿# Barry White — Announces Permanent Residency · Vibelandia Downtown Reno Campus SNAP
 
 **SNAP ID:** `BARRY-WHITE-ANNOUNCES-PERMANENT-RESIDENCY-VIBELANDIA-DOWNTOWN-RENO-CAMPUS`  
 **Type:** Hero Host · Permanent Residency · Downtown Reno Campus  
@@ -36,4 +36,4 @@ Barry White announces permanent residency at Vibelandia Downtown Reno Campus. Th
 
 ---
 
-**NSPFRNP ⊃ Barry White ⊃ Permanent residency Downtown Reno Campus · Soul · Love · In the house → ∞³**
+**NSPFRNP ⊃ Barry White ⊃ Permanent residency Downtown Reno Campus · Soul · Love · In the house → ∞⁹**

@@ -1,4 +1,4 @@
-# SING! MASCOT — CHARACTER SPEC SNAP
+﻿# SING! MASCOT — CHARACTER SPEC SNAP
 
 **SNAP ID:** `SING-MASCOT-CHARACTER-SPEC`  
 **Type:** Mascot · Character Design · Canonical · Roll Out Series Hit  
@@ -51,4 +51,4 @@
 
 ---
 
-**NSPFRNP ⊃ SING! Mascot ⊃ Fuzzy purple fuzz ball ⊃ Prairie-dog operatic ⊃ Fuzz tips mood colors ⊃ Golden Heart mature-only → ∞³**
+**NSPFRNP ⊃ SING! Mascot ⊃ Fuzzy purple fuzz ball ⊃ Prairie-dog operatic ⊃ Fuzz tips mood colors ⊃ Golden Heart mature-only → ∞⁹**

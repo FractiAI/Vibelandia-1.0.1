@@ -1,4 +1,4 @@
-# NSPFRNP Story Feed — Long-Form with Breaks · SNAP
+﻿# NSPFRNP Story Feed — Long-Form with Breaks · SNAP
 
 **Snap ID:** `NSPFRNP-STORY-FEED-LONG-FORM-BREAKS-SNAP`  
 **Type:** Feeds · Format · Ticker / OH Line  
@@ -31,4 +31,4 @@
 
 ---
 
-**NSPFRNP ⊃ Story feed ⊃ Long-form ⊃ Breaks ⊃ Symbology → ∞³**
+**NSPFRNP ⊃ Story feed ⊃ Long-form ⊃ Breaks ⊃ Symbology → ∞⁹**

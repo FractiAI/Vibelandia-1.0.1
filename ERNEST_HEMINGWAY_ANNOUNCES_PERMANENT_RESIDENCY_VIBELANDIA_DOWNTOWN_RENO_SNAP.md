@@ -1,4 +1,4 @@
-# Ernest Hemingway Announces Permanent Residency — Vibelandia Downtown Reno!!! SNAP
+﻿# Ernest Hemingway Announces Permanent Residency — Vibelandia Downtown Reno!!! SNAP
 
 **Snap ID:** `ERNEST-HEMINGWAY-ANNOUNCES-PERMANENT-RESIDENCY-VIBELANDIA-DOWNTOWN-RENO-SNAP`  
 **Type:** Permanent residency announcement · Hero Host · Legacies · Golden Age · Vibelandia Downtown Reno  
@@ -44,4 +44,4 @@
 
 ---
 
-**NSPFRNP ⊃ Ernest Hemingway ⊃ Permanent residency ⊃ Vibelandia Downtown Reno!!! ⊃ Legacies ⊃ Golden Age → ∞³**
+**NSPFRNP ⊃ Ernest Hemingway ⊃ Permanent residency ⊃ Vibelandia Downtown Reno!!! ⊃ Legacies ⊃ Golden Age → ∞⁹**

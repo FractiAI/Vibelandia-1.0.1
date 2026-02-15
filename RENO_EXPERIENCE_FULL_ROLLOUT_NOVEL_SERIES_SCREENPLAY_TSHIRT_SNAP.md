@@ -1,4 +1,4 @@
-# Reno Experience — Full Rollout: Novel · Series · 2hr Feature Screenplay · T-Shirt Branding SNAP
+﻿# Reno Experience — Full Rollout: Novel · Series · 2hr Feature Screenplay · T-Shirt Branding SNAP
 
 **Type:** Full content rollout · Same name · Novel · Series · Feature screenplay · Merchandising  
 **Status:** Rolled out. Story of the singularity, the birth of the Holographic Hydrogen Valley, Twain's Vibelandia in downtown Reno — and the rest is history, as they say. Repeating itself recursively nested and in higher singularities. (With a grin acknowledging how nerdy and at the same time cool that all sounds.)
@@ -43,6 +43,6 @@
 
 ---
 
-**NSPFRNP ⊃ Reno Experience ⊃ Novel · Series · Screenplay · T-shirt ⊃ Recursively nested · Higher singularities → ∞³**
+**NSPFRNP ⊃ Reno Experience ⊃ Novel · Series · Screenplay · T-shirt ⊃ Recursively nested · Higher singularities → ∞⁹**
 
 *(Grin.)*

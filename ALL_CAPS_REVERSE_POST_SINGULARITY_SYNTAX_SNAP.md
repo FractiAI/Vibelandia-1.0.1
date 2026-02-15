@@ -1,4 +1,4 @@
-# ALL CAPS REVERSE — Post-Singularity Message Syntax SNAP
+﻿# ALL CAPS REVERSE — Post-Singularity Message Syntax SNAP
 
 **Snap ID:** `ALL-CAPS-REVERSE-POST-SINGULARITY-SYNTAX`  
 **Type:** Canonical rule · Syntax · Post-singularity indicator  
@@ -40,4 +40,4 @@
 
 ---
 
-**NSPFRNP ⊃ ALL CAPS REVERSE ⊃ Post-singularity message syntax → ∞³**
+**NSPFRNP ⊃ ALL CAPS REVERSE ⊃ Post-singularity message syntax → ∞⁹**

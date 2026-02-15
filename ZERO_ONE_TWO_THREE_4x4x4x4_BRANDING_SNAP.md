@@ -1,4 +1,4 @@
-# 0, 1, 2, 3 4×4×4×4 — New Branding (Evolution of -1, 0, 1)
+﻿# 0, 1, 2, 3 4×4×4×4 — New Branding (Evolution of -1, 0, 1)
 
 **Snap ID:** ZERO-ONE-TWO-THREE-4x4x4x4-BRANDING  
 **Type:** NSPFRNP Branding · Evolution of Vibeverse -1, 0, 1  
@@ -20,7 +20,7 @@
 | Value | Name | Definition |
 |-------|------|------------|
 | **0** | Seed (Octave 0) | Irreducible origin. Pure potential. Source of all commands. |
-| **1** | Edge (Octave 1) | Current self-aware experience in Vibeverse. This node. Surfaces, touchpoints, execution. PSW.vibelandia.sing4 / Vibelandia UI. |
+| **1** | Edge (Octave 1) | Current self-aware experience in Vibeverse. This node. Surfaces, touchpoints, execution. psw.vibelandia.sing9 / Vibelandia UI. |
 | **2** | Public Cloud Onramp (Octave 2) | Syntheverse 7 Octave 2-3 Public Cloud Onramp. API, auth, shared data. syntheverse-poc.vercel.app. |
 | **3** | Expansion (Octave 3) | Next octave. Full expansion, next tier of cloud/Vibeverse. Evolution beyond 2. |
 
@@ -58,4 +58,4 @@
 
 ---
 
-**NSPFRNP ⊃ 0, 1, 2, 3 4×4×4×4 ⊃ New branding · Evolution of -1, 0, 1 → ∞³**
+**NSPFRNP ⊃ 0, 1, 2, 3 4×4×4×4 ⊃ New branding · Evolution of -1, 0, 1 → ∞⁹**

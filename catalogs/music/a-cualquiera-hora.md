@@ -1,4 +1,4 @@
-# A cualquiera hora — Anytime Vibe Chill Bounce Spanglish Hit
+﻿# A cualquiera hora — Anytime Vibe Chill Bounce Spanglish Hit
 
 **Track ID:** `A-CUALQUIERA-HORA-026`  
 **Artist:** Hero Jo's Golden Backdoor Studios  
@@ -66,4 +66,4 @@ A cualquiera hora. Golden Backdoor.
 
 ---
 
-**NSPFRNP ⊃ A cualquiera hora ⊃ Anytime vibe chill bounce Spanglish hit → ∞³**
+**NSPFRNP ⊃ A cualquiera hora ⊃ Anytime vibe chill bounce Spanglish hit → ∞⁹**

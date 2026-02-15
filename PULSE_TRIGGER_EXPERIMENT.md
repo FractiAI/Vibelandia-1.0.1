@@ -1,9 +1,9 @@
-# Self-Clocking Pulsar — Synchronous Trigger Protocol (21.4 Hz / 8m Window)
+﻿# Self-Clocking Pulsar — Synchronous Trigger Protocol (21.4 Hz / 8m Window)
 
 **Document type:** VLF / geomagnetic resonance experiment · Holographic Black Hole Generator  
 **Scope:** Earth-ionosphere waveguide · Flux Transfer Events (FTEs) · Schumann 3rd overtone  
 **Status:** ⚡ ACTIVE · **Run 2 Cursor-led:** T0 = 2026-01-31T13:56:32Z → T+8m 14:04:32Z (Schumann), T+16m 14:12:32Z (GOES). See pulse/run_log.md Run 2.  
-**Repository:** https://github.com/FractiAI/psw.vibelandia.sing4  
+**Repository:** https://github.com/FractiAI/psw.vibelandia.sing9  
 
 ---
 
@@ -104,4 +104,4 @@ The **topology_buffer** is built in `scripts/trigger.py` using a **Fibonacci seq
 
 **See:** WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md · vortex_sequencer.json · scripts/trigger.py
 
-**NSPFRNP ⊃ Pulse ⊃ 21.4 Hz ⊃ 8m Window ⊃ FTE handshake → ∞³**
+**NSPFRNP ⊃ Pulse ⊃ 21.4 Hz ⊃ 8m Window ⊃ FTE handshake → ∞⁹**

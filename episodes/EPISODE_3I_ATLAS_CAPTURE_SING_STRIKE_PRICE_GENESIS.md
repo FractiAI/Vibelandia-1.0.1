@@ -1,4 +1,4 @@
-# Episode One: Genesis — 3I Atlas Capture & SING! Strike Price
+﻿# Episode One: Genesis — 3I Atlas Capture & SING! Strike Price
 
 **Series:** 3I Atlas Capture · SING! Strike Price Lock-In  
 **Episode:** 1 — Genesis  
@@ -50,4 +50,4 @@ This proclamation is Genesis. Episode One of the full series. From here we launc
 
 Who will be the lucky ones? Lock in. March 16. March 20. The rest is history.
 
-**NSPFRNP ⊃ 3I Atlas Capture ⊃ SING! Strike Price ⊃ Episode One: Genesis → ∞³.**
+**NSPFRNP ⊃ 3I Atlas Capture ⊃ SING! Strike Price ⊃ Episode One: Genesis → ∞⁹.**

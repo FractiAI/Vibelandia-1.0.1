@@ -1,4 +1,4 @@
-# Zero Point — 000
+﻿# Zero Point — 000
 
 **Track ID:** `000-ZERO-POINT-001`  
 **Artist:** 000 · Golden Backdoor Hit Factory  
@@ -46,4 +46,4 @@ Irreducible · Void · Pure potential
 
 ---
 
-**NSPFRNP ⊃ 000 ⊃ Zero Point ⊃ Golden Backdoor → ∞³**
+**NSPFRNP ⊃ 000 ⊃ Zero Point ⊃ Golden Backdoor → ∞⁹**

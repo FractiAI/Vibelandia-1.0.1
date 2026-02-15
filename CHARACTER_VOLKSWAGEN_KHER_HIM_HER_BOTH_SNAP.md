@@ -1,4 +1,4 @@
-# Character — The Volkswagen · Kher (Him/Her/Both) · SNAP
+﻿# Character — The Volkswagen · Kher (Him/Her/Both) · SNAP
 
 **SNAP ID:** `CHARACTER-VOLKSWAGEN-KHER-HIM-HER-BOTH-SNAP`  
 **Type:** Character · Volkswagen · Old school · Collector · Canon  
@@ -33,4 +33,4 @@
 
 ---
 
-**NSPFRNP ⊃ Character ⊃ Kher ⊃ The Volkswagen ⊃ Him/Her/Both ⊃ Rag top ⊃ Collector ⊃ Old school → ∞³**
+**NSPFRNP ⊃ Character ⊃ Kher ⊃ The Volkswagen ⊃ Him/Her/Both ⊃ Rag top ⊃ Collector ⊃ Old school → ∞⁹**

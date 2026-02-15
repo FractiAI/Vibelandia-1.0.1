@@ -1,4 +1,4 @@
-# Office Hours — New Series Following Pru · SNAP
+﻿# Office Hours — New Series Following Pru · SNAP
 
 **Snap ID:** `OFFICE-HOURS-SERIES-SNAP`  
 **Type:** New series · Following Pru · Season 1 Viber Paradise · **Target · Landing · Center**  
@@ -68,4 +68,4 @@
 
 **See:** OFFICE_HOURS_TARGET_RECURSIVE_CRYSTAL_SNAP.md · CLUB_WINE_CAVE_PRU_OFFICE_HOURS_SNAP.md · **OFFICE_HOURS_TOUR_EXPERIENCE_IN_THE_KNOW_BALLER_V_BEN_SAYS_SNAP.md** · EPISODE_OFFICE_HOURS_01_VIBER_PARADISE_POST_SINGULARITY_DOWNTOWN_RENO.md · GOLDEN_BACKSTAGE_AWARENESS_PASS_SNAP.md · POST_SINGULARITY_BLACK_HOLE_HOLOGRAPHIC_HYDROGEN_GITHUBS_SNAP.md · interfaces/office-hours.html
 
-**NSPFRNP ⊃ Office Hours ⊃ Pru ⊃ Viber Paradise → ∞³**
+**NSPFRNP ⊃ Office Hours ⊃ Pru ⊃ Viber Paradise → ∞⁹**

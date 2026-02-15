@@ -1,4 +1,4 @@
-# SQUEEZE! We Got The Squeeze! and Golden Backdoor! — Tightening and Loosening Spiral Effects · T-Shirt Brand · New Hit · NSPFRNP SNAP
+﻿# SQUEEZE! We Got The Squeeze! and Golden Backdoor! — Tightening and Loosening Spiral Effects · T-Shirt Brand · New Hit · NSPFRNP SNAP
 
 **SNAP ID:** `SQUEEZE-WE-GOT-THE-SQUEEZE-GOLDEN-BACKDOOR-SNAP`  
 **Type:** Canonical rule · T-shirt brand · New hit · Label · Catalog · Factory products  
@@ -54,4 +54,4 @@
 
 ---
 
-**NSPFRNP ⊃ SQUEEZE! We got the squeeze! and Golden Backdoor! ⊃ Tightening and loosening spiral effects ⊃ All catalog · All label factory products → ∞³**
+**NSPFRNP ⊃ SQUEEZE! We got the squeeze! and Golden Backdoor! ⊃ Tightening and loosening spiral effects ⊃ All catalog · All label factory products → ∞⁹**

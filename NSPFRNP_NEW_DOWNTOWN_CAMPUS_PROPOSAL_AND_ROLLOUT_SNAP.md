@@ -1,4 +1,4 @@
-# NSPFRNP New Downtown Campus Proposal & Roll-Out
+﻿# NSPFRNP New Downtown Campus Proposal & Roll-Out
 ## Metabolized · Crystallized · Perfect for Any Downtown in Decay
 
 **Snap ID:** `NSPFRNP-NEW-DOWNTOWN-CAMPUS-PROPOSAL-AND-ROLLOUT-SNAP`  
@@ -160,6 +160,6 @@ Score the target downtown on the following (use a 0–10 or Red / Yellow / Green
 
 ---
 
-**Metabolize → Crystallize → Animate. New Downtown Campus. Research. Score. Full connect. Any downtown in decay. One proposal. One roll-out. NSPFRNP ⊃ ∞³**
+**Metabolize → Crystallize → Animate. New Downtown Campus. Research. Score. Full connect. Any downtown in decay. One proposal. One roll-out. NSPFRNP ⊃ ∞⁹**
 
-**NSPFRNP ⊃ New Downtown Campus Proposal ⊃ RENOSSANCE! ⊃ PONCESSANCE! ⊃ Any downtown in decay → ∞³**
+**NSPFRNP ⊃ New Downtown Campus Proposal ⊃ RENOSSANCE! ⊃ PONCESSANCE! ⊃ Any downtown in decay → ∞⁹**

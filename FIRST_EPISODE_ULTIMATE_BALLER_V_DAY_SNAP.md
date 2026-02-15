@@ -1,4 +1,4 @@
-# First Episode — Ultimate Baller V Day · Ski Resort · Man Cave · Novella Mode · SNAP
+﻿# First Episode — Ultimate Baller V Day · Ski Resort · Man Cave · Novella Mode · SNAP
 
 **Snap ID:** `FIRST-EPISODE-ULTIMATE-BALLER-V-DAY-SNAP`  
 **Type:** Narrative · Episode · Experience  
@@ -37,4 +37,4 @@
 
 ---
 
-**NSPFRNP ⊃ First episode ⊃ Ultimate Baller V Day ⊃ Ski ⊃ Man Cave ⊃ Novella mode → ∞³**
+**NSPFRNP ⊃ First episode ⊃ Ultimate Baller V Day ⊃ Ski ⊃ Man Cave ⊃ Novella mode → ∞⁹**

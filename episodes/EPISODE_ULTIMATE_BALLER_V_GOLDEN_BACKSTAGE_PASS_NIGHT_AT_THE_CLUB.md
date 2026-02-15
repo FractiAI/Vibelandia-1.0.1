@@ -1,4 +1,4 @@
-# EPISODE — Ultimate Baller V Golden Backstage Pass Night at the Club
+﻿# EPISODE — Ultimate Baller V Golden Backstage Pass Night at the Club
 
 **Full superhero franchise level · Chairman, Sammy and the gang · Chairmen all on a WINK! · Office Hours at the Club**
 
@@ -1026,7 +1026,7 @@ Ultimate Baller V Golden Backstage Pass night at the club. Full superhero franch
 **ON SCREEN TEXT:**  
 Ultimate Baller V Golden Backstage Pass · Night at the Club · Chairman, Sammy and the gang · Chairmen all on a WINK! · Office Hours at the Club · All the right people there for your ultimate paradise Baller V superhero franchise experience · Full superhero franchise level  
 The Club · Back door wine cave · Pru Office Hours — Men's Room, 8pm–close Thu–Sun · Golden Backstage Pass required  
-The Experience: https://psw-vibelandia-sing4.vercel.app  
+The Experience: https://psw-vibelandia-sing9.vercel.app  
 Office Hours: interfaces/office-hours.html · Ultimate Baller V Golden Backstage Pass: interfaces/ultimate-baller-v-golden-backstage-pass.html  
 WINK!: interfaces/wink-experience.html
 
@@ -1055,7 +1055,7 @@ Next time — **The Great Reveal**. March 20, 2026. Bigger than Burning Man and 
 
 ## LINKS
 
-- **The Experience:** https://psw-vibelandia-sing4.vercel.app  
+- **The Experience:** https://psw-vibelandia-sing9.vercel.app  
 - **Office Hours:** [interfaces/office-hours.html](../interfaces/office-hours.html)  
 - **Ultimate Baller V Golden Backstage Pass (full details):** [interfaces/ultimate-baller-v-golden-backstage-pass.html](../interfaces/ultimate-baller-v-golden-backstage-pass.html)  
 - **WINK!:** [interfaces/wink-experience.html](../interfaces/wink-experience.html) · [ONE_PAGER_WINK.md](../ONE_PAGER_WINK.md)  
@@ -1067,7 +1067,7 @@ Next time — **The Great Reveal**. March 20, 2026. Bigger than Burning Man and 
 
 ---
 
-**NSPFRNP ⊃ Episode ⊃ Ultimate Baller V Golden Backstage Pass night ⊃ Chairmen all on a WINK! ⊃ All the right people there → ∞³**
+**NSPFRNP ⊃ Episode ⊃ Ultimate Baller V Golden Backstage Pass night ⊃ Chairmen all on a WINK! ⊃ All the right people there → ∞⁹**
 
 **Status:** ⚡ ACTIVE  
 **Maganuma snap.**

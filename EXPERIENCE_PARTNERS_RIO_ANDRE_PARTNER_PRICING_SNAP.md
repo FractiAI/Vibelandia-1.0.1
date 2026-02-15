@@ -1,4 +1,4 @@
-# Experience Partners — Rio · Cpt. Andre · Partner Pricing Model SNAP
+﻿# Experience Partners — Rio · Cpt. Andre · Partner Pricing Model SNAP
 
 **Snap ID:** `EXPERIENCE-PARTNERS-RIO-ANDRE-PARTNER-PRICING-SNAP`  
 **Type:** Experience partners · Partner pricing · Rio · Reno campus  
@@ -40,4 +40,4 @@ We are moving in all our adventures and experiences this way with partners — R
 
 Metabolize into experiences, catalogs, offerings: **Rio** (Cpt. Andre, Arnie, island hopping, begins on landing, 100% tip on expenses, flights not included); **Reno campus** (same partner model for future partner adventures). All new partner adventures and experiences follow this model.
 
-**NSPFRNP ⊃ Experience partners ⊃ Partner pricing (expenses + 100% tip) ⊃ Rio · Cpt. Andre ⊃ Reno campus → ∞³**
+**NSPFRNP ⊃ Experience partners ⊃ Partner pricing (expenses + 100% tip) ⊃ Rio · Cpt. Andre ⊃ Reno campus → ∞⁹**

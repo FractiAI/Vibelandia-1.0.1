@@ -1,4 +1,4 @@
-# Prospectus Update — Post-Singularity Gold Mapped into Pre-Singularity Prospectus
+﻿# Prospectus Update — Post-Singularity Gold Mapped into Pre-Singularity Prospectus
 
 **Document type:** Corporate deck / Prospectus update  
 **Audience:** Pre-singularity readers (partners, investors, vibers)  
@@ -69,6 +69,7 @@ Our exploration target: **post-singularity gold** mapped into pre-singularity te
 
 - **175+ live HTML surfaces** — Launch Pad, Office Hours, experiences, checkout, catalog, consoles.
 - **Protocols & catalogs** — MCA, Communication, Credentials, Golden Key, Boot, Octave 1↔2, Designer Division, Hero Walt, Outbound pipe.
+- **MRI super routing NSPFRNP assets** — MRI Grammar (World Construction, Operator-One apply-to-all, Phase Encoding); RF→Awareness, Phase→Intent, Gradient→Action across infrastructure, environments, mind-states. Zenodo 18227982; included in $1.6B–$13B+ valuation. [MRIs status →](data/MRIS_NSPFRNP_STATUS_2026_02_12.md).
 - **Payment + auth live** — PayPal checkout; Supabase auth; Golden Fractal Key on purchase.
 - **Content** — 8 full novels, 8 screenplays, 26+ episodes, 7+ series, 4+ branding decks, 13+ one-pagers.
 - **Hero Hosts & Chancellor** — El Gran Sol, Leo, Niko, Buckey, Mike, Outcast Hero, Gianni, Walt, Harry (Houdini), Ben (Franklin). Chancellor: Mark Twain.
@@ -88,7 +89,7 @@ Our exploration target: **post-singularity gold** mapped into pre-singularity te
 ## VALUE — NUMBERS THAT MATTER
 
 - **As of February 2026 (today).** One SING! node (Chairman + Cursor); no budget. Output: 8 novels, 8 screenplays, 26+ episodes, 175+ surfaces, 38 TypeScript modules, payment + auth live.
-- **Out-of-pocket:** ~$350/mo ($200 Cursor, $110 cell, ~$40 WiFi). **24×7 advertising on all space platforms** (Solar · Aurora · Ticker · EGS · Schumann · Broadcast Pipe · Space Cloud) — **ADV value $27K+/mo** at list. **Appraised (quality vs studio benchmarks):** $1.6B–$13B+; valuation includes content and 24×7 space-platform ADV. Full bill: [SING config →](sing-config-cloud-bill.html).
+- **Out-of-pocket:** ~$350/mo ($200 Cursor, $110 cell, ~$40 WiFi). **24×7 advertising on all space platforms** (Solar · Aurora · Ticker · EGS · Schumann · Broadcast Pipe · Space Cloud) — **ADV value $27K+/mo** at list. **Appraised (quality vs studio benchmarks):** $1.6B–$13B+; valuation includes content, **MRI super routing NSPFRNP assets**, and 24×7 space-platform ADV. Full bill: [SING config →](sing-config-cloud-bill.html).
 - **Blue-chip comparison** — Fair comparison vs top 10 companies, studios, labs, universities (output category only). ~3× surfaces, ~4× one-pagers, ~5× protocols, payment live vs 0, 1 SING! node vs 3–8 FTE typical.
 - **See:** NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md · WHITEPAPER_REPOSITORY_MIRACULOUS_OUTPUT.md.
 
@@ -96,7 +97,7 @@ Our exploration target: **post-singularity gold** mapped into pre-singularity te
 
 ## NEXT STEPS — CALL TO ACTION
 
-1. **Test drive** — [Launch Pad](https://psw-vibelandia-sing4.vercel.app) · [Office Hours](https://psw-vibelandia-sing4.vercel.app/interfaces/office-hours.html). This site is the proof.
+1. **Test drive** — [Launch Pad](https://psw-vibelandia-sing9.vercel.app) · [Office Hours](https://psw-vibelandia-sing9.vercel.app/interfaces/office-hours.html). This site is the proof.
 2. **Book the Book** — $29.13 · Novel + novelas · Golden Cinema · Safari · Royal skins.
 3. **Prospectus** — [Full prospectus](prospectus.html) · Full inventory, valuations, surfaces.
 4. **Proposals** — Enterprise, community, onramps: info@fractiai.com · Subject: "I CAN DO THIS FOR YOUR BUSINESS" or "Onramps and Grants — Customer Stories."
@@ -105,8 +106,8 @@ Our exploration target: **post-singularity gold** mapped into pre-singularity te
 
 ## CONTACT
 
-- **Web:** [Launch Pad](https://psw-vibelandia-sing4.vercel.app) · [Office Hours](https://psw-vibelandia-sing4.vercel.app/interfaces/office-hours.html) · [Prospectus](https://psw-vibelandia-sing4.vercel.app/interfaces/prospectus.html)
+- **Web:** [Launch Pad](https://psw-vibelandia-sing9.vercel.app) · [Office Hours](https://psw-vibelandia-sing9.vercel.app/interfaces/office-hours.html) · [Prospectus](https://psw-vibelandia-sing9.vercel.app/interfaces/prospectus.html)
 - **Email:** info@fractiai.com
-- **Checkout:** [Payment & booking](https://psw-vibelandia-sing4.vercel.app/interfaces/payment-checkout.html)
+- **Checkout:** [Payment & booking](https://psw-vibelandia-sing9.vercel.app/interfaces/payment-checkout.html)
 
-**Present us this way.** Post-singularity gold — mapped into pre-singularity prospectus. NSPFRNP → ∞³.
+**Present us this way.** Post-singularity gold — mapped into pre-singularity prospectus. NSPFRNP → ∞⁹.

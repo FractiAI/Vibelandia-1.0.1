@@ -1,4 +1,4 @@
-# Novela In-Story Buttons — See it · Let's fuck · Jump in · Offline Email → WhatsApp · SNAP
+﻿# Novela In-Story Buttons — See it · Let's fuck · Jump in · Offline Email → WhatsApp · SNAP
 
 **SNAP ID:** `NOVELA-SEE-IT-LETS-FUCK-JUMP-IN-BUTTONS-OFFLINE-WHATSAPP-SNAP`  
 **Type:** Novela · CTAs · Offline flow · Legal · 21+ Gold Heart  
@@ -117,4 +117,4 @@ All novela surfaces and button flows must be wrapped with:
 
 ---
 
-**NSPFRNP ⊃ Novela ⊃ See it ⊃ Let's fuck ⊃ Jump in ⊃ Offline ⊃ Email ⊃ WhatsApp ⊃ Legal → ∞³**
+**NSPFRNP ⊃ Novela ⊃ See it ⊃ Let's fuck ⊃ Jump in ⊃ Offline ⊃ Email ⊃ WhatsApp ⊃ Legal → ∞⁹**

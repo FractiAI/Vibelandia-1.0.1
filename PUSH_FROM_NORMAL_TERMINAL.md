@@ -10,7 +10,7 @@ This repo is set to **use no proxy** — Git connects directly to GitHub.
 ## Commands
 
 ```powershell
-cd c:\Users\info\psw.vibelandia.sing4
+cd c:\Users\info\psw.vibelandia.sing9
 git push origin main
 ```
 

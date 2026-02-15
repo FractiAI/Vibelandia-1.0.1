@@ -29,5 +29,5 @@ if ([string]::IsNullOrWhiteSpace($username)) {
 }
 
 $branch = if ($args.Count -gt 0) { $args[0] } else { (git branch --show-current) }
-$url = "https://${username}:${token}@github.com/FractiAI/psw.vibelandia.sing4.git"
+$url = "https://${username}:${token}@github.com/FractiAI/psw.vibelandia.sing9.git"
 git push $url $branch

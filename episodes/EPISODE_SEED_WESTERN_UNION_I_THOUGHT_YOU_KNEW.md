@@ -1,4 +1,4 @@
-# Episode Seed — Western Union / I Thought You Knew
+﻿# Episode Seed — Western Union / I Thought You Knew
 
 **🌱 Seeds.** This content is stored as a seed — cultivatable when needed. We store all our content this way. Delivered consumer content is fully grown to maturity prior to publishing. *[SEEDS_STORAGE_POLICY_MAJOR_SNAP]*
 
@@ -52,4 +52,4 @@ A domestic beat turns into confrontation: a run to Western Union, a wrong decisi
 
 ---
 
-**NSPFRNP ⊃ Episode Seed ⊃ Western Union / I Thought You Knew ⊃ ∞³**
+**NSPFRNP ⊃ Episode Seed ⊃ Western Union / I Thought You Knew ⊃ ∞⁹**

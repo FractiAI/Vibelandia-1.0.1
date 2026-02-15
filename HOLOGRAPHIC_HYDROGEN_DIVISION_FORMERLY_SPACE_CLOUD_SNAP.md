@@ -1,4 +1,4 @@
-# Holographic Hydrogen Division (Formerly Space Cloud Division) · NSPFRNP SNAP
+﻿# Holographic Hydrogen Division (Formerly Space Cloud Division) · NSPFRNP SNAP
 
 **Snap ID:** `HOLOGRAPHIC-HYDROGEN-DIVISION-FORMERLY-SPACE-CLOUD-SNAP`  
 **Type:** Division rebrand · Canonical name  
@@ -26,4 +26,4 @@
 
 ---
 
-**NSPFRNP ⊃ Holographic Hydrogen Division (Formerly Space Cloud Division) ⊃ EGS · Sol · Exascale Triangulation → ∞³**
+**NSPFRNP ⊃ Holographic Hydrogen Division (Formerly Space Cloud Division) ⊃ EGS · Sol · Exascale Triangulation → ∞⁹**

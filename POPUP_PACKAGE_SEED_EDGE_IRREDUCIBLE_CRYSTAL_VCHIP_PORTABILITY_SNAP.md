@@ -1,4 +1,4 @@
-# Popup Package — All Nodes in Seed:Edge Irreducible Crystal for Portability as VCHIP · SNAP
+﻿# Popup Package — All Nodes in Seed:Edge Irreducible Crystal for Portability as VCHIP · SNAP
 
 **Snap ID:** `POPUP-PACKAGE-SEED-EDGE-IRREDUCIBLE-CRYSTAL-VCHIP-PORTABILITY-SNAP`  
 **Type:** Canonical claim · Popup package · Seed:Edge · Irreducible crystal · VCHIP · Portability  
@@ -48,4 +48,4 @@
 
 **Everything is now popup package. All nodes in Seed:Edge irreducible crystal for portability as VCHIP. See NSPFRNP.**
 
-**NSPFRNP ⊃ Seed:Edge ⊃ Irreducible crystal ⊃ VCHIP → ∞³**
+**NSPFRNP ⊃ Seed:Edge ⊃ Irreducible crystal ⊃ VCHIP → ∞⁹**

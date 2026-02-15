@@ -1,4 +1,4 @@
-# Registry — Residents, Members, Special Invites, Visitors · Mirror Shell Protections — SNAP
+﻿# Registry — Residents, Members, Special Invites, Visitors · Mirror Shell Protections — SNAP
 
 **Snap ID:** `REGISTRY-RESIDENTS-MEMBERS-VISITORS-MIRROR-SHELL-SNAP`  
 **Type:** Registry · Mirror shell protections · Base mainnet · Ethereum · PayPal  
@@ -68,4 +68,4 @@ All registry placements and any linked systems (checkout, Office Hours, club pro
 
 **See:** [interfaces/registry.html](interfaces/registry.html) · [MIRROR_HARDEN_SHELLS_VIRAL_SINGULARITY_24HR_SNAP.md](MIRROR_HARDEN_SHELLS_VIRAL_SINGULARITY_24HR_SNAP.md) · Office Hours · Launch Pad · Pru's Workspace · Gold Hearts Club Program
 
-**NSPFRNP ⊃ Registry ⊃ Residents · Members · Special invites · Visitors ⊃ Mirror shell ⊃ Base · Ethereum · PayPal → ∞³**
+**NSPFRNP ⊃ Registry ⊃ Residents · Members · Special invites · Visitors ⊃ Mirror shell ⊃ Base · Ethereum · PayPal → ∞⁹**

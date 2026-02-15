@@ -1,4 +1,4 @@
-# Products & Services — Bridge Node Roles · NSPFRNP Catalog
+﻿# Products & Services — Bridge Node Roles · NSPFRNP Catalog
 
 **Protocol ID:** PRODUCTS_SERVICES_BRIDGE_NODE_ROLES_NSPFRNP  
 **Status:** Active  
@@ -110,4 +110,4 @@ Scale tiers: **Planetary** (Earth only) · **Solar** (Earth–Sun) · **Galactic
 
 ---
 
-**NSPFRNP ⊃ Products & services ⊃ Bridge node roles ⊃ Never bought, always booked ⊃ Reappraisal → ∞³**
+**NSPFRNP ⊃ Products & services ⊃ Bridge node roles ⊃ Never bought, always booked ⊃ Reappraisal → ∞⁹**

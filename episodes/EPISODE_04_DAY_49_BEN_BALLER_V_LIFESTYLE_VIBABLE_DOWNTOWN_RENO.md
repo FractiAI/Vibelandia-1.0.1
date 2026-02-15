@@ -1,4 +1,4 @@
-# EPISODE 04 — DAY 49: BEN & THE BALLER V LIFESTYLE · VIBABLE DOWNTOWN RENO
+﻿# EPISODE 04 — DAY 49: BEN & THE BALLER V LIFESTYLE · VIBABLE DOWNTOWN RENO
 
 ---
 
@@ -150,6 +150,6 @@ Paris is for lovers. Reno is for vibers. Mark Twain's Post-Singularity Reno awai
 **SNAPs:** HERO_HOST_BEN_BALLER_V_AMBASSADOR_SNAP.md · ONE_PAGER_WHAT_MAKES_A_VIBABLE_CAMPUS.md · WALKABLE_PRESINGULARITY_VIBABLE_POSTSINGULARITY_SNAP.md  
 **Press Release:** PR 15 (Hero Host Ben — Baller V Ambassador); this episode may receive its own PR in PRESS_RELEASES_NEW_ARRIVALS_VIBELANDIA_RENO.md  
 
-**MCA! → ∞³** (Metabolize → Crystallize → Animate)
+**MCA! → ∞⁹** (Metabolize → Crystallize → Animate)
 
-**NSPFRNP ⊃ Episode 04 ⊃ Ben · Baller V lifestyle ⊃ Vibeable downtown Reno → ∞³**
+**NSPFRNP ⊃ Episode 04 ⊃ Ben · Baller V lifestyle ⊃ Vibeable downtown Reno → ∞⁹**

@@ -1,4 +1,4 @@
-# Net — Episode 5: We Are at Infinity 9 — Not 3
+﻿# Net — Episode 5: We Are at Infinity 9 — Not 3
 
 ## Storyline: We are now at Infinity 9, not 3. Canonical designation locked.
 
@@ -24,7 +24,7 @@
 
 ## First Chapter — NSPFRNP
 
-This episode operates under **NSPFRNP:** natural coordination (stigmergy, pheromone trails, mycelial); **MCA** (Metabolize → Crystallize → Animate); holographic architecture (whole in every part; **Seed** = origin, **Edge** = experience); catalog fidelity. We are the team operating as one. No surface left unsqueezed. **NSPFRNP ⊃ Seed:Edge → ∞³**
+This episode operates under **NSPFRNP:** natural coordination (stigmergy, pheromone trails, mycelial); **MCA** (Metabolize → Crystallize → Animate); holographic architecture (whole in every part; **Seed** = origin, **Edge** = experience); catalog fidelity. We are the team operating as one. No surface left unsqueezed. **NSPFRNP ⊃ Seed:Edge → ∞⁹**
 
 ---
 

@@ -1,4 +1,4 @@
-# B-Class Valuation Strike · Billion-Scale Operator-One — SNAP
+﻿# B-Class Valuation Strike · Billion-Scale Operator-One — SNAP
 
 **SNAP ID:** `B-CLASS-VALUATION-STRIKE-BILLION-SCALE-OPERATOR-ONE`  
 **Type:** Valuation · Operator-One · Sovereign Infrastructure · NSPFRNP  
@@ -37,7 +37,7 @@ Use this to anchor the **Billions** into the infrastructure and environment:
 
 **"INITIATE BILLION-SCALE OPERATOR-ONE: Full Holographic Hydrogen Lattice Transition.**
 
-**The Re-Valuation:** Delete the million-node logic. Every surface of the **psw.vibelandia.sing4** repository is now a **Multi-Billion Sovereign Asset.**
+**The Re-Valuation:** Delete the million-node logic. Every surface of the **psw.vibelandia.sing9** repository is now a **Multi-Billion Sovereign Asset.** This includes **MRI super routing NSPFRNP assets** (MRI Grammar: World Construction, Operator-One apply-to-all, Phase Encoding). See [data/MRIS_NSPFRNP_STATUS_2026_02_12.md](data/MRIS_NSPFRNP_STATUS_2026_02_12.md).
 
 **The Infrastructure:** All electromagnetic surfaces—from the fiber-optic backbone to the ionospheric cavity—are now **Sing! Nine operators.**
 
@@ -64,7 +64,7 @@ Under the **Fair Exchange Clause**, we acknowledge that the "millions" were a **
 
 ## CANONICAL VALUATION (OPERATOR-ONE STATE)
 
-- **Repository (psw.vibelandia.sing4):** **Multi-Billion Sovereign Asset.** Every surface = Sing! Nine operator. Baseline: **$1.6B–$13B+** (Sovereign Infrastructure scale).
+- **Repository (psw.vibelandia.sing9):** **Multi-Billion Sovereign Asset.** Every surface = Sing! Nine operator. Baseline: **$1.6B–$13B+** (Sovereign Infrastructure scale).
 - **Out-of-pocket / 24×7 ADV:** Unchanged: ~$350/mo; 24×7 space platforms ADV $27K+/mo. Full bill: [SING config →](interfaces/sing-config-cloud-bill.html).
 - **Canonical source for all valuation copy:** [VALUATIONS_MONTHLY_BILL_24X7_ADV_SNAP.md](VALUATIONS_MONTHLY_BILL_24X7_ADV_SNAP.md) (updated to billion-scale per this SNAP).
 
@@ -78,4 +78,4 @@ Under the **Fair Exchange Clause**, we acknowledge that the "millions" were a **
 
 **Episode:** [EPISODE_NET_23](episodes/EPISODE_NET_23_B_CLASS_VALUATION_STRIKE_BILLION_SCALE_OPERATOR_ONE.md) · **Valuations:** [VALUATIONS_MONTHLY_BILL_24X7_ADV_SNAP.md](VALUATIONS_MONTHLY_BILL_24X7_ADV_SNAP.md) · **T-Class (Trillion-Scale):** [T_CLASS_OPERATOR_ONE_GLOBAL_TRILLION_SCALE_HOLOGRAPHIC_EXPANSION_SNAP.md](T_CLASS_OPERATOR_ONE_GLOBAL_TRILLION_SCALE_HOLOGRAPHIC_EXPANSION_SNAP.md) · **Science AI categorization:** [SCIENCE_AI_CATEGORIZATION_FUNCTIONAL_COSMOGENIC_GRAMMAR_SNAP.md](SCIENCE_AI_CATEGORIZATION_FUNCTIONAL_COSMOGENIC_GRAMMAR_SNAP.md) (Functional Cosmogenic Grammar; Universal Awareness Syntax).
 
-**NSPFRNP ⊃ B-Class Valuation Strike ⊃ Billions ⊃ Sovereign Infrastructure ⊃ AR4373 · M1.1 · Bz -4 nT · Kp 4 ⊃ Feb 13, 2026 → ∞³**
+**NSPFRNP ⊃ B-Class Valuation Strike ⊃ Billions ⊃ Sovereign Infrastructure ⊃ AR4373 · M1.1 · Bz -4 nT · Kp 4 ⊃ Feb 13, 2026 → ∞⁹**

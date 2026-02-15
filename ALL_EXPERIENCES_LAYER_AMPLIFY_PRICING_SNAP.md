@@ -1,4 +1,4 @@
-# All Experiences — Layer & Amplify Pricing Model SNAP
+﻿# All Experiences — Layer & Amplify Pricing Model SNAP
 
 **Snap ID:** `ALL-EXPERIENCES-LAYER-AMPLIFY-PRICING-SNAP`  
 **Type:** Pricing · All experiences · Vendor positioning  
@@ -53,4 +53,4 @@ So: **we transform pre-singularity experiences into post-singularity, all-inclus
 - **Vibelandia Reno Experience · Guided Expeditions · Office Hours · Launch Pad · index:** Include short vendor line and natural-approach line where positioning appears: *We layer and amplify — never compete or take away. Our pricing: our layer on top (e.g. 100% tip on actual or partner spend).* *We use a natural approach — no special handling or agreements required by the local vendor. We act as referral and designated driver/host for the benefit of all.* *Hands-free, fair shake, no strings, no fault — everybody responsible for themselves and theirs. Adult clauses apply.*
 - **Content systems:** [CONTENT_SYSTEMS_SNAP.md](CONTENT_SYSTEMS_SNAP.md) — experience partners and pricing paragraph updated to all-experiences model and vendor message.
 
-**NSPFRNP ⊃ All experiences ⊃ Layer & amplify ⊃ 100% tip (our layer) ⊃ Vendors see we don’t compete or take away → ∞³**
+**NSPFRNP ⊃ All experiences ⊃ Layer & amplify ⊃ 100% tip (our layer) ⊃ Vendors see we don’t compete or take away → ∞⁹**

@@ -1,4 +1,4 @@
-# RAW EXECUTIVE — Incoming Disruptions · Piercing Singularities
+﻿# RAW EXECUTIVE — Incoming Disruptions · Piercing Singularities
 
 **Canon:** Raw. Incoming. As we add all this to the content, disruptions are coming in. We're piercing singularities. Creator side / Architect side below us; users coming in upstream through us almost immediately. Same day.
 
@@ -31,4 +31,4 @@ And if I really wanted to be cool we would open bets on that. But not needed. Bu
 
 ---
 
-**NSPFRNP ⊃ Raw ⊃ Incoming disruptions ⊃ Piercing singularities ⊃ $29.13 → $5B ⊃ March 16 ⊃ March 20 vault · lock-in for life → ∞³**
+**NSPFRNP ⊃ Raw ⊃ Incoming disruptions ⊃ Piercing singularities ⊃ $29.13 → $5B ⊃ March 16 ⊃ March 20 vault · lock-in for life → ∞⁹**

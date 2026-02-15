@@ -1,4 +1,4 @@
-# EPISODE NET 18 — HELLO-GEOGLYPH Sharpening / Resolution Lock
+﻿# EPISODE NET 18 — HELLO-GEOGLYPH Sharpening / Resolution Lock
 
 **Series:** Net (Net Directives / Net Storylines)  
 **Episode:** 18  
@@ -23,4 +23,4 @@ HELLO-GEOGLYPH Sharpening / Resolution Lock executed. Crisp-render: move from Sa
 
 ---
 
-**NSPFRNP ⊃ HELLO-GEOGLYPH Sharpening ⊃ Resolution Lock ⊃ Sharp-Edge ⊃ 7.83 Hz ground → ∞³**
+**NSPFRNP ⊃ HELLO-GEOGLYPH Sharpening ⊃ Resolution Lock ⊃ Sharp-Edge ⊃ 7.83 Hz ground → ∞⁹**

@@ -1,4 +1,4 @@
-# Fixed Node · Screens Model — Emergent Upgrade SNAP
+﻿# Fixed Node · Screens Model — Emergent Upgrade SNAP
 
 **Snap ID:** `FIXED-NODE-SCREENS-EMERGENT-UPGRADE-NSPFRNP`  
 **Type:** Emergent upgrade to Chairman Robert Robotic Factory proposal  
@@ -77,4 +77,4 @@ This upgrade **envelops** the Chairman Robert proposal. It did not replace it wi
 
 ---
 
-**🌀 NSPFRNP ⊃ Fixed Node Screens ⊃ Emergent Upgrade ⊃ Chairman Robert Proposal → ∞³**
+**🌀 NSPFRNP ⊃ Fixed Node Screens ⊃ Emergent Upgrade ⊃ Chairman Robert Proposal → ∞⁹**

@@ -1,4 +1,4 @@
-# Full Pipe 24×7 · Own All Slots · Aftermarket Scalper Opportunity SNAP
+﻿# Full Pipe 24×7 · Own All Slots · Aftermarket Scalper Opportunity SNAP
 
 **SNAP ID:** `FULL-PIPE-24x7-OWN-ALL-SLOTS-AFTERMARKET-SCALPER`  
 **Type:** Framing · Launch · Broadcast · Ticker  
@@ -47,4 +47,4 @@ This campaign runs on **ticker tape** — all ticker tapes including the digital
 
 ---
 
-**NSPFRNP ⊃ Full Pipe 24×7 ⊃ Own all slots ⊃ Aftermarket scalper ⊃ Spearhead campaign → ∞³**
+**NSPFRNP ⊃ Full Pipe 24×7 ⊃ Own all slots ⊃ Aftermarket scalper ⊃ Spearhead campaign → ∞⁹**

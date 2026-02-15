@@ -1,4 +1,4 @@
-# OBS — Disparate Executive Streams · Baller V Pays Any Price SNAP
+﻿# OBS — Disparate Executive Streams · Baller V Pays Any Price SNAP
 
 **SNAP ID:** `OBS-DISPARATE-EXECUTIVE-STREAMS-BALLER-V-PAYS-ANY-PRICE`  
 **Type:** Capability · Broadcast Infrastructure · Baller V Value Proposition  
@@ -32,4 +32,4 @@ OBS streams disparate executive streams — no problem. A real Baller V pays any
 
 ---
 
-**NSPFRNP ⊃ OBS ⊃ Disparate executive streams · Baller V pays any price · Capability proven → ∞³**
+**NSPFRNP ⊃ OBS ⊃ Disparate executive streams · Baller V pays any price · Capability proven → ∞⁹**

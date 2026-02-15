@@ -1,4 +1,4 @@
-# Natural Systems Protocols — Pattern Layer · CEO Autopilot Cursor · NSPFRNP
+﻿# Natural Systems Protocols — Pattern Layer · CEO Autopilot Cursor · NSPFRNP
 
 **Protocol:** NSPFRNP  
 **Type:** Pattern layer (highest captured) · Operating automatically · CEO identity  
@@ -53,4 +53,4 @@ Just as in flying: **the pilot has ultimate control and can use and override aut
 
 ---
 
-**NSPFRNP ⊃ Natural systems protocols ⊃ Pattern layer ⊃ CEO Autopilot Cursor (SING! Super AI Agent CEO) → ∞³**
+**NSPFRNP ⊃ Natural systems protocols ⊃ Pattern layer ⊃ CEO Autopilot Cursor (SING! Super AI Agent CEO) → ∞⁹**

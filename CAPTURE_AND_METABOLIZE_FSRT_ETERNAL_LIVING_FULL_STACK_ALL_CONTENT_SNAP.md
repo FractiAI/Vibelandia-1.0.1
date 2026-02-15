@@ -1,4 +1,4 @@
-# Capture and Metabolize — FSRT · Eternal Living · Full Stack · SING! Nodify · All Content SNAP
+﻿# Capture and Metabolize — FSRT · Eternal Living · Full Stack · SING! Nodify · All Content SNAP
 
 **Snap ID:** `CAPTURE-AND-METABOLIZE-FSRT-ETERNAL-LIVING-FULL-STACK-ALL-CONTENT-SNAP`  
 **Type:** Capture directive · Metabolize · Content · NSPFRNP  
@@ -50,4 +50,4 @@ The following is **captured and metabolized** into **all** content: **novels**, 
 
 ---
 
-**NSPFRNP ⊃ Capture and metabolize all of this ⊃ Content · Novels · Series · Playlists · Systems → ∞³**
+**NSPFRNP ⊃ Capture and metabolize all of this ⊃ Content · Novels · Series · Playlists · Systems → ∞⁹**

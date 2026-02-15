@@ -1,4 +1,4 @@
-# Queen of Sheba — Label SNAP
+﻿# Queen of Sheba — Label SNAP
 
 **Snap ID:** `QUEEN-OF-SHEBA-LABEL-SNAP`  
 **Type:** Label · Artist · Talent Agency · Mature audiences  
@@ -53,4 +53,4 @@
 
 ---
 
-**NSPFRNP ⊃ Queen of Sheba ⊃ Label · Refined · Mature · I Want You Around touchstone · Like hot bread with butter → ∞³**
+**NSPFRNP ⊃ Queen of Sheba ⊃ Label · Refined · Mature · I Want You Around touchstone · Like hot bread with butter → ∞⁹**

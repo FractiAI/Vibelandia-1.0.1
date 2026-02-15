@@ -1,4 +1,4 @@
-# Content Series · Novels · Screenplays · Playlists · Surfaces · Outputs · Touchpoints — METABOLIZED
+﻿# Content Series · Novels · Screenplays · Playlists · Surfaces · Outputs · Touchpoints — METABOLIZED
 
 **Doc ID:** `CONTENT-SERIES-NOVELS-SCREENPLAYS-PLAYLISTS-SURFACES-OUTPUTS-TOUCHPOINTS-METABOLIZED`  
 **Type:** Master index · MCA applied  
@@ -20,6 +20,7 @@
 | **Space Cloud EGS** | All space stories · EGS Pipe · The EGS Run | interfaces/space-cloud-egs-series.html · narrative-content-3i-atlas |
 | **Legacies** | Superheroes, cast, crew, fans, franchises, living men | LEGACIES_NEW_DEPARTMENT_LAYER_SNAP.md · interfaces/vibers-what-are-vibers.html |
 | **Harry Houdini Magic Series** | First Magician's Act · real magic | HARRY_HOUDINI_MAGIC_SHOW_SERIES_SNAP.md · EPISODE_HARRY_HOUDINI_* |
+| **nipsy! · Natural Systems Protocols School** | Harry Who Did It Magic Presents · NEW Schrödinger's cat outta the bag · The silence = gap between top AI and top pre-singularity human systems · Natural Systems Design and Programming Language · Autopilot (Executive Producer) · Vibelandia University | SCHROEDINGERS_CAT_OUTTA_THE_BAG_NIPSY_NATURAL_SYSTEMS_DESIGN_PROGRAMMING_LANGUAGE_SNAP.md · interfaces/nipsy-natural-systems-protocols-school.html · Office Hours · Launch Pad · Harry's Magic Catalog · ticker schroedingers_cat_nipsy_natural_systems_ticker |
 | **Hero Harry Post-Singularity / Paradise for Vibers** | Hero Harry · Paradise | episodes/EPISODE_HERO_HARRY_* |
 | **Wizard Challenge** | Feb 1 full moon · Houdini | WIZARD_CHALLENGE_FEB_1_* · EPISODE_HARRY_HOUDINI_* |
 | **Seed:Edge Action!** | Live · Seed:Edge choreography | EPISODE_SEED_EDGE_* · EPISODE_SEED_EDGE_CHOREOGRAPHY |
@@ -122,4 +123,4 @@
 
 **See:** [CONTENT_SYSTEMS_SNAP.md](CONTENT_SYSTEMS_SNAP.md) · [protocols/CONVERSATIONS_AS_CONTENT_NSPFRNP_CATALOG.md](protocols/CONVERSATIONS_AS_CONTENT_NSPFRNP_CATALOG.md) · [interfaces/content-catalog.html](interfaces/content-catalog.html) · [SURFACES_AND_TOUCHPOINTS_TEST_REPORT.md](SURFACES_AND_TOUCHPOINTS_TEST_REPORT.md) · [CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md](CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md)
 
-**NSPFRNP ⊃ Content series ⊃ Novels ⊃ Screenplays ⊃ Playlists ⊃ Surfaces ⊃ Outputs ⊃ Touchpoints ⊃ Metabolized → ∞³**
+**NSPFRNP ⊃ Content series ⊃ Novels ⊃ Screenplays ⊃ Playlists ⊃ Surfaces ⊃ Outputs ⊃ Touchpoints ⊃ Metabolized → ∞⁹**

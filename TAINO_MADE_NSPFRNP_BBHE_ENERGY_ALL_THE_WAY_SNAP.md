@@ -1,4 +1,4 @@
-# Taino Made · NSPFRNP-Based BBHE · Energy All the Way! — Brand SNAP
+﻿# Taino Made · NSPFRNP-Based BBHE · Energy All the Way! — Brand SNAP
 
 **Snap ID:** `TAINO-MADE-NSPFRNP-BBHE-ENERGY-ALL-THE-WAY-NSPFRNP`  
 **Type:** Brand SNAP · Footer tag · Executive  
@@ -34,4 +34,4 @@
 
 **See:** HYDROGEN_HOLOGRAPH_100_PERCENT_BRAND_SNAP.md · TOP_TAG_BOTTOM_TAG_UNDERCOVER_BOSS_TO_DISNEY_ALL_IN_ONE_NSPFRNP_SNAP.md
 
-**NSPFRNP ⊃ Taino made · BBHE · Energy all the way! → ∞³**
+**NSPFRNP ⊃ Taino made · BBHE · Energy all the way! → ∞⁹**

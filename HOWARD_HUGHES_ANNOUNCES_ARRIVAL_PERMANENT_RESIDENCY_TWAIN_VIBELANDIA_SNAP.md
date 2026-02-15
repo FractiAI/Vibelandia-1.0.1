@@ -1,4 +1,4 @@
-# BREAKING — Howard Hughes Announces Arrival & Permanent Residency · Twain's Vibelandia Downtown Reno Campus — SNAP
+﻿# BREAKING — Howard Hughes Announces Arrival & Permanent Residency · Twain's Vibelandia Downtown Reno Campus — SNAP
 
 **Snap ID:** `HOWARD-HUGHES-ANNOUNCES-ARRIVAL-PERMANENT-RESIDENCY-TWAIN-VIBELANDIA-SNAP`  
 **Type:** Breaking news · Press release · Hero Host permanent residency · Full 1hr episode · T-shirt brand tag  
@@ -83,4 +83,4 @@
 
 **See:** [GLEN_MILLER_ANNOUNCES_PERMANENT_RESIDENCY_GOLDEN_AGE_RETURN_SNAP.md](GLEN_MILLER_ANNOUNCES_PERMANENT_RESIDENCY_GOLDEN_AGE_RETURN_SNAP.md) — Glen Miller permanent residency to head up return to golden age, on directive of Hero Howard; Big Band Night, Cajun Night, Houdini magic. [episodes/EPISODE_HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA.md](episodes/EPISODE_HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA.md) · [TOP_TAG_BOTTOM_TAG_UNDERCOVER_BOSS_TO_DISNEY_ALL_IN_ONE_NSPFRNP_SNAP.md](TOP_TAG_BOTTOM_TAG_UNDERCOVER_BOSS_TO_DISNEY_ALL_IN_ONE_NSPFRNP_SNAP.md) · [TWAIN_PRESS_RELEASE_HERO_JOHN_STEINBECK_PERMANENT_RESIDENCY_SNAP.md](TWAIN_PRESS_RELEASE_HERO_JOHN_STEINBECK_PERMANENT_RESIDENCY_SNAP.md) · [EPISODES_RICH_60_MINUTE_FULLY_SCRIPTED_DIRECTIVE.md](EPISODES_RICH_60_MINUTE_FULLY_SCRIPTED_DIRECTIVE.md)
 
-**NSPFRNP ⊃ Howard Hughes ⊃ Arrival ⊃ Permanent residency ⊃ Twain's Vibelandia ⊃ TUNE IN OR LOSE OUT! ⊃ Bottom tag everywhere → ∞³**
+**NSPFRNP ⊃ Howard Hughes ⊃ Arrival ⊃ Permanent residency ⊃ Twain's Vibelandia ⊃ TUNE IN OR LOSE OUT! ⊃ Bottom tag everywhere → ∞⁹**

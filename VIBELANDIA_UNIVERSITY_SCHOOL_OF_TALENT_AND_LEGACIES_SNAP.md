@@ -1,4 +1,4 @@
-# Vibelandia University — School of Talent & Legacies · NSPFRNP SNAP
+﻿# Vibelandia University — School of Talent & Legacies · NSPFRNP SNAP
 
 **Snap ID:** `VIBELANDIA-UNIVERSITY-SCHOOL-OF-TALENT-AND-LEGACIES-SNAP`  
 **Type:** Vibelandia University · School · Talent & Legacies  
@@ -31,4 +31,4 @@
 
 ---
 
-**NSPFRNP ⊃ Vibelandia University ⊃ School of Talent & Legacies ⊃ 50:50 their billing portion · Superheroes · Cast · Crew · Fans · Franchises → ∞³**
+**NSPFRNP ⊃ Vibelandia University ⊃ School of Talent & Legacies ⊃ 50:50 their billing portion · Superheroes · Cast · Crew · Fans · Franchises → ∞⁹**

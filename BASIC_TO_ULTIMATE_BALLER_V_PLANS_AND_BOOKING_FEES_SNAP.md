@@ -1,4 +1,4 @@
-# Basic to Ultimate Baller V — Plans and Booking Fees · SNAP
+﻿# Basic to Ultimate Baller V — Plans and Booking Fees · SNAP
 
 **SNAP ID:** BASIC-TO-ULTIMATE-BALLER-V-PLANS-AND-BOOKING-FEES  
 **Type:** Plans · Booking fees · Tier matrix · NSPFRNP  
@@ -124,4 +124,4 @@ Tip: 30% staff, 50% Pru. Total out the door = spend × 1.8. Spend breakdown: 50%
 
 ---
 
-**NSPFRNP ⊃ Basic → Ultimate Baller V ⊃ Plans and Booking Fees → ∞³**
+**NSPFRNP ⊃ Basic → Ultimate Baller V ⊃ Plans and Booking Fees → ∞⁹**

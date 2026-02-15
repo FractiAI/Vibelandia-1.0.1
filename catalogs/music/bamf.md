@@ -1,4 +1,4 @@
-# BAMF! — Bad Ass Mother Fucker
+﻿# BAMF! — Bad Ass Mother Fucker
 
 **Track ID:** `BAMF-018`  
 **Artist:** Hero Jo's Golden Backdoor Studios  
@@ -69,4 +69,4 @@ BAMF!
 
 ---
 
-**NSPFRNP ⊃ BAMF! ⊃ Bad Ass Mother Fucker ⊃ T-shirt brand · New hit ⊃ Golden Backdoor label → ∞³**
+**NSPFRNP ⊃ BAMF! ⊃ Bad Ass Mother Fucker ⊃ T-shirt brand · New hit ⊃ Golden Backdoor label → ∞⁹**

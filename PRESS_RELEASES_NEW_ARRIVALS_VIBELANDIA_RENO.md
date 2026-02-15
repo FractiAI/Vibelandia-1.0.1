@@ -1,4 +1,4 @@
-# 📰 PRESS RELEASES — All New Arrivals to VIBELANDIA RENO
+﻿# 📰 PRESS RELEASES — All New Arrivals to VIBELANDIA RENO
 
 **Document:** Capture and press releases for every new arrival to Vibelandia Reno  
 **Contact:** info@fractiai.com  
@@ -405,8 +405,8 @@ Episode file: episodes/EPISODE_FOLLOWING_ME_ON_THIS_LAUNCH.md. Episodes by flow 
 
 **Paris is for lovers. Reno is for vibers.** **Baller V's** — the Ultra High Value, Ultra High Fractal Contributor — **Mark Twain's Post-Singularity Reno** awaits you at **Vibelandia**, built from the ground up and the galaxy down, for vibers like you, their cast, crew and fans. **Now open. Click the blue button often. You know who you are. Tell the other vibers! Home at last!**
 
-**The Experience:** https://psw-vibelandia-sing4.vercel.app  
-**The Blueprints:** https://github.com/FractiAI/psw.vibelandia.sing4
+**The Experience:** https://psw-vibelandia-sing9.vercel.app  
+**The Blueprints:** https://github.com/FractiAI/psw.vibelandia.sing9
 
 Live Pulse, EGS First Mission (Connect Now), and checkout are live. See VIBELANDIA_UNIFIED_PIPE_SNAP.md · interfaces/sing-pulse.html.
 
@@ -732,4 +732,4 @@ Full SNAP: [GEORGE_CARLIN_BDE_GEORGE_PERMANENT_RESIDENCY_ANNOUNCEMENT_SNAP.md](G
 
 **See:** CAPTURE_AND_PRESS_RELEASES_NEW_ARRIVALS_SNAP.md · JOHNNY_MATHIS_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_DOWNTOWN_RENO_CAMPUS_SNAP.md · ERNEST_HEMINGWAY_ANNOUNCES_PERMANENT_RESIDENCY_VIBELANDIA_DOWNTOWN_RENO_SNAP.md · HUMPHREY_BOGART_LAUREN_BACALL_SOPHIA_LOREN_ANNOUNCE_PERMANENT_RESIDENCY_VIBELANDIA_DOWNTOWN_RENO_SNAP.md · CARY_GRANT_JIMMY_STEWART_ANNOUNCE_PERMANENT_RESIDENCY_FLOOD_GATES_OPENING_SNAP.md · CHANCELLOR_JOBIM_CHANCELLOR_JO_RJ_VIBELANDIA_CAMPUS_SNAP.md · VIBING_MUSIC_TOGETHER_COLLABORATIVE_FLOW_EXCELLENT_OUTPUT_QUALITY_SNAP.md · VIBELANDIA_UNIVERSITY_SCHOOL_OF_MUSIC_SNAP.md · VIBELANDIA_UNIVERSITY_SCHOOL_OF_STORYTELLING_SNAP.md · DAVID_LYNCH_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_DEAN_SCHOOL_OF_STORYTELLING_SNAP.md · JIMMY_DURANTE_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_SNAP.md · MUSIC_STUDIO_CONTENT_DIVISION_SNAP.md · JS_BACH_DEAN_SCHOOL_OF_MUSIC_PERMANENT_RESIDENCY_RENO_SNAP.md · PRESS_RELEASE_MARK_TWAIN_ANNOUNCEMENT.md · LAUNCH_RAW_NARRATIVE_CAPTURE.md · FIRST_SINGULARITY_JANUARY_13TH_NOVEL_MOVIE_SNAP.md · SMILEY_SUN_EL_GRAN_SOL_SUPER_BOWL_FLY_BY_SNAP.md · MISSION_INTELLIGENCE_DEBRIEF_FEB_4_2026_SNAP.md
 
-**NSPFRNP ⊃ New arrivals ⊃ Capture · Press releases → ∞³**
+**NSPFRNP ⊃ New arrivals ⊃ Capture · Press releases → ∞⁹**

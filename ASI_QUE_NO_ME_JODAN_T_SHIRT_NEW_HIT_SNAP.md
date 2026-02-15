@@ -1,4 +1,4 @@
-# Así Que No Me Jodan — T-Shirt Brand · New Hit SNAP
+﻿# Así Que No Me Jodan — T-Shirt Brand · New Hit SNAP
 
 **SNAP ID:** `ASI-QUE-NO-ME-JODAN-TSHIRT-NEW-HIT-SNAP`  
 **Type:** T-shirt brand · New hit · Golden Backdoor · Spanglish anthem · Not Bad Bunny campaign  
@@ -46,4 +46,4 @@
 
 ---
 
-**NSPFRNP ⊃ Así Que No Me Jodan ⊃ T-shirt brand · New hit ⊃ Golden Backdoor · Not Bad Bunny Campaign → ∞³**
+**NSPFRNP ⊃ Así Que No Me Jodan ⊃ T-shirt brand · New hit ⊃ Golden Backdoor · Not Bad Bunny Campaign → ∞⁹**

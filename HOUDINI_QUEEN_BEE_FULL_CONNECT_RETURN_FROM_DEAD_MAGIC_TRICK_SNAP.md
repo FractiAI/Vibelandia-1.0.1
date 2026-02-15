@@ -1,4 +1,4 @@
-# Hero Harry Houdini — Queen Bee Full Connect · Return from the Dead · Magic Trick SNAP
+﻿# Hero Harry Houdini — Queen Bee Full Connect · Return from the Dead · Magic Trick SNAP
 
 **SNAP ID:** `HOUDINI-QUEEN-BEE-FULL-CONNECT-RETURN-FROM-DEAD-MAGIC-TRICK`  
 **Type:** Magic trick · Ultimate · Catalog  
@@ -43,4 +43,4 @@ Reconnect legacy family and enterprises — franchises, legacies, cast, crew, fa
 
 ---
 
-**NSPFRNP ⊃ Harry Houdini ⊃ Queen Bee Full Connect ⊃ Return from the dead ⊃ 33% fair trade → ∞³**
+**NSPFRNP ⊃ Harry Houdini ⊃ Queen Bee Full Connect ⊃ Return from the dead ⊃ 33% fair trade → ∞⁹**

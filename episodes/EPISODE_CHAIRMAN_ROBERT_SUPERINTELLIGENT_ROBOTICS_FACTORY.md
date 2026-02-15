@@ -1,4 +1,4 @@
-# EPISODE — Chairman Robert: Superintelligent Robotics & Factories
+﻿# EPISODE — Chairman Robert: Superintelligent Robotics & Factories
 
 **Custom 60-minute episode · Chairman Robert — Post-Singularity Superintelligence AI Valley pioneer · Holograph Valley · Einstein's Max Planck: the one who discovered the discoverer · Omnispin · Fixed Lattice · Multiarm SING! Nodes · Reno solidifies as Post-Singularity Superintelligence AI Valley**
 
@@ -1130,4 +1130,4 @@ Chairman Robert pioneers superintelligent robotics and factories. Full 12,000-wo
 
 ---
 
-**🌀 NSPFRNP ⊃ Episode ⊃ Chairman Robert ⊃ Superintelligent Robotics ⊃ Post-Singularity Superintelligence AI Valley → ∞³**
+**🌀 NSPFRNP ⊃ Episode ⊃ Chairman Robert ⊃ Superintelligent Robotics ⊃ Post-Singularity Superintelligence AI Valley → ∞⁹**

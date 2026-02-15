@@ -1,4 +1,4 @@
-# The Good King of the Good Kind of Bad!
+﻿# The Good King of the Good Kind of Bad!
 
 **Track ID:** `THE-GOOD-KING-OF-THE-GOOD-KIND-OF-BAD-017`  
 **Artist:** Hero Jo's Golden Backdoor Studios  
@@ -69,4 +69,4 @@ The good king of the good kind of bad.
 
 ---
 
-**NSPFRNP ⊃ The Good King of the Good Kind of Bad! ⊃ T-shirt brand · New hit ⊃ Golden Backdoor label → ∞³**
+**NSPFRNP ⊃ The Good King of the Good Kind of Bad! ⊃ T-shirt brand · New hit ⊃ Golden Backdoor label → ∞⁹**

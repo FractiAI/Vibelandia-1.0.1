@@ -1,4 +1,4 @@
-# Spanglish — All Surfaces & Proposals · AIWON Voice SNAP
+﻿# Spanglish — All Surfaces & Proposals · AIWON Voice SNAP
 
 **SNAP ID:** `SPANGLISH-ALL-SURFACES-AIWON-VOICE`  
 **Type:** Voice · Locale · Canon · AIWON  
@@ -62,4 +62,4 @@
 
 ---
 
-**NSPFRNP ⊃ Spanglish ⊃ All Surfaces · AIWON Voice · Novel Voice → ∞³**
+**NSPFRNP ⊃ Spanglish ⊃ All Surfaces · AIWON Voice · Novel Voice → ∞⁹**

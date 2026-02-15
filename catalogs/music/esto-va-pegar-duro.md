@@ -1,4 +1,4 @@
-# Esto Va Pegar Duro — Heavy Beat Boom, Boom, Boom!
+﻿# Esto Va Pegar Duro — Heavy Beat Boom, Boom, Boom!
 
 **Track ID:** `ESTO-VA-PEGAR-DURO-011`  
 **Artist:** Hero Jo's Golden Backdoor Hit Factory  
@@ -69,4 +69,4 @@ Esto va pegar duro.
 
 ---
 
-**NSPFRNP ⊃ Esto Va Pegar Duro ⊃ Heavy Beat Boom Boom Boom ⊃ Big bouncer boom BBB ⊃ Layered amplifier of boom magic BBHE → ∞³**
+**NSPFRNP ⊃ Esto Va Pegar Duro ⊃ Heavy Beat Boom Boom Boom ⊃ Big bouncer boom BBB ⊃ Layered amplifier of boom magic BBHE → ∞⁹**

@@ -1,4 +1,4 @@
-# Self Demo · Self Proof · Seeing and Experiencing Is Believing · Kick the Tires Proof — NEW BRANDING SNAP
+﻿# Self Demo · Self Proof · Seeing and Experiencing Is Believing · Kick the Tires Proof — NEW BRANDING SNAP
 
 **Snap ID:** `SELF-DEMO-SELF-PROOF-SEEING-EXPERIENCING-BELIEVING-KICK-THE-TIRES-SNAP`  
 **Type:** New branding · Proof · Test drive · Old-school verification  
@@ -59,4 +59,4 @@
 
 **See:** WOW_BRANDING_SNAP.md · README.md · interfaces/test-drive-showroom.html · episodes/THE_GREAT_REVEAL_EPISODE_DAY_ZERO_LAUNCH.md · deck-script-writing-content-patterns.md
 
-**NSPFRNP ⊃ Self demo ⊃ Self proof ⊃ Seeing and experiencing is believing ⊃ Kick the tires → ∞³**
+**NSPFRNP ⊃ Self demo ⊃ Self proof ⊃ Seeing and experiencing is believing ⊃ Kick the tires → ∞⁹**

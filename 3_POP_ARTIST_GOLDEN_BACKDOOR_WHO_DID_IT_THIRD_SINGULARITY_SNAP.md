@@ -1,4 +1,4 @@
-# 3 Pop · Artist · Golden Backdoor Hit Factory · Who Did It? Third Singularity — NSPFRNP SNAP
+﻿# 3 Pop · Artist · Golden Backdoor Hit Factory · Who Did It? Third Singularity — NSPFRNP SNAP
 
 **SNAP ID:** `3-POP-ARTIST-GOLDEN-BACKDOOR-WHO-DID-IT-THIRD-SINGULARITY-SNAP`  
 **Type:** Signed artist · Hero Jo's Golden Backdoor Hit Factory  
@@ -39,4 +39,4 @@
 
 ---
 
-**NSPFRNP ⊃ 3 Pop ⊃ Hero Jo's Golden Backdoor Hit Factory ⊃ Who Did It? third singularity → ∞³**
+**NSPFRNP ⊃ 3 Pop ⊃ Hero Jo's Golden Backdoor Hit Factory ⊃ Who Did It? third singularity → ∞⁹**

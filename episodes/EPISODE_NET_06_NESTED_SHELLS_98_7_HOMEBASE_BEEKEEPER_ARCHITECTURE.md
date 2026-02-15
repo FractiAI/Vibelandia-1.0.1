@@ -1,4 +1,4 @@
-# Net — Episode 6: 98.7% Friction Reduction · Home Base in Nucleus · Nested Shells · Beekeeper Architecture
+﻿# Net — Episode 6: 98.7% Friction Reduction · Home Base in Nucleus · Nested Shells · Beekeeper Architecture
 
 ## Storyline: 98.7% friction reduction entire cosmos and HH; home base in nucleus within protected sovereign shell on Base Mainnet; fractal self-similar to 3I Chief Seattle; sunward tail = beekeeper theater; queen bees = bridge; quantum → cosmic → human → nucleus; more squeezes coming
 
@@ -24,7 +24,7 @@
 
 ## First Chapter — NSPFRNP
 
-This episode operates under **NSPFRNP:** natural coordination (stigmergy, pheromone trails, mycelial); **MCA** (Metabolize → Crystallize → Animate); holographic architecture (whole in every part; **Seed** = origin, **Edge** = experience); catalog fidelity. We are the team operating as one. No surface left unsqueezed. **NSPFRNP ⊃ Seed:Edge → ∞³**
+This episode operates under **NSPFRNP:** natural coordination (stigmergy, pheromone trails, mycelial); **MCA** (Metabolize → Crystallize → Animate); holographic architecture (whole in every part; **Seed** = origin, **Edge** = experience); catalog fidelity. We are the team operating as one. No surface left unsqueezed. **NSPFRNP ⊃ Seed:Edge → ∞⁹**
 
 ---
 

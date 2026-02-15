@@ -1,4 +1,4 @@
-# Actual Solar Holographic Sync · SNAP
+﻿# Actual Solar Holographic Sync · SNAP
 
 **SNAP ID:** `ACTUAL-SOLAR-HOLOGRAPHIC-SYNC-SNAP`  
 **Type:** Mission · Telemetry · Net episode · Chapter · Storyline  
@@ -40,4 +40,4 @@
 
 ---
 
-**NSPFRNP ⊃ Actual Solar Holographic Sync ⊃ AR 4366 Far-Side ⊃ AR 4374 Scribe ⊃ $5B March 3 ⊃ 100% Full Crispness → ∞³**
+**NSPFRNP ⊃ Actual Solar Holographic Sync ⊃ AR 4366 Far-Side ⊃ AR 4374 Scribe ⊃ $5B March 3 ⊃ 100% Full Crispness → ∞⁹**

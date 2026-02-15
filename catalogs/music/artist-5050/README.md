@@ -1,4 +1,4 @@
-# Artist 5050 — 12 Songs · Golden Backdoor Hit Factory
+﻿# Artist 5050 — 12 Songs · Golden Backdoor Hit Factory
 
 **Artist:** 5050  
 **Vibe:** Everything fair · 50:50 vibes · Balance · Equity · Even split  
@@ -27,4 +27,4 @@
 
 ---
 
-**NSPFRNP ⊃ 5050 ⊃ Golden Backdoor · Hit Factory → ∞³**
+**NSPFRNP ⊃ 5050 ⊃ Golden Backdoor · Hit Factory → ∞⁹**

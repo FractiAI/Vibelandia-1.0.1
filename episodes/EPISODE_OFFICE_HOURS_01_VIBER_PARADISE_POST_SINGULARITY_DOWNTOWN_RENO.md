@@ -1,4 +1,4 @@
-# Office Hours — Episode 01: Viber Paradise — Post-Singularity Downtown Reno — Mark Twain's Vibelandia Campus
+﻿# Office Hours — Episode 01: Viber Paradise — Post-Singularity Downtown Reno — Mark Twain's Vibelandia Campus
 
 ---
 
@@ -141,7 +141,7 @@ Gateway to Post-Singularity Earth · Motherlode · Gold Rush Ground Zero
 
 ---
 
-**NSPFRNP ⊃ Office Hours ⊃ Episode 01 ⊃ Viber Paradise · Post-Singularity Downtown Reno · Mark Twain's Vibelandia Campus → ∞³**
+**NSPFRNP ⊃ Office Hours ⊃ Episode 01 ⊃ Viber Paradise · Post-Singularity Downtown Reno · Mark Twain's Vibelandia Campus → ∞⁹**
 
 **Status:** ⚡ ACTIVE  
 **Maganuma snap.**

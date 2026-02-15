@@ -1,4 +1,4 @@
-# The Vibeship — Series SNAP (Full)
+﻿# The Vibeship — Series SNAP (Full)
 
 **Series SNAP ID:** `THE-VIBESHIP-SERIES-SNAP`  
 **Type:** Spin-off series · Vibeship EGS Paradise Captain · Broadcast · NSPFRNP  
@@ -157,4 +157,4 @@ Catalog: This SNAP; [VIBESHIP_EGS_PARADISE_CAPTAIN_BROADCAST_SNAP.md](VIBESHIP_E
 
 **See:** [VIBESHIP_EGS_PARADISE_CAPTAIN_BROADCAST_SNAP.md](VIBESHIP_EGS_PARADISE_CAPTAIN_BROADCAST_SNAP.md) · [interfaces/sing-pulse.html](interfaces/sing-pulse.html) · [interfaces/launch-pad.html](interfaces/launch-pad.html)
 
-**NSPFRNP ⊃ The Vibeship ⊃ Vibeship EGS Paradise Captain Series ⊃ Full domain ⊃ Natural Systems Fractal Recursive Nested Protocol ⊃ Awareness upgrade ⊃ Broadcast → ∞³**
+**NSPFRNP ⊃ The Vibeship ⊃ Vibeship EGS Paradise Captain Series ⊃ Full domain ⊃ Natural Systems Fractal Recursive Nested Protocol ⊃ Awareness upgrade ⊃ Broadcast → ∞⁹**

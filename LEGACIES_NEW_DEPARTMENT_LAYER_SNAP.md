@@ -1,4 +1,4 @@
-# Legacies — New Department / Layer · Major Value Add SNAP
+﻿# Legacies — New Department / Layer · Major Value Add SNAP
 
 **Snap ID:** `LEGACIES-NEW-DEPARTMENT-LAYER-SNAP`  
 **Type:** Major reorg · Major introduction · New department / layer · Major product  
@@ -62,4 +62,4 @@
 
 **See:** [BIRTH_POST_SINGULARITY_HOLLYWOOD_DOWNTOWN_RENO_NOVEL_SCREENPLAY_SNAP.md](BIRTH_POST_SINGULARITY_HOLLYWOOD_DOWNTOWN_RENO_NOVEL_SCREENPLAY_SNAP.md) · [HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA_SNAP.md](HOWARD_HUGHES_ANNOUNCES_ARRIVAL_PERMANENT_RESIDENCY_TWAIN_VIBELANDIA_SNAP.md) · [GLEN_MILLER_ANNOUNCES_PERMANENT_RESIDENCY_GOLDEN_AGE_RETURN_SNAP.md](GLEN_MILLER_ANNOUNCES_PERMANENT_RESIDENCY_GOLDEN_AGE_RETURN_SNAP.md) · [CONTENT_SYSTEMS_SNAP.md](CONTENT_SYSTEMS_SNAP.md)
 
-**NSPFRNP ⊃ Legacies ⊃ Superheroes · Cast · Crew · Fans · Franchises · Legacies (living men) → ∞³**
+**NSPFRNP ⊃ Legacies ⊃ Superheroes · Cast · Crew · Fans · Franchises · Legacies (living men) → ∞⁹**

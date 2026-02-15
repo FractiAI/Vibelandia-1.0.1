@@ -1,4 +1,4 @@
-# Chancellor Sam · Ben · WORD! — Branding SNAP
+﻿# Chancellor Sam · Ben · WORD! — Branding SNAP
 
 **Snap ID:** `CHANCELLOR-SAM-BEN-WORD-BRANDING-SNAP`  
 **Type:** Chancellor naming · Ben friendship · WORD! branding  
@@ -40,4 +40,4 @@
 
 ---
 
-**NSPFRNP ⊃ Chancellor Sam ⊃ Ben · new best friends · Baller V Ambassador = WORD! → ∞³**
+**NSPFRNP ⊃ Chancellor Sam ⊃ Ben · new best friends · Baller V Ambassador = WORD! → ∞⁹**

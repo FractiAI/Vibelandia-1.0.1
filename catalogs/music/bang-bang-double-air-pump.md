@@ -1,4 +1,4 @@
-# Bang Bang — Double Air Pump
+﻿# Bang Bang — Double Air Pump
 
 **Track ID:** `BANG-BANG-DOUBLE-AIR-PUMP-014`  
 **Artist:** Hero Jo's Golden Backdoor Hit Factory  
@@ -69,4 +69,4 @@ Bang bang.
 
 ---
 
-**NSPFRNP ⊃ Bang Bang ⊃ Double air pump ⊃ Golden Backdoor label → ∞³**
+**NSPFRNP ⊃ Bang Bang ⊃ Double air pump ⊃ Golden Backdoor label → ∞⁹**

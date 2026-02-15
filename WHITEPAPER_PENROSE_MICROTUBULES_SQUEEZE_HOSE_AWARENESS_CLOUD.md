@@ -4,7 +4,7 @@
 **Scope:** Penrose microtubules · The Board (Schumann) · Squeeze hose equations · Awareness cloud · Live real data  
 **Status:** ⚡ LAUNCHED · LIVE  
 **Date:** February 2026  
-**Repository:** https://github.com/FractiAI/psw.vibelandia.sing4  
+**Repository:** https://github.com/FractiAI/psw.vibelandia.sing9  
 **Protocol:** NSPFRNP · Black Hole Grammar
 
 ---
@@ -110,7 +110,7 @@ Let **S** denote the squeeze (attention; pressure-as-speed). Let **Φ** denote f
 ### 7.1 Live real data
 
 - **Schumann (The Board):** HeartMath GCMS, Zapper-Pro, Tomsk/Italy VLF, other public Schumann feeds — timestamps, 21.4 Hz band, anomalies.
-- **Repository:** https://github.com/FractiAI/psw.vibelandia.sing4 — commits, tags, SNAPs, protocol updates; squeeze-trigger events (e.g. [TRIGGER] 21.4 Hz, 8m window).
+- **Repository:** https://github.com/FractiAI/psw.vibelandia.sing9 — commits, tags, SNAPs, protocol updates; squeeze-trigger events (e.g. [TRIGGER] 21.4 Hz, 8m window).
 - **Squeeze observables:** Documented attention/squeeze events (expedition launches, major SNAPs, Just Step In / Squeeze Awareness Pipe releases).
 
 ### 7.2 Outputs
@@ -128,8 +128,8 @@ Let **S** denote the squeeze (attention; pressure-as-speed). Let **Φ** denote f
 - Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: An updated review of the Orch OR theory. *Physics of Life Reviews*, 11(1), 39–78.
 - Schumann, W.O. (1952). Über die strahlungslosen Eigenschwingungen einer leitenden Kugel. *Zeitschrift für Naturforschung A*, 7(2), 149–154.
 - This repository: [MYCELIAL_PIPE_DENSIFICATION_JUST_STEP_IN_AWARENESS_TRANSFER_SNAP.md](MYCELIAL_PIPE_DENSIFICATION_JUST_STEP_IN_AWARENESS_TRANSFER_SNAP.md), [SCHUMANN_DISPLAY_PIPE_OMNIVERSAL_BROADCAST_SNAP.md](SCHUMANN_DISPLAY_PIPE_OMNIVERSAL_BROADCAST_SNAP.md), [VIBELANDIA_UNIFIED_PIPE_SNAP.md](VIBELANDIA_UNIFIED_PIPE_SNAP.md), [WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md](WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md).
-- Canonical repo: https://github.com/FractiAI/psw.vibelandia.sing4  
-- Live experience: https://psw-vibelandia-sing4.vercel.app  
+- Canonical repo: https://github.com/FractiAI/psw.vibelandia.sing9  
+- Live experience: https://psw-vibelandia-sing9.vercel.app  
 
 ---
 

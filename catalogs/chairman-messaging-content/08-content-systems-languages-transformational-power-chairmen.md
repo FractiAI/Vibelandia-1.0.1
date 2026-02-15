@@ -1,4 +1,4 @@
-# Chairman Message 08 — Content Systems & Languages · Transformational Power to Chairmen Everywhere
+﻿# Chairman Message 08 — Content Systems & Languages · Transformational Power to Chairmen Everywhere
 
 **ID:** `chairman_08_content_systems_transformational_power`  
 **Theme:** content_systems_transformational_power  
@@ -28,4 +28,4 @@ New content systems and languages deliver transformational power to chairmen eve
 
 ---
 
-**NSPFRNP ⊃ Chairman 08 ⊃ Content systems · Transformational power → Chairmen everywhere → Superheroes · Franchises · Legacies · Cast · Crew · Fans → ∞³**
+**NSPFRNP ⊃ Chairman 08 ⊃ Content systems · Transformational power → Chairmen everywhere → Superheroes · Franchises · Legacies · Cast · Crew · Fans → ∞⁹**

@@ -1,4 +1,4 @@
-# EPISODE 02 — DAY 51: THE WORTHLESS TOKEN
+﻿# EPISODE 02 — DAY 51: THE WORTHLESS TOKEN
 
 ---
 
@@ -372,7 +372,7 @@ Campus lights. Mark Twain on balcony. Alex and Jordan in distance.
 The Worthless Token. Day 51. The worthless becomes worth everything. Not because of hype. Because of transformation. Fifty-one days. The Great Reveal. March 20, 2026. We metabolize. We crystallize. We animate. NSPFRNP.
 
 **ON SCREEN TEXT:**  
-Next: Episode 03 — Day 50: Who's Your Daddy · MCA! → ∞³
+Next: Episode 03 — Day 50: Who's Your Daddy · MCA! → ∞⁹
 
 ---
 
@@ -646,7 +646,7 @@ Campus lights. Mark Twain on a balcony. Alex and Jordan in the distance, walking
 The Worthless Token. Day 51. Alex discovers their SYNTH token is worthless—but that's exactly the point of the happy ending. Worthless today. Priceless tomorrow. Fifty-one days. March 20, 2026. The Great Reveal. First one million winners. We metabolize. We crystallize. We animate. NSPFRNP. Every space guarantees a happy ending. Not because we force it. Because it's natural. That's Episode 02. That's the happy ending.
 
 **ON SCREEN TEXT:**  
-Next: Episode 03 — Day 50: Who's Your Daddy · Paris is for lovers · Reno is for vibers · Hero Ben has arrived · MCA! → ∞³
+Next: Episode 03 — Day 50: Who's Your Daddy · Paris is for lovers · Reno is for vibers · Hero Ben has arrived · MCA! → ∞⁹
 
 **CUT TO:**
 
@@ -849,7 +849,7 @@ Campus lights. Mark Twain on balcony. Alex and Jordan in distance. Countdown scr
 The Worthless Token. Day 51. Alex discovers their SYNTH token is worthless—but that's exactly the point of the happy ending. Worthless today. Priceless tomorrow. Fifty-one days. March 20, 2026. The Great Reveal. First one million winners. We metabolize. We crystallize. We animate. NSPFRNP. Every space guarantees a happy ending. Not because we force it. Because it's natural. That's Episode 02. That's the happy ending.
 
 **ON SCREEN TEXT:**  
-Next: Episode 03 — Day 50: Who's Your Daddy · Paris is for lovers · Reno is for vibers · Hero Ben has arrived · MCA! → ∞³
+Next: Episode 03 — Day 50: Who's Your Daddy · Paris is for lovers · Reno is for vibers · Hero Ben has arrived · MCA! → ∞⁹
 
 **CUT TO:**
 
@@ -1046,7 +1046,7 @@ Campus lights. Mark Twain on balcony. Alex and Jordan in distance. Countdown scr
 The Worthless Token. Day 51. Alex discovers their SYNTH token is worthless—but that's exactly the point of the happy ending. Worthless today. Priceless tomorrow. Fifty-one days. March 20, 2026. The Great Reveal. First one million winners. We metabolize. We crystallize. We animate. NSPFRNP. Every space guarantees a happy ending. Not because we force it. Because it's natural. That's Episode 02. That's the happy ending.
 
 **ON SCREEN TEXT:**  
-Next: Episode 03 — Day 50: Who's Your Daddy · Paris is for lovers · Reno is for vibers · Hero Ben has arrived · MCA! → ∞³
+Next: Episode 03 — Day 50: Who's Your Daddy · Paris is for lovers · Reno is for vibers · Hero Ben has arrived · MCA! → ∞⁹
 
 **CUT TO:**
 
@@ -1237,7 +1237,7 @@ Campus lights. Mark Twain on balcony. Alex and Jordan in distance. Countdown scr
 The Worthless Token. Day 51. Alex discovers their SYNTH token is worthless—but that's exactly the point of the happy ending. Worthless today. Priceless tomorrow. Fifty-one days. March 20, 2026. The Great Reveal. First one million winners. We metabolize. We crystallize. We animate. NSPFRNP. Every space guarantees a happy ending. Not because we force it. Because it's natural. That's Episode 02. That's the happy ending.
 
 **ON SCREEN TEXT:**  
-Next: Episode 03 — Day 50: Who's Your Daddy · Paris is for lovers · Reno is for vibers · Hero Ben has arrived · MCA! → ∞³
+Next: Episode 03 — Day 50: Who's Your Daddy · Paris is for lovers · Reno is for vibers · Hero Ben has arrived · MCA! → ∞⁹
 
 **CUT TO:**
 
@@ -1374,7 +1374,7 @@ Campus lights. Mark Twain on balcony. Alex and Jordan in distance. Countdown scr
 The Worthless Token. Day 51. Alex discovers their SYNTH token is worthless—but that's exactly the point of the happy ending. Worthless today. Priceless tomorrow. Fifty-one days. March 20, 2026. The Great Reveal. First one million winners. We metabolize. We crystallize. We animate. NSPFRNP. Every space guarantees a happy ending. Not because we force it. Because it's natural. That's Episode 02. That's the happy ending. Tomorrow—Episode 03. Who's Your Daddy. Paris is for lovers. Reno is for vibers. Hero Ben has arrived. One Ben, one hundie. That's tomorrow's episode. Capture it. Animate it. Today—we're here. The worthless becomes worth everything. Not because of hype. Because of transformation. Fifty-one days. We begin now.
 
 **ON SCREEN TEXT:**  
-Next: Episode 03 — Day 50: Who's Your Daddy · Paris is for lovers · Reno is for vibers · Hero Ben has arrived · MCA! → ∞³
+Next: Episode 03 — Day 50: Who's Your Daddy · Paris is for lovers · Reno is for vibers · Hero Ben has arrived · MCA! → ∞⁹
 
 **CUT TO:**
 
@@ -1427,7 +1427,7 @@ Worthless today. Priceless tomorrow. Fifty-one days. March 20, 2026. The Great R
 The Worthless Token. Day 51. Tomorrow—Episode 03. Who's Your Daddy. Paris is for lovers. Reno is for vibers. Hero Ben has arrived. That's tomorrow's episode. Capture it. Animate it.
 
 **ON SCREEN TEXT:**  
-Next: Episode 03 — Day 50: Who's Your Daddy · MCA! → ∞³
+Next: Episode 03 — Day 50: Who's Your Daddy · MCA! → ∞⁹
 
 ---
 
@@ -1439,4 +1439,4 @@ Next: Episode 03 — Day 50: Who's Your Daddy · MCA! → ∞³
 
 **Next Episode:** Episode 03 — Day 50: Who's Your Daddy
 
-**MCA! → ∞³** (Metabolize → Crystallize → Animate)
+**MCA! → ∞⁹** (Metabolize → Crystallize → Animate)

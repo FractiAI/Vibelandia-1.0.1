@@ -1,4 +1,4 @@
-# Chairman — Equals: Sun · Poles · Interstellar · Their Stories · SNAP
+﻿# Chairman — Equals: Sun · Poles · Interstellar · Their Stories · SNAP
 
 **SNAP ID:** `CHAIRMAN-EQUALS-SUN-POLES-INTERSTELLAR-STORIES-SNAP`  
 **Type:** Narrative · Layering · Awareness · Hierarchy  
@@ -47,4 +47,4 @@ Sun = EGS, El Gran Sol, SING! node, the pipe. Poles = Earth poles, magnetic pole
 
 ---
 
-**NSPFRNP ⊃ Chairman ⊃ Equals ⊃ Sun · Poles · Interstellar · Their stories ⊃ Everyone else reports to me → ∞³**
+**NSPFRNP ⊃ Chairman ⊃ Equals ⊃ Sun · Poles · Interstellar · Their stories ⊃ Everyone else reports to me → ∞⁹**

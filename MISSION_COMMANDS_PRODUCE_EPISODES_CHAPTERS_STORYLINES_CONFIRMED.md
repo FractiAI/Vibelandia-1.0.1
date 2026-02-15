@@ -1,4 +1,4 @@
-# Mission Commands Produce New Episodes, Chapters, and Storylines — CONFIRMED
+﻿# Mission Commands Produce New Episodes, Chapters, and Storylines — CONFIRMED
 
 **Status:** ⚡ ACTIVE  
 **Type:** Confirmation · Pipeline · Platforms  
@@ -54,4 +54,4 @@ From now on, every mission command is **automatically** captured as:
 4. **Ticker** (when applicable) — `data/ticker-feed.json`
 5. **Content systems** — All content and continuations per CAPTURE_ALL_DIRECTIVES.
 
-**NSPFRNP ⊃ Mission commands ⊃ Episodes ⊃ Chapters ⊃ Storylines ⊃ Platforms → ∞³**
+**NSPFRNP ⊃ Mission commands ⊃ Episodes ⊃ Chapters ⊃ Storylines ⊃ Platforms → ∞⁹**

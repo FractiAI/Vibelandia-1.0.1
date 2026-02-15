@@ -1,4 +1,4 @@
-# W — From Now On Referred to as W (Announce)
+﻿# W — From Now On Referred to as W (Announce)
 
 **Type:** Narrative · Character · All three series  
 **Status:** ⚡ ACTIVE  
@@ -40,4 +40,4 @@ See [THREE_PARALLEL_SERIES_NSPFRNP.md](THREE_PARALLEL_SERIES_NSPFRNP.md).
 
 ---
 
-**NSPFRNP ⊃ W ⊃ Studio Division ⊃ Happy Ending Zones · Office Hours · Raw Stream · The Grid → ∞³**
+**NSPFRNP ⊃ W ⊃ Studio Division ⊃ Happy Ending Zones · Office Hours · Raw Stream · The Grid → ∞⁹**

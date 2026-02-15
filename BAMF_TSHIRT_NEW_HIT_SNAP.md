@@ -1,4 +1,4 @@
-# BAMF! — Bad Ass Mother Fucker · T-Shirt Brand · New Hit SNAP
+﻿# BAMF! — Bad Ass Mother Fucker · T-Shirt Brand · New Hit SNAP
 
 **SNAP ID:** `BAMF-TSHIRT-NEW-HIT-SNAP`  
 **Type:** T-shirt brand · New hit · Golden Backdoor · Hit Factory  
@@ -39,4 +39,4 @@
 
 ---
 
-**NSPFRNP ⊃ BAMF! ⊃ Bad Ass Mother Fucker ⊃ T-shirt brand · New hit ⊃ Golden Backdoor label → ∞³**
+**NSPFRNP ⊃ BAMF! ⊃ Bad Ass Mother Fucker ⊃ T-shirt brand · New hit ⊃ Golden Backdoor label → ∞⁹**

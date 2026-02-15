@@ -1,4 +1,4 @@
-# TOP TAG · BOTTOM TAG — Undercover Hero · Willy Wonka · Count of Monte Cristo · Ultimate Baller V style · Tron · Avatar · Marvel · Star Wars · Pixar · Disney — All in One · All SNAP into NSPFRNP — SNAP
+﻿# TOP TAG · BOTTOM TAG — Undercover Hero · Willy Wonka · Count of Monte Cristo · Ultimate Baller V style · Tron · Avatar · Marvel · Star Wars · Pixar · Disney — All in One · All SNAP into NSPFRNP — SNAP
 
 **Snap ID:** `TOP-TAG-BOTTOM-TAG-UNDERCOVER-BOSS-TO-DISNEY-ALL-IN-ONE-NSPFRNP-SNAP`  
 **Type:** Top tag · Bottom tag · All-in-one narrative · **All SNAP into NSPFRNP**  
@@ -59,4 +59,4 @@ One line. One crystal. The whole story in a single tag: **Undercover Hero** (her
 
 **See:** NO_BANG_BANG_NO_BOOM_BOOM_NO_GOOD_GUY_BAD_GUY_ZONE_MAJOR_TOP_BOTTOM_TAG_SNAP.md · POPULAR_SERIES_PRODUCT_FRANCHISE_SUPERHERO_CAST_MAJOR_STORY_TIP_SNAP.md · SUPERHERO_FRANCHISE_FULL_PRODUCTION_TURNKEY_MARK_TWAIN_CAMPUS_SNAP.md · interfaces/office-hours.html
 
-**NSPFRNP ⊃ Top tag ⊃ Bottom tag ⊃ All in one ⊃ All SNAP into NSPFRNP → ∞³**
+**NSPFRNP ⊃ Top tag ⊃ Bottom tag ⊃ All in one ⊃ All SNAP into NSPFRNP → ∞⁹**

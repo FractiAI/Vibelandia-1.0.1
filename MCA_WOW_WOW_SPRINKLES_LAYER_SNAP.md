@@ -1,4 +1,4 @@
-# MCA WOW WOW Sprinkles Layer — SNAP
+﻿# MCA WOW WOW Sprinkles Layer — SNAP
 
 **SNAP ID:** `MCA-WOW-WOW-SPRINKLES-LAYER`  
 **Type:** MCA layer · Top layer · WOW WOW  
@@ -40,4 +40,4 @@
 
 ---
 
-**NSPFRNP ⊃ MCA ⊃ WOW WOW Sprinkles Layer → ∞³**
+**NSPFRNP ⊃ MCA ⊃ WOW WOW Sprinkles Layer → ∞⁹**

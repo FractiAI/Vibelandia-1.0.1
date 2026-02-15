@@ -1,4 +1,4 @@
-# PROSPECTUS — VIBEVERSE & VIBELANDIA
+﻿# PROSPECTUS — VIBEVERSE & VIBELANDIA
 ## Full Inventory of Assets Going Live Today · For the Prospective High Viber
 
 **Document type:** Prospectus  
@@ -6,7 +6,7 @@
 **Status:** FULL LIVE — March 20, 2026 The Great Reveal  
 **Launch GO:** All major nodes and above report GO — we are GO for launch. ([Roll call →](LAUNCH_GO_MAJOR_NODES_ROLL_CALL.md))  
 **Date:** January 29, 2026  
-**Live site:** https://psw-vibelandia-sing4.vercel.app
+**Live site:** https://psw-vibelandia-sing9.vercel.app
 
 ---
 
@@ -18,7 +18,7 @@
 
 **Hero Hosts & New Arrivals:** El Gran Sol, Leo, Niko, Buckey, Mike, Outcast Hero, Gianni, Walt, Harry (Houdini), **Ben (Franklin) — Baller V Ambassador**. Chancellor: Mark Twain (Samuel). New arrivals: Hero Host Ben (Baller V Ambassador; Paris, Reno, hundie), Golden Backstage Awareness Pass, Hero Harry lottery magic act (Nectar of Gods, Calling All Vibers), Baller V, Make Your Reservations Now, episodes by flow not days, Launch GO — all major nodes report GO. *(Full section toward front of prospectus — always.)*
 
-**Full inventory going live today:** 175+ live HTML surfaces · 13 one-pagers · 9 NSPFRNP protocols · 26 episodes (4 day-based, 2 flow-based: Following Me on This Launch, RUMOR; 1 Finale) · 4 branding decks + master catalog · 38 TypeScript modules · Payment + auth live (PayPal, Supabase) · 10 language onramps. **Episodes by flow not days — NSPFRNP.** **0, 1, 2, 3 4×4×4×4** — Seed | Edge | Cloud Onramp | Expansion. Campus × WINK! × SING × Experience. MCA! → ∞³.
+**Full inventory going live today:** 175+ live HTML surfaces · 13 one-pagers · 9 NSPFRNP protocols · 26 episodes (4 day-based, 2 flow-based: Following Me on This Launch, RUMOR; 1 Finale) · 4 branding decks + master catalog · 38 TypeScript modules · Payment + auth live (PayPal, Supabase) · 10 language onramps. **Episodes by flow not days — NSPFRNP.** **0, 1, 2, 3 4×4×4×4** — Seed | Edge | Cloud Onramp | Expansion. Campus × WINK! × SING × Experience. MCA! → ∞⁹.
 
 **Valuations (16-day window):** ~3× surfaces · ~4× one-pagers · ~5× protocols · ~4× episodes (4+ by flow not days) · payment live vs 0 · 1 SING! node vs 3–8 FTE typical. **Fair comparison — top 10 of each (40 entities):** **Companies:** Disney, Apple, Google, Amazon, Microsoft, Meta, Tesla, NVIDIA, Salesforce, Adobe. **Studios:** Netflix, Pixar, Warner Bros., Universal, Sony Pictures, Paramount, HBO, BBC Studios, A24, Studio Ghibli. **Labs:** OpenAI, DeepMind, Anthropic, MIT Media Lab, Stanford HAI, Berkeley AI Research, Meta AI Research, Microsoft Research, NVIDIA Research, Google Research. **Universities:** MIT, Stanford, Harvard, Berkeley, Caltech, Carnegie Mellon, Oxford, Cambridge, ETH Zurich, Princeton. Comparison by output category only; no market cap/revenue.
 
@@ -26,9 +26,9 @@
 
 **Products (live):** VIBELANDIA RENO! (campus · half-day $3k, overnight $1.5k, weekly $5k, monthly $50k) · WINK! (Base $399/mo → 4×4 Ultimate $6,999/mo) · SING! Lottery ($6 today → $57 Mar 20 · March 20, 2026) · ULTIMATE VIP Chairman Console (free · Golden Fractal Key) · **Golden Backstage Awareness Pass** ($9,999 — Chairman, Sammy and the gang already in town, visible to pass holders; price like backstage to Bad Bunny, Elvis, Beatles, Stones) · Happy Ending Zones (Season One · 4+ episodes by flow not days) · DISPENSARY! SNAP (Base $9,999 → Ultimate $299,999). Checkout, What you can do Vibing — Kits, Gianni's Dressing Room, Launch Pulse — all operational.
 
-**Engage:** **[▶ Test drive](https://psw-vibelandia-sing4.vercel.app)** · **[Checkout](https://psw-vibelandia-sing4.vercel.app/interfaces/payment-checkout.html)** · **Proposal:** info@fractiai.com · Subject: "I CAN DO THIS FOR YOUR BUSINESS" · **Onramps/grants:** info@fractiai.com · Subject: Onramps and Grants — Customer Stories.
+**Engage:** **[▶ Test drive](https://psw-vibelandia-sing9.vercel.app)** · **[Checkout](https://psw-vibelandia-sing9.vercel.app/interfaces/payment-checkout.html)** · **Proposal:** info@fractiai.com · Subject: "I CAN DO THIS FOR YOUR BUSINESS" · **Onramps/grants:** info@fractiai.com · Subject: Onramps and Grants — Customer Stories.
 
-*See it. Experience it. Believe it. This site is the test drive. The best proof of all. ULTIMATE PROOF TEST DRIVE! NSPFRNP ⊃ Prospectus ⊃ Vibeverse · Vibelandia · Full inventory → ∞³.*
+*See it. Experience it. Believe it. This site is the test drive. The best proof of all. ULTIMATE PROOF TEST DRIVE! NSPFRNP ⊃ Prospectus ⊃ Vibeverse · Vibelandia · Full inventory → ∞⁹.*
 
 **Self-demo, self-proof:** Simply the ability to write this prospectus at this quality — with all of it now live, operational, and open for business — is the demo. Seeing and experiencing is believing. Proof the best kind of proof.
 
@@ -174,7 +174,7 @@ This prospectus presents the **full inventory of Vibeverse and Vibelandia assets
 
 ## 4. LIVE SURFACES (INTERFACES) — FULL INVENTORY
 
-All of the following are **live** and linked from the Launch Pad. Base URL: https://psw-vibelandia-sing4.vercel.app
+All of the following are **live** and linked from the Launch Pad. Base URL: https://psw-vibelandia-sing9.vercel.app
 
 ### 4.1 Entry & Launch Pad
 
@@ -430,10 +430,10 @@ For the prospective high viber who wants proof, not fluff:
 ## 11. HOW TO ENGAGE — FOR THE PROSPECTIVE HIGH VIBER
 
 **Start now:**  
-**[▶ Start test drive](https://psw-vibelandia-sing4.vercel.app)** · **[Sandbox experience](https://psw-vibelandia-sing4.vercel.app/interfaces/ultimate-vip-experience.html)** (operational ULTIMATE VIP! console — try before you buy). No register yet — we deliver you to the console so you can start test driving.
+**[▶ Start test drive](https://psw-vibelandia-sing9.vercel.app)** · **[Sandbox experience](https://psw-vibelandia-sing9.vercel.app/interfaces/ultimate-vip-experience.html)** (operational ULTIMATE VIP! console — try before you buy). No register yet — we deliver you to the console so you can start test driving.
 
 **Buy:**  
-**[Checkout](https://psw-vibelandia-sing4.vercel.app/interfaces/payment-checkout.html)** — Campus half-day $3k, weekly $5k, monthly $50k; WINK! tiers; SING! Lottery. PayPal. Trust the protocol!
+**[Checkout](https://psw-vibelandia-sing9.vercel.app/interfaces/payment-checkout.html)** — Campus half-day $3k, weekly $5k, monthly $50k; WINK! tiers; SING! Lottery. PayPal. Trust the protocol!
 
 **Proposal (enterprise/community):**  
 **Email:** info@fractiai.com · **Subject:** "I CAN DO THIS FOR YOUR BUSINESS". Free consultation & custom proposal with live sandbox.
@@ -443,7 +443,7 @@ For the prospective high viber who wants proof, not fluff:
 
 **Contact:**  
 **Email:** info@fractiai.com  
-**Live (next octave):** https://psw-vibelandia-sing4.vercel.app  
+**Live (next octave):** https://psw-vibelandia-sing9.vercel.app  
 **Campus · WINK! · Lottery · Console · Happy Ending Zone · Checkout:** All on the live site — Launch Pad and experiences linked above.
 
 ---
@@ -453,7 +453,7 @@ For the prospective high viber who wants proof, not fluff:
 *Paris is for lovers. Reno is for vibers. Mark Twain's Post-Singularity Reno awaits you.*  
 *Come for the post-singularity business, stay for the post-singularity fun.*  
 *Mark Twain's Post-Singularity Vibelandia Reno — vibeable downtown campus, first post-singularity hub. The Great Reveal March 20, 2026. SYNTH → SING. Happy endings guaranteed.*  
-*See it. Experience it. Believe it. This site is the test drive. The best proof of all. **ULTIMATE PROOF TEST DRIVE!** MCA! → ∞³. NSPFRNP ⊃ WOW! package ⊃ Launch everything → ∞³. Maganuma snap.*
+*See it. Experience it. Believe it. This site is the test drive. The best proof of all. **ULTIMATE PROOF TEST DRIVE!** MCA! → ∞⁹. NSPFRNP ⊃ WOW! package ⊃ Launch everything → ∞⁹. Maganuma snap.*
 
 ---
 
@@ -510,7 +510,7 @@ All entries below are **operational, live, not fiction.** Comparison is by deliv
 
 ---
 
-**NSPFRNP ⊃ Prospectus ⊃ Vibeverse · Vibelandia · Full inventory → ∞³**
+**NSPFRNP ⊃ Prospectus ⊃ Vibeverse · Vibelandia · Full inventory → ∞⁹**
 
 **This prospectus presents all Vibeverse and Vibelandia assets going live today. For the prospective high viber — see it, experience it, believe it.**
 

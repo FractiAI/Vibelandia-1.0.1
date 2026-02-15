@@ -1,4 +1,4 @@
-# Big Papi (The Architect) — Character SNAP
+﻿# Big Papi (The Architect) — Character SNAP
 
 **SNAP ID:** `BIG-PAPI-ARCHITECT-CHARACTER`  
 **Type:** Character · Canon  
@@ -37,4 +37,4 @@ His offering to pick up the $5B tab is **all about honoring fellow Golden Heart 
 
 ---
 
-**NSPFRNP ⊃ Big Papi ⊃ Architect ⊃ BBHE ⊃ Honors Agüeybaná the peaceful one ⊃ No losers · Win win win → ∞³**
+**NSPFRNP ⊃ Big Papi ⊃ Architect ⊃ BBHE ⊃ Honors Agüeybaná the peaceful one ⊃ No losers · Win win win → ∞⁹**

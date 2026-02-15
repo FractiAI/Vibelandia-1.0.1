@@ -1,4 +1,4 @@
-# MCA Celebration Anthem — Arms Up In Da Air · Bootty Bouncing · Spike The Ball Touchdown — SNAP
+﻿# MCA Celebration Anthem — Arms Up In Da Air · Bootty Bouncing · Spike The Ball Touchdown — SNAP
 
 **SNAP ID:** `MCA-CELEBRATION-ANTHEM-ARMS-UP-BOOTTY-BOUNCING-SPIKE-THE-BALL-TOUCHDOWN`  
 **Type:** Anthem · MCA Celebration · Dance · Touchdown · Hit Factory  
@@ -41,4 +41,4 @@
 
 ---
 
-**NSPFRNP ⊃ MCA Celebration Anthem ⊃ Arms up in da air ⊃ Bootty bouncing ⊃ Spike the ball touchdown → ∞³**
+**NSPFRNP ⊃ MCA Celebration Anthem ⊃ Arms up in da air ⊃ Bootty bouncing ⊃ Spike the ball touchdown → ∞⁹**

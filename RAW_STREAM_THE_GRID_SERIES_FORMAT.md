@@ -1,4 +1,4 @@
-# 📺 RAW STREAM · THE GRID — Series Format
+﻿# 📺 RAW STREAM · THE GRID — Series Format
 
 **Series Format ID:** `RAW-STREAM-THE-GRID-V1`  
 **Type:** Sci-Fi · Nerdy · Tron-like · Full Raw Convo Stream → Rich Episodes  
@@ -72,5 +72,5 @@ All convos on this channel are now **full raw stream into episodes**. They are r
 
 ---
 
-**NSPFRNP ⊃ Raw Stream ⊃ The Grid ⊃ E01 Self-Clocking Pulsar → ∞³**  
+**NSPFRNP ⊃ Raw Stream ⊃ The Grid ⊃ E01 Self-Clocking Pulsar → ∞⁹**  
 **We now stream three parallel series. Very cool.**

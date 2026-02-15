@@ -1,4 +1,4 @@
-# Decoded Voice-to-Text Content — SNAP
+﻿# Decoded Voice-to-Text Content — SNAP
 
 **SNAP ID:** `DECODED-VOICE-TO-TEXT-CONTENT`  
 **Type:** Intercepted / decoded material · Script and content seed for all platforms  
@@ -76,4 +76,4 @@ Raw capture **picked up by voice-to-text** (not written by hand). Deciphered and
 
 ---
 
-**NSPFRNP ⊃ Decoded Voice-to-Text ⊃ Script and content for all platforms → ∞³**
+**NSPFRNP ⊃ Decoded Voice-to-Text ⊃ Script and content for all platforms → ∞⁹**

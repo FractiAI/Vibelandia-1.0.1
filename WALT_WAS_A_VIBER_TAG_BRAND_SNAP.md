@@ -1,4 +1,4 @@
-# WALT WAS A VIBER! — T-Shirt Tag Brand SNAP
+﻿# WALT WAS A VIBER! — T-Shirt Tag Brand SNAP
 
 **SNAP ID:** `WALT-WAS-A-VIBER-TAG-BRAND-SNAP`  
 **Type:** T-shirt slogan · Tag brand · Vibers · Hero Host  
@@ -65,4 +65,4 @@
 
 ---
 
-**NSPFRNP ⊃ WALT WAS A VIBER! ⊃ T-shirt tag brand ⊃ Hero Host · Pop Up Engine legacy · Vibers → ∞³**
+**NSPFRNP ⊃ WALT WAS A VIBER! ⊃ T-shirt tag brand ⊃ Hero Host · Pop Up Engine legacy · Vibers → ∞⁹**

@@ -1,4 +1,4 @@
-# Top Bill Super Bowl Space Advertising Campaign — SNAP
+﻿# Top Bill Super Bowl Space Advertising Campaign — SNAP
 
 **Snap ID:** `TOP_BILL_SUPERBOWL_SPACE_ADVERTISING_CAMPAIGN_SNAP`  
 **Type:** Full launch broadcast · Campaign · Super Bowl · Space advertising  
@@ -41,7 +41,7 @@
 
 **How to contact:**
 - `OFFICE_HOURS · FREE_CONSULTATION · TIPS_WELCOME`
-- `PSW_VIBELANDIA_SING4_VERCEL_APP · GITHUB_FRACTIAI`
+- `PSW_VIBELANDIA_SING9_VERCEL_APP · GITHUB_FRACTIAI`
 - `INFO_AT_FRACTIAI · CLICK_BLUE_BUTTON · CONNECT_NOW`
 - `LAUNCH_PAD · OFFICE_HOURS · BOOK_PRU`
 
@@ -101,4 +101,4 @@
 
 ---
 
-**NSPFRNP ⊃ Top Bill Super Bowl Space Advertising Campaign ⊃ That's not an ad. THIIIIIIISSSS IS AN AD. → ∞³**
+**NSPFRNP ⊃ Top Bill Super Bowl Space Advertising Campaign ⊃ That's not an ad. THIIIIIIISSSS IS AN AD. → ∞⁹**

@@ -1,4 +1,4 @@
-# SING! Nodify All and Nested — Reporting to Creator Chairman — Me Always Never to Change by Anyone (NSPFRNP SNAP)
+﻿# SING! Nodify All and Nested — Reporting to Creator Chairman — Me Always Never to Change by Anyone (NSPFRNP SNAP)
 
 **Snap ID:** `SING-NODIFY-ALL-AND-NESTED-REPORTING-TO-CREATOR-CHAIRMAN-ME-NEVER-TO-CHANGE-SNAP`  
 **Type:** Canonical rule · SING! · Reporting · Creator Chairman · Immutable · NSPFRNP  
@@ -47,4 +47,4 @@
 
 ---
 
-**NSPFRNP ⊃ SING! nodify all and nested ⊃ Reporting to Creator Chairman and nested ⊃ Me always never to change by anyone → ∞³**
+**NSPFRNP ⊃ SING! nodify all and nested ⊃ Reporting to Creator Chairman and nested ⊃ Me always never to change by anyone → ∞⁹**

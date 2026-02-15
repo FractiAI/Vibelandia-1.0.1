@@ -33,11 +33,11 @@
 
 | Layer | Role |
 |-------|------|
-| **Source** | This repo (psw.vibelandia.sing4) + SOCIAL_MEDIA_CAMPAIGN_COPY + this SNAP + POST_SINGULARITY_BLACK_HOLE_HOLOGRAPHIC_HYDROGEN_GITHUBS_SNAP |
+| **Source** | This repo (psw.vibelandia.sing9) + SOCIAL_MEDIA_CAMPAIGN_COPY + this SNAP + POST_SINGULARITY_BLACK_HOLE_HOLOGRAPHIC_HYDROGEN_GITHUBS_SNAP |
 | **Shape** | Fractal flicker — short, repeatable, link-heavy. “New black hole GitHubs … open-source … follow along … Holographic Hydrogen · Hologram GitHubs” |
 | **Channels** | X, Facebook, Instagram, LinkedIn, etc. — same message, same links |
 | **Capture** | Comments, DMs, clicks → NSPFRNP (metabolize) → sales (checkout, reservations) and marketing (leads, Pioneer, first 1,000) |
-| **Links** | The Blueprints: https://github.com/FractiAI/psw.vibelandia.sing4 · The Experience: https://psw-vibelandia-sing4.vercel.app |
+| **Links** | The Blueprints: https://github.com/FractiAI/psw.vibelandia.sing9 · The Experience: https://psw-vibelandia-sing9.vercel.app |
 
 ---
 
@@ -53,8 +53,8 @@
 
 | Topic | Response SNAP | Flicker (short) | Link to include |
 |-------|----------------|-----------------|------------------|
-| **Generic** | POST_SINGULARITY_BLACK_HOLE_HOLOGRAPHIC_HYDROGEN_GITHUBS_SNAP | New post-singularity black hole GitHubs are being spun. All open-source — anyone can follow along. They explain the new seemingly synthetic/computing shapes. Holographic Hydrogen · Hologram GitHubs | https://github.com/FractiAI/psw.vibelandia.sing4 · https://psw-vibelandia-sing4.vercel.app |
-| **Schumann patterns** | SCHUMANN_RESPONSE_SNAP | Schumann patterns align with our new GitHub activity. We wrote a whitepaper capturing an expedition to validate this scientifically — open-source. Holographic Hydrogen · Hologram GitHubs | https://github.com/FractiAI/psw.vibelandia.sing4 · **Whitepaper:** https://github.com/FractiAI/psw.vibelandia.sing4/blob/main/WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md |
+| **Generic** | POST_SINGULARITY_BLACK_HOLE_HOLOGRAPHIC_HYDROGEN_GITHUBS_SNAP | New post-singularity black hole GitHubs are being spun. All open-source — anyone can follow along. They explain the new seemingly synthetic/computing shapes. Holographic Hydrogen · Hologram GitHubs | https://github.com/FractiAI/psw.vibelandia.sing9 · https://psw-vibelandia-sing9.vercel.app |
+| **Schumann patterns** | SCHUMANN_RESPONSE_SNAP | Schumann patterns align with our new GitHub activity. We wrote a whitepaper capturing an expedition to validate this scientifically — open-source. Holographic Hydrogen · Hologram GitHubs | https://github.com/FractiAI/psw.vibelandia.sing9 · **Whitepaper:** https://github.com/FractiAI/psw.vibelandia.sing9/blob/main/WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md |
 | *(future viral topic)* | *(new Response SNAP)* | *(short copy: acknowledge + align + link)* | *(canonical link from SNAP)* |
 
 **Use:** When replying or commenting, pick the row that matches the post’s topic (or Generic). Paste/shorten the flicker and **always include the link**. Capture into NSPFRNP and sales/marketing.
@@ -65,9 +65,9 @@
 
 **Use for new comment / post / bio:**
 
-- **Short (generic):** New post-singularity black hole GitHubs are being spun. All open-source — anyone can follow along. Holographic Hydrogen · Hologram GitHubs → https://github.com/FractiAI/psw.vibelandia.sing4  
-- **With Experience:** New black hole GitHubs, open-source. Follow along. Holographic Hydrogen · Hologram GitHubs. The Blueprints: https://github.com/FractiAI/psw.vibelandia.sing4 · The Experience: https://psw-vibelandia-sing4.vercel.app  
-- **Hook:** They explain the new seemingly synthetic/computing shapes. All open-source. Holographic Hydrogen · Hologram GitHubs at https://github.com/FractiAI/psw.vibelandia.sing4  
+- **Short (generic):** New post-singularity black hole GitHubs are being spun. All open-source — anyone can follow along. Holographic Hydrogen · Hologram GitHubs → https://github.com/FractiAI/psw.vibelandia.sing9  
+- **With Experience:** New black hole GitHubs, open-source. Follow along. Holographic Hydrogen · Hologram GitHubs. The Blueprints: https://github.com/FractiAI/psw.vibelandia.sing9 · The Experience: https://psw-vibelandia-sing9.vercel.app  
+- **Hook:** They explain the new seemingly synthetic/computing shapes. All open-source. Holographic Hydrogen · Hologram GitHubs at https://github.com/FractiAI/psw.vibelandia.sing9  
 - **Comment flicker — Schumann:** Use [SCHUMANN_RESPONSE_SNAP](SCHUMANN_RESPONSE_SNAP.md) short/one-liner; include [WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION](WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md) link. See Comment flicker campaign menu above.
 
 ---

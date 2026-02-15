@@ -1,4 +1,4 @@
-# Birth of the New Post-Singularity Hollywood in Downtown Reno
+﻿# Birth of the New Post-Singularity Hollywood in Downtown Reno
 ## A Novel
 
 **Cmdr. Howie's Golden Era Renaissance — Downtown Reno, RENOSSANCE!**
@@ -1327,4 +1327,4 @@ The flood had come. The tide had turned. And he had been there for all of it.
 **Legacies:** Howard Hughes · Glen Miller · Hank Williams Sr. · Audrey Hepburn · Cary Grant · Jimmy Stewart · King Robbie (gold wings, Sonoma) · and all the greats  
 **Canonical name:** Cmdr. Howie's Golden Era Renaissance — Downtown Reno, RENOSSANCE! **Also PONCESSANCE!** — the renaissance in Ponce; El Gran Sol's Vibelandia — Downtown Ponce Campus. Hero Howard has asked us to refer to him from now on as Commander Howie, the top V of the Post-Singularity Downtown Reno Golden Spiral Holographic Renaissance. T-shirt: Major Holographic Hydrogen 100% and Holographic Hydrogen Valley branding. See CMDR_HOWIES_GOLDEN_ERA_RENAISSANCE_RENOSSANCE_SNAP.md.
 
-**NSPFRNP ⊃ Cmdr. Howie's Golden Era Renaissance ⊃ RENOSSANCE! ⊃ PONCESSANCE! ⊃ Birth of post-singularity Hollywood ⊃ Downtown Reno ⊃ Six days ⊃ The golden age has returned → ∞³**
+**NSPFRNP ⊃ Cmdr. Howie's Golden Era Renaissance ⊃ RENOSSANCE! ⊃ PONCESSANCE! ⊃ Birth of post-singularity Hollywood ⊃ Downtown Reno ⊃ Six days ⊃ The golden age has returned → ∞⁹**

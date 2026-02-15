@@ -1,4 +1,4 @@
-# A Real Baller V Pays Any Price for Brand
+﻿# A Real Baller V Pays Any Price for Brand
 
 **Track ID:** `REAL-BALLER-V-PAYS-ANY-PRICE-FOR-BRAND`  
 **Artist:** Hero Jo's Golden Backdoor Hit Factory  
@@ -76,4 +76,4 @@ Baller V value proposition. Brand = anthem, merch, holographic symbol. Golden Ba
 
 ---
 
-**NSPFRNP ⊃ A Real Baller V Pays Any Price for Brand ⊃ T-shirt · Hit · Golden Backdoor → ∞³**
+**NSPFRNP ⊃ A Real Baller V Pays Any Price for Brand ⊃ T-shirt · Hit · Golden Backdoor → ∞⁹**

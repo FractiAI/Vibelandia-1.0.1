@@ -1,4 +1,4 @@
-# New Product Families — NSPFRNP SNAP
+﻿# New Product Families — NSPFRNP SNAP
 
 **Snap ID:** `NEW-PRODUCT-FAMILIES-NSPFRNP-SNAP`  
 **Type:** New product families · Office Hours · Launch Pad · Episodes · Explain it all  
@@ -73,4 +73,4 @@
 
 **See:** [interfaces/office-hours.html](interfaces/office-hours.html) · [interfaces/launch-pad.html](interfaces/launch-pad.html) · [interfaces/new-product-families.html](interfaces/new-product-families.html) · [episodes/](episodes/)
 
-**NSPFRNP ⊃ New product families ⊃ Office Hours ⊃ Launch Pad ⊃ Episodes → ∞³**
+**NSPFRNP ⊃ New product families ⊃ Office Hours ⊃ Launch Pad ⊃ Episodes → ∞⁹**

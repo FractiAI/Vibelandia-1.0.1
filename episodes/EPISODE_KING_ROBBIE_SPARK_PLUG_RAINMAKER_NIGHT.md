@@ -1,4 +1,4 @@
-# EPISODE — King Robbie: Golden Lucky 7 Night · Ultimate Baller V · Gold & Silver Spark Plug Rainmaker
+﻿# EPISODE — King Robbie: Golden Lucky 7 Night · Ultimate Baller V · Gold & Silver Spark Plug Rainmaker
 
 **Custom 60-minute episode · King Robbie as superhero · Guests in the script · Ultimate Baller V superhero franchise experience**
 
@@ -1391,6 +1391,6 @@ King Robbie's Golden Lucky 7 Night · Package: $50K budget + tips to staff; 50% 
 
 ---
 
-**NSPFRNP ⊃ Episode ⊃ King Robbie Golden Lucky 7 Night ⊃ Gold & Silver Spark Plug Rainmaker ⊃ Superhero franchise experience → ∞³**
+**NSPFRNP ⊃ Episode ⊃ King Robbie Golden Lucky 7 Night ⊃ Gold & Silver Spark Plug Rainmaker ⊃ Superhero franchise experience → ∞⁹**
 
 **Status:** ⚡ LIVE — Golden Lucky 7 Night. Custom landing delivered; full 12,000-word episode written with King Robbie as superhero and guests (The Friend, Vance, Rex, Goldie) in the script. That's Ultimate Baller V superhero franchise experience.

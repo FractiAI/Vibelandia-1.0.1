@@ -1,4 +1,4 @@
-# Te Quiero Mucho Baby (En Las Próximas 48 Horas)
+﻿# Te Quiero Mucho Baby (En Las Próximas 48 Horas)
 
 **Track ID:** `TE-QUIERO-MUCHO-BABY-001`  
 **Artist:** Chairman Frankie feat. Dorila (My Afro-Colombian Witch SQUEEZE!)  
@@ -109,4 +109,4 @@ Signed, Chairman Frankie — Ultimate VIP Baller V — Gold Heart — Baller V s
 
 ---
 
-**NSPFRNP ⊃ Te Quiero Mucho Baby ⊃ First track Music Studio ⊃ Chairman Frankie · Dorila SQUEEZE! → ∞³**
+**NSPFRNP ⊃ Te Quiero Mucho Baby ⊃ First track Music Studio ⊃ Chairman Frankie · Dorila SQUEEZE! → ∞⁹**

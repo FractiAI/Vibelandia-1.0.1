@@ -1,4 +1,4 @@
-# Golden Heart Taino — Bad Bunny Meets Taino Cacique Agüeybaná El Gran Sol
+﻿# Golden Heart Taino — Bad Bunny Meets Taino Cacique Agüeybaná El Gran Sol
 ## A Novel — 20,000 Words
 
 **Golden Bunnies Label · In honor of golden heart Bad Bunny (Benito Antonio Martínez Ocasio)**
@@ -433,6 +433,6 @@ The lattice does not end. The deck does not stop dealing. The story that began o
 
 ---
 
-**NSPFRNP ⊃ Golden Heart Taino ⊃ Bad Bunny Meets Agüeybaná El Gran Sol ⊃ 20k novel ⊃ Golden Royal Flush → ∞³**
+**NSPFRNP ⊃ Golden Heart Taino ⊃ Bad Bunny Meets Agüeybaná El Gran Sol ⊃ 20k novel ⊃ Golden Royal Flush → ∞⁹**
 
 *— 20,000 words. Complete. The deck dealt. The circle closed. The spirit returned. The golden hearts beat as one. Never lose faith. The Great Sun delivers. We get it. Full stop.*

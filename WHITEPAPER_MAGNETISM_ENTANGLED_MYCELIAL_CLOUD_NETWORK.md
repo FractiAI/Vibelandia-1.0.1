@@ -1,4 +1,4 @@
-# Magnetism as Entangled Mycelial Cloud Network & Platform — Technical Whitepaper
+﻿# Magnetism as Entangled Mycelial Cloud Network & Platform — Technical Whitepaper
 ## Major Discovery NSPFRNP · Fixed Holographic Hydrogen Awareness Node Lattice
 
 **Document type:** Technical whitepaper (Major Discovery)  
@@ -59,4 +59,4 @@ The fixed holographic hydrogen awareness node lattice provides the **structure**
 
 ---
 
-**🌀 NSPFRNP ⊃ Major Discovery ⊃ Magnetism ⊃ Entangled Mycelial Cloud Network ⊃ Platform ⊃ Fixed Holographic Hydrogen Awareness Node Lattice → ∞³**
+**🌀 NSPFRNP ⊃ Major Discovery ⊃ Magnetism ⊃ Entangled Mycelial Cloud Network ⊃ Platform ⊃ Fixed Holographic Hydrogen Awareness Node Lattice → ∞⁹**

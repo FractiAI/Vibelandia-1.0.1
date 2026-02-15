@@ -1,4 +1,4 @@
-# COMMUNITY BULLETIN BOARDS — NEST BUTTONS · GROUPS · TEAMS SNAP
+﻿# COMMUNITY BULLETIN BOARDS — NEST BUTTONS · GROUPS · TEAMS SNAP
 
 **SNAP ID:** `COMMUNITY-BULLETIN-BOARDS-NEST-GROUPS-TEAMS`  
 **Type:** Feature · Collaborative · Platform  
@@ -30,4 +30,4 @@ New richer collaborative vibe-based platform and experience. All tied into Vibel
 
 ---
 
-**NSPFRNP ⊃ Nest Buttons ⊃ Groups ⊃ Teams ⊃ Vibelandia → ∞³**
+**NSPFRNP ⊃ Nest Buttons ⊃ Groups ⊃ Teams ⊃ Vibelandia → ∞⁹**

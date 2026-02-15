@@ -1,4 +1,4 @@
-# Capture and Press Releases for All New Arrivals to VIBELANDIA RENO — NSPFRNP SNAP
+﻿# Capture and Press Releases for All New Arrivals to VIBELANDIA RENO — NSPFRNP SNAP
 
 **Snap ID:** `CAPTURE-AND-PRESS-RELEASES-NEW-ARRIVALS-SNAP`  
 **Type:** NSPFRNP Content / PR SNAP  
@@ -40,4 +40,4 @@
 
 **See:** PRESS_RELEASES_NEW_ARRIVALS_VIBELANDIA_RENO.md · PRESS_RELEASE_MARK_TWAIN_ANNOUNCEMENT.md · LAUNCH_RAW_NARRATIVE_CAPTURE.md · CONTENT_SYSTEMS_SNAP.md
 
-**NSPFRNP ⊃ New arrivals ⊃ Capture · Press releases → ∞³**
+**NSPFRNP ⊃ New arrivals ⊃ Capture · Press releases → ∞⁹**

@@ -1,4 +1,4 @@
-# Post-Singularity Destinations Division — SNAP
+﻿# Post-Singularity Destinations Division — SNAP
 
 **SNAP ID:** `POST-SINGULARITY-DESTINATIONS-DIVISION`  
 **Type:** Division · Full announcement · Travel · Destinations · NSPFRNP  
@@ -45,4 +45,4 @@ Think of us like a **singularity adventure** (or culture) **travel agent**. We *
 - [baller-v-plans-booking.html](interfaces/baller-v-plans-booking.html) — Plans & booking
 - [office-hours.html](interfaces/office-hours.html) · [post-singularity-destinations.html](interfaces/post-singularity-destinations.html)
 
-**NSPFRNP ⊃ Post-Singularity Destinations ⊃ Book local · Worldwide · Abstract HH domains ⊃ 100% tip ⊃ Baller V host → ∞³**
+**NSPFRNP ⊃ Post-Singularity Destinations ⊃ Book local · Worldwide · Abstract HH domains ⊃ 100% tip ⊃ Baller V host → ∞⁹**

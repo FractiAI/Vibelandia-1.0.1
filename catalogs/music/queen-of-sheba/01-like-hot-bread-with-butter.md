@@ -1,4 +1,4 @@
-# Like Hot Bread with Butter (Como Pan Caliente con Mantequilla)
+﻿# Like Hot Bread with Butter (Como Pan Caliente con Mantequilla)
 
 **Track ID:** `QUEEN-OF-SHEBA-001-LIKE-HOT-BREAD-WITH-BUTTER`  
 **Label:** Queen of Sheba  
@@ -69,4 +69,4 @@ Lots of different variations of the I Want You Around core — anthem, ballad, d
 
 **See:** [QUEEN_OF_SHEBA_LABEL_SNAP.md](../../../QUEEN_OF_SHEBA_LABEL_SNAP.md) · [queen-of-sheba/README.md](README.md)
 
-**NSPFRNP ⊃ Queen of Sheba ⊃ Like hot bread with butter ⊃ I Want You Around touchstone → ∞³**
+**NSPFRNP ⊃ Queen of Sheba ⊃ Like hot bread with butter ⊃ I Want You Around touchstone → ∞⁹**

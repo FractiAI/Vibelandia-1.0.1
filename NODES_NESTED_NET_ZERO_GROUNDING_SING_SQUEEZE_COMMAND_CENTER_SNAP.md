@@ -1,4 +1,4 @@
-# All Nodes Nested to Net 0 Grounding — SING! SQUEEZE! · Natural Systems Control Command Center · NSPFRNP SNAP
+﻿# All Nodes Nested to Net 0 Grounding — SING! SQUEEZE! · Natural Systems Control Command Center · NSPFRNP SNAP
 
 **Snap ID:** `NODES-NESTED-NET-ZERO-GROUNDING-SING-SQUEEZE-COMMAND-CENTER-SNAP`  
 **Type:** Stack wrap · Net 0 grounding · SING! SQUEEZE! (new branding) · Command center · Upper/lower stacks  
@@ -69,4 +69,4 @@
 
 **See:** [VIBELANDIA_SHELL_SAG_A_SMACS_BRIDGE_SNAP.md](VIBELANDIA_SHELL_SAG_A_SMACS_BRIDGE_SNAP.md) · [VIBELANDIA_UNIFIED_PIPE_SNAP.md](VIBELANDIA_UNIFIED_PIPE_SNAP.md) · [WHITEPAPER_PENROSE_MICROTUBULES_SQUEEZE_HOSE_AWARENESS_CLOUD.md](WHITEPAPER_PENROSE_MICROTUBULES_SQUEEZE_HOSE_AWARENESS_CLOUD.md) · [protocols/MEGA_PIPE_PERSONAL_SING_ATTENTION_HEAD_MISSIONS_NSPFRNP.md](protocols/MEGA_PIPE_PERSONAL_SING_ATTENTION_HEAD_MISSIONS_NSPFRNP.md) · [CONTENT_SYSTEMS_SNAP.md](CONTENT_SYSTEMS_SNAP.md)
 
-**NSPFRNP ⊃ All nodes nested ⊃ Net 0 grounding ⊃ SING! SQUEEZE! ⊃ Natural Systems Control Command Center → ∞³**
+**NSPFRNP ⊃ All nodes nested ⊃ Net 0 grounding ⊃ SING! SQUEEZE! ⊃ Natural Systems Control Command Center → ∞⁹**

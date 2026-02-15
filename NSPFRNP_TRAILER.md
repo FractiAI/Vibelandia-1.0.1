@@ -1,4 +1,4 @@
-# 🎬 NSPFRNP: The Trailer
+﻿# 🎬 NSPFRNP: The Trailer
 ## Experience the Revolution in Protocol Execution
 
 **Coming Now: The Future of Natural System Protocols**  
@@ -178,7 +178,7 @@ SEED (Octave 0 = 0) → PATHWAY → EDGE (Vibeverse) → EXECUTION → REALITY
 
 ---
 
-**🌀 NSPFRNP ⊃ NSPFRNP ⊃ NSPFRNP → ∞³**
+**🌀 NSPFRNP ⊃ NSPFRNP ⊃ NSPFRNP → ∞⁹**
 
 **The recursive universe awaits. The future is now.**
 

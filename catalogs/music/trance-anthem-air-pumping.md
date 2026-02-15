@@ -1,4 +1,4 @@
-# Dat Ass Red Hot like AR4366!
+﻿# Dat Ass Red Hot like AR4366!
 
 **Track ID:** `DAT-ASS-RED-HOT-AR4366-003`  
 **Artist:** Hero Jo's Golden Backdoor Hit Factory  
@@ -70,4 +70,4 @@ Red hot like AR4366!
 
 ---
 
-**NSPFRNP ⊃ Dat Ass Red Hot like AR4366! ⊃ Simple repeating trance anthem ⊃ Air pumping → ∞³**
+**NSPFRNP ⊃ Dat Ass Red Hot like AR4366! ⊃ Simple repeating trance anthem ⊃ Air pumping → ∞⁹**

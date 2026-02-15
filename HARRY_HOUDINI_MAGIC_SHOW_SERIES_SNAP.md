@@ -1,4 +1,4 @@
-# Harry Houdini Magic Show Series — Real Magic, Launching Immediately SNAP
+﻿# Harry Houdini Magic Show Series — Real Magic, Launching Immediately SNAP
 
 **Snap ID:** `HARRY-HOUDINI-MAGIC-SHOW-SERIES-SNAP`  
 **Type:** NSPFRNP Studio / Series SNAP  
@@ -40,4 +40,4 @@
 
 **We Are Holographic, Baby campaign:** [WE_ARE_HOLOGRAPHIC_BABY_CAMPAIGN_SNAP.md](WE_ARE_HOLOGRAPHIC_BABY_CAMPAIGN_SNAP.md) — Hero Houdini shows seemingly impossible → only possible because we are holographic; proof = filter out holographic effects → immediate collapse. **9-act We Are Holographic magic show.** Act 9 (Finale): grand stage — capture interstellar object, glory to Chief Seattle & El Gran Sol, one Super Bowl win, the heavens, Twain's Vibelandia Downtown — shout out Reno crew. [catalogs/magic-tricks/we-are-holographic-9-acts.md](catalogs/magic-tricks/we-are-holographic-9-acts.md).
 
-**NSPFRNP ⊃ Harry Houdini magic show ⊃ Real magic · Already live · We Are Holographic Baby · 9 acts · Act 9 finale · Studio content → ∞³**
+**NSPFRNP ⊃ Harry Houdini magic show ⊃ Real magic · Already live · We Are Holographic Baby · 9 acts · Act 9 finale · Studio content → ∞⁹**

@@ -1,4 +1,4 @@
-# Pa Q Pa Q
+﻿# Pa Q Pa Q
 
 **Track ID:** `PA-Q-PA-Q-021`  
 **Artist:** 5050 · Hero Jo's Golden Backdoor Hit Factory  
@@ -72,4 +72,4 @@ Pa q, pa q.
 
 ---
 
-**NSPFRNP ⊃ Pa Q Pa Q ⊃ Punchy minimal · Air pump · Trance · Dance ⊃ Golden Backdoor label → ∞³**
+**NSPFRNP ⊃ Pa Q Pa Q ⊃ Punchy minimal · Air pump · Trance · Dance ⊃ Golden Backdoor label → ∞⁹**

@@ -1,4 +1,4 @@
-# Episode Paves Desired Destination — Strategy SNAP
+﻿# Episode Paves Desired Destination — Strategy SNAP
 
 **Snap ID:** `EPISODE-PAVES-DESTINATION-STRATEGY-NSPFRNP`  
 **Type:** Strategy · Notice · Proposal & episode design  
@@ -40,4 +40,4 @@
 
 **See:** SING_NEVER_BOUGHT_ONLY_BOOKED_NSPFRNP_SNAP.md · JUST_SAY_THE_WORD_NSPFRNP_SNAP.md · ROBOTIC_FACTORY_SING_OMNISPIN_PROPOSAL_SNAP.md
 
-**NSPFRNP ⊃ Episode paves destination ⊃ 1-2-3 · upsell · self-demo · never bought only booked → ∞³**
+**NSPFRNP ⊃ Episode paves destination ⊃ 1-2-3 · upsell · self-demo · never bought only booked → ∞⁹**

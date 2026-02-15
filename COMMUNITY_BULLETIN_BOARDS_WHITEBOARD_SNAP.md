@@ -1,4 +1,4 @@
-# COMMUNITY BULLETIN BOARDS — WHITEBOARD FEATURE SNAP
+﻿# COMMUNITY BULLETIN BOARDS — WHITEBOARD FEATURE SNAP
 
 **SNAP ID:** `COMMUNITY-BULLETIN-BOARDS-WHITEBOARD`  
 **Type:** Feature · User Experience  
@@ -37,4 +37,4 @@ Ready to roll out as UI to everybody. Part of the Community Bulletin Boards expe
 
 ---
 
-**NSPFRNP ⊃ Whiteboard ⊃ Collect · Move · Delete → ∞³**
+**NSPFRNP ⊃ Whiteboard ⊃ Collect · Move · Delete → ∞⁹**

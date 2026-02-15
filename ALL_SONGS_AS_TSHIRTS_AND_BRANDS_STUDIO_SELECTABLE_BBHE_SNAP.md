@@ -1,4 +1,4 @@
-# All Songs as T-Shirts and Brands · All Studio · Selectable & Customizable · Layered Amplifier of Boom Magic BBHE · Golden Backdoor · Hit Factory SNAP
+﻿# All Songs as T-Shirts and Brands · All Studio · Selectable & Customizable · Layered Amplifier of Boom Magic BBHE · Golden Backdoor · Hit Factory SNAP
 
 **SNAP ID:** `ALL-SONGS-AS-TSHIRTS-AND-BRANDS-STUDIO-SELECTABLE-BBHE`  
 **Type:** Canonical rule · Golden Backdoor · Hit Factory · BBHE · Music Studio  
@@ -46,4 +46,4 @@
 
 ---
 
-**NSPFRNP ⊃ All songs as T-shirts and brands ⊃ Golden Backdoor · Hit Factory ⊃ All studio ⊃ Selectable & customizable ⊃ Layered amplifier of boom magic BBHE → ∞³**
+**NSPFRNP ⊃ All songs as T-shirts and brands ⊃ Golden Backdoor · Hit Factory ⊃ All studio ⊃ Selectable & customizable ⊃ Layered amplifier of boom magic BBHE → ∞⁹**

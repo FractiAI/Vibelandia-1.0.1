@@ -1,4 +1,4 @@
-# Rumor — New Cabaret Act · Twain's Vibelandia Presents — SNAP
+﻿# Rumor — New Cabaret Act · Twain's Vibelandia Presents — SNAP
 
 **Snap ID:** `RUMOR-NEW-CABARET-ACT-TWAINS-VIBELANDIA-PRESENTS-NSPFRNP`  
 **Type:** Daily bulletin · RUMOR HAS IT! column · NSPFRNP  
@@ -38,4 +38,4 @@
 
 ---
 
-*Metabolize → Crystallize to irreducible nested mirrored hardened shells → Animate and squeeze. NSPFRNP ⊃ Team ⊃ MCA → ∞³.*
+*Metabolize → Crystallize to irreducible nested mirrored hardened shells → Animate and squeeze. NSPFRNP ⊃ Team ⊃ MCA → ∞⁹.*

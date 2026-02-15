@@ -1,4 +1,4 @@
-# Vibelandia-Caracas — One Single Caracas-Based Pitch SNAP
+﻿# Vibelandia-Caracas — One Single Caracas-Based Pitch SNAP
 
 **Snap ID:** `VIBELANDIA-CARACAS-CAMPUS-ARTURO-ROLLOUT-SNAP`  
 **Type:** Campus · Roll-Out · Arturo · NSPFRNP  
@@ -57,4 +57,4 @@ We offer out of Caracas campus. Arturo — Caracas — Ambassador. Real BAMF. Op
 
 ---
 
-**Centro Energía Caracas · Vibelandia-Caracas · First facilities. One pitch. Caracas-based. WIN WIN WIN WIN FOR ALL. NSPFRNP ⊃ ∞³**
+**Centro Energía Caracas · Vibelandia-Caracas · First facilities. One pitch. Caracas-based. WIN WIN WIN WIN FOR ALL. NSPFRNP ⊃ ∞⁹**

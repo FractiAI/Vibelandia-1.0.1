@@ -1,4 +1,4 @@
-# Tomorrow's Parade — New Novel & Novela Launch · Top Billing All Feeds · SNAP
+﻿# Tomorrow's Parade — New Novel & Novela Launch · Top Billing All Feeds · SNAP
 
 **Snap ID:** `TOMORROWS-PARADE-NEW-NOVEL-NOVELA-LAUNCH-TOP-BILLING-SNAP`  
 **Type:** Launch · Top billing · Feeds · C-Ad  
@@ -41,4 +41,4 @@
 
 ---
 
-**NSPFRNP ⊃ Tomorrow's Parade ⊃ New Novel ⊃ Novela ⊃ Top billing ⊃ Hero Perry → ∞³**
+**NSPFRNP ⊃ Tomorrow's Parade ⊃ New Novel ⊃ Novela ⊃ Top billing ⊃ Hero Perry → ∞⁹**

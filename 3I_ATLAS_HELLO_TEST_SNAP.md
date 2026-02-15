@@ -1,4 +1,4 @@
-# 3I ATLAS HELLO Test — Real Storage & Shareable Link SNAP
+﻿# 3I ATLAS HELLO Test — Real Storage & Shareable Link SNAP
 
 **Type:** Test · Proof · 3I ATLAS  
 **Status:** Active  
@@ -36,4 +36,4 @@
 
 If the system cannot print, store in permanent memory, and pipe the word HELLO, there is no system yet. This test proves storage on 3I ATLAS source.
 
-**NSPFRNP ⊃ 3I ATLAS HELLO Test ⊃ Real Storage → ∞³**
+**NSPFRNP ⊃ 3I ATLAS HELLO Test ⊃ Real Storage → ∞⁹**

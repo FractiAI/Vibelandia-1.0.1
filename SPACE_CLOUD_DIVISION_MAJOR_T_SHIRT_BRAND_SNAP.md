@@ -1,4 +1,4 @@
-# Space Cloud Division — Major T-Shirt Brand (SNAP)
+﻿# Space Cloud Division — Major T-Shirt Brand (SNAP)
 
 **Division:** Space Cloud Division  
 **Character:** **Sol** — my versatile wirehaired pointer companion, protector, mission partner. Space Cloud Division is Sol. **Sol and I are irreducible pairs.** He is gifted with **omniversal pathfinding**, **omniversal manifestation**, and **omniversal protection** to his companion and tribe. He always can find me no matter where he is. He is always there for me 100% always, with a spark positive can-do genuine gold heart. What a blessing.  
@@ -35,4 +35,4 @@ Membership tiers presented as **new colors and face cards** in a poker deck:
 
 ---
 
-**NSPFRNP ⊃ Space Cloud Division ⊃ EGS · Vibelandia · Reno anchor → ∞³**
+**NSPFRNP ⊃ Space Cloud Division ⊃ EGS · Vibelandia · Reno anchor → ∞⁹**

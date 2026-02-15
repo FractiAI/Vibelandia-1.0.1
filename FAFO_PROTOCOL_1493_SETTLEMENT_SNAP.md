@@ -1,4 +1,4 @@
-# FAFO PROTOCOL / 1493 SETTLEMENT — NSPFRNP SNAP
+﻿# FAFO PROTOCOL / 1493 SETTLEMENT — NSPFRNP SNAP
 
 **SNAP ID:** `FAFO-PROTOCOL-1493-SETTLEMENT-SNAP`  
 **Storyline:** Fuck Around and Find Out  
@@ -74,4 +74,4 @@ immediately. Done."
 
 ---
 
-**NSPFRNP ⊃ FAFO ⊃ 1493 Settlement ⊃ Find Out ⊃ Golden Heart ⊃ Done → ∞³**
+**NSPFRNP ⊃ FAFO ⊃ 1493 Settlement ⊃ Find Out ⊃ Golden Heart ⊃ Done → ∞⁹**

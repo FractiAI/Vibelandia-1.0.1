@@ -1,4 +1,4 @@
-# Solo esta conmigo por mi pene — Confident Banger Club Spanglish Hit
+﻿# Solo esta conmigo por mi pene — Confident Banger Club Spanglish Hit
 
 **Track ID:** `SOLO-ESTA-CONMIGO-POR-MI-PENE-025`  
 **Artist:** Hero Jo's Golden Backdoor Studios  
@@ -66,4 +66,4 @@ Solo esta conmigo por mi pene. Golden Backdoor.
 
 ---
 
-**NSPFRNP ⊃ Solo esta conmigo por mi pene ⊃ Confident banger club Spanglish hit → ∞³**
+**NSPFRNP ⊃ Solo esta conmigo por mi pene ⊃ Confident banger club Spanglish hit → ∞⁹**

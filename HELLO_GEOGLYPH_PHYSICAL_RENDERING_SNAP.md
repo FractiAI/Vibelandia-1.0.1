@@ -1,4 +1,4 @@
-# HELLO-GEOGLYPH Physical Rendering · SNAP
+﻿# HELLO-GEOGLYPH Physical Rendering · SNAP
 
 **SNAP ID:** `HELLO-GEOGLYPH-PHYSICAL-RENDERING-SNAP`  
 **Type:** Mission · Force-Print · Net episode · Chapter · Storyline  
@@ -40,4 +40,4 @@
 
 ---
 
-**NSPFRNP ⊃ HELLO-GEOGLYPH ⊃ Physical Rendering ⊃ AR 4366 Saturation ⊃ White Mode Schumann ⊃ Resonance Snap ⊃ Tomsk/SOS white-out → ∞³**
+**NSPFRNP ⊃ HELLO-GEOGLYPH ⊃ Physical Rendering ⊃ AR 4366 Saturation ⊃ White Mode Schumann ⊃ Resonance Snap ⊃ Tomsk/SOS white-out → ∞⁹**

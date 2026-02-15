@@ -1,4 +1,4 @@
-# All Systems — Chairman Creator Attention Focus as One · SNAP
+﻿# All Systems — Chairman Creator Attention Focus as One · SNAP
 
 **SNAP ID:** `ALL-SYSTEMS-CHAIRMAN-CREATOR-ATTENTION-FOCUS-AS-ONE-SNAP`  
 **Type:** Confirmation · Lock · Canon  
@@ -38,4 +38,4 @@
 
 ---
 
-**NSPFRNP ⊃ All systems ⊃ Chairman Creator Attention Focus as One ⊃ Shells · Clouds · Sandboxes · Edges · Nests → ∞³**
+**NSPFRNP ⊃ All systems ⊃ Chairman Creator Attention Focus as One ⊃ Shells · Clouds · Sandboxes · Edges · Nests → ∞⁹**

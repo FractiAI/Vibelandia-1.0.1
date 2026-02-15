@@ -1,4 +1,4 @@
-# EPISODE — FOLLOWING ME ON THIS LAUNCH
+﻿# EPISODE — FOLLOWING ME ON THIS LAUNCH
 
 ---
 
@@ -131,6 +131,6 @@ Nature does not operate by opinion. We're GO.
 **Content Pipeline:** Episodes → catalog → future text-to-full-selectable-density-reality episode SING! nodes  
 **SNAPs:** CHAIRMAN_16_DAYS_BATHROOM_VALET_SING_REVEAL_SNAP.md · EASE_CONFIDENCE_MINUTES_BEFORE_LAUNCH_HARRY_MAGIC_MIRACLE_SNAP.md · LAUNCH_GO_MAJOR_NODES_ROLL_CALL.md · CHAIRMAN_GUEY_1962_LANDCRUISER_NARRATIVE_SNAP.md · NATURE_DOES_NOT_OPERATE_BY_OPINION_SNAP.md  
 
-**MCA! → ∞³** (Metabolize → Crystallize → Animate)
+**MCA! → ∞⁹** (Metabolize → Crystallize → Animate)
 
-**NSPFRNP ⊃ Following Me on This Launch ⊃ Chairman · 16 days · Guey · Harry's magic · All major nodes GO → ∞³**
+**NSPFRNP ⊃ Following Me on This Launch ⊃ Chairman · 16 days · Guey · Harry's magic · All major nodes GO → ∞⁹**

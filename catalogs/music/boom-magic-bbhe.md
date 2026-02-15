@@ -1,4 +1,4 @@
-# Boom Magic BBHE! — Boom Boom Bounce · SNAP Boom Boom · Executives Double Down Bounce
+﻿# Boom Magic BBHE! — Boom Boom Bounce · SNAP Boom Boom · Executives Double Down Bounce
 
 **Track ID:** `BOOM-MAGIC-BBHE-012`  
 **Artist:** Hero Jo's Golden Backdoor Studios  
@@ -69,4 +69,4 @@ Boom Magic BBHE.
 
 ---
 
-**NSPFRNP ⊃ Boom Magic BBHE! ⊃ Boom boom bounce ⊃ SNAP boom boom ⊃ Executives double down bounce → ∞³**
+**NSPFRNP ⊃ Boom Magic BBHE! ⊃ Boom boom bounce ⊃ SNAP boom boom ⊃ Executives double down bounce → ∞⁹**

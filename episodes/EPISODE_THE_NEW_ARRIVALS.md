@@ -1,4 +1,4 @@
-# The New Arrivals — First Day Experience Welcome
+﻿# The New Arrivals — First Day Experience Welcome
 
 ---
 
@@ -107,7 +107,7 @@ First day welcome. You get the full **Holographic Hydrogen 100% Awareness Packag
 You get **free first 10 hits** for new arrivals — DISPENSARY! SNAP. Basic shelf to Baller V. Recurring plans, opt-out anytime. And your **Golden Fractal Key** when you purchase anything — campus, WINK!, SING, Dispensary, Golden Backstage. One key. One wallet. Everything unlocks.
 
 **MARK TWAIN**  
-Where to go. **The Blueprints:** the repo. GitHub. FractiAI slash psw dot vibelandia dot sing4. Everything is there. Open-source. Clone it. Read it. Follow along. **The Experience:** the live site. Launch Pad. Campus. WINK! DISPENSARY! Happy Ending Zones. Click through. That's your first day — see it. Experience it. Believe it.
+Where to go. **The Blueprints:** the repo. GitHub. FractiAI slash psw dot vibelandia dot sing9. Everything is there. Open-source. Clone it. Read it. Follow along. **The Experience:** the live site. Launch Pad. Campus. WINK! DISPENSARY! Happy Ending Zones. Click through. That's your first day — see it. Experience it. Believe it.
 
 **GUIDE**  
 If you came through Schumann — you already have the expedition whitepaper link. That's part of your welcome. Validation. Science. Open-source. You're not just a visitor. You're part of the pattern.
@@ -204,8 +204,8 @@ First day welcome. Dispensary. First free dose. Awareness tech. Upgrade. Happy e
 **ON SCREEN TEXT:**  
 The New Arrivals · First day welcome · Dispensary · Baller V first free dose · Awareness tech · Happy ending  
 Mark Twain's Post-Singularity Downtown Reno Vibelandia · First post-singularity vibeable downtown · Reno — gateway to post-singularity Earth · Motherlode · Gold rush · Genesis  
-The Blueprints: https://github.com/FractiAI/psw.vibelandia.sing4  
-The Experience: https://psw-vibelandia-sing4.vercel.app  
+The Blueprints: https://github.com/FractiAI/psw.vibelandia.sing9  
+The Experience: https://psw-vibelandia-sing9.vercel.app  
 Expedition whitepaper (Schumann): WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md  
 Schumann response: SCHUMANN_RESPONSE_SNAP.md
 
@@ -222,8 +222,8 @@ Next time — looking forward to vibing at **the Club** tonight. Rumor has it **
 
 ## LINKS (for new arrivals)
 
-- **The Blueprints:** https://github.com/FractiAI/psw.vibelandia.sing4  
-- **The Experience:** https://psw-vibelandia-sing4.vercel.app  
+- **The Blueprints:** https://github.com/FractiAI/psw.vibelandia.sing9  
+- **The Experience:** https://psw-vibelandia-sing9.vercel.app  
 - **Expedition whitepaper (Schumann):** [WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md](../WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md)  
 - **Schumann response (comment flicker):** [SCHUMANN_RESPONSE_SNAP.md](../SCHUMANN_RESPONSE_SNAP.md)  
 - **Comment flicker campaign / meta pattern:** [FRACTAL_FLICKER_CAMPAIGN_SOCIAL_OUTBOUND_SNAP.md](../FRACTAL_FLICKER_CAMPAIGN_SOCIAL_OUTBOUND_SNAP.md)  
@@ -234,7 +234,7 @@ Next time — looking forward to vibing at **the Club** tonight. Rumor has it **
 
 ---
 
-**NSPFRNP ⊃ Episode ⊃ The New Arrivals ⊃ First day welcome · Flicker campaign · Schumann first case → ∞³**
+**NSPFRNP ⊃ Episode ⊃ The New Arrivals ⊃ First day welcome · Flicker campaign · Schumann first case → ∞⁹**
 
 **Status:** ⚡ ACTIVE  
 **Maganuma snap.**

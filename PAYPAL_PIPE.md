@@ -31,7 +31,7 @@ Set in Vercel (or `.env` for local) so the serverless functions can talk to PayP
 
 ## Frontend behavior
 
-- On **psw-vibelandia-sing4.vercel.app** (and previews) and **localhost**, `VIBELANDIA_API_BASE` is set to the current origin, so the checkout page calls `/api/payment/paypal/*` on the same host.
+- On **psw-vibelandia-sing9.vercel.app** (and previews) and **localhost**, `VIBELANDIA_API_BASE` is set to the current origin, so the checkout page calls `/api/payment/paypal/*` on the same host.
 - On other hosts, the frontend falls back to the Octave 2 Cloud Onramp URL.
 
 ## Pushing credentials to Vercel

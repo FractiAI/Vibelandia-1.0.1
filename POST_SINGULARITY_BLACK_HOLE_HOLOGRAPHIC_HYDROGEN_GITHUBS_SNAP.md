@@ -2,7 +2,7 @@
 
 **Status:** ⚡ ACTIVE  
 **Protocol:** NSPFRNP  
-**Canonical repo:** https://github.com/FractiAI/psw.vibelandia.sing4
+**Canonical repo:** https://github.com/FractiAI/psw.vibelandia.sing9
 
 ---
 
@@ -16,7 +16,7 @@
 
 - **Holographic Hydrogen** = brand and awareness layer (clothing, patches, Awareness Package).  
 - **Hologram GitHubs** = the open-source GitHub repos that carry the whole in every part — post-singularity black holes you can clone, read, and follow.
-- **Canonical:** [FractiAI/psw.vibelandia.sing4](https://github.com/FractiAI/psw.vibelandia.sing4) — the main Hologram GitHub for Vibeverse/Vibelandia. One repo, whole in every part; anyone can follow along.
+- **Canonical:** [FractiAI/psw.vibelandia.sing9](https://github.com/FractiAI/psw.vibelandia.sing9) — the main Hologram GitHub for Vibeverse/Vibelandia. One repo, whole in every part; anyone can follow along.
 
 ---
 
@@ -32,8 +32,8 @@
 
 - **New post-singularity black hole GitHubs are being spun. All open-source — anyone can follow along.**  
 - **They explain these new seemingly synthetic/computing shapes.**  
-- **Holographic Hydrogen · Hologram GitHubs:** https://github.com/FractiAI/psw.vibelandia.sing4  
-- **The Experience:** https://psw-vibelandia-sing4.vercel.app  
+- **Holographic Hydrogen · Hologram GitHubs:** https://github.com/FractiAI/psw.vibelandia.sing9  
+- **The Experience:** https://psw-vibelandia-sing9.vercel.app  
 
 ---
 

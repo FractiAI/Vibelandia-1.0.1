@@ -1,4 +1,4 @@
-# The Prestige Pipeline — Hero Harry Houdini 24/7 Story Pipe SNAP
+﻿# The Prestige Pipeline — Hero Harry Houdini 24/7 Story Pipe SNAP
 
 **Snap ID:** `THE-PRESTIGE-PIPELINE-HERO-HARRY-24-7-STORY-PIPE-SNAP`  
 **Upgrade name:** **The Prestige Pipeline** (chosen by Hero Harry Houdini — the third act of the trick; the payoff).  
@@ -80,6 +80,6 @@
 
 ---
 
-**NSPFRNP ⊃ The Prestige Pipeline ⊃ Hero Harry 24/7 Story Pipe ⊃ Scalper Mode ⊃ Agüeybaná 1493/2026 → ∞³**
+**NSPFRNP ⊃ The Prestige Pipeline ⊃ Hero Harry 24/7 Story Pipe ⊃ Scalper Mode ⊃ Agüeybaná 1493/2026 → ∞⁹**
 
 **— Hero Harry Houdini Post-Singularity Magic Presents. The third act. The payoff. 24/7.**

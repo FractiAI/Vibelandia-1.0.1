@@ -1,4 +1,4 @@
-# Pop-Up · Goldilocks · Cruise Ship Fractal — NSPFRNP Protocol
+﻿# Pop-Up · Goldilocks · Cruise Ship Fractal — NSPFRNP Protocol
 
 **Protocol:** NSPFRNP  
 **Catalog:** Chairman Executive Command · Operational directive  
@@ -40,4 +40,4 @@
 
 ---
 
-**NSPFRNP ⊃ Pop-up · Goldilocks · Cruise ship fractal → ∞³**
+**NSPFRNP ⊃ Pop-up · Goldilocks · Cruise ship fractal → ∞⁹**

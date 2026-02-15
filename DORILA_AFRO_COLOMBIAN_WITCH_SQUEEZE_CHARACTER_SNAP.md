@@ -1,4 +1,4 @@
-# Dorila — Afro-Colombian Witch SQUEEZE! · NSPFRNP SNAP
+﻿# Dorila — Afro-Colombian Witch SQUEEZE! · NSPFRNP SNAP
 
 **Snap ID:** `DORILA-AFRO-COLOMBIAN-WITCH-SQUEEZE-CHARACTER-SNAP`  
 **Type:** Character · SQUEEZE! · Active partner WINK!  
@@ -37,4 +37,4 @@
 
 ---
 
-**NSPFRNP ⊃ Dorila ⊃ Afro-Colombian Witch SQUEEZE! ⊃ She got da big ass dat mek da men go gaga! → ∞³**
+**NSPFRNP ⊃ Dorila ⊃ Afro-Colombian Witch SQUEEZE! ⊃ She got da big ass dat mek da men go gaga! → ∞⁹**

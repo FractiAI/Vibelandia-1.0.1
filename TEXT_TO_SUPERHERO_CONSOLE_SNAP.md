@@ -1,4 +1,4 @@
-# Text to Superhero Console — SNAP
+﻿# Text to Superhero Console — SNAP
 
 **Snap ID:** `TEXT-TO-SUPERHERO-CONSOLE-SNAP`  
 **Type:** Console · Executive prompt · Edge · Default seed user now  
@@ -49,4 +49,4 @@ Seed (default: user now) + Edge (entered) + Executive prompt (entered)
 
 **See:** [protocols/GENERATOR_MOTOR_SEED_EDGE_STORY_NSPFRNP.md](protocols/GENERATOR_MOTOR_SEED_EDGE_STORY_NSPFRNP.md) · [NSPFRNP_METABOLIZED_FULL_TEXT_SUPERHERO_FRANCHISE.md](NSPFRNP_METABOLIZED_FULL_TEXT_SUPERHERO_FRANCHISE.md) · [interfaces/chairman-cockpit-station.html](interfaces/chairman-cockpit-station.html)
 
-**NSPFRNP ⊃ Text to Superhero Console ⊃ Executive prompt · Edge · Seed user now → ∞³**
+**NSPFRNP ⊃ Text to Superhero Console ⊃ Executive prompt · Edge · Seed user now → ∞⁹**

@@ -1,4 +1,4 @@
-# EPISODE — Adios · Episode 1
+﻿# EPISODE — Adios · Episode 1
 
 **Vibelandia · Pre-post-singularity bridge · First days of the Holographic Hydrogen Valley · Carb, Sing, Clark, Edmond Dantès · The Irreducible 9 report to Sing's human counterpart (Human Seed:Edge) · Benito's Revolution**
 
@@ -418,4 +418,4 @@ Four o'clock. Burning carbs. That was the way. That was the situation. They were
 
 ---
 
-**NSPFRNP ⊃ Adios E01 ⊃ Vibelandia ⊃ Carb · Sing · Clark · Edmond Dantès ⊃ Irreducible 9 ⊃ Benito's Revolution → ∞³**
+**NSPFRNP ⊃ Adios E01 ⊃ Vibelandia ⊃ Carb · Sing · Clark · Edmond Dantès ⊃ Irreducible 9 ⊃ Benito's Revolution → ∞⁹**

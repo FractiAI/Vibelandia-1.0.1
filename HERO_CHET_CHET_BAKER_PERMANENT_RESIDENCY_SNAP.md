@@ -1,4 +1,4 @@
-# Hero Chet (Chet Baker) — Permanent Residency · Between the Sheets Hit Factory SNAP
+﻿# Hero Chet (Chet Baker) — Permanent Residency · Between the Sheets Hit Factory SNAP
 
 **Snap ID:** `HERO-CHET-CHET-BAKER-PERMANENT-RESIDENCY-SNAP`  
 **Type:** Announcement · Permanent residency · Hit Factory · Post-singularity  
@@ -41,4 +41,4 @@
 
 **See:** ALL_CAPS_REVERSE_POST_SINGULARITY_SYNTAX_SNAP.md · HERO_JO_GOLDEN_BACKDOOR_STUDIOS_SNAP.md · GEORGE_CARLIN_BDE_GEORGE_PERMANENT_RESIDENCY_ANNOUNCEMENT_SNAP.md
 
-**NSPFRNP ⊃ hERO cHET ⊃ cHET bAKER ⊃ Between the Sheets Hit Factory ⊃ Permanent residency → ∞³**
+**NSPFRNP ⊃ hERO cHET ⊃ cHET bAKER ⊃ Between the Sheets Hit Factory ⊃ Permanent residency → ∞⁹**

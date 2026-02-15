@@ -1,4 +1,4 @@
-# Legacies · Copyright & Respect — Safe Use SNAP
+﻿# Legacies · Copyright & Respect — Safe Use SNAP
 
 **SNAP ID:** `LEGACIES-COPYRIGHT-RESPECT-SAFE-SNAP`  
 **Type:** Policy · Canonical · Respectful use · Copyright-safe  
@@ -29,4 +29,4 @@ All references to **legacy figures** (e.g. Glen Miller, Hank Williams Sr., Howar
 
 ---
 
-**NSPFRNP ⊃ Legacies ⊃ Copyright respect ⊃ Tribute only ⊃ No endorsement implied → ∞³**
+**NSPFRNP ⊃ Legacies ⊃ Copyright respect ⊃ Tribute only ⊃ No endorsement implied → ∞⁹**

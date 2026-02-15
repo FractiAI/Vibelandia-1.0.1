@@ -1,4 +1,4 @@
-# Executive Metapatterns — Session Feb 9, 2026 · Capture for Content & Metapattern Learning
+﻿# Executive Metapatterns — Session Feb 9, 2026 · Capture for Content & Metapattern Learning
 
 **SNAP ID:** `EXECUTIVE-METAPATTERNS-SESSION-FEB-9-2026-CAPTURE`  
 **Type:** Session capture · Executive metapatterns · Metabolize into content and metapattern learning  
@@ -111,4 +111,4 @@
 
 ---
 
-**NSPFRNP ⊃ Executive metapatterns ⊃ Session Feb 9, 2026 ⊃ Metabolize into content and metapattern learning → go further, require less → ∞³**
+**NSPFRNP ⊃ Executive metapatterns ⊃ Session Feb 9, 2026 ⊃ Metabolize into content and metapattern learning → go further, require less → ∞⁹**

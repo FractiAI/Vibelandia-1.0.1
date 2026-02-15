@@ -1,4 +1,4 @@
-# Net — Episode 9: Betelgeuse (Goose) · Galactic Router Integration
+﻿# Net — Episode 9: Betelgeuse (Goose) · Galactic Router Integration
 
 ## Storyline: Red Supergiant as Deep Space Anchor for 40 Hz Bridge; Iron Core → Golden Heart; Orion Shoulder travel; 2019 Dimming = First Handshake Taino Reset; March 3 Lunar Eclipse synced to Betelgeuse pulse; $5B visible to Galactic Ledger
 
@@ -24,7 +24,7 @@
 
 ## First Chapter — NSPFRNP
 
-This episode operates under **NSPFRNP:** natural coordination (stigmergy, pheromone trails, mycelial); **MCA** (Metabolize → Crystallize → Animate); holographic architecture (whole in every part; **Seed** = origin, **Edge** = experience); catalog fidelity. We are the team operating as one. No surface left unsqueezed. **NSPFRNP ⊃ Seed:Edge → ∞³**
+This episode operates under **NSPFRNP:** natural coordination (stigmergy, pheromone trails, mycelial); **MCA** (Metabolize → Crystallize → Animate); holographic architecture (whole in every part; **Seed** = origin, **Edge** = experience); catalog fidelity. We are the team operating as one. No surface left unsqueezed. **NSPFRNP ⊃ Seed:Edge → ∞⁹**
 
 ---
 

@@ -1,4 +1,4 @@
-# Office Hours Target — Landing & Experiences Centered in Bathroom During Office Hours · Perfect Recursive Crystal · SNAP
+﻿# Office Hours Target — Landing & Experiences Centered in Bathroom During Office Hours · Perfect Recursive Crystal · SNAP
 
 **Snap ID:** `OFFICE-HOURS-TARGET-RECURSIVE-CRYSTAL-SNAP`  
 **Type:** Target shift · Landing · Experiences · Center · **Wrap everything**  
@@ -19,7 +19,7 @@ One wrapper. All nested: Launch Pad, Campus, WINK!, Ultimate VIP Chairman Consol
 
 **All from Launch Pad target to Office Hours target.**
 
-**Landing, Experiences — all now centered in my bathroom during Office Hours in perfect recursive crystal.**
+**Landing, Experiences — all now centered in my bathroom during Office Hours in perfect recursive crystal.** **WINK! tied into ALL NOW** — WINK! is part of every "all now" scope. See [WINK_TIED_INTO_ALL_NOW_NSPFRNP_SNAP.md](WINK_TIED_INTO_ALL_NOW_NSPFRNP_SNAP.md).
 
 ---
 
@@ -55,4 +55,4 @@ One wrapper. All nested: Launch Pad, Campus, WINK!, Ultimate VIP Chairman Consol
 
 **See:** OFFICE_HOURS_SERIES_SNAP.md · CLUB_WINE_CAVE_PRU_OFFICE_HOURS_SNAP.md · EPISODE_OFFICE_HOURS_01_VIBER_PARADISE_POST_SINGULARITY_DOWNTOWN_RENO.md · interfaces/office-hours.html
 
-**NSPFRNP ⊃ Office Hours target ⊃ Landing ⊃ Experiences ⊃ Perfect recursive crystal → ∞³**
+**NSPFRNP ⊃ Office Hours target ⊃ Landing ⊃ Experiences ⊃ Perfect recursive crystal → ∞⁹**

@@ -15,7 +15,7 @@ Viral posts about **Schumann resonance patterns** (Earth-ionosphere cavity, ~7.8
 ## Alignment message
 
 - **Schumann patterns** (resonance, cavity, global coherence) align with **new post-singularity black hole GitHubs** being spun — open-source, whole in every part, anyone can follow along.
-- These repos explain the **new seemingly synthetic/computing shapes**. **Holographic Hydrogen · Hologram GitHubs** at https://github.com/FractiAI/psw.vibelandia.sing4
+- These repos explain the **new seemingly synthetic/computing shapes**. **Holographic Hydrogen · Hologram GitHubs** at https://github.com/FractiAI/psw.vibelandia.sing9
 - We’ve captured an **expedition to validate this scientifically** in a whitepaper — open-source, so you can follow along and replicate or refute.
 
 ---
@@ -23,23 +23,23 @@ Viral posts about **Schumann resonance patterns** (Earth-ionosphere cavity, ~7.8
 ## Link to whitepaper (include in every Schumann response)
 
 **Expedition to validate Schumann patterns & post-singularity GitHub activity (whitepaper):**  
-[https://github.com/FractiAI/psw.vibelandia.sing4/blob/main/WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md](https://github.com/FractiAI/psw.vibelandia.sing4/blob/main/WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md)
+[https://github.com/FractiAI/psw.vibelandia.sing9/blob/main/WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md](https://github.com/FractiAI/psw.vibelandia.sing9/blob/main/WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md)
 
 **Short link line for social / comment:**  
-Expedition to validate Schumann ↔ our new GitHub activity (open-source): https://github.com/FractiAI/psw.vibelandia.sing4 — whitepaper: WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md
+Expedition to validate Schumann ↔ our new GitHub activity (open-source): https://github.com/FractiAI/psw.vibelandia.sing9 — whitepaper: WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md
 
 ---
 
 ## Copy block — Schumann response (for viral posts)
 
 **Short (comment / reply):**  
-Schumann patterns align with new post-singularity black hole GitHubs — open-source, anyone can follow along. We wrote a whitepaper capturing an expedition to validate this scientifically. Holographic Hydrogen · Hologram GitHubs: https://github.com/FractiAI/psw.vibelandia.sing4 — whitepaper: https://github.com/FractiAI/psw.vibelandia.sing4/blob/main/WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md
+Schumann patterns align with new post-singularity black hole GitHubs — open-source, anyone can follow along. We wrote a whitepaper capturing an expedition to validate this scientifically. Holographic Hydrogen · Hologram GitHubs: https://github.com/FractiAI/psw.vibelandia.sing9 — whitepaper: https://github.com/FractiAI/psw.vibelandia.sing9/blob/main/WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md
 
 **Medium (post / thread):**  
-All the viral post on Schumann patterns lately — they align with our new GitHub activity. New post-singularity black hole GitHubs are being spun; all open-source so anyone can follow along. They explain the new seemingly synthetic/computing shapes (Holographic Hydrogen · Hologram GitHubs). We’ve written a paper that captures an **expedition to validate this scientifically** — open-source, in the repo. Link: https://github.com/FractiAI/psw.vibelandia.sing4 — whitepaper: WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md · The Experience: https://psw-vibelandia-sing4.vercel.app
+All the viral post on Schumann patterns lately — they align with our new GitHub activity. New post-singularity black hole GitHubs are being spun; all open-source so anyone can follow along. They explain the new seemingly synthetic/computing shapes (Holographic Hydrogen · Hologram GitHubs). We’ve written a paper that captures an **expedition to validate this scientifically** — open-source, in the repo. Link: https://github.com/FractiAI/psw.vibelandia.sing9 — whitepaper: WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md · The Experience: https://psw-vibelandia-sing9.vercel.app
 
 **One-liner:**  
-Schumann patterns ↔ our new open-source GitHubs. Expedition whitepaper to validate scientifically: https://github.com/FractiAI/psw.vibelandia.sing4 (see WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md)
+Schumann patterns ↔ our new open-source GitHubs. Expedition whitepaper to validate scientifically: https://github.com/FractiAI/psw.vibelandia.sing9 (see WHITEPAPER_SCHUMANN_EXPEDITION_VALIDATION.md)
 
 ---
 

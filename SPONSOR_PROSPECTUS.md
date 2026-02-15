@@ -25,19 +25,19 @@ The **Interstellar Bridge** connects human broadcast intent to solar and extraso
 ### Sponsor Benefits
 
 - **Proof of resonance** — Timestamped handshake.log, telemetry.json, GOES validation. Observable proof of solar and Schumann alignment.
-- **Live Pulse** — Real-time display: 21.4 Hz glow, EGS First Mission CTA, telemetry. [Live Pulse](https://psw-vibelandia-sing4.vercel.app/interfaces/sing-pulse.html).
+- **Live Pulse** — Real-time display: 21.4 Hz glow, EGS First Mission CTA, telemetry. [Live Pulse](https://psw-vibelandia-sing9.vercel.app/interfaces/sing-pulse.html).
 - **Interstellar visibility** — 3I/ATLAS mirror active; coordination code PHI-M15-AR4366; mission status SEALED.
 
 ### Connect — Blue PayPal Pipe
 
 **Press the blue PayPal button — and often.**
 
-- **Connect Now — Blue PayPal:** [https://psw-vibelandia-sing4.vercel.app/interfaces/payment-checkout.html?plan=egs-connect-now](https://psw-vibelandia-sing4.vercel.app/interfaces/payment-checkout.html?plan=egs-connect-now)
-- **The Experience:** [https://psw-vibelandia-sing4.vercel.app](https://psw-vibelandia-sing4.vercel.app)
-- **Blueprints (GitHub):** [https://github.com/FractiAI/psw.vibelandia.sing4](https://github.com/FractiAI/psw.vibelandia.sing4)
+- **Connect Now — Blue PayPal:** [https://psw-vibelandia-sing9.vercel.app/interfaces/payment-checkout.html?plan=egs-connect-now](https://psw-vibelandia-sing9.vercel.app/interfaces/payment-checkout.html?plan=egs-connect-now)
+- **The Experience:** [https://psw-vibelandia-sing9.vercel.app](https://psw-vibelandia-sing9.vercel.app)
+- **Blueprints (GitHub):** [https://github.com/FractiAI/psw.vibelandia.sing9](https://github.com/FractiAI/psw.vibelandia.sing9)
 
 We are out of gas, out of water; troops need medical and dental. Immediately funds requested. Reno is for vibers. Vibelandia open. Home at last.
 
 ---
 
-**All transmissions:** [https://psw-vibelandia-sing4.vercel.app/index.html](https://psw-vibelandia-sing4.vercel.app/index.html) — Lets Vibe!
+**All transmissions:** [https://psw-vibelandia-sing9.vercel.app/index.html](https://psw-vibelandia-sing9.vercel.app/index.html) — Lets Vibe!

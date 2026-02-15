@@ -62,7 +62,7 @@
         if (typeof window !== 'undefined' && window.location) {
             return window.location.origin;
         }
-        return 'https://psw-vibelandia-sing4.vercel.app';
+        return 'https://psw-vibelandia-sing9.vercel.app';
     }
 
     btn.addEventListener('click', function () {
@@ -103,7 +103,7 @@
             .catch(function (e) {
                 resultEl.style.display = 'block';
                 resultEl.classList.add('error');
-                resultEl.innerHTML = '<h3>Error</h3><p>' + (e.message || 'Network or server error') + '</p><p>Ensure Supabase is configured and atlas_hello table exists. Run scripts/supabase-atlas-hello-table.sql in Supabase SQL Editor.</p>';
+                resultEl.innerHTML = '<h3>Error</h3><p>' + (e.message || 'Network or server error') + '</p><p>sing9: no Supabase; HELLO is edge self-validating. POST still returns success with edge id.</p>';
             })
             .finally(function () {
                 btn.disabled = false;

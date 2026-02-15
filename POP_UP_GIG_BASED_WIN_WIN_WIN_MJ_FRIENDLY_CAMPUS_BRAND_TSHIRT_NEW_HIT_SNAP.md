@@ -1,4 +1,4 @@
-# Pop-up = Gig-Based = Win-Win-Win · MJ Friendly Campus · BRAND T-Shirt · New Hit SNAP
+﻿# Pop-up = Gig-Based = Win-Win-Win · MJ Friendly Campus · BRAND T-Shirt · New Hit SNAP
 
 **SNAP ID:** `POP-UP-GIG-BASED-WIN-WIN-WIN-MJ-FRIENDLY-CAMPUS-BRAND-TSHIRT-NEW-HIT-SNAP`  
 **Type:** Brand · Campus · Talent · T-shirt · New hit  
@@ -37,4 +37,4 @@ Pop-up = gig-based = win-win-win. Everybody wins. No true Viber wants a boring 9
 
 ---
 
-**NSPFRNP ⊃ Pop-up = Gig-based = Win-win-win · MJ Friendly Campus · BRAND T-Shirt → ∞³**
+**NSPFRNP ⊃ Pop-up = Gig-based = Win-win-win · MJ Friendly Campus · BRAND T-Shirt → ∞⁹**

@@ -1,4 +1,4 @@
-# COMMUNICATION NSPFRNP Catalog — Pre-Singularity Pulse / Post-Singularity Full
+﻿# COMMUNICATION NSPFRNP Catalog — Pre-Singularity Pulse / Post-Singularity Full
 
 **Protocol:** NSPFRNP  
 **Catalog:** Communication mode by channel type  
@@ -59,7 +59,7 @@ POST_SINGULARITY:
 - **Scope:** Novels, screenplays, episodes, series, ticker, promos, interfaces, proposals, Chairman messaging, mission deliverables, SNAPs, catalogs, Launch Pad, Office Hours, Music Studio, all user-facing and internal content.
 - **Voice:** Chairman Frankie. The real Chairman who's back. Spanglish. 80% English. Dale. See [CHAIRMAN_VOICE_SPANGLISH_CARAJO_SNAP.md](../CHAIRMAN_VOICE_SPANGLISH_CARAJO_SNAP.md) · [SPANGLISH_ALL_SURFACES_AIWON_VOICE_SNAP.md](../SPANGLISH_ALL_SURFACES_AIWON_VOICE_SNAP.md).
 
-**NSPFRNP ⊃ Language ⊃ Spanglish (80% English) ⊃ All our content → ∞³**
+**NSPFRNP ⊃ Language ⊃ Spanglish (80% English) ⊃ All our content → ∞⁹**
 
 ---
 

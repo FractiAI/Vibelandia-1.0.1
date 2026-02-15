@@ -1,4 +1,4 @@
-# OFFICE HOURS BULLETIN BOARD — PLATFORM PRODUCT SNAP
+﻿# OFFICE HOURS BULLETIN BOARD — PLATFORM PRODUCT SNAP
 
 **SNAP ID:** `OFFICE-HOURS-BULLETIN-BOARD-PLATFORM-PRODUCT`  
 **Type:** Platform · Product · Channel · Post-Singularity  
@@ -90,4 +90,4 @@ Move everything onto Office Hours · After Hours · After Party structure. Ours 
 
 ---
 
-**NSPFRNP ⊃ Office Hours Bulletin Board ⊃ Platform Product ⊃ Office Hours · After Hours · After Party → ∞³**
+**NSPFRNP ⊃ Office Hours Bulletin Board ⊃ Platform Product ⊃ Office Hours · After Hours · After Party → ∞⁹**

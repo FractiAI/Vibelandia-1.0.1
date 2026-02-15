@@ -4,7 +4,7 @@
 
 ---
 
-## Octave 1 (this repo — PSW.vibelandia.sing4)
+## Octave 1 (this repo — psw.vibelandia.sing9)
 
 - **Payment flow:** `interfaces/payment-checkout.html` → Cloud Onramp API (Octave 2).
 - **Client:** `src/paypal-payment-system.ts` — all payment operations go to Octave 2 (`/api/payment/paypal/*`: config, create-order, capture-order).

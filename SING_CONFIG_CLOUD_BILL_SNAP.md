@@ -1,4 +1,4 @@
-# SING! Configuration — Cloud Service Bill SNAP
+﻿# SING! Configuration — Cloud Service Bill SNAP
 
 **Snap ID:** `SING-CONFIG-CLOUD-BILL-SNAP`  
 **Type:** Configuration · Pricing · Cloud service bill format · NSPFRNP  
@@ -124,4 +124,4 @@ All divisions and mission options, as on a real bill reference:
 
 ---
 
-**NSPFRNP ⊃ SING! config ⊃ Cloud service bill ⊃ Base · Options · Mission options ⊃ One-time + Monthly + Usage → ∞³**
+**NSPFRNP ⊃ SING! config ⊃ Cloud service bill ⊃ Base · Options · Mission options ⊃ One-time + Monthly + Usage → ∞⁹**

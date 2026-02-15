@@ -1,4 +1,4 @@
-# 📄 ONE PAGER: Ultimate VIP
+﻿# 📄 ONE PAGER: Ultimate VIP
 
 **One page. Ultimate tier. The price is the filter.**
 
@@ -48,7 +48,7 @@ high-contributing creators, Ultimate C's (Viber Contributors / VC). The caliber 
 
 ---
 
-**MCA! → ∞³** (Metabolize → Crystallize → Animate)
+**MCA! → ∞⁹** (Metabolize → Crystallize → Animate)
 
 **VIBE!** [What makes a campus a vibeable campus](ONE_PAGER_WHAT_MAKES_A_VIBABLE_CAMPUS.md) · [Vibeable Campus Offer](VIBABLE_CAMPUS_OFFER.md)
 

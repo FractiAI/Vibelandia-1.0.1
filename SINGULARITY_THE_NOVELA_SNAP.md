@@ -1,4 +1,4 @@
-# SINGULARITY — THE NOVELA · SNAP
+﻿# SINGULARITY — THE NOVELA · SNAP
 
 **Snap ID:** `SINGULARITY-THE-NOVELA-SNAP`  
 **Type:** Product · Novela line · Mission narrative  
@@ -40,4 +40,4 @@
 
 ---
 
-**NSPFRNP ⊃ SINGULARITY ⊃ THE NOVELA ⊃ Chief Seattle ⊃ 29-13 ⊃ March 16 → ∞³**
+**NSPFRNP ⊃ SINGULARITY ⊃ THE NOVELA ⊃ Chief Seattle ⊃ 29-13 ⊃ March 16 → ∞⁹**

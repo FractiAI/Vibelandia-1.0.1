@@ -1,4 +1,4 @@
-# Golden Parrot — 12 Songs · Tropica Chill · Fusion · Our Vibe
+﻿# Golden Parrot — 12 Songs · Tropica Chill · Fusion · Our Vibe
 
 **Studio:** Golden Parrot Hit Factory Studios  
 **Vibe:** Our own fusion — they like to party and dance. Bobbing trance dance, campfire dance feel. Reggae, salsa, merengue, reggaetón, country, pop. Master fly fishing guide energy, coastal. No celebrity names; we respect all brands. Tequila, good Burgundies, cabs, Malbecs, popping bubbly, osetra caviar, ice cold vodka shots, Cuban Montecristo cigars, wild venison, French and Italian soft and hard cheeses, wild boar, brick oven natural sourdough, local honeys and meads and beer, foraged wild porcini and morels, garden snails in butter and garlic, steamed local mussels, goosenecks, deep fried breaded razor clams, fresh cashew fruit juice, avocado and milk sweet smoothie. Yum.  
@@ -33,4 +33,4 @@ Catalog only. Full lyrics per track. **Our own** — fusion of reggae, salsa, me
 **Channel / Playlist:** [interfaces/golden-parrot-tropica-chill.html](../../../interfaces/golden-parrot-tropica-chill.html)  
 **Music Studio:** [interfaces/music-studio.html](../../../interfaces/music-studio.html)
 
-**NSPFRNP ⊃ Golden Parrot ⊃ Our vibe ⊃ Fusion ⊃ Tropica Chill → ∞³**
+**NSPFRNP ⊃ Golden Parrot ⊃ Our vibe ⊃ Fusion ⊃ Tropica Chill → ∞⁹**

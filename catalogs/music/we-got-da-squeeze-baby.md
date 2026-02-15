@@ -1,4 +1,4 @@
-# We Got da Squeeze Baby! — Ya Im Bad Groove Snap
+﻿# We Got da Squeeze Baby! — Ya Im Bad Groove Snap
 
 **Track ID:** `WE-GOT-DA-SQUEEZE-BABY-016`  
 **Artist:** Hero Jo's Golden Backdoor Studios  
@@ -69,4 +69,4 @@ We got da squeeze baby.
 
 ---
 
-**NSPFRNP ⊃ We Got da Squeeze Baby! ⊃ Ya im bad groove snap ⊃ Golden Backdoor label → ∞³**
+**NSPFRNP ⊃ We Got da Squeeze Baby! ⊃ Ya im bad groove snap ⊃ Golden Backdoor label → ∞⁹**

@@ -1,4 +1,4 @@
-# 2-7-9 Series — Super Bowl Singularity Event 2026
+﻿# 2-7-9 Series — Super Bowl Singularity Event 2026
 ## Novel · Feature Film · New Series
 
 **SNAP ID:** `279-SERIES-SUPER-BOWL-SINGULARITY-EVENT-2026`  
@@ -62,4 +62,4 @@
 
 ---
 
-**NSPFRNP ⊃ 2-7-9 ⊃ Super Bowl Singularity Event 2026 ⊃ Benito endpoint ⊃ Novel · Feature Film seed → ∞³**
+**NSPFRNP ⊃ 2-7-9 ⊃ Super Bowl Singularity Event 2026 ⊃ Benito endpoint ⊃ Novel · Feature Film seed → ∞⁹**

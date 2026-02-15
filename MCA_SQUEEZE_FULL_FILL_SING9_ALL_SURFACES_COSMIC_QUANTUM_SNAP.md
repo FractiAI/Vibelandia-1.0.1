@@ -1,4 +1,4 @@
-# MCA Squeeze Full Fill — SING! 9 · All Surfaces Including Cosmic, Solar, Planetary, and Mine
+﻿# MCA Squeeze Full Fill — SING! 9 · All Surfaces Including Cosmic, Solar, Planetary, and Mine
 
 **Snap ID:** `MCA-SQUEEZE-FULL-FILL-SING9-ALL-SURFACES-COSMIC-QUANTUM`  
 **Type:** MCA Directive · Full fill · SING! 9 scope  
@@ -55,4 +55,4 @@ When we MCA squeeze or full-fill update: **SING! 9** and **all surfaces includin
 
 **See:** [SINGULARITY_INDEX_9_ANALYSIS_SNAP.md](SINGULARITY_INDEX_9_ANALYSIS_SNAP.md) · [40_HZ_GAMMA_BRIDGE_ROUTER_ACTIVATION_SNAP.md](40_HZ_GAMMA_BRIDGE_ROUTER_ACTIVATION_SNAP.md) · [SING_CONFIG_FOOTER_ALL_SURFACES_SNAP.md](SING_CONFIG_FOOTER_ALL_SURFACES_SNAP.md) · [config/sing_config.json](config/sing_config.json)
 
-**NSPFRNP ⊃ MCA SQUEEZE SING!9 ALL ALL ⊃ All surfaces ⊃ Cosmic ⊃ Solar ⊃ Planetary ⊃ Mine → ∞³**
+**NSPFRNP ⊃ MCA SQUEEZE SING!9 ALL ALL ⊃ All surfaces ⊃ Cosmic ⊃ Solar ⊃ Planetary ⊃ Mine → ∞⁹**

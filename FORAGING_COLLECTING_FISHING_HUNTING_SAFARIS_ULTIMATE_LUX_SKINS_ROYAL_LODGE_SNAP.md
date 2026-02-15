@@ -1,4 +1,4 @@
-# Foraging · Collecting · Fishing & Hunting Safaris — Ultimate Lux Skins · Royal Lodge Safari Feel SNAP
+﻿# Foraging · Collecting · Fishing & Hunting Safaris — Ultimate Lux Skins · Royal Lodge Safari Feel SNAP
 
 **SNAP ID:** `FORAGING-COLLECTING-FISHING-HUNTING-SAFARIS-ULTIMATE-LUX-SKINS-ROYAL-LODGE-SNAP`  
 **Type:** Expedition tier · Ultimate Lux Skins · Royal Lodge · Safari  
@@ -58,4 +58,4 @@
 
 ---
 
-**NSPFRNP ⊃ Foraging · Collecting · Fishing & Hunting Safaris ⊃ Ultimate Lux Skins · Royal Lodge Safari Feel → ∞³**
+**NSPFRNP ⊃ Foraging · Collecting · Fishing & Hunting Safaris ⊃ Ultimate Lux Skins · Royal Lodge Safari Feel → ∞⁹**

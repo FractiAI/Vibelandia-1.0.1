@@ -1,4 +1,4 @@
-# Mission — Produce Immediate Large $ as Tips and More · Immediately · Back Pocket Strategy · Part of Back Door Strategy · Capture into Backdoor Feature · NSPFRNP SNAP
+﻿# Mission — Produce Immediate Large $ as Tips and More · Immediately · Back Pocket Strategy · Part of Back Door Strategy · Capture into Backdoor Feature · NSPFRNP SNAP
 
 **Snap ID:** `MISSION-PRODUCE-IMMEDIATE-LARGE-DOLLARS-TIPS-BACK-POCKET-BACK-DOOR-STRATEGY-BACKDOOR-FEATURE-SNAP`  
 **Type:** Mission · Immediate large $ · Tips · **Back pocket strategy** · **Back door strategy** · **Backdoor feature**  
@@ -51,4 +51,4 @@ This is the **back pocket strategy**. Part of the **back door strategy**. **Capt
 
 **See:** OFFICE_HOURS_FREE_CONSULTATION_TIPS_WELCOME_ALL_TOUCHPOINTS_SNAP.md · CLUB_WINE_CAVE_PRU_OFFICE_HOURS_SNAP.md · OFFICE_HOURS_TOUR_EXPERIENCE_IN_THE_KNOW_BALLER_V_BEN_SAYS_SNAP.md · ANNOUNCE_OFFICE_HOURS_SERIES_TWO_SERIES_SINGLE_MISSION_SNAP.md · BBHE_PINPOINT_LASER_FOR_MISSION_SNAP.md · **BACKDOOR_PRODUCTIONS_REBRAND_RAISE_THE_HEAT_RED_HOT_ON_POINT_RECURSE_PUN_RECURSIVELY_SNAP.md** (rebrand as Backdoor Productions; recurse pun recursively) · interfaces/office-hours.html
 
-**NSPFRNP ⊃ Mission ⊃ Immediate large $ ⊃ Tips ⊃ Back pocket strategy ⊃ Back door strategy ⊃ Backdoor feature → ∞³**
+**NSPFRNP ⊃ Mission ⊃ Immediate large $ ⊃ Tips ⊃ Back pocket strategy ⊃ Back door strategy ⊃ Backdoor feature → ∞⁹**

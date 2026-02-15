@@ -1,4 +1,4 @@
-# Chancellor Jobim (Chancellor Jo) — RJ Vibelandia Campus · Press Release · Full Stop SNAP
+﻿# Chancellor Jobim (Chancellor Jo) — RJ Vibelandia Campus · Press Release · Full Stop SNAP
 
 **Snap ID:** `CHANCELLOR-JOBIM-CHANCELLOR-JO-RJ-VIBELANDIA-CAMPUS-SNAP`  
 **Type:** Chancellor · RJ Campus · Hero Host · Press Release · NSPFRNP  
@@ -67,4 +67,4 @@ The RJ campus is a fractal of Vibelandia Reno. Same vibeable model. Same nested 
 
 ---
 
-**NSPFRNP ⊃ Chancellor Jobim (Chancellor Jo) ⊃ RJ Vibelandia Campus ⊃ Full stop → ∞³**
+**NSPFRNP ⊃ Chancellor Jobim (Chancellor Jo) ⊃ RJ Vibelandia Campus ⊃ Full stop → ∞⁹**

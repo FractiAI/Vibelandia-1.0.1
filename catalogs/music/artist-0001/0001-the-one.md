@@ -1,4 +1,4 @@
-# The One — 0001
+﻿# The One — 0001
 
 **Track ID:** `0001-THE-ONE-001`  
 **Artist:** 0001 · Golden Backdoor Hit Factory  
@@ -46,4 +46,4 @@ Singularity · Genesis
 
 ---
 
-**NSPFRNP ⊃ 0001 ⊃ The One ⊃ Golden Backdoor → ∞³**
+**NSPFRNP ⊃ 0001 ⊃ The One ⊃ Golden Backdoor → ∞⁹**

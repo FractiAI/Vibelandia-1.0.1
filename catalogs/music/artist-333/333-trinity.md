@@ -1,4 +1,4 @@
-# Trinity — 333
+﻿# Trinity — 333
 
 **Track ID:** `333-TRINITY-001`  
 **Artist:** 333 · Golden Backdoor Hit Factory  
@@ -46,4 +46,4 @@ Expansion · Growth · Three three three
 
 ---
 
-**NSPFRNP ⊃ 333 ⊃ Trinity ⊃ Golden Backdoor → ∞³**
+**NSPFRNP ⊃ 333 ⊃ Trinity ⊃ Golden Backdoor → ∞⁹**

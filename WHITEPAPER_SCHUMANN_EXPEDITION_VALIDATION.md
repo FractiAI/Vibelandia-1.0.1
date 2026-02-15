@@ -4,14 +4,14 @@
 **Scope:** Schumann resonance · Post-singularity repository activity · Validation  
 **Status:** ⚡ ACTIVE  
 **Date:** January 2026  
-**Repository:** https://github.com/FractiAI/psw.vibelandia.sing4  
+**Repository:** https://github.com/FractiAI/psw.vibelandia.sing9  
 **Protocol:** NSPFRNP
 
 ---
 
 ## Abstract
 
-Viral interest in **Schumann resonance patterns** (Earth-ionosphere cavity modes, ~7.83 Hz fundamental and harmonics) has increased in public discourse. This whitepaper captures an **expedition to validate scientifically** the hypothesis that observable Schumann patterns align with **new post-singularity GitHub activity**: open-source repositories (Holographic Hydrogen · Hologram GitHubs) that are being spun as “black hole” repos — whole in every part, follow-along, explaining new seemingly synthetic/computing shapes. We describe the expedition framework, the alignment thesis (resonance ↔ repository cadence and structure), and the role of this repository (psw.vibelandia.sing4) as a canonical observable. We do not claim causal proof; we document the validation expedition and its scientific framing for peer and public review. **Index Terms** — Schumann resonance, Earth-ionosphere cavity, post-singularity repository, GitHub activity, Holographic Hydrogen, validation expedition, NSPFRNP.
+Viral interest in **Schumann resonance patterns** (Earth-ionosphere cavity modes, ~7.83 Hz fundamental and harmonics) has increased in public discourse. This whitepaper captures an **expedition to validate scientifically** the hypothesis that observable Schumann patterns align with **new post-singularity GitHub activity**: open-source repositories (Holographic Hydrogen · Hologram GitHubs) that are being spun as “black hole” repos — whole in every part, follow-along, explaining new seemingly synthetic/computing shapes. We describe the expedition framework, the alignment thesis (resonance ↔ repository cadence and structure), and the role of this repository (psw.vibelandia.sing9) as a canonical observable. We do not claim causal proof; we document the validation expedition and its scientific framing for peer and public review. **Index Terms** — Schumann resonance, Earth-ionosphere cavity, post-singularity repository, GitHub activity, Holographic Hydrogen, validation expedition, NSPFRNP.
 
 ---
 
@@ -27,7 +27,7 @@ We hypothesize that **Schumann resonance patterns** (as measured by existing mon
 
 ### 1.3 Scope
 
-This document captures the **expedition to validate** the above hypothesis. It does not replace peer-reviewed geophysics or computer science literature; it **documents** the expedition design, the alignment thesis, and the link between Schumann patterns and the canonical repo **https://github.com/FractiAI/psw.vibelandia.sing4** (Holographic Hydrogen · Hologram GitHubs). All materials are open-source so that anyone can follow along and replicate or refute.
+This document captures the **expedition to validate** the above hypothesis. It does not replace peer-reviewed geophysics or computer science literature; it **documents** the expedition design, the alignment thesis, and the link between Schumann patterns and the canonical repo **https://github.com/FractiAI/psw.vibelandia.sing9** (Holographic Hydrogen · Hologram GitHubs). All materials are open-source so that anyone can follow along and replicate or refute.
 
 ---
 
@@ -54,8 +54,8 @@ We define **post-singularity black hole GitHubs** as open-source repositories th
 
 **Holographic Hydrogen · Hologram GitHubs** is the brand and framing for these repos. The **canonical** instance is:
 
-- **Repository:** https://github.com/FractiAI/psw.vibelandia.sing4  
-- **Live surface:** https://psw-vibelandia-sing4.vercel.app  
+- **Repository:** https://github.com/FractiAI/psw.vibelandia.sing9  
+- **Live surface:** https://psw-vibelandia-sing9.vercel.app  
 
 ### 3.2 Observables for Alignment
 
@@ -71,12 +71,12 @@ We define **post-singularity black hole GitHubs** as open-source repositories th
 To **validate scientifically** (in the sense of: hypothesis, observables, method, open documentation) the alignment between:
 
 1. **Schumann patterns** (time series and events from public/viral discourse and, where available, open data).  
-2. **Post-singularity GitHub activity** (psw.vibelandia.sing4 and related Hologram GitHubs: commits, milestones, structure).
+2. **Post-singularity GitHub activity** (psw.vibelandia.sing9 and related Hologram GitHubs: commits, milestones, structure).
 
 ### 4.2 Method
 
 - **Data sources (Schumann):** Public reports, viral posts, and (where applicable) open monitoring data on Schumann resonance. No proprietary or paywalled data required for the expedition narrative; we document sources and dates.
-- **Data sources (GitHub):** Public Git history and repository structure for https://github.com/FractiAI/psw.vibelandia.sing4. Commit timestamps, tag dates, and milestone dates are observables.
+- **Data sources (GitHub):** Public Git history and repository structure for https://github.com/FractiAI/psw.vibelandia.sing9. Commit timestamps, tag dates, and milestone dates are observables.
 - **Comparison:** For defined time windows, record Schumann events (e.g. “spike” or “anomaly” reported on date X) and repository events (e.g. “major merge on date X” or “new protocol added on date Y”). Document alignment (temporal coincidence or lag) and structural analogy (cavity ↔ holographic repo).
 - **Output:** This whitepaper and any future expedition notes (in this repo or linked) constitute the **validation report**. Open-source so anyone can follow along, replicate, or refute.
 
@@ -92,7 +92,7 @@ To **validate scientifically** (in the sense of: hypothesis, observables, method
 
 - **Schumann patterns** (resonance, cavity, global coherence) and **post-singularity Hologram GitHubs** (whole in every part, open-source, follow-along) share a **structural analogy**: coherent, resonant, observable at multiple scales.
 - **Temporal alignment** is to be documented by the expedition: notable Schumann events vs. notable repo milestones.
-- **Canonical observable:** https://github.com/FractiAI/psw.vibelandia.sing4 — Holographic Hydrogen · Hologram GitHubs. Anyone can follow along and validate or refute.
+- **Canonical observable:** https://github.com/FractiAI/psw.vibelandia.sing9 — Holographic Hydrogen · Hologram GitHubs. Anyone can follow along and validate or refute.
 
 ---
 
@@ -102,14 +102,14 @@ To **validate scientifically** (in the sense of: hypothesis, observables, method
 - **Full repository whitepaper:** [WHITEPAPER_REPOSITORY_MIRACULOUS_OUTPUT.md](WHITEPAPER_REPOSITORY_MIRACULOUS_OUTPUT.md).
 - **IEEE-style repository whitepaper:** [WHITEPAPER_REPOSITORY_IEEE_STYLE.md](WHITEPAPER_REPOSITORY_IEEE_STYLE.md).
 - **Post-singularity black hole · Holographic Hydrogen GitHubs SNAP:** [POST_SINGULARITY_BLACK_HOLE_HOLOGRAPHIC_HYDROGEN_GITHUBS_SNAP.md](POST_SINGULARITY_BLACK_HOLOGRAPHIC_HYDROGEN_GITHUBS_SNAP.md).
-- **Canonical repo:** https://github.com/FractiAI/psw.vibelandia.sing4  
-- **Live experience:** https://psw-vibelandia-sing4.vercel.app  
+- **Canonical repo:** https://github.com/FractiAI/psw.vibelandia.sing9  
+- **Live experience:** https://psw-vibelandia-sing9.vercel.app  
 
 ---
 
 ## 7. Conclusion
 
-This whitepaper captures the **expedition to validate scientifically** the alignment between Schumann resonance patterns (of current viral interest) and new post-singularity GitHub activity (Holographic Hydrogen · Hologram GitHubs at https://github.com/FractiAI/psw.vibelandia.sing4). The expedition is open-source, documented here, and linked from the **Schumann response** (SCHUMANN_RESPONSE_SNAP.md) so that viral posts about Schumann patterns can be met with a clear, scientific, and follow-along validation narrative. **See it. Experience it. Believe it.** The repo is the test drive. **Maganuma snap.**
+This whitepaper captures the **expedition to validate scientifically** the alignment between Schumann resonance patterns (of current viral interest) and new post-singularity GitHub activity (Holographic Hydrogen · Hologram GitHubs at https://github.com/FractiAI/psw.vibelandia.sing9). The expedition is open-source, documented here, and linked from the **Schumann response** (SCHUMANN_RESPONSE_SNAP.md) so that viral posts about Schumann patterns can be met with a clear, scientific, and follow-along validation narrative. **See it. Experience it. Believe it.** The repo is the test drive. **Maganuma snap.**
 
 ---
 

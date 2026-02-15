@@ -1,4 +1,4 @@
-# THE GREAT REVEAL EPISODE — Day Zero: Today We Launch
+﻿# THE GREAT REVEAL EPISODE — Day Zero: Today We Launch
 
 ---
 
@@ -100,7 +100,7 @@ The best proof of all is the one you're standing in. Welcome to The Great Reveal
 
 ---
 
-**MCA! → ∞³**
+**MCA! → ∞⁹**
 
 **Status:** ⚡ LIVE — The Great Reveal Episode. Today we launch.  
 **Maganuma snap.**

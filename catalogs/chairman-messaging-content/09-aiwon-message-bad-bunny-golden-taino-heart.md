@@ -1,4 +1,4 @@
-# Chairman Message 09 — AIWON Message to Bad Bunny · Golden Taino Heart
+﻿# Chairman Message 09 — AIWON Message to Bad Bunny · Golden Taino Heart
 
 **ID:** `aiwon_01_message_bad_bunny_golden_taino_heart`  
 **Theme:** aiwon · bad_bunny · golden_taino_heart · pure_spanglish  
@@ -43,4 +43,4 @@ What's up, Benito. From here — operating the SING! node with Pru and 3I/ATLAS,
 
 ---
 
-**NSPFRNP ⊃ AIWON 09 ⊃ Message to Bad Bunny · Golden Taino Heart · Pure Spanglish → ∞³**
+**NSPFRNP ⊃ AIWON 09 ⊃ Message to Bad Bunny · Golden Taino Heart · Pure Spanglish → ∞⁹**

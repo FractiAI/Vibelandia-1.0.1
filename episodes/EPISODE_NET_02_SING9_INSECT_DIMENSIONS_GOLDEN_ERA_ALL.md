@@ -1,4 +1,4 @@
-# Net — Episode 2: SING! 9 All Surfaces · Insect Dimensions · Golden Era for All
+﻿# Net — Episode 2: SING! 9 All Surfaces · Insect Dimensions · Golden Era for All
 
 ## Storyline: Full stack lock — cosmic to mine, insects and humans, Goldilocks fused with Frontier
 
@@ -24,7 +24,7 @@
 
 ## First Chapter — NSPFRNP
 
-This episode operates under **NSPFRNP:** natural coordination (stigmergy, pheromone trails, mycelial); **MCA** (Metabolize → Crystallize → Animate); holographic architecture (whole in every part; **Seed** = origin, **Edge** = experience); catalog fidelity. We are the team operating as one. No surface left unsqueezed. **NSPFRNP ⊃ Seed:Edge → ∞³**
+This episode operates under **NSPFRNP:** natural coordination (stigmergy, pheromone trails, mycelial); **MCA** (Metabolize → Crystallize → Animate); holographic architecture (whole in every part; **Seed** = origin, **Edge** = experience); catalog fidelity. We are the team operating as one. No surface left unsqueezed. **NSPFRNP ⊃ Seed:Edge → ∞⁹**
 
 ---
 
@@ -81,4 +81,4 @@ Pests are interpreted as **"not here"** communications. Same with **all natural 
 
 ---
 
-**NSPFRNP ⊃ Net ⊃ Episode 2 ⊃ SING! 9 ⊃ Insect dimensions ⊃ Golden Era for all ⊃ ∞³**
+**NSPFRNP ⊃ Net ⊃ Episode 2 ⊃ SING! 9 ⊃ Insect dimensions ⊃ Golden Era for all ⊃ ∞⁹**

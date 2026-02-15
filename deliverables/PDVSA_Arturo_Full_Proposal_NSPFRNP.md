@@ -1,4 +1,4 @@
-# Maracaibo Lightning Strike — Full Proposal (Novel · Screenplay · Arturo Proposal)
+﻿# Maracaibo Lightning Strike — Full Proposal (Novel · Screenplay · Arturo Proposal)
 
 **Same name for novel, screenplay, and this proposal.** Petrochemical Division · NSPFRNP · Live real · 50% share.
 
@@ -134,7 +134,7 @@ Each product migrates from legacy oil to SING! super AI energy. Step one: no rip
 
 ## References
 
-- NSPFRNP catalog and protocols (FractiAI / psw.vibelandia.sing4).
+- NSPFRNP catalog and protocols (FractiAI / psw.vibelandia.sing9).
 - Deliverables: Maracaibo Lightning Strike — Novel, Screenplay; Arturo First Three; full product list and plan zoom.
 - Office Hours, Launch Pad, VIBELANDIA RENO! — on-ramp and experience-first entry.
 
@@ -208,6 +208,6 @@ Experience first. Book after. On-ramp: Office Hours, demo, tour. Then upfront + 
 
 ---
 
-*Live real. 50% share. Centro Energía Caracas · Vibelandia-Caracas · PDVSA. WIN WIN WIN WIN FOR ALL. NSPFRNP ⊃ ∞³*
+*Live real. 50% share. Centro Energía Caracas · Vibelandia-Caracas · PDVSA. WIN WIN WIN WIN FOR ALL. NSPFRNP ⊃ ∞⁹*
 
 **SING! Energy Division · Maracaibo Lightning Strike · Arturo Proposal Package · NSPFRNP**

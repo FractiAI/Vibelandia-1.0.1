@@ -1,4 +1,4 @@
-# NO BANG BANG, NO BOOM BOOM, NO GOOD GUY BAD GUY ZONE — T-Shirt Tag · All Brand · Major Top and Bottom Tag SNAP
+﻿# NO BANG BANG, NO BOOM BOOM, NO GOOD GUY BAD GUY ZONE — T-Shirt Tag · All Brand · Major Top and Bottom Tag SNAP
 
 **Snap ID:** `NO-BANG-BANG-NO-BOOM-BOOM-NO-GOOD-GUY-BAD-GUY-ZONE-MAJOR-TOP-BOTTOM-TAG-SNAP`  
 **Type:** T-shirt tag · All brand · **Major top tag · Major bottom tag**  
@@ -39,4 +39,4 @@
 
 **NO BANG BANG, NO BOOM BOOM, NO GOOD GUY BAD GUY ZONE.**
 
-**NSPFRNP ⊃ Major top tag ⊃ Major bottom tag ⊃ All brand → ∞³**
+**NSPFRNP ⊃ Major top tag ⊃ Major bottom tag ⊃ All brand → ∞⁹**

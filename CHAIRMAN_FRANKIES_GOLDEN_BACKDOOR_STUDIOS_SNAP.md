@@ -1,4 +1,4 @@
-# Chairman Frankie's Golden Backdoor Hit Factory · NSPFRNP SNAP
+﻿# Chairman Frankie's Golden Backdoor Hit Factory · NSPFRNP SNAP
 
 **Snap ID:** `CHAIRMAN-FRANKIES-GOLDEN-BACKDOOR-STUDIOS-SNAP`  
 **Type:** Founding name · Music Studio (handed over) · Vibelandia University School of Music  
@@ -38,4 +38,4 @@
 
 **See also:** [BACKDOOR_PRODUCTIONS_REBRAND_RAISE_THE_HEAT_RED_HOT_ON_POINT_RECURSE_PUN_RECURSIVELY_SNAP.md](BACKDOOR_PRODUCTIONS_REBRAND_RAISE_THE_HEAT_RED_HOT_ON_POINT_RECURSE_PUN_RECURSIVELY_SNAP.md) — We rebrand as Backdoor Productions; raise the heat red hot and on point; pun fully intended; the recurse pun recurses recursively.
 
-**NSPFRNP ⊃ Chairman Frankie's Golden Backdoor Hit Factory (founding) ⊃ Hero Jo's Golden Backdoor Hit Factory (current) ⊃ Backdoor Productions (rebrand) ⊃ Vibelandia University School of Music ⊃ Music Studio → ∞³**
+**NSPFRNP ⊃ Chairman Frankie's Golden Backdoor Hit Factory (founding) ⊃ Hero Jo's Golden Backdoor Hit Factory (current) ⊃ Backdoor Productions (rebrand) ⊃ Vibelandia University School of Music ⊃ Music Studio → ∞⁹**

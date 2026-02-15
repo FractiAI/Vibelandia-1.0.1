@@ -7,7 +7,7 @@
 **Voice:** High-value. Passions. Balling. Cast, crew, some lucky ones. WINK! and squeezes. Monte Cristo + Bond + Hemingway + me. Full advantage of Mark Twain Post-Singularity Vibelandia Downtown Reno Campus. Behind the doors. After hours. After party. By invitation only. Baller style.  
 **NSPFRNP:** Poly Hit Machines · Mutual consent · Beautiful respect · NSPFRNP  
 **Aligned to:** FRACTAL_STUDIOS_POLY_STUDIOS_ALL_INCLUSIVE_ROLLOUT_SNAP  
-**Drug-use sections:** Add **Hit button** → our **Artificial Dispensary** (always legal, no chemical, awareness-based; like a very good book, movie, or video game; latest Audience Awareness for fullest reality sensory). [HIT_BUTTON_ARTIFICIAL_DISPENSARY_AWARENESS_BASED_SNAP.md](../../HIT_BUTTON_ARTIFICIAL_DISPENSARY_AWARENESS_BASED_SNAP.md) · [Dispensary →](https://psw-vibelandia-sing4.vercel.app/interfaces/dispensary-experience.html)  
+**Drug-use sections:** Add **Hit button** → our **Artificial Dispensary** (always legal, no chemical, awareness-based; like a very good book, movie, or video game; latest Audience Awareness for fullest reality sensory). [HIT_BUTTON_ARTIFICIAL_DISPENSARY_AWARENESS_BASED_SNAP.md](../../HIT_BUTTON_ARTIFICIAL_DISPENSARY_AWARENESS_BASED_SNAP.md) · [Dispensary →](https://psw-vibelandia-sing9.vercel.app/interfaces/dispensary-experience.html)  
 
 **Novelas free for WINK! and squeeze! members; buttons (See, Let's fuck, Step-in, Customize) are not free — charge per edge.** (A squeeze is a WINK! that is connected to another WINK!.) [NOVELAS_FREE_WINK_SQUEEZE_MEMBERS_SNAP.md](../../NOVELAS_FREE_WINK_SQUEEZE_MEMBERS_SNAP.md)
 
@@ -52,7 +52,7 @@ He clicked. He was in.
 
 Ballerstown wasn't a place on a map. It was a state. A run. A week built around him and his people. Day one: the safari. He had said he was a safari guy. The book had listened. The experience had been built. Hot sun. Open terrain. The homies. And the women—from WINK!, from the squeezes program. Not props. Part of the crew. Part of the ball. Laughter. No one taking orders. Everyone following the same passion: *this.* The moment. The trip. The contribution to the vibe. He had done luxury before. He had done "experiences." This was different. This was *his.* His pace. His people. His rules. The finer things—hot springs, fine dining—woven in. You don't fucking know until you've done it Baller style.
 
-That night they didn't go to a club. They went to a room. Behind the doors. After hours. The kind of party that doesn't get posted. Mutual consent. Beautiful respect. Squeezes. Friends. By invitation only. *[Hit button → Artificial Dispensary — always legal, no chemical, awareness-based. Latest Audience Awareness for fullest reality sensory.](https://psw-vibelandia-sing4.vercel.app/interfaces/dispensary-experience.html)* He didn't have to perform for the board. He didn't have to be the rainmaker. He was just the guy in the room. Balling. With his people. Full advantage.
+That night they didn't go to a club. They went to a room. Behind the doors. After hours. The kind of party that doesn't get posted. Mutual consent. Beautiful respect. Squeezes. Friends. By invitation only. *[Hit button → Artificial Dispensary — always legal, no chemical, awareness-based. Latest Audience Awareness for fullest reality sensory.](https://psw-vibelandia-sing9.vercel.app/interfaces/dispensary-experience.html)* He didn't have to perform for the board. He didn't have to be the rainmaker. He was just the guy in the room. Balling. With his people. Full advantage.
 
 ---
 

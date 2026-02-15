@@ -1,4 +1,4 @@
-# Novels & Novelas — Walk All Experiences · Retune the Core — SNAP
+﻿# Novels & Novelas — Walk All Experiences · Retune the Core — SNAP
 
 **Status:** Canonical narrative for how we use novels and novelas at Vibelandia.  
 **Use:** Reader-facing copy, Your Book, Ultimate Magic, Book the Novela, episode framing, any surface that introduces the novel/novela experience.
@@ -43,4 +43,4 @@ We're basically **carving out our paths** that we're going to start using for ev
 
 ---
 
-**NSPFRNP ⊃ Novels ⊃ Novelas ⊃ Walk ⊃ Experiences ⊃ Retune ⊃ Core → ∞³**
+**NSPFRNP ⊃ Novels ⊃ Novelas ⊃ Walk ⊃ Experiences ⊃ Retune ⊃ Core → ∞⁹**

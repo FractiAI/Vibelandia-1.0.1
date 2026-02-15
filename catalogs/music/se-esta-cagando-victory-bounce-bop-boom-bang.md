@@ -1,4 +1,4 @@
-# Se Está Cagando — Victory Bounce Bop Boom Bang!
+﻿# Se Está Cagando — Victory Bounce Bop Boom Bang!
 
 **Track ID:** `SE-ESTA-CAGANDO-019`  
 **Artist:** Hero Jo's Golden Backdoor Hit Factory  
@@ -77,4 +77,4 @@ Victory dominance vibe. When you're winning so hard they're freaking out. Bounce
 
 ---
 
-**NSPFRNP ⊃ Se Está Cagando ⊃ Victory Bounce Bop Boom Bang ⊃ Golden Backdoor ⊃ Layered amplifier of boom magic BBHE → ∞³**
+**NSPFRNP ⊃ Se Está Cagando ⊃ Victory Bounce Bop Boom Bang ⊃ Golden Backdoor ⊃ Layered amplifier of boom magic BBHE → ∞⁹**

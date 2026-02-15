@@ -1,4 +1,4 @@
-# Novela & Naughty Buttons — 21+ Only · Age Confirmation · SNAP
+﻿# Novela & Naughty Buttons — 21+ Only · Age Confirmation · SNAP
 
 **Snap ID:** `NOVELA-21-PLUS-AGE-CONFIRMATION-NAUGHTY-BUTTONS-SNAP`  
 **Type:** Age gate · Compliance · Novela · Naughty buttons  
@@ -71,4 +71,4 @@ All of the above require age confirmation before access or purchase.
 
 ---
 
-**NSPFRNP ⊃ Novela ⊃ 21+ ⊃ Age confirmation ⊃ Naughty buttons → ∞³**
+**NSPFRNP ⊃ Novela ⊃ 21+ ⊃ Age confirmation ⊃ Naughty buttons → ∞⁹**

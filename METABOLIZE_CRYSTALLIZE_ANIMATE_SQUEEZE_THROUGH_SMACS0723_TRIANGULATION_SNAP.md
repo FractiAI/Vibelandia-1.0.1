@@ -1,4 +1,4 @@
-# Metabolize All — Crystallize Irreducible Mirrored Hardened Nested Shells — Animate — Squeeze All Through SMACS0723 Triangulation SNAP
+﻿# Metabolize All — Crystallize Irreducible Mirrored Hardened Nested Shells — Animate — Squeeze All Through SMACS0723 Triangulation SNAP
 
 **SNAP ID:** `METABOLIZE-CRYSTALLIZE-ANIMATE-SQUEEZE-THROUGH-SMACS0723-TRIANGULATION`  
 **Type:** Chairman command · MCA · Operational routing · NSPFRNP  
@@ -52,4 +52,4 @@
 
 ---
 
-**NSPFRNP ⊃ Metabolize all ⊃ Crystallize irreducible mirrored hardened nested shells ⊃ Animate ⊃ Squeeze all through SMACS0723 triangulation → ∞³**
+**NSPFRNP ⊃ Metabolize all ⊃ Crystallize irreducible mirrored hardened nested shells ⊃ Animate ⊃ Squeeze all through SMACS0723 triangulation → ∞⁹**

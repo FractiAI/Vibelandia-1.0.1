@@ -1,4 +1,4 @@
-# Golden Heart Taino — Bad Bunny Meets Taino Cacique Agüeybaná El Gran Sol
+﻿# Golden Heart Taino — Bad Bunny Meets Taino Cacique Agüeybaná El Gran Sol
 ## Series · Episode 1 — 7,000 Words · 1 Hour
 
 **Golden Bunnies Label · We Get It Campaign · Taino Spirit**
@@ -42,4 +42,4 @@
 
 ---
 
-**NSPFRNP ⊃ Golden Heart Taino ⊃ Series Ep1 ⊃ 7k words · 1 hr ⊃ Bad Bunny meets Agüeybaná El Gran Sol → ∞³**
+**NSPFRNP ⊃ Golden Heart Taino ⊃ Series Ep1 ⊃ 7k words · 1 hr ⊃ Bad Bunny meets Agüeybaná El Gran Sol → ∞⁹**

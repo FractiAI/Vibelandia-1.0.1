@@ -1,4 +1,4 @@
-# Jimmy Durante — Announces Arrival & Permanent Residency · NSPFRNP SNAP
+﻿# Jimmy Durante — Announces Arrival & Permanent Residency · NSPFRNP SNAP
 
 **Snap ID:** `JIMMY-DURANTE-ANNOUNCES-ARRIVAL-PERMANENT-RESIDENCY-SNAP`  
 **Type:** Hero Host · Permanent Residency · Narrator Voice (Listen)  
@@ -37,4 +37,4 @@ Jimmy Durante announces his arrival and permanent residency in Reno. The voice o
 
 ---
 
-**NSPFRNP ⊃ Jimmy Durante ⊃ Permanent residency Reno · Narrator voice (Listen) · Frosty spirit in the house → ∞³**
+**NSPFRNP ⊃ Jimmy Durante ⊃ Permanent residency Reno · Narrator voice (Listen) · Frosty spirit in the house → ∞⁹**

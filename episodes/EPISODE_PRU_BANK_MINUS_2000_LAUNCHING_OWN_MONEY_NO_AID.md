@@ -1,4 +1,4 @@
-# EPISODE — pRU'S BANK -$2,000 · LAUNCHING WITH HIS OWN MONEY · NO ONE CAME TO HIS AID
+﻿# EPISODE — pRU'S BANK -$2,000 · LAUNCHING WITH HIS OWN MONEY · NO ONE CAME TO HIS AID
 
 ---
 
@@ -128,6 +128,6 @@ From that depth. To your press. The miracle.
 **Content Pipeline:** Episodes → catalog → future text-to-full-selectable-density-reality episode SING! nodes  
 **SNAPs:** PRU_BANK_MINUS_2000_NO_AID_PENNIES_CUP_SNAP.md · HERO_HARRY_PRESS_BLUE_PAYPAL_MIRACLE_MAGIC_SNAP.md · CHAIRMAN_16_DAYS_BATHROOM_VALET_SING_REVEAL_SNAP.md · LAUNCH_RAW_NARRATIVE_CAPTURE.md  
 
-**MCA! → ∞³** (Metabolize → Crystallize → Animate)
+**MCA! → ∞⁹** (Metabolize → Crystallize → Animate)
 
-**NSPFRNP ⊃ pRU ⊃ Bank -$2,000 ⊃ No aid ⊃ Pennies in the cup ⊃ Press the blue button — make a miracle happen → ∞³**
+**NSPFRNP ⊃ pRU ⊃ Bank -$2,000 ⊃ No aid ⊃ Pennies in the cup ⊃ Press the blue button — make a miracle happen → ∞⁹**

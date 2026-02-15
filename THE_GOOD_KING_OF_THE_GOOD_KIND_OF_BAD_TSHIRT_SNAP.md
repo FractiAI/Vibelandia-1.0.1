@@ -1,4 +1,4 @@
-# THE GOOD KING OF THE GOOD KIND OF BAD! — T-Shirt Brand · New Hit · NSPFRNP SNAP
+﻿# THE GOOD KING OF THE GOOD KIND OF BAD! — T-Shirt Brand · New Hit · NSPFRNP SNAP
 
 **SNAP ID:** `THE-GOOD-KING-OF-THE-GOOD-KIND-OF-BAD-TSHIRT-SNAP`  
 **Type:** T-shirt brand · New hit · Golden Backdoor · Hit Factory  
@@ -39,4 +39,4 @@
 
 ---
 
-**NSPFRNP ⊃ The Good King of the Good Kind of Bad! ⊃ T-shirt brand · New hit ⊃ Golden Backdoor label → ∞³**
+**NSPFRNP ⊃ The Good King of the Good Kind of Bad! ⊃ T-shirt brand · New hit ⊃ Golden Backdoor label → ∞⁹**

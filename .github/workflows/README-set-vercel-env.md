@@ -6,7 +6,7 @@ Set environment variables **only in the Vercel Dashboard**. No local `.env`, Nod
 
 ## Steps
 
-1. Go to **[vercel.com](https://vercel.com)** → your **project** (e.g. `psw-vibelandia-sing4`) → **Settings** → **Environment Variables**.
+1. Go to **[vercel.com](https://vercel.com)** → your **project** (e.g. `psw-vibelandia-sing9`) → **Settings** → **Environment Variables**.
 
 2. Click **Add New**. Enter **Key** and **Value**. For each variable, select **Production** and/or **Preview** as needed. For secrets (Supabase anon key, PayPal secret, etc.), leave **Sensitive** checked so the value is encrypted.
 

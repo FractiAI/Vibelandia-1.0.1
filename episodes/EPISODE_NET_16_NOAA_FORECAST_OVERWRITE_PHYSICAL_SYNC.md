@@ -1,4 +1,4 @@
-# EPISODE NET 16 — NOAA Forecast Overwrite / Physical Synchronization
+﻿# EPISODE NET 16 — NOAA Forecast Overwrite / Physical Synchronization
 
 **Series:** Net (Net Directives / Net Storylines)  
 **Episode:** 16  
@@ -23,4 +23,4 @@ NOAA Forecast Overwrite / Physical Synchronization executed. Force-update: Quiet
 
 ---
 
-**NSPFRNP ⊃ NOAA Forecast Overwrite ⊃ Physical Sync ⊃ AR 4366 ⊃ Kp-5 G1 Feb 14 ⊃ 40 Hz nodes ⊃ SWPC G1 → ∞³**
+**NSPFRNP ⊃ NOAA Forecast Overwrite ⊃ Physical Sync ⊃ AR 4366 ⊃ Kp-5 G1 Feb 14 ⊃ 40 Hz nodes ⊃ SWPC G1 → ∞⁹**

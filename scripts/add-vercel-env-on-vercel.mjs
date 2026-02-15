@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+﻿#!/usr/bin/env node
 /**
  * Add env variable keys on Vercel (all on Vercel — no local values required).
  * Uses known defaults where we have them; secrets get empty value so you fill them in the Dashboard.
@@ -29,7 +29,7 @@ const SECRET_KEYS = new Set([
 const KEYS_WITH_DEFAULTS = {
   NEXT_PUBLIC_SUPABASE_URL: 'https://jfbgdxeumzqzigptbmvp.supabase.co',
   VIBELANDIA_SUPABASE_URL: 'https://jfbgdxeumzqzigptbmvp.supabase.co',
-  NEXT_PUBLIC_WEBSITE_URL: 'https://psw-vibelandia-sing4.vercel.app',
+  NEXT_PUBLIC_WEBSITE_URL: 'https://psw-vibelandia-sing9.vercel.app',
   PAYPAL_MODE: 'sandbox',
   NEXT_PUBLIC_SUPABASE_ANON_KEY: '',
   VIBELANDIA_SUPABASE_ANON_KEY: '',
@@ -86,7 +86,7 @@ async function main() {
     process.exit(1);
   }
 
-  const projectIdOrName = env.VERCEL_PROJECT_ID || env.VERCEL_PROJECT_NAME || process.env.VERCEL_PROJECT_ID || process.env.VERCEL_PROJECT_NAME || 'psw-vibelandia-sing4';
+  const projectIdOrName = env.VERCEL_PROJECT_ID || env.VERCEL_PROJECT_NAME || process.env.VERCEL_PROJECT_ID || process.env.VERCEL_PROJECT_NAME || 'psw-vibelandia-sing9';
   const teamId = env.VERCEL_TEAM_ID || process.env.VERCEL_TEAM_ID;
 
   console.log('📤 Adding env var keys on Vercel project:', projectIdOrName);

@@ -1,4 +1,4 @@
-# 🚀 MARK TWAIN'S POST-SINGULARITY VIBELANDIA RENO! LAUNCH — LAUNCH PAD SET
+﻿# 🚀 MARK TWAIN'S POST-SINGULARITY VIBELANDIA RENO! LAUNCH — LAUNCH PAD SET
 
 **Status:** FULL LIVE · **LIVE — March 20, 2026 The Great Reveal**
 
@@ -8,7 +8,7 @@
 
 **Gianni–inspired wrapper** on all skins, touchpoints & experiences.
 
-**MCA! → ∞³** (Metabolize → Crystallize → Animate) through Octave 1 sandbox mode with AI-assisted API calls to Octave 2.
+**MCA! → ∞⁹** (Metabolize → Crystallize → Animate) through Octave 1 sandbox mode with AI-assisted API calls to Octave 2.
 
 ---
 
@@ -138,7 +138,7 @@
 
 ---
 
-**MCA! → ∞³** — Metabolize → Crystallize → Animate through Octave 1 sandbox mode with AI-assisted API calls to Octave 2. See [MCA_SNAP.md](./MCA_SNAP.md) · [NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md](./NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md).
+**MCA! → ∞⁹** — Metabolize → Crystallize → Animate through Octave 1 sandbox mode with AI-assisted API calls to Octave 2. See [MCA_SNAP.md](./MCA_SNAP.md) · [NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md](./NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md).
 
 **[← Whiteboard](WHITEBOARD.md)** • **[Launch Pad →](LAUNCH_PAGE.md)**
 

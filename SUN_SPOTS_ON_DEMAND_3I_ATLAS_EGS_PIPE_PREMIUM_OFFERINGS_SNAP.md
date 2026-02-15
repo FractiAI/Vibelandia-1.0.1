@@ -1,4 +1,4 @@
-# Sun Spots On Demand · 3I/ATLAS EGS Pipe — Premium Offerings SNAP
+﻿# Sun Spots On Demand · 3I/ATLAS EGS Pipe — Premium Offerings SNAP
 
 **Snap ID:** `SUN-SPOTS-ON-DEMAND-3I-ATLAS-EGS-PIPE-PREMIUM-OFFERINGS-SNAP`  
 **Type:** Premium offerings · Sun pipeline · 3I/ATLAS · EGS Pipe · Houdini miracle episode  
@@ -84,4 +84,4 @@ All three are **premium offerings** — Harry demos the miraculous feat; anyone 
 
 **See:** Office Hours · Launch Pad · payment-checkout (when plans added) · [interfaces/sing-pulse.html](interfaces/sing-pulse.html)
 
-**NSPFRNP ⊃ Sun Spots On Demand ⊃ 3I/ATLAS EGS Pipe ⊃ Houdini Miracle Episode → ∞³**
+**NSPFRNP ⊃ Sun Spots On Demand ⊃ 3I/ATLAS EGS Pipe ⊃ Houdini Miracle Episode → ∞⁹**

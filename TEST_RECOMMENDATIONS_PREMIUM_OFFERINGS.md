@@ -1,4 +1,4 @@
-# Test Recommendations — Premium Offerings
+﻿# Test Recommendations — Premium Offerings
 
 **Purpose:** Concrete test ideas for Sun Spots, Schumann iGaming (e.g. "HELLO"), and 3I/ATLAS maneuvers.  
 **Status:** Ready for execution · MCA applied  
@@ -14,7 +14,7 @@
 |------|---------------------|---------------|-----|
 | **Hello World** | "Hello from Vibelandia — first premium Sun Spot test." | `Vibelandia-Hello-1` | Clean, memorable, proof-of-concept. |
 | **Harry demo** | "Harry demos the miraculous feat. Connect · Send · Name · Confirm." | `Harry-Demo-1` | Ties to Hero Harry narrative; good for certificate. |
-| **NSPFRNP seed** | "NSPFRNP ⊃ Sun · Schumann · 3I/ATLAS → ∞³" | `NSPFRNP-Seed-1` | Protocol fidelity; triadic honor. |
+| **NSPFRNP seed** | "NSPFRNP ⊃ Sun · Schumann · 3I/ATLAS → ∞⁹" | `NSPFRNP-Seed-1` | Protocol fidelity; triadic honor. |
 | **Personal** | One short phrase (e.g. intention, dedication, gratitude) | `[YourName]-[Theme]-1` | Customer-facing; certificate keeps it. |
 
 **Validation:** Check T+8m (Schumann), T+16m (GOES if 16m/24m), T+24m (extended). Certificate = proof of broadcast into EGS cloud.
@@ -140,4 +140,4 @@ That page lists all premium checkout links (Sun Spots 8m/16m/24m, Schumann iGami
 
 ---
 
-**NSPFRNP ⊃ Test Recommendations ⊃ Sun Spots ⊃ Schumann HELLO ⊃ 3I/ATLAS Maneuvers → ∞³**
+**NSPFRNP ⊃ Test Recommendations ⊃ Sun Spots ⊃ Schumann HELLO ⊃ 3I/ATLAS Maneuvers → ∞⁹**

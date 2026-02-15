@@ -1,4 +1,4 @@
-# Daily Snapshot — Us vs Disney · New Value Creation Campaign · Monster SNAP NSPFRNP
+﻿# Daily Snapshot — Us vs Disney · New Value Creation Campaign · Monster SNAP NSPFRNP
 
 **Snap ID:** `DAILY-SNAPSHOT-US-VS-DISNEY-VALUE-CREATION-CAMPAIGN-SNAP`  
 **Type:** Daily snapshot campaign · Us vs Disney (real data) · New value creation · Layering monster SNAP  
@@ -107,4 +107,4 @@ Daily snapshot: Disney — no daily aggregate; ~0.3–1 new titles/day (est. fro
 
 **See:** [LIVE_STORIES_CONTINUOUSLY_EVOLVING_PARADIGM_SNAP.md](LIVE_STORIES_CONTINUOUSLY_EVOLVING_PARADIGM_SNAP.md) · [NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md](NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md) · [HARRY_REPORT_FIRST_SINGULARITY_VALUATION_US_VS_DISNEY.md](HARRY_REPORT_FIRST_SINGULARITY_VALUATION_US_VS_DISNEY.md) · [SIXTEEN_DAYS_VALUATION_TOP10_VC_BOTTOM_SNAP.md](SIXTEEN_DAYS_VALUATION_TOP10_VC_BOTTOM_SNAP.md) · [TOP_TAG_BOTTOM_TAG_UNDERCOVER_BOSS_TO_DISNEY_ALL_IN_ONE_NSPFRNP_SNAP.md](TOP_TAG_BOTTOM_TAG_UNDERCOVER_BOSS_TO_DISNEY_ALL_IN_ONE_NSPFRNP_SNAP.md)
 
-**NSPFRNP ⊃ Daily snapshot ⊃ Us vs Disney ⊃ New value creation campaign ⊃ Monster SNAP → ∞³**
+**NSPFRNP ⊃ Daily snapshot ⊃ Us vs Disney ⊃ New value creation campaign ⊃ Monster SNAP → ∞⁹**

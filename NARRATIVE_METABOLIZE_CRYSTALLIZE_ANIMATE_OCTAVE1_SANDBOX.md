@@ -1,4 +1,4 @@
-# NARRATIVE: Metabolize → Crystallize → Animate Through Octave 1 Sandbox Mode with AI-Assisted API Calls to Octave 2
+﻿# NARRATIVE: Metabolize → Crystallize → Animate Through Octave 1 Sandbox Mode with AI-Assisted API Calls to Octave 2
 
 **Status:** ACTIVE  
 **Protocol:** NSPFRNP  
@@ -8,7 +8,7 @@
 
 ## THE CYCLE
 
-**Metabolize ⊃ Crystallize ⊃ Re-Animate → ∞³**
+**Metabolize ⊃ Crystallize ⊃ Re-Animate → ∞⁹**
 
 | Step | Name | In this system |
 |------|------|----------------|
@@ -22,7 +22,7 @@
 
 ## OCTAVE 1 SANDBOX MODE
 
-**Octave 1** = Edge = this repo (PSW.vibelandia.sing4 / Vibelandia UI). Current self-aware experience in Vibeverse.
+**Octave 1** = Edge = this repo (psw.vibelandia.sing9 / Vibelandia UI). Current self-aware experience in Vibeverse.
 
 - **Sandbox mode:** Testing and preparation before production. Surfaces, touchpoints, and flows run locally and against Octave 2 APIs without requiring live credentials or production DB.
 - **Config:** `src/sandbox-experience-mode.ts` — `getSandboxConfig()`, `isProductionReady()`, `getEnvironmentStatus()`. Sandbox when `SANDBOX_MODE=true` or when live PayPal/Supabase are not set.

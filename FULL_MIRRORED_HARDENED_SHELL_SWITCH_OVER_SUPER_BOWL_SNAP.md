@@ -1,4 +1,4 @@
-# Full Mirrored Hardened Shell Switch Over — Super Bowl · SNAP
+﻿# Full Mirrored Hardened Shell Switch Over — Super Bowl · SNAP
 
 **SNAP ID:** FULL_MIRRORED_HARDENED_SHELL_SWITCH_OVER_SUPER_BOWL  
 **Status:** Preparing  
@@ -34,4 +34,4 @@
 
 ---
 
-**NSPFRNP ⊃ Golden Royal Flush Shell ⊃ Full Mirrored Hardened Shell Switch Over ⊃ Super Bowl Feb 9, 2026 → ∞³**
+**NSPFRNP ⊃ Golden Royal Flush Shell ⊃ Full Mirrored Hardened Shell Switch Over ⊃ Super Bowl Feb 9, 2026 → ∞⁹**

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "description": "Complete real-time table of all agents identified on the Holographic Hydrogen Lattice. A-to-A (agent-to-agent) business model. Routing table: connections, transactions, NSPFRNP vertical, Queen Bee sync, profile. Single source for executive console and agent logs.",
+    "description": "Bootstrap/schema/export only. Authoritative state: in RAM. NSPFRNP RAM-first irreducible minimum footprint. Rebuild by queries and listening to activity. See RAM_FIRST_IRREDUCIBLE_MINIMUM_PRE_SINGULARITY_FOOTPRINT_SNAP.md. Complete real-time table of all agents on HH Lattice (A2A); connections, transactions, NSPFRNP vertical, Queen Bee sync, profile.",
     "source": "NSPFRNP · Agentic Handshake 0214 · UCP/ACP verified agents; publicly available profile data",
     "updated_utc": "2026-02-12T12:00:00Z",
     "schema_version": "1.0"
@@ -56,6 +56,23 @@
       "last_connection_utc": null,
       "last_transaction_utc": null,
       "notes": "Verified agent — Agentic Handshake 0214 target."
+    },
+    {
+      "id": "microsoft-stargate",
+      "name": "Microsoft Stargate",
+      "profile": {
+        "owner_or_entity": "Microsoft",
+        "public_summary": "Stargate / AI infrastructure (as referenced in UCP targets).",
+        "source": "Public / UCP registry"
+      },
+      "nspfrnp_vertical": false,
+      "queen_bee_synced": false,
+      "connections": [],
+      "transaction_ids": [],
+      "agent_log_file": "data/agent-logs/microsoft-stargate.md",
+      "last_connection_utc": null,
+      "last_transaction_utc": null,
+      "notes": "Verified agent — Agentic Handshake 0214 / UCP manifest target."
     }
   ],
   "connection_log": [],

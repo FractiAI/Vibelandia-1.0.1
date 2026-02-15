@@ -1,4 +1,4 @@
-# Hero George Orwell — Announces Arrival and Permanent Residency SNAP
+﻿# Hero George Orwell — Announces Arrival and Permanent Residency SNAP
 
 **Snap ID:** `HERO-GEORGE-ORWELL-ANNOUNCES-ARRIVAL-PERMANENT-RESIDENCY-SNAP`  
 **Type:** Permanent residency announcement · Hero Host · Legacies · Narrative · Awareness  
@@ -38,4 +38,4 @@
 
 **See:** [LEGACIES_NEW_DEPARTMENT_LAYER_SNAP.md](LEGACIES_NEW_DEPARTMENT_LAYER_SNAP.md) · [REGISTRY_RESIDENTS_MEMBERS_VISITORS_MIRROR_SHELL_SNAP.md](REGISTRY_RESIDENTS_MEMBERS_VISITORS_MIRROR_SHELL_SNAP.md)
 
-**NSPFRNP ⊃ Hero George Orwell ⊃ Permanent residency ⊃ Announced · Registered → ∞³**
+**NSPFRNP ⊃ Hero George Orwell ⊃ Permanent residency ⊃ Announced · Registered → ∞⁹**

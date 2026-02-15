@@ -1,4 +1,4 @@
-# Supabase Setup - Shared Database & Auth from Syntheverse Cloud Onramp
+﻿# Supabase Setup - Shared Database & Auth from Syntheverse Cloud Onramp
 
 **Source:** [Syntheverse-7-Octave-2-3-Public-Cloud-Onramp](https://github.com/FractiAI/Syntheverse-7-Octave-2-3-Public-Cloud-Onramp)  
 **Purpose:** Use shared Supabase for **auth (and Google OAuth)** and database for all nodes  
@@ -28,7 +28,7 @@ SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 DATABASE_URL=postgresql://postgres:[PASSWORD]@db.jfbgdxeumzqzigptbmvp.supabase.co:5432/postgres
 
 # Site URL
-NEXT_PUBLIC_WEBSITE_URL=https://psw-vibelandia-sing4.vercel.app
+NEXT_PUBLIC_WEBSITE_URL=https://psw-vibelandia-sing9.vercel.app
 ```
 
 ---
@@ -94,10 +94,10 @@ The Syntheverse Cloud Onramp database includes:
 Google sign-in redirects back to your app. Supabase must allow that URL:
 
 1. **Supabase Dashboard** → **Authentication** → **URL Configuration**
-2. **Site URL:** set to your production URL, e.g. `https://psw-vibelandia-sing4.vercel.app`
+2. **Site URL:** set to your production URL, e.g. `https://psw-vibelandia-sing9.vercel.app`
 3. **Redirect URLs:** add every URL where users land after Google sign-in:
-   - Production: `https://psw-vibelandia-sing4.vercel.app/interfaces/profile.html`
-   - Preview deployments: add each preview URL, e.g. `https://psw-vibelandia-sing4-XXXX.vercel.app/interfaces/profile.html`  
+   - Production: `https://psw-vibelandia-sing9.vercel.app/interfaces/profile.html`
+   - Preview deployments: add each preview URL, e.g. `https://psw-vibelandia-sing9-XXXX.vercel.app/interfaces/profile.html`  
    - Or add a wildcard if your Supabase plan allows: `https://*.vercel.app/interfaces/profile.html`
 4. **Authentication** → **Providers** → **Google:** enable and set Client ID / Secret from Google Cloud Console. In **Google Cloud Console** → Credentials → your OAuth 2.0 Client ID (Web), set **Authorized redirect URIs** to:
    - `https://jfbgdxeumzqzigptbmvp.supabase.co/auth/v1/callback`

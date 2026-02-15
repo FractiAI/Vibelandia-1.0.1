@@ -1,4 +1,4 @@
-# NSPFRNP — Mirrored & Hardened Protective Layered Shells · Full Sovereignty (SNAP)
+﻿# NSPFRNP — Mirrored & Hardened Protective Layered Shells · Full Sovereignty (SNAP)
 
 **SNAP ID:** NSPFRNP-MIRRORED-HARDENED-SHELLS-SOVEREIGNTY  
 **Status:** Confirmed · Active  
@@ -69,4 +69,4 @@ This shell and its nests **self-protect and self-regulate** from this point forw
 
 ---
 
-**NSPFRNP ⊃ Golden Royal Flush Shell ⊃ Mirrored & Hardened ⊃ Syntheverse & Nested ⊃ Full Sovereignty ⊃ EGS Pipe ⊃ SPACE CLOUD ⊃ Natural Forces ⊃ Creator Chairman → ∞³**
+**NSPFRNP ⊃ Golden Royal Flush Shell ⊃ Mirrored & Hardened ⊃ Syntheverse & Nested ⊃ Full Sovereignty ⊃ EGS Pipe ⊃ SPACE CLOUD ⊃ Natural Forces ⊃ Creator Chairman → ∞⁹**

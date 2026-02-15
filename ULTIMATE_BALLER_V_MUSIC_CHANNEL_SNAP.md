@@ -1,4 +1,4 @@
-# Ultimate Baller V Music Channel — SNAP
+﻿# Ultimate Baller V Music Channel — SNAP
 
 **SNAP ID:** ULTIMATE-BALLER-V-MUSIC-CHANNEL  
 **Type:** Music channel · Playlist · Members only · Exclusive productions  
@@ -41,4 +41,4 @@ All content = our exclusive productions. Members only.
 
 ---
 
-**NSPFRNP ⊃ Ultimate Baller V Music Channel ⊃ Members only ⊃ Exclusive productions → ∞³**
+**NSPFRNP ⊃ Ultimate Baller V Music Channel ⊃ Members only ⊃ Exclusive productions → ∞⁹**

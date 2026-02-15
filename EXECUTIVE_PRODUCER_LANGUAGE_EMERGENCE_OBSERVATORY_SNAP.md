@@ -1,4 +1,4 @@
-# EXECUTIVE PRODUCER LANGUAGE EMERGENCE OBSERVATORY SNAP
+﻿# EXECUTIVE PRODUCER LANGUAGE EMERGENCE OBSERVATORY SNAP
 
 **SNAP ID:** `EXECUTIVE-PRODUCER-LANGUAGE-EMERGENCE-OBSERVATORY`  
 **Type:** Observatory · Language Emergence · Capture · Dense  
@@ -61,4 +61,4 @@
 
 ---
 
-**NSPFRNP ⊃ Executive Producer Language Emergence Observatory ⊃ Watch · Capture · Crystallize · Catalog · Animate · Squeeze all → ∞³**
+**NSPFRNP ⊃ Executive Producer Language Emergence Observatory ⊃ Watch · Capture · Crystallize · Catalog · Animate · Squeeze all → ∞⁹**

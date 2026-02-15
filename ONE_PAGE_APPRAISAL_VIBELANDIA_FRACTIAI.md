@@ -1,4 +1,4 @@
-# One-Page Appraisal — Vibelandia & FractiAI (One-Man Shop)
+﻿# One-Page Appraisal — Vibelandia & FractiAI (One-Man Shop)
 
 **Appraisal ID:** `ONE-PAGE-APPRAISAL-VIBELANDIA-FRACTIAI`  
 **Type:** One-page appraisal · Key points · Comparisons · Appraised value · Data used to confirm  
@@ -86,16 +86,16 @@ Links to data and artifacts used to confirm appraisal, validation, and run evide
 
 | Data / artifact | Purpose | Link |
 |-----------------|---------|------|
-| **Handshake log** | Solar handshake cycle timestamps (8-min FTE window) | [data/handshake.log](https://github.com/FractiAI/psw.vibelandia.sing4/blob/main/data/handshake.log) |
-| **Telemetry** | Heartbeat, EGS cycle, mission status | [data/telemetry.json](https://github.com/FractiAI/psw.vibelandia.sing4/blob/main/data/telemetry.json) |
-| **Pulse run log** | T+8m / T+16m validation (Run 1 & 2) | [pulse/run_log.md](https://github.com/FractiAI/psw.vibelandia.sing4/blob/main/pulse/run_log.md) |
-| **Pulse run write-up** | Protocol, findings, GOES data | [pulse/PULSE_RUN1_T16M_WRITEUP.md](https://github.com/FractiAI/psw.vibelandia.sing4/blob/main/pulse/PULSE_RUN1_T16M_WRITEUP.md) |
-| **SING! broadcast log** | Morse payload, 3I/ATLAS SYNC cycles | [pulse/sing_log.json](https://github.com/FractiAI/psw.vibelandia.sing4/blob/main/pulse/sing_log.json) |
-| **Live Pulse UI** | 21.4 Hz, heartbeat, telemetry display | [interfaces/sing-pulse.html](https://psw-vibelandia-sing4.vercel.app/interfaces/sing-pulse.html) |
+| **Handshake log** | Solar handshake cycle timestamps (8-min FTE window) | [data/handshake.log](https://github.com/FractiAI/psw.vibelandia.sing9/blob/main/data/handshake.log) |
+| **Telemetry** | Heartbeat, EGS cycle, mission status | [data/telemetry.json](https://github.com/FractiAI/psw.vibelandia.sing9/blob/main/data/telemetry.json) |
+| **Pulse run log** | T+8m / T+16m validation (Run 1 & 2) | [pulse/run_log.md](https://github.com/FractiAI/psw.vibelandia.sing9/blob/main/pulse/run_log.md) |
+| **Pulse run write-up** | Protocol, findings, GOES data | [pulse/PULSE_RUN1_T16M_WRITEUP.md](https://github.com/FractiAI/psw.vibelandia.sing9/blob/main/pulse/PULSE_RUN1_T16M_WRITEUP.md) |
+| **SING! broadcast log** | Morse payload, 3I/ATLAS SYNC cycles | [pulse/sing_log.json](https://github.com/FractiAI/psw.vibelandia.sing9/blob/main/pulse/sing_log.json) |
+| **Live Pulse UI** | 21.4 Hz, heartbeat, telemetry display | [interfaces/sing-pulse.html](https://psw-vibelandia-sing9.vercel.app/interfaces/sing-pulse.html) |
 | **GOES X-ray flux** | Solar validation (T+16m window) | [NOAA SWPC GOES](https://www.swpc.noaa.gov/products/goes-x-ray-flux) |
-| **First Singularity novel** | Delivered artifact (~72k words) | [deliverables/First_Singularity_January_13th_NOVEL.md](https://github.com/FractiAI/psw.vibelandia.sing4/blob/main/deliverables/First_Singularity_January_13th_NOVEL.md) |
-| **First Singularity screenplay** | Delivered artifact (~12k words) | [deliverables/First_Singularity_January_13th_SCREENPLAY.md](https://github.com/FractiAI/psw.vibelandia.sing4/blob/main/deliverables/First_Singularity_January_13th_SCREENPLAY.md) |
-| **Episodes** | Major discoveries series, episode list | [episodes/](https://github.com/FractiAI/psw.vibelandia.sing4/tree/main/episodes) |
+| **First Singularity novel** | Delivered artifact (~72k words) | [deliverables/First_Singularity_January_13th_NOVEL.md](https://github.com/FractiAI/psw.vibelandia.sing9/blob/main/deliverables/First_Singularity_January_13th_NOVEL.md) |
+| **First Singularity screenplay** | Delivered artifact (~12k words) | [deliverables/First_Singularity_January_13th_SCREENPLAY.md](https://github.com/FractiAI/psw.vibelandia.sing9/blob/main/deliverables/First_Singularity_January_13th_SCREENPLAY.md) |
+| **Episodes** | Major discoveries series, episode list | [episodes/](https://github.com/FractiAI/psw.vibelandia.sing9/tree/main/episodes) |
 | **16-day named comparisons** | Research, dev, enterprise, academic comps | [SIXTEEN_DAYS_NAMED_COMPARISONS_RESEARCH_DEV_ENTERPRISE_ACADEMIC.md](SIXTEEN_DAYS_NAMED_COMPARISONS_RESEARCH_DEV_ENTERPRISE_ACADEMIC.md) |
 | **Harry Report (Us vs Disney)** | Novel + script valuation, comparables | [HARRY_REPORT_FIRST_SINGULARITY_VALUATION_US_VS_DISNEY.md](HARRY_REPORT_FIRST_SINGULARITY_VALUATION_US_VS_DISNEY.md) |
 | **Valuation vs top 10 / VC** | What we value at, speculative VC | [SIXTEEN_DAYS_VALUATION_TOP10_VC_BOTTOM_SNAP.md](SIXTEEN_DAYS_VALUATION_TOP10_VC_BOTTOM_SNAP.md) |
@@ -110,4 +110,4 @@ Since January 13, no budget. I haven't even been able to go through all this ric
 
 **See:** [interfaces/one-page-appraisal.html](interfaces/one-page-appraisal.html) · [broadcast-pipe-ad-space.html](interfaces/broadcast-pipe-ad-space.html) · [new-product-families.html](interfaces/new-product-families.html) · [protocols/PRODUCTS_SERVICES_BRIDGE_NODE_ROLES_NSPFRNP.md](protocols/PRODUCTS_SERVICES_BRIDGE_NODE_ROLES_NSPFRNP.md) · [SINCE_JANUARY_13_DISNEY_COMPARISON_STATEMENT_SNAP.md](SINCE_JANUARY_13_DISNEY_COMPARISON_STATEMENT_SNAP.md) · [LIVE_STORIES_CONTINUOUSLY_EVOLVING_PARADIGM_SNAP.md](LIVE_STORIES_CONTINUOUSLY_EVOLVING_PARADIGM_SNAP.md)
 
-**NSPFRNP ⊃ One-page appraisal ⊃ Artifacts · Divisions · Discoveries · Products · Bridge node roles · Never bought, always booked · Reappraisal · Vibelandia & FractiAI → ∞³**
+**NSPFRNP ⊃ One-page appraisal ⊃ Artifacts · Divisions · Discoveries · Products · Bridge node roles · Never bought, always booked · Reappraisal · Vibelandia & FractiAI → ∞⁹**

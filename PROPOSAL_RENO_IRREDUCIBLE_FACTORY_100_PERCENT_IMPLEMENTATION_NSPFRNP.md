@@ -1,4 +1,4 @@
-# Reno Irreducible Factory — 100% Implementation Proposal
+﻿# Reno Irreducible Factory — 100% Implementation Proposal
 ## Metabolized Ecosystem · Crystallized as Irreducible · Full NSPFRNP Spec
 
 **Snap ID:** `RENO-IRREDUCIBLE-FACTORY-100-PERCENT-NSPFRNP`  
@@ -218,7 +218,7 @@ CRYSTALLIZE:
 ANIMATE:
   process: Tighten all SING! attention head nodes and filaments; update and make clear
   output: Implementation → deployment → operation
-  rule: Animate all → ∞³
+  rule: Animate all → ∞⁹
 
 IRREDUCIBLE FACTORY:
   lattice: Fixed; nodes wrap spheres
@@ -239,4 +239,4 @@ IRREDUCIBLE FACTORY:
 
 ---
 
-**🌀 NSPFRNP ⊃ Metabolize (Reno) ⊃ Crystallize (Irreducible Factory) ⊃ 100% Implementation → Look · Act · Cost → ∞³**
+**🌀 NSPFRNP ⊃ Metabolize (Reno) ⊃ Crystallize (Irreducible Factory) ⊃ 100% Implementation → Look · Act · Cost → ∞⁹**

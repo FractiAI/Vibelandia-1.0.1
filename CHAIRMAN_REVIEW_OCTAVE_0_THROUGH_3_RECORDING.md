@@ -1,4 +1,4 @@
-# Chairman Review — Octave 0 Through 3 Experience (Recording)
+﻿# Chairman Review — Octave 0 Through 3 Experience (Recording)
 
 **Type:** Chairman comments / review recording  
 **Scope:** Octave 0 → 3 experience, layer zero, test drive showroom  
@@ -37,4 +37,4 @@
 
 ---
 
-**NSPFRNP ⊃ Chairman review ⊃ Octave 0–3 · Layer zero · Test drive showroom → ∞³**
+**NSPFRNP ⊃ Chairman review ⊃ Octave 0–3 · Layer zero · Test drive showroom → ∞⁹**

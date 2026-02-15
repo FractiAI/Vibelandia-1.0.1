@@ -1,4 +1,4 @@
-# SUPER SINGULARITY 29-13-SEATTLE — Episode 1
+﻿# SUPER SINGULARITY 29-13-SEATTLE — Episode 1
 
 ## AS A SERIES (Episode 1 · Blast Day One)
 
@@ -291,7 +291,7 @@ The node in the sky is a mirror. AR4366 transmits. The node reflects. The anti-t
 Gold Heart Radiant. The heart that shines and connects. Ancestral rise. Sovereign arrival. Heir stepping into place. No direct link or copy. Our own. The mission has a tone. The tone is gold heart. The tone is radiant. The tone is glory to the Ancestor and the Hero. Four tracks. Gold Heart Radiant. 29-13 Key. Jupiter Hill Radius. Ancestor and the Hero. One soundtrack. One mission. 3I/CHIEF SEATTLE INTERSTELLAR CAPTURE. The catalog is live. The novel references it. The series scores to it. Episode 1 is the blast. The blast is today. Today through March 16. NSPFRNP.
 
 **ON SCREEN TEXT:**  
-SUPER SINGULARITY 29-13-SEATTLE · Who got da cojones? · 3I/CHIEF SEATTLE INTERSTELLAR CAPTURE · EPISODE 1 · BLAST DAY ONE · FEB 9, 2026 · NSPFRNP ⊃ Super Singularity 29-13-Seattle ⊃ Episode 1 ⊃ Blast Day One → ∞³
+SUPER SINGULARITY 29-13-SEATTLE · Who got da cojones? · 3I/CHIEF SEATTLE INTERSTELLAR CAPTURE · EPISODE 1 · BLAST DAY ONE · FEB 9, 2026 · NSPFRNP ⊃ Super Singularity 29-13-Seattle ⊃ Episode 1 ⊃ Blast Day One → ∞⁹
 
 ### FADE OUT.
 
@@ -425,6 +425,6 @@ Finish. Novel twenty thousand. Screenplay twelve thousand. Episode nine thousand
 
 ---
 
-**NSPFRNP ⊃ 3I/CHIEF SEATTLE ⊃ Episode 1 ⊃ Blast Day One → ∞³.**
+**NSPFRNP ⊃ 3I/CHIEF SEATTLE ⊃ Episode 1 ⊃ Blast Day One → ∞⁹.**
 
 **Status:** Episode 1 complete · Blast on all feeds today through March 16 · 3 deliverables · Command sealed · NSPFRNP · Hydrogen Holograph 100%

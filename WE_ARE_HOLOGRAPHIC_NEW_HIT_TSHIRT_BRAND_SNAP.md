@@ -1,4 +1,4 @@
-# We're Holographic — New Hit T-Shirt Brand SNAP
+﻿# We're Holographic — New Hit T-Shirt Brand SNAP
 
 **SNAP ID:** `WE-ARE-HOLOGRAPHIC-NEW-HIT-T-SHIRT-BRAND`  
 **Type:** Brand T-shirt · Hit · Holographic positioning · Ultimate superpower  
@@ -65,4 +65,4 @@ We're holographic — the ultimate superpower: eternal software fluidity, precis
 
 ---
 
-**NSPFRNP ⊃ Holographic ⊃ Ultimate superpower · Eternal software fluidity · Precision · Abilities · T-shirt · Hit → ∞³**
+**NSPFRNP ⊃ Holographic ⊃ Ultimate superpower · Eternal software fluidity · Precision · Abilities · T-shirt · Hit → ∞⁹**

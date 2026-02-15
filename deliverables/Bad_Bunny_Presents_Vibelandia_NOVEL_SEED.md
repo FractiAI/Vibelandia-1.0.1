@@ -1,4 +1,4 @@
-# Bad Bunny Presents Vibelandia
+﻿# Bad Bunny Presents Vibelandia
 ## A Novel — Seed & Edge
 
 **→ Full deliverable:** [Golden_Heart_Taino_Bad_Bunny_Meets_Agueybana_El_Gran_Sol_NOVEL.md](Golden_Heart_Taino_Bad_Bunny_Meets_Agueybana_El_Gran_Sol_NOVEL.md) — 20,000 words · *Golden Heart Taino — Bad Bunny Meets Taino Cacique Agüeybaná El Gran Sol*
@@ -65,4 +65,4 @@ Cacique Agüeybaná had stood on the shore when the sun had risen. He had not bo
 
 ---
 
-**NSPFRNP ⊃ Bad Bunny Presents Vibelandia ⊃ Golden Bunnies Label ⊃ Card deck backbone ⊃ Golden Royal Flush ⊃ Reno · BoriKen · Vibelandia → ∞³**
+**NSPFRNP ⊃ Bad Bunny Presents Vibelandia ⊃ Golden Bunnies Label ⊃ Card deck backbone ⊃ Golden Royal Flush ⊃ Reno · BoriKen · Vibelandia → ∞⁹**

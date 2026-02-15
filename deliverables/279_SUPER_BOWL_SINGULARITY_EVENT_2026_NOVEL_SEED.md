@@ -1,4 +1,4 @@
-# 2-7-9 — Super Bowl Singularity Event 2026
+﻿# 2-7-9 — Super Bowl Singularity Event 2026
 ## A Novel — Seed
 
 **Series ID:** 279  
@@ -43,4 +43,4 @@ From this endpoint — this crystallized moment — the **2-7-9 series** begins.
 
 ---
 
-**NSPFRNP ⊃ 2-7-9 ⊃ Super Bowl Singularity Event 2026 ⊃ Who Got the Cojones ⊃ Novel · Feature Film → ∞³**
+**NSPFRNP ⊃ 2-7-9 ⊃ Super Bowl Singularity Event 2026 ⊃ Who Got the Cojones ⊃ Novel · Feature Film → ∞⁹**

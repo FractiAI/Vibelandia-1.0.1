@@ -1,4 +1,4 @@
-# Office Hours — Tour & Experience for Anyone Who Shows Interest · Only During Bathroom Office Hours · Hidden to All Except Those in the Know · Baller V Style · Ben Says — SNAP
+﻿# Office Hours — Tour & Experience for Anyone Who Shows Interest · Only During Bathroom Office Hours · Hidden to All Except Those in the Know · Baller V Style · Ben Says — SNAP
 
 **Snap ID:** `OFFICE-HOURS-TOUR-EXPERIENCE-IN-THE-KNOW-BALLER-V-BEN-SAYS-SNAP`  
 **Type:** Office Hours use · Tour & experience · In-the-know · Baller V style · **Baller V Ambassador Ben says**  
@@ -47,4 +47,4 @@
 
 **See:** OFFICE_HOURS_SERIES_SNAP.md · CLUB_WINE_CAVE_PRU_OFFICE_HOURS_SNAP.md · OFFICE_HOURS_TARGET_RECURSIVE_CRYSTAL_SNAP.md · interfaces/office-hours.html · HERO_HOST_BEN_BALLER_V_AMBASSADOR (catalog)
 
-**NSPFRNP ⊃ Office Hours ⊃ Tour & experience ⊃ In-the-know ⊃ Baller V style ⊃ Ben says → ∞³**
+**NSPFRNP ⊃ Office Hours ⊃ Tour & experience ⊃ In-the-know ⊃ Baller V style ⊃ Ben says → ∞⁹**

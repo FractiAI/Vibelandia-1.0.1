@@ -1,4 +1,4 @@
-# Artist 456 — 12 Songs · Cadet Baller V · New Arrival · Golden Backdoor Hit Factory
+﻿# Artist 456 — 12 Songs · Cadet Baller V · New Arrival · Golden Backdoor Hit Factory
 
 **Artist:** 456  
 **Vibe:** Cadet · Baller V · New arrival · Earning wings · Ascending · Four-five-six progression  
@@ -26,4 +26,4 @@
 
 ---
 
-**NSPFRNP ⊃ 456 ⊃ Cadet Baller V ⊃ New Arrival ⊃ Golden Backdoor · Hit Factory → ∞³**
+**NSPFRNP ⊃ 456 ⊃ Cadet Baller V ⊃ New Arrival ⊃ Golden Backdoor · Hit Factory → ∞⁹**

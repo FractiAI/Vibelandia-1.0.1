@@ -1,4 +1,4 @@
-# CUT! SNAP — Conversation Captured Since Action! · Streamed Across All Applicable Series
+﻿# CUT! SNAP — Conversation Captured Since Action! · Streamed Across All Applicable Series
 
 **Snap ID:** `CUT-SNAP-CONVERSATION-CAPTURED-STREAMED-ALL-SERIES`  
 **Type:** Capture confirmation · Session record · Stream to series  
@@ -77,4 +77,4 @@ This capture is **streamed** to every series that applies:
 
 ---
 
-**NSPFRNP ⊃ CUT! SNAP ⊃ Conversation captured since Action! ⊃ Streamed across all series and all content engines → ∞³**
+**NSPFRNP ⊃ CUT! SNAP ⊃ Conversation captured since Action! ⊃ Streamed across all series and all content engines → ∞⁹**

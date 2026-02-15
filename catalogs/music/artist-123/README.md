@@ -1,4 +1,4 @@
-# Artist 123 — 12 Songs · Golden Backdoor Hit Factory
+﻿# Artist 123 — 12 Songs · Golden Backdoor Hit Factory
 
 **Artist:** 123  
 **Vibe:** Flow · Progression · Step-by-step · Ascent  
@@ -26,4 +26,4 @@
 
 ---
 
-**NSPFRNP ⊃ 123 ⊃ Golden Backdoor · Hit Factory → ∞³**
+**NSPFRNP ⊃ 123 ⊃ Golden Backdoor · Hit Factory → ∞⁹**

@@ -1,4 +1,4 @@
-# Collect Payments Upfront — NSPFRNP SNAP
+﻿# Collect Payments Upfront — NSPFRNP SNAP
 
 **SNAP ID:** `COLLECT-PAYMENTS-UPFRONT-SNAP`  
 **Type:** Payment policy · Upfront collection  
@@ -34,4 +34,4 @@
 
 ---
 
-**NSPFRNP ⊃ Collect payments upfront ⊃ Payment before service/delivery → ∞³**
+**NSPFRNP ⊃ Collect payments upfront ⊃ Payment before service/delivery → ∞⁹**

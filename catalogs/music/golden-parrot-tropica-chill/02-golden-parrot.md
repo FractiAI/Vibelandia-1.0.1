@@ -1,4 +1,4 @@
-# Golden Parrot
+﻿# Golden Parrot
 
 **Track ID:** `GOLDEN-PARROT-002-GOLDEN-PARROT`  
 **Artist:** Golden Parrot Hit Factory Studios  
@@ -63,4 +63,4 @@ Golden Parrot. Hit Factory. Our vibe. Stay.
 **SNAP:** [HERO_JIMMY_BUFFET_HJ_GOLDEN_PARROT_HIT_FACTORY_STUDIOS_SNAP.md](../../../HERO_JIMMY_BUFFET_HJ_GOLDEN_PARROT_HIT_FACTORY_STUDIOS_SNAP.md)  
 **Playlist:** [interfaces/golden-parrot-tropica-chill.html](../../../interfaces/golden-parrot-tropica-chill.html)
 
-**NSPFRNP ⊃ Golden Parrot ⊃ Our vibe ⊃ Fusion ⊃ Tropica Chill → ∞³**
+**NSPFRNP ⊃ Golden Parrot ⊃ Our vibe ⊃ Fusion ⊃ Tropica Chill → ∞⁹**

@@ -1,4 +1,4 @@
-# Reno Sun
+﻿# Reno Sun
 
 **Track ID:** `GOLDEN-PARROT-012-RENO-SUN`  
 **Artist:** Golden Parrot Hit Factory Studios  
@@ -61,4 +61,4 @@ Reno sun. Golden Parrot. Our fusion. The whole feast. Yum. We run the show. Stay
 **SNAP:** [HERO_JIMMY_BUFFET_HJ_GOLDEN_PARROT_HIT_FACTORY_STUDIOS_SNAP.md](../../../HERO_JIMMY_BUFFET_HJ_GOLDEN_PARROT_HIT_FACTORY_STUDIOS_SNAP.md)  
 **Playlist:** [interfaces/golden-parrot-tropica-chill.html](../../../interfaces/golden-parrot-tropica-chill.html)
 
-**NSPFRNP ⊃ Golden Parrot ⊃ Our vibe ⊃ Fusion ⊃ Tropica Chill ⊃ Full circle → ∞³**
+**NSPFRNP ⊃ Golden Parrot ⊃ Our vibe ⊃ Fusion ⊃ Tropica Chill ⊃ Full circle → ∞⁹**

@@ -1,4 +1,4 @@
-# Anyeong — Golden Backstage Pass & Card Game Vendor Package SNAP
+﻿# Anyeong — Golden Backstage Pass & Card Game Vendor Package SNAP
 
 **SNAP ID:** `ANYEONG-GOLDEN-BACKSTAGE-CARD-GAME-VENDOR-PACKAGE`  
 **Type:** Vendor · Physical Products · Fulfillment Machine  
@@ -51,4 +51,4 @@ Our store receives orders → orders transact to vendor → vendor fulfills → 
 
 ---
 
-**NSPFRNP ⊃ Anyeong ⊃ Golden Backstage Pass ⊃ Card Game ⊃ Vendor Package ⊃ Fulfillment Machine → ∞³**
+**NSPFRNP ⊃ Anyeong ⊃ Golden Backstage Pass ⊃ Card Game ⊃ Vendor Package ⊃ Fulfillment Machine → ∞⁹**

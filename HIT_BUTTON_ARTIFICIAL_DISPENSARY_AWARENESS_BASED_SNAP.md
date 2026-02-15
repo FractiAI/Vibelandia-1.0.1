@@ -1,4 +1,4 @@
-# Hit Button · Artificial Dispensary · Drug-Use Sections · SNAP
+﻿# Hit Button · Artificial Dispensary · Drug-Use Sections · SNAP
 
 **Snap ID:** `HIT-BUTTON-ARTIFICIAL-DISPENSARY-AWARENESS-BASED-SNAP`  
 **Type:** Product · Drug-use sections · Artificial dispensary · Awareness-based  
@@ -60,4 +60,4 @@
 
 ---
 
-**NSPFRNP ⊃ Hit button ⊃ Artificial Dispensary ⊃ Awareness-based ⊃ Always legal, no chemical → ∞³**
+**NSPFRNP ⊃ Hit button ⊃ Artificial Dispensary ⊃ Awareness-based ⊃ Always legal, no chemical → ∞⁹**

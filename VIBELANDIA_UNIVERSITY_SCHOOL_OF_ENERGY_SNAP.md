@@ -1,4 +1,4 @@
-# Vibelandia University — School of Energy · NSPFRNP SNAP
+﻿# Vibelandia University — School of Energy · NSPFRNP SNAP
 
 **Snap ID:** `VIBELANDIA-UNIVERSITY-SCHOOL-OF-ENERGY-SNAP`  
 **Type:** Vibelandia University · School · Petrochemical / Energy Division  
@@ -32,4 +32,4 @@
 
 ---
 
-**NSPFRNP ⊃ Vibelandia University ⊃ School of Energy ⊃ Maracaibo Lightning Strike · Arturo · Post-Singularity Energy Layer → ∞³**
+**NSPFRNP ⊃ Vibelandia University ⊃ School of Energy ⊃ Maracaibo Lightning Strike · Arturo · Post-Singularity Energy Layer → ∞⁹**

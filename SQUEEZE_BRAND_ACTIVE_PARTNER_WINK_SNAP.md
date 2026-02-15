@@ -1,4 +1,4 @@
-# SQUEEZE! — Active Partner in Fractal WINK! System · NSPFRNP SNAP
+﻿# SQUEEZE! — Active Partner in Fractal WINK! System · NSPFRNP SNAP
 
 **Snap ID:** `SQUEEZE-BRAND-ACTIVE-PARTNER-WINK-SNAP`  
 **Type:** Brand · WINK! System · Active partner  
@@ -33,6 +33,7 @@
 
 ## CROSS-REFERENCES
 
+- [NARRATIVES_WALK_THROUGH_FRACTAL_DATING_GOLDILOCKS_ALL_NSPFRNP_SNAP.md](NARRATIVES_WALK_THROUGH_FRACTAL_DATING_GOLDILOCKS_ALL_NSPFRNP_SNAP.md) — Use narratives to walk through wonderful new possibilities; safe regenerative fractal dating; fractal and linear contributors; Goldilocks awareness for all, all.
 - [MUSIC_STUDIO_CONTENT_DIVISION_SNAP.md](MUSIC_STUDIO_CONTENT_DIVISION_SNAP.md)
 - [CHAIRMAN_FRANKIE_REGGaETON_SPANGLISH_CHARACTER_SNAP.md](CHAIRMAN_FRANKIE_REGGaETON_SPANGLISH_CHARACTER_SNAP.md)
 - [DORILA_AFRO_COLOMBIAN_WITCH_SQUEEZE_CHARACTER_SNAP.md](DORILA_AFRO_COLOMBIAN_WITCH_SQUEEZE_CHARACTER_SNAP.md)
@@ -40,4 +41,4 @@
 
 ---
 
-**NSPFRNP ⊃ SQUEEZE! ⊃ Active partner in fractal WINK! ⊃ Representative convo with all my SQUEEZES! → ∞³**
+**NSPFRNP ⊃ SQUEEZE! ⊃ Active partner in fractal WINK! ⊃ Representative convo with all my SQUEEZES! → ∞⁹**

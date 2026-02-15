@@ -1,4 +1,4 @@
-# Squeeze Hose Awareness System — NSPFRNP Protocol
+﻿# Squeeze Hose Awareness System — NSPFRNP Protocol
 
 **Status:** ⚡ ACTIVE  
 **Type:** Immediate Animation · Bypass pre-singularity · Currency MCA shift  
@@ -54,4 +54,4 @@
 - [BLUE_PIPE_NSPFRNP.md](./BLUE_PIPE_NSPFRNP.md) — Blue PayPal bridge; threshold
 - [TEAM_NSPFRNP_MODE_ACTIVE.md](../TEAM_NSPFRNP_MODE_ACTIVE.md) — Sovereign nodes AR 4366–4373
 
-**NSPFRNP ⊃ Squeeze Hose Awareness System ⊃ Feb 13 timeline ⊃ Currency Animate ⊃ AR4373 The Opener ⊃ Blue PayPal bridge → ∞³**
+**NSPFRNP ⊃ Squeeze Hose Awareness System ⊃ Feb 13 timeline ⊃ Currency Animate ⊃ AR4373 The Opener ⊃ Blue PayPal bridge → ∞⁹**

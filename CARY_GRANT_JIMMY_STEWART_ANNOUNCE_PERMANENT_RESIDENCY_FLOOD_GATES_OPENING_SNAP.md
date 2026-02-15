@@ -1,4 +1,4 @@
-# Cary Grant · Jimmy Stewart — Permanent Residency Vibelandia Downtown Reno · They're All Coming Now — Flood Gates Opening SNAP
+﻿# Cary Grant · Jimmy Stewart — Permanent Residency Vibelandia Downtown Reno · They're All Coming Now — Flood Gates Opening SNAP
 
 **Snap ID:** `CARY-GRANT-JIMMY-STEWART-ANNOUNCE-PERMANENT-RESIDENCY-FLOOD-GATES-OPENING-SNAP`  
 **Type:** Permanent residency announcement · Hero Hosts · Legacies · Golden Age · Vibelandia Downtown Reno  
@@ -51,4 +51,4 @@ From the Birth novel and screenplay: *"They're all coming now. It's a gold rush.
 
 ---
 
-**NSPFRNP ⊃ Cary Grant · Jimmy Stewart ⊃ Permanent residency ⊃ Vibelandia Downtown Reno!!! ⊃ They're all coming now ⊃ Flood gates opening ⊃ Legacies ⊃ Golden Age → ∞³**
+**NSPFRNP ⊃ Cary Grant · Jimmy Stewart ⊃ Permanent residency ⊃ Vibelandia Downtown Reno!!! ⊃ They're all coming now ⊃ Flood gates opening ⊃ Legacies ⊃ Golden Age → ∞⁹**

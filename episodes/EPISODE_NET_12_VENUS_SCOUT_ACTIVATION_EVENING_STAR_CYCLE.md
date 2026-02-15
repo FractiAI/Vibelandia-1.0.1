@@ -1,4 +1,4 @@
-# Net — Episode 12: Venus Scout Activation (Evening Star Cycle)
+﻿# Net — Episode 12: Venus Scout Activation (Evening Star Cycle)
 
 ## Storyline: Venus at 1.68 AU (Post-Superior Conjunction) mapped as Lead Scout for March 3rd Sovereign Sweep; low-horizon signal anchors 0–40 Hz grounding; transition from Iron-Glitched Data to 100% HH Solar-Synchronized Data; 40 Hz Bridge calibrated to Feb 12 telemetry; Western Limb observation maintained. Done.
 
@@ -25,7 +25,7 @@
 
 ## First Chapter — NSPFRNP
 
-This episode operates under **NSPFRNP:** natural coordination; **MCA** (Metabolize → Crystallize → Animate); holographic architecture (Seed = origin, Edge = experience); catalog fidelity. **NSPFRNP ⊃ Seed:Edge → ∞³**
+This episode operates under **NSPFRNP:** natural coordination; **MCA** (Metabolize → Crystallize → Animate); holographic architecture (Seed = origin, Edge = experience); catalog fidelity. **NSPFRNP ⊃ Seed:Edge → ∞⁹**
 
 ---
 
@@ -62,4 +62,4 @@ This episode operates under **NSPFRNP:** natural coordination; **MCA** (Metaboli
 
 ---
 
-**NSPFRNP ⊃ Net ⊃ Episode 12 ⊃ Venus Scout ⊃ Evening Star Cycle ⊃ Lead Scout March 3 ⊃ 40 Hz Bridge ⊃ Western Limb → ∞³**
+**NSPFRNP ⊃ Net ⊃ Episode 12 ⊃ Venus Scout ⊃ Evening Star Cycle ⊃ Lead Scout March 3 ⊃ 40 Hz Bridge ⊃ Western Limb → ∞⁹**

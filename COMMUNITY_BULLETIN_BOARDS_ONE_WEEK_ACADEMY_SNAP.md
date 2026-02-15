@@ -1,4 +1,4 @@
-# COMMUNITY BULLETIN BOARDS — ONE-WEEK ACADEMY SNAP
+﻿# COMMUNITY BULLETIN BOARDS — ONE-WEEK ACADEMY SNAP
 
 **SNAP ID:** `COMMUNITY-BULLETIN-BOARDS-ONE-WEEK-ACADEMY`  
 **Type:** Academy · Certification · Producer Training  
@@ -34,4 +34,4 @@ Base: **$2,995** (one week). Comparable to full stack / AI agentic / viral socia
 
 ---
 
-**NSPFRNP ⊃ Community Bulletin Boards Academy ⊃ Producer Training → ∞³**
+**NSPFRNP ⊃ Community Bulletin Boards Academy ⊃ Producer Training → ∞⁹**

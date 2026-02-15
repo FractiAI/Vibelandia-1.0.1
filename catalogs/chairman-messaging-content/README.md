@@ -1,4 +1,4 @@
-# Chairman Messaging Content — Catalog
+﻿# Chairman Messaging Content — Catalog
 
 **Catalog ID:** `CHAIRMAN-MESSAGING-CONTENT-CATALOG-V1`  
 **Type:** Executive Messaging Content · Seed layer for all surfaces  
@@ -48,4 +48,4 @@
 
 ---
 
-**NSPFRNP ⊃ Chairman Messaging Content ⊃ Seed pearl heads to all messages → ∞³**
+**NSPFRNP ⊃ Chairman Messaging Content ⊃ Seed pearl heads to all messages → ∞⁹**

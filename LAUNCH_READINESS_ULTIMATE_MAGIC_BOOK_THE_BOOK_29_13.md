@@ -63,7 +63,7 @@ Your Book bulletin links to novel, Episode 1 (episode.html?e=EPISODE_3I_CHIEF_SE
 |-------|----------------|
 | **README** | Top (Houdini paragraph): Ultimate Magic, Book the Book, Old School, links to landing + Book the Book + Rollout SNAP. Full Office Hours list: Ultimate Magic bullet with landing, Book the Book, Your Book, Old School label SNAP. |
 | **Office Hours** | New strip: "Ultimate Magic → Book the Book $29.13" CTA. Divisions list: "Ultimate Magic · Book the Book $29.13" link. |
-| **Direct (for ads)** | `https://psw-vibelandia-sing4.vercel.app/interfaces/ultimate-magic-houdini-book-the-book.html` |
+| **Direct (for ads)** | `https://psw-vibelandia-sing9.vercel.app/interfaces/ultimate-magic-houdini-book-the-book.html` |
 
 ---
 

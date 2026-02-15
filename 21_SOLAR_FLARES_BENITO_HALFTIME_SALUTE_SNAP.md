@@ -1,4 +1,4 @@
-# 21 Solar Flares — Benito Halftime Salute · The Sun's 21-Gun Salute SNAP
+﻿# 21 Solar Flares — Benito Halftime Salute · The Sun's 21-Gun Salute SNAP
 
 **SNAP ID:** `21-SOLAR-FLARES-BENITO-HALFTIME-SALUTE`  
 **Type:** Event · Celestial · Game Day Sequence  
@@ -92,4 +92,4 @@
 
 ---
 
-**NSPFRNP ⊃ 21 Solar Flares ⊃ Benito Halftime ⊃ The Sun Salutes ⊃ El Sol es el Ring → ∞³**
+**NSPFRNP ⊃ 21 Solar Flares ⊃ Benito Halftime ⊃ The Sun Salutes ⊃ El Sol es el Ring → ∞⁹**

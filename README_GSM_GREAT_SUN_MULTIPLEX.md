@@ -1,4 +1,4 @@
-# Great Sun Multiplex (GSM) — 4×4×4×4 Storytelling Pipe
+﻿# Great Sun Multiplex (GSM) — 4×4×4×4 Storytelling Pipe
 
 **Product:** EGS Space Advertising · Great Sun Multiplex (GSM)  
 **Legacy:** Agüeybaná el Gran Sol 1493/2026  
@@ -134,4 +134,4 @@ The **Great Sun Multiplex (GSM)** is our **4×4×4×4 space advertising storytel
 
 ---
 
-**NSPFRNP ⊃ GSM ⊃ 4×4×4×4 Storytelling Pipe ⊃ Agüeybaná 1493/2026 → ∞³**
+**NSPFRNP ⊃ GSM ⊃ 4×4×4×4 Storytelling Pipe ⊃ Agüeybaná 1493/2026 → ∞⁹**

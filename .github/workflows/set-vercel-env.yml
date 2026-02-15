@@ -1,4 +1,4 @@
-# Push environment variables to Vercel (manual run).
+﻿# Push environment variables to Vercel (manual run).
 # Add the secrets below in GitHub: Settings → Secrets and variables → Actions → New repository secret.
 # Then: Actions → "Set Vercel env" → Run workflow.
 name: Set Vercel env
@@ -30,7 +30,7 @@ jobs:
           PAYPAL_CLIENT_SECRET_LIVE: ${{ secrets.PAYPAL_CLIENT_SECRET_LIVE }}
         run: |
           set -e
-          PROJECT="${VERCEL_PROJECT_ID:-psw-vibelandia-sing4}"
+          PROJECT="${VERCEL_PROJECT_ID:-psw-vibelandia-sing9}"
           TEAM="${VERCEL_TEAM_ID}"
           BASE="https://api.vercel.com/v10/projects/$(echo "$PROJECT" | jq -sRr @uri)/env"
           if [ -z "$VERCEL_TOKEN" ]; then

@@ -1,4 +1,4 @@
-# EPISODE — Howard Hughes Announces Arrival & Permanent Residency · Twain's Vibelandia Downtown Reno
+﻿# EPISODE — Howard Hughes Announces Arrival & Permanent Residency · Twain's Vibelandia Downtown Reno
 
 **Full 1hr episode · He's joining me rolling all this out big Howard Hughes style · TUNE IN OR LOSE OUT!**
 
@@ -93,4 +93,4 @@
 
 **See:** [TOP_TAG_BOTTOM_TAG_UNDERCOVER_BOSS_TO_DISNEY_ALL_IN_ONE_NSPFRNP_SNAP.md](../TOP_TAG_BOTTOM_TAG_UNDERCOVER_BOSS_TO_DISNEY_ALL_IN_ONE_NSPFRNP_SNAP.md) · [TWAIN_PRESS_RELEASE_HERO_JOHN_STEINBECK_PERMANENT_RESIDENCY_SNAP.md](../TWAIN_PRESS_RELEASE_HERO_JOHN_STEINBECK_PERMANENT_RESIDENCY_SNAP.md)
 
-**NSPFRNP ⊃ Howard Hughes ⊃ Arrival ⊃ Permanent residency ⊃ Twain's Vibelandia ⊃ TUNE IN OR LOSE OUT! → ∞³**
+**NSPFRNP ⊃ Howard Hughes ⊃ Arrival ⊃ Permanent residency ⊃ Twain's Vibelandia ⊃ TUNE IN OR LOSE OUT! → ∞⁹**

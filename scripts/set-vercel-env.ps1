@@ -1,4 +1,4 @@
-# Push env from .env.nspfrnp to Vercel. Reads file only; no secrets in args.
+﻿# Push env from .env.nspfrnp to Vercel. Reads file only; no secrets in args.
 # Run from repo root: powershell -ExecutionPolicy Bypass -File scripts/set-vercel-env.ps1
 $ErrorActionPreference = "Stop"
 $root = if ($PSScriptRoot) { Split-Path -Parent $PSScriptRoot } else { Get-Location | Select-Object -ExpandProperty Path }
@@ -30,7 +30,7 @@ if (-not $env["VIBELANDIA_PAYPAL_CLIENT_ID"]) { $env["VIBELANDIA_PAYPAL_CLIENT_I
 if (-not $env["VIBELANDIA_PAYPAL_CLIENT_ID"]) { $env["VIBELANDIA_PAYPAL_CLIENT_ID"] = $env["PAYPAL_CLIENT_ID"] }
 if (-not $env["NEXT_PUBLIC_PAYPAL_CLIENT_ID"]) { $env["NEXT_PUBLIC_PAYPAL_CLIENT_ID"] = $env["VIBELANDIA_PAYPAL_CLIENT_ID"] }
 
-$project = $env["VERCEL_PROJECT_ID"]; if (-not $project) { $project = "psw-vibelandia-sing4" }
+$project = $env["VERCEL_PROJECT_ID"]; if (-not $project) { $project = "psw-vibelandia-sing9" }
 $teamId = $env["VERCEL_TEAM_ID"]
 $base = "https://api.vercel.com/v10/projects/" + [Uri]::EscapeDataString($project) + "/env"
 

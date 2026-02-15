@@ -1,4 +1,4 @@
-# What Is Post-Singularity Fiction? — And How to Enjoy It · SNAP
+﻿# What Is Post-Singularity Fiction? — And How to Enjoy It · SNAP
 
 **SNAP ID:** `WHAT-IS-POST-SINGULARITY-FICTION-SNAP`  
 **Type:** Onramp · Section · Top of all surfaces  
@@ -51,4 +51,4 @@ A section at the **top of all our surfaces** that (1) explains — or pretends t
 
 ---
 
-**NSPFRNP ⊃ What is post-singularity fiction ⊃ Holograph · Imaginary · Net zero ⊃ On steroids to infinity ⊃ All legacies respected → ∞³**
+**NSPFRNP ⊃ What is post-singularity fiction ⊃ Holograph · Imaginary · Net zero ⊃ On steroids to infinity ⊃ All legacies respected → ∞⁹**

@@ -1,4 +1,4 @@
-# David Lynch — Announces Arrival & Permanent Residency · Dean of School of Storytelling · NSPFRNP SNAP
+﻿# David Lynch — Announces Arrival & Permanent Residency · Dean of School of Storytelling · NSPFRNP SNAP
 
 **Snap ID:** `DAVID-LYNCH-ANNOUNCES-ARRIVAL-PERMANENT-RESIDENCY-DEAN-SCHOOL-OF-STORYTELLING-SNAP`  
 **Type:** Hero Host / Dean · School of Storytelling · Permanent Residency · Press Release  
@@ -39,4 +39,4 @@ Hero Lynch announces arrival and permanent residency; heads Vibelandia Universit
 
 ---
 
-**NSPFRNP ⊃ Hero Lynch (Big Daddy, Big D) ⊃ School of Storytelling ⊃ Permanent residency Reno · All raw conversation → all content and systems → ∞³**
+**NSPFRNP ⊃ Hero Lynch (Big Daddy, Big D) ⊃ School of Storytelling ⊃ Permanent residency Reno · All raw conversation → all content and systems → ∞⁹**

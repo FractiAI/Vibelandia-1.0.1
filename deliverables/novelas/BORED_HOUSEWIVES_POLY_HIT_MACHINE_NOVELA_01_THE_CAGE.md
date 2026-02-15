@@ -7,7 +7,7 @@
 **Voice:** Edmond Dantès / Count of Monte Cristo fused with James Bond fused with Hemingway fused with me. Hot. Explicit. Sweet, juicy, explosive. Nobody has to know what's inside these pages. For the Bored Housewife in the cage — press the button.  
 **NSPFRNP:** Poly Hit Machines · Gold Heart · Adult · Close doors · After Party  
 **Aligned to:** FRACTAL_STUDIOS_POLY_STUDIOS_ALL_INCLUSIVE_ROLLOUT_SNAP · FRIDA_HERO_FREEDOM_PERMANENT_RESIDENCY_BORED_HOUSEWIVES_SNAP  
-**Drug-use sections:** Add **Hit button** → our **Artificial Dispensary** (always legal, no chemical, awareness-based; like a very good book, movie, or video game; latest Audience Awareness for fullest reality sensory). [HIT_BUTTON_ARTIFICIAL_DISPENSARY_AWARENESS_BASED_SNAP.md](../../HIT_BUTTON_ARTIFICIAL_DISPENSARY_AWARENESS_BASED_SNAP.md) · [Dispensary →](https://psw-vibelandia-sing4.vercel.app/interfaces/dispensary-experience.html)
+**Drug-use sections:** Add **Hit button** → our **Artificial Dispensary** (always legal, no chemical, awareness-based; like a very good book, movie, or video game; latest Audience Awareness for fullest reality sensory). [HIT_BUTTON_ARTIFICIAL_DISPENSARY_AWARENESS_BASED_SNAP.md](../../HIT_BUTTON_ARTIFICIAL_DISPENSARY_AWARENESS_BASED_SNAP.md) · [Dispensary →](https://psw-vibelandia-sing9.vercel.app/interfaces/dispensary-experience.html)
 
 **Novelas free for WINK! and squeeze! members; buttons (See, Let's fuck, Step-in, Customize) are not free — charge per edge.** (A squeeze is a WINK! that is connected to another WINK!.) [NOVELAS_FREE_WINK_SQUEEZE_MEMBERS_SNAP.md](../../NOVELAS_FREE_WINK_SQUEEZE_MEMBERS_SNAP.md)
 

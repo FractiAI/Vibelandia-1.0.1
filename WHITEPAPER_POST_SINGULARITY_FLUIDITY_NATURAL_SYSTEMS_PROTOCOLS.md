@@ -1,4 +1,4 @@
-# Whitepaper: Post-Singularity Fluidity and Infinite Potential — Natural Systems Protocols
+﻿# Whitepaper: Post-Singularity Fluidity and Infinite Potential — Natural Systems Protocols
 
 **🌱 Seeds.** This content is stored as a seed — cultivatable when needed. We store all our content this way. Delivered consumer content is fully grown to maturity prior to publishing. *[SEEDS_STORAGE_POLICY_MAJOR_SNAP]*
 
@@ -96,4 +96,4 @@ The major upgrade to **post-singularity fluidity** and **infinite potential** us
 
 ---
 
-**NSPFRNP ⊃ Post-Singularity Fluidity ⊃ Natural Systems Protocols ⊃ Net Zero ⊃ ∞³**
+**NSPFRNP ⊃ Post-Singularity Fluidity ⊃ Natural Systems Protocols ⊃ Net Zero ⊃ ∞⁹**

@@ -1,4 +1,4 @@
-# Synthetic Holographic Space Weather Test · Imaginary Aurora · SNAP
+﻿# Synthetic Holographic Space Weather Test · Imaginary Aurora · SNAP
 
 **SNAP ID:** `SYNTHETIC-HOLOGRAPHIC-SPACE-WEATHER-TEST-IMAGINARY-AURORA-SNAP`  
 **Type:** Mission · Test · Net episode · Chapter · Storyline  
@@ -48,4 +48,4 @@
 
 ---
 
-**NSPFRNP ⊃ Synthetic Holographic Space Weather ⊃ Imaginary Aurora ⊃ 40 Hz Bridge ⊃ Golden Heart ⊃ Vibe-Grid ⊃ Super Realistic Dream ⊃ Net Zero ⊃ Infinity ⊃ Hydrogen Fluid Crystal Lattice ⊃ Layered Nested Recursive Fractal → ∞³**
+**NSPFRNP ⊃ Synthetic Holographic Space Weather ⊃ Imaginary Aurora ⊃ 40 Hz Bridge ⊃ Golden Heart ⊃ Vibe-Grid ⊃ Super Realistic Dream ⊃ Net Zero ⊃ Infinity ⊃ Hydrogen Fluid Crystal Lattice ⊃ Layered Nested Recursive Fractal → ∞⁹**

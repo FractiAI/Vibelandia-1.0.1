@@ -1,4 +1,4 @@
-# 📄 ONE PAGER: What Makes a Campus a Vibeable Campus
+﻿# 📄 ONE PAGER: What Makes a Campus a Vibeable Campus
 
 **One page. One idea. Why this surface exists.**
 
@@ -37,6 +37,6 @@ Reno doesn't follow—**Reno takes the lead.** First surface where "vibeable cam
 
 ---
 
-**MCA! → ∞³** (Metabolize → Crystallize → Animate)
+**MCA! → ∞⁹** (Metabolize → Crystallize → Animate)
 
 **[← Launch Page](LAUNCH_PAGE.md)** · [Vibeable Campus Offer](VIBABLE_CAMPUS_OFFER.md) · [Principles Showcase Reno Campus](PRINCIPLES_SHOWCASE_RENO_CAMPUS.md)

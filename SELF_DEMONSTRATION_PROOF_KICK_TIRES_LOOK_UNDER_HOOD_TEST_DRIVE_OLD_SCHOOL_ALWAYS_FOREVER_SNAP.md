@@ -1,4 +1,4 @@
-# Self Demonstration & Proof — Kick Tires · Look Under Hood · Test Drive · Old School · Always and Forever SNAP
+﻿# Self Demonstration & Proof — Kick Tires · Look Under Hood · Test Drive · Old School · Always and Forever SNAP
 
 **SNAP ID:** `SELF-DEMONSTRATION-PROOF-KICK-TIRES-LOOK-UNDER-HOOD-TEST-DRIVE-OLD-SCHOOL-ALWAYS-FOREVER`  
 **Type:** Principle · Self-demo · Self-proof · Canonical  
@@ -31,4 +31,4 @@ Apply to: novels, screenplays, experiences, SMACS 0723 triangulation, recursive 
 
 ---
 
-**NSPFRNP ⊃ Self demonstration ⊃ Self proof ⊃ Kick tires · Look under hood · Test drive · Old school · Always and forever → ∞³**
+**NSPFRNP ⊃ Self demonstration ⊃ Self proof ⊃ Kick tires · Look under hood · Test drive · Old school · Always and forever → ∞⁹**

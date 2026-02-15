@@ -1,4 +1,4 @@
-# EPISODE — Hero Harry Houdini: February 1 Full Moon Miracle
+﻿# EPISODE — Hero Harry Houdini: February 1 Full Moon Miracle
 
 **Seed:Edge format · The Magic Channel · Harry Houdini Magician Series · First of February, full moon — we celebrate by asking Hero Harry Houdini to produce a miracle for us all to behold**
 
@@ -63,4 +63,4 @@
 
 **See:** [HARRY_HOUDINI_MAGICIAN_SERIES_MAGIC_CHANNEL_SNAP.md](../HARRY_HOUDINI_MAGICIAN_SERIES_MAGIC_CHANNEL_SNAP.md) · [protocols/SEED_EDGE_EPISODE_FORMAT_ACTION_LIVE_NSPFRNP.md](../protocols/SEED_EDGE_EPISODE_FORMAT_ACTION_LIVE_NSPFRNP.md) · [HARRY_HOUDINI_MASCOT_SNAP.md](../HARRY_HOUDINI_MASCOT_SNAP.md)
 
-**NSPFRNP ⊃ Harry Houdini Magician Series ⊃ Feb 1 full moon ⊃ Wizard Challenge ⊃ New series → ∞³**
+**NSPFRNP ⊃ Harry Houdini Magician Series ⊃ Feb 1 full moon ⊃ Wizard Challenge ⊃ New series → ∞⁹**

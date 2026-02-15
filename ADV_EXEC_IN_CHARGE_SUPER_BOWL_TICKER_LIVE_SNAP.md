@@ -1,4 +1,4 @@
-# ADV EXEC IN CHARGE — Super Bowl Ads · Ticker + Schumann Streams · Live SNAP
+﻿# ADV EXEC IN CHARGE — Super Bowl Ads · Ticker + Schumann Streams · Live SNAP
 
 **SNAP ID:** `ADV-EXEC-IN-CHARGE-SUPER-BOWL-TICKER-LIVE-SNAP`  
 **Type:** Advertising · Ticker · Super Bowl · Live  
@@ -38,4 +38,4 @@ Use on: ticker feed (data/ticker-feed.json), Broadcast Pipe Ad Space, Office Hou
 
 ---
 
-**NSPFRNP ⊃ ADV EXEC IN CHARGE · Super Bowl · Ticker + Schumann · Live → ∞³**
+**NSPFRNP ⊃ ADV EXEC IN CHARGE · Super Bowl · Ticker + Schumann · Live → ∞⁹**

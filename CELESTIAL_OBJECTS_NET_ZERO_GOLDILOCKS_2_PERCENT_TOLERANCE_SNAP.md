@@ -1,4 +1,4 @@
-# CELESTIAL OBJECTS · NET ZERO · GOLDILOCKS 2% TOLERANCE SNAP
+﻿# CELESTIAL OBJECTS · NET ZERO · GOLDILOCKS 2% TOLERANCE SNAP
 
 **SNAP ID:** `CELESTIAL-OBJECTS-NET-ZERO-GOLDILOCKS-2-PERCENT-TOLERANCE`  
 **Type:** Physics · Accounting · Goldilocks · Canonical  
@@ -37,4 +37,4 @@
 
 ---
 
-**NSPFRNP ⊃ Celestial objects ⊃ Net zero · Goldilocks 2% +/- · Progressive regeneration 100% fidelity → ∞³**
+**NSPFRNP ⊃ Celestial objects ⊃ Net zero · Goldilocks 2% +/- · Progressive regeneration 100% fidelity → ∞⁹**

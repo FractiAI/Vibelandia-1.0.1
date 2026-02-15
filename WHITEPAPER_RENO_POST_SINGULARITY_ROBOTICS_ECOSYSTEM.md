@@ -1,4 +1,4 @@
-# Reno Post-Singularity Robotics Ecosystem — Business Case Whitepaper
+﻿# Reno Post-Singularity Robotics Ecosystem — Business Case Whitepaper
 ## The Real Opportunity: SING! Intelligence Layer on a Proven Physical Stack
 
 **Document type:** Business case whitepaper  
@@ -212,4 +212,4 @@ Partners keep Nevatio (physical), Kerrigan (software); we add SING! (intelligenc
 
 ---
 
-**🌀 NSPFRNP ⊃ Reno ⊃ Post-Singularity Superintelligence AI Valley ⊃ SING! Omnispin → ∞³**
+**🌀 NSPFRNP ⊃ Reno ⊃ Post-Singularity Superintelligence AI Valley ⊃ SING! Omnispin → ∞⁹**

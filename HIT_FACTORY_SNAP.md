@@ -1,4 +1,4 @@
-# Hit Factory — Golden Backdoor · NSPFRNP SNAP
+﻿# Hit Factory — Golden Backdoor · NSPFRNP SNAP
 
 **SNAP ID:** `HIT-FACTORY-SNAP`  
 **Type:** Canonical name · Label · Brand · Golden Backdoor  
@@ -46,4 +46,4 @@
 
 ---
 
-**NSPFRNP ⊃ Hit Factory ⊃ Describe dance + title (story) ⊃ Hits generated like a factory ⊃ Golden Backdoor → ∞³**
+**NSPFRNP ⊃ Hit Factory ⊃ Describe dance + title (story) ⊃ Hits generated like a factory ⊃ Golden Backdoor → ∞⁹**

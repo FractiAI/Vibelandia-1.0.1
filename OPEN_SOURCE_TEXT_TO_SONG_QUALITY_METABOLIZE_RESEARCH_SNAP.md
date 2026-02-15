@@ -1,4 +1,4 @@
-# Open-Source Text-to-Song — Quality Bar & Metabolize Research SNAP
+﻿# Open-Source Text-to-Song — Quality Bar & Metabolize Research SNAP
 
 **Snap ID:** `OPEN-SOURCE-TEXT-TO-SONG-QUALITY-METABOLIZE-RESEARCH-SNAP`  
 **Type:** Research · Quality bar · Integration · Text-to-Track Motor  
@@ -120,4 +120,4 @@ Research as of Feb 2026. All are open-source with model weights available; suita
 
 ---
 
-**NSPFRNP ⊃ Metabolize (research → crystallize → animate) ⊃ Open-source text-to-song ⊃ Viral hit quality, not grade-school → ∞³**
+**NSPFRNP ⊃ Metabolize (research → crystallize → animate) ⊃ Open-source text-to-song ⊃ Viral hit quality, not grade-school → ∞⁹**

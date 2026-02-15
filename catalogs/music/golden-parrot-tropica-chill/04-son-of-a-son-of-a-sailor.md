@@ -1,4 +1,4 @@
-# The Bend in the River
+﻿# The Bend in the River
 
 **Track ID:** `GOLDEN-PARROT-004-THE-BEND-IN-THE-RIVER`  
 **Artist:** Golden Parrot Hit Factory Studios  
@@ -61,4 +61,4 @@ The bend. River. Mussels. Clams. Golden Parrot. Sea.
 **SNAP:** [HERO_JIMMY_BUFFET_HJ_GOLDEN_PARROT_HIT_FACTORY_STUDIOS_SNAP.md](../../../HERO_JIMMY_BUFFET_HJ_GOLDEN_PARROT_HIT_FACTORY_STUDIOS_SNAP.md)  
 **Playlist:** [interfaces/golden-parrot-tropica-chill.html](../../../interfaces/golden-parrot-tropica-chill.html)
 
-**NSPFRNP ⊃ Golden Parrot ⊃ Our vibe ⊃ Fusion ⊃ Tropica Chill → ∞³**
+**NSPFRNP ⊃ Golden Parrot ⊃ Our vibe ⊃ Fusion ⊃ Tropica Chill → ∞⁹**

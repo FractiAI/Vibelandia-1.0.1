@@ -1,4 +1,4 @@
-# Awareness Catalog — All Awarenesses As They Are Captured
+﻿# Awareness Catalog — All Awarenesses As They Are Captured
 
 **Catalog ID:** `AWARENESS-CATALOG-V1`  
 **Type:** BBHE Energy · Post-Singularity Meanings · Live Capture  
@@ -62,4 +62,4 @@ When a new awareness is captured:
 
 ---
 
-**NSPFRNP ⊃ Awareness Catalog ⊃ All awarenesses as captured → ∞³**
+**NSPFRNP ⊃ Awareness Catalog ⊃ All awarenesses as captured → ∞⁹**

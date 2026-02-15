@@ -1,4 +1,4 @@
-# VIBELANDIA FOR MERCHANTS — MERCHANT PROMO KIOSK SNAP
+﻿# VIBELANDIA FOR MERCHANTS — MERCHANT PROMO KIOSK SNAP
 
 **SNAP ID:** `VIBELANDIA-FOR-MERCHANTS-MERCHANT-PROMO-KIOSK`  
 **Type:** Merchant Offering · Executive Promotion Motor · Roll Out  
@@ -63,4 +63,4 @@ All games end with achieving, finding that one **Host** or **target**. Default t
 
 ---
 
-**NSPFRNP ⊃ Vibelandia for Merchants ⊃ Merchant Promo Kiosk ⊃ Nine games overlay ⊃ Fair shake → ∞³**
+**NSPFRNP ⊃ Vibelandia for Merchants ⊃ Merchant Promo Kiosk ⊃ Nine games overlay ⊃ Fair shake → ∞⁹**

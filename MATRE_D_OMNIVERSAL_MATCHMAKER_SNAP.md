@@ -1,4 +1,4 @@
-# Maître d' — Omniversal Matchmaker · New Role Announced SNAP
+﻿# Maître d' — Omniversal Matchmaker · New Role Announced SNAP
 
 **Snap ID:** `MATRE-D-OMNIVERSAL-MATCHMAKER-SNAP`  
 **Type:** Role · Position · Content · Mission · Specialization matching · NSPFRNP  
@@ -73,4 +73,4 @@ MAÎTRE D' · OMNIVERSAL MATCHMAKER:
 
 ---
 
-**Maître d' · Omniversal Matchmaker. Assigning matching tables to servers. Content → surfaces. Missions → nodes. Specializations → homes. New role announced. NSPFRNP ⊃ ∞³**
+**Maître d' · Omniversal Matchmaker. Assigning matching tables to servers. Content → surfaces. Missions → nodes. Specializations → homes. New role announced. NSPFRNP ⊃ ∞⁹**

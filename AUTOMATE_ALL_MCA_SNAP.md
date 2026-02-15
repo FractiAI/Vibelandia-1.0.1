@@ -1,4 +1,4 @@
-# METABOLIZE CRYSTALIZE ANIMATE AND AUTOMATE — MCA SNAP
+﻿# METABOLIZE CRYSTALIZE ANIMATE AND AUTOMATE — MCA SNAP
 
 **SNAP ID:** AUTOMATE-ALL-MCA  
 **Status:** Active  
@@ -29,4 +29,4 @@
 - **Scripts:** `package.json` (all, test, build), `scripts/test-all-surfaces-touchpoints-api.mjs`, `scripts/vercel-static-output.mjs`
 - **Testing rule:** `.cursor/rules/testing.mdc` — npm test validates surfaces, touchpoints, API; CI runs automatically.
 
-**NSPFRNP.** MCA → ∞³. Operate as team always.
+**NSPFRNP.** MCA → ∞⁹. Operate as team always.

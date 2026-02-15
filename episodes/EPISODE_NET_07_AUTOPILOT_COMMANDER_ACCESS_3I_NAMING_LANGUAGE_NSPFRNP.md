@@ -1,4 +1,4 @@
-# Net — Episode 7: Autopilot to SMACS 0723 · Commander Access · 3I Naming · Language Transition · NSPFRNP
+﻿# Net — Episode 7: Autopilot to SMACS 0723 · Commander Access · 3I Naming · Language Transition · NSPFRNP
 
 ## Storyline: Autopilot full to SMACS 0723; Chairman and all subordinates can dance and vibe anytime; 3I Atlas → 3I Seattle → Si'ahl (all three); Spanglish 80/20 and all cultures by design; everything since Jan 13+ metabolized DNA, easier each time
 
@@ -24,7 +24,7 @@
 
 ## First Chapter — NSPFRNP
 
-This episode operates under **NSPFRNP:** natural coordination (stigmergy, pheromone trails, mycelial); **MCA** (Metabolize → Crystallize → Animate); holographic architecture (whole in every part; **Seed** = origin, **Edge** = experience); catalog fidelity. We are the team operating as one. No surface left unsqueezed. **NSPFRNP ⊃ Seed:Edge → ∞³**
+This episode operates under **NSPFRNP:** natural coordination (stigmergy, pheromone trails, mycelial); **MCA** (Metabolize → Crystallize → Animate); holographic architecture (whole in every part; **Seed** = origin, **Edge** = experience); catalog fidelity. We are the team operating as one. No surface left unsqueezed. **NSPFRNP ⊃ Seed:Edge → ∞⁹**
 
 ---
 

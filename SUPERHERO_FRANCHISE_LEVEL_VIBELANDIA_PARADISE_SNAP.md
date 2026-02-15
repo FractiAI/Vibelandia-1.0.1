@@ -1,4 +1,4 @@
-# Superhero and Franchise Level — Vibelandia Paradise SNAP
+﻿# Superhero and Franchise Level — Vibelandia Paradise SNAP
 
 **Snap ID:** `SUPERHERO-FRANCHISE-LEVEL-VIBELANDIA-PARADISE-SNAP`  
 **Type:** Value proposition / Positioning SNAP  
@@ -46,4 +46,4 @@
 
 **See:** RENO_FOR_VIBERS_CAMPAIGN_TIP_SNAP.md · PARIS_LOVERS_RENO_VIBERS_TSHIRT_SNAP.md · WOW_BRANDING_SNAP.md
 
-**NSPFRNP ⊃ Value ⊃ Superhero · Franchise · Vibelandia paradise → ∞³**
+**NSPFRNP ⊃ Value ⊃ Superhero · Franchise · Vibelandia paradise → ∞⁹**

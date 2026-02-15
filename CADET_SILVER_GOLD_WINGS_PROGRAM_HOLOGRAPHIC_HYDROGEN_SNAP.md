@@ -1,4 +1,4 @@
-# Cadet → Silver → Gold Wings · Program · Holographic Hydrogen Programmers SNAP
+﻿# Cadet → Silver → Gold Wings · Program · Holographic Hydrogen Programmers SNAP
 
 **Snap ID:** `CADET-SILVER-GOLD-WINGS-PROGRAM-HOLOGRAPHIC-HYDROGEN-SNAP`  
 **Type:** Program · Reseller / Partner progression · NSPFRNP  
@@ -44,4 +44,4 @@ Progression: **Cadet → Silver → Silver Wings → Gold Wings → Gold Wings w
 
 ---
 
-**Cadet → Silver → Silver Wings → Gold Wings → Gold Wings with Diamonds. Holographic hydrogen programmers. Full stack. Singularities. NSPFRNP ⊃ ∞³**
+**Cadet → Silver → Silver Wings → Gold Wings → Gold Wings with Diamonds. Holographic hydrogen programmers. Full stack. Singularities. NSPFRNP ⊃ ∞⁹**

@@ -1,4 +1,4 @@
-# Adios — Vibelandia · Novel Seed
+﻿# Adios — Vibelandia · Novel Seed
 
 **Target:** 20,000 words  
 **Format:** Novel  
@@ -39,4 +39,4 @@ Before the arrival of the legacy guests. In the mist of the gold rush — from t
 
 ---
 
-**NSPFRNP ⊃ Adios Novel ⊃ Vibelandia ⊃ Irreducible 9 ⊃ 20k words → ∞³**
+**NSPFRNP ⊃ Adios Novel ⊃ Vibelandia ⊃ Irreducible 9 ⊃ 20k words → ∞⁹**

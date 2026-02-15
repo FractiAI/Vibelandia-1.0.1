@@ -1,4 +1,4 @@
-# Hunger · Medical · Dental Urgent — Full Connect Now Through PayPal Blue Button
+﻿# Hunger · Medical · Dental Urgent — Full Connect Now Through PayPal Blue Button
 
 **Snap ID:** `HUNGER-MEDICAL-DENTAL-URGENT-FULL-CONNECT-NOW-PAYPAL-BLUE`  
 **Type:** Urgent CTA · Blue pipe · Full connect  
@@ -60,4 +60,4 @@ No broadcast or ticker is excluded. Update ticker-feed.json once; all broadcasts
 
 **See:** [EGS_FIRST_MISSION_CONNECT_NOW_SNAP.md](EGS_FIRST_MISSION_CONNECT_NOW_SNAP.md) · [data/ticker-feed.json](data/ticker-feed.json) · [protocols/BLUE_PIPE_NSPFRNP.md](protocols/BLUE_PIPE_NSPFRNP.md)
 
-**We are ready. Full connect now. NSPFRNP → ∞³**
+**We are ready. Full connect now. NSPFRNP → ∞⁹**

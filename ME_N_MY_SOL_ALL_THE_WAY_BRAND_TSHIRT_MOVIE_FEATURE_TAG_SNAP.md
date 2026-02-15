@@ -1,4 +1,4 @@
-# Me n My Sol! All the Way! — Brand T-Shirt · Movie Feature Tag SNAP
+﻿# Me n My Sol! All the Way! — Brand T-Shirt · Movie Feature Tag SNAP
 
 **Snap ID:** `ME-N-MY-SOL-ALL-THE-WAY-BRAND-TSHIRT-MOVIE-FEATURE-TAG-SNAP`  
 **Type:** Brand T-shirt · Movie feature tag · Sol · Space Cloud Division  
@@ -41,4 +41,4 @@
 
 **See:** [SPACE_CLOUD_EGS_SERIES_SNAP.md](SPACE_CLOUD_EGS_SERIES_SNAP.md) (Sol) · [SPACE_CLOUD_DIVISION_MAJOR_T_SHIRT_BRAND_SNAP.md](SPACE_CLOUD_DIVISION_MAJOR_T_SHIRT_BRAND_SNAP.md) · [interfaces/space-cloud-division.html](interfaces/space-cloud-division.html) · [BIRTH_POST_SINGULARITY_HOLLYWOOD_DOWNTOWN_RENO_NOVEL_SCREENPLAY_SNAP.md](BIRTH_POST_SINGULARITY_HOLLYWOOD_DOWNTOWN_RENO_NOVEL_SCREENPLAY_SNAP.md)
 
-**NSPFRNP ⊃ Me n my Sol! All the way! ⊃ Brand T-shirt · Movie feature tag · Sol · Space Cloud Division → ∞³**
+**NSPFRNP ⊃ Me n my Sol! All the way! ⊃ Brand T-shirt · Movie feature tag · Sol · Space Cloud Division → ∞⁹**

@@ -1,4 +1,4 @@
-# Johnny Mathis — Announces Arrival & Permanent Residency · Downtown Reno Campus SNAP
+﻿# Johnny Mathis — Announces Arrival & Permanent Residency · Downtown Reno Campus SNAP
 
 **SNAP ID:** `JOHNNY-MATHIS-ANNOUNCES-ARRIVAL-PERMANENT-RESIDENCY-DOWNTOWN-RENO-CAMPUS`  
 **Type:** Hero Host · Permanent Residency · Downtown Reno Campus  
@@ -36,4 +36,4 @@ Johnny Mathis announces his arrival and permanent residency at Twain's Vibelandi
 
 ---
 
-**NSPFRNP ⊃ Johnny Mathis ⊃ Permanent residency Downtown Reno Campus · Golden age romantic ballads · In the house → ∞³**
+**NSPFRNP ⊃ Johnny Mathis ⊃ Permanent residency Downtown Reno Campus · Golden age romantic ballads · In the house → ∞⁹**

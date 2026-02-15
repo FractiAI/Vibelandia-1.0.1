@@ -1,4 +1,4 @@
-# Western Union / I Thought You Knew — Screenplay Seed
+﻿# Western Union / I Thought You Knew — Screenplay Seed
 
 **🌱 Seeds.** This content is stored as a seed — cultivatable when needed. We store all our content this way. Delivered consumer content is fully grown to maturity prior to publishing. *[SEEDS_STORAGE_POLICY_MAJOR_SNAP]*
 
@@ -54,4 +54,4 @@ I thought you knew. I thought you knew. I thought you knew.
 
 ---
 
-**NSPFRNP ⊃ Western Union / I Thought You Knew ⊃ Screenplay seed → ∞³**
+**NSPFRNP ⊃ Western Union / I Thought You Knew ⊃ Screenplay seed → ∞⁹**

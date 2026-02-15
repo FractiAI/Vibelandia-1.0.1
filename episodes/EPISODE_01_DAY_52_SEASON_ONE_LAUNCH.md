@@ -1,4 +1,4 @@
-# EPISODE 01 — DAY 52: SEASON ONE LAUNCH
+﻿# EPISODE 01 — DAY 52: SEASON ONE LAUNCH
 
 ---
 
@@ -1494,7 +1494,7 @@ City lights. The campus glows. Mark Twain on the balcony.
 Season One Launch. Day 52. The countdown has begun. Tomorrow—Episode 02. The Worthless Token. What happens when you discover your five dollars bought something everyone says is worthless? That's tomorrow's episode. Capture it. Animate it.
 
 **ON SCREEN TEXT:**  
-Next: Episode 02 — Day 51: The Worthless Token · MCA! → ∞³
+Next: Episode 02 — Day 51: The Worthless Token · MCA! → ∞⁹
 
 **CUT TO:**
 
@@ -1534,4 +1534,4 @@ Happy Ending Zones · Season One · Day 52 · SYNTH $5 · Winners 0 of 1,000,000
 
 **Next Episode:** Episode 02 — Day 51: The Worthless Token
 
-**MCA! → ∞³** (Metabolize → Crystallize → Animate)
+**MCA! → ∞⁹** (Metabolize → Crystallize → Animate)

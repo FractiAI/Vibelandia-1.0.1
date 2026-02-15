@@ -1,4 +1,4 @@
-# Architectural Layering — Live / Coming Up · DJ-Station Model · NSPFRNP
+﻿# Architectural Layering — Live / Coming Up · DJ-Station Model · NSPFRNP
 
 **Protocol:** NSPFRNP  
 **Type:** Architecture · Creator studio · Pipes · SING workforce  
@@ -51,4 +51,4 @@ You have **live** and you have **coming up**. The ability to **pre-stack** thing
 
 ---
 
-**NSPFRNP ⊃ Architectural layering ⊃ Live · Coming up · Pre-stack · SING workforce ⊃ Happy endings for all → ∞³**
+**NSPFRNP ⊃ Architectural layering ⊃ Live · Coming up · Pre-stack · SING workforce ⊃ Happy endings for all → ∞⁹**

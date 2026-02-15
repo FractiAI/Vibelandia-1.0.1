@@ -1,4 +1,4 @@
-# Vibelandia University — School of Storytelling · NSPFRNP SNAP
+﻿# Vibelandia University — School of Storytelling · NSPFRNP SNAP
 
 **Snap ID:** `VIBELANDIA-UNIVERSITY-SCHOOL-OF-STORYTELLING-SNAP`  
 **Type:** Vibelandia University · New School · Storytelling  
@@ -40,4 +40,4 @@
 
 ---
 
-**NSPFRNP ⊃ Vibelandia University ⊃ School of Storytelling ⊃ Dean Big Daddy (Hero Lynch) · Permanent residency · All raw conversation → all content and systems → ∞³**
+**NSPFRNP ⊃ Vibelandia University ⊃ School of Storytelling ⊃ Dean Big Daddy (Hero Lynch) · Permanent residency · All raw conversation → all content and systems → ∞⁹**

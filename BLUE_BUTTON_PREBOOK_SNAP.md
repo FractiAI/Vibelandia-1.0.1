@@ -1,4 +1,4 @@
-# Blue Button to Prebook — NSPFRNP SNAP
+﻿# Blue Button to Prebook — NSPFRNP SNAP
 
 **SNAP ID:** `BLUE-BUTTON-PREBOOK-SNAP`  
 **Type:** CTA · Primary blue button · Prebook  
@@ -40,4 +40,4 @@
 
 ---
 
-**NSPFRNP ⊃ Blue button ⊃ Prebook ⊃ Plans & booking → ∞³**
+**NSPFRNP ⊃ Blue button ⊃ Prebook ⊃ Plans & booking → ∞⁹**

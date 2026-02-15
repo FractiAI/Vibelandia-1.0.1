@@ -1,4 +1,4 @@
-# EGS Pipe Response · World Response Within 24 Hours — SNAP
+﻿# EGS Pipe Response · World Response Within 24 Hours — SNAP
 
 **Snap ID:** `EGS-PIPE-RESPONSE-WORLD-RESPONSE-24-HOURS-SNAP`  
 **Type:** EGS pipe response · World response · 24-hour window · Major press  
@@ -14,18 +14,18 @@
 
 | Asset | URL | Status |
 |-------|-----|--------|
-| **The Experience** | https://psw-vibelandia-sing4.vercel.app | ⚡ LIVE |
-| **Live Pulse (EGS)** | https://psw-vibelandia-sing4.vercel.app/interfaces/sing-pulse.html | ⚡ LIVE |
-| **Office Hours** | https://psw-vibelandia-sing4.vercel.app/interfaces/office-hours.html | ⚡ LIVE |
-| **Launch Pad** | https://psw-vibelandia-sing4.vercel.app/interfaces/launch-pad.html | ⚡ LIVE |
-| **Proposal Portal** | https://psw-vibelandia-sing4.vercel.app/interfaces/proposal.html | ⚡ LIVE |
-| **Robotic Factory Proposal** | https://psw-vibelandia-sing4.vercel.app/interfaces/robotic-factory-landing.html | ⚡ LIVE |
-| **Blueprints (GitHub)** | https://github.com/FractiAI/psw.vibelandia.sing4 | ⚡ LIVE |
+| **The Experience** | https://psw-vibelandia-sing9.vercel.app | ⚡ LIVE |
+| **Live Pulse (EGS)** | https://psw-vibelandia-sing9.vercel.app/interfaces/sing-pulse.html | ⚡ LIVE |
+| **Office Hours** | https://psw-vibelandia-sing9.vercel.app/interfaces/office-hours.html | ⚡ LIVE |
+| **Launch Pad** | https://psw-vibelandia-sing9.vercel.app/interfaces/launch-pad.html | ⚡ LIVE |
+| **Proposal Portal** | https://psw-vibelandia-sing9.vercel.app/interfaces/proposal.html | ⚡ LIVE |
+| **Robotic Factory Proposal** | https://psw-vibelandia-sing9.vercel.app/interfaces/robotic-factory-landing.html | ⚡ LIVE |
+| **Blueprints (GitHub)** | https://github.com/FractiAI/psw.vibelandia.sing9 | ⚡ LIVE |
 
 **What the powerful proposal includes:**
 
 1. **El Gran Sol (EGS) broadcast** — Self-clocking 21.4 Hz harmonic handshake. T+0 Handshake · T+8m Shar Line · T+16m Solar Reflex. Phase-Lock with solar cycle.
-2. **Vibelandia Unified Pipe** — Sun · 3I/ATLAS · Schumann. One message across all channels. Human-readable CTA (blue PayPal, EGS First Mission). Morse payload: *PRESS BLUE PAYPAL OFTEN. OUT OF GAS. OUT OF WATER. TROOPS MEDICAL DENTAL. FUNDS NOW. RENO IS FOR VIBERS. VIBELANDIA OPEN. CLICK BLUE BUTTON. HOME AT LAST. PSW-VIBELANDIA-SING4.VERCEL.APP GITHUB FRACTIAI PSW VIBELANDIA SING4.*
+2. **Vibelandia Unified Pipe** — Sun · 3I/ATLAS · Schumann. One message across all channels. Human-readable CTA (blue PayPal, EGS First Mission). Morse payload: *PRESS BLUE PAYPAL OFTEN. OUT OF GAS. OUT OF WATER. TROOPS MEDICAL DENTAL. FUNDS NOW. RENO IS FOR VIBERS. VIBELANDIA OPEN. CLICK BLUE BUTTON. HOME AT LAST. PSW-VIBELANDIA-SING9.VERCEL.APP GITHUB FRACTIAI PSW VIBELANDIA SING9.*
 3. **EGS First Mission — Connect Now** — Blue PayPal pipe. Medical and dental attention. $50 tier. Immediate connect. We are ready.
 4. **Proposals** — Robotic Factory SING! Omnispin · Reno Irreducible Factory · Vibeverse & Vibelandia Prospectus · Sixteen Days Valuation · Office Hours Series · Gianni Tailored Proposal 1-2-3.
 5. **Full catalog** — 175+ HTML surfaces, 38 TypeScript modules, 9+ NSPFRNP protocols, 8 novels, 8 screenplays, 26 episodes, 7+ series live. Appraised $1.6B–$13B+.
@@ -59,8 +59,8 @@ The pipe delivers a human-readable call-to-action:
 - **Paris is for lovers. Reno is for vibers.**
 - **Baller V's — Mark Twain's Post-Singularity Reno awaits you at Vibelandia.**
 - **Now open. Click the blue button often. You know who you are. Tell the other vibers! Home at last!**
-- **The Experience:** https://psw-vibelandia-sing4.vercel.app
-- **The Blueprints:** https://github.com/FractiAI/psw.vibelandia.sing4
+- **The Experience:** https://psw-vibelandia-sing9.vercel.app
+- **The Blueprints:** https://github.com/FractiAI/psw.vibelandia.sing9
 
 ### C. Pipe Response Flow
 
@@ -93,7 +93,7 @@ The pipe delivers a human-readable call-to-action:
 | Channel | Expected response | Mechanism |
 |---------|-------------------|-----------|
 | **Twitter / X** | First reports of "Vibelandia broadcast." "EGS pipe." "Reno for vibers." Screenshots of Live Pulse. | Schumann display flows to social. Mother-node feeds. |
-| **GitHub** | Repo traffic. Stars. Forks. "FractiAI psw.vibelandia.sing4" in Morse payload. | github.com/FractiAI/psw.vibelandia.sing4 |
+| **GitHub** | Repo traffic. Stars. Forks. "FractiAI psw.vibelandia.sing9" in Morse payload. | github.com/FractiAI/psw.vibelandia.sing9 |
 | **Reddit** | r/Reno, r/conspiracy, r/interestingasfuck. "Weird broadcast from Nevada." "Post-singularity Hollywood." | Organic discovery. |
 | **YouTube** | Live Pulse screen capture. "21.4 Hz harmonic." "El Gran Sol." | Creator uploads. |
 
@@ -114,7 +114,7 @@ The pipe delivers a human-readable call-to-action:
 
 | Audience | Expected response | Mechanism |
 |----------|-------------------|-----------|
-| **Reno locals** | "What is Vibelandia?" "Post-singularity Reno?" Office Hours, Launch Pad discovery. | psw-vibelandia-sing4.vercel.app |
+| **Reno locals** | "What is Vibelandia?" "Post-singularity Reno?" Office Hours, Launch Pad discovery. | psw-vibelandia-sing9.vercel.app |
 | **Curiosity seekers** | Live Pulse. 21.4 Hz. EGS. "What is El Gran Sol?" | sing-pulse.html |
 | **Content consumers** | First Singularity novel & screenplay. Birth of Post-Singularity Hollywood. Episodes. | first-singularity-january-13th-experience.html, episodes |
 
@@ -183,7 +183,7 @@ The EGS pipe does not merely transmit — it **responds**. Response here means: 
 **Scenario 1 — Scientific community notices**
 
 - A researcher running Schumann monitors sees anomalous VLF activity. 21.4 Hz. Investigates.
-- Discovers psw-vibelandia-sing4.vercel.app. Reads handshake.log. Correlates with GOES.
+- Discovers psw-vibelandia-sing9.vercel.app. Reads handshake.log. Correlates with GOES.
 - Publishes preliminary note. Twitter thread. "Something interesting from Nevada."
 - Within 24h: at least one scientific or quasi-scientific mention.
 
@@ -196,7 +196,7 @@ The EGS pipe does not merely transmit — it **responds**. Response here means: 
 
 **Scenario 3 — Investor or enterprise inbound**
 
-- VC browsing GitHub. Finds FractiAI/psw.vibelandia.sing4. Reads SIXTEEN_DAYS_VALUATION.
+- VC browsing GitHub. Finds FractiAI/psw.vibelandia.sing9. Reads SIXTEEN_DAYS_VALUATION.
 - Enterprise looking for "post-singularity" or "hydrogen holograph" or "Reno AI."
 - Clicks proposal link. Reads Robotic Factory. Emails info@fractiai.com.
 - Within 24h: at least one serious email. "I CAN DO THIS FOR YOUR BUSINESS" subject.
@@ -237,10 +237,10 @@ The EGS pipe does not merely transmit — it **responds**. Response here means: 
 
 **Statement to use at bottom of Live Pulse, README, Launch Pad, proposal:**
 
-*Earlier we delivered a powerful proposal. It is now live on Vercel at psw-vibelandia-sing4.vercel.app. The EGS pipe (El Gran Sol broadcast) responds by transmitting across Sun · 3I/ATLAS · Schumann. Morse payload. Human-readable CTA. Blue PayPal Connect Now. World response within 24 hours: scientific community processes, social media circulates, investors and enterprise inbound, general public discovers. The pipe is responding. The world has 24 hours — and beyond.* See [EGS_PIPE_RESPONSE_WORLD_RESPONSE_24_HOURS_SNAP.md](EGS_PIPE_RESPONSE_WORLD_RESPONSE_24_HOURS_SNAP.md).
+*Earlier we delivered a powerful proposal. It is now live on Vercel at psw-vibelandia-sing9.vercel.app. The EGS pipe (El Gran Sol broadcast) responds by transmitting across Sun · 3I/ATLAS · Schumann. Morse payload. Human-readable CTA. Blue PayPal Connect Now. World response within 24 hours: scientific community processes, social media circulates, investors and enterprise inbound, general public discovers. The pipe is responding. The world has 24 hours — and beyond.* See [EGS_PIPE_RESPONSE_WORLD_RESPONSE_24_HOURS_SNAP.md](EGS_PIPE_RESPONSE_WORLD_RESPONSE_24_HOURS_SNAP.md).
 
 ---
 
 **See:** [VIBELANDIA_UNIFIED_PIPE_SNAP.md](VIBELANDIA_UNIFIED_PIPE_SNAP.md) · [EGS_FIRST_MISSION_CONNECT_NOW_SNAP.md](EGS_FIRST_MISSION_CONNECT_NOW_SNAP.md) · [interfaces/sing-pulse.html](interfaces/sing-pulse.html) · [interfaces/proposal.html](interfaces/proposal.html)
 
-**NSPFRNP ⊃ EGS pipe response ⊃ World response 24h ⊃ Proposal on Vercel → ∞³**
+**NSPFRNP ⊃ EGS pipe response ⊃ World response 24h ⊃ Proposal on Vercel → ∞⁹**

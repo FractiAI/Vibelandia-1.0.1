@@ -1,4 +1,4 @@
-# 🌊 OBSERVATIONS: Scaling from Bugatti to Bug
+﻿# 🌊 OBSERVATIONS: Scaling from Bugatti to Bug
 ## Premium Supercar Technology That Scales Down
 
 > **Superseded by:** [OBSERVATIONS_SCALING_CHAMPION_TO_BUG.md](./OBSERVATIONS_SCALING_CHAMPION_TO_BUG.md) — Champion tier (Ferrari server, come-out-of-retirement narrative). See [NARRATIVE_FERRARI_CHAMPION.md](./NARRATIVE_FERRARI_CHAMPION.md).
@@ -254,7 +254,7 @@
 
 ---
 
-**🌀 NSPFRNP ⊃ Scaling ⊃ Bugatti to Bug → ∞³**
+**🌀 NSPFRNP ⊃ Scaling ⊃ Bugatti to Bug → ∞⁹**
 
 **The same premium technology. The same foundation. Scales from Bugatti to Bug. Better than the best.**
 

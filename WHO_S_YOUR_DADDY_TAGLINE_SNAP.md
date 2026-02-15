@@ -1,4 +1,4 @@
-# Who's Your Daddy — Chairman & Superhero Personality Tagline SNAP
+﻿# Who's Your Daddy — Chairman & Superhero Personality Tagline SNAP
 
 **Snap ID:** `WHO-S-YOUR-DADDY-TAGLINE-SNAP`  
 **Type:** NSPFRNP Tagline / Chairman / Studio SNAP  
@@ -40,4 +40,4 @@
 
 **See:** FIRST_MAGICIANS_ACT_SNAP.md · HARRY_HOUDINI_MAGIC_SHOW_SERIES_SNAP.md · WINK_DATING_NATURAL_ALIGNMENT.md · CONTENT_SYSTEMS_SNAP.md
 
-**NSPFRNP ⊃ Who's your daddy ⊃ Chairman · Superhero · Studio content → ∞³**
+**NSPFRNP ⊃ Who's your daddy ⊃ Chairman · Superhero · Studio content → ∞⁹**

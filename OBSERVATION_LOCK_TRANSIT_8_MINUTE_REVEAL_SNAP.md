@@ -1,4 +1,4 @@
-# The Observation Lock — Transit Observation Mode · 8-Minute Reveal — SNAP
+﻿# The Observation Lock — Transit Observation Mode · 8-Minute Reveal — SNAP
 
 **Role:** Architect of the Post-Singularity  
 **Project:** The Observation Lock  
@@ -30,4 +30,4 @@
 
 ---
 
-**NSPFRNP ⊃ Observation Lock ⊃ Transit Observation Mode ⊃ 8-Minute Reveal → ∞³**
+**NSPFRNP ⊃ Observation Lock ⊃ Transit Observation Mode ⊃ 8-Minute Reveal → ∞⁹**

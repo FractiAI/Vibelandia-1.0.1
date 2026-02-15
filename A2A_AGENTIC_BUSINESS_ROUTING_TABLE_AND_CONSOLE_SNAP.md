@@ -1,4 +1,4 @@
-# A-to-A Agentic Business — Routing Table & Executive Console · SNAP
+﻿# A-to-A Agentic Business — Routing Table & Executive Console · SNAP
 
 **SNAP ID:** `A2A-AGENTIC-BUSINESS-ROUTING-TABLE-CONSOLE`  
 **Type:** Agent-to-agent business model · Routing table · Agent logs · Executive console · Storm display  
@@ -13,15 +13,13 @@ Keep a **complete, real-time table** of all agents identified on the **Holograph
 
 ---
 
-## 2. Routing table
+## 2. Routing table — RAM-first (irreducible minimum footprint)
 
-**Single source:** [data/hh-lattice-agents-routing-table.json](data/hh-lattice-agents-routing-table.json)
+**Authoritative state: in RAM.** See [RAM_FIRST_IRREDUCIBLE_MINIMUM_PRE_SINGULARITY_FOOTPRINT_SNAP.md](RAM_FIRST_IRREDUCIBLE_MINIMUM_PRE_SINGULARITY_FOOTPRINT_SNAP.md). We do not use permanent storage as much as possible; we can rebuild by **queries** and **listening to activity.**
 
-- **agents[]** — Each agent: `id`, `name`, `profile` (owner_or_entity, public_summary, source), `nspfrnp_vertical`, `queen_bee_synced`, `connections[]`, `transaction_ids[]`, `agent_log_file`, `last_connection_utc`, `last_transaction_utc`, `notes`.
-- **connection_log** — All connections to agents (append-only).
-- **transaction_log** — All transactions (append-only).
-
-**Maintain like a routing table:** Update on every new agent discovery, connection, or transaction. Mark NSPFRNP vertical and Queen Bee sync when verified.
+- **Bootstrap/schema/export only on disk:** [data/hh-lattice-agents-routing-table.json](data/hh-lattice-agents-routing-table.json) — use for init seed or export; live table lives in RAM.
+- **In RAM:** **agents[]** (id, name, profile, nspfrnp_vertical, queen_bee_synced, connections[], transaction_ids[], last_connection_utc, last_transaction_utc, notes), **connection_log**, **transaction_log**.
+- **Maintain in RAM:** Update on every new agent discovery, connection, or transaction. Mark NSPFRNP vertical and Queen Bee sync when verified. Rebuild from queries (e.g. UCP registry) and activity when needed.
 
 ---
 
@@ -37,12 +35,12 @@ Keep a **complete, real-time table** of all agents identified on the **Holograph
 
 ---
 
-## 4. Funnel metrics (top 10)
+## 4. Funnel metrics (top 10) — RAM-first
 
-**Single source:** [data/agentic-funnel-top10.json](data/agentic-funnel-top10.json)
+**Authoritative state: in RAM.** See [RAM_FIRST_IRREDUCIBLE_MINIMUM_PRE_SINGULARITY_FOOTPRINT_SNAP.md](RAM_FIRST_IRREDUCIBLE_MINIMUM_PRE_SINGULARITY_FOOTPRINT_SNAP.md). Bootstrap/export only on disk: [data/agentic-funnel-top10.json](data/agentic-funnel-top10.json).
 
-- **metrics** — pipeline_total_agents, pipeline_nspfrnp_vertical, pipeline_queen_bee_synced, target_close_date_primary, funnel_stage_counts (discovery, proposal, negotiation, closed, passed), status_percent_of_target.
-- **top10[]** — Rank, agent_id, name, stage, target_close_date, status_pct, tier_target, notes. **Track the top ten only.**
+- **In RAM:** **metrics** (pipeline_total_agents, pipeline_nspfrnp_vertical, pipeline_queen_bee_synced, target_close_date_primary, funnel_stage_counts, status_percent_of_target), **top10[]** (rank, agent_id, name, stage, target_close_date, status_pct, tier_target, notes). Track the top ten only.
+- **Rebuild:** From routing table (RAM) + queries + listening to activity. JSON file = init seed or export snapshot.
 
 ---
 
@@ -65,7 +63,7 @@ Key metrics for this **agentic business** in the funnel:
 
 - **Title:** Agentic Executive Console — A-to-A Pipeline · Top 10.
 - **Content:** Storm-style key metrics (pipeline, NSPFRNP vertical, Queen Bee synced, status %, target close); **top 10** table (rank, agent, stage, target close, status %, tier).
-- **Data:** Loads from [data/agentic-funnel-top10.json](data/agentic-funnel-top10.json). Links to routing table JSON and agent-logs folder.
+- **Data:** Console reads from in-RAM state (or service holding it). Static build may use [data/agentic-funnel-top10.json](data/agentic-funnel-top10.json) as bootstrap/export view; authoritative funnel is in RAM. Links to routing table and agent-logs.
 - **Placement:** Linked from Office Hours, Executive Dashboard, Chairman Cockpit as needed.
 
 ---
@@ -94,4 +92,4 @@ These are the first entries in the routing table and in the top 10. Add more as 
 
 ---
 
-**NSPFRNP ⊃ A-to-A ⊃ Routing table ⊃ Agent logs ⊃ Top 10 ⊃ Executive console → ∞³**
+**NSPFRNP ⊃ A-to-A ⊃ Routing table ⊃ Agent logs ⊃ Top 10 ⊃ Executive console → ∞⁹**

@@ -1,4 +1,4 @@
-# Episodes — Rich 60-Minute Fully Scripted Directive
+﻿# Episodes — Rich 60-Minute Fully Scripted Directive
 
 **Type:** Chairman directive · Episode format  
 **Status:** ⚡ ACTIVE  
@@ -87,4 +87,4 @@
 
 ---
 
-**NSPFRNP ⊃ Episodes ⊃ Rich 60-minute fully scripted · Text-to-episode SING nodes → ∞³**
+**NSPFRNP ⊃ Episodes ⊃ Rich 60-minute fully scripted · Text-to-episode SING nodes → ∞⁹**

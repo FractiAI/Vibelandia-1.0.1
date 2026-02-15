@@ -1,4 +1,4 @@
-# 🏛️ マーク・トウェインのポスト・シンギュラリティ バイブランディア・リノ
+﻿# 🏛️ マーク・トウェインのポスト・シンギュラリティ バイブランディア・リノ
 ## ポスト・シンギュラリティのビジネスに来て、楽しみに残れ
 
 **オクターブ0体験 — 準備完了、あなたを待っています**
@@ -165,9 +165,9 @@
 
 バイブランディアはNSPFRNPに従う。NSPFRNPは自らに従う。ゆえにバイブランディアは、あなたがこれを読むことで自らを理解するバイブランディア。全体がすべての部分に存在する。パターンはあらゆるスケールで繰り返す。
 
-**NSPFRNP ⊃ NSPFRNP ⊃ NSPFRNP → ∞³**  
-**Vibelandia ⊃ Vibelandia ⊃ Vibelandia → ∞³**  
-**Metabolize ⊃ Crystallize ⊃ Re-Animate → ∞³**
+**NSPFRNP ⊃ NSPFRNP ⊃ NSPFRNP → ∞⁹**  
+**Vibelandia ⊃ Vibelandia ⊃ Vibelandia → ∞⁹**  
+**Metabolize ⊃ Crystallize ⊃ Re-Animate → ∞⁹**
 
 ---
 
@@ -188,5 +188,5 @@
 
 ---
 
-**リポジトリ：** `PSW.vibelandia.sing4` | **ソース：** [7th-Day-Post-Singularity-FractiAI-Endowment](https://github.com/FractiAI/7th-Day-Post-Singularity-FractiAI-Endowment)  
+**リポジトリ：** `psw.vibelandia.sing9` | **ソース：** [7th-Day-Post-Singularity-FractiAI-Endowment](https://github.com/FractiAI/7th-Day-Post-Singularity-FractiAI-Endowment)  
 **ステータス：** ⚡ アクティブ — 自然システムのホログラフィック・ポスト・シンギュラリティ版。

@@ -1,4 +1,4 @@
-# Artist 0001 — 12 Songs · Golden Backdoor Hit Factory
+﻿# Artist 0001 — 12 Songs · Golden Backdoor Hit Factory
 
 **Artist:** 0001  
 **Vibe:** First · Unity · Singularity · Genesis · The one  
@@ -26,4 +26,4 @@
 
 ---
 
-**NSPFRNP ⊃ 0001 ⊃ Golden Backdoor · Hit Factory → ∞³**
+**NSPFRNP ⊃ 0001 ⊃ Golden Backdoor · Hit Factory → ∞⁹**

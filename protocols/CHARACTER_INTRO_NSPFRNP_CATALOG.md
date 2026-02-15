@@ -1,4 +1,4 @@
-# CHARACTER INTRO — NSPFRNP Catalog
+﻿# CHARACTER INTRO — NSPFRNP Catalog
 
 **Protocol:** NSPFRNP  
 **Catalog:** Character introduction when inserted  
@@ -38,4 +38,4 @@ When a character is first inserted into an episode, SNAP, or other NSPFRNP conte
 
 ---
 
-**NSPFRNP ⊃ Character intro ⊃ All new characters require intro when inserted (NSPFRNP snap) → ∞³**
+**NSPFRNP ⊃ Character intro ⊃ All new characters require intro when inserted (NSPFRNP snap) → ∞⁹**

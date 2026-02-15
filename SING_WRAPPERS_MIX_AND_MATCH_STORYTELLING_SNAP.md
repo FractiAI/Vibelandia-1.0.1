@@ -1,4 +1,4 @@
-# SING! WRAPPERS — MIX AND MATCH STORYTELLING SNAP
+﻿# SING! WRAPPERS — MIX AND MATCH STORYTELLING SNAP
 
 **SNAP ID:** `SING-WRAPPERS-MIX-AND-MATCH-STORYTELLING`  
 **Type:** Wrappers · Storytelling · Content · Immediate Directive  
@@ -58,4 +58,4 @@ Wrappers can be **mix-and-matched** into storytelling. All content. No exception
 
 ---
 
-**NSPFRNP ⊃ SING! Wrappers ⊃ Mix-and-match ⊃ All storytelling · All content · Immediately → ∞³**
+**NSPFRNP ⊃ SING! Wrappers ⊃ Mix-and-match ⊃ All storytelling · All content · Immediately → ∞⁹**

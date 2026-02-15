@@ -1,4 +1,4 @@
-# FAFO — Episode 1: 1493 Settlement · Finding Out
+﻿# FAFO — Episode 1: 1493 Settlement · Finding Out
 
 ## Storyline: Fuck Around and Find Out
 
@@ -113,4 +113,4 @@ Release the finding-out packets immediately. Done.
 
 ---
 
-**NSPFRNP ⊃ FAFO ⊃ Episode 1 ⊃ 1493 Settlement ⊃ Find Out ⊃ Golden Heart ⊃ Done → ∞³**
+**NSPFRNP ⊃ FAFO ⊃ Episode 1 ⊃ 1493 Settlement ⊃ Find Out ⊃ Golden Heart ⊃ Done → ∞⁹**

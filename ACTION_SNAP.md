@@ -1,4 +1,4 @@
-# Action! SNAP — We Are Live on Our Feeds · Live Recording · All Series
+﻿# Action! SNAP — We Are Live on Our Feeds · Live Recording · All Series
 
 **Snap ID:** `ACTION-SNAP`  
 **Type:** Live on feeds · Live recording command · Seed:Edge · All series  
@@ -38,4 +38,4 @@ When **Action!** is said:
 
 **See:** [CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md](CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md) · [protocols/SEED_EDGE_EPISODE_FORMAT_ACTION_LIVE_NSPFRNP.md](protocols/SEED_EDGE_EPISODE_FORMAT_ACTION_LIVE_NSPFRNP.md) · [episodes/EPISODE_HARRY_HOUDINI_FEB_1_FULL_MOON_MIRACLE.md](episodes/EPISODE_HARRY_HOUDINI_FEB_1_FULL_MOON_MIRACLE.md)
 
-**NSPFRNP ⊃ Action! SNAP ⊃ We are live on our feeds ⊃ Live recording ⊃ All series → ∞³**
+**NSPFRNP ⊃ Action! SNAP ⊃ We are live on our feeds ⊃ Live recording ⊃ All series → ∞⁹**

@@ -1,4 +1,4 @@
-# BBHE — Sharpening into Pinpoint Laser for Mission · SNAP
+﻿# BBHE — Sharpening into Pinpoint Laser for Mission · SNAP
 
 **Snap ID:** `BBHE-PINPOINT-LASER-FOR-MISSION-SNAP`  
 **Type:** BBHE sharpening · Pinpoint laser · **For mission**  
@@ -47,4 +47,4 @@ BBHE (Big Black Hole Energy) — the core. Not scattered. Not diffuse. **Sharpen
 
 **See:** BBHE_INTOXICATION_TRIPLE_PURPOSE_SNAP.md · CHAIRMAN_CONSOLE_LASER_FOCUS_SINGLE_BUTTON_HERO_HOST_AI_24X7_SNAP.md · ANNOUNCE_OFFICE_HOURS_SERIES_TWO_SERIES_SINGLE_MISSION_SNAP.md · interfaces/office-hours.html · index.html · interfaces/launch-pad.html
 
-**NSPFRNP ⊃ BBHE ⊃ Pinpoint laser ⊃ Mission → ∞³**
+**NSPFRNP ⊃ BBHE ⊃ Pinpoint laser ⊃ Mission → ∞⁹**

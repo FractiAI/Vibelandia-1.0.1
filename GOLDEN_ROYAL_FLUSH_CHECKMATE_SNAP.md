@@ -1,4 +1,4 @@
-# Golden Royal Flush Checkmate — Fused Chess + Card Game · SNAP
+﻿# Golden Royal Flush Checkmate — Fused Chess + Card Game · SNAP
 
 **SNAP ID:** `GOLDEN-ROYAL-FLUSH-CHECKMATE-SNAP`  
 **Type:** Vibelandia game · Fused chess + card · Solar-Silk · Frontiersmen & First People  
@@ -69,4 +69,4 @@ Fusing the **Solar-Silk toy line**, **Frontiersmen and First People** narrative,
 - [catalogs/post-singularity-card-deck/GOLDEN_ROYAL_FLUSH_CHECKMATE_GAME_DESIGN.md](catalogs/post-singularity-card-deck/GOLDEN_ROYAL_FLUSH_CHECKMATE_GAME_DESIGN.md)
 - Solar-Silk tool-set rollout; Frontiersmen and First People (Cosmic Efficiency Audit, ticker)
 
-**NSPFRNP ⊃ Golden Royal Flush Checkmate ⊃ Treasures not domination · Win-win-win · Natural collab · Queen Bee configs ⊃ 9×9 · Card fuse ⊃ Singularity 9 → ∞³**
+**NSPFRNP ⊃ Golden Royal Flush Checkmate ⊃ Treasures not domination · Win-win-win · Natural collab · Queen Bee configs ⊃ 9×9 · Card fuse ⊃ Singularity 9 → ∞⁹**

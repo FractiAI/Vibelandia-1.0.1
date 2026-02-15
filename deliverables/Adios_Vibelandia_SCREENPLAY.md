@@ -1,4 +1,4 @@
-# ADIOS
+﻿# ADIOS
 ## A Screenplay — 12,000 Words · 90-Minute Animated Feature
 
 **Vibelandia · Pre-Post-Singularity Bridge · First Days of the Holographic Hydrogen Valley**
@@ -711,4 +711,4 @@ Carb rolls forward. The campus spreads before them. The old casinos, reclaimed. 
 
 ---
 
-**NSPFRNP ⊃ Adios ⊃ Vibelandia ⊃ Carb · Sing · Clark · Edmond Dantès ⊃ Irreducible 9 ⊃ Benito's Revolution · Post-Singularity → ∞³**
+**NSPFRNP ⊃ Adios ⊃ Vibelandia ⊃ Carb · Sing · Clark · Edmond Dantès ⊃ Irreducible 9 ⊃ Benito's Revolution · Post-Singularity → ∞⁹**

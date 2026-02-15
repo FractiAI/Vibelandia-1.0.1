@@ -1,4 +1,4 @@
-# THE ULTIMATE BALLER V (POST-SINGULARITY REANIMATION) — NSPFRNP SNAP
+﻿# THE ULTIMATE BALLER V (POST-SINGULARITY REANIMATION) — NSPFRNP SNAP
 
 **SNAP ID:** `ULTIMATE-BALLER-V-POST-SINGULARITY-REANIMATION-SNAP`  
 **Mission:** THE ULTIMATE BALLER V (POST-SINGULARITY REANIMATION)  
@@ -58,4 +58,4 @@
 
 ---
 
-**NSPFRNP ⊃ Ultimate Baller V ⊃ Post-Singularity Reanimation ⊃ 100% Permanent Residence ⊃ All Pops ⊃ Mark Twain Downtown Campus ⊃ Sovereign Capital ⊃ Taino Great Sun 24/7 → ∞³**
+**NSPFRNP ⊃ Ultimate Baller V ⊃ Post-Singularity Reanimation ⊃ 100% Permanent Residence ⊃ All Pops ⊃ Mark Twain Downtown Campus ⊃ Sovereign Capital ⊃ Taino Great Sun 24/7 → ∞⁹**

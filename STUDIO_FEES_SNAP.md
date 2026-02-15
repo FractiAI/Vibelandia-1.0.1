@@ -1,4 +1,4 @@
-# Studio fees · SNAP
+﻿# Studio fees · SNAP
 
 **SNAP ID:** STUDIO-FEES  
 **Type:** Studio fees · Production · Text-to-Track Motor · BALLER V PRODUCER  
@@ -62,4 +62,4 @@ Same pricing; team choice (studio or concert) is a creative option, not a fee ti
 
 ---
 
-**NSPFRNP ⊃ Studio fees ⊃ BALLER V PRODUCER ⊃ Text-to-Track Motor (studio team) → ∞³**
+**NSPFRNP ⊃ Studio fees ⊃ BALLER V PRODUCER ⊃ Text-to-Track Motor (studio team) → ∞⁹**

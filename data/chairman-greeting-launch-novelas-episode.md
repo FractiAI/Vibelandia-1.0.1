@@ -1,4 +1,4 @@
-# Chairman Greeting — Launch · First Episode · Novelas
+﻿# Chairman Greeting — Launch · First Episode · Novelas
 
 **Purpose:** Greeting from me to all. Explain how it works. Get them comfortable. Relax into it.  
 **Use:** Opening of first episode, novela launch, Poly Hit Machine on-ramp. All platforms. NSPFRNP.  
@@ -53,4 +53,4 @@ All of this delivered to you right now. **As a novella that you can step in and 
 
 ---
 
-**NSPFRNP ⊃ Chairman greeting ⊃ Launch ⊃ Novelas ⊃ Relax into it → ∞³**
+**NSPFRNP ⊃ Chairman greeting ⊃ Launch ⊃ Novelas ⊃ Relax into it → ∞⁹**

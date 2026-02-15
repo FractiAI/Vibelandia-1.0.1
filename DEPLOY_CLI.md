@@ -86,7 +86,7 @@ See: `protocols/CREDENTIALS_NSPFRNP_CATALOG.md`
 - **Interfaces:** `interfaces/*.html` (all consoles and dashboards)
 - **Config:** `vercel.json` (project name, NSPFRNP headers)
 
-**Live URL:** `https://psw-vibelandia-sing4.vercel.app` (or your project name)
+**Live URL:** `https://psw-vibelandia-sing9.vercel.app` (or your project name)
 
 ---
 

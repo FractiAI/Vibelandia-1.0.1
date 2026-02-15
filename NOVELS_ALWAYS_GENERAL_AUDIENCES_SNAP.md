@@ -1,4 +1,4 @@
-# Novels — Always General Audiences · 13+ with Parental Control · SNAP
+﻿# Novels — Always General Audiences · 13+ with Parental Control · SNAP
 
 **Snap ID:** `NOVELS-ALWAYS-GENERAL-AUDIENCES-SNAP`  
 **Type:** Content · Audience · Novel vs Novela  
@@ -33,4 +33,4 @@ Same story can exist as both: e.g. Chief Seattle as a **novel** (general audienc
 
 ---
 
-**NSPFRNP ⊃ Novels ⊃ General audiences → ∞³**
+**NSPFRNP ⊃ Novels ⊃ General audiences → ∞⁹**

@@ -1,4 +1,4 @@
-# Vibelandia University — School of Gamification · NSPFRNP SNAP
+﻿# Vibelandia University — School of Gamification · NSPFRNP SNAP
 
 **Snap ID:** `VIBELANDIA-UNIVERSITY-SCHOOL-OF-GAMIFICATION-SNAP`  
 **Type:** Vibelandia University · School · Gamification Division  
@@ -32,4 +32,4 @@
 
 ---
 
-**NSPFRNP ⊃ Vibelandia University ⊃ School of Gamification ⊃ Stationary cruise ships · Living video games → ∞³**
+**NSPFRNP ⊃ Vibelandia University ⊃ School of Gamification ⊃ Stationary cruise ships · Living video games → ∞⁹**

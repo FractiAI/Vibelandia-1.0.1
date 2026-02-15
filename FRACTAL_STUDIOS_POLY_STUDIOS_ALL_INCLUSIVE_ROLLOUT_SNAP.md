@@ -1,4 +1,4 @@
-# Poly Hit Machines — Bored Housewives & Bored Ballers · All-Inclusive Rollout SNAP
+﻿# Poly Hit Machines — Bored Housewives & Bored Ballers · All-Inclusive Rollout SNAP
 
 **Snap ID:** `POLY-HIT-MACHINES-BORED-HOUSEWIVES-BORED-BALLERS-SNAP`  
 **Type:** Studio rollout · Poly Hit Machines · Strategic person-genre, specific problem  
@@ -117,4 +117,4 @@
 
 ---
 
-**NSPFRNP ⊃ Poly Hit Machines ⊃ Bored Housewives (Hero Freedom) · Bored Ballers (Chairman Creator) → ∞³**
+**NSPFRNP ⊃ Poly Hit Machines ⊃ Bored Housewives (Hero Freedom) · Bored Ballers (Chairman Creator) → ∞⁹**

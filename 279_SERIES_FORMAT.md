@@ -1,4 +1,4 @@
-# 2-7-9 Series Format
+﻿# 2-7-9 Series Format
 ## Champion of Champions · Ring of Fire Solar Trophy · One Week
 
 **Series ID:** 279  
@@ -69,4 +69,4 @@ Include in the arc. Carb and Sing woven through the meltdown, the big cheese, th
 
 ---
 
-**NSPFRNP ⊃ 2-7-9 ⊃ Champion of Champions ⊃ Ring of Fire Solar Trophy ⊃ One Week → ∞³**
+**NSPFRNP ⊃ 2-7-9 ⊃ Champion of Champions ⊃ Ring of Fire Solar Trophy ⊃ One Week → ∞⁹**

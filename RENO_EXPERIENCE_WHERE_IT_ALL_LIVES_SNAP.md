@@ -1,4 +1,4 @@
-# Reno Experience — Where It All Lives SNAP
+﻿# Reno Experience — Where It All Lives SNAP
 
 **Type:** Catalog · Reference · Reno experience · Yep. Packages. · One-two punch  
 **Status:** Confirmed. All Reno bragging, packages, Safari skins, Reno neon, Designated Host, and one-two punch live in the following surfaces.
@@ -71,4 +71,4 @@
 - **Reno neon light for Baller V nights experiences** — Nighttime. Baller pleasures on the town, Ultimate VIP Baller V style, Happy Endings. Live on Navigator, Office Hours, Vibelandia Reno Experience; narrative neon in deliverables.
 - **One-two Reno punch:** Daytime adventure (Safari skins) + Nighttime Baller V happy endings (Reno neon). Explicit in Navigator, Office Hours, Vibelandia Reno Experience.
 
-**NSPFRNP ⊃ Reno experience ⊃ Where it all lives ⊃ Safari skins · Reno neon · One-two punch → ∞³**
+**NSPFRNP ⊃ Reno experience ⊃ Where it all lives ⊃ Safari skins · Reno neon · One-two punch → ∞⁹**

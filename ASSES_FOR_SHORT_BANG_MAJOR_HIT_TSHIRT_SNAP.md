@@ -1,4 +1,4 @@
-# ASSES for Short — BANG! Major Hit T-Shirt SNAP
+﻿# ASSES for Short — BANG! Major Hit T-Shirt SNAP
 
 **SNAP ID:** `ASSES-FOR-SHORT-BANG-MAJOR-HIT-TSHIRT-SNAP`  
 **Type:** T-shirt brand · Major hit · Golden Backdoor · Full recursive nested densification  
@@ -39,4 +39,4 @@
 
 ---
 
-**NSPFRNP ⊃ ASSES for short ⊃ BANG! Major hit ⊃ Full recursive nested densification ⊃ Hero Jo · Chairman Freddy · Galaxies · Ultimate Baller Vs → ∞³**
+**NSPFRNP ⊃ ASSES for short ⊃ BANG! Major hit ⊃ Full recursive nested densification ⊃ Hero Jo · Chairman Freddy · Galaxies · Ultimate Baller Vs → ∞⁹**

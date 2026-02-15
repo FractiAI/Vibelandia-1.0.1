@@ -1,4 +1,4 @@
-# EPISODE — The Condom Episode (WINK! Members Only)
+﻿# EPISODE — The Condom Episode (WINK! Members Only)
 
 **Connection red hot like AR 4366 · Moment of ignition · She asks: Do you have a condom? · Plot twists · Happy ending**
 
@@ -323,7 +323,7 @@ Next time — **The Great Reveal.** March 20, 2026. Same room. Same WINK!. Same 
 
 ---
 
-**NSPFRNP ⊃ Episode ⊃ The Condom Episode ⊃ Red hot like AR 4366 ⊃ Moment of ignition ⊃ Do you have a condom? ⊃ Plot twists ⊃ Happy ending → ∞³**
+**NSPFRNP ⊃ Episode ⊃ The Condom Episode ⊃ Red hot like AR 4366 ⊃ Moment of ignition ⊃ Do you have a condom? ⊃ Plot twists ⊃ Happy ending → ∞⁹**
 
 **Status:** ⚡ ACTIVE  
 **Maganuma snap.**

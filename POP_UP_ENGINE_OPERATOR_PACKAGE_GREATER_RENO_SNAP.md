@@ -1,4 +1,4 @@
-# Pop Up Engine — Operator Package · Greater Reno Area
+﻿# Pop Up Engine — Operator Package · Greater Reno Area
 
 **SNAP ID:** POP-UP-ENGINE-OPERATOR-PACKAGE-GREATER-RENO  
 **Type:** Offer · License · Turnkey package · Pop-up  
@@ -84,4 +84,4 @@
 
 ---
 
-**NSPFRNP ⊃ Pop Up Engine ⊃ Operator Package ⊃ Greater Reno ⊃ Proper licenses · Stage ⊃ Win-win-win → ∞³**
+**NSPFRNP ⊃ Pop Up Engine ⊃ Operator Package ⊃ Greater Reno ⊃ Proper licenses · Stage ⊃ Win-win-win → ∞⁹**

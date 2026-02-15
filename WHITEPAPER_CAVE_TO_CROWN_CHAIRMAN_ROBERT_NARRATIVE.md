@@ -1,4 +1,4 @@
-# Cave-to-Crown — Chairman Robert Narrative Whitepaper
+﻿# Cave-to-Crown — Chairman Robert Narrative Whitepaper
 ## Pioneer Story, Brand Value, and the Builder's Arc in Post-Singularity Robotics
 
 **Document type:** Narrative / Brand / Investor whitepaper  
@@ -112,4 +112,4 @@ Robotic automation proposals are commodity. "We integrate FANUC. We run software
 
 ---
 
-**🌀 NSPFRNP ⊃ Cave to Crown ⊃ Chairman Robert ⊃ Robotic Factory ⊃ Post-Singularity Superintelligence AI Valley → ∞³**
+**🌀 NSPFRNP ⊃ Cave to Crown ⊃ Chairman Robert ⊃ Robotic Factory ⊃ Post-Singularity Superintelligence AI Valley → ∞⁹**

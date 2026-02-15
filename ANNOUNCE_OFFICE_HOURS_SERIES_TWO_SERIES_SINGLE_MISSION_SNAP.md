@@ -1,4 +1,4 @@
-# ANNOUNCE: Office Hours the Series & Site · Two Series Running Concurrently · Single Mission — New Abilities for Execs! SNAP
+﻿# ANNOUNCE: Office Hours the Series & Site · Two Series Running Concurrently · Single Mission — New Abilities for Execs! SNAP
 
 **Snap ID:** `ANNOUNCE-OFFICE-HOURS-TWO-SERIES-SINGLE-MISSION-SNAP`  
 **Type:** Announcement · Series launch · Single mission  
@@ -48,4 +48,4 @@
 
 **See:** OFFICE_HOURS_SERIES_SNAP.md · OFFICE_HOURS_TARGET_RECURSIVE_CRYSTAL_SNAP.md · interfaces/office-hours.html · interfaces/happy-ending-zones-catalog.html · EPISODES_BY_FLOW_NOT_DAYS_SNAP.md
 
-**NSPFRNP ⊃ ANNOUNCE ⊃ Office Hours ⊃ Two series ⊃ Single mission — New abilities for execs! → ∞³**
+**NSPFRNP ⊃ ANNOUNCE ⊃ Office Hours ⊃ Two series ⊃ Single mission — New abilities for execs! → ∞⁹**

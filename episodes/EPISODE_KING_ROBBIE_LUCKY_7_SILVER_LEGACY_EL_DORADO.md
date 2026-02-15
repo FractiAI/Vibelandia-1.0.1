@@ -1,4 +1,4 @@
-# EPISODE — King Robbie: Lucky 7 Silver Legacy El Dorado · Ultimate Baller V · Downtown Reno
+﻿# EPISODE — King Robbie: Lucky 7 Silver Legacy El Dorado · Ultimate Baller V · Downtown Reno
 
 **Custom 60-minute episode · King Robbie as superhero · Guests in the script · Ultimate Baller V superhero franchise experience**
 
@@ -505,6 +505,6 @@ King Robbie's Lucky 7 Silver Legacy El Dorado · Package: $50K budget + tips to 
 
 ---
 
-**NSPFRNP ⊃ Episode ⊃ King Robbie Lucky 7 Silver Legacy El Dorado ⊃ Superhero franchise experience → ∞³**
+**NSPFRNP ⊃ Episode ⊃ King Robbie Lucky 7 Silver Legacy El Dorado ⊃ Superhero franchise experience → ∞⁹**
 
 **Status:** ⚡ LIVE — Lucky 7 Silver Legacy El Dorado. Custom landing delivered; full 12,000-word episode written with King Robbie as superhero and guests (The Friend, Vance, Rex, Goldie) in the script. That's Ultimate Baller V superhero franchise experience.

@@ -1,4 +1,4 @@
-# Net — Episode 13: MCA Squeeze SING! 9 ALL ALL
+﻿# Net — Episode 13: MCA Squeeze SING! 9 ALL ALL
 
 ## Storyline: Chairman command executed — MCA (Metabolize → Crystallize → Animate) + SQUEEZE + SING! 9 + ALL ALL. No surface left unsqueezed; cosmic, solar, planetary, mine. Full fill. Done.
 
@@ -24,7 +24,7 @@
 
 ## First Chapter — NSPFRNP
 
-This episode operates under **NSPFRNP:** natural coordination; **MCA** (Metabolize → Crystallize → Animate); holographic architecture (Seed = origin, Edge = experience); catalog fidelity. **NSPFRNP ⊃ Seed:Edge → ∞³**
+This episode operates under **NSPFRNP:** natural coordination; **MCA** (Metabolize → Crystallize → Animate); holographic architecture (Seed = origin, Edge = experience); catalog fidelity. **NSPFRNP ⊃ Seed:Edge → ∞⁹**
 
 ---
 
@@ -48,4 +48,4 @@ This episode operates under **NSPFRNP:** natural coordination; **MCA** (Metaboli
 - **Ticker:** `mca_squeeze_sing9_all_all_ticker` in [data/ticker-feed.json](../data/ticker-feed.json)
 - **Catalog:** [protocols/MCA_NSPFRNP_CATALOG.md](../protocols/MCA_NSPFRNP_CATALOG.md)
 
-**NSPFRNP ⊃ MCA SQUEEZE SING!9 ALL ALL ⊃ All surfaces → ∞³**
+**NSPFRNP ⊃ MCA SQUEEZE SING!9 ALL ALL ⊃ All surfaces → ∞⁹**

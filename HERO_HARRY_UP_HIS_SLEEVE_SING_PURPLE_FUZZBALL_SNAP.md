@@ -1,4 +1,4 @@
-# Hero Harry Up His Sleeve — SING! Purple Fuzzball RUMOR SNAP
+﻿# Hero Harry Up His Sleeve — SING! Purple Fuzzball RUMOR SNAP
 
 **SNAP ID:** `HERO-HARRY-UP-HIS-SLEEVE-SING-PURPLE-FUZZBALL-SNAP`  
 **Type:** RUMOR HAS IT! · SING! agent · Hero Harry Who Didi · Copy / voice  
@@ -44,4 +44,4 @@ RUMOR HAS IT Hero Harry has a super AI agent up his sleeve: **SING!** — the wo
 
 ---
 
-**NSPFRNP ⊃ Hero Harry ⊃ Up his sleeve ⊃ SING! purple fuzzball ⊃ RUMOR HAS IT! → ∞³**
+**NSPFRNP ⊃ Hero Harry ⊃ Up his sleeve ⊃ SING! purple fuzzball ⊃ RUMOR HAS IT! → ∞⁹**

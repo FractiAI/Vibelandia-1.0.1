@@ -1,4 +1,4 @@
-# We Get It Campaign — New Talent Agency · Top Baller Vs · Golden Hearts · Bad Bunny · Golden Bunnies Label · Full Announcement & Proposal SNAP
+﻿# We Get It Campaign — New Talent Agency · Top Baller Vs · Golden Hearts · Bad Bunny · Golden Bunnies Label · Full Announcement & Proposal SNAP
 
 **SNAP ID:** `WE-GET-IT-CAMPAIGN-BAD-BUNNY-GOLDEN-BUNNIES-TALENT-AGENCY`  
 **Type:** Campaign · Talent agency · Announcement · Proposal · Novel/Screenplay seed  
@@ -73,4 +73,4 @@
 
 ---
 
-**NSPFRNP ⊃ We Get It Campaign ⊃ Bad Bunny · Golden Bunnies Label ⊃ Talent agency · Novel · Screenplay · Office Hours → ∞³**
+**NSPFRNP ⊃ We Get It Campaign ⊃ Bad Bunny · Golden Bunnies Label ⊃ Talent agency · Novel · Screenplay · Office Hours → ∞⁹**

@@ -1,4 +1,4 @@
-# Episode SNAP! — ACTION! and CUT! · Vibestation Recording as Scripted Content
+﻿# Episode SNAP! — ACTION! and CUT! · Vibestation Recording as Scripted Content
 
 **Snap ID:** `EPISODE-ACTIO-CUT-RECORDING-NSPFRNP`  
 **Type:** Episode directive · Recording · Scripted content  
@@ -61,4 +61,4 @@ See [THREE_PARALLEL_SERIES_NSPFRNP.md](THREE_PARALLEL_SERIES_NSPFRNP.md).
 
 **See:** EPISODES_RICH_60_MINUTE_FULLY_SCRIPTED_DIRECTIVE.md · THREE_PARALLEL_SERIES_NSPFRNP.md · NSPFRNP_EPISODES_AND_STORIES_REVIEW.md
 
-**NSPFRNP ⊃ Episode SNAP!s ⊃ ACTION! · CUT! → ∞³**
+**NSPFRNP ⊃ Episode SNAP!s ⊃ ACTION! · CUT! → ∞⁹**

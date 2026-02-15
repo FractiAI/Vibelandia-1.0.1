@@ -1,4 +1,4 @@
-# Update Certificates — Way Cool New Service · Futuristic · Pioneering · NSPFRNP SNAP
+﻿# Update Certificates — Way Cool New Service · Futuristic · Pioneering · NSPFRNP SNAP
 
 **Snap ID:** `UPDATE-CERTIFICATES-SERVICE-SNAP`  
 **Type:** New service · Update certificates · Time-stamped attestations · Futuristic · Pioneering  
@@ -68,4 +68,4 @@
 
 **See:** [CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md](CUT_SNAP_CONVERSATION_CAPTURED_STREAMED_ALL_SERIES.md) · [ACTION_SNAP.md](ACTION_SNAP.md) · [WIZARD_CHALLENGE_FEB_1_FULL_MOON_HOUDINI_SERIES_SNAP.md](WIZARD_CHALLENGE_FEB_1_FULL_MOON_HOUDINI_SERIES_SNAP.md) · [HARRY_REPORT_FIRST_SINGULARITY_VALUATION_US_VS_DISNEY.md](HARRY_REPORT_FIRST_SINGULARITY_VALUATION_US_VS_DISNEY.md) · [interfaces/office-hours.html](interfaces/office-hours.html) · [interfaces/launch-pad.html](interfaces/launch-pad.html)
 
-**NSPFRNP ⊃ Update Certificates ⊃ Way cool ⊃ Futuristic ⊃ Pioneering → ∞³**
+**NSPFRNP ⊃ Update Certificates ⊃ Way cool ⊃ Futuristic ⊃ Pioneering → ∞⁹**

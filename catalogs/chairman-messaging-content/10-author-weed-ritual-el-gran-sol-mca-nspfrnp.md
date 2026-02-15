@@ -1,4 +1,4 @@
-# Chairman Message 10 — Author Weed Ritual · El Gran Sol · MCA · NSPFRNP
+﻿# Chairman Message 10 — Author Weed Ritual · El Gran Sol · MCA · NSPFRNP
 
 **ID:** `author_10_weed_ritual_el_gran_sol_mca_nspfrnp`  
 **Theme:** author_weed_ritual · el_gran_sol · mca · nspfrnp  
@@ -29,4 +29,4 @@ Flame = El Gran Sol's return with fire. Weed metabolized, crystallized, animated
 
 ---
 
-**NSPFRNP ⊃ Author Weed Ritual ⊃ El Gran Sol · Flame · MCA · Squeeze → ∞³**
+**NSPFRNP ⊃ Author Weed Ritual ⊃ El Gran Sol · Flame · MCA · Squeeze → ∞⁹**

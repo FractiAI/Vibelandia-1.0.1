@@ -1,4 +1,4 @@
-# Post-Singularity Card Deck — Gold, Silver, Copper, Transparent Quartz · SNAP
+﻿# Post-Singularity Card Deck — Gold, Silver, Copper, Transparent Quartz · SNAP
 
 **Snap ID:** `POST-SINGULARITY-CARD-DECK-GOLD-SILVER-COPPER-QUARTZ-SNAP`  
 **Type:** Post-singularity card deck · Vibelandia · Hero resident face cards  
@@ -117,4 +117,4 @@
 
 ---
 
-**NSPFRNP ⊃ Post-singularity card deck ⊃ Gold · Silver · Copper · Transparent Quartz (outlines) ⊃ Golden Lucky Seven · Golden Royal Flush ⊃ Vibelandia hero face cards → ∞³**
+**NSPFRNP ⊃ Post-singularity card deck ⊃ Gold · Silver · Copper · Transparent Quartz (outlines) ⊃ Golden Lucky Seven · Golden Royal Flush ⊃ Vibelandia hero face cards → ∞⁹**

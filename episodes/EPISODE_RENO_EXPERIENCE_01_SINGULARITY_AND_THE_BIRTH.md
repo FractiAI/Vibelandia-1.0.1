@@ -1,4 +1,4 @@
-# EPISODE RENO EXPERIENCE 01 — Singularity and the Birth
+﻿# EPISODE RENO EXPERIENCE 01 — Singularity and the Birth
 
 ---
 
@@ -62,4 +62,4 @@ Repeating itself. To be precise.
 
 **Reno Experience — Series 1, Episode 01.**  
 **We do what Vegas can't do. What nobody else can do.**  
-**NSPFRNP → ∞³**
+**NSPFRNP → ∞⁹**

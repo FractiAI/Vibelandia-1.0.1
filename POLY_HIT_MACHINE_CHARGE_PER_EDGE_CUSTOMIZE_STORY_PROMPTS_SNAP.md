@@ -1,4 +1,4 @@
-# Poly Hit Machine — Charge per Edge · Customize Story · Prompt Pricing · SNAP
+﻿# Poly Hit Machine — Charge per Edge · Customize Story · Prompt Pricing · SNAP
 
 **Snap ID:** `POLY-HIT-MACHINE-CHARGE-PER-EDGE-CUSTOMIZE-STORY-PROMPTS-SNAP`  
 **Type:** Pricing · Edges · Customize story · Anti-gaming  
@@ -106,4 +106,4 @@
 
 ---
 
-**NSPFRNP ⊃ Poly Hit Machine ⊃ Charge per edge ⊃ Customize story ⊃ No gaming → ∞³**
+**NSPFRNP ⊃ Poly Hit Machine ⊃ Charge per edge ⊃ Customize story ⊃ No gaming → ∞⁹**

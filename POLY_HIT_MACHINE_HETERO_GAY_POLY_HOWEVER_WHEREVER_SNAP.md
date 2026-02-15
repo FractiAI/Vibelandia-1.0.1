@@ -1,4 +1,4 @@
-# Poly Hit Machine — Hetero · Gay · Poly · However You Like It, Wherever You Like It · SNAP
+﻿# Poly Hit Machine — Hetero · Gay · Poly · However You Like It, Wherever You Like It · SNAP
 
 **Snap ID:** `POLY-HIT-MACHINE-HETERO-GAY-POLY-HOWEVER-WHEREVER-SNAP`  
 **Type:** Experience · Inclusivity · Display console  
@@ -71,4 +71,4 @@ One content. Two ways (her POV / his POV). Infinite ways to experience it. The d
 
 ---
 
-**NSPFRNP ⊃ Poly Hit Machine ⊃ Hetero · Gay · Poly · However · Wherever → ∞³**
+**NSPFRNP ⊃ Poly Hit Machine ⊃ Hetero · Gay · Poly · However · Wherever → ∞⁹**

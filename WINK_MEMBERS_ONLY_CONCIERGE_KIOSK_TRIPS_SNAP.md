@@ -1,4 +1,4 @@
-# WINK! Members Only Concierge Kiosk — Trips · Plans · 50% of Guided Fishing & Hunting · All Inclusive · 4×4×4×4 SNAP
+﻿# WINK! Members Only Concierge Kiosk — Trips · Plans · 50% of Guided Fishing & Hunting · All Inclusive · 4×4×4×4 SNAP
 
 **SNAP ID:** `WINK-MEMBERS-ONLY-CONCIERGE-KIOSK-TRIPS-SNAP`  
 **Type:** WINK! Members Only · Concierge Kiosk · Expedition trips · Pricing  
@@ -65,4 +65,4 @@ All trips from Chancellor's Outfitters · Guided Expeditions. See [interfaces/gu
 
 ---
 
-**NSPFRNP ⊃ WINK! Members Only Concierge Kiosk ⊃ Trips · 50% · All inclusive · 4×4×4×4 → ∞³**
+**NSPFRNP ⊃ WINK! Members Only Concierge Kiosk ⊃ Trips · 50% · All inclusive · 4×4×4×4 → ∞⁹**

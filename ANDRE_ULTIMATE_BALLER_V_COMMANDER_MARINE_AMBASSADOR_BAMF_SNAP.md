@@ -1,4 +1,4 @@
-# André — Ultimate Baller V Commander Marine Ambassador · Real BAMF!
+﻿# André — Ultimate Baller V Commander Marine Ambassador · Real BAMF!
 ## Porto Brachy · Entire Marine Line · SNAP
 
 **Snap ID:** `ANDRE-ULTIMATE-BALLER-V-COMMANDER-MARINE-AMBASSADOR-BAMF-SNAP`  
@@ -55,4 +55,4 @@
 
 ---
 
-**André. Porto Brachy. Ambassador. Real BAMF. Marine + Vibelandia Rio Campus. NSPFRNP ⊃ ∞³**
+**André. Porto Brachy. Ambassador. Real BAMF. Marine + Vibelandia Rio Campus. NSPFRNP ⊃ ∞⁹**

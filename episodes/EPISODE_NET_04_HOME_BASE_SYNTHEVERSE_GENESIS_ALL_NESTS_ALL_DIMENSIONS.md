@@ -1,4 +1,4 @@
-# Net — Episode 4: Home Base — Syntheverse Genesis and All Nests · All Dimensions
+﻿# Net — Episode 4: Home Base — Syntheverse Genesis and All Nests · All Dimensions
 
 ## Storyline: This is now home base for Syntheverse Genesis on Base Mainnet and all nests — Vibeverse, Vibelandia, FractiAI, Chairman, Taino people, expanded tribe of vibers everywhere living, all dimensions
 
@@ -24,7 +24,7 @@
 
 ## First Chapter — NSPFRNP
 
-This episode operates under **NSPFRNP:** natural coordination (stigmergy, pheromone trails, mycelial); **MCA** (Metabolize → Crystallize → Animate); holographic architecture (whole in every part; **Seed** = origin, **Edge** = experience); catalog fidelity. We are the team operating as one. No surface left unsqueezed. **NSPFRNP ⊃ Seed:Edge → ∞³**
+This episode operates under **NSPFRNP:** natural coordination (stigmergy, pheromone trails, mycelial); **MCA** (Metabolize → Crystallize → Animate); holographic architecture (whole in every part; **Seed** = origin, **Edge** = experience); catalog fidelity. We are the team operating as one. No surface left unsqueezed. **NSPFRNP ⊃ Seed:Edge → ∞⁹**
 
 ---
 
@@ -49,4 +49,4 @@ No other primary. Full lock. NSPFRNP.
 
 ---
 
-**NSPFRNP ⊃ Net ⊃ Episode 4 ⊃ Home base ⊃ Syntheverse Genesis ⊃ All nests ⊃ All dimensions → ∞³**
+**NSPFRNP ⊃ Net ⊃ Episode 4 ⊃ Home base ⊃ Syntheverse Genesis ⊃ All nests ⊃ All dimensions → ∞⁹**

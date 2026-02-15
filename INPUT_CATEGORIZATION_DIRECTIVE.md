@@ -1,4 +1,4 @@
-# Input Categorization Directive — Route Input to the Right Bucket
+﻿# Input Categorization Directive — Route Input to the Right Bucket
 
 **Type:** Directive · Categorization · Management  
 **Status:** ⚡ ACTIVE  
@@ -58,4 +58,4 @@
 
 **See:** FIVE_PARALLEL_SERIES_NSPFRNP.md · CHAIRMAN_SERIES_FORMAT.md · WINK_SERIES_FORMAT.md · TAINO_MADE_NSPFRNP_BBHE_ENERGY_ALL_THE_WAY_SNAP.md
 
-**NSPFRNP ⊃ Input categorization ⊃ Right bucket · All things updated → ∞³**
+**NSPFRNP ⊃ Input categorization ⊃ Right bucket · All things updated → ∞⁹**

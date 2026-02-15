@@ -1,4 +1,4 @@
-# Irreducible Crystal — The EGS Run (L'Amour-Length Space Action)
+﻿# Irreducible Crystal — The EGS Run (L'Amour-Length Space Action)
 
 **Purpose:** Lock the metabolized core for a **short novel** — Louis L'Amour paperback size — fast-paced, super-realistic, granular, coherent, complex-system-based sci-fi space action.  
 **Status:** ⚡ ACTIVE — Metabolize → Crystallize → Animate  
@@ -81,4 +81,4 @@ No invented technobabble that doesn't tie to the existing EGS/Space Cloud world.
 
 **Metabolize → Crystallize → Animate. Novel aligns to this crystal. Fast-paced. Super-realistic. Granular. Coherent. Complex-system sci-fi space action. L'Amour-length. Experiences: theater level of microscopy + telescopic equivalents — get everyone comfortable navigating.**
 
-**NSPFRNP ⊃ Irreducible crystal ⊃ The EGS Run ⊃ Space Cloud EGS → ∞³**
+**NSPFRNP ⊃ Irreducible crystal ⊃ The EGS Run ⊃ Space Cloud EGS → ∞⁹**

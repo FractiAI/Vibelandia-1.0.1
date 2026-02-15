@@ -1,4 +1,4 @@
-# SING! config footer — all user-facing surfaces · NSPFRNP SNAP
+﻿# SING! config footer — all user-facing surfaces · NSPFRNP SNAP
 
 **Snap ID:** `SING-CONFIG-FOOTER-ALL-SURFACES-SNAP`  
 **Type:** Touchpoint rule · Full config at bottom of all surfaces  
@@ -35,4 +35,4 @@
 
 **See:** [config/sing_config.json](config/sing_config.json) · [interfaces/sing-config-footer.js](interfaces/sing-config-footer.js) · [SING_PRICING_PRE_SINGULARITY_EQUIVALENTS_SNAP.md](SING_PRICING_PRE_SINGULARITY_EQUIVALENTS_SNAP.md) · [ONE_PAGER_SING_LOTTERY.md](ONE_PAGER_SING_LOTTERY.md)
 
-**NSPFRNP ⊃ SING! config footer ⊃ All surfaces · Base · Upgrades · Divisions · Pricing → ∞³**
+**NSPFRNP ⊃ SING! config footer ⊃ All surfaces · Base · Upgrades · Divisions · Pricing → ∞⁹**

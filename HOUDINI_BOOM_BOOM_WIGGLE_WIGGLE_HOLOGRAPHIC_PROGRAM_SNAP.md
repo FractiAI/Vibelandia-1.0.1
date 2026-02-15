@@ -1,4 +1,4 @@
-# Boom Boom Wiggle Wiggle — Holographic Program · Recursive Layering · Magic Show SNAP
+﻿# Boom Boom Wiggle Wiggle — Holographic Program · Recursive Layering · Magic Show SNAP
 
 **Snap ID:** `HOUDINI-BOOM-BOOM-WIGGLE-WIGGLE-HOLOGRAPHIC-PROGRAM`  
 **Type:** Meta-trick · Programming · Self-demo proving · Harry Houdini Magic Show  
@@ -49,4 +49,4 @@
 
 **See:** MCA_SQUEEZE_BOOM_BOOM_WIGGLE_WIGGLE_SHAKY_SHAKY_ARMS_UP_IN_DE_AIR_T_SHIRT_SNAP.md · HOUDINI_SHORTEST_DISTANCE_DEFRACT_MAGIC_TRICK_SNAP.md · HARRY_HOUDINI_MAGIC_SHOW_SERIES_SNAP.md
 
-**NSPFRNP ⊃ Boom Boom Wiggle Wiggle ⊃ Holographic program ⊃ Recursive layering ⊃ Self-demo proving → ∞³**
+**NSPFRNP ⊃ Boom Boom Wiggle Wiggle ⊃ Holographic program ⊃ Recursive layering ⊃ Self-demo proving → ∞⁹**

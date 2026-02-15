@@ -1,4 +1,4 @@
-# Adios — Vibelandia · Screenplay Seed
+﻿# Adios — Vibelandia · Screenplay Seed
 
 **Target:** 12,000 words · 90 minutes animated feature  
 **Format:** Screenplay  
@@ -39,4 +39,4 @@ Mark Twain's Vibelandia — the pre-post-singularity bridge. First days of the H
 
 ---
 
-**NSPFRNP ⊃ Adios Screenplay ⊃ 12k words ⊃ 90 min animated → ∞³**
+**NSPFRNP ⊃ Adios Screenplay ⊃ 12k words ⊃ 90 min animated → ∞⁹**

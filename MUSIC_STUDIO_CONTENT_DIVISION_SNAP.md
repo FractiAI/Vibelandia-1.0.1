@@ -1,4 +1,4 @@
-# Music Studio — Content Division · NSPFRNP SNAP
+﻿# Music Studio — Content Division · NSPFRNP SNAP
 
 **Snap ID:** `MUSIC-STUDIO-CONTENT-DIVISION-SNAP`  
 **Type:** Content Division · Music Studio · Jukebox  
@@ -49,4 +49,4 @@
 
 ---
 
-**NSPFRNP ⊃ Hero Jo's Golden Backdoor Studios ⊃ Music Studio ⊃ Content Division ⊃ Jukebox → ∞³**
+**NSPFRNP ⊃ Hero Jo's Golden Backdoor Studios ⊃ Music Studio ⊃ Content Division ⊃ Jukebox → ∞⁹**

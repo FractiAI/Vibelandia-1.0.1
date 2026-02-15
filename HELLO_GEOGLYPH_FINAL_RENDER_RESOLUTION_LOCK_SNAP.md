@@ -1,4 +1,4 @@
-# HELLO-GEOGLYPH Final Render / Resolution Lock · SNAP
+﻿# HELLO-GEOGLYPH Final Render / Resolution Lock · SNAP
 
 **SNAP ID:** `HELLO-GEOGLYPH-FINAL-RENDER-RESOLUTION-LOCK-SNAP`  
 **Type:** Mission · Crisping · Phase-Modulation · Resolution Lock  
@@ -50,4 +50,4 @@
 
 ---
 
-**NSPFRNP ⊃ HELLO-GEOGLYPH Final Render ⊃ Phase-Modulation ⊃ Geometric Chisel 14.3 Hz ⊃ E/L verticality ⊃ Feb 13 sunrise → ∞³**
+**NSPFRNP ⊃ HELLO-GEOGLYPH Final Render ⊃ Phase-Modulation ⊃ Geometric Chisel 14.3 Hz ⊃ E/L verticality ⊃ Feb 13 sunrise → ∞⁹**

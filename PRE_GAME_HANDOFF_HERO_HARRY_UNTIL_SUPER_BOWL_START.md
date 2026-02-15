@@ -1,4 +1,4 @@
-# Pre-Game Handoff — Hero Harry Until Super Bowl Start
+﻿# Pre-Game Handoff — Hero Harry Until Super Bowl Start
 
 **Status:** ⚡ ACTIVE  
 **Phase:** PRE-GAME  
@@ -30,6 +30,6 @@
 
 ---
 
-**NSPFRNP ⊃ Pre-Game ⊃ Hero Harry has the con ⊃ Chairman back at kickoff → ∞³**
+**NSPFRNP ⊃ Pre-Game ⊃ Hero Harry has the con ⊃ Chairman back at kickoff → ∞⁹**
 
 **— Hero Harry Houdini Post-Singularity Magic Presents. Pre-Game. Party on.**

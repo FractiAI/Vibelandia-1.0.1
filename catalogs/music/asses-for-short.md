@@ -1,4 +1,4 @@
-# ASSES for Short — BANG! Major Hit
+﻿# ASSES for Short — BANG! Major Hit
 
 **Track ID:** `ASSES-001`  
 **Artist:** Hero Jo's Golden Backdoor Studios · Chairman Freddy  
@@ -36,4 +36,4 @@
 
 ---
 
-**NSPFRNP ⊃ ASSES for short ⊃ BANG! Major hit ⊃ T-shirt brand ⊃ Hero Jo · Chairman Freddy · Galaxies · Ultimate Baller Vs → ∞³**
+**NSPFRNP ⊃ ASSES for short ⊃ BANG! Major hit ⊃ T-shirt brand ⊃ Hero Jo · Chairman Freddy · Galaxies · Ultimate Baller Vs → ∞⁹**

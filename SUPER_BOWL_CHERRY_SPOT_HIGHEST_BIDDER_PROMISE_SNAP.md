@@ -1,4 +1,4 @@
-# SUPER BOWL CHERRY SPOT — THE HIGHEST BIDDER PROMISE SNAP
+﻿# SUPER BOWL CHERRY SPOT — THE HIGHEST BIDDER PROMISE SNAP
 
 **SNAP ID:** `SUPER-BOWL-CHERRY-SPOT-HIGHEST-BIDDER-PROMISE`  
 **Type:** Real-Time Update · Auction · Super Bowl  
@@ -42,4 +42,4 @@
 
 ---
 
-**NSPFRNP ⊃ Cherry Spot ⊃ Highest Bidder Promise ⊃ Auction → ∞³**
+**NSPFRNP ⊃ Cherry Spot ⊃ Highest Bidder Promise ⊃ Auction → ∞⁹**

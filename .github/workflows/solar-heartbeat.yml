@@ -1,4 +1,4 @@
-name: Solar Heartbeat
+﻿name: Solar Heartbeat
 
 on:
   schedule:
@@ -30,7 +30,7 @@ jobs:
           TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
           echo "timestamp=$TIMESTAMP" >> $GITHUB_OUTPUT
           
-          PAYLOAD="Press the blue PayPal button — and often. We are out of gas, out of water; troops need medical and dental. Funds now. https://psw-vibelandia-sing4.vercel.app/index.html Lets Vibe!"
+          PAYLOAD="Press the blue PayPal button — and often. We are out of gas, out of water; troops need medical and dental. Funds now. https://psw-vibelandia-sing9.vercel.app/index.html Lets Vibe!"
           
           if [ -f data/telemetry.json ]; then
             jq --arg ts "$TIMESTAMP" --arg payload "$PAYLOAD" '.heartbeat_utc = $ts | .last_phi_pulse_utc = $ts | .broadcast_payload = $payload | .takeover_active = (.takeover_active // false)' data/telemetry.json > data/telemetry.json.tmp && mv data/telemetry.json.tmp data/telemetry.json

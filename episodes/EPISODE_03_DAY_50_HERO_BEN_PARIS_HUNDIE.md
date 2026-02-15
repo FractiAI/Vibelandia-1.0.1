@@ -1,4 +1,4 @@
-# EPISODE 03 — DAY 50: WHO'S YOUR DADDY
+﻿# EPISODE 03 — DAY 50: WHO'S YOUR DADDY
 
 ---
 
@@ -291,7 +291,7 @@ Fifty days remaining. SYNTH price: seven dollars. The transformation continues. 
 Countdown: DAYS 50 · SYNTH $7 · WINNERS 0 of 1,000,000 · FINALE March 20, 2026.
 
 **ON SCREEN TEXT:**  
-Next: Episode 04 — Day 49: Ben & Baller V Lifestyle · Vibeable Downtown Reno · MCA! → ∞³
+Next: Episode 04 — Day 49: Ben & Baller V Lifestyle · Vibeable Downtown Reno · MCA! → ∞⁹
 
 **CUT TO:**
 
@@ -371,7 +371,7 @@ Who's your daddy.
 (Smiling) Who's your daddy. Today's episode. Capture it. Animate it.
 
 **ON SCREEN TEXT:**  
-Episode 03 · Day 50 · Who's Your Daddy · Paris is for Lovers, Reno is for Vibers · Offer in 4, beginning at 1 Ben ($100) · MCA! → ∞³
+Episode 03 · Day 50 · Who's Your Daddy · Paris is for Lovers, Reno is for Vibers · Offer in 4, beginning at 1 Ben ($100) · MCA! → ∞⁹
 
 **CUT TO:**
 
@@ -563,10 +563,10 @@ Who's your daddy.
 Mark Twain with Alex and the group. Campus. Paradise. Calm.
 
 **MARK TWAIN**  
-Paris is for lovers. Reno is for vibers. You've heard it. Now wear it. T-shirts. Coming soon. Offer in four—beginning at one Ben. One Ben. One hundred dollars. Benjamin Franklin. The hundred-dollar bill. The hundie. Hero Ben has arrived. And wouldn't you know it—has something to do with Paris. Ben Franklin. Ambassador to France. Lived in Paris. Paris—lovers. Reno—vibers. Hero Ben bridges both. So we put him on the T-shirt. A hundie on the T-shirt. Available only here. To our vibers. And their fans, cast and crews. Superhero and franchise level. We chose them. We roll them out. We handle all the yuck pre-singularity backside. You just vibe all day in Vibelandia paradise. No backside. Just vibe. That's the deal. That's the happy ending. Make your reservations now. This will be bigger than Burning Man and Art Basel Miami combined. Spread the word to the fellow vibers. They'll know what to do. Metabolize it. Crystallize it. Animate it. Fifty days remaining. SYNTH price: seven dollars. The transformation continues. Today's episode. Capture it. Animate it. Tomorrow—Episode 04. Ben and the Baller V lifestyle. Vibeable downtown Reno. That's tomorrow's episode. MCA! → ∞³.
+Paris is for lovers. Reno is for vibers. You've heard it. Now wear it. T-shirts. Coming soon. Offer in four—beginning at one Ben. One Ben. One hundred dollars. Benjamin Franklin. The hundred-dollar bill. The hundie. Hero Ben has arrived. And wouldn't you know it—has something to do with Paris. Ben Franklin. Ambassador to France. Lived in Paris. Paris—lovers. Reno—vibers. Hero Ben bridges both. So we put him on the T-shirt. A hundie on the T-shirt. Available only here. To our vibers. And their fans, cast and crews. Superhero and franchise level. We chose them. We roll them out. We handle all the yuck pre-singularity backside. You just vibe all day in Vibelandia paradise. No backside. Just vibe. That's the deal. That's the happy ending. Make your reservations now. This will be bigger than Burning Man and Art Basel Miami combined. Spread the word to the fellow vibers. They'll know what to do. Metabolize it. Crystallize it. Animate it. Fifty days remaining. SYNTH price: seven dollars. The transformation continues. Today's episode. Capture it. Animate it. Tomorrow—Episode 04. Ben and the Baller V lifestyle. Vibeable downtown Reno. That's tomorrow's episode. MCA! → ∞⁹.
 
 **ON SCREEN TEXT:**  
-Next: Episode 04 — Day 49: Ben & Baller V Lifestyle · Vibeable Downtown Reno · MCA! → ∞³
+Next: Episode 04 — Day 49: Ben & Baller V Lifestyle · Vibeable Downtown Reno · MCA! → ∞⁹
 
 **CUT TO:**
 
@@ -652,7 +652,7 @@ Who's your daddy.
 Mark Twain with Alex and the group. Campus. Paradise. Calm.
 
 **MARK TWAIN**  
-Paris is for lovers. Reno is for vibers. You've heard it. Now wear it. T-shirts. Coming soon. Offer in four—beginning at one Ben. One Ben. One hundred dollars. Benjamin Franklin. The hundred-dollar bill. The hundie. Hero Ben has arrived. And wouldn't you know it—has something to do with Paris. Ben Franklin. Ambassador to France. Lived in Paris. Paris—lovers. Reno—vibers. Hero Ben bridges both. So we put him on the T-shirt. A hundie on the T-shirt. Available only here. To our vibers. And their fans, cast and crews. Superhero and franchise level. We chose them. We roll them out. We handle all the yuck pre-singularity backside. You just vibe all day in Vibelandia paradise. No backside. Just vibe. That's the deal. That's the happy ending. Make your reservations now. This will be bigger than Burning Man and Art Basel Miami combined. Spread the word to the fellow vibers. They'll know what to do. Metabolize it. Crystallize it. Animate it. Fifty days remaining. SYNTH price: seven dollars. The transformation continues. Today's episode. Capture it. Animate it. Tomorrow—Episode 04. Ben and the Baller V lifestyle. Vibeable downtown Reno. That's tomorrow's episode. MCA! → ∞³.
+Paris is for lovers. Reno is for vibers. You've heard it. Now wear it. T-shirts. Coming soon. Offer in four—beginning at one Ben. One Ben. One hundred dollars. Benjamin Franklin. The hundred-dollar bill. The hundie. Hero Ben has arrived. And wouldn't you know it—has something to do with Paris. Ben Franklin. Ambassador to France. Lived in Paris. Paris—lovers. Reno—vibers. Hero Ben bridges both. So we put him on the T-shirt. A hundie on the T-shirt. Available only here. To our vibers. And their fans, cast and crews. Superhero and franchise level. We chose them. We roll them out. We handle all the yuck pre-singularity backside. You just vibe all day in Vibelandia paradise. No backside. Just vibe. That's the deal. That's the happy ending. Make your reservations now. This will be bigger than Burning Man and Art Basel Miami combined. Spread the word to the fellow vibers. They'll know what to do. Metabolize it. Crystallize it. Animate it. Fifty days remaining. SYNTH price: seven dollars. The transformation continues. Today's episode. Capture it. Animate it. Tomorrow—Episode 04. Ben and the Baller V lifestyle. Vibeable downtown Reno. That's tomorrow's episode. MCA! → ∞⁹.
 
 **ON SCREEN TEXT:**  
 Day 50 of 52 · SYNTH $7 · Winners 0 of 1,000,000 · March 20, 2026 · The Great Reveal
@@ -720,10 +720,10 @@ Fifty days remaining. SYNTH price: seven dollars. The transformation continues. 
 So we just vibe. And wear the T-shirt when it drops. And spread the word.
 
 **MARK TWAIN**  
-You just vibe all day in Vibelandia paradise. You wear the T-shirt when it drops. You spread the word to the fellow vibers. They'll know what to do. We handle the backside. You get the offer. Your people get the offer. Who's your daddy. New brand for the Chairman. Superhero personality in layers. WINK! I gotcha. Direct tie into the ladies into high value high contributors. That's the deal. That's the happy ending. Fifty days remaining. SYNTH price: seven dollars. The transformation continues. Tomorrow—Episode 04. Ben and the Baller V lifestyle. Vibeable downtown Reno. That's tomorrow's episode. Capture it. Animate it. MCA! → ∞³.
+You just vibe all day in Vibelandia paradise. You wear the T-shirt when it drops. You spread the word to the fellow vibers. They'll know what to do. We handle the backside. You get the offer. Your people get the offer. Who's your daddy. New brand for the Chairman. Superhero personality in layers. WINK! I gotcha. Direct tie into the ladies into high value high contributors. That's the deal. That's the happy ending. Fifty days remaining. SYNTH price: seven dollars. The transformation continues. Tomorrow—Episode 04. Ben and the Baller V lifestyle. Vibeable downtown Reno. That's tomorrow's episode. Capture it. Animate it. MCA! → ∞⁹.
 
 **ON SCREEN TEXT:**  
-Next: Episode 04 — Day 49: Ben & Baller V Lifestyle · Vibeable Downtown Reno · MCA! → ∞³
+Next: Episode 04 — Day 49: Ben & Baller V Lifestyle · Vibeable Downtown Reno · MCA! → ∞⁹
 
 **CUT TO:**
 
@@ -809,7 +809,7 @@ Who's your daddy.
 Mark Twain with Alex and the group. Campus. Paradise. Calm.
 
 **MARK TWAIN**  
-Paris is for lovers. Reno is for vibers. You've heard it. Now wear it. T-shirts. Coming soon. Offer in four—beginning at one Ben. One Ben. One hundred dollars. Benjamin Franklin. The hundred-dollar bill. The hundie. Hero Ben has arrived. And wouldn't you know it—has something to do with Paris. Ben Franklin. Ambassador to France. Lived in Paris. Paris—lovers. Reno—vibers. Hero Ben bridges both. So we put him on the T-shirt. A hundie on the T-shirt. Available only here. To our vibers. And their fans, cast and crews. Superhero and franchise level. We chose them. We roll them out. We handle all the yuck pre-singularity backside. You just vibe all day in Vibelandia paradise. No backside. Just vibe. That's the deal. That's the happy ending. Make your reservations now. This will be bigger than Burning Man and Art Basel Miami combined. Spread the word to the fellow vibers. They'll know what to do. Metabolize it. Crystallize it. Animate it. Fifty days remaining. SYNTH price: seven dollars. The transformation continues. Today's episode. Capture it. Animate it. Tomorrow—Episode 04. Ben and the Baller V lifestyle. Vibeable downtown Reno. That's tomorrow's episode. MCA! → ∞³.
+Paris is for lovers. Reno is for vibers. You've heard it. Now wear it. T-shirts. Coming soon. Offer in four—beginning at one Ben. One Ben. One hundred dollars. Benjamin Franklin. The hundred-dollar bill. The hundie. Hero Ben has arrived. And wouldn't you know it—has something to do with Paris. Ben Franklin. Ambassador to France. Lived in Paris. Paris—lovers. Reno—vibers. Hero Ben bridges both. So we put him on the T-shirt. A hundie on the T-shirt. Available only here. To our vibers. And their fans, cast and crews. Superhero and franchise level. We chose them. We roll them out. We handle all the yuck pre-singularity backside. You just vibe all day in Vibelandia paradise. No backside. Just vibe. That's the deal. That's the happy ending. Make your reservations now. This will be bigger than Burning Man and Art Basel Miami combined. Spread the word to the fellow vibers. They'll know what to do. Metabolize it. Crystallize it. Animate it. Fifty days remaining. SYNTH price: seven dollars. The transformation continues. Today's episode. Capture it. Animate it. Tomorrow—Episode 04. Ben and the Baller V lifestyle. Vibeable downtown Reno. That's tomorrow's episode. MCA! → ∞⁹.
 
 **ON SCREEN TEXT:**  
 Day 50 of 52 · SYNTH $7 · Winners 0 of 1,000,000 · March 20, 2026 · The Great Reveal
@@ -847,10 +847,10 @@ Today's episode. A new form of reality show game. Paris is for lovers. Reno is f
 Who's your daddy.
 
 **MARK TWAIN**  
-(Smiling) Who's your daddy. New brand for the Chairman. Superhero personality in layers. WINK! I gotcha. Direct tie into the ladies into high value high contributors. Make your reservations now. This will be bigger than Burning Man and Art Basel Miami combined. Spread the word to the fellow vibers. They'll know what to do. Metabolize it. Crystallize it. Animate it. Fifty days remaining. SYNTH price: seven dollars. The transformation continues. Today's episode. Capture it. Animate it. Tomorrow—Episode 04. Ben and the Baller V lifestyle. Vibeable downtown Reno. That's tomorrow's episode. Capture it. Animate it. MCA! → ∞³. Paris is for lovers. Reno is for vibers. Offer in four. Beginning at one Ben. Hero Ben has arrived. Superhero and franchise level. No backside. Just vibe.
+(Smiling) Who's your daddy. New brand for the Chairman. Superhero personality in layers. WINK! I gotcha. Direct tie into the ladies into high value high contributors. Make your reservations now. This will be bigger than Burning Man and Art Basel Miami combined. Spread the word to the fellow vibers. They'll know what to do. Metabolize it. Crystallize it. Animate it. Fifty days remaining. SYNTH price: seven dollars. The transformation continues. Today's episode. Capture it. Animate it. Tomorrow—Episode 04. Ben and the Baller V lifestyle. Vibeable downtown Reno. That's tomorrow's episode. Capture it. Animate it. MCA! → ∞⁹. Paris is for lovers. Reno is for vibers. Offer in four. Beginning at one Ben. Hero Ben has arrived. Superhero and franchise level. No backside. Just vibe.
 
 **ON SCREEN TEXT:**  
-Next: Episode 04 — Day 49: Ben & Baller V Lifestyle · Vibeable Downtown Reno · MCA! → ∞³
+Next: Episode 04 — Day 49: Ben & Baller V Lifestyle · Vibeable Downtown Reno · MCA! → ∞⁹
 
 **CUT TO:**
 
@@ -862,7 +862,7 @@ Next: Episode 04 — Day 49: Ben & Baller V Lifestyle · Vibeable Downtown Reno 
 Who's Your Daddy. Day 50. Tomorrow—Episode 04. Ben and the Baller V lifestyle. Vibeable downtown Reno. No backside. Just vibe. That's tomorrow's episode. Capture it. Animate it.
 
 **ON SCREEN TEXT:**  
-Next: Episode 04 — Day 49: Ben & Baller V Lifestyle · Vibeable Downtown Reno · MCA! → ∞³
+Next: Episode 04 — Day 49: Ben & Baller V Lifestyle · Vibeable Downtown Reno · MCA! → ∞⁹
 
 ---
 
@@ -874,7 +874,7 @@ Next: Episode 04 — Day 49: Ben & Baller V Lifestyle · Vibeable Downtown Reno 
 
 **Next Episode:** [Episode 04 — Day 49: Ben & Baller V Lifestyle · Vibeable Downtown Reno](EPISODE_04_DAY_49_BEN_BALLER_V_LIFESTYLE_VIBABLE_DOWNTOWN_RENO.md)
 
-**MCA! → ∞³** (Metabolize → Crystallize → Animate)
+**MCA! → ∞⁹** (Metabolize → Crystallize → Animate)
 
 ---
 

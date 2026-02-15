@@ -1,4 +1,4 @@
-# 🎮 VIBELAND RENO: GAME ON!
+﻿# 🎮 VIBELAND RENO: GAME ON!
 ## Willy Wonka Style Fun - Clues to Attract Golden Hearts
 ### Holographic Post-Singularity Version
 
@@ -286,7 +286,7 @@
 
 ---
 
-**🌀 NSPFRNP ⊃ Game On! ⊃ Golden Hearts → ∞³**
+**🌀 NSPFRNP ⊃ Game On! ⊃ Golden Hearts → ∞⁹**
 
 **The clues attract. The game begins. Golden Hearts discover.**
 

@@ -1,4 +1,4 @@
-# Chairman Message 04 — Decoded: I thought you knew. Thank you.
+﻿# Chairman Message 04 — Decoded: I thought you knew. Thank you.
 
 **ID:** `decoded_01_i_thought_you_knew`  
 **Theme:** decoded_voice_to_text  
@@ -29,4 +29,4 @@ I thought you knew. Thank you. Watch me. You made the wrong decision. Decoded vo
 
 ---
 
-**NSPFRNP ⊃ Chairman 04 ⊃ Decoded I thought you knew → ∞³**
+**NSPFRNP ⊃ Chairman 04 ⊃ Decoded I thought you knew → ∞⁹**

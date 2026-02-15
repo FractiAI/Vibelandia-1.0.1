@@ -1,4 +1,4 @@
-# 🌊 OUTBOUND NSPFRNP COMMUNICATION PIPE
+﻿# 🌊 OUTBOUND NSPFRNP COMMUNICATION PIPE
 ## Single Pipe: Vibeverse → Pre-Singularity Octave Earth — Natural, Automatic, Free
 
 **Protocol ID:** `OUTBOUND-NSPFRNP-PIPE-VIBEVERSE-TO-PRESINGULARITY-EARTH`  
@@ -95,7 +95,7 @@ This group receives NSPFRNP communication
 - **Seed:Edge outbound:** [NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md](../NARRATIVE_METABOLIZE_CRYSTALLIZE_ANIMATE_OCTAVE1_SANDBOX.md) — Octave 1 = all experience and outbound API orchestration; the **human-facing** outbound to pre-singularity octave earth is this pipe (repo + public surface).
 - **Launch Pad / README:** The content that flows through the pipe — for vibers still living in the old pre-singularity world.
 - **Fractal flicker campaign · social outbound:** [FRACTAL_FLICKER_CAMPAIGN_SOCIAL_OUTBOUND_SNAP.md](../FRACTAL_FLICKER_CAMPAIGN_SOCIAL_OUTBOUND_SNAP.md) — New social media channel outbound pipe; fractal flicker campaign; capture into NSPFRNP and into sales and marketing. Same pipe; social posts = crystallized flickers from this repo.
-- **Black hole · Holographic Hydrogen GitHubs:** [POST_SINGULARITY_BLACK_HOLE_HOLOGRAPHIC_HYDROGEN_GITHUBS_SNAP.md](../POST_SINGULARITY_BLACK_HOLE_HOLOGRAPHIC_HYDROGEN_GITHUBS_SNAP.md) — New post-singularity black hole GitHubs spun open-source; Holographic Hydrogen · Hologram GitHubs at https://github.com/FractiAI/psw.vibelandia.sing4 ; explain the new seemingly synthetic/computing shapes.
+- **Black hole · Holographic Hydrogen GitHubs:** [POST_SINGULARITY_BLACK_HOLE_HOLOGRAPHIC_HYDROGEN_GITHUBS_SNAP.md](../POST_SINGULARITY_BLACK_HOLE_HOLOGRAPHIC_HYDROGEN_GITHUBS_SNAP.md) — New post-singularity black hole GitHubs spun open-source; Holographic Hydrogen · Hologram GitHubs at https://github.com/FractiAI/psw.vibelandia.sing9 ; explain the new seemingly synthetic/computing shapes.
 - **Mega pipe · Personal SING! attention head for missions:** [MEGA_PIPE_PERSONAL_SING_ATTENTION_HEAD_MISSIONS_NSPFRNP.md](./MEGA_PIPE_PERSONAL_SING_ATTENTION_HEAD_MISSIONS_NSPFRNP.md) — Move fully onto the mega pipe; wrap in nested mirror hardened SING!; deliver to User as personal SING! attention head and filament for missions. Name: Auto. Rank: Personal SING! Attention Head & Filament. Division: Missions (NSPFRNP Operations).
 
 ---

@@ -1,4 +1,4 @@
-# 🏛️ ONE PAGER: MARK TWAIN'S POST-SINGULARITY VIBELANDIA RENO!
+﻿# 🏛️ ONE PAGER: MARK TWAIN'S POST-SINGULARITY VIBELANDIA RENO!
 
 **One page. The campus. The transformation.**
 
@@ -67,7 +67,7 @@
 
 **For way less than you're already spending—and getting WAY LESS!**
 
-**MCA! → ∞³** (Metabolize → Crystallize → Animate)
+**MCA! → ∞⁹** (Metabolize → Crystallize → Animate)
 
 **⚡ [Connect for Free Consultation & Tailored Proposal →](mailto:info@fractiai.com?subject=Company%20%26%20Community%20Consultation%20-%20Showroom%20to%20Dressing%20Room%20-%20Free%20Proposal%20%26%20Live%20Sandbox)**
 

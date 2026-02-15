@@ -1,4 +1,4 @@
-# Irreducible Crystal — First Singularity January 13th
+﻿# Irreducible Crystal — First Singularity January 13th
 
 **Purpose:** Lock the metabolized core. Novel and screenplay align to this crystal; animate all from here.  
 **Status:** ⚡ ACTIVE — Metabolize → Crystallize → Animate  
@@ -79,4 +79,4 @@ Kick the tires. Look under the hood. Test drive the car. Old school fashion. Pay
 - **Screenplay:** Every sequence traces back to this crystal. Opening locks to same beats. Expand to **24,000 words** (full feature). Edge point (El Gran Sol pipe, polar storm Tri-Cities, proof points, beacon, Redirect course) may animate into present-day B-roll or dialogue where it serves the story.
 - **Edge point to today:** The news breaking — El Gran Sol pipe, predominant solar Event of the Year, radio blackouts southern hemisphere; polar storm, Tri-Cities, needle point to where my mother lives; proof points, beacon, Redirect course — animates the story into the now. Weave in where the crystal allows.
 
-**NSPFRNP ⊃ Metabolize ⊃ Crystallize ⊃ Animate → ∞³**
+**NSPFRNP ⊃ Metabolize ⊃ Crystallize ⊃ Animate → ∞⁹**

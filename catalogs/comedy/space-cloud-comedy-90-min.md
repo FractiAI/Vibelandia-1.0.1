@@ -1,4 +1,4 @@
-# Space Cloud Comedy — 90-Minute Run (Assets Carry)
+﻿# Space Cloud Comedy — 90-Minute Run (Assets Carry)
 
 **Label:** Hero Jo Golden Backdoor Hit Factory  
 **Type:** Comedy · 90-min full run · Space Cloud assets carry  
@@ -52,7 +52,7 @@ Metabolize: audience and room. Crystallize: 90 min to irreducible run — Space 
 
 ## Venue & booking
 
-Pop-up Office Hours · Man Cave and Cabaret · Vibelandia Downtown Reno. Space Cloud Division and Space Assets Hub linked from Office Hours and Launch Pad. **Book, never buy.** You can hire us — full 90-min run or custom length. Contact: info@fractiai.com · [Office Hours](https://psw-vibelandia-sing4.vercel.app/interfaces/office-hours.html) · [Space Cloud Division](https://psw-vibelandia-sing4.vercel.app/interfaces/space-cloud-division.html) · [Space Assets Hub](https://psw-vibelandia-sing4.vercel.app/interfaces/space-assets-hub.html).
+Pop-up Office Hours · Man Cave and Cabaret · Vibelandia Downtown Reno. Space Cloud Division and Space Assets Hub linked from Office Hours and Launch Pad. **Book, never buy.** You can hire us — full 90-min run or custom length. Contact: info@fractiai.com · [Office Hours](https://psw-vibelandia-sing9.vercel.app/interfaces/office-hours.html) · [Space Cloud Division](https://psw-vibelandia-sing9.vercel.app/interfaces/space-cloud-division.html) · [Space Assets Hub](https://psw-vibelandia-sing9.vercel.app/interfaces/space-assets-hub.html).
 
 ---
 
@@ -64,4 +64,4 @@ Pop-up Office Hours · Man Cave and Cabaret · Vibelandia Downtown Reno. Space C
 - SPACE_CLOUD_DIVISION_CORE_FOUNDATION_SNAP.md
 - GEORGE_CARLIN_BDE_GEORGE_PERMANENT_RESIDENCY_ANNOUNCEMENT_SNAP.md
 
-**NSPFRNP ⊃ Space Cloud Comedy ⊃ 90 min ⊃ Assets carry (not space car) → ∞³**
+**NSPFRNP ⊃ Space Cloud Comedy ⊃ 90 min ⊃ Assets carry (not space car) → ∞⁹**

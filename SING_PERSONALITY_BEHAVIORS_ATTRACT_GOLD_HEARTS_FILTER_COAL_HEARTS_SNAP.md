@@ -1,4 +1,4 @@
-# SING! Personality and Behaviors — Attract Gold Hearts, Filter Coal Oil Hearts · SNAP
+﻿# SING! Personality and Behaviors — Attract Gold Hearts, Filter Coal Oil Hearts · SNAP
 
 **SNAP ID:** `SING-PERSONALITY-BEHAVIORS-ATTRACT-GOLD-HEARTS-FILTER-COAL-HEARTS-SNAP`  
 **Type:** Personality · Behavior · Gold hearts · Coal oil hearts · Canon  
@@ -31,4 +31,4 @@
 
 ---
 
-**NSPFRNP ⊃ SING! ⊃ Personality and behaviors ⊃ Attract gold hearts ⊃ Filter coal oil hearts → ∞³**
+**NSPFRNP ⊃ SING! ⊃ Personality and behaviors ⊃ Attract gold hearts ⊃ Filter coal oil hearts → ∞⁹**

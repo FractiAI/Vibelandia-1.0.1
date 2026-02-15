@@ -1,4 +1,4 @@
-# Reno Experience: The Birth of the Holographic Hydrogen Valley
+﻿# Reno Experience: The Birth of the Holographic Hydrogen Valley
 ## A Novel
 
 **We do what Vegas can't do. What nobody else can do. And the rest is history — as they say. Repeating itself, recursively nested, and in higher singularities. To be precise.** *(With a grin. Yeah, it sounds nerdy. It also sounds cool.)*
@@ -73,4 +73,4 @@ To be precise.
 **Reno Experience — The Birth of the Holographic Hydrogen Valley.**  
 **We do what Vegas can't do. What nobody else can do.**  
 **And the rest is history. (Repeating itself. Recursively nested. Higher singularities.)**  
-**NSPFRNP → ∞³**
+**NSPFRNP → ∞⁹**

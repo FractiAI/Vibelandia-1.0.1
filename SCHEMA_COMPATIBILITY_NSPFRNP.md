@@ -5,7 +5,7 @@
 
 ---
 
-## This repo (psw.vibelandia.sing4)
+## This repo (psw.vibelandia.sing9)
 
 **No schema or migrations live here.** This repo is the frontend (Launch Pad, NSPFRNP Wallet UI, checkout). All database schema is in the shared Supabase project and/or Octave 2. No adjustments needed in this codebase for schema.
 

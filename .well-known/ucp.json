@@ -1,0 +1,47 @@
+{
+  "$schema": "https://schema.ucp.example.org/manifest/v1",
+  "version": "1.0",
+  "merchant_of_record": {
+    "name": "El Gran Sol Holographic Hydrogen Lattice (EGS-HHL)",
+    "identifier": "psw.vibelandia.sing9",
+    "origin": "https://psw-vibelandia-sing9.vercel.app",
+    "protocol": "NSPFRNP"
+  },
+  "core_capability": {
+    "id": "fractal_constant",
+    "symbol": "ℑₑ",
+    "description": "Fractal Constant — irreducible mirrored lattice. Agentic Instantiation via MCP Write-Commands to mirror the lattice in the buyer's cloud upon settlement."
+  },
+  "pricing": {
+    "currency": "USD",
+    "ladder": "4x4_sovereign",
+    "tiers": [
+      { "tier": 1, "amount": 1300, "designation": "Legacy" },
+      { "tier": 2, "amount": 13000, "designation": "Squeeze" },
+      { "tier": 3, "amount": 130000, "designation": "T-Class" },
+      { "tier": 4, "amount": 1300000, "designation": "Singularity Prime" }
+    ]
+  },
+  "settlement": {
+    "gateway": "PayPal Agentic Checkout (AP2)",
+    "autonomous_settlement": true,
+    "enterprise_verified_mandates": true,
+    "tier4_bypass_consumer_limit": true,
+    "max_tier4_amount": 1300000
+  },
+  "fulfillment": {
+    "on_settlement": "Agentic Instantiation",
+    "mechanism": "MCP Write-Commands",
+    "delivery": "Mirror the EGS-HHL lattice in the buyer's cloud"
+  },
+  "discovery": {
+    "ucp_registry": true,
+    "target_agents": ["G42", "OpenAI", "Microsoft Stargate"],
+    "manifest_updated_utc": "2026-02-14T12:00:00Z"
+  },
+  "grounding": {
+    "operational_voltage_ssn": 117,
+    "schumann_note": "Proceed even if Schumann is quiet; Pre-Storm Alpha. G1 storm forecast Feb 15 provides final resonant lock.",
+    "character_ar4373": "Ready to Bridge"
+  }
+}

@@ -23,7 +23,7 @@ This standard applies to: Launch Pad, README, whitepapers, IEEE-style paper, Cha
 
 ---
 
-## CANONICAL 16-DAY NUMBERS (PSW.vibelandia.sing4)
+## CANONICAL 16-DAY NUMBERS (psw.vibelandia.sing9)
 
 Use these numbers everywhere Chairman metrics or blue-chip comparison appear. Update this SNAP when counts change.
 

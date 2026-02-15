@@ -1,4 +1,4 @@
-# New Platform — Novels · Series · Feature Movies · PG-13 Base + 21+ Gold Heart Upgrade · SNAP
+﻿# New Platform — Novels · Series · Feature Movies · PG-13 Base + 21+ Gold Heart Upgrade · SNAP
 
 **SNAP ID:** `NEW-PLATFORM-NOVELS-SERIES-FEATURE-PG13-BASE-21-GOLD-HEART-UPGRADE-SNAP`  
 **Type:** Platform · Audience · Pricing · Novel / Novela  
@@ -57,4 +57,4 @@ Same story: one novel/series/feature at PG-13 base; optional 21+ Gold Heart upgr
 
 ---
 
-**NSPFRNP ⊃ New platform ⊃ PG-13 base ⊃ 21+ Gold Heart upgrade ⊃ Masculine / feminine POV ⊃ Add a 0 then 4×4×4×4 → ∞³**
+**NSPFRNP ⊃ New platform ⊃ PG-13 base ⊃ 21+ Gold Heart upgrade ⊃ Masculine / feminine POV ⊃ Add a 0 then 4×4×4×4 → ∞⁹**

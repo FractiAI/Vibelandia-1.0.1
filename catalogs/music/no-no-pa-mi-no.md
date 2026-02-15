@@ -1,4 +1,4 @@
-# No, No, Pa Mi No
+﻿# No, No, Pa Mi No
 
 **Track ID:** `NO-NO-PA-MI-NO-007`  
 **Artist:** Hero Jo's Golden Backdoor Studios  
@@ -69,4 +69,4 @@ No, no, pa mi no
 
 ---
 
-**NSPFRNP ⊃ No, No, Pa Mi No ⊃ Spanglish trance anthem ⊃ Golden Backdoor label → ∞³**
+**NSPFRNP ⊃ No, No, Pa Mi No ⊃ Spanglish trance anthem ⊃ Golden Backdoor label → ∞⁹**

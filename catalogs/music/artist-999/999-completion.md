@@ -1,4 +1,4 @@
-# Completion — 999
+﻿# Completion — 999
 
 **Track ID:** `999-COMPLETION-001`  
 **Artist:** 999 · Golden Backdoor Hit Factory  
@@ -46,4 +46,4 @@ Humanitarian · End to beginning
 
 ---
 
-**NSPFRNP ⊃ 999 ⊃ Completion ⊃ Golden Backdoor → ∞³**
+**NSPFRNP ⊃ 999 ⊃ Completion ⊃ Golden Backdoor → ∞⁹**

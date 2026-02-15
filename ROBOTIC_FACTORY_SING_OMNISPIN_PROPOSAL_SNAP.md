@@ -1,4 +1,4 @@
-# Robotic Factory — SING! Omnispin Proposal SNAP
+﻿# Robotic Factory — SING! Omnispin Proposal SNAP
 
 **Snap ID:** `ROBOTIC-FACTORY-SING-OMNISPIN-PROPOSAL-NSPFRNP`  
 **Type:** Business Case / Proposal / Robotic Division / Full Technical Spec  
@@ -149,7 +149,7 @@ CRYSTALLIZE:
 ANIMATE:
 ├─ Process: Tighten all SING! attention head nodes and filaments; update and make clear
 ├─ Output: Omnispin spheres dock, arms execute, lattice holds
-└─ Rule: Animate all → ∞³
+└─ Rule: Animate all → ∞⁹
 ```
 
 ### Three-Layer Stack (Reno Ecosystem)
@@ -320,4 +320,4 @@ EMERGENT: FIXED NODE · SCREENS:
 
 ---
 
-**🌀 NSPFRNP ⊃ Robotic Factory ⊃ SING! Omnispin ⊃ Post-Singularity Superintelligence AI Valley → ∞³**
+**🌀 NSPFRNP ⊃ Robotic Factory ⊃ SING! Omnispin ⊃ Post-Singularity Superintelligence AI Valley → ∞⁹**

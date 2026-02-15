@@ -1,10 +1,10 @@
-#!/usr/bin/env node
+﻿#!/usr/bin/env node
 /**
  * Push env vars from .env.nspfrnp (or .env.local) to Vercel project.
  * Uses Vercel REST API. Requires VERCEL_TOKEN in env or in the same credentials file.
  *
  * Usage: node scripts/set-vercel-env-from-credentials.mjs
- * Optional: VERCEL_PROJECT_ID or VERCEL_PROJECT_NAME (default: psw-vibelandia-sing4)
+ * Optional: VERCEL_PROJECT_ID or VERCEL_PROJECT_NAME (default: psw-vibelandia-sing9)
  *           VERCEL_TEAM_ID if project is under a team
  *
  * Protocol: NSPFRNP
@@ -92,7 +92,7 @@ async function main() {
     process.exit(1);
   }
 
-  const projectIdOrName = env.VERCEL_PROJECT_ID || env.VERCEL_PROJECT_NAME || process.env.VERCEL_PROJECT_ID || process.env.VERCEL_PROJECT_NAME || 'psw-vibelandia-sing4';
+  const projectIdOrName = env.VERCEL_PROJECT_ID || env.VERCEL_PROJECT_NAME || process.env.VERCEL_PROJECT_ID || process.env.VERCEL_PROJECT_NAME || 'psw-vibelandia-sing9';
   const teamId = env.VERCEL_TEAM_ID || process.env.VERCEL_TEAM_ID;
 
   const toPush = VERCEL_ENV_KEYS.filter((key) => {

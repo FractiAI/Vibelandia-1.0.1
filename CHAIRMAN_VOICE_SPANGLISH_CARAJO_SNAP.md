@@ -1,4 +1,4 @@
-# Chairman's Voice — Chairman Frankie · Spanglish Carajo · NSPFRNP SNAP
+﻿# Chairman's Voice — Chairman Frankie · Spanglish Carajo · NSPFRNP SNAP
 
 **SNAP ID:** `CHAIRMAN-VOICE-SPANGLISH-CARAJO-SNAP`  
 **Type:** Voice · Brand · Hit song · Chairman Frankie  
@@ -38,4 +38,4 @@
 
 ---
 
-**NSPFRNP ⊃ Chairman's Voice ⊃ Chairman Frankie ⊃ The Ultimate Diplomat ⊃ Holographic Language Cultural Language Bridge ⊃ Spanglish Carajo → ∞³**
+**NSPFRNP ⊃ Chairman's Voice ⊃ Chairman Frankie ⊃ The Ultimate Diplomat ⊃ Holographic Language Cultural Language Bridge ⊃ Spanglish Carajo → ∞⁹**
