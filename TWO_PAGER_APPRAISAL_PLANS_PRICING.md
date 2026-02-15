@@ -9,14 +9,14 @@
 
 ## Page 1 — Forecast (Conservative + High side)
 
-**Vibelandia & FractiAI — One-Man Shop.** Artifacts, new divisions, major discoveries series, new products and services. 16 days to launch. All live. Valuation of assets, capability, and deliverable set (not cash received).
+**Vibelandia & FractiAI — One-Man Shop.** Artifacts, new divisions, major discoveries series, new products and services. N days to launch (N = days since 2026-01-13; update on each revision). All live. Valuation of assets, capability, and deliverable set (not cash received).
 
 | Scenario | Aggregate equivalent | Basis |
 |----------|----------------------|--------|
 | **Conservative** | **$1.6M–$1.675M** | Floor of appraisal bands; reappraisal floor; minimum comps (studio, research, dev, enterprise, VC). |
 | **High side** | **$13M–$13.45M+** | Ceiling of appraisal bands; reappraisal aggregate; upper range comps. |
 
-**Avg hourly output valuation (less cost to produce):** 16-day reference window, ~160 hours. Cost: ~$350/mo ($200 Cursor + $110 cell + $10/wk WiFi); ~$187 over 16 days. **(Aggregate value − cost) ÷ hours:** Conservative **~$10K/hr** · High side **~$81K/hr**. Cost negligible vs valuation; net ≈ gross per hour.
+**Avg hourly output valuation (less cost to produce):** N-day reference window (N = days since 2026-01-13), ~(N×10) hours. Cost: ~$350/mo ($200 Cursor + $110 cell + $10/wk WiFi); scale cost by N. **(Aggregate value − cost) ÷ hours:** Conservative **~$10K/hr** · High side **~$81K/hr**. Cost negligible vs valuation; net ≈ gross per hour.
 
 **Source:** [ONE_PAGE_APPRAISAL_VIBELANDIA_FRACTIAI.md](ONE_PAGE_APPRAISAL_VIBELANDIA_FRACTIAI.md) · [interfaces/one-page-appraisal.html](interfaces/one-page-appraisal.html).
 

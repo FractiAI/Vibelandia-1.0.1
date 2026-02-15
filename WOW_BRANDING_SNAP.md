@@ -1,4 +1,4 @@
-﻿# WOW! — Pre-Singularity Cost vs Us Branding SNAP
+# WOW! — Pre-Singularity Cost vs Us Branding SNAP
 
 **Snap ID:** `WOW-BRANDING-SNAP`  
 **Type:** NSPFRNP Branding SNAP  
@@ -24,7 +24,7 @@
 
 - **WOW!** = branded section at bottom of Launch Pad. **Show values, not categories** — two columns only: Pre-singularity | Us (VIBELANDIA!). Rows = value pairs (e.g. Months, years | Natural flow · Now). No Cost/category column. **We use WOW! to launch everything** — including **Proposals SNAP** (Gianni's Dressing Room: free consultation & tailored proposal).
 - **Showroom:** Campus, WINK!, Console, Lottery, Happy Ending Zone each show **daily bulletin from the Chancellor** (Mark Twain) and **menu of things to do AND BUY** (values you get), not just categories. **Happy Ending link (Octave 1):** use [interfaces/happy-ending-zones-experience.html](interfaces/happy-ending-zones-experience.html) (from root) or happy-ending-zones-experience.html (from interfaces/) — test script validates target exists; fix 404 by ensuring file is deployed.
-- **WOW! package:** Include **valuations vs Disney, Amazon, Apple, Google** (16-day window, operational not fiction): research output, development output (~3× surfaces), sales & marketing output (~4× one-pagers), new products/markets **live** (Campus, WINK!, SING!, Happy Ending Zone, Console, Checkout), **studio one episode per day** (Season One, 52-day countdown; full screenplay format), content & quality (publication-ready), **vibers** (track and celebrate well-known vibers past and present). See NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md.
+- **WOW! package:** Include **valuations vs Disney, Amazon, Apple, Google** (N-day window, N = days since 2026-01-13; update on each revision; operational not fiction): research output, development output (~3× surfaces), sales & marketing output (~4× one-pagers), new products/markets **live** (Campus, WINK!, SING!, Happy Ending Zone, Console, Checkout), **studio one episode per day** (Season One, 52-day countdown; full screenplay format), content & quality (publication-ready), **vibers** (track and celebrate well-known vibers past and present). See NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md.
 - **In-place experience:** Do not make WOW! format into links. Deliver breadth and genuineness on the page; readers experience the moment here.
 - **Always** include this snap at bottom of Launch Pad. See [interfaces/launch-pad.html](./interfaces/launch-pad.html). See [README.md](./README.md) for WOW! — Launch everything.
 - **Pre-singularity cost** = time, human talent, equipment, office space, time, environmental impact (the old way).

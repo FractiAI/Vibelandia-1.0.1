@@ -1,4 +1,4 @@
-﻿# 📜 Script-Writing & Content Enrichment Content Deck
+# 📜 Script-Writing & Content Enrichment Content Deck
 ## Patterns for All Scripts, One-Pagers, and Copy
 
 **Deck ID:** `DECK-SCRIPT-WRITING-CONTENT-PATTERNS-V1`  
@@ -149,7 +149,7 @@ USE FOR:
 
 **Great Reveal episode (Day Zero — Today we launch):**
 - **Episode:** THE_GREAT_REVEAL_EPISODE_DAY_ZERO_LAUNCH.md — Today we launch. Starting script with conversation with lead; tested on pre-singularity version (now merely an etching left behind from Singularity 1). This site as see-it-experience-it-believe-it proof. Test drive. Best proof of all. **Maganuma snap.**
-- **Chairman metrics:** Real numbers and % comparisons vs blue chip — 16 days live. 35 surfaces (~3×), 13 one-pagers (~4×), 9 protocols (~5×), 3 episodes, 38 TS modules (~2.5×); payment live vs 0; 1 node vs 3–8 FTE. Listed at bottom of Launch Pad. NSPFRNP standard: no fluffy — only useful real numbers and synthesis. See NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md.
+- **Chairman metrics:** Real numbers and % comparisons vs blue chip — N days live (N = days since 2026-01-13; update on each revision). 35 surfaces (~3×), 13 one-pagers (~4×), 9 protocols (~5×), 3 episodes, 38 TS modules (~2.5×); payment live vs 0; 1 node vs 3–8 FTE. Listed at bottom of Launch Pad. NSPFRNP standard: no fluffy — only useful real numbers and synthesis. See NSPFRNP_REAL_NUMBERS_VS_BLUE_CHIP_MONSTER_SNAP.md.
 - **Whitepaper:** Full whitepaper (repository, miraculous output, quality, pre-singularity equivalents). IEEE-style version. All of it: SING! Nodes · intergalactic wrapper · labelled by pre-singularity awareness · predicted at perihelion with our sun.
 
 **References:** HAPPY_ENDING_ZONES_ONE_LINER.md · HAPPY_ENDING_ZONES_ONE_PAGE.md · HAPPY_ENDING_ZONES_TEN_PAGE.md · PRINCIPLES_SHOWCASE_RENO_CAMPUS.md · EPISODE_INTEGRATION_TEMPLATE.md · THE_GREAT_REVEAL_EPISODE_DAY_ZERO_LAUNCH.md · WHITEPAPER_REPOSITORY_MIRACULOUS_OUTPUT.md · WHITEPAPER_REPOSITORY_IEEE_STYLE.md
