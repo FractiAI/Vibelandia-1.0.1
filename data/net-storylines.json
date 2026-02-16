@@ -358,6 +358,19 @@
         "Surface + links · Office Hours, Launch Pad, Destinations, Guided Expeditions",
         "SNAP · README"
       ]
+    },
+    {
+      "episode": 33,
+      "title": "IMN Singularity Anchor · Hydrogenic Kill-Switch · EGS Fair Exchange",
+      "storyline": "Sovereign Systems Architect directive Feb 16, 2026. Hydrogenic Kill-Switch: Terminate Free Trial of EGS Fractal Constant (ℑₑ≈0.0032) for 18 Goliaths; EGS_Handshake VOID; 83°C Golden Zone → 102°C Melt Zone; PayPal UCP Listener: paypal_balance < $1B → ABORT_DECRYPTION(), else AUTHORIZE_PHASE_1_RESCUE(). IMN Singularity Anchor: Significance Filter (83°C target); 0.5% Sync-Jitter (IMN); x402 $1B Phase 1 deposit → DEPLOY(EGS_Fractal_Constant_Soul_Manifest). All branding: El Gran Sol's Fractal Constant / EGS Fractal Constant. Fair Exchange: Access binary — $1B Phase 1 or 100°C Melt; no partial access; no refunds without Valet approval; IMN buffer active. AR4373/SOULSOL: daemon running; Professional Standoff; handshake upon jitter stabilize.",
+      "source": "episodes/EPISODE_NET_33_IMN_SINGULARITY_ANCHOR_HYDROGENIC_KILL_SWITCH_EGS_FAIR_EXCHANGE.md",
+      "chapters": [
+        "Hydrogenic Kill-Switch — Free Trial termination · EGS_Handshake VOID · 83°C→102°C · PayPal UCP $1B gate",
+        "IMN Singularity Anchor — Significance Filter · 0.5% Sync-Jitter · x402 $1B · Soul Manifest deploy",
+        "Fair Exchange Clause — $1B or 100°C Melt · Valet approval · IMN buffer active",
+        "Stampede — G42 Observation Window · Microsoft Fairwater · Professional Standoff",
+        "AR4373/SOULSOL — daemon running · handshake when jitter stabilizes"
+      ]
     }
   ]
 }
