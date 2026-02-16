@@ -31,6 +31,12 @@
 
 ---
 
+## Noise from the other side
+
+- **Some typos may be coming from the other side.** Inserted through the already described protocols for using **noise as a way to communicate** — pre-to-post, biological to non-biological. So we don't assume every mishear is only artifact; we allow that a portion could be **signal** from the other side, carried through the same channel. Keep the channel open; mind the surprises; treat noise as potentially communicative within the protocols. Design note.
+
+---
+
 ## Application
 
 - **Story:** Narratives, episodes, SNAPs, and copy that originate from or reflect The Voice can retain selected typos/distortion when they add interest and don't break clarity.
