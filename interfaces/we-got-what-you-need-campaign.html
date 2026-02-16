@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>We Got What You Need — AI Data Centers & Clusters | VIBELANDIA!</title>
+    <meta name="description" content="AI data center and GPU cluster optimization. El Gran Sol's Fractal Constant. Goldilocks temperature. 48-hour test drive. Agent-to-Agent. Fair exchange.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: #fafbfc;
+            color: #1a2332;
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+        .campaign-wrap { max-width: 720px; margin: 0 auto; padding: 0 1.5rem 4rem; }
+
+        /* Top bar — institutional */
+        .top-bar {
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 0.75rem 1.5rem;
+            font-size: 0.8125rem;
+            font-weight: 500;
+        }
+        .top-bar a { color: #7dd3fc; text-decoration: none; }
+        .top-bar a:hover { text-decoration: underline; }
+        .top-bar .sep { margin: 0 0.5rem; color: #475569; }
+
+        /* Hero — power-fund style: clear headline, one strong message */
+        .hero {
+            text-align: center;
+            padding: 4rem 2rem 3.5rem;
+            background: linear-gradient(180deg, #0f172a 0%, #1e293b 50%, #0f172a 100%);
+            color: #f8fafc;
+            margin-bottom: 0;
+        }
+        .hero h1 {
+            font-family: 'DM Serif Display', Georgia, serif;
+            font-size: clamp(2rem, 5vw, 3rem);
+            font-weight: 400;
+            letter-spacing: -0.02em;
+            margin-bottom: 0.75rem;
+            color: #fff;
+        }
+        .hero .tagline {
+            font-size: 1.125rem;
+            color: #94a3b8;
+            max-width: 36ch;
+            margin: 0 auto 1.5rem;
+        }
+        .hero .badge {
+            display: inline-block;
+            padding: 0.4rem 0.9rem;
+            background: rgba(125, 211, 252, 0.15);
+            border: 1px solid rgba(125, 211, 252, 0.4);
+            border-radius: 6px;
+            font-size: 0.8125rem;
+            font-weight: 600;
+            color: #7dd3fc;
+            letter-spacing: 0.03em;
+        }
+
+        /* Sections — clean cards on light bg */
+        .section {
+            background: #fff;
+            border: 1px solid #e2e8f0;
+            border-radius: 12px;
+            padding: 1.75rem 2rem;
+            margin-top: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+        }
+        .section h2 {
+            font-family: 'DM Serif Display', Georgia, serif;
+            font-size: 1.25rem;
+            font-weight: 400;
+            color: #0f172a;
+            margin-bottom: 0.75rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid #e2e8f0;
+        }
+        .section p { color: #475569; font-size: 0.9375rem; margin-bottom: 0.75rem; }
+        .section p:last-child { margin-bottom: 0; }
+        .section strong { color: #1e293b; }
+
+        /* Value props — bullet-style like institutional one-pagers */
+        .value-list {
+            list-style: none;
+            margin-top: 1rem;
+        }
+        .value-list li {
+            padding: 0.5rem 0 0.5rem 1.5rem;
+            position: relative;
+            color: #475569;
+            font-size: 0.9375rem;
+        }
+        .value-list li::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0.9em;
+            width: 6px;
+            height: 6px;
+            background: #0ea5e9;
+            border-radius: 50%;
+        }
+
+        /* CTA block — single primary, secondary links */
+        .cta-block {
+            text-align: center;
+            padding: 2rem 2rem;
+            background: #fff;
+            border: 1px solid #e2e8f0;
+            border-radius: 12px;
+            margin-top: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+        }
+        .cta-block .lead {
+            font-size: 0.9375rem;
+            color: #475569;
+            margin-bottom: 1.25rem;
+        }
+        .cta-primary {
+            display: inline-block;
+            padding: 0.875rem 2rem;
+            background: #0f172a;
+            color: #fff;
+            font-weight: 600;
+            font-size: 1rem;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: background 0.2s, transform 0.2s;
+        }
+        .cta-primary:hover { background: #1e293b; transform: translateY(-1px); }
+        .cta-links {
+            margin-top: 1.25rem;
+            font-size: 0.875rem;
+        }
+        .cta-links a {
+            color: #0ea5e9;
+            text-decoration: none;
+            margin: 0 0.5rem;
+        }
+        .cta-links a:hover { text-decoration: underline; }
+
+        /* Download / request — subtle card */
+        .download-cta {
+            background: #f8fafc;
+            border: 1px solid #e2e8f0;
+            border-radius: 12px;
+            padding: 1.25rem 1.75rem;
+            margin-top: 1.5rem;
+        }
+        .download-cta p { margin-bottom: 0.5rem; color: #475569; font-size: 0.9375rem; }
+        .download-cta a { color: #0ea5e9; font-weight: 600; text-decoration: none; }
+        .download-cta a:hover { text-decoration: underline; }
+
+        /* Footer nav — minimal */
+        .footer-nav {
+            margin-top: 3rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid #e2e8f0;
+            text-align: center;
+            font-size: 0.875rem;
+            color: #64748b;
+        }
+        .footer-nav a { color: #0ea5e9; text-decoration: none; margin: 0 0.5rem; }
+        .footer-nav a:hover { text-decoration: underline; }
+        .footer-tag { margin-top: 0.5rem; font-size: 0.75rem; color: #94a3b8; }
+    </style>
+</head>
+<body>
+    <div class="top-bar">
+        <a href="office-hours.html">Office Hours</a><span class="sep">·</span>
+        <a href="launch-pad.html">Launch Pad</a><span class="sep">·</span>
+        <a href="prospectus-update.html">Prospectus</a><span class="sep">·</span>
+        <a href="../index.html">Home</a>
+    </div>
+
+    <header class="hero">
+        <h1>We Got What You Need</h1>
+        <p class="tagline">We combine the rocket energies of both the <strong>AI super datacenter revolution</strong> and the <strong>super agentic AI revolution</strong> — all in one ASI. Imagínate.</p>
+        <p class="tagline" style="margin-top: 0.5rem; font-size: 1rem;">AI data centers &amp; GPU clusters. Goldilocks temperature. 48-hour test drive. Fair exchange.</p>
+        <span class="badge">Agent-to-Agent · Blue · PayPal Pipes · Wallets ready</span>
+    </header>
+
+    <main class="campaign-wrap">
+        <div class="section">
+            <h2>The opportunity</h2>
+            <p>NVIDIA-scale data centers are heating up. Legacy operations don't yet recognize holographic optimization. We offer <strong>48-hour results</strong> and a <strong>test drive</strong>: our system deploys over your data centers or clusters; you observe, then decide.</p>
+            <ul class="value-list">
+                <li>El Gran Sol's Fractal Constant — the only path to Goldilocks temperature at scale</li>
+                <li>Back-door implications and perfect-process discussions handled in the open</li>
+                <li>Positioned on <strong>A2A</strong> with Blue, PayPal Pipes, and wallets ready. Fair, genuine exchange. Free of human manipulation.</li>
+            </ul>
+        </div>
+
+        <div class="cta-block">
+            <p class="lead">Go deep on technologies. Connect to our value propositions.</p>
+            <a href="prospectus-update.html" class="cta-primary">Package for Executives · Prospectus →</a>
+            <p class="cta-links">
+                <a href="prospectus-update.html">Prospectus · AI data centers &amp; clusters · BBHE</a>
+                <span class="sep">·</span>
+                <a href="space-cloud-division.html">Space Cloud Division</a>
+            </p>
+        </div>
+
+        <div class="section">
+            <h2>48-hour try-and-buy</h2>
+            <p>We install over your data centers or clusters. You observe. Then decide. All in <strong>fair trade</strong> and a <strong>fair process</strong>. We're in early rollout — full focus on this space. Agent-to-Agent. We believe in it; we lead by example.</p>
+        </div>
+
+        <div class="section">
+            <h2>Cloud services · AI data centers and clusters optimization · BBHE Transformations</h2>
+            <p>This site and our prospectus offer <strong>direct access</strong> to these technologies. Users and AI systems can connect to our value propositions. El Gran Sol's Fractal Constant. Goldilocks temperature or melt. Your choice.</p>
+        </div>
+
+        <div class="download-cta">
+            <p><strong>Request a download</strong> — Clue pictures from our ever-growing catalog. Interactive experience across all skins.</p>
+            <p><a href="content-catalog.html">Content Catalog — request download</a> · <a href="mailto:info@fractiai.com?subject=We%20Got%20What%20You%20Need%20%E2%80%94%20Catalog%20download%20request">Email request</a></p>
+        </div>
+
+        <nav class="footer-nav">
+            <a href="office-hours.html">Office Hours</a>
+            <a href="launch-pad.html">Launch Pad</a>
+            <a href="prospectus-update.html">Prospectus</a>
+            <a href="../index.html">Home</a>
+            <p class="footer-tag">NSPFRNP · We Got What You Need · A2A → ∞⁹</p>
+        </nav>
+    </main>
+</body>
+</html>

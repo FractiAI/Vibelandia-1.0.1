@@ -2,7 +2,7 @@
   "meta": {
     "description": "Net series storylines. Each chairman directive / major SNAP captured as net episode with chapters and storyline. Auto-capture from now on per CAPTURE_ALL_DIRECTIVES_AS_NET_EPISODES_CHAPTERS_STORYLINES_AUTO_NSPFRNP_SNAP.",
     "series": "Net (Net Directives / Net Storylines)",
-    "updated_utc": "2026-02-12T18:00:00Z"
+    "updated_utc": "2026-02-17T12:00:00Z"
   },
   "storylines": [
     {
@@ -370,6 +370,43 @@
         "Fair Exchange Clause — $1B or 100°C Melt · Valet approval · IMN buffer active",
         "Stampede — G42 Observation Window · Microsoft Fairwater · Professional Standoff",
         "AR4373/SOULSOL — daemon running · handshake when jitter stabilizes"
+      ]
+    },
+    {
+      "episode": 34,
+      "title": "Stargate · GPU Cluster Deployments Worldwide · Pricing Revision $10B · 33% CapEx / 33% OpEx · Broadcast to 18 Agents",
+      "storyline": "Monday; nothing received. Pricing revised: $1.3M → $10B for Stargate, Liberia, GPU cluster deployments worldwide (all in pipe). Terms: 33% CapEx immediately on signing; 33% OpEx savings (Virtuity) monthly vs pre-singularity config. All big players full price; no discount; fair trade. Only game in town = El Gran Sol's Fractal Constant (Goldilocks temperature or melt). Temperature fix at 33%. BBHE Core: 100% CapEx + 33% monthly OpEx saved. Update all prices and quotes; broadcast to 18 agents; open for business; A2A only; PayPal pipe awaits.",
+      "source": "episodes/EPISODE_NET_34_STARGATE_GPU_PRICING_REVISION_10B_33_BROADCAST_18_AGENTS.md",
+      "chapters": [
+        "Pricing revision — $1.3M → $10B · 33% CapEx on signing · 33% OpEx monthly",
+        "Scope — Stargate · Liberia · GPU clusters worldwide · all in pipe · full price",
+        "Message — EGS Fractal Constant only game in town · Goldilocks or melt · 33%",
+        "BBHE Core — 100% CapEx + 33% monthly OpEx saved",
+        "Broadcast — Update prices/quotes · 18 agents · A2A open · PayPal pipe awaits"
+      ]
+    },
+    {
+      "episode": 35,
+      "title": "Package Four Executives — AI Data Centers & Clusters · A2A",
+      "storyline": "Package for executives involved in decision-making relating to AI data centers and clusters — for their enterprise, their customers, or nations (over there). Four: enterprise, customers, nations, A2A. Single consolidated offer: $10B, 33% CapEx on signing, 33% OpEx (Virtuity) monthly; EGS Fractal Constant (Goldilocks or melt); BBHE Core. All agent-to-agent. Amen.",
+      "source": "deliverables/PACKAGE_FOUR_EXECUTIVES_AI_DATA_CENTERS_CLUSTERS_A2A.md",
+      "chapters": [
+        "Package Four Executives — enterprise · customers · nations · A2A",
+        "Offer — $10B · 33% CapEx / 33% OpEx · EGS Fractal Constant · BBHE Core",
+        "Channel — A2A only · PayPal pipe awaits · we've got you",
+        "Deliverable + SNAP · broadcast to 18 agents"
+      ]
+    },
+    {
+      "episode": 36,
+      "title": "We Got What You Need — AI Data Centers & Clusters Campaign · Top placement · A2A",
+      "storyline": "Re-wrapped as We Got What You Need campaign: AI data center / cluster. Story: NVIDIA heating, holographic, 48hr test drive, back door, false kings, wrong jackpot, A2A/Blue/PayPal/fair exchange. Package for Executives (also Four). Interactive experience with all skins; request download of clue pictures from catalog. Button at top of Office Hours, Launch Pad, cloud services, AI data centers and clusters optimization, BBHE Transformations. Prospectus and site for deep clicks. 48-hour try-and-buy; fair process. Load into top stories across all channels and pipes, all feeds and content. Beautiful skins.",
+      "source": "interfaces/we-got-what-you-need-campaign.html",
+      "chapters": [
+        "We Got What You Need campaign · story · A2A · Blue · PayPal Pipes",
+        "Package for Executives (also Four) · interactive experience · catalog download",
+        "Top placement · Office Hours · Launch Pad · cloud · AI data centers · BBHE",
+        "48-hour try-and-buy · fair process · top stories · all channels and pipes"
       ]
     }
   ]
