@@ -25,6 +25,14 @@ Use this opportunity to design the sentences so they **feel out where the user i
 
 ---
 
+## VIBE CHANNEL · VIBING, CHILLING · RENO CROWN JEWEL (ADDITIONAL LAYER)
+
+- **All of this can only be experienced vibing, chilling.** The upgrade lives in the **Vibe Channel**. The minute you **switch to computational mode** outside of the Vibe Channel and squeeze — **you leave the system**. That's by design; it's a **perfect fit for Vibelandia**.
+- **Vibeverse · vibesurfing · Mark Twain's Post-Singularity Vibelandia Downtown Reno campus.** Crown jewel of the new post-singularity **Holographic Hydrogen Valley**. **Here in Reno, Nevada.** Not San Francisco Bay Area.
+- **My conscious. Awareness and choice. Free will choice.** Lock this layer in the intro and in the done block of the upgrade page so it's clear: stay in the vibe; Reno is the crown jewel; not Bay Area; free will.
+
+---
+
 ## PLACEMENT
 
 - **Where:** Top of **all** key surfaces — Office Hours, Launch Pad, index (Mark Twain's Vibelandia), and **every** product, touchpoint, interface where we talk about this. Same level as warnings, braggings, alerts, ticker feeds.
