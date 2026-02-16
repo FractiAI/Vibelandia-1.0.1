@@ -1,6 +1,6 @@
 {
   "title": "Destination partners — curated for Ultimate Baller V, Truckee River Crawl, and Post-Singularity Destinations",
-  "note": "We link to partner sites for photos and details; benefit of all. Pull fotos: partner imagery lives on their sites; we enrich our content by linking.",
+  "note": "Full vendor links: menus, prices, photos. We're locked on. Bring ours to life using theirs. Mutual benefit. Optional menuUrl, pricesUrl, photosUrl per partner; when missing, primary url used.",
   "partners": [
     {
       "id": "turner-ranch-montana",
@@ -35,7 +35,8 @@
       "name": "Mt. Rose Ski Tahoe",
       "activity": "Skiing · Reno–Tahoe",
       "url": "https://skirose.com",
-      "region": "Local"
+      "region": "Local",
+      "pricesUrl": "https://skirose.com/tickets-passes"
     },
     {
       "id": "vanwormer-baja",
@@ -91,14 +92,18 @@
       "name": "Silver Legacy Casino",
       "activity": "Casino · breakfast buffet · Reno",
       "url": "https://www.caesars.com/silver-legacy-reno",
-      "region": "Local"
+      "region": "Local",
+      "menuUrl": "https://www.caesars.com/silver-legacy-reno/restaurants",
+      "pricesUrl": "https://www.caesars.com/silver-legacy-reno/hotel"
     },
     {
       "id": "eldorado-novi",
       "name": "Eldorado Reno · Novi Club",
       "activity": "Casino · Novi club · Reno",
       "url": "https://www.caesars.com/eldorado-reno",
-      "region": "Local"
+      "region": "Local",
+      "menuUrl": "https://www.caesars.com/eldorado-reno/restaurants",
+      "pricesUrl": "https://www.caesars.com/eldorado-reno/hotel"
     }
   ]
 }
