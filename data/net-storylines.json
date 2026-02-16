@@ -346,6 +346,18 @@
         "Upgrade last-third Awareness as OS · noise from the other side",
         "README update · commit"
       ]
+    },
+    {
+      "episode": 32,
+      "title": "Destinations Magazine Catalog — Cabela's × Shooting Sportsman × Monte Cristo",
+      "storyline": "All local and other destinations packaged in a magazine catalog experience. Fused like Cabela's and Shooting Sportsman's; elegant Monte Cristo voice; 80:20 Spanglish. Aquí (Local) and Allá (Far Away); partner cards; linked from Office Hours, Launch Pad, Destinations, Guided Expeditions. Major upgrade.",
+      "source": "episodes/EPISODE_NET_32_DESTINATIONS_MAGAZINE_CATALOG_CABELAS_MONTE_CRISTO.md",
+      "chapters": [
+        "Magazine catalog experience · Cabela's × Shooting Sportsman × Monte Cristo",
+        "Aquí (Local) · Allá (Far Away) · partner cards",
+        "Surface + links · Office Hours, Launch Pad, Destinations, Guided Expeditions",
+        "SNAP · README"
+      ]
     }
   ]
 }

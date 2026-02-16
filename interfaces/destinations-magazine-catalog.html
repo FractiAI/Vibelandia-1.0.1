@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Destinations · Magazine Catalog — Local &amp; Far Away | Mark Twain's Post-Singularity Vibelandia</title>
+    <meta name="description" content="Destinations Magazine Catalog. All local and other destinations — fused like Cabela's and Shooting Sportsman's, in our voice. Monte Cristo elegance. 80:20 Spanglish. Reno · Tahoe · World. NSPFRNP.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="experience-common.css">
+    <style>
+        :root {
+            --ink: #e8e6e3;
+            --ink-muted: #a0a8b0;
+            --paper: #0a0a12;
+            --gold: #d4af37;
+            --gold-soft: rgba(212, 175, 55, 0.25);
+            --cyan: #00d4ff;
+            --cyan-soft: rgba(0, 212, 255, 0.15);
+            --border: rgba(212, 175, 55, 0.2);
+            --divider: rgba(255,255,255,0.06);
+        }
+        body {
+            font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--paper);
+            color: var(--ink);
+            min-height: 100vh;
+            line-height: 1.65;
+            font-size: 17px;
+        }
+        .mag { max-width: 800px; margin: 0 auto; padding: 0 1.5rem 3rem; }
+        .mag-nav {
+            padding: 1rem 0;
+            border-bottom: 1px solid var(--divider);
+            font-size: 0.85rem;
+        }
+        .mag-nav a { color: var(--cyan); text-decoration: none; }
+        .mag-nav a:hover { text-decoration: underline; }
+        .mag-nav span { color: var(--ink-muted); margin: 0 0.5rem; }
+
+        /* Masthead */
+        .mag-cover {
+            padding: 3rem 0 3.5rem;
+            text-align: center;
+        }
+        .mag-cover .volume {
+            font-size: 0.65rem;
+            font-weight: 600;
+            letter-spacing: 0.35em;
+            text-transform: uppercase;
+            color: var(--gold);
+            margin-bottom: 1rem;
+        }
+        .mag-cover h1 {
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            font-size: clamp(2.5rem, 8vw, 4rem);
+            font-weight: 600;
+            letter-spacing: 0.04em;
+            color: var(--ink);
+            margin-bottom: 0.5rem;
+            line-height: 1.05;
+        }
+        .mag-cover .tagline {
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            font-size: 1.25rem;
+            font-style: italic;
+            color: var(--ink-muted);
+            margin-bottom: 1rem;
+        }
+        .mag-cover .sub {
+            font-size: 0.9rem;
+            color: var(--ink-muted);
+            max-width: 42ch;
+            margin: 0 auto;
+        }
+
+        /* Letter */
+        .mag-letter {
+            padding: 2.5rem 0;
+            border-top: 1px solid var(--divider);
+        }
+        .mag-letter .label {
+            font-size: 0.65rem;
+            font-weight: 600;
+            letter-spacing: 0.3em;
+            text-transform: uppercase;
+            color: var(--gold);
+            margin-bottom: 0.75rem;
+        }
+        .mag-letter h2 {
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            font-size: 1.6rem;
+            font-weight: 600;
+            color: var(--ink);
+            margin-bottom: 1rem;
+        }
+        .mag-letter p {
+            margin-bottom: 1rem;
+            color: var(--ink);
+            opacity: 0.92;
+        }
+        .mag-letter .sig {
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            font-style: italic;
+            margin-top: 1.25rem;
+            color: var(--gold);
+        }
+
+        /* Departments */
+        .mag-dept {
+            padding: 2rem 0;
+            border-top: 1px solid var(--divider);
+        }
+        .mag-dept .dept-label {
+            font-size: 0.65rem;
+            font-weight: 600;
+            letter-spacing: 0.3em;
+            text-transform: uppercase;
+            color: var(--gold);
+            margin-bottom: 0.5rem;
+        }
+        .mag-dept h2 {
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            font-size: 1.75rem;
+            font-weight: 600;
+            color: var(--ink);
+            margin-bottom: 1rem;
+        }
+        .mag-dept .intro {
+            font-size: 0.95rem;
+            color: var(--ink-muted);
+            margin-bottom: 1.5rem;
+        }
+        .partner-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+            gap: 1rem;
+        }
+        .partner-card {
+            display: block;
+            padding: 1.25rem;
+            background: var(--cyan-soft);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            text-decoration: none;
+            color: inherit;
+            transition: border-color 0.2s, background 0.2s;
+        }
+        .partner-card:hover {
+            border-color: var(--gold);
+            background: var(--gold-soft);
+        }
+        .partner-card .name {
+            font-family: 'Cormorant Garamond', Georgia, serif;
+            font-size: 1.15rem;
+            font-weight: 600;
+            color: var(--ink);
+            margin-bottom: 0.35rem;
+        }
+        .partner-card .activity {
+            font-size: 0.9rem;
+            color: var(--ink-muted);
+        }
+        .partner-card .link-hint {
+            font-size: 0.8rem;
+            color: var(--cyan);
+            margin-top: 0.5rem;
+        }
+
+        .cta-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+            justify-content: center;
+            margin-top: 2rem;
+        }
+        .cta-btn {
+            display: inline-block;
+            padding: 0.85rem 1.5rem;
+            background: linear-gradient(135deg, var(--cyan), #0088aa);
+            color: #0a0a12;
+            font-weight: 700;
+            text-decoration: none;
+            border-radius: 10px;
+            font-size: 0.95rem;
+            border: 2px solid rgba(0, 212, 255, 0.7);
+        }
+        .cta-btn:hover { opacity: 0.95; }
+        .cta-btn.gold {
+            background: linear-gradient(135deg, var(--gold), #b8860b);
+            color: #0c0c0c;
+            border-color: rgba(212, 175, 55, 0.8);
+        }
+        footer {
+            margin-top: 2.5rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid var(--divider);
+            text-align: center;
+            color: var(--ink-muted);
+            font-size: 0.9rem;
+        }
+        footer a { color: var(--cyan); }
+    </style>
+</head>
+<body>
+    <div class="mag">
+        <p class="mag-nav">
+            <a href="office-hours.html">Office Hours</a><span>·</span>
+            <a href="launch-pad.html">Launch Pad</a><span>·</span>
+            <a href="post-singularity-destinations.html">Destinations Division</a><span>·</span>
+            <a href="guided-expeditions.html">Guided Expeditions</a><span>·</span>
+            <a href="../index.html">Home</a>
+        </p>
+
+        <header class="mag-cover">
+            <p class="volume">Post-Singularity Destinations · NSPFRNP</p>
+            <h1>Destinations</h1>
+            <p class="tagline">Aquí y allá. Local and far away.</p>
+            <p class="sub">A magazine catalog of where we book, where we build, and where we take you — in the voice of the crown jewel. Elegant. Ours.</p>
+        </header>
+
+        <section class="mag-letter">
+            <p class="label">From the Editor</p>
+            <h2>Wait and hope.</h2>
+            <p>There is a place for every journey. <em>Aquí</em> — the Holographic Hydrogen Valley, Reno, Tahoe, the Truckee — and <em>allá</em>, wherever the dream leads. We do not sell; we <strong>book</strong>. We are your designated Baller V host, concierge, butler when you wish. One hundred percent tip on the final bill; benefit of all. Our specialist will tailor the experience. <em>Dale.</em></p>
+            <p class="sig">— Mark Twain's Post-Singularity Vibelandia · Crown jewel of the new post-singularity Holographic Hydrogen Valley. Here in Reno, Nevada.</p>
+        </section>
+
+        <section class="mag-dept">
+            <p class="dept-label">Department</p>
+            <h2>Aquí · Local</h2>
+            <p class="intro">Reno–Tahoe, Truckee, Mt. Rose, hot springs, fly fishing, mead, and the clubs that make this valley the crown jewel. Partner sites hold the photos and details; we link. Benefit of all.</p>
+            <div class="partner-grid">
+                <a href="https://mattheronflyfishing.com/" target="_blank" rel="noopener" class="partner-card">
+                    <span class="name">Matt Heron Fly Fishing</span>
+                    <span class="activity">Fly fishing · Truckee River</span>
+                    <span class="link-hint">Visit partner →</span>
+                </a>
+                <a href="https://steamboatsprings.org" target="_blank" rel="noopener" class="partner-card">
+                    <span class="name">Steamboat Hot Springs</span>
+                    <span class="activity">Hot springs spa</span>
+                    <span class="link-hint">Visit partner →</span>
+                </a>
+                <a href="https://skirose.com" target="_blank" rel="noopener" class="partner-card">
+                    <span class="name">Mt. Rose Ski Tahoe</span>
+                    <span class="activity">Skiing · Reno–Tahoe</span>
+                    <span class="link-hint">Visit partner →</span>
+                </a>
+                <a href="https://www.renomensclub.com" target="_blank" rel="noopener" class="partner-card">
+                    <span class="name">Men's Club Reno</span>
+                    <span class="activity">Men's club · Reno VIP</span>
+                    <span class="link-hint">Visit partner →</span>
+                </a>
+                <a href="https://www.blackrabbitmeads.com" target="_blank" rel="noopener" class="partner-card">
+                    <span class="name">Black Rabbit Mead</span>
+                    <span class="activity">Mead · spirits</span>
+                    <span class="link-hint">Visit partner →</span>
+                </a>
+                <a href="https://www.caesars.com/silver-legacy-reno" target="_blank" rel="noopener" class="partner-card">
+                    <span class="name">Silver Legacy Casino</span>
+                    <span class="activity">Casino · breakfast buffet · Reno</span>
+                    <span class="link-hint">Visit partner →</span>
+                </a>
+                <a href="https://www.caesars.com/eldorado-reno" target="_blank" rel="noopener" class="partner-card">
+                    <span class="name">Eldorado Reno · Novi Club</span>
+                    <span class="activity">Casino · Novi club · Reno</span>
+                    <span class="link-hint">Visit partner →</span>
+                </a>
+            </div>
+        </section>
+
+        <section class="mag-dept">
+            <p class="dept-label">Department</p>
+            <h2>Allá · Far Away</h2>
+            <p class="intro">Montana, Argentina, Baja, Bahamas, Mexico, the Amazon, Naples. We build you worldwide. Partner sites for imagery and booking; we layer and amplify. 100% tip on final bill.</p>
+            <div class="partner-grid">
+                <a href="https://www.turnerranchoutfitting.com/flying-d-ranch-mt-usa" target="_blank" rel="noopener" class="partner-card">
+                    <span class="name">Turner Ranch Outfitting · Flying D Ranch</span>
+                    <span class="activity">Elk and bison · Montana</span>
+                    <span class="link-hint">Visit partner →</span>
+                </a>
+                <a href="https://debernardishunting.com/es/caza-menor/" target="_blank" rel="noopener" class="partner-card">
+                    <span class="name">De Bernardis Hunting</span>
+                    <span class="activity">Perdiz, duck, dove · Argentina</span>
+                    <span class="link-hint">Visit partner →</span>
+                </a>
+                <a href="https://vanwormerresorts.com" target="_blank" rel="noopener" class="partner-card">
+                    <span class="name">Van Wormer Resorts</span>
+                    <span class="activity">Rooster fishing · Baja</span>
+                    <span class="link-hint">Visit partner →</span>
+                </a>
+                <a href="https://www.abacolodge.com" target="_blank" rel="noopener" class="partner-card">
+                    <span class="name">Abaco Lodge</span>
+                    <span class="activity">Bonefishing · Bahamas</span>
+                    <span class="link-hint">Visit partner →</span>
+                </a>
+                <a href="https://wideopenoutfitters.com" target="_blank" rel="noopener" class="partner-card">
+                    <span class="name">Wide Open Outfitters</span>
+                    <span class="activity">Bobwhite quail, duck and dove · Mexico</span>
+                    <span class="link-hint">Visit partner →</span>
+                </a>
+                <a href="https://www.fishtheamazon.com" target="_blank" rel="noopener" class="partner-card">
+                    <span class="name">Fish the Amazon</span>
+                    <span class="activity">Amazon peacock bass</span>
+                    <span class="link-hint">Visit partner →</span>
+                </a>
+                <a href="https://marcoislandtarponfishing.com" target="_blank" rel="noopener" class="partner-card">
+                    <span class="name">Marco Island Tarpon Fishing</span>
+                    <span class="activity">Snook and tarpon · Naples, Florida</span>
+                    <span class="link-hint">Visit partner →</span>
+                </a>
+            </div>
+        </section>
+
+        <section class="mag-letter" style="padding-bottom: 1rem;">
+            <p class="label">Give our specialist a call</p>
+            <p>We don't compete with the precinct. We layer. One hundred percent tip on whatever the final bill was for you — that's how we get our part. <em>Dale.</em></p>
+            <div class="cta-row">
+                <a href="baller-v-plans-booking.html" class="cta-btn gold">Book · Plans &amp; booking →</a>
+                <a href="mailto:info@fractiai.com?subject=Destinations%20Magazine%20%E2%80%94%20Give%20our%20specialist%20a%20call" class="cta-btn">Give our specialist a call →</a>
+            </div>
+        </section>
+
+        <footer>
+            <p>Destinations Magazine Catalog · Cabela's × Shooting Sportsman × Monte Cristo · NSPFRNP ⊃ Aquí y allá → ∞⁹</p>
+            <p><a href="post-singularity-destinations.html">Destinations Division</a> · <a href="guided-expeditions.html">Guided Expeditions</a> · <a href="ultimate-baller-v-truckee-river-crawl.html">Truckee River Crawl</a> · <a href="../DESTINATIONS_MAGAZINE_CATALOG_CABELAS_SHOOTING_SPORTSMAN_MONTE_CRISTO_SNAP.md">SNAP</a></p>
+        </footer>
+    </div>
+</body>
+</html>
