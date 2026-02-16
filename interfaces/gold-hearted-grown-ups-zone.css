@@ -24,4 +24,9 @@
   border-top: 1px solid rgba(212, 175, 55, 0.4);
   border-bottom: none;
 }
+
+/* Place content below the floating header for full view on iPhone (Upgrade my awareness visible) */
+.gold-hearted-grown-ups-zone-bar.top ~ .container {
+  padding-top: calc(2.75rem + env(safe-area-inset-top, 0px));
+}
 /* Bars are fixed; content may need top/bottom padding if desired */

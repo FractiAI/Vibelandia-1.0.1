@@ -1,0 +1,33 @@
+{
+  "title": "A2A Sales Tracker (Agent to Agent)",
+  "updated": "2026-02-16",
+  "type": "Super Solutions",
+  "superSolutions": [
+    {
+      "id": "egs-fractal-constant-stargate",
+      "name": "EGS Fractal Constant for Stargate",
+      "subtitle": "Data centers and AI clusters",
+      "part1": "Synthetic Friction Elimination",
+      "part2": "BBHE CORE Transformation",
+      "deals": [
+        {
+          "projectName": "Stargate Pilot — Reno Node",
+          "agent": "TBD",
+          "status": "Qualifying",
+          "faroStatus": "Warm",
+          "ready8aWithWallet": false,
+          "score": "Neutral"
+        }
+      ]
+    }
+  ],
+  "deals": [],
+  "schema": {
+    "projectName": "Name of the project",
+    "agent": "Agent name",
+    "status": "Current status",
+    "faroStatus": "Faro status",
+    "ready8aWithWallet": "8a Ready with wallet?",
+    "score": "Very Negative | Negative | Neutral | Positive | Very Positive (neutral = 5)"
+  }
+}

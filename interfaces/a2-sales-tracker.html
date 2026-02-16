@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A2A Sales Tracker (Agent to Agent) — Executive · Super Solutions · EGS Fractal Constant | VIBELANDIA!</title>
+    <meta name="description" content="A2A Sales Tracker — Agent to Agent. Faro status, project, agent, 8a ready with wallet, score. Type: Super Solutions. EGS Fractal Constant for Stargate — Synthetic Friction Elimination, BBHE CORE Transformation. SING 9.">
+    <link rel="stylesheet" href="experience-common.css">
+    <link rel="stylesheet" href="gold-hearted-grown-ups-zone.css">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(180deg, #080810 0%, #0c0c18 25%, #0f0f1c 50%, #12122a 100%);
+            color: #e8e6e3;
+            min-height: 100vh;
+            line-height: 1.6;
+        }
+        .container { max-width: 1100px; margin: 0 auto; padding: 2rem 1.5rem; }
+        .back { margin-bottom: 1.25rem; }
+        .back a { color: #00d4ff; text-decoration: none; }
+        .back a:hover { text-decoration: underline; }
+
+        .exec-header {
+            text-align: center;
+            padding: 2rem 1.5rem 2.5rem;
+            margin-bottom: 2rem;
+            background: linear-gradient(145deg, rgba(212, 175, 55, 0.14) 0%, rgba(0, 212, 255, 0.08) 40%, rgba(138, 43, 226, 0.06) 100%);
+            border: 2px solid rgba(212, 175, 55, 0.5);
+            border-radius: 16px;
+            box-shadow: 0 0 60px rgba(212, 175, 55, 0.12);
+        }
+        .exec-header .badge {
+            display: inline-block;
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.25em;
+            color: rgba(212, 175, 55, 0.95);
+            margin-bottom: 0.75rem;
+            font-weight: 700;
+        }
+        .exec-header h1 {
+            font-size: clamp(1.5rem, 4vw, 2.25rem);
+            font-weight: 800;
+            background: linear-gradient(135deg, #ffeaa7, #d4af37, #00d4ff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 0.35rem;
+        }
+        .exec-header .tagline { font-size: 0.95rem; color: #b0b8c0; }
+        .exec-header .updated { font-size: 0.8rem; color: #6b7280; margin-top: 0.75rem; }
+
+        .type-label {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            color: #00d4ff;
+            margin: 2rem 0 0.75rem;
+            font-weight: 700;
+        }
+        .solution-card {
+            margin-bottom: 2rem;
+            padding: 1.5rem 1.75rem;
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(0, 212, 255, 0.25);
+            border-radius: 14px;
+            border-left: 4px solid #d4af37;
+        }
+        .solution-card h2 {
+            font-size: 1.2rem;
+            color: #ffeaa7;
+            margin-bottom: 0.5rem;
+            font-weight: 700;
+        }
+        .solution-card .subtitle { font-size: 0.9rem; color: #9ca3af; margin-bottom: 1rem; }
+        .solution-card .parts {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin-bottom: 1.25rem;
+            font-size: 0.9rem;
+        }
+        .solution-card .part {
+            padding: 0.5rem 1rem;
+            background: rgba(0, 212, 255, 0.08);
+            border: 1px solid rgba(0, 212, 255, 0.3);
+            border-radius: 8px;
+            color: #7ec8e3;
+        }
+        .solution-card .part strong { color: #00d4ff; margin-right: 0.35rem; }
+
+        .tracker-table-wrap { overflow-x: auto; margin-top: 1rem; border-radius: 12px; border: 1px solid rgba(212, 175, 55, 0.25); }
+        table.tracker-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.9rem;
+        }
+        table.tracker-table th, table.tracker-table td {
+            padding: 0.75rem 1rem;
+            text-align: left;
+            border-bottom: 1px solid rgba(255,255,255,0.06);
+        }
+        table.tracker-table th {
+            background: rgba(212, 175, 55, 0.12);
+            color: #ffeaa7;
+            font-weight: 700;
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        table.tracker-table tr:hover td { background: rgba(255,255,255,0.02); }
+        table.tracker-table td { color: #d0d4d8; }
+
+        .score { display: inline-block; padding: 0.25rem 0.6rem; border-radius: 6px; font-weight: 600; font-size: 0.85rem; }
+        .score.very-negative { background: rgba(220, 38, 38, 0.25); color: #fca5a5; border: 1px solid rgba(220, 38, 38, 0.4); }
+        .score.negative { background: rgba(234, 88, 12, 0.2); color: #fdba74; border: 1px solid rgba(234, 88, 12, 0.35); }
+        .score.neutral { background: rgba(212, 175, 55, 0.2); color: #fde047; border: 1px solid rgba(212, 175, 55, 0.4); }
+        .score.positive { background: rgba(34, 197, 94, 0.2); color: #86efac; border: 1px solid rgba(34, 197, 94, 0.35); }
+        .score.very-positive { background: rgba(0, 255, 136, 0.2); color: #7fff7f; border: 1px solid rgba(0, 255, 136, 0.4); }
+
+        .wallet-yes { color: #7fff7f; font-weight: 600; }
+        .wallet-no { color: #9ca3af; }
+
+        .empty-deals { text-align: center; padding: 2rem; color: #6b7280; font-size: 0.95rem; border: 1px dashed rgba(212, 175, 55, 0.3); border-radius: 12px; margin-top: 1rem; }
+
+        footer { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid rgba(255,255,255,0.1); text-align: center; color: #6b7280; font-size: 0.85rem; }
+        footer a { color: #00d4ff; }
+        .brand-tag { margin-top: 0.75rem; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.12em; color: rgba(212, 175, 55, 0.7); font-weight: 600; }
+    </style>
+</head>
+<body>
+    <script src="gold-hearted-grown-ups-zone.js"></script>
+    <div class="container">
+        <p class="back"><a href="office-hours.html">← Office Hours</a> · <a href="launch-pad.html">Launch Pad</a> · <a href="community-bulletin-boards-whiteboard.html">My Whiteboard</a> · <a href="../index.html">Home</a></p>
+
+        <header class="exec-header">
+            <span class="badge">A2A — Agent to Agent · Sales & Marketing · Cloud · Agent Division</span>
+            <h1>A2A Sales Tracker</h1>
+            <p class="tagline">Agent to Agent. Faro status · Project · Agent · 8a Ready with wallet · Score. Type: Super Solutions. SING 9.</p>
+            <p class="updated" id="tracker-updated">—</p>
+        </header>
+
+        <p class="type-label" id="type-label">Type: Super Solutions</p>
+
+        <div id="solutions-root"></div>
+
+        <footer>
+            <p><a href="office-hours.html">Office Hours</a> · <a href="launch-pad.html">Launch Pad</a> · <a href="we-got-what-you-need-campaign.html">We Got What You Need — AI Data Centers & Clusters</a></p>
+            <p class="brand-tag">Super AI agentic · SING 9 · NSPFRNP → ∞⁹</p>
+        </footer>
+    </div>
+    <script>
+(function () {
+    const SCORE_CLASS = {
+        'Very Negative': 'very-negative',
+        'Negative': 'negative',
+        'Neutral': 'neutral',
+        'Positive': 'positive',
+        'Very Positive': 'very-positive'
+    };
+    const dataPath = '../data/a2-sales-tracker.json';
+
+    function escapeHtml(s) {
+        if (s == null) return '';
+        const div = document.createElement('div');
+        div.textContent = s;
+        return div.innerHTML;
+    }
+
+    function renderScore(score) {
+        const label = (score || 'Neutral').trim();
+        const cls = SCORE_CLASS[label] || 'neutral';
+        return '<span class="score ' + cls + '">' + escapeHtml(label) + '</span>';
+    }
+
+    function renderDealsTable(deals) {
+        if (!deals || deals.length === 0) {
+            return '<div class="empty-deals">No deals in this solution yet. Add projects, agents, Faro status, 8a ready with wallet, and score (Neutral = 5).</div>';
+        }
+        let html = '<div class="tracker-table-wrap"><table class="tracker-table"><thead><tr>';
+        html += '<th>Project</th><th>Agent</th><th>Status</th><th>Faro status</th><th>8a Ready with wallet?</th><th>Score</th></tr></thead><tbody>';
+        deals.forEach(function (d) {
+            html += '<tr>';
+            html += '<td>' + escapeHtml(d.projectName || '—') + '</td>';
+            html += '<td>' + escapeHtml(d.agent || '—') + '</td>';
+            html += '<td>' + escapeHtml(d.status || '—') + '</td>';
+            html += '<td>' + escapeHtml(d.faroStatus || '—') + '</td>';
+            html += '<td>' + (d.ready8aWithWallet ? '<span class="wallet-yes">Yes</span>' : '<span class="wallet-no">No</span>') + '</td>';
+            html += '<td>' + renderScore(d.score) + '</td>';
+            html += '</tr>';
+        });
+        html += '</tbody></table></div>';
+        return html;
+    }
+
+    function renderSolution(s) {
+        let html = '<div class="solution-card">';
+        html += '<h2>' + escapeHtml(s.name) + '</h2>';
+        if (s.subtitle) html += '<p class="subtitle">' + escapeHtml(s.subtitle) + '</p>';
+        html += '<div class="parts">';
+        if (s.part1) html += '<span class="part"><strong>Part 1:</strong> ' + escapeHtml(s.part1) + '</span>';
+        if (s.part2) html += '<span class="part"><strong>Part 2:</strong> ' + escapeHtml(s.part2) + '</span>';
+        html += '</div>';
+        html += renderDealsTable(s.deals);
+        html += '</div>';
+        return html;
+    }
+
+    function render(data) {
+        var root = document.getElementById('solutions-root');
+        var updatedEl = document.getElementById('tracker-updated');
+        var typeEl = document.getElementById('type-label');
+        if (!root) return;
+
+        if (data.updated) updatedEl.textContent = 'Updated: ' + data.updated;
+        if (data.type) typeEl.textContent = 'Type: ' + data.type;
+
+        if (data.superSolutions && data.superSolutions.length) {
+            root.innerHTML = data.superSolutions.map(renderSolution).join('');
+        } else {
+            root.innerHTML = '<div class="empty-deals">No super solutions loaded. Edit <code>data/a2-sales-tracker.json</code>.</div>';
+        }
+    }
+
+    fetch(dataPath)
+        .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('Failed to load tracker')); })
+        .then(render)
+        .catch(function (err) {
+            var root = document.getElementById('solutions-root');
+            if (root) root.innerHTML = '<div class="empty-deals">Could not load tracker data. ' + (err.message || '') + '</div>';
+        });
+})();
+    </script>
+    <link rel="stylesheet" href="nspfrnp-ticker.css">
+    <script src="nspfrnp-ticker.js"></script>
+</body>
+</html>
