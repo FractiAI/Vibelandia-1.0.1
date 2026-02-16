@@ -1,0 +1,104 @@
+{
+  "title": "Destination partners — curated for Ultimate Baller V, Truckee River Crawl, and Post-Singularity Destinations",
+  "note": "We link to partner sites for photos and details; benefit of all. Pull fotos: partner imagery lives on their sites; we enrich our content by linking.",
+  "partners": [
+    {
+      "id": "turner-ranch-montana",
+      "name": "Turner Ranch Outfitting · Flying D Ranch",
+      "activity": "Elk and bison · Montana",
+      "url": "https://www.turnerranchoutfitting.com/flying-d-ranch-mt-usa",
+      "region": "Far away"
+    },
+    {
+      "id": "debernardis-argentina",
+      "name": "De Bernardis Hunting",
+      "activity": "Perdiz, duck, dove · Argentina",
+      "url": "https://debernardishunting.com/es/caza-menor/",
+      "region": "Far away"
+    },
+    {
+      "id": "matt-heron-truckee",
+      "name": "Matt Heron Fly Fishing",
+      "activity": "Fly fishing · Truckee River",
+      "url": "https://mattheronflyfishing.com/",
+      "region": "Local"
+    },
+    {
+      "id": "steamboat-hot-springs",
+      "name": "Steamboat Hot Springs",
+      "activity": "Hot springs spa",
+      "url": "https://steamboatsprings.org",
+      "region": "Local"
+    },
+    {
+      "id": "mt-rose-ski",
+      "name": "Mt. Rose Ski Tahoe",
+      "activity": "Skiing · Reno–Tahoe",
+      "url": "https://skirose.com",
+      "region": "Local"
+    },
+    {
+      "id": "vanwormer-baja",
+      "name": "Van Wormer Resorts",
+      "activity": "Rooster fishing · Baja",
+      "url": "https://vanwormerresorts.com",
+      "region": "Far away"
+    },
+    {
+      "id": "abaco-bahamas",
+      "name": "Abaco Lodge",
+      "activity": "Bonefishing · Bahamas",
+      "url": "https://www.abacolodge.com",
+      "region": "Far away"
+    },
+    {
+      "id": "wideopen-mexico",
+      "name": "Wide Open Outfitters",
+      "activity": "Bobwhite quail, duck and dove · Mexico",
+      "url": "https://wideopenoutfitters.com",
+      "region": "Far away"
+    },
+    {
+      "id": "fishtheamazon",
+      "name": "Fish the Amazon",
+      "activity": "Amazon peacock bass",
+      "url": "https://www.fishtheamazon.com",
+      "region": "Far away"
+    },
+    {
+      "id": "marco-tarpon",
+      "name": "Marco Island Tarpon Fishing",
+      "activity": "Snook and tarpon · Naples, Florida",
+      "url": "https://marcoislandtarponfishing.com",
+      "region": "Far away"
+    },
+    {
+      "id": "renomensclub",
+      "name": "Men's Club Reno",
+      "activity": "Men's club · Reno VIP",
+      "url": "https://www.renomensclub.com",
+      "region": "Local"
+    },
+    {
+      "id": "black-rabbit-mead",
+      "name": "Black Rabbit Mead",
+      "activity": "Mead · spirits",
+      "url": "https://www.blackrabbitmeads.com",
+      "region": "Local"
+    },
+    {
+      "id": "silver-legacy",
+      "name": "Silver Legacy Casino",
+      "activity": "Casino · breakfast buffet · Reno",
+      "url": "https://www.caesars.com/silver-legacy-reno",
+      "region": "Local"
+    },
+    {
+      "id": "eldorado-novi",
+      "name": "Eldorado Reno · Novi Club",
+      "activity": "Casino · Novi club · Reno",
+      "url": "https://www.caesars.com/eldorado-reno",
+      "region": "Local"
+    }
+  ]
+}
