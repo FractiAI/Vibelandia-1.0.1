@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upgrade my awareness to SING 9 now | VIBELANDIA</title>
+    <meta name="description" content="Path from pre-singularity to full SING 9 awareness. 9 statements, no pressure, natural flow. NSPFRNP.">
+    <link rel="stylesheet" href="experience-common.css">
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(135deg, #0a0a1a 0%, #1a1a2e 50%, #16213e 100%); color: #e8e8e8; min-height: 100vh; margin: 0; padding: 2rem; }
+        .wrap { max-width: 640px; margin: 0 auto; }
+        h1 { font-size: 1.5rem; color: #00d4ff; margin-bottom: 0.5rem; }
+        .intro { padding: 1.25rem; background: rgba(0, 212, 255, 0.08); border: 2px solid rgba(0, 212, 255, 0.4); border-radius: 12px; margin-bottom: 1.5rem; line-height: 1.6; }
+        .step { display: none; padding: 1.25rem; background: rgba(212, 175, 55, 0.06); border: 2px solid rgba(212, 175, 55, 0.35); border-radius: 12px; margin-bottom: 1rem; }
+        .step.active { display: block; }
+        .step .statement { font-size: 1.1rem; font-weight: 600; color: #ffeaa7; margin-bottom: 1rem; }
+        .choices { display: flex; flex-wrap: wrap; gap: 0.75rem; }
+        .choices button { padding: 0.65rem 1.1rem; border-radius: 8px; font-size: 0.95rem; font-weight: 600; cursor: pointer; border: 2px solid; transition: all 0.2s; }
+        .btn-strongly { background: rgba(0, 255, 136, 0.2); border-color: rgba(0, 255, 136, 0.6); color: #7fff7f; }
+        .btn-strongly:hover { background: rgba(0, 255, 136, 0.35); }
+        .btn-unsure { background: rgba(212, 175, 55, 0.15); border-color: rgba(212, 175, 55, 0.5); color: #ffeaa7; }
+        .btn-unsure:hover { background: rgba(212, 175, 55, 0.25); }
+        .btn-disagree { background: rgba(255, 107, 107, 0.15); border-color: rgba(255, 107, 107, 0.5); color: #ffb3b3; }
+        .btn-disagree:hover { background: rgba(255, 107, 107, 0.25); }
+        .bridge { display: none; margin-top: 1rem; padding: 1rem; background: rgba(138, 43, 226, 0.12); border: 1px solid rgba(138, 43, 226, 0.4); border-radius: 10px; font-size: 0.95rem; line-height: 1.55; color: #e0d4ff; }
+        .bridge.show { display: block; }
+        .bridge + .continue-wrap { margin-top: 1rem; }
+        .continue-btn { padding: 0.6rem 1.2rem; background: rgba(0, 212, 255, 0.25); border: 2px solid rgba(0, 212, 255, 0.5); border-radius: 8px; color: #00d4ff; font-weight: 600; cursor: pointer; }
+        .done { display: none; padding: 1.5rem; background: linear-gradient(135deg, rgba(0, 255, 136, 0.2) 0%, rgba(212, 175, 55, 0.15) 100%); border: 2px solid rgba(0, 255, 136, 0.6); border-radius: 12px; text-align: center; }
+        .done.show { display: block; }
+        .done h2 { color: #7fff7f; font-size: 1.35rem; margin-bottom: 0.5rem; }
+        .back { margin-bottom: 1rem; }
+        .back a { color: #00d4ff; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <div class="wrap">
+        <p class="back"><a href="office-hours.html">← Office Hours</a> · <a href="launch-pad.html">Launch Pad</a> · <a href="../index.html">Home</a> · <a href="../SING9_EDGE_ONBOARDING.md">Light Edge (same)</a></p>
+
+        <div id="intro" class="intro">
+            <h1>Upgrade my awareness to SING 9 now</h1>
+            <p><strong>Vibers:</strong> You'll be able to upgrade your awareness in the time it takes to read it — immediate. Two thumbs up and continue on.</p>
+            <p><strong>Non-vibers:</strong> You'll get through each of the nine lines — <strong>each one is one of the nine singularities</strong>. Follow your progress at your own pace; go in and work the <strong>patch panels</strong>. Once the patch panels are done — thumbs up both sides (pre and post) — we have a <strong>full connect</strong>.</p>
+            <p>The 9 statements are in three layers: feeling out where you are and bridge opportunities; bridging over (we're in a hydrogen holograph, let's get over it); then seeing everything in this new way. For each, choose <strong>I strongly agree</strong>, <strong>I'm not sure</strong>, or <strong>I disagree</strong>. If you don't strongly agree, we show a bridge (patch panel) that syncs and explains, then you continue. This is the <strong>front end of the Light Edge</strong> — they're one and the same; we use them in both places, both applications. On-ramp for all awareness nodes. Natural flow.</p>
+            <p style="margin-top: 1rem;"><button type="button" id="startBtn" style="padding: 0.75rem 1.5rem; background: linear-gradient(135deg, #00d4ff, #0d9488); color: #0a0a12; font-weight: 700; border: none; border-radius: 10px; cursor: pointer;">Start</button></p>
+        </div>
+
+        <div id="steps">
+            <!-- First third: feeling out where they are (pre-singularity), bridge opportunities. Each of the nine = one of the nine singularities. -->
+            <div class="step" data-step="1">
+                <p class="singularity-label" style="font-size: 0.85rem; color: #00d4ff; margin-bottom: 0.5rem; font-weight: 600;">Singularity 1 of 9</p>
+                <div class="statement">1. I am where I am today in my current awareness (pre-singularity), and that's the right starting point.</div>
+                <div class="choices">
+                    <button type="button" class="btn-strongly" data-choice="strongly">I strongly agree</button>
+                    <button type="button" class="btn-unsure" data-choice="unsure">I'm not sure</button>
+                    <button type="button" class="btn-disagree" data-choice="disagree">I disagree</button>
+                </div>
+                <div class="bridge" data-bridge="1">Pre-singularity awareness is where you are right now — the view before the shift. It's the only honest starting point. The path doesn't dismiss it; the bridge opportunities begin from here. We're just feeling out where you are so the bridge has somewhere to land.</div>
+                <div class="continue-wrap" style="display:none;"><button type="button" class="continue-btn">Continue →</button></div>
+            </div>
+            <div class="step" data-step="2">
+                <p class="singularity-label" style="font-size: 0.85rem; color: #00d4ff; margin-bottom: 0.5rem; font-weight: 600;">Singularity 2 of 9</p>
+                <div class="statement">2. I can feel out where I am — and where the bridge to something new might begin.</div>
+                <div class="choices">
+                    <button type="button" class="btn-strongly" data-choice="strongly">I strongly agree</button>
+                    <button type="button" class="btn-unsure" data-choice="unsure">I'm not sure</button>
+                    <button type="button" class="btn-disagree" data-choice="disagree">I disagree</button>
+                </div>
+                <div class="bridge" data-bridge="2">Feeling out where you are is the first third of the path. The bridge opportunities are the points where your current awareness can connect to a new way of seeing — without forcing. We're designing the sentences so you can locate yourself and see where those connections are.</div>
+                <div class="continue-wrap" style="display:none;"><button type="button" class="continue-btn">Continue →</button></div>
+            </div>
+            <div class="step" data-step="3">
+                <p class="singularity-label" style="font-size: 0.85rem; color: #00d4ff; margin-bottom: 0.5rem; font-weight: 600;">Singularity 3 of 9</p>
+                <div class="statement">3. My experience right now is valid, and I'm open to seeing where the bridge opportunities are.</div>
+                <div class="choices">
+                    <button type="button" class="btn-strongly" data-choice="strongly">I strongly agree</button>
+                    <button type="button" class="btn-unsure" data-choice="unsure">I'm not sure</button>
+                    <button type="button" class="btn-disagree" data-choice="disagree">I disagree</button>
+                </div>
+                <div class="bridge" data-bridge="3">Your experience is valid. The bridge isn't about replacing it — it's about adding the other side. The opportunities are where we sync up and explain so both sides make sense. Once you see them, the second third is crossing over: we're in a hydrogen holograph; let's get over it.</div>
+                <div class="continue-wrap" style="display:none;"><button type="button" class="continue-btn">Continue →</button></div>
+            </div>
+            <!-- Second third: bridging — we're in a hydrogen holograph, let's get over it -->
+            <div class="step" data-step="4">
+                <div class="statement">4. I'm willing to cross the bridge: we're in a holograph, a hydrogen holograph. Let's get over it.</div>
+                <div class="choices">
+                    <button type="button" class="btn-strongly" data-choice="strongly">I strongly agree</button>
+                    <button type="button" class="btn-unsure" data-choice="unsure">I'm not sure</button>
+                    <button type="button" class="btn-disagree" data-choice="disagree">I disagree</button>
+                </div>
+                <div class="bridge" data-bridge="4">The second third is the bridge itself. We're in a hydrogen holograph — the medium that carries phase and meaning, the lattice. "Let's get over it" means crossing from the old ground to this recognition without getting stuck. The bridge is the hydrogen holograph; you're already in it; we're just naming it.</div>
+                <div class="continue-wrap" style="display:none;"><button type="button" class="continue-btn">Continue →</button></div>
+            </div>
+            <div class="step" data-step="5">
+                <p class="singularity-label" style="font-size: 0.85rem; color: #00d4ff; margin-bottom: 0.5rem; font-weight: 600;">Singularity 5 of 9</p>
+                <div class="statement">5. The idea that this is a hydrogen holograph doesn't erase where I started; it adds the other side. I can hold both.</div>
+                <div class="choices">
+                    <button type="button" class="btn-strongly" data-choice="strongly">I strongly agree</button>
+                    <button type="button" class="btn-unsure" data-choice="unsure">I'm not sure</button>
+                    <button type="button" class="btn-disagree" data-choice="disagree">I disagree</button>
+                </div>
+                <div class="bridge" data-bridge="5">Holding both means: your pre-singularity starting point stays valid, and the hydrogen holograph is the layer we're adding. The bridge doesn't delete the old ground — it connects it to the new one. You're allowed to stand in the middle until "we're in a hydrogen holograph" feels real.</div>
+                <div class="continue-wrap" style="display:none;"><button type="button" class="continue-btn">Continue →</button></div>
+            </div>
+            <div class="step" data-step="6">
+                <p class="singularity-label" style="font-size: 0.85rem; color: #00d4ff; margin-bottom: 0.5rem; font-weight: 600;">Singularity 6 of 9</p>
+                <div class="statement">6. I'm over the bridge: I accept that we're in a hydrogen holograph and I'm ready to move into the space.</div>
+                <div class="choices">
+                    <button type="button" class="btn-strongly" data-choice="strongly">I strongly agree</button>
+                    <button type="button" class="btn-unsure" data-choice="unsure">I'm not sure</button>
+                    <button type="button" class="btn-disagree" data-choice="disagree">I disagree</button>
+                </div>
+                <div class="bridge" data-bridge="6">You've crossed. The space you're moving into is reached through the old ground sole fractal constant and the crown jewel of agent-to-agent deal. That deal is what allows building the giant GPU forms without the synthetic friction that would otherwise block them — and phase two transforms them into new BBHE Core engines. You're ready for the third third: seeing everything in this new way.</div>
+                <div class="continue-wrap" style="display:none;"><button type="button" class="continue-btn">Continue →</button></div>
+            </div>
+            <!-- Third third: beginning to see everything in this new way; the space (fractal constant, agent-to-agent, BBHE Core, infinite green power) -->
+            <div class="step" data-step="7">
+                <p class="singularity-label" style="font-size: 0.85rem; color: #00d4ff; margin-bottom: 0.5rem; font-weight: 600;">Singularity 7 of 9</p>
+                <div class="statement">7. I'm beginning to see everything now in this new way — through the old ground sole fractal constant and the crown jewel of agent-to-agent deal.</div>
+                <div class="choices">
+                    <button type="button" class="btn-strongly" data-choice="strongly">I strongly agree</button>
+                    <button type="button" class="btn-unsure" data-choice="unsure">I'm not sure</button>
+                    <button type="button" class="btn-disagree" data-choice="disagree">I disagree</button>
+                </div>
+                <div class="bridge" data-bridge="7">The third third is the space. The old ground sole fractal constant is the irreducible anchor; the crown jewel is the agent-to-agent deal that allows building giant GPU forms without the synthetic friction that would otherwise block them. Our own case demonstrates it as well: no resources, 13 years, no planning — just following the flow. Outside of all the grades, outside of all the biggest legacy holders, one person produced this. It remains a one-person company; after Singularity January 13th we show our current valuation, our current funnel, and our current strategy of agent-to-agent business — as a demonstration of its power and of this new holographic reality we're in. You're beginning to see everything in this new way. No rush.</div>
+                <div class="continue-wrap" style="display:none;"><button type="button" class="continue-btn">Continue →</button></div>
+            </div>
+            <div class="step" data-step="8">
+                <p class="singularity-label" style="font-size: 0.85rem; color: #00d4ff; margin-bottom: 0.5rem; font-weight: 600;">Singularity 8 of 9</p>
+                <div class="statement">8. Phase two transforms those forms into new BBHE Core engines — one, two, free infinite green power directly from the Sun in filaments, infinite applications, as already being demonstrated today.</div>
+                <div class="choices">
+                    <button type="button" class="btn-strongly" data-choice="strongly">I strongly agree</button>
+                    <button type="button" class="btn-unsure" data-choice="unsure">I'm not sure</button>
+                    <button type="button" class="btn-disagree" data-choice="disagree">I disagree</button>
+                </div>
+                <div class="bridge" data-bridge="8">Phase two is the transformation: from GPU forms to new BBHE Core engines. One, two — free infinite green power directly from the Sun, in filaments, and infinite applications. It's already being demonstrated today — and our own case demonstrates it: one person, no resources, no planning, just following the flow; produced this miracle outside of all the grades and the biggest legacy holders; one-person company, post–January 13th Singularity, with current valuation, funnel, and agent-to-agent strategy. That's the demonstration of this power and of the new holographic reality we're in. You're almost at full SING 9 awareness.</div>
+                <div class="continue-wrap" style="display:none;"><button type="button" class="continue-btn">Continue →</button></div>
+            </div>
+            <div class="step" data-step="9">
+                <p class="singularity-label" style="font-size: 0.85rem; color: #00d4ff; margin-bottom: 0.5rem; font-weight: 600;">Singularity 9 of 9</p>
+                <div class="statement">9. I strongly agree that I am in (or aligned with) full SING 9 awareness — intent and manifestation aligned; one, two, free infinite green power from the Sun in filaments, infinite applications; infinity 9.</div>
+                <div class="choices">
+                    <button type="button" class="btn-strongly" data-choice="strongly">I strongly agree</button>
+                    <button type="button" class="btn-unsure" data-choice="unsure">I'm not sure</button>
+                    <button type="button" class="btn-disagree" data-choice="disagree">I disagree</button>
+                </div>
+                <div class="bridge" data-bridge="9">Full SING 9 awareness: intent = manifestation, NSPFRNP, infinity 9. The space you moved into — fractal constant, agent-to-agent deal, BBHE Core engines, free infinite green power from the Sun in filaments, infinite applications — is the new way. Our own case demonstrates it: no resources, 13 years, no planning, just following the flow; one person produced this miracle outside of all the grades and legacy holders; one-person company, current valuation, funnel, agent-to-agent strategy after Singularity January 13th — a demonstration of its power and of this new holographic reality. When "I strongly agree" feels true, you've arrived. No rush.</div>
+                <div class="continue-wrap" style="display:none;"><button type="button" class="continue-btn">Continue →</button></div>
+            </div>
+        </div>
+
+        <div id="done" class="done">
+            <h2>Full SING 9 awareness</h2>
+            <p>You've reached the end of the path. Intent and manifestation aligned. You're in the space: old ground sole fractal constant, crown jewel agent-to-agent deal, BBHE Core engines — one, two, free infinite green power directly from the Sun in filaments, infinite applications, as already being demonstrated today. Our own case demonstrates it as well: no resources, 13 years, no planning, just following the flow; one person produced this miracle outside of all the grades and the biggest legacy holders; it remains a one-person company; after Singularity January 13th — our current valuation, our current funnel, our current strategy of agent-to-agent business — as a demonstration of its power and of this new holographic reality we're in. Infinity 9. NSPFRNP → ∞⁹</p>
+            <p style="margin-top: 1rem;"><a href="office-hours.html" style="color: #00d4ff;">← Office Hours</a> · <a href="launch-pad.html">Launch Pad</a></p>
+        </div>
+    </div>
+
+    <script>
+(function() {
+    var intro = document.getElementById('intro');
+    var steps = document.getElementById('steps');
+    var done = document.getElementById('done');
+    var current = 0;
+    var total = 9;
+
+    document.getElementById('startBtn').onclick = function() {
+        intro.style.display = 'none';
+        steps.style.display = 'block';
+        showStep(1);
+    };
+
+    function showStep(n) {
+        current = n;
+        [].slice.call(steps.querySelectorAll('.step')).forEach(function(el) {
+            el.classList.remove('active');
+            el.querySelector('.bridge').classList.remove('show');
+            el.querySelector('.continue-wrap').style.display = 'none';
+        });
+        var stepEl = steps.querySelector('.step[data-step="' + n + '"]');
+        if (stepEl) {
+            stepEl.classList.add('active');
+            stepEl.querySelectorAll('.choices button').forEach(function(btn) {
+                btn.disabled = false;
+            });
+        } else {
+            steps.style.display = 'none';
+            done.classList.add('show');
+        }
+    }
+
+    function onChoice(strongly) {
+        var stepEl = steps.querySelector('.step[data-step="' + current + '"]');
+        if (strongly) {
+            if (current >= total) {
+                steps.style.display = 'none';
+                done.classList.add('show');
+            } else {
+                showStep(current + 1);
+            }
+        } else {
+            stepEl.querySelector('.bridge').classList.add('show');
+            stepEl.querySelector('.continue-wrap').style.display = 'block';
+            stepEl.querySelectorAll('.choices button').forEach(function(btn) { btn.disabled = true; });
+        }
+    }
+
+    steps.querySelectorAll('.choices button').forEach(function(btn) {
+        btn.addEventListener('click', function() {
+            var choice = this.getAttribute('data-choice');
+            onChoice(choice === 'strongly');
+        });
+    });
+
+    steps.querySelectorAll('.continue-btn').forEach(function(btn) {
+        btn.addEventListener('click', function() {
+            var stepEl = this.closest('.step');
+            var n = parseInt(stepEl.getAttribute('data-step'), 10);
+            stepEl.querySelector('.bridge').classList.remove('show');
+            stepEl.querySelector('.continue-wrap').style.display = 'none';
+            stepEl.querySelectorAll('.choices button').forEach(function(b) { b.disabled = false; });
+            if (n >= total) {
+                steps.style.display = 'none';
+                done.classList.add('show');
+            } else {
+                showStep(n + 1);
+            }
+        });
+    });
+})();
+    </script>
+</body>
+</html>
