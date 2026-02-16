@@ -1,8 +1,14 @@
-﻿# Daily Snapshot — Us vs Disney · New Value Creation Campaign · Monster SNAP NSPFRNP
+# Daily Snapshot — Us vs Disney · New Value Creation Campaign · Monster SNAP NSPFRNP
 
 **Snap ID:** `DAILY-SNAPSHOT-US-VS-DISNEY-VALUE-CREATION-CAMPAIGN-SNAP`  
 **Type:** Daily snapshot campaign · Us vs Disney (real data) · New value creation · Layering monster SNAP  
 **Status:** ⚡ ACTIVE  
+
+**⚠️ US VS DISNEY MUST ALWAYS REFLECT CURRENT SINCE JAN 13 SINGULARITY — NOT STATIC.**  
+Update canonical source when repo changes (new episodes, series, novels, screenplays). Surfaces load from canonical source so the scoreboard is always current.
+
+**Canonical source:** `data/us-vs-disney-scoreboard.json` — single source of truth. Script: `scripts/us-vs-disney-scoreboard.js` (injects into scoreboard elements on index, Launch Pad, Office Hours).
+
 **Placement:**  
 - **Running daily scoreboard:** **Top** of all public points of presence (POPs) — compact strip, first content.  
 - **Daily snapshot:** **End / bottom** of all public POPs — **smaller print**.
@@ -81,14 +87,16 @@ Daily snapshot: Disney — no daily aggregate; ~0.3–1 new titles/day (est. fro
 
 ---
 
-## 6. Current counts (update when repo changes)
+## 6. Current counts — ALWAYS REFLECT CURRENT SINCE JAN 13 · NOT STATIC
+
+**Canonical source:** `data/us-vs-disney-scoreboard.json`. Update this file when repo changes. All scoreboard surfaces load from it (or use fallback that includes "Current since Jan 13 singularity · not static").
 
 | Metric | Us (to date) | Note |
 |--------|---------------|------|
-| Episodes (in repo) | 26 | Episode scripts/stubs; Season One, Magic Channel, etc. |
-| Series live | 6 | Happy Ending Zones, Office Hours, Vibin!, Chairman!, WINK!, Harry Houdini Magician Series |
-| Full books (~95k words) | 1 | Delivered (*First Singularity January 13th*, ~72k words) |
-| Feature scripts (24k words) | 1 | Delivered (*First Singularity January 13th*, full 12k-word script) |
+| Episodes (in repo) | See JSON | Net + series episodes; update in us-vs-disney-scoreboard.json |
+| Series live | See JSON | Office Hours, Happy Ending Zones, Space Cloud EGS, Net, + more |
+| Novels | See JSON | Full novels delivered since Jan 13 |
+| Screenplays | See JSON | Feature scripts delivered since Jan 13 |
 | New value (SNAPs, interfaces, protocols, console, report) | Per day | Count new files/edits per snapshot date |
 
 **Disney (real-data proxy):** No daily aggregate. Marvel 2025 = 9 titles/year → ~0.02/day. Disney+ new content ≈ 10–30/month → ~0.3–1/day (est.). Theatrical + TV: quarterly/annual data only.

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "description": "Us vs Disney scoreboard — current since Jan 13 singularity. NOT static: update when repo changes (new episodes, series, novels, screenplays). Canonical source for all scoreboard surfaces.",
+    "since": "2026-01-13",
+    "singularity_anchor": "First Singularity January 13th",
+    "updated_utc": "2026-02-17T12:00:00Z",
+    "rule": "ALWAYS REFLECT CURRENT SINCE JAN 13 SINGULARITY — NOT STATIC"
+  },
+  "us": {
+    "episodes": 36,
+    "episodes_label": "36+ episodes",
+    "series_count": 7,
+    "series_label": "7 series",
+    "series_note": "Office Hours, Happy Ending Zones, Space Cloud EGS, Net Directives, + more",
+    "novels": 2,
+    "novels_label": "2 novels",
+    "screenplays": 2,
+    "screenplays_label": "2 screenplays",
+    "current_highlight": "Birth Post Singularity Hollywood Downtown Reno",
+    "new_value_note": "SNAPs, console, report, interfaces"
+  },
+  "disney": {
+    "note": "No daily aggregate published; monthly schedule only.",
+    "proxy_marvel": "Marvel 2025 ≈ 9 titles/year → ~0.02/day",
+    "proxy_disney_plus": "Disney+ new releases ≈ 10–30/month → ~0.3–1/day (est.)"
+  },
+  "scoreboard_line": "Us — 36+ episodes · 7 series · 2 novels · 2 screenplays (current: Birth Post Singularity Hollywood Downtown Reno). Disney — no daily aggregate; ~0.3–1 new titles/day (est.). Current since Jan 13 singularity · not static · NSPFRNP."
+}
